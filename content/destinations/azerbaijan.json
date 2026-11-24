@@ -1,0 +1,388 @@
+{
+  "slug": "azerbaijan",
+  "name": {
+    "en": "Azerbaijan",
+    "de": "Aserbaidschan",
+    "fr": "Azerbaïdjan",
+    "ja": "アゼルバイジャン",
+    "es": "Azerbaiyán",
+    "zh": "阿塞拜疆"
+  },
+  "region": {
+    "en": "Caucasus",
+    "de": "Kaukasus",
+    "fr": "Caucase",
+    "ja": "コーカサス",
+    "es": "Cáucaso",
+    "zh": "高加索"
+  },
+  "summary": {
+    "en": "Caspian seafront promenades, UNESCO-listed Icherisheher and the Palace of the Shirvanshahs, Zaha Hadid’s flowing Heydar Aliyev Center, eternal flames on the Absheron Peninsula, and the forested Greater Caucasus peaks of Gabala.",
+    "de": "Promenaden am Kaspischen Meer, die UNESCO-Altstadt Itscheri Scheher und der Palast der Schirwanschahs, Zaha Hadids geschwungenes Heydar-Aliyev-Zentrum, ewige Feuer auf der Halbinsel Abscheron und die bewaldeten Kaukasusgipfel von Qəbələ.",
+    "fr": "Promenades sur la mer Caspienne, la vieille ville UNESCO d’Icherisheher et le palais des Chirvanchahs, les courbes fluides du centre Heydar-Aliyev signé Zaha Hadid, les flammes éternelles d’Abcheron et les sommets boisés du Grand Caucase à Gabala.",
+    "ja": "カスピ海沿いの遊歩道、世界遺産の旧市街イチェリ・シェヘルとシルヴァン・シャー宮殿、ザハ・ハディド設計のヘイダル・アリエフ・センター、アブシェロン半島の「永遠の炎」、そして大コーカサス山脈の緑豊かなガバラ。",
+    "es": "Paseos marítimos junto al Caspio, la Ciudad Vieja de Icherisheher (UNESCO) y el Palacio de los Shirvanshahs, las curvas fluidas del Centro Heydar Aliyev de Zaha Hadid, las llamas eternas de Absherón y las cumbres boscosas del Gran Cáucaso en Gabala.",
+    "zh": "里海滨长廊、联合国教科文组织世界遗产伊切里谢赫尔和希尔万沙赫宫、扎哈·哈迪德设计的海德尔·阿利耶夫中心、阿布歇伦半岛的永恒之火，以及加巴拉森林覆盖的大高加索山峰。"
+  },
+  "bestSeasons": {
+    "en": [
+      "April to June & September to November (pleasant Caspian breezes in Baku and lush green trails in Gabala; winter brings snow sports to Tufandag Mountain Resort)"
+    ],
+    "de": [
+      "April bis Juni & September bis November (angenehme Brise am Kaspischen Meer in Baku und grüne Bergpfade in Qəbələ; der Winter bietet Wintersport am Berg Tufandağ)"
+    ],
+    "fr": [
+      "Avril à juin et septembre à novembre (brise agréable sur la Caspienne à Bakou et sentiers verdoyants à Gabala ; l’hiver ouvre les pistes enneigées de Tufandag)"
+    ],
+    "ja": [
+      "4月〜6月および9月〜11月（バクーの心地よいカスピ海の風と、ガバラの新緑や紅葉が美しい季節。冬はトゥファンダグ山岳リゾートで雪景色も楽しめます）"
+    ],
+    "es": [
+      "Abril a junio y septiembre a noviembre (brisas agradables del Caspio en Bakú y senderos verdes en Gabala; el invierno trae nieve a las cumbres de Tufandag)"
+    ],
+    "zh": [
+      "4月至6月和9月至11月（巴库宜人的里海微风和加巴拉郁郁葱葱的绿色步道；冬季可在图方达格山度假村滑雪）"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "UNESCO-walled Old City (Icherisheher), the 12th-century Maiden Tower, and the limestone Palace of the Shirvanshahs",
+      "Zaha Hadid’s sculptural Heydar Aliyev Center, the Flame Towers, and panoramic views from Highland Park",
+      "Caspian Sea Boulevard (Baku Corniche), Little Venice canals, and the Azerbaijan Carpet Museum",
+      "Absheron Peninsula’s natural gas fires at Yanar Dag (Burning Mountain) and the 17th-century Ateshgah Fire Temple",
+      "Tufandag Mountain cable cars, forested Nohur Lake, and the Seven Beauties (Yeddi Gozel) Waterfall in Gabala"
+    ],
+    "de": [
+      "Die ummauerte UNESCO-Altstadt Itscheri Scheher, der Jungfrauenturm aus dem 12. Jahrhundert und der Kalksteinpalast der Schirwanschahs",
+      "Zaha Hadids skulpturales Heydar-Aliyev-Zentrum, die Flame Towers und der Panoramablick vom Highland Park",
+      "Die Uferpromenade am Kaspischen Meer (Baku Boulevard), die Kanäle von Klein-Venedig und das Aserbaidschanische Teppichmuseum",
+      "Die brennenden Erdgasaustritte von Yanar Dağ („Brennender Berg“) und der Feuertempel Ateschgah aus dem 17. Jahrhundert auf der Halbinsel Abscheron",
+      "Die Seilbahnen am Berg Tufandağ, der bewaldete Nohur-See und der Wasserfall Yeddi Gözəl („Sieben Schönheiten“) in Qəbələ"
+    ],
+    "fr": [
+      "La vieille ville fortifiée d’Icherisheher (UNESCO), la tour de la Vierge du XIIe siècle et le palais des Chirvanchahs",
+      "Le centre Heydar-Aliyev dessiné par Zaha Hadid, les Flame Towers et le panorama depuis Highland Park",
+      "La promenade du boulevard de la Caspienne, les canaux de la Petite Venise et le musée du Tapis d’Azerbaïdjan",
+      "Les feux naturels de gaz à Yanar Dag (« la montagne de feu ») et le temple du feu d’Ateshgah du XVIIe siècle sur la péninsule d’Abcheron",
+      "Les téléphériques de Tufandag, le lac forestier de Nohur et la cascade Yeddi Gozel (« les Sept Beautés ») à Gabala"
+    ],
+    "ja": [
+      "ユネスコ世界遺産の城壁都市イチェリ・シェヘル（旧市街）、12世紀の乙女の塔、シルヴァン・シャー宮殿",
+      "ザハ・ハディド設計の流線型建築ヘイダル・アリエフ・センター、フレイム・タワーズ、ハイランド・パークからの大パノラマ",
+      "カスピ海沿いのバクー・ブルバード（遊歩道）、リトル・ヴェネツィアの運河、アゼルバイジャン絨毯博物館",
+      "アブシェロン半島で天然ガスが燃え続けるヤナル・ダグ（燃える山）と17世紀のゾロアスター教寺院アテシュギャーフ（拝火教寺院）",
+      "ガバラのトゥファンダグ山ロープウェイ、森に囲まれたノフル湖、イェッディ・ギョゼル（七美人）の滝"
+    ],
+    "es": [
+      "La Ciudad Vieja amurallada de Icherisheher (UNESCO), la Torre de la Doncella del siglo XII y el Palacio de los Shirvanshahs",
+      "El escultórico Centro Heydar Aliyev de Zaha Hadid, las Flame Towers y las vistas panorámicas desde Highland Park",
+      "El paseo marítimo del Caspio (Baku Corniche), los canales de la Pequeña Venecia y el Museo de la Alfombra de Azerbaiyán",
+      "Las llamas de gas natural de Yanar Dag (Montaña de Fuego) y el templo del fuego de Ateshgah del siglo XVII en la península de Absherón",
+      "Los teleféricos de montaña de Tufandag, el lago boscoso de Nohur y la cascada Yeddi Gozel (Siete Bellezas) en Gabala"
+    ],
+    "zh": [
+      "联合国教科文组织古城（伊切里谢赫尔）、12世纪的少女塔和石灰岩希尔万沙赫宫",
+      "扎哈·哈迪德设计的雕塑式海德尔·阿利耶夫中心、火焰塔，以及高地公园的全景视野",
+      "里海大道（巴库科尼什）、小威尼斯运河和阿塞拜疆地毯博物馆",
+      "阿布歇伦半岛亚纳达格（燃烧之山）的天然气火焰和17世纪的阿特什加火神庙",
+      "图方达格山缆车、诺胡尔湖森林，以及加巴拉的七美（叶迪戈泽尔）瀑布"
+    ]
+  },
+  "visaNote": {
+    "en": "Most international travellers (including EU, UK, US, Japanese, and Australian passport holders) can apply online for an official ASAN e-Visa (evisa.gov.az), typically issued within 3 working days for a 30-day stay.",
+    "de": "Die meisten internationalen Reisenden (darunter Staatsangehörige der EU, Großbritanniens, der USA, Japans und Australiens) können online das offizielle ASAN-E-Visum (evisa.gov.az) beantragen, das in der Regel innerhalb von 3 Werktagen für 30 Tage ausgestellt wird.",
+    "fr": "La plupart des voyageurs internationaux (dont les ressortissants de l’UE, du Royaume-Uni, des États-Unis, du Japon et d’Australie) peuvent demander en ligne l’e-visa officiel ASAN (evisa.gov.az), délivré sous 3 jours ouvrés pour un séjour de 30 jours.",
+    "ja": "日本、EU、英国、米国、オーストラリアなど多くの国籍の旅行者は、公式のASAN電子ビザ（evisa.gov.az）をオンラインで申請でき、通常3営業日以内に30日間滞在可能なビザが発給されます。",
+    "es": "La mayoría de los viajeros internacionales (incluidos ciudadanos de la UE, Reino Unido, EE. UU., Japón y Australia) pueden solicitar en línea el visado electrónico oficial ASAN (evisa.gov.az), emitido habitualmente en 3 días hábiles para estancias de 30 días.",
+    "zh": "大多数国际旅客（包括欧盟、英国、美国、日本和澳大利亚护照持有人）可在线申请官方ASAN电子签证（evisa.gov.az），通常在3个工作日内签发，可停留30天。"
+  },
+  "heroGradient": [
+    "#0E3A57",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925518/sunday-atlas/q1qnrbokdjpeixirjekn.jpg",
+    "width": 1600,
+    "height": 893,
+    "alt": {
+      "en": "Baku skyline and the Flame Towers illuminated above the Caspian Sea in Azerbaijan",
+      "de": "Die Skyline von Baku und die beleuchteten Flame Towers über dem Kaspischen Meer in Aserbaidschan",
+      "fr": "La skyline de Bakou et les Flame Towers illuminées au-dessus de la mer Caspienne en Azerbaïdjan",
+      "ja": "アゼルバイジャン・カスピ海の上に輝くバクーの街並みとフレイム・タワーズ",
+      "es": "Horizonte de Bakú y las Flame Towers iluminadas sobre el mar Caspio en Azerbaiyán",
+      "zh": "阿塞拜疆巴库天际线和火焰塔在里海上方灯火辉煌"
+    }
+  },
+  "sample": false,
+  "published": true,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/am0h3d8jtewzwzk2u5zq.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "Panoramic view of Baku bay and modern towers from Highland Park",
+        "de": "Panoramablick auf die Bucht von Baku und moderne Türme vom Highland Park",
+        "fr": "Vue panoramique sur la baie de Bakou et ses tours modernes depuis Highland Park",
+        "ja": "ハイランド・パークから望むバクー湾と近代的な高層建築のパノラマ",
+        "es": "Vista panorámica de la bahía de Bakú y sus torres modernas desde Highland Park",
+        "zh": "从高地公园俯瞰巴库湾和现代塔楼的全景"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/ayewl7oqdkwwjxdgr1wp.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      "alt": {
+        "en": "Historic honey-stone walls and alleys of Icherisheher Old City in Baku",
+        "de": "Historische Sandsteinmauern und Gassen der Altstadt Itscheri Scheher in Baku",
+        "fr": "Remparts historiques en pierre blonde et ruelles de la vieille ville d’Icherisheher à Bakou",
+        "ja": "バクー旧市街イチェリ・シェヘルの歴史的な石造りの城壁と路地",
+        "es": "Murallas históricas de piedra y callejuelas de la Ciudad Vieja de Icherisheher en Bakú",
+        "zh": "巴库伊切里谢赫尔老城的历史蜂蜜色石墙和小巷"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/oouclmavzj9yy5qndvj7.jpg",
+        "width": 1600,
+        "height": 776
+      },
+      "alt": {
+        "en": "Contemporary architecture and cultural landmarks in central Baku, Azerbaijan",
+        "de": "Zeitgenössische Architektur und Kulturdenkmäler im Zentrum von Baku, Aserbaidschan",
+        "fr": "Architecture contemporaine et monuments culturels dans le centre de Bakou, Azerbaïdjan",
+        "ja": "アゼルバイジャン・バクー中心部の現代建築と文化的ランドマーク",
+        "es": "Arquitectura contemporánea y monumentos culturales en el centro de Bakú, Azerbaiyán",
+        "zh": "阿塞拜疆巴库市中心的当代建筑和文化地标"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925534/sunday-atlas/anu7rx2uxtiek3sf9iuj.jpg",
+        "width": 1600,
+        "height": 894
+      },
+      "alt": {
+        "en": "Green Caucasus mountain slopes and alpine meadows above Gabala, Azerbaijan",
+        "de": "Grüne Kaukasushänge und Almwiesen oberhalb von Qəbələ, Aserbaidschan",
+        "fr": "Versants verdoyants du Caucase et prairies alpines au-dessus de Gabala, Azerbaïdjan",
+        "ja": "アゼルバイジャン・ガバラを見下ろすコーカサス山脈の緑の斜面と高原",
+        "es": "Verdes laderas del Cáucaso y praderas alpinas sobre Gabala, Azerbaiyán",
+        "zh": "阿塞拜疆加巴拉上方大高加索的绿色高加索山坡和高山草甸"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925533/sunday-atlas/dlyt0xbbf64jxgunqo7b.jpg",
+        "width": 1600,
+        "height": 1069
+      },
+      "alt": {
+        "en": "Forested mountain lake reflecting blue skies in the Greater Caucasus of Azerbaijan",
+        "de": "Bewaldeter Bergsee unter blauem Himmel im Großen Kaukasus Aserbaidschans",
+        "fr": "Lac de montagne boisé reflétant le ciel bleu dans le Grand Caucase en Azerbaïdjan",
+        "ja": "アゼルバイジャンの大コーカサス山脈で青空を映す森の湖",
+        "es": "Lago de montaña rodeado de bosques bajo el cielo azul en el Gran Cáucaso de Azerbaiyán",
+        "zh": "阿塞拜疆大高加索森林山湖倒映蓝天"
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Azerbaijan Private Tours & Baku Day Trips [2027] | From $115 USD",
+      "meta_description": "Compare 3 private Azerbaijan tours from Baku (From $115 USD): 1-day Gobustan rock art, mud volcanoes & Absheron fire tour, plus 4-day & 5-day Gabala packages.",
+      "focus_keyword": "azerbaijan tours",
+      "noindex": false,
+      "keywords": [
+        "azerbaijan tours",
+        "azerbaijan tour packages",
+        "baku day trips",
+        "gobustan mud volcanoes tour",
+        "baku gabala 5 day tour"
+      ]
+    },
+    "de": {
+      "seo_title": "Aserbaidschan Rundreisen & Baku Tagestouren [2027] | Ab $115 USD",
+      "meta_description": "3 private Aserbaidschan-Touren ab Baku (ab $115 USD): Tagestour nach Gobustan, zu den Schlammvulkanen & Ateschgah sowie 4- und 5-tägige Rundreisen mit Gabala.",
+      "focus_keyword": "aserbaidschan rundreise",
+      "noindex": false,
+      "keywords": [
+        "aserbaidschan rundreise",
+        "aserbaidschan reisen",
+        "baku tagestouren",
+        "gobustan schlammvulkane tour",
+        "baku gabala reise"
+      ]
+    },
+    "fr": {
+      "seo_title": "Circuits Azerbaïdjan & Excursions depuis Bakou [2027] | Dès $115 USD",
+      "meta_description": "3 circuits privés en Azerbaïdjan depuis Bakou (dès $115 USD) : excursion d’un jour à Gobustan, volcans de boue et Ateshgah, et circuits de 4 et 5 jours avec Gabala.",
+      "focus_keyword": "circuit azerbaïdjan",
+      "noindex": false,
+      "keywords": [
+        "circuit azerbaïdjan",
+        "voyage azerbaïdjan",
+        "excursion bakou",
+        "gobustan volcans de boue",
+        "bakou gabala circuit"
+      ]
+    },
+    "ja": {
+      "seo_title": "アゼルバイジャン現地ツアー＆バクー日帰り旅行 [2027] | 全3コース $115〜",
+      "meta_description": "バクー発のアゼルバイジャン・プライベートツアー全3コース（$115〜）：ゴブスタン世界遺産・泥火山・アブシェロン拝火教寺院日帰りツアーと、ガバラを含む4〜5日間ツアー。",
+      "focus_keyword": "アゼルバイジャン ツアー",
+      "noindex": false,
+      "keywords": [
+        "アゼルバイジャン ツアー",
+        "バクー 日帰りツアー",
+        "ゴブスタン 泥火山 ツアー",
+        "アゼルバイジャン 観光",
+        "バクー ガバラ ツアー"
+      ]
+    },
+    "es": {
+      "seo_title": "Tours en Azerbaiyán y Excursiones desde Bakú [2027] | Desde $115",
+      "meta_description": "Compare 3 tours privados en Azerbaiyán desde Bakú (desde $115 USD): excursión de 1 día a Gobustán, volcanes de lodo y Ateshgah, y circuitos de 4 y 5 días con Gabala.",
+      "focus_keyword": "tours azerbaiyán",
+      "noindex": false,
+      "keywords": [
+        "tours azerbaiyán",
+        "viajes a azerbaiyán",
+        "excursiones desde bakú",
+        "gobustán volcanes de lodo",
+        "circuito bakú gabala"
+      ]
+    },
+    "zh": {
+      "seo_title": "阿塞拜疆私人旅游与巴库一日游 [2027] | 从 $115 美元起",
+      "meta_description": "对比3个从巴库出发的私人阿塞拜疆旅游（从 $115 美元起）：1天古布斯坦岩画、泥火山与阿布舍伦火神庙之旅，以及4天和5天加巴拉套餐。",
+      "focus_keyword": "阿塞拜疆私人旅游",
+      "keywords": [
+        "阿塞拜疆私人旅游",
+        "巴库一日游",
+        "古布斯坦岩画",
+        "泥火山",
+        "阿布歇伦火之旅",
+        "加巴拉四日游",
+        "加巴拉五日游",
+        "阿塞拜疆旅游团",
+        "巴库旅游套餐",
+        "阿塞拜疆私人包车"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "intro": {
+    "en": "Known for centuries as the Land of Fire, Azerbaijan sits where the Greater Caucasus mountains meet the western shore of the Caspian Sea. In Baku, honey-coloured limestone walls from the 12th century enclose the UNESCO-listed alleys of Icherisheher, the Maiden Tower, and the Palace of the Shirvanshahs, while just beyond the ramparts rise the glass sails of the Flame Towers and the sweeping white curves of Zaha Hadid’s Heydar Aliyev Center.\n\nA short drive onto the Absheron Peninsula reveals why fire has shaped the region’s history: natural gas vents still burn continuously along the sandstone hillside of Yanar Dag, and the pentagonal courtyard of the 17th-century Ateshgah Fire Temple preserves the cells where Zoroastrian and Hindu caravan merchants once worshipped. On our 5-day itinerary, you also head northwest into the forested foothills of Gabala to ride the Tufandag mountain cable cars, walk beside Nohur Lake, and visit the Seven Beauties waterfall.",
+    "de": "Seit Jahrhunderten als „Land des Feuers“ bekannt, liegt Aserbaidschan dort, wo der Große Kaukasus auf das Westufer des Kaspischen Meeres trifft. In Baku umschließen honigfarbene Kalksteinmauern aus dem 12. Jahrhundert die UNESCO-geschützten Gassen der Altstadt Itscheri Scheher, den Jungfrauenturm und den Palast der Schirwanschahs, während direkt dahinter die gläsernen Segel der Flame Towers und die geschwungenen weißen Linien von Zaha Hadids Heydar-Aliyev-Zentrum aufragen.\n\nEine kurze Fahrt auf die Halbinsel Abscheron zeigt, warum das Feuer die Geschichte der Region geprägt hat: Am Sandsteinhang von Yanar Dağ brennen natürliche Erdgasaustritte Tag und Nacht, und der fünfeckige Innenhof des Feuertempels Ateschgah aus dem 17. Jahrhundert bewahrt die Zellen, in denen einst zoroastrische und hinduistische Karawanenhändler beteten. Auf unserer 5-tägigen Reise fahren Sie zudem nordwestwärts in die bewaldeten Ausläufer des Kaukasus nach Qəbələ, schweben mit den Seilbahnen am Tufandağ hinauf und besuchen den Nohur-See sowie den Wasserfall der Sieben Schönheiten.",
+    "fr": "Surnommé depuis des siècles la « Terre de Feu », l’Azerbaïdjan se situe à la rencontre des montagnes du Grand Caucase et de la rive occidentale de la mer Caspienne. À Bakou, les remparts de calcaire blond du XIIe siècle entourent les ruelles classées à l’UNESCO d’Icherisheher, la tour de la Vierge et le palais des Chirvanchahs, tandis qu’au-delà des murailles s’élèvent les voiles de verre des Flame Towers et les courbes blanches du centre Heydar-Aliyev signé Zaha Hadid.\n\nUne courte excursion sur la péninsule d’Abcheron révèle pourquoi le feu a façonné l’histoire du pays : des sources de gaz naturel brûlent en permanence sur la colline de Yanar Dag, et la cour pentagonale du temple du feu d’Ateshgah du XVIIe siècle conserve les cellules où priaient jadis les marchands caravaniers zoroastriens et hindous. Sur notre circuit de 5 jours, vous gagnez également les contreforts boisés de Gabala pour emprunter les téléphériques de Tufandag, longer le lac Nohur et admirer la cascade des Sept Beautés.",
+    "ja": "古来「火の国」として知られるアゼルバイジャンは、大コーカサス山脈がカスピ海の西岸と出会う場所に位置しています。首都バクーでは、12世紀の蜂蜜色の石灰岩の城壁がユネスコ世界遺産の旧市街イチェリ・シェヘル、乙女の塔、シルヴァン・シャー宮殿を取り囲み、そのすぐ外側にはガラス張りのフレイム・タワーズやザハ・ハディド設計の白亜のヘイダル・アリエフ・センターがそびえ立ちます。\n\nアブシェロン半島へ少し足を延ばせば、この地が「火の国」と呼ばれてきた理由を肌で感じられます。ヤナル・ダグの砂岩の斜面では今も天然ガスが絶え間なく燃え続け、17世紀のアテシュギャーフ（拝火教寺院）の五角形の境内には、かつてシルクロードの隊商たちが祈りを捧げた小部屋が残されています。5日間コースではさらに北西のガバラへと向かい、トゥファンダグ山のロープウェイ、森に抱かれたノフル湖、そしてイェッディ・ギョゼル（七美人）の滝を訪ねます。",
+    "es": "Conocido durante siglos como la «Tierra del Fuego», Azerbaiyán se extiende donde las montañas del Gran Cáucaso se encuentran con la costa occidental del mar Caspio. En Bakú, las murallas de piedra caliza color miel del siglo XII custodian las callejuelas de Icherisheher (Patrimonio de la UNESCO), la Torre de la Doncella y el Palacio de los Shirvanshahs, mientras que justo detrás se alzan las velas de cristal de las Flame Towers y las curvas blancas del Centro Heydar Aliyev diseñado por Zaha Hadid.\n\nUn breve trayecto por la península de Absherón explica por qué el fuego ha marcado la historia de la región: las fumarolas de gas natural arden sin descanso en la ladera de Yanar Dag y el patio pentagonal del templo del fuego de Ateshgah, del siglo XVII, conserva las celdas donde oraban los mercaderes de las caravanas. En nuestro itinerario de 5 días, además, te adentras en las montañas boscosas de Gabala para subir al teleférico de Tufandag, pasear junto al lago Nohur y contemplar la cascada de las Siete Bellezas.",
+    "zh": "几个世纪以来，阿塞拜疆被称为火之国，坐落于大高加索山脉与里海西岸交汇处。在巴库，12世纪的蜂蜜色石灰岩城墙环绕着联合国教科文组织世界遗产伊切里谢赫尔的小巷、少女塔和希尔万沙赫宫，而城墙之外则矗立着火焰塔的玻璃帆船和扎哈·哈迪德设计的海德尔·阿利耶夫中心的白色流线曲线。\n\n短途驱车前往阿布歇伦半岛，即可了解火焰如何塑造该地区的历史：天然气喷口在亚纳达格砂岩山坡上持续燃烧，17世纪的阿特什加火神庙五边形庭院保留了琐罗亚斯德教和印度教商队商人曾经礼拜的房间。在我们的5天行程中，您还将前往西北部加巴拉的森林山麓，乘坐图方达格山缆车，沿诺胡尔湖散步，并参观七美瀑布。"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "What is the difference between the 4-day and 5-day Azerbaijan tours?",
+        "de": "Was ist der Unterschied zwischen der 4-tägigen und der 5-tägigen Aserbaidschan-Reise?",
+        "fr": "Quelle est la différence entre les circuits de 4 jours et de 5 jours en Azerbaïdjan ?",
+        "ja": "アゼルバイジャンの4日間ツアーと5日間ツアーの違いは何ですか？",
+        "es": "¿Cuál es la diferencia entre el tour de 4 días y el de 5 días por Azerbaiyán?",
+        "zh": "4天和5天阿塞拜疆之旅有什么区别？"
+      },
+      "a": {
+        "en": "The 4-Day Explorer Tour focuses on Baku and the Absheron Peninsula (Highland Park, Old City Icherisheher, Flame Towers, Heydar Aliyev Center, Yanar Dag, and Ateshgah Fire Temple) plus a full leisure day in Baku. The 5-Day Journey Tour includes everything in the 4-day itinerary and adds a full-day private excursion into the Greater Caucasus mountains to visit Gabala, Tufandag cable car, Nohur Lake, and the Seven Beauties waterfall.",
+        "de": "Die 4-tägige Entdeckerreise konzentriert sich auf Baku und die Halbinsel Abscheron (Highland Park, Altstadt Itscheri Scheher, Flame Towers, Heydar-Aliyev-Zentrum, Yanar Dağ und Feuertempel Ateschgah) sowie einen freien Tag in Baku. Die 5-tägige Rundreise umfasst das gesamte 4-Tage-Programm und ergänzt einen privaten Ganztagesausflug in den Großen Kaukasus nach Qəbələ mit der Tufandağ-Seilbahn, dem Nohur-See und dem Wasserfall der Sieben Schönheiten.",
+        "fr": "Le circuit Explorer de 4 jours se concentre sur Bakou et la péninsule d’Abcheron (Highland Park, vieille ville d’Icherisheher, Flame Towers, centre Heydar-Aliyev, Yanar Dag et temple d’Ateshgah) avec une journée libre à Bakou. Le circuit de 5 jours reprend l’intégralité de ce programme et ajoute une excursion privée d’une journée dans le Grand Caucase vers Gabala, le téléphérique de Tufandag, le lac Nohur et la cascade des Sept Beautés.",
+        "ja": "4日間エクスプローラーツアーはバクー市内とアブシェロン半島（ハイランド・パーク、旧市街イチェリ・シェヘル、フレイム・タワーズ、ヘイダル・アリエフ・センター、ヤナル・ダグ、アテシュギャーフ拝火教寺院）およびバクーでの終日自由行動で構成されています。5日間ジャッキーツアーは4日間の全内容に加え、大コーカサス山脈のガバラ（トゥファンダグ・ロープウェイ、ノフル湖、七美人の滝）への終日プライベート遠足が含まれます。",
+        "es": "El tour Explorador de 4 días se centra en Bakú y la península de Absherón (Highland Park, Ciudad Vieja de Icherisheher, Flame Towers, Centro Heydar Aliyev, Yanar Dag y el templo de Ateshgah) más un día libre en Bakú. El tour de 5 días incluye todo el programa de 4 días y añade una excursión privada de día completo a las montañas del Gran Cáucaso para visitar Gabala, el teleférico de Tufandag, el lago Nohur y la cascada de las Siete Bellezas.",
+        "zh": "4天探索之旅专注于巴库和阿布歇伦半岛（高地公园、伊切里谢赫尔老城、火焰塔、海德尔·阿利耶夫中心、亚纳达格和阿特什加火神庙），外加巴库全天休闲日。5天之旅包含4天行程的所有内容，并增加一次前往大高加索山脉的全天私人游览，参观加巴拉、图方达格缆车、诺胡尔湖和七美瀑布。"
+      }
+    },
+    {
+      "q": {
+        "en": "How do I get an Azerbaijan visa?",
+        "de": "Wie erhalte ich ein Visum für Aserbaidschan?",
+        "fr": "Comment obtenir un visa pour l’Azerbaïdjan ?",
+        "ja": "アゼルバイジャンのビザはどのように取得しますか？",
+        "es": "¿Cómo se obtiene el visado para Azerbaiyán?",
+        "zh": "如何办理阿塞拜疆签证？"
+      },
+      "a": {
+        "en": "Over 90 nationalities can apply online through the official ASAN Visa portal (evisa.gov.az) with a passport scan. Standard processing takes 3 business days, and we provide hotel vouchers and itinerary confirmation letters once your booking is confirmed.",
+        "de": "Über 90 Nationalitäten können ihr Visum online über das offizielle ASAN-Visa-Portal (evisa.gov.az) mit einem Pass-Scan beantragen. Die Standardbearbeitung dauert 3 Werktage; nach Ihrer Buchung stellen wir Ihnen die benötigten Hotelvoucher und Reisebestätigungen aus.",
+        "fr": "Plus de 90 nationalités peuvent faire une demande en ligne sur le portail officiel ASAN Visa (evisa.gov.az) avec une copie du passeport. Le délai standard est de 3 jours ouvrés, et nous fournissons les bons d’échange hôteliers et attestations d’itinéraire dès la confirmation de votre réservation.",
+        "ja": "日本を含む90か国以上のパスポート所持者は、公式のASANビザポータル（evisa.gov.az）からパスポート画像を使ってオンライン申請が可能です。通常3営業日で発給され、ご予約確定後に申請に必要なホテルバウチャーや旅程確認書をご用意いたします。",
+        "es": "Más de 90 nacionalidades pueden solicitar el visado en línea a través del portal oficial ASAN Visa (evisa.gov.az) con una copia del pasaporte. La tramitación estándar tarda 3 días hábiles y facilitamos los bonos de hotel y cartas de confirmación de itinerario al confirmar tu reserva.",
+        "zh": "超过90个国籍的旅客可通过官方ASAN签证门户网站（evisa.gov.az）在线申请，需提供护照扫描件。标准处理时间为3个工作日，预订确认后我们将提供酒店凭证和行程确认函。"
+      }
+    },
+    {
+      "q": {
+        "en": "Are airport transfers and private transport included?",
+        "de": "Sind Flughafentransfers und privater Transport im Preis inbegriffen?",
+        "fr": "Les transferts aéroport et le transport privé sont-ils inclus ?",
+        "ja": "空港送迎や専用車での移動は含まれていますか？",
+        "es": "¿Están incluidos los traslados al aeropuerto y el transporte privado?",
+        "zh": "机场接送和私人交通是否包含？"
+      },
+      "a": {
+        "en": "Yes. Both Azerbaijan packages include private round-trip transfers between Heydar Aliyev International Airport (GYD) and your 4-star hotel in Baku, as well as private air-conditioned transport with an English-speaking driver-guide for all scheduled sightseeing days.",
+        "de": "Ja. Beide Aserbaidschan-Pakete beinhalten private Hin- und Rücktransfers zwischen dem internationalen Flughafen Heydar Aliyev (GYD) und Ihrem 4-Sterne-Hotel in Baku sowie privaten, klimatisierten Transport mit englischsprachigem Fahrer-Guide an allen Besichtigungstagen.",
+        "fr": "Oui. Les deux forfaits en Azerbaïdjan comprennent les transferts privés aller-retour entre l’aéroport international Heydar-Aliyev (GYD) et votre hôtel 4 étoiles à Bakou, ainsi qu’un véhicule privé climatisé avec chauffeur-guide anglophone pour toutes les journées d’excursion.",
+        "ja": "はい。アゼルバイジャンの両パッケージとも、ヘイダル・アリエフ国際空港（GYD）とバクーの4つ星ホテル間の専用車往復送迎、および観光日程中の英語ドライバーガイド付き専用車が含まれています。",
+        "es": "Sí. Ambos paquetes por Azerbaiyán incluyen traslados privados de ida y vuelta entre el Aeropuerto Internacional Heydar Aliyev (GYD) y tu hotel de 4 estrellas en Bakú, así como transporte privado climatizado con conductor-guía de habla inglesa durante todos los días de excursión.",
+        "zh": "是的。两个阿塞拜疆套餐均包含海德尔·阿利耶夫国际机场（GYD）与巴库4星级酒店之间的私人往返接送，以及所有安排观光日的私人空调交通和英语司机导游服务。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Azerbaijan tours: Baku, Absheron Fire Temple & Gabala Mountains",
+      "de": "Aserbaidschan Reisen: Baku, Feuertempel Abscheron & Qəbələ",
+      "fr": "Voyages en Azerbaïdjan : Bakou, temple du feu d’Abcheron et Gabala",
+      "ja": "アゼルバイジャン旅行：バクー・アブシェロン拝火教寺院・ガバラ高原",
+      "es": "Viajes a Azerbaiyán: Bakú, templo del fuego de Absherón y Gabala",
+      "zh": "阿塞拜疆旅游：巴库、阿布舍伦火神庙与加巴拉山脉"
+    },
+    "overview": {
+      "en": "Where to go on an Azerbaijan tour",
+      "de": "Wohin auf einer Aserbaidschan-Reise",
+      "fr": "Où aller lors d’un voyage en Azerbaïdjan",
+      "ja": "アゼルバイジャン旅行の見どころ",
+      "es": "Qué ver en un viaje a Azerbaiyán",
+      "zh": "阿塞拜疆旅游：去哪里"
+    },
+    "Gallery": {
+      "en": "Photos from Azerbaijan",
+      "de": "Fotos aus Aserbaidschan",
+      "fr": "Photos d’Azerbaïdjan",
+      "ja": "アゼルバイジャンの写真",
+      "es": "Fotos de Azerbaiyán",
+      "zh": "阿塞拜疆照片集"
+    },
+    "itineraries": {
+      "en": "Azerbaijan tour itineraries",
+      "de": "Aserbaidschan-Reiserouten",
+      "fr": "Itinéraires de voyage en Azerbaïdjan",
+      "ja": "アゼルバイジャンのツアープラン",
+      "es": "Itinerarios de viaje por Azerbaiyán",
+      "zh": "阿塞拜疆旅游行程"
+    },
+    "faq": {
+      "en": "Azerbaijan travel FAQs",
+      "de": "Häufige Fragen zu Aserbaidschan-Reisen",
+      "fr": "Questions fréquentes sur un voyage en Azerbaïdjan",
+      "ja": "アゼルバイジャン旅行のよくある質問",
+      "es": "Preguntas frecuentes sobre viajar a Azerbaiyán",
+      "zh": "阿塞拜疆旅游常见问题"
+    }
+  }
+}

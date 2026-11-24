@@ -1,0 +1,4 @@
+{
+  "_comment": "Public Turnstile site key for the inquiry form (widget 'Sunday Atlas inquiry', Managed, hostnames sundayatlastravel.com and www). The secret key lives only in the Pages secret TURNSTILE_SECRET_KEY.",
+  "site_key": "0x4AAAAAAFheYG2pJ7BEGxq6"
+}

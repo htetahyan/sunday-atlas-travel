@@ -1,0 +1,563 @@
+{
+  "slug": "krakow-jura-outdoor-7-days",
+  "title": {
+    "en": "Kraków & the Jura: 7 Days Outdoors in the Polish Jurassic Highlands",
+    "de": "Krakau & Jura: 7 Tage draußen im Polnischen Jura",
+    "fr": "Cracovie et le Jura polonais : 7 jours en plein air",
+    "ja": "クラクフとポーランド・ジュラ高地：アウトドアの7日間",
+    "es": "Cracovia y el Jura polaco: 7 días al aire libre",
+    "zh": "克拉科夫与侏罗高地：波兰侏罗高地7天户外之旅"
+  },
+  "destination": "poland",
+  "countries": [],
+  "durationDays": 7,
+  "nights": 6,
+  "style": {
+    "en": "Outdoor & nature",
+    "de": "Outdoor & Natur",
+    "fr": "Plein air et nature",
+    "ja": "アウトドアと自然",
+    "es": "Aire libre y naturaleza",
+    "zh": "户外与自然"
+  },
+  "seasonNote": {
+    "en": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "es": "",
+    "zh": ""
+  },
+  "summary": {
+    "en": "A 7-day outdoor trip from Kraków into the Polish Jurassic Highlands: Wawel and Kazimierz, then a countryside hotel among limestone cliffs, with Ojców National Park, Pieskowa Skała Castle, a cycling day, beginner climbing or via ferrata, and a day with a nature guide.",
+    "de": "7 Tage draußen, von Krakau in den Polnischen Jura: Wawel und Kazimierz, dann ein Landhotel zwischen Kalkfelsen, mit Nationalpark Ojców, Burg Pieskowa Skała, einem Radtag, Klettern für Anfänger oder Klettersteig und einem Tag mit Naturführer.",
+    "fr": "7 jours en plein air, de Cracovie au Jura polonais : le Wawel et Kazimierz, puis un hôtel à la campagne au milieu des falaises calcaires, avec le parc national d’Ojców, le château de Pieskowa Skała, une journée à vélo, escalade débutant ou via ferrata, et une journée avec un guide nature.",
+    "ja": "クラクフからポーランド・ジュラ高地へ向かうアウトドアの7日間。ヴァヴェル城とカジミェシュの後、石灰岩の崖に囲まれた田舎のホテルに滞在し、オイツフ国立公園、ピェスコヴァ・スカワ城、サイクリング、初心者向けクライミングまたはヴィア・フェラータ、自然ガイドとの1日を楽しみます。",
+    "es": "7 días al aire libre, de Cracovia al Jura polaco: el Wawel y Kazimierz, y después un hotel rural entre acantilados calizos, con el parque nacional de Ojców, el castillo de Pieskowa Skała, un día en bici, escalada para principiantes o vía ferrata y un día con un guía de naturaleza.",
+    "zh": "从克拉科夫出发的7天户外之旅，前往波兰侏罗高地：瓦维尔城堡和卡齐米日区，随后入住石灰岩悬崖间的乡村酒店，包含奥日茨国家公园、皮耶斯科瓦斯卡拉城堡、骑行日、初级攀岩或铁道攀爬，以及与自然导游共度的一天。"
+  },
+  "intro": {
+    "en": "North of Kraków, the Polish Jura is a strip of white limestone cliffs, beech forest, caves and castles on rocky hills. This trip gives you a first evening and a morning in Kraków, then moves you to a quiet manor-style hotel in the countryside. From there, each day has one outdoor focus: a national park and castle, a bike ride, a climb, and a walk with a local nature guide.",
+    "de": "Nördlich von Krakau liegt der Polnische Jura: weiße Kalkfelsen, Buchenwälder, Höhlen und Burgen auf Felshügeln. Die Reise beginnt mit einem Abend und einem Vormittag in Krakau und führt dann in ein ruhiges Landhotel im Gutshausstil. Von dort hat jeder Tag einen Schwerpunkt im Freien: Nationalpark und Burg, eine Radtour, eine Kletterei und eine Wanderung mit einem lokalen Naturführer.",
+    "fr": "Au nord de Cracovie, le Jura polonais aligne falaises calcaires blanches, forêts de hêtres, grottes et châteaux perchés. Le voyage commence par une soirée et une matinée à Cracovie, puis vous installe dans un hôtel calme de style manoir à la campagne. De là, chaque journée a son activité en plein air : un parc national et un château, une sortie à vélo, une escalade et une marche avec un guide nature local.",
+    "ja": "クラクフの北に広がるポーランド・ジュラ高地は、白い石灰岩の崖、ブナの森、洞窟、岩山の城が続く地域です。クラクフで1晩と半日を過ごした後、田舎の静かなマナーハウス風ホテルへ。そこを拠点に、国立公園と城、サイクリング、クライミング、地元の自然ガイドとの散策と、毎日ひとつのアウトドア体験を楽しみます。",
+    "es": "Al norte de Cracovia, el Jura polaco es una franja de acantilados calizos blancos, hayedos, cuevas y castillos sobre colinas rocosas. El viaje empieza con una tarde y una mañana en Cracovia y le lleva después a un tranquilo hotel rural de estilo casa señorial. Desde allí, cada día tiene una actividad al aire libre: un parque nacional y un castillo, una ruta en bici, una escalada y un paseo con un guía de naturaleza local.",
+    "zh": "克拉科夫以北，波兰侏罗高地是一片白色石灰岩悬崖、山毛榉森林、洞穴和建在岩石山丘上的城堡。此行程为您安排克拉科夫的首个傍晚和早晨，随后前往乡村一家宁静的庄园式酒店。从那里开始，每天有一个户外主题：国家公园与城堡、骑行、攀爬，以及与当地自然导游的徒步。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Kraków, arrival",
+        "de": "Krakau, Ankunft",
+        "fr": "Cracovie, arrivée",
+        "ja": "クラクフ到着",
+        "es": "Cracovia, llegada",
+        "zh": "抵达克拉科夫"
+      },
+      "description": {
+        "en": "A private driver meets you at Kraków Airport (KRK) and takes you to your 4* or 5* hotel near the Old Town. In the evening you walk the lantern-lit streets around the Main Square, with street musicians and cafés still open.",
+        "de": "Ein privater Fahrer holt Sie am Flughafen Krakau (KRK) ab und bringt Sie in Ihr 4*- oder 5*-Hotel nahe der Altstadt. Am Abend spazieren Sie durch die laternenbeleuchteten Gassen rund um den Hauptmarkt, mit Straßenmusikern und offenen Cafés.",
+        "fr": "Un chauffeur privé vous accueille à l’aéroport de Cracovie (KRK) et vous conduit à votre hôtel 4* ou 5* près de la vieille ville. Le soir, promenade dans les rues éclairées autour de la place du Marché, entre musiciens de rue et cafés encore ouverts.",
+        "ja": "クラクフ空港（KRK）で専用ドライバーがお出迎えし、旧市街近くの4～5つ星ホテルへ。夜はストリートミュージシャンやカフェでにぎわう、ランタンに照らされた中央広場周辺を散策します。",
+        "es": "Un conductor privado le recibe en el aeropuerto de Cracovia (KRK) y le lleva a su hotel de 4* o 5* cerca del casco antiguo. Por la noche pasea por las calles iluminadas con faroles alrededor de la Plaza del Mercado, entre músicos callejeros y cafés abiertos.",
+        "zh": "私人司机在克拉科夫机场（KRK）迎接您，并送您前往老城附近的4星或5星酒店。傍晚时分，您在主广场周围灯笼照亮的街道上漫步，街头音乐家和咖啡馆依然营业。"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Kraków: Wawel & Kazimierz – the Jura",
+        "de": "Krakau: Wawel & Kazimierz – Jura",
+        "fr": "Cracovie : Wawel et Kazimierz – le Jura",
+        "ja": "クラクフ：ヴァヴェル城とカジミェシュ – ジュラ高地へ",
+        "es": "Cracovia: Wawel y Kazimierz – el Jura",
+        "zh": "克拉科夫：瓦维尔与卡齐米日区，前往侏罗高地"
+      },
+      "description": {
+        "en": "In the morning you visit Wawel Castle and walk through Kazimierz, with its antique shops and murals. After lunch a private transfer takes you north into the Jura, where white cliffs start to rise out of the fields, to a 4* or 5* manor-style hotel in the countryside.",
+        "de": "Am Vormittag besuchen Sie den Wawel und spazieren durch Kazimierz mit Antiquitätenläden und Wandbildern. Nach dem Mittagessen bringt Sie ein privater Transfer nach Norden in den Jura, wo weiße Felsen aus den Feldern ragen, zu einem 4*- oder 5*-Landhotel im Gutshausstil.",
+        "fr": "Le matin, visite du Wawel et promenade dans Kazimierz, entre antiquaires et fresques murales. Après le déjeuner, un transfert privé vous emmène vers le nord, dans le Jura, où les falaises blanches surgissent des champs, jusqu’à un hôtel 4* ou 5* de style manoir à la campagne.",
+        "ja": "午前はヴァヴェル城を訪れ、骨董店や壁画が並ぶカジミェシュを散策。昼食後、専用車で北のジュラ高地へ。畑の中から白い崖が現れる風景を抜け、田舎の4～5つ星マナーハウス風ホテルへ向かいます。",
+        "es": "Por la mañana visita el Wawel y pasea por Kazimierz, con sus anticuarios y murales. Después de comer, un traslado privado le lleva al norte, al Jura, donde los acantilados blancos surgen entre los campos, hasta un hotel rural de 4* o 5* de estilo casa señorial.",
+        "zh": "上午您参观瓦维尔城堡，并漫步卡齐米日区，那里有古董店和壁画。午餐后，私人接送带您北上侏罗高地，白色悬崖开始从田野中升起，前往乡村一家4星或5星庄园式酒店。"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Ojców National Park & Pieskowa Skała Castle",
+        "de": "Nationalpark Ojców & Burg Pieskowa Skała",
+        "fr": "Parc national d’Ojców et château de Pieskowa Skała",
+        "ja": "オイツフ国立公園とピェスコヴァ・スカワ城",
+        "es": "Parque nacional de Ojców y castillo de Pieskowa Skała",
+        "zh": "奥日茨国家公园与皮耶斯科瓦斯卡拉城堡"
+      },
+      "description": {
+        "en": "A day in Ojców National Park, Poland’s smallest national park: narrow valleys, limestone rocks and streams under the trees. You then see Pieskowa Skała Castle on its cliff above the valley. Lunch is a countryside picnic of local cheese, bread, fruit and honey.",
+        "de": "Ein Tag im Nationalpark Ojców, dem kleinsten Nationalpark Polens: enge Täler, Kalkfelsen und Bäche unter den Bäumen. Danach sehen Sie die Burg Pieskowa Skała auf ihrem Felsen über dem Tal. Mittags gibt es ein Picknick mit lokalem Käse, Brot, Obst und Honig.",
+        "fr": "Une journée dans le parc national d’Ojców, le plus petit de Pologne : vallées étroites, rochers calcaires et ruisseaux sous les arbres. Vous découvrez ensuite le château de Pieskowa Skała, perché sur sa falaise au-dessus de la vallée. Le déjeuner est un pique-nique campagnard de fromage, pain, fruits et miel locaux.",
+        "ja": "ポーランドで最も小さな国立公園、オイツフ国立公園で1日を過ごします。狭い谷、石灰岩の岩、木々の下を流れる小川。続いて谷を見下ろす崖の上のピェスコヴァ・スカワ城へ。昼食は地元のチーズ、パン、果物、はちみつのピクニックです。",
+        "es": "Un día en el parque nacional de Ojców, el más pequeño de Polonia: valles estrechos, rocas calizas y arroyos bajo los árboles. Después ve el castillo de Pieskowa Skała sobre su acantilado. El almuerzo es un pícnic campestre de queso, pan, fruta y miel locales.",
+        "zh": "在波兰最小的国家公园奥日茨国家公园度过一天：狭窄山谷、石灰岩和树下溪流。随后您参观建在山谷上方悬崖上的皮耶斯科瓦斯卡拉城堡。午餐为乡村野餐，包括当地奶酪、面包、水果和蜂蜜。"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Cycling the limestone valleys & evening spa",
+        "de": "Radtour durch die Kalktäler & Spa am Abend",
+        "fr": "Vélo dans les vallées calcaires et spa le soir",
+        "ja": "石灰岩の谷をサイクリング、夜はスパ",
+        "es": "En bici por los valles calizos y spa por la tarde",
+        "zh": "石灰岩山谷骑行与傍晚水疗"
+      },
+      "description": {
+        "en": "Today you ride a bike or e-bike along valleys, forest paths, meadows and small villages, passing limestone towers and wooden roadside shrines. If you prefer a quiet day, there are photo walks or time at the hotel instead. In the evening, the spa has warm pools and a sauna.",
+        "de": "Heute fahren Sie mit dem Rad oder E-Bike durch Täler, Waldwege, Wiesen und kleine Dörfer, vorbei an Kalktürmen und hölzernen Wegkapellen. Wer es ruhiger mag, macht stattdessen Fotospaziergänge oder bleibt im Hotel. Abends warten im Spa warme Becken und Sauna.",
+        "fr": "Aujourd’hui, vous partez à vélo ou à vélo électrique par les vallées, les chemins forestiers, les prairies et les petits villages, entre tours calcaires et petits sanctuaires en bois. Pour une journée calme, balades photo ou repos à l’hôtel. Le soir, bassins chauds et sauna au spa.",
+        "ja": "今日は自転車またはE-バイクで、谷、森の小道、草原、小さな村を巡ります。石灰岩の塔や木の小さな祠も見どころ。のんびりしたい方は写真散策やホテルでの休息も選べます。夜はスパの温水プールとサウナで。",
+        "es": "Hoy recorre en bici o bici eléctrica valles, caminos de bosque, prados y pequeños pueblos, entre torres calizas y pequeños santuarios de madera. Si prefiere un día tranquilo, hay paseos fotográficos o descanso en el hotel. Por la tarde, piscinas templadas y sauna en el spa.",
+        "zh": "今天您骑自行车或电动自行车沿山谷、森林小径、草地和小村庄前行，经过石灰岩塔和木制路边神龛。如果您偏好安静的一天，可以选择摄影漫步或在酒店休息。傍晚，水疗中心设有温水泳池和桑拿。"
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Beginner climbing or via ferrata",
+        "de": "Klettern für Anfänger oder Klettersteig",
+        "fr": "Escalade débutant ou via ferrata",
+        "ja": "初心者クライミングまたはヴィア・フェラータ",
+        "es": "Escalada para principiantes o vía ferrata",
+        "zh": "初级攀岩或铁道攀爬"
+      },
+      "description": {
+        "en": "A day of light adventure, chosen to suit you: a rock-climbing introduction for beginners, an easy via ferrata route with a guide, or a walk to the best viewpoints for photos. None of it needs experience. You can also skip the activity and spend the day at the hotel.",
+        "de": "Ein Tag mit leichtem Abenteuer nach Ihrer Wahl: Klettereinführung für Anfänger, ein leichter Klettersteig mit Guide oder eine Wanderung zu den besten Fotopunkten. Erfahrung ist nicht nötig. Sie können die Aktivität auch auslassen und im Hotel bleiben.",
+        "fr": "Une journée d’aventure douce, à votre choix : initiation à l’escalade pour débutants, via ferrata facile avec un guide, ou marche vers les meilleurs points de vue pour les photos. Aucune expérience n’est nécessaire. Vous pouvez aussi passer la journée à l’hôtel.",
+        "ja": "お好みで選べる軽いアドベンチャーの日。初心者向けロッククライミング入門、ガイド付きのやさしいヴィア・フェラータ、写真に最適な展望地へのハイキングから選べます。経験は不要です。アクティビティをせずホテルで過ごすこともできます。",
+        "es": "Un día de aventura suave, a su elección: iniciación a la escalada para principiantes, una vía ferrata fácil con guía o una caminata a los mejores miradores para fotos. No hace falta experiencia. También puede saltarse la actividad y pasar el día en el hotel.",
+        "zh": "一天轻松冒险，根据您的喜好安排：初级攀岩体验、有导游陪同的简单铁道攀爬路线，或前往最佳观景点拍照。无需任何经验。您也可以跳过活动，在酒店度过一天。"
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Caves & wildlife with a nature guide",
+        "de": "Höhlen & Tierwelt mit Naturführer",
+        "fr": "Grottes et faune avec un guide nature",
+        "ja": "自然ガイドと洞窟・野生生物を探す",
+        "es": "Cuevas y fauna con un guía de naturaleza",
+        "zh": "与自然导游探索洞穴与野生动物"
+      },
+      "description": {
+        "en": "A local nature guide walks with you through forest and fields, talking about the wildlife, the rocks and local legends. You can add a visit to one of the region’s caves. In the evening you have a farewell dinner at the hotel.",
+        "de": "Ein lokaler Naturführer begleitet Sie durch Wald und Felder und erzählt von Tieren, Gestein und lokalen Sagen. Auf Wunsch kommt eine der Höhlen der Region dazu. Am Abend gibt es ein Abschiedsessen im Hotel.",
+        "fr": "Un guide nature local vous accompagne à travers forêts et champs, en parlant de la faune, des roches et des légendes locales. Vous pouvez ajouter la visite de l’une des grottes de la région. Le soir, dîner d’adieu à l’hôtel.",
+        "ja": "地元の自然ガイドと森や野原を歩き、野生生物、岩、地元の伝説について話を聞きます。希望すれば地域の洞窟見学も追加できます。夜はホテルで送別ディナー。",
+        "es": "Un guía de naturaleza local le acompaña por bosques y campos, hablando de la fauna, las rocas y las leyendas locales. Puede añadir la visita a una de las cuevas de la región. Por la noche, cena de despedida en el hotel.",
+        "zh": "当地自然导游与您一起穿行于森林和田野，介绍野生动物、岩石和当地传说。您可以选择参观该地区的一个洞穴。傍晚，您在酒店享用告别晚餐。"
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Departure from Kraków Airport",
+        "de": "Abreise ab Flughafen Krakau",
+        "fr": "Départ de l’aéroport de Cracovie",
+        "ja": "クラクフ空港から出発",
+        "es": "Salida desde el aeropuerto de Cracovia",
+        "zh": "从克拉科夫机场出发"
+      },
+      "description": {
+        "en": "A private transfer takes you from the Jura back to Kraków Airport (KRK) for your flight home.",
+        "de": "Ein privater Transfer bringt Sie aus dem Jura zurück zum Flughafen Krakau (KRK) für Ihren Heimflug.",
+        "fr": "Un transfert privé vous ramène du Jura à l’aéroport de Cracovie (KRK) pour votre vol retour.",
+        "ja": "専用車でジュラ高地からクラクフ空港（KRK）へお送りします。",
+        "es": "Un traslado privado le lleva del Jura al aeropuerto de Cracovia (KRK) para su vuelo de regreso.",
+        "zh": "私人接送从侏罗高地带您前往克拉科夫机场（KRK），搭乘回程航班。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "6 nights in 4* or 5* hotels, with breakfast",
+      "Private airport transfers on arrival and departure, and the private transfer from Kraków to the Jura",
+      "An online concierge to help before and during the trip",
+      "A local SIM card for calls and data",
+      "24/7 support while you travel"
+    ],
+    "de": [
+      "6 Nächte in 4*- oder 5*-Hotels mit Frühstück",
+      "Private Flughafentransfers bei Ankunft und Abreise sowie der private Transfer von Krakau in den Jura",
+      "Ein Online-Concierge, der vor und während der Reise hilft",
+      "Eine lokale SIM-Karte für Anrufe und Daten",
+      "Rund-um-die-Uhr-Betreuung während der Reise"
+    ],
+    "fr": [
+      "6 nuits en hôtels 4* ou 5*, petit-déjeuner compris",
+      "Transferts privés aéroport à l’arrivée et au départ, et transfert privé de Cracovie au Jura",
+      "Un concierge en ligne pour vous aider avant et pendant le voyage",
+      "Une carte SIM locale pour les appels et les données",
+      "Assistance 24 h/24 et 7 j/7 pendant le voyage"
+    ],
+    "ja": [
+      "4つ星または5つ星ホテル6泊（朝食付き）",
+      "到着・出発時の専用空港送迎、クラクフからジュラ高地への専用車移動",
+      "旅行前・旅行中にサポートするオンラインコンシェルジュ",
+      "通話・データ通信用の現地SIMカード",
+      "旅行中の24時間サポート"
+    ],
+    "es": [
+      "6 noches en hoteles de 4* o 5*, con desayuno",
+      "Traslados privados al aeropuerto a la llegada y la salida, y traslado privado de Cracovia al Jura",
+      "Un conserje en línea que le ayuda antes y durante el viaje",
+      "Una tarjeta SIM local para llamadas y datos",
+      "Asistencia 24/7 durante el viaje"
+    ],
+    "zh": [
+      "6晚4星或5星酒店住宿，含早餐",
+      "抵达和出发的私人机场接送，以及从克拉科夫前往侏罗高地的私人接送",
+      "在线礼宾服务，协助您出行前及行程期间",
+      "本地SIM卡，用于通话和上网",
+      "旅途中24/7支持"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights",
+      "Lunches and dinners (restaurants suggested in the itinerary are paid locally)",
+      "Optional extras, added on request: a private history tour in Kraków, a beginner climbing session with a certified instructor, a via ferrata with a guide and safety gear, bike or e-bike rental, a guided castle tour, a guided cave visit, a nature photography session, outdoor yoga, a wild-plant foraging walk, river bathing in safe shallow spots",
+      "Travel insurance and any Schengen visa fees"
+    ],
+    "de": [
+      "Internationale Flüge",
+      "Mittag- und Abendessen (die im Reiseverlauf vorgeschlagenen Restaurants zahlen Sie vor Ort)",
+      "Optionale Extras auf Wunsch: private Geschichtstour in Krakau, Kletterkurs für Anfänger mit zertifiziertem Trainer, Klettersteig mit Guide und Sicherheitsausrüstung, Fahrrad- oder E-Bike-Verleih, geführte Burgtour, geführter Höhlenbesuch, Naturfotografie, Yoga im Freien, Wildkräuterwanderung, Baden an sicheren, flachen Flussstellen",
+      "Reiseversicherung und eventuelle Schengen-Visumgebühren"
+    ],
+    "fr": [
+      "Vols internationaux",
+      "Déjeuners et dîners (les restaurants suggérés dans le programme se règlent sur place)",
+      "Options sur demande : visite historique privée de Cracovie, séance d’escalade débutant avec moniteur diplômé, via ferrata avec guide et équipement, location de vélo ou de vélo électrique, visite guidée d’un château, visite guidée d’une grotte, séance photo nature, yoga en plein air, cueillette de plantes sauvages, baignade en rivière dans des endroits peu profonds et sûrs",
+      "Assurance voyage et frais de visa Schengen éventuels"
+    ],
+    "ja": [
+      "国際航空券",
+      "昼食・夕食（行程内でご提案するレストランは現地でお支払い）",
+      "ご希望に応じて追加できるオプション：クラクフのプライベート歴史ツアー、資格を持つインストラクターとの初心者クライミング、ガイドと安全装備付きのヴィア・フェラータ、自転車・E-バイクのレンタル、ガイド付きの城ツアー、ガイド付き洞窟見学、自然写真撮影、屋外ヨガ、野草摘みの散策、安全な浅瀬での川遊び",
+      "旅行保険、必要な場合のシェンゲンビザ費用"
+    ],
+    "es": [
+      "Vuelos internacionales",
+      "Almuerzos y cenas (los restaurantes sugeridos en el itinerario se pagan en destino)",
+      "Extras opcionales, bajo petición: visita histórica privada de Cracovia, sesión de escalada para principiantes con monitor titulado, vía ferrata con guía y equipo de seguridad, alquiler de bici o bici eléctrica, visita guiada a un castillo, visita guiada a una cueva, sesión de fotografía de naturaleza, yoga al aire libre, paseo de recolección de plantas silvestres, baño en el río en zonas poco profundas y seguras",
+      "Seguro de viaje y, si aplica, la tasa del visado Schengen"
+    ],
+    "zh": [
+      "国际航班",
+      "午餐和晚餐（行程中建议的餐厅需在当地付费）",
+      "可选额外项目，按需添加：克拉科夫私人历史之旅，初学者攀岩体验（持证教练带领），有向导和安全装备的铁道攀登，自行车或电动自行车租赁，有向导的城堡之旅，有向导的洞穴参观，自然摄影体验，户外瑜伽，野生植物采集步行，在安全浅水处河边游泳",
+      "旅行保险及任何申根签证费用"
+    ]
+  },
+  "hotels": [],
+  "vehicles": [],
+  "sample": false,
+  "isDayTour": false,
+  "featured": false,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "Kraków & Polish Jura: 7-Day Outdoor Trip, Ojców & Climbing",
+      "meta_description": "7 days, 6 nights from Kraków: Wawel and Kazimierz, then the Polish Jura with Ojców National Park, Pieskowa Skała Castle, cycling, beginner climbing and a nature guide. Price on request.",
+      "focus_keyword": "krakow jura outdoor trip",
+      "keywords": [
+        "krakow jura outdoor trip",
+        "ojcow national park tour",
+        "pieskowa skala castle",
+        "polish jurassic highlands",
+        "poland outdoor holiday 7 days"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Krakau & Polnischer Jura: 7 Tage Outdoor, Ojców & Klettern",
+      "meta_description": "7 Tage, 6 Nächte ab Krakau: Wawel und Kazimierz, dann der Polnische Jura mit Nationalpark Ojców, Burg Pieskowa Skała, Radtour, Klettern für Anfänger und Naturführer. Preis auf Anfrage.",
+      "focus_keyword": "krakau jura outdoor reise",
+      "keywords": [
+        "krakau jura outdoor reise",
+        "nationalpark ojców",
+        "burg pieskowa skała",
+        "polnischer jura",
+        "polen outdoor urlaub 7 tage"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Cracovie et Jura polonais : 7 jours plein air, Ojców, escalade",
+      "meta_description": "7 jours, 6 nuits depuis Cracovie : Wawel et Kazimierz, puis le Jura polonais avec le parc d’Ojców, le château de Pieskowa Skała, le vélo, l’escalade débutant et un guide nature. Prix sur demande.",
+      "focus_keyword": "cracovie jura polonais plein air",
+      "keywords": [
+        "cracovie jura polonais plein air",
+        "parc national d’ojców",
+        "château de pieskowa skała",
+        "jura polonais",
+        "pologne nature 7 jours"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "クラクフとポーランド・ジュラ高地 7日間：オイツフとクライミング",
+      "meta_description": "クラクフ発6泊7日：ヴァヴェル城とカジミェシュ、ポーランド・ジュラ高地のオイツフ国立公園、ピェスコヴァ・スカワ城、サイクリング、初心者クライミング、自然ガイド。料金はお問い合わせ。",
+      "focus_keyword": "クラクフ ジュラ高地 アウトドア",
+      "keywords": [
+        "クラクフ ジュラ高地 アウトドア",
+        "オイツフ国立公園",
+        "ピェスコヴァ・スカワ城",
+        "ポーランド ジュラ",
+        "ポーランド 自然 7日間"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Cracovia y Jura polaco: 7 días al aire libre, Ojców y escalada",
+      "meta_description": "7 días, 6 noches desde Cracovia: Wawel y Kazimierz, y el Jura polaco con el parque de Ojców, el castillo de Pieskowa Skała, bici, escalada para principiantes y guía de naturaleza. Precio a consultar.",
+      "focus_keyword": "cracovia jura polaco aire libre",
+      "keywords": [
+        "cracovia jura polaco aire libre",
+        "parque nacional de ojców",
+        "castillo de pieskowa skała",
+        "jura polaco",
+        "polonia naturaleza 7 días"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "克拉科夫与波兰汇拉：7天户外之旅，奥日茨与攀岩",
+      "meta_description": "从克拉科夫出发，7天6夜：瓦维尔和卡齐米日，然后前往波兰汇拉，游览奥日茨国家公园、皮耶斯科瓦城堡，体验骑行、初学者攀岩和自然向导服务。价格按需提供。",
+      "focus_keyword": "克拉科夫 7天 户外 旅行",
+      "keywords": [
+        "克拉科夫 7天 户外 旅行",
+        "波兰 侏罗纪高地 徒步",
+        "奥什茨国家公园 攀岩",
+        "皮耶斯科瓦城堡 克拉科夫",
+        "克拉科夫 瓦维尔 卡齐米日",
+        "波兰 侏罗纪山脉 骑行",
+        "克拉科夫 自然向导 旅游",
+        "波兰 户外 7天 6夜"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Kraków & the Polish Jura: 7 days outdoors",
+      "de": "Krakau & Polnischer Jura: 7 Tage draußen",
+      "fr": "Cracovie et le Jura polonais : 7 jours en plein air",
+      "ja": "クラクフとポーランド・ジュラ高地：アウトドアの7日間",
+      "es": "Cracovia y el Jura polaco: 7 días al aire libre"
+    },
+    "facts": {
+      "en": "The trip at a glance",
+      "de": "Die Reise auf einen Blick",
+      "fr": "Le voyage en bref",
+      "ja": "旅の概要",
+      "es": "El viaje de un vistazo"
+    },
+    "itinerary": {
+      "en": "Kraków to the Jura, day by day",
+      "de": "Von Krakau in den Jura, Tag für Tag",
+      "fr": "De Cracovie au Jura, jour par jour",
+      "ja": "クラクフからジュラ高地へ、日ごとの行程",
+      "es": "De Cracovia al Jura, día a día"
+    },
+    "included": {
+      "en": "What the trip includes",
+      "de": "Was die Reise umfasst",
+      "fr": "Ce qui est inclus",
+      "ja": "旅程に含まれるもの",
+      "es": "Qué incluye el viaje"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non inclus",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "faq": {
+      "en": "Kraków & Jura trip FAQs",
+      "de": "Häufige Fragen zur Reise",
+      "fr": "Questions fréquentes sur le voyage",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes sobre el viaje"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need climbing experience?",
+        "de": "Brauche ich Klettererfahrung?",
+        "fr": "Faut-il savoir grimper ?",
+        "ja": "クライミングの経験は必要ですか？",
+        "es": "¿Necesito experiencia en escalada?",
+        "zh": "我需要攀岩经验吗？"
+      },
+      "a": {
+        "en": "No. The climbing day is an introduction for beginners, and the via ferrata is an easy route with a guide. If you would rather not climb, you can choose a viewpoint walk or a quiet day at the hotel.",
+        "de": "Nein. Der Klettertag ist eine Einführung für Anfänger, und der Klettersteig ist eine leichte Route mit Guide. Wer nicht klettern möchte, wählt eine Aussichtswanderung oder einen ruhigen Tag im Hotel.",
+        "fr": "Non. La journée d’escalade est une initiation pour débutants, et la via ferrata est un itinéraire facile avec un guide. Si vous préférez ne pas grimper, vous pouvez choisir une marche vers les points de vue ou une journée calme à l’hôtel.",
+        "ja": "不要です。クライミングの日は初心者向けの入門で、ヴィア・フェラータもガイド付きのやさしいルートです。登りたくない方は、展望地へのハイキングやホテルでのんびり過ごす日を選べます。",
+        "es": "No. El día de escalada es una iniciación para principiantes y la vía ferrata es una ruta fácil con guía. Si prefiere no escalar, puede elegir una caminata a los miradores o un día tranquilo en el hotel.",
+        "zh": "不需要。攀岩日是面向初学者的入门体验，铁道攀登是一条有向导带领的简单路线。如果您不想攀岩，可以选择观景步行，或在酒店度过一个安静的日子。"
+      }
+    },
+    {
+      "q": {
+        "en": "Where is the Polish Jura?",
+        "de": "Wo liegt der Polnische Jura?",
+        "fr": "Où se trouve le Jura polonais ?",
+        "ja": "ポーランド・ジュラ高地はどこにありますか？",
+        "es": "¿Dónde está el Jura polaco?",
+        "zh": "波兰汇拉在哪里？"
+      },
+      "a": {
+        "en": "It is the upland between Kraków and Częstochowa, known for limestone rocks, caves and a chain of medieval castles. Ojców National Park, at its southern end, is under an hour’s drive from Kraków.",
+        "de": "Es ist das Hochland zwischen Krakau und Tschenstochau, bekannt für Kalkfelsen, Höhlen und eine Kette mittelalterlicher Burgen. Der Nationalpark Ojców am Südende liegt weniger als eine Autostunde von Krakau entfernt.",
+        "fr": "C’est le plateau entre Cracovie et Częstochowa, connu pour ses rochers calcaires, ses grottes et sa chaîne de châteaux médiévaux. Le parc national d’Ojców, à son extrémité sud, est à moins d’une heure de route de Cracovie.",
+        "ja": "クラクフとチェンストホヴァの間に広がる高地で、石灰岩の岩、洞窟、中世の城が連なることで知られます。南端のオイツフ国立公園はクラクフから車で1時間以内です。",
+        "es": "Es la meseta entre Cracovia y Częstochowa, conocida por sus rocas calizas, sus cuevas y su cadena de castillos medievales. El parque nacional de Ojców, en su extremo sur, está a menos de una hora en coche de Cracovia.",
+        "zh": "它是克拉科夫与采斯托霍瓦之间的高地，以石灰岩、洞穴和一连串中世纪城堡而闻名。位于其南端的奥日茨国家公园，距离克拉科夫车程不到一小时。"
+      }
+    }
+  ],
+  "addOns": [],
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520098/sunday-atlas/packages/krakow-jura-outdoor-7-days/krakow-wawel-commons-84355598.jpg",
+        "width": 1920,
+        "height": 1280,
+        "credit": {
+          "author": "Ingo Mehling",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krakow_-_Wawel_Cathedral_from_balloon_-_1.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Aerial view of Wawel Castle and cathedral complex in Kraków, Poland.",
+        "de": "Aerial view of Wawel Castle and cathedral complex in Kraków, Poland.",
+        "fr": "Aerial view of Wawel Castle and cathedral complex in Kraków, Poland.",
+        "ja": "Aerial view of Wawel Castle and cathedral complex in Kraków, Poland.",
+        "es": "Aerial view of Wawel Castle and cathedral complex in Kraków, Poland.",
+        "zh": "波兰克拉科夫瓦维尔城堡和大教堂群的鸟瞰图。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520132/sunday-atlas/packages/krakow-jura-outdoor-7-days/ojcow-national-park-commons-98586927.jpg",
+        "width": 1920,
+        "height": 1277,
+        "credit": {
+          "author": "Jakub Hałun",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Du%C5%BCe_Ska%C5%82ki,_Czajowice,_20210102_1101_2512.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+        "de": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+        "fr": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+        "ja": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+        "es": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+        "zh": "波兰奥日茨国家公园，一条蜿蜒的泥土小径穿过霜冻的田野，通向云层下的森林山脊。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520088/sunday-atlas/packages/krakow-jura-outdoor-7-days/krakow-commons-117015949.jpg",
+        "width": 1920,
+        "height": 1556,
+        "credit": {
+          "author": "Ввласенко",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saints_Peter_and_Paul_Church._Krak%C3%B3w,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "St. Peter and Paul Church in Kraków, Poland",
+        "de": "St. Peter and Paul Church in Kraków, Poland",
+        "fr": "St. Peter and Paul Church in Kraków, Poland",
+        "ja": "St. Peter and Paul Church in Kraków, Poland",
+        "es": "St. Peter and Paul Church in Kraków, Poland",
+        "zh": "波兰克拉科夫圣彼得和圣保罗教堂"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520156/sunday-atlas/packages/krakow-jura-outdoor-7-days/caves-commons-40620567.jpg",
+        "width": 1920,
+        "height": 1268,
+        "credit": {
+          "author": "Jacek Halicki",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_Jaskinia_Nied%C5%BAwiedzia_w_Kletnie,_szata_naciekowa_22.JPG",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Stalactites hanging from a cave ceiling in Poland.",
+        "de": "Stalactites hanging from a cave ceiling in Poland.",
+        "fr": "Stalactites hanging from a cave ceiling in Poland.",
+        "ja": "Stalactites hanging from a cave ceiling in Poland.",
+        "es": "Stalactites hanging from a cave ceiling in Poland.",
+        "zh": "波兰洞穴天花板上垂下的钟乳石。"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520142/sunday-atlas/packages/krakow-jura-outdoor-7-days/pieskowa-ska-a-castle-commons-53592863.jpg",
+    "width": 1920,
+    "height": 1277,
+    "credit": {
+      "author": "Scotch Mist",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eagles_Nests_Trail_06.jpg",
+      "provider": "commons",
+      "required": true
+    },
+    "alt": {
+      "en": "Pieskowa Skała Castle in Poland under a blue sky.",
+      "de": "Pieskowa Skała Castle in Poland under a blue sky.",
+      "fr": "Pieskowa Skała Castle in Poland under a blue sky.",
+      "ja": "Pieskowa Skała Castle in Poland under a blue sky.",
+      "es": "Pieskowa Skała Castle in Poland under a blue sky.",
+      "zh": "蓝天下的波兰皮耶斯科瓦城堡。"
+    }
+  }
+}

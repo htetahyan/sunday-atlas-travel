@@ -1,0 +1,813 @@
+{
+  "slug": "pamir-highway-fann-mountains-tajikistan-road-trip-guide",
+  "published": true,
+  "featured": false,
+  "category": "day-trips",
+  "destination": "tajikistan",
+  "countries": [
+    "tajikistan"
+  ],
+  "publishedAt": "2026-10-27",
+  "updatedAt": "2026-11-17T09:09:02+04:00",
+  "readingTimeMinutes": 5,
+  "relatedPackages": [
+    "iskanderkul-lake-fann-mountains-day-trip",
+    "four-stans-odyssey-18-days",
+    "five-stans-long-road-22-days"
+  ],
+  "title": {
+    "en": "Iskanderkul Day Trip from Dushanbe: Fann Mountains (2027)",
+    "de": "Iskanderkul ab Duschanbe: Tagestour ins Fann-Gebirge (2027)",
+    "fr": "Iskanderkoul depuis Douchanbé : les monts Fann (2027)",
+    "ja": "イスカンデルクル湖 ドゥシャンベ発日帰り：ファン山脈（2027）",
+    "es": "Iskanderkul desde Dusambé: día en los montes Fann (2027)"
+  },
+  "subtitle": {
+    "en": "Khujand, Istaravshan, Penjikent, the Fan Mountains and Dushanbe: the mountain crossing on our Four Stans and 5 Stans tours.",
+    "de": "Tadschikistan Rundreise mit Chudschand, Istarawschan, Pendschikent, dem Fan-Gebirge und Duschanbe: die Bergüberquerung unserer Four-Stans- und 5-Stans-Reisen.",
+    "fr": "Un voyage au Tadjikistan par Khodjent, Istaravchan, Pendjikent, les monts Fann et Douchanbé : la traversée montagnarde de nos circuits Four Stans et 5 Stans.",
+    "ja": "ホジェンド、イスタラフシャン、ペンジケント、ファン山脈、ドゥシャンベ。フォー・スタンズと5スタンのツアーで越える山の国です。",
+    "es": "Juyand, Istaravshan, Penjikent, los montes Fan y Dusambé: el paso de montaña de nuestros viajes Four Stans y 5 Stans."
+  },
+  "summary": {
+    "en": "A private 4x4 day from Dushanbe over the Anzob Pass into the Fann Mountains: glacial Lake Iskanderkul, the 43-metre “Fann Niagara” waterfall and Snake Lake.",
+    "de": "Ein privater 4x4-Tag ab Duschanbe über den Ansob-Pass ins Fan-Gebirge: Gletschersee Iskanderkul, der 43 m hohe „Fan-Niagara“-Wasserfall und der Schlangensee.",
+    "fr": "Une journée privée en 4x4 depuis Douchanbé par le col d’Anzob jusqu’aux monts Fann : lac glaciaire d’Iskanderkoul, cascade « Niagara des Fann » de 43 m et lac des Serpents.",
+    "ja": "ドゥシャンベから専用4WDでアンゾブ峠を越えファン山脈へ：氷河湖イスカンデルクル、高さ43mの「ファンのナイアガラ」の滝、スネーク湖。",
+    "es": "Un día privado en 4x4 desde Dusambé por el paso de Anzob hasta los montes Fann: el lago glaciar Iskanderkul, la cascada «Niágara de Fann» de 43 m y el lago de las Serpientes."
+  },
+  "intro": {
+    "en": "On two of our tours, a Tajikistan tour is the mountain link between Kyrgyzstan and Uzbekistan. The Four Stans Odyssey crosses at Oybek to Khujand, with its bazaar and fortress walls, continues to Istaravshan, a city with more than 2,500 years of history, and on to Penjikent and the Sarazm ruins, a UNESCO World Heritage Site more than 5,500 years old. From there we visit six of the Seven Lakes of Marguzor in the Fan Mountains. The Long Road Through the 5 Stans flies into Dushanbe for the National Museum, the Hissar Fortress and a drive past Iskanderkul Lake.",
+    "de": "Tadschikistan ist auf zwei unserer Reisen die Bergverbindung zwischen Kirgistan und Usbekistan. Die Four Stans Odyssey überquert bei Oybek die Grenze nach Chudschand mit Basar und Festungsmauern, fährt weiter nach Istarawschan, einer Stadt mit mehr als 2.500 Jahren Geschichte, und nach Pendschikent zu den Ruinen von Sarazm, UNESCO-Welterbe und mehr als 5.500 Jahre alt. Von dort besuchen wir sechs der Sieben Seen von Marguzor im Fan-Gebirge. Der lange Weg durch die 5 Stans fliegt nach Duschanbe zum Nationalmuseum und zur Festung Hissor und fährt am Iskanderkul-See vorbei.",
+    "fr": "Sur deux de nos circuits, le voyage au Tadjikistan est le passage montagnard entre le Kirghizistan et l’Ouzbékistan. La Four Stans Odyssey franchit la frontière à Oybek vers Khodjent, son bazar et ses remparts, continue vers Istaravchan, ville de plus de 2 500 ans d’histoire, puis Pendjikent et les ruines de Sarazm, inscrites au patrimoine mondial de l’UNESCO et vieilles de plus de 5 500 ans. De là, nous visitons six des Sept Lacs de Marguzor dans les monts Fann. La longue route à travers les 5 Stans arrive en avion à Douchanbé pour le Musée national, la forteresse de Hissor et la route du lac Iskanderkoul.",
+    "ja": "2つのツアーで、タジキスタンツアーはキルギスとウズベキスタンを結ぶ山の道です。フォー・スタンズ・オデッセイはオイベクで国境を越え、バザールと城壁のあるホジェンドへ。2,500年以上の歴史をもつイスタラフシャンを経てペンジケントへ向かい、5,500年以上前のユネスコ世界遺産サラズム遺跡を訪ねます。そこからファン山脈にあるマルグゾルの七つの湖のうち6つを巡ります。「5つのスタンを巡る長い道」は空路でドゥシャンベに入り、国立博物館とヒッサール要塞を訪れ、イスカンデルクル湖を通ります。",
+    "es": "En dos de nuestros viajes, el viaje a Tayikistán es el paso de montaña entre Kirguistán y Uzbekistán. La Four Stans Odyssey cruza por Oybek hacia Juyand, con su bazar y sus murallas, sigue a Istaravshan, ciudad con más de 2.500 años de historia, y a Penjikent y las ruinas de Sarazm, Patrimonio de la Humanidad de la UNESCO con más de 5.500 años. Desde allí visitamos seis de los Siete Lagos de Marguzor en los montes Fan. El largo camino por los 5 Stans llega en avión a Dusambé para ver el Museo Nacional y la fortaleza de Hissar, y pasa por el lago Iskanderkul."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400041/sunday-atlas/the-ismoili-somoni-monument-in-dushanbe-tajilistan-9375987_rrlxnl.jpg",
+    "width": 1600,
+    "height": 1067,
+    "alt": {
+      "en": "Tajikistan Travel Guide (2027): Iskanderkul Lake, Fann Mountains & Pamirs",
+      "de": "Tadschikistan Reiseführer (2027): Iskanderkul-See & Fann-Gebirge",
+      "fr": "Guide Tadjikistan (2027) : Lac Iskanderkul, monts Fann et Pamir",
+      "ja": "タジキスタン旅行ガイド（2027）：イスカンデルクル湖とファン山脈",
+      "es": "Guía de Tayikistán (2027): Lago Iskanderkul, montañas Fann y Pamir"
+    }
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "rankNumber": 1,
+      "placeName": {
+        "en": "Iskanderkul Alpine Lake (2,195 m)",
+        "de": "Iskanderkul Alpine Lake (2,195 m)",
+        "fr": "Iskanderkul Alpine Lake (2,195 m)",
+        "ja": "Iskanderkul Alpine Lake (2,195 m)",
+        "es": "Iskanderkul Alpine Lake (2,195 m)"
+      },
+      "heading": {
+        "en": "1. Dushanbe – Varzob Gorge – Anzob Pass – Iskanderkul – Dushanbe",
+        "de": "1. Duschanbe – Warsob-Schlucht – Ansob-Pass – Iskanderkul – Duschanbe",
+        "fr": "1. Douchanbé – gorges de Varzob – col d’Anzob – Iskanderkoul – Douchanbé",
+        "ja": "1. ドゥシャンベ – ヴァルゾブ渓谷 – アンゾブ峠 – イスカンデルクル – ドゥシャンベ",
+        "es": "1. Dusambé – garganta de Varzob – paso de Anzob – Iskanderkul – Dusambé"
+      },
+      "paragraphs": {
+        "en": [
+          "We pick you up early at your Dushanbe hotel in a private 4x4 and drive north through the Varzob Gorge and over (or through) the Anzob Pass into the Fann Mountains. At glacial Lake Iskanderkul (2,195 m) you have time on the shore, then a short hike to the 43-metre “Fann Niagara” waterfall and a stop at the Snake Lake (Zmeinoye) viewpoint. We drive back the same way and drop you at your hotel in the evening. A picnic lunch by the lake is included.",
+          "It is a long but spectacular mountain day: about three and a half hours each way by 4x4, with the lake, the waterfall and Snake Lake at the far end."
+        ],
+        "de": [
+          "Wir holen Sie früh mit einem privaten 4x4 an Ihrem Hotel in Duschanbe ab und fahren nordwärts durch die Warsob-Schlucht über (oder durch) den Ansob-Pass ins Fan-Gebirge. Am Gletschersee Iskanderkul (2.195 m) haben Sie Zeit am Ufer, dann folgt eine kurze Wanderung zum 43 m hohen „Fan-Niagara“-Wasserfall und ein Halt am Aussichtspunkt des Schlangensees (Smeinoje). Abends bringen wir Sie zurück zu Ihrem Hotel. Ein Picknick-Mittagessen am See ist inklusive.",
+          "Ein langer, aber spektakulärer Bergtag: rund dreieinhalb Stunden je Richtung im 4x4, am Ziel See, Wasserfall und Schlangensee."
+        ],
+        "fr": [
+          "Nous venons vous chercher tôt à votre hôtel de Douchanbé en 4x4 privé et remontons les gorges de Varzob, puis franchissons le col d’Anzob (ou son tunnel) vers les monts Fann. Au lac glaciaire d’Iskanderkoul (2 195 m), vous profitez des rives, puis une courte marche mène à la cascade « Niagara des Fann » de 43 m, avant un arrêt au belvédère du lac des Serpents (Zmeinoïe). Retour à votre hôtel en soirée. Un déjeuner pique-nique au bord du lac est inclus.",
+          "Une longue mais spectaculaire journée de montagne : environ trois heures et demie de 4x4 dans chaque sens, avec le lac, la cascade et le lac des Serpents au bout."
+        ],
+        "ja": [
+          "早朝、専用4WDでドゥシャンベのホテルへお迎えし、ヴァルゾブ渓谷を北上してアンゾブ峠（またはトンネル）を越えファン山脈へ。標高2,195mの氷河湖イスカンデルクルの湖畔で過ごし、短いハイキングで高さ43mの「ファンのナイアガラ」の滝へ。スネーク湖（ズメイノエ）の展望地にも立ち寄り、夜にホテルへ戻ります。湖畔でのピクニックランチ付きです。",
+          "長距離ながら絶景の山岳日帰り。片道約3時間半の4WD移動の先に、湖、滝、スネーク湖が待っています。"
+        ],
+        "es": [
+          "Le recogemos temprano en su hotel de Dusambé en un 4x4 privado y subimos por la garganta de Varzob y el paso de Anzob (o su túnel) hasta los montes Fann. En el lago glaciar Iskanderkul (2.195 m) tiene tiempo en la orilla, luego una caminata corta a la cascada «Niágara de Fann» de 43 m y una parada en el mirador del lago de las Serpientes (Zmeinoye). Volvemos por la noche a su hotel. Incluye un almuerzo de pícnic junto al lago.",
+          "Un día de montaña largo pero espectacular: unas tres horas y media de 4x4 por trayecto, con el lago, la cascada y el lago de las Serpientes al final."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Private hotel pick-up and drop-off in Dushanbe",
+          "Private vehicle and driver for the whole day",
+          "English-speaking guide"
+        ],
+        "de": [
+          "Privater Hoteltransfer in Duschanbe (Abholung und Rückfahrt)",
+          "Privates Fahrzeug mit Fahrer für den ganzen Tag",
+          "Englischsprachiger Guide"
+        ],
+        "fr": [
+          "Prise en charge et retour privés à votre hôtel à Douchanbé",
+          "Véhicule privé avec chauffeur toute la journée",
+          "Guide anglophone"
+        ],
+        "ja": [
+          "ドゥシャンベのホテル送迎（専用）",
+          "終日専用車とドライバー",
+          "英語ガイド"
+        ],
+        "es": [
+          "Recogida y regreso privados a su hotel en Dusambé",
+          "Vehículo privado con conductor todo el día",
+          "Guía de habla inglesa"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "所要日数",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Day",
+            "fr": "1 Day",
+            "ja": "1 Day",
+            "es": "1 Day"
+          }
+        },
+        {
+          "label": {
+            "en": "Starting Price",
+            "de": "Preis ab",
+            "fr": "Prix dès",
+            "ja": "参考料金",
+            "es": "Precio desde"
+          },
+          "value": {
+            "en": "From $160 USD / person",
+            "de": "From $160 USD / person",
+            "fr": "From $160 USD / person",
+            "ja": "From $160 USD / person",
+            "es": "From $160 USD / person"
+          }
+        },
+        {
+          "label": {
+            "en": "Best Season",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure saison",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "May to October",
+            "de": "Mai bis Oktober",
+            "fr": "De mai à octobre",
+            "ja": "5月〜10月",
+            "es": "De mayo a octubre"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400041/sunday-atlas/traditional-building-and-botanical-garden-9376018_uqqfla.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "Iskanderkul Alpine Lake (2,195 m) — Tajikistan tour photo",
+          "de": "Iskanderkul Alpine Lake (2,195 m) — Tajikistan tour photo",
+          "fr": "Iskanderkul Alpine Lake (2,195 m) — Tajikistan tour photo",
+          "ja": "Iskanderkul Alpine Lake (2,195 m) — Tajikistan tour photo",
+          "es": "Iskanderkul Alpine Lake (2,195 m) — Tajikistan tour photo"
+        },
+        "caption": {
+          "en": "Iskanderkul Alpine Lake (2,195 m) · Iskanderkul Alpine Lake & Fann Mountains 4WD Day Trip from Dushanbe",
+          "de": "Iskanderkul Alpine Lake (2,195 m) · Iskanderkul-See & Fan-Gebirge: 4x4-Tagesausflug ab Duschanbe",
+          "fr": "Iskanderkul Alpine Lake (2,195 m) · Lac Iskanderkoul et monts Fann : excursion en 4x4 depuis Douchanbé",
+          "ja": "Iskanderkul Alpine Lake (2,195 m) · ドゥシャンベ発 イスカンデルクル湖とファン山脈 4WD日帰りツアー",
+          "es": "Iskanderkul Alpine Lake (2,195 m) · Lago Iskanderkul y montes Fann: excursión en 4x4 desde Dusambé"
+        }
+      },
+      "embeddedPackageSlug": "iskanderkul-lake-fann-mountains-day-trip"
+    },
+    {
+      "id": "section-2",
+      "rankNumber": 2,
+      "placeName": {
+        "en": "Fann Niagara Waterfall & Snake Lake",
+        "de": "Fann Niagara Waterfall & Snake Lake",
+        "fr": "Fann Niagara Waterfall & Snake Lake",
+        "ja": "Fann Niagara Waterfall & Snake Lake",
+        "es": "Fann Niagara Waterfall & Snake Lake"
+      },
+      "heading": {
+        "en": "2. Almaty – Charyn Canyon – Kolsay Lakes, 440 km by road",
+        "de": "2. Almaty – Scharyn-Canyon – Kolsai-Seen, 440 km auf der Straße",
+        "fr": "2. Almaty – canyon de Charyn – lacs de Kolsay, 440 km par la route",
+        "ja": "2. アルマトイ – チャリン渓谷 – コルサイ湖、陸路440km",
+        "es": "2. Almaty – cañón de Charyn – lagos Kolsay, 440 km por carretera"
+      },
+      "paragraphs": {
+        "en": [
+          "After breakfast we drive east to Charyn Canyon, often called the “little brother” of the Grand Canyon, which runs for more than 150 km. Within two hours we reach the Valley of Castles, where wind and rain have shaped the sandstone into fortress-like cliffs. We walk down for about 40 minutes to the Charyn River between red and orange walls. Lunch is at a café near the canyon, then we continue to the Kolsay Lakes in the northern Tien Shan, arriving in the late afternoon. Home-style dinner and overnight at a guesthouse.",
+          "The Four Stans Odyssey is an 18-day, 17-night 4 Stans tour across Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan. The first week follows the mountains: Almaty, Charyn Canyon, the Kolsay and Kaindy lakes, Karakol and the Issyk-Kul region, and Kochkor’s felt makers. From Tashkent we cross into Tajikistan for Khujand, Istaravshan, Penjikent and the Seven Lakes of the Fan Mountains, then return to Uzbekistan for two days in Samarkand, Bukhara by train, and Khiva."
+        ],
+        "de": [
+          "Nach dem Frühstück fahren wir nach Osten zum Scharyn-Canyon, oft „kleiner Bruder“ des Grand Canyon genannt, der sich über mehr als 150 km erstreckt. In rund zwei Stunden erreichen wir das Tal der Burgen, wo Wind und Regen den Sandstein zu festungsartigen Klippen geformt haben. Etwa 40 Minuten wandern wir zwischen roten und orangefarbenen Wänden hinunter zum Fluss Scharyn. Mittagessen in einem Café nahe dem Canyon, dann weiter zu den Kolsai-Seen im nördlichen Tian Shan, Ankunft am späten Nachmittag. Hausgemachtes Abendessen und Übernachtung im Gästehaus.",
+          "Die Four Stans Odyssey ist eine Zentralasien Rundreise von 18 Tagen und 17 Nächten durch Kasachstan, Kirgistan, Tadschikistan und Usbekistan. Die erste Woche gehört den Bergen: Almaty, der Scharyn-Canyon, die Kolsai- und Kaindy-Seen, Karakol und der Issyk-Kul sowie die Filzmacherinnen von Kotschkor. Von Taschkent reisen wir nach Tadschikistan zu Chudschand, Istarawschan, Pendschikent und den Sieben Seen im Fan-Gebirge und kehren dann nach Usbekistan zurück: zwei Tage Samarkand, mit dem Zug nach Buchara und weiter nach Chiwa."
+        ],
+        "fr": [
+          "Après le petit-déjeuner, nous roulons vers l’est jusqu’au canyon de Charyn, souvent appelé le « petit frère » du Grand Canyon, long de plus de 150 km. En deux heures environ, nous atteignons la vallée des Châteaux, où le vent et la pluie ont sculpté le grès en falaises aux allures de forteresses. Nous descendons à pied pendant une quarantaine de minutes jusqu’à la rivière Charyn, entre des parois rouges et orangées. Déjeuner dans un café près du canyon, puis route vers les lacs de Kolsay, dans le Tian Shan du Nord, avec une arrivée en fin d’après-midi. Dîner maison et nuit en maison d’hôtes.",
+          "La Four Stans Odyssey est un circuit en Asie centrale de 18 jours et 17 nuits au Kazakhstan, au Kirghizistan, au Tadjikistan et en Ouzbékistan. La première semaine est consacrée aux montagnes : Almaty, le canyon de Charyn, les lacs Kolsay et Kaindy, Karakol et la région de l’Issyk-Koul, et les feutrières de Kotchkor. De Tachkent, nous passons au Tadjikistan pour Khodjent, Istaravchan, Pendjikent et les Sept Lacs des monts Fann, puis revenons en Ouzbékistan : deux jours à Samarcande, Boukhara en train, et Khiva."
+        ],
+        "ja": [
+          "朝食後、東へ走りチャリン渓谷へ。グランドキャニオンの「弟」とも呼ばれ、全長は150km以上あります。2時間ほどで、風と雨が砂岩を城塞のような断崖に削った「城の谷」に到着。赤やオレンジの岩壁の間を約40分歩いてチャリン川まで下ります。渓谷近くのカフェで昼食をとり、天山山脈北部のコルサイ湖へ。夕方に到着し、ゲストハウスで家庭料理の夕食と宿泊。",
+          "フォー・スタンズ・オデッセイは、カザフスタン、キルギス、タジキスタン、ウズベキスタンの4か国を17泊18日で巡る中央アジア周遊ツアーです。最初の1週間は山の旅。アルマトイ、チャリン渓谷、コルサイ湖とカインディ湖、カラコルとイシク・クル湖周辺、コチコルのフェルト職人を訪ねます。タシケントからタジキスタンへ入り、ホジェンド、イスタラフシャン、ペンジケント、ファン山脈の七つの湖へ。ウズベキスタンに戻り、サマルカンドで2日、列車でブハラへ、そしてヒヴァへ向かいます。"
+        ],
+        "es": [
+          "Después del desayuno vamos hacia el este, al cañón de Charyn, a menudo llamado el «hermano pequeño» del Gran Cañón, que se extiende más de 150 km. En unas dos horas llegamos al Valle de los Castillos, donde el viento y la lluvia han tallado la arenisca en acantilados que parecen fortalezas. Bajamos a pie unos 40 minutos hasta el río Charyn entre paredes rojas y anaranjadas. Comida en un café junto al cañón y seguimos hacia los lagos Kolsay, en el Tian Shan del norte, adonde llegamos al final de la tarde. Cena casera y noche en una casa de huéspedes.",
+          "La Four Stans Odyssey es un tour por Asia Central de 18 días y 17 noches por Kazajistán, Kirguistán, Tayikistán y Uzbekistán. La primera semana es de montaña: Almaty, el cañón de Charyn, los lagos Kolsay y Kaindy, Karakol y la región del Issyk-Kul y las artesanas del fieltro de Kochkor. Desde Taskent pasamos a Tayikistán para ver Juyand, Istaravshan, Penjikent y los Siete Lagos de los montes Fan, y volvemos a Uzbekistán: dos días en Samarcanda, Bujará en tren y Jiva."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Hotels listed below, or similar properties of the same category, in double or twin rooms with breakfast. Early check-in on Day 1 in Almaty is included; at other hotels check-in is at 14:00 and check-out at 12:00",
+          "Guesthouse night at Kolsay (twin room)",
+          "Meals: daily breakfasts, 4 lunches and 3 dinners (including a cooking class in Bukhara) as per the programme"
+        ],
+        "de": [
+          "Hotels wie unten aufgeführt oder gleichwertige Häuser derselben Kategorie, im Doppel- oder Zweibettzimmer mit Frühstück. Early Check-in am 1. Tag in Almaty inklusive; in den übrigen Hotels Check-in um 14:00, Check-out um 12:00 Uhr",
+          "Eine Nacht im Gästehaus in Kolsai (Zweibettzimmer)",
+          "Mahlzeiten: täglich Frühstück, 4 Mittagessen und 3 Abendessen (inklusive Kochkurs in Buchara) laut Programm"
+        ],
+        "fr": [
+          "Hôtels indiqués ci-dessous, ou établissements similaires de même catégorie, en chambre double ou twin avec petit-déjeuner. Early check-in le jour 1 à Almaty inclus ; dans les autres hôtels, arrivée à 14 h et départ à 12 h",
+          "Nuit en maison d’hôtes à Kolsay (chambre twin)",
+          "Repas : petits-déjeuners quotidiens, 4 déjeuners et 3 dîners (dont un cours de cuisine à Boukhara) selon le programme"
+        ],
+        "ja": [
+          "下記ホテルまたは同クラスのホテル（ダブルまたはツイン、朝食付き）。1日目アルマトイのアーリーチェックイン込み。その他のホテルはチェックイン14:00、チェックアウト12:00",
+          "コルサイのゲストハウス泊（ツイン）",
+          "食事：毎日の朝食、昼食4回、夕食3回（ブハラでの料理教室を含む、行程表のとおり）"
+        ],
+        "es": [
+          "Hoteles indicados abajo, o similares de la misma categoría, en habitación doble o twin con desayuno. Early check-in el día 1 en Almaty incluido; en los demás hoteles la entrada es a las 14:00 y la salida a las 12:00",
+          "Noche en casa de huéspedes en Kolsay (habitación twin)",
+          "Comidas: desayunos diarios, 4 comidas y 3 cenas (incluida una clase de cocina en Bujará) según el programa"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "所要日数",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "18 Days",
+            "de": "18 Days",
+            "fr": "18 Days",
+            "ja": "18 Days",
+            "es": "18 Days"
+          }
+        },
+        {
+          "label": {
+            "en": "Starting Price",
+            "de": "Preis ab",
+            "fr": "Prix dès",
+            "ja": "参考料金",
+            "es": "Precio desde"
+          },
+          "value": {
+            "en": "From $3145 USD / person",
+            "de": "From $3145 USD / person",
+            "fr": "From $3145 USD / person",
+            "ja": "From $3145 USD / person",
+            "es": "From $3145 USD / person"
+          }
+        },
+        {
+          "label": {
+            "en": "Best Season",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure saison",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "Year-round",
+            "de": "Year-round",
+            "fr": "Year-round",
+            "ja": "Year-round",
+            "es": "Year-round"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400037/sunday-atlas/scenic-view-of-fann-mountains-lake-in-tajikistan-39662460_keryrm.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "Fann Niagara Waterfall & Snake Lake — Tajikistan tour photo",
+          "de": "Fann Niagara Waterfall & Snake Lake — Tajikistan tour photo",
+          "fr": "Fann Niagara Waterfall & Snake Lake — Tajikistan tour photo",
+          "ja": "Fann Niagara Waterfall & Snake Lake — Tajikistan tour photo",
+          "es": "Fann Niagara Waterfall & Snake Lake — Tajikistan tour photo"
+        },
+        "caption": {
+          "en": "Fann Niagara Waterfall & Snake Lake · Four Stans Odyssey",
+          "de": "Fann Niagara Waterfall & Snake Lake · Four Stans Odyssey",
+          "fr": "Fann Niagara Waterfall & Snake Lake · Four Stans Odyssey",
+          "ja": "Fann Niagara Waterfall & Snake Lake · フォー・スタンズ・オデッセイ",
+          "es": "Fann Niagara Waterfall & Snake Lake · Four Stans Odyssey"
+        }
+      },
+      "embeddedPackageSlug": "four-stans-odyssey-18-days"
+    },
+    {
+      "id": "section-3",
+      "rankNumber": 3,
+      "placeName": {
+        "en": "Anzob Pass & Dushanbe Highlights",
+        "de": "Anzob Pass & Dushanbe Highlights",
+        "fr": "Anzob Pass & Dushanbe Highlights",
+        "ja": "Anzob Pass & Dushanbe Highlights",
+        "es": "Anzob Pass & Dushanbe Highlights"
+      },
+      "heading": {
+        "en": "3. Bishkek – Kochkor village – Naryn, 320 km by road",
+        "de": "3. Bischkek – Dorf Kotschkor – Naryn, 320 km auf der Straße",
+        "fr": "3. Bichkek – village de Kotchkor – Naryn, 320 km par la route",
+        "ja": "3. ビシュケク – コチコル村 – ナリン、陸路320km",
+        "es": "3. Biskek – pueblo de Kochkor – Naryn, 320 km por carretera"
+      },
+      "paragraphs": {
+        "en": [
+          "After breakfast we drive toward Naryn through widening highland valleys. In Kochkor, the centre of Kyrgyz felt-making, we join a hands-on master class on making shyrdaks (felt rugs). After lunch we continue into the mountains and arrive by evening in Naryn, at more than 2,000 metres above sea level. Overnight in Naryn.",
+          "The Long Road Through the 5 Stans covers all five Central Asian countries in 22 days and 21 nights. We begin in Kyrgyzstan with Ala-Archa, the Burana Tower, Naryn and the Tash-Rabat caravanserai, a yurt camp on Issyk-Kul and Karakol, then cross to Kazakhstan for Charyn Canyon and Almaty. A flight takes us to Dushanbe, and the road leads past Iskanderkul to Penjikent and Khujand. In Uzbekistan we follow the Silk Road through Tashkent, Samarkand, Bukhara and Khiva, and finish in Turkmenistan at the Darwaza Gas Crater and Ashgabat."
+        ],
+        "de": [
+          "Nach dem Frühstück fahren wir durch immer weitere Hochtäler Richtung Naryn. In Kotschkor, dem Zentrum der kirgisischen Filzkunst, machen wir selbst mit beim Workshop zur Herstellung von Schyrdaks (Filzteppichen). Nach dem Mittagessen geht es weiter in die Berge; am Abend erreichen wir Naryn auf über 2.000 Metern Höhe. Übernachtung in Naryn.",
+          "Der lange Weg durch die 5 Stans ist eine Seidenstraße Reise durch alle fünf Länder Zentralasiens in 22 Tagen und 21 Nächten. Wir beginnen in Kirgistan mit Ala-Artscha, dem Burana-Turm, Naryn und der Karawanserei Tasch-Rabat, einem Jurtencamp am Issyk-Kul und Karakol und reisen dann nach Kasachstan zum Scharyn-Canyon und nach Almaty. Ein Flug bringt uns nach Duschanbe, und die Straße führt am Iskanderkul vorbei nach Pendschikent und Chudschand. In Usbekistan folgen wir der Seidenstraße durch Taschkent, Samarkand, Buchara und Chiwa und enden in Turkmenistan am Gaskrater von Darwasa und in Aschgabat."
+        ],
+        "fr": [
+          "Après le petit-déjeuner, nous roulons vers Naryn par des vallées d’altitude de plus en plus larges. À Kotchkor, centre du feutre kirghize, nous participons à un atelier de fabrication de shyrdaks (tapis de feutre). Après le déjeuner, nous continuons dans les montagnes et arrivons le soir à Naryn, à plus de 2 000 mètres d’altitude. Nuit à Naryn.",
+          "La longue route à travers les 5 Stans est un voyage sur la Route de la soie qui parcourt les cinq pays d’Asie centrale en 22 jours et 21 nuits. Nous commençons au Kirghizistan avec Ala-Artcha, la tour de Bourana, Naryn et le caravansérail de Tash-Rabat, un camp de yourtes au bord de l’Issyk-Koul et Karakol, puis passons au Kazakhstan pour le canyon de Charyn et Almaty. Un vol nous mène à Douchanbé, et la route longe l’Iskanderkoul jusqu’à Pendjikent et Khodjent. En Ouzbékistan, nous suivons la Route de la soie par Tachkent, Samarcande, Boukhara et Khiva, et terminons au Turkménistan, au cratère de gaz de Darvaza et à Achgabat."
+        ],
+        "ja": [
+          "朝食後、次第に広がる高原の谷を抜けてナリンへ。キルギスのフェルト作りの中心地コチコルで、シルダック（フェルト絨毯）作りのワークショップに参加します。昼食後さらに山へ進み、夕方に標高2,000メートルを超えるナリンに到着。ナリン泊。",
+          "「5つのスタンを巡る長い道」は、中央アジア5か国すべてを21泊22日で巡るシルクロードツアーです。キルギスのアラ・アルチャ、ブラナの塔、ナリンとタシュ・ラバト隊商宿、イシク・クル湖畔のユルトキャンプ、カラコルから始まり、カザフスタンへ渡ってチャリン渓谷とアルマトイへ。空路でドゥシャンベに入り、イスカンデルクル湖を経てペンジケント、ホジェンドへ。ウズベキスタンではタシケント、サマルカンド、ブハラ、ヒヴァとシルクロードをたどり、最後はトルクメニスタンのダルヴァザのガスクレーターとアシガバートで旅を終えます。"
+        ],
+        "es": [
+          "Después del desayuno vamos hacia Naryn por valles de altura cada vez más abiertos. En Kochkor, centro del fieltro kirguís, participamos en un taller para hacer shyrdaks (alfombras de fieltro). Después de comer seguimos hacia las montañas y llegamos por la tarde a Naryn, a más de 2.000 metros de altitud. Noche en Naryn.",
+          "El largo camino por los 5 Stans es un viaje por la Ruta de la Seda que recorre los cinco países de Asia Central en 22 días y 21 noches. Empezamos en Kirguistán con Ala-Archa, la torre de Burana, Naryn y el caravasar de Tash-Rabat, un campamento de yurtas en el Issyk-Kul y Karakol, y pasamos a Kazajistán para el cañón de Charyn y Almaty. Un vuelo nos lleva a Dusambé, y la carretera pasa por el Iskanderkul hasta Penjikent y Juyand. En Uzbekistán seguimos la Ruta de la Seda por Taskent, Samarcanda, Bujará y Jiva, y terminamos en Turkmenistán, en el cráter de gas de Darvaza y Asjabad."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Hotels listed below, or similar properties of the same category, in double or twin rooms with breakfast. Early check-in on Day 1 in Bishkek is included; at other hotels check-in is at 14:00 and check-out at 12:00",
+          "Yurt camp in Tamga village (twin yurts with private en-suite bathrooms)",
+          "Yurt camp at Darwaza (3–4 travellers per yurt, shared bathrooms outside the yurt)"
+        ],
+        "de": [
+          "Hotels wie unten aufgeführt oder gleichwertige Häuser derselben Kategorie, im Doppel- oder Zweibettzimmer mit Frühstück. Early Check-in am 1. Tag in Bischkek inklusive; in den übrigen Hotels Check-in um 14:00, Check-out um 12:00 Uhr",
+          "Jurtencamp im Dorf Tamga (Zweibettjurten mit eigenem Bad)",
+          "Jurtencamp in Darwasa (3–4 Reisende pro Jurte, gemeinsame Bäder außerhalb der Jurte)"
+        ],
+        "fr": [
+          "Hôtels indiqués ci-dessous, ou établissements similaires de même catégorie, en chambre double ou twin avec petit-déjeuner. Early check-in le jour 1 à Bichkek inclus ; dans les autres hôtels, arrivée à 14 h et départ à 12 h",
+          "Camp de yourtes au village de Tamga (yourtes twin avec salle de bains privative)",
+          "Camp de yourtes à Darvaza (3–4 voyageurs par yourte, sanitaires partagés à l’extérieur)"
+        ],
+        "ja": [
+          "下記ホテルまたは同クラスのホテル（ダブルまたはツイン、朝食付き）。1日目ビシュケクのアーリーチェックイン込み。その他のホテルはチェックイン14:00、チェックアウト12:00",
+          "タムガ村のユルトキャンプ（専用バスルーム付きツインのユルト）",
+          "ダルヴァザのユルトキャンプ（1ユルト3～4名、ユルト外の共用バスルーム）"
+        ],
+        "es": [
+          "Hoteles indicados abajo, o similares de la misma categoría, en habitación doble o twin con desayuno. Early check-in el día 1 en Biskek incluido; en los demás hoteles la entrada es a las 14:00 y la salida a las 12:00",
+          "Campamento de yurtas en el pueblo de Tamga (yurtas twin con baño privado)",
+          "Campamento de yurtas en Darvaza (3–4 viajeros por yurta, baños compartidos fuera de la yurta)"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "所要日数",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days",
+            "de": "22 Days",
+            "fr": "22 Days",
+            "ja": "22 Days",
+            "es": "22 Days"
+          }
+        },
+        {
+          "label": {
+            "en": "Starting Price",
+            "de": "Preis ab",
+            "fr": "Prix dès",
+            "ja": "参考料金",
+            "es": "Precio desde"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "From $3490 USD / person",
+            "fr": "From $3490 USD / person",
+            "ja": "From $3490 USD / person",
+            "es": "From $3490 USD / person"
+          }
+        },
+        {
+          "label": {
+            "en": "Best Season",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure saison",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "Year-round",
+            "de": "Year-round",
+            "fr": "Year-round",
+            "ja": "Year-round",
+            "es": "Year-round"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400035/sunday-atlas/scenic-view-of-fann-mountains-in-tajikistan-39590492_axt9ta.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "Anzob Pass & Dushanbe Highlights — Tajikistan tour photo",
+          "de": "Anzob Pass & Dushanbe Highlights — Tajikistan tour photo",
+          "fr": "Anzob Pass & Dushanbe Highlights — Tajikistan tour photo",
+          "ja": "Anzob Pass & Dushanbe Highlights — Tajikistan tour photo",
+          "es": "Anzob Pass & Dushanbe Highlights — Tajikistan tour photo"
+        },
+        "caption": {
+          "en": "Anzob Pass & Dushanbe Highlights · The Long Road Through the 5 Stans",
+          "de": "Anzob Pass & Dushanbe Highlights · Der lange Weg durch die 5 Stans",
+          "fr": "Anzob Pass & Dushanbe Highlights · La longue route à travers les 5 Stans",
+          "ja": "Anzob Pass & Dushanbe Highlights · 5つのスタンを巡る長い道",
+          "es": "Anzob Pass & Dushanbe Highlights · El largo camino por los 5 Stans"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    },
+    {
+      "id": "section-4",
+      "rankNumber": 4,
+      "placeName": {
+        "en": "Seven Lakes & Panjakent Route",
+        "de": "Seven Lakes & Panjakent Route",
+        "fr": "Seven Lakes & Panjakent Route",
+        "ja": "Seven Lakes & Panjakent Route",
+        "es": "Seven Lakes & Panjakent Route"
+      },
+      "heading": {
+        "en": "4. Dushanbe – Varzob Gorge – Anzob Pass – Iskanderkul – Dushanbe",
+        "de": "4. Duschanbe – Warsob-Schlucht – Ansob-Pass – Iskanderkul – Duschanbe",
+        "fr": "4. Douchanbé – gorges de Varzob – col d’Anzob – Iskanderkoul – Douchanbé",
+        "ja": "4. ドゥシャンベ – ヴァルゾブ渓谷 – アンゾブ峠 – イスカンデルクル – ドゥシャンベ",
+        "es": "4. Dusambé – garganta de Varzob – paso de Anzob – Iskanderkul – Dusambé"
+      },
+      "paragraphs": {
+        "en": [
+          "We pick you up early at your Dushanbe hotel in a private 4x4 and drive north through the Varzob Gorge and over (or through) the Anzob Pass into the Fann Mountains. At glacial Lake Iskanderkul (2,195 m) you have time on the shore, then a short hike to the 43-metre “Fann Niagara” waterfall and a stop at the Snake Lake (Zmeinoye) viewpoint. We drive back the same way and drop you at your hotel in the evening. A picnic lunch by the lake is included.",
+          "It is a long but spectacular mountain day: about three and a half hours each way by 4x4, with the lake, the waterfall and Snake Lake at the far end."
+        ],
+        "de": [
+          "Wir holen Sie früh mit einem privaten 4x4 an Ihrem Hotel in Duschanbe ab und fahren nordwärts durch die Warsob-Schlucht über (oder durch) den Ansob-Pass ins Fan-Gebirge. Am Gletschersee Iskanderkul (2.195 m) haben Sie Zeit am Ufer, dann folgt eine kurze Wanderung zum 43 m hohen „Fan-Niagara“-Wasserfall und ein Halt am Aussichtspunkt des Schlangensees (Smeinoje). Abends bringen wir Sie zurück zu Ihrem Hotel. Ein Picknick-Mittagessen am See ist inklusive.",
+          "Ein langer, aber spektakulärer Bergtag: rund dreieinhalb Stunden je Richtung im 4x4, am Ziel See, Wasserfall und Schlangensee."
+        ],
+        "fr": [
+          "Nous venons vous chercher tôt à votre hôtel de Douchanbé en 4x4 privé et remontons les gorges de Varzob, puis franchissons le col d’Anzob (ou son tunnel) vers les monts Fann. Au lac glaciaire d’Iskanderkoul (2 195 m), vous profitez des rives, puis une courte marche mène à la cascade « Niagara des Fann » de 43 m, avant un arrêt au belvédère du lac des Serpents (Zmeinoïe). Retour à votre hôtel en soirée. Un déjeuner pique-nique au bord du lac est inclus.",
+          "Une longue mais spectaculaire journée de montagne : environ trois heures et demie de 4x4 dans chaque sens, avec le lac, la cascade et le lac des Serpents au bout."
+        ],
+        "ja": [
+          "早朝、専用4WDでドゥシャンベのホテルへお迎えし、ヴァルゾブ渓谷を北上してアンゾブ峠（またはトンネル）を越えファン山脈へ。標高2,195mの氷河湖イスカンデルクルの湖畔で過ごし、短いハイキングで高さ43mの「ファンのナイアガラ」の滝へ。スネーク湖（ズメイノエ）の展望地にも立ち寄り、夜にホテルへ戻ります。湖畔でのピクニックランチ付きです。",
+          "長距離ながら絶景の山岳日帰り。片道約3時間半の4WD移動の先に、湖、滝、スネーク湖が待っています。"
+        ],
+        "es": [
+          "Le recogemos temprano en su hotel de Dusambé en un 4x4 privado y subimos por la garganta de Varzob y el paso de Anzob (o su túnel) hasta los montes Fann. En el lago glaciar Iskanderkul (2.195 m) tiene tiempo en la orilla, luego una caminata corta a la cascada «Niágara de Fann» de 43 m y una parada en el mirador del lago de las Serpientes (Zmeinoye). Volvemos por la noche a su hotel. Incluye un almuerzo de pícnic junto al lago.",
+          "Un día de montaña largo pero espectacular: unas tres horas y media de 4x4 por trayecto, con el lago, la cascada y el lago de las Serpientes al final."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Private hotel pick-up and drop-off in Dushanbe",
+          "Private vehicle and driver for the whole day",
+          "English-speaking guide"
+        ],
+        "de": [
+          "Privater Hoteltransfer in Duschanbe (Abholung und Rückfahrt)",
+          "Privates Fahrzeug mit Fahrer für den ganzen Tag",
+          "Englischsprachiger Guide"
+        ],
+        "fr": [
+          "Prise en charge et retour privés à votre hôtel à Douchanbé",
+          "Véhicule privé avec chauffeur toute la journée",
+          "Guide anglophone"
+        ],
+        "ja": [
+          "ドゥシャンベのホテル送迎（専用）",
+          "終日専用車とドライバー",
+          "英語ガイド"
+        ],
+        "es": [
+          "Recogida y regreso privados a su hotel en Dusambé",
+          "Vehículo privado con conductor todo el día",
+          "Guía de habla inglesa"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "所要日数",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Day",
+            "fr": "1 Day",
+            "ja": "1 Day",
+            "es": "1 Day"
+          }
+        },
+        {
+          "label": {
+            "en": "Starting Price",
+            "de": "Preis ab",
+            "fr": "Prix dès",
+            "ja": "参考料金",
+            "es": "Precio desde"
+          },
+          "value": {
+            "en": "From $160 USD / person",
+            "de": "From $160 USD / person",
+            "fr": "From $160 USD / person",
+            "ja": "From $160 USD / person",
+            "es": "From $160 USD / person"
+          }
+        },
+        {
+          "label": {
+            "en": "Best Season",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure saison",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "May to October",
+            "de": "Mai bis Oktober",
+            "fr": "De mai à octobre",
+            "ja": "5月〜10月",
+            "es": "De mayo a octubre"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400027/sunday-atlas/mountains-and-hills-towering-over-a-lake-19813021_smzigr.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "Seven Lakes & Panjakent Route — Tajikistan tour photo",
+          "de": "Seven Lakes & Panjakent Route — Tajikistan tour photo",
+          "fr": "Seven Lakes & Panjakent Route — Tajikistan tour photo",
+          "ja": "Seven Lakes & Panjakent Route — Tajikistan tour photo",
+          "es": "Seven Lakes & Panjakent Route — Tajikistan tour photo"
+        },
+        "caption": {
+          "en": "Seven Lakes & Panjakent Route · Iskanderkul Alpine Lake & Fann Mountains 4WD Day Trip from Dushanbe",
+          "de": "Seven Lakes & Panjakent Route · Iskanderkul-See & Fan-Gebirge: 4x4-Tagesausflug ab Duschanbe",
+          "fr": "Seven Lakes & Panjakent Route · Lac Iskanderkoul et monts Fann : excursion en 4x4 depuis Douchanbé",
+          "ja": "Seven Lakes & Panjakent Route · ドゥシャンベ発 イスカンデルクル湖とファン山脈 4WD日帰りツアー",
+          "es": "Seven Lakes & Panjakent Route · Lago Iskanderkul y montes Fann: excursión en 4x4 desde Dusambé"
+        }
+      },
+      "embeddedPackageSlug": "iskanderkul-lake-fann-mountains-day-trip"
+    },
+    {
+      "id": "this-season",
+      "seasonKey": "2026-11",
+      "placeName": {
+        "en": "November 2026",
+        "de": "November 2026",
+        "fr": "Novembre 2026",
+        "ja": "2026年11月",
+        "es": "Noviembre 2026"
+      },
+      "heading": {
+        "en": "November 2026 in the Fann Mountains: Winter Conditions Begin",
+        "de": "November 2026 in den Fann-Bergen: Winterbedingungen beginnen",
+        "fr": "Novembre 2026 dans les monts Fann : le début des conditions hivernales",
+        "ja": "2026年11月のファーン山脈：冬季コンディション開始",
+        "es": "Noviembre 2026 en las montañas Fann: comienzan las condiciones invernales"
+      },
+      "paragraphs": {
+        "en": [
+          "By November the Anzob Pass at 3,372 metres is usually snow-covered and the road to Iskanderkul Lake closes for the season. Daytime temperatures in the valleys hover around 5°C while the lake area drops to -5°C or lower after dark. Daylight shrinks to about 9.5 hours with sunrise near 7:00 am and sunset by 4:30 pm. Our 1-day private 4x4 trip from Dushanbe does not operate from November through April because the mountain route becomes impassable for standard vehicles.",
+          "The Seven Lakes road higher in the Fann range also closes once snow accumulates, typically by early November. Guesthouses and picnic sites around Iskanderkul shut down and no seasonal festivals run during these months. Dushanbe itself stays open with museums, bazaars and restaurants operating on normal winter hours. Travellers who remain in the capital should pack a warm coat, hat, gloves and insulated boots for any daytime excursions at altitude."
+        ],
+        "de": [
+          "Im November ist der Anzob-Pass auf 3.372 Metern in der Regel schneebedeckt und die Straße zum Iskanderkul-See schließt für die Saison. Die Tagestemperaturen in den Tälern liegen bei etwa 5 °C, während die Seeregion nach Einbruch der Dunkelheit auf -5 °C oder darunter fällt. Die Tageslichtdauer schrumpft auf etwa 9,5 Stunden mit Sonnenaufgang gegen 7:00 Uhr und Sonnenuntergang um 16:30 Uhr. Unsere 1-tägige private 4x4-Tour ab Duschanbe wird von November bis April nicht angeboten, da die Gebirgsroute für Standardfahrzeuge unpassierbar wird.",
+          "Die Straße zu den Sieben Seen höher im Fann-Gebirge schließt ebenfalls, sobald sich Schnee ansammelt, in der Regel Anfang November. Gästehäuser und Picknickplätze rund um den Iskanderkul-See schließen und es finden keine saisonalen Festivals in diesen Monaten statt. Duschanbe selbst bleibt geöffnet, Museen, Basare und Restaurants haben normale Winteröffnungszeiten. Reisende, die in der Hauptstadt bleiben, sollten für Tagesausflüge in die Höhe einen warmen Mantel, Mütze, Handschuhe und isolierte Stiefel einpacken."
+        ],
+        "fr": [
+          "En novembre, le col d'Anzob à 3 372 mètres est généralement enneigé et la route vers le lac Iskanderkul ferme pour la saison. Les températures diurnes dans les vallées oscillent autour de 5 °C, tandis que la zone du lac descend à -5 °C ou moins après la tombée de la nuit. La durée du jour diminue à environ 9,5 heures, avec un lever du soleil vers 7 h 00 et un coucher vers 16 h 30. Notre excursion privée d'1 jour en 4x4 au départ de Douchanbé ne fonctionne pas de novembre à avril car l'itinéraire de montagne devient impraticable pour les véhicules standards.",
+          "La route des Sept Lacs, plus haut dans la chaîne des Fann, ferme également dès que la neige s'accumule, généralement début novembre. Les maisons d'hôtes et les aires de pique-nique autour d'Iskanderkul ferment leurs portes et aucun festival saisonnier n'a lieu durant ces mois. Douchanbé reste ouverte, avec musées, bazars et restaurants fonctionnant selon leurs horaires d'hiver habituels. Les voyageurs qui séjournent dans la capitale doivent prévoir un manteau chaud, un bonnet, des gants et des bottes isolantes pour toute excursion diurne en altitude."
+        ],
+        "ja": [
+          "11月になると、標高3,372メートルのアンゾブ峠は通常雪に覆われ、イスカンダルクル湖への道路はシーズン終了まで閉鎖されます。谷間の日中の気温は約5℃、湖周辺は日没後-5℃以下まで下がります。日照時間は約9.5時間に短縮され、日の出は午前7時頃、日没は午後4時30分頃です。ドゥシャンベからの1日間のプライベート4x4ツアーは、山岳ルートが標準車両では通行不能となる11月から4月まで運行しておりません。",
+          "ファーン山脈のさらに高地にあるセブンレイクス道路も、雪が積もると閉鎖され、通常は11月上旬までに閉鎖されます。イスカンダルクル周辺のゲストハウスやピクニックサイトは営業を終了し、これらの月に季節の祭典は開催されません。ドゥシャンベ市内は博物館、バザール、レストランが通常の冬季営業時間で営業しています。首都に滞在する旅行者は、標高の高い場所での日中の外出のために、暖かいコート、帽子、手袋、断熱ブーツをご用意ください。"
+        ],
+        "es": [
+          "Para noviembre, el paso de Anzob, a 3.372 metros, suele estar cubierto de nieve y el camino al lago Iskanderkul cierra por la temporada. Las temperaturas diurnas en los valles rondan los 5 °C, mientras que en la zona del lago bajan a -5 °C o menos al anochecer. La luz del día se reduce a unas 9,5 horas, con el amanecer cerca de las 7:00 am y el atardecer alrededor de las 4:30 pm. Nuestro viaje privado de 1 día en 4x4 desde Dushanbe no opera de noviembre a abril porque la ruta de montaña se vuelve intransitable para vehículos estándar.",
+          "El camino de los Siete Lagos, más arriba en la cordillera Fann, también cierra una vez que se acumula la nieve, generalmente a principios de noviembre. Las casas de huéspedes y las zonas de pícnic alrededor de Iskanderkul cierran y no hay festivales estacionales durante estos meses. Dushanbe permanece abierta con museos, bazares y restaurantes operando en horario invernal normal. Los viajeros que se queden en la capital deben llevar un abrigo cálido, gorro, guantes y botas aisladas para cualquier excursión diurna a altitud."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Anzob Pass closed by snow from November",
+          "Iskanderkul day trip paused until May",
+          "Pack sub-zero rated layers for altitude"
+        ],
+        "de": [
+          "Anzob-Pass von November an durch Schnee gesperrt",
+          "Iskanderkul-Tagesausflug bis Mai ausgesetzt",
+          "Subzero-geeignete Schichten für die Höhe einpacken"
+        ],
+        "fr": [
+          "Le col d'Anzob fermé par la neige à partir de novembre",
+          "L'excursion d'une journée à Iskanderkul suspendue jusqu'en mai",
+          "Prévoyez des couches adaptées aux températures négatives pour l'altitude"
+        ],
+        "ja": [
+          "11月から雪でアンゾブ峠が閉鎖",
+          "イスカンダルクル日帰りツアーは5月まで休止",
+          "標高地帯ではマイナス対応のレイヤーをご準備ください"
+        ],
+        "es": [
+          "Paso de Anzob cerrado por nieve desde noviembre",
+          "Excursión de un día a Iskanderkul suspendida hasta mayo",
+          "Lleva capas con clasificación para bajo cero para la altitud"
+        ]
+      },
+      "keyFacts": []
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does this day tour cost?",
+        "de": "Was kostet diese Tagestour?",
+        "fr": "Combien coûte cette excursion ?",
+        "ja": "この日帰りツアーの料金は？",
+        "es": "¿Cuánto cuesta este tour?"
+      },
+      "a": {
+        "en": "It is $160 per person for 4 travellers, $170 for 3, $210 for 2 and $360 for one traveller, as a private tour.",
+        "de": "Als private Tour $160 pro Person bei 4 Reisenden, $170 bei 3, $210 bei 2 und $360 für eine Person.",
+        "fr": "En privé : 160 $ par personne à 4, 170 $ à 3, 210 $ à 2 et 360 $ pour un voyageur seul.",
+        "ja": "プライベートツアーで、4名なら1名$160、3名$170、2名$210、1名$360です。",
+        "es": "Como tour privado: $160 por persona para 4, $170 para 3, $210 para 2 y $360 para un viajero."
+      }
+    },
+    {
+      "q": {
+        "en": "Where does the tour start?",
+        "de": "Wo beginnt die Tour?",
+        "fr": "Où commence l’excursion ?",
+        "ja": "出発地はどこですか？",
+        "es": "¿Dónde empieza el tour?"
+      },
+      "a": {
+        "en": "We pick you up at your hotel in Dushanbe in the morning and bring you back there in the evening.",
+        "de": "Wir holen Sie morgens an Ihrem Hotel in Duschanbe ab und bringen Sie abends zurück.",
+        "fr": "Nous venons vous chercher le matin à votre hôtel à Douchanbé et vous y ramenons le soir.",
+        "ja": "朝ドゥシャンベのホテルへお迎えに上がり、夕方ホテルまでお送りします。",
+        "es": "Le recogemos por la mañana en su hotel de Dusambé y le devolvemos allí por la tarde."
+      }
+    },
+    {
+      "q": {
+        "en": "Which tours include Tajikistan?",
+        "de": "Welche Reisen führen durch Tadschikistan?",
+        "fr": "Quels circuits passent par le Tadjikistan ?",
+        "ja": "タジキスタンを訪れるツアーはどれですか？",
+        "es": "¿Qué viajes pasan por Tayikistán?"
+      },
+      "a": {
+        "en": "The Four Stans Odyssey (Khujand, Istaravshan, Penjikent and the Seven Lakes) and the Long Road Through the 5 Stans (Dushanbe, Hissar, Iskanderkul, Penjikent and Khujand).",
+        "de": "Four Stans Odyssey (Chudschand, Istarawschan, Pendschikent und die Sieben Seen) und Der lange Weg durch die 5 Stans (Duschanbe, Hissor, Iskanderkul, Pendschikent und Chudschand).",
+        "fr": "Four Stans Odyssey (Khodjent, Istaravchan, Pendjikent et les Sept Lacs) et La longue route à travers les 5 Stans (Douchanbé, Hissor, Iskanderkoul, Pendjikent et Khodjent).",
+        "ja": "フォー・スタンズ・オデッセイ（ホジェンド、イスタラフシャン、ペンジケント、七つの湖）と、「5つのスタンを巡る長い道」（ドゥシャンベ、ヒッサール、イスカンデルクル湖、ペンジケント、ホジェンド）です。",
+        "es": "Four Stans Odyssey (Juyand, Istaravshan, Penjikent y los Siete Lagos) y El largo camino por los 5 Stans (Dusambé, Hissar, Iskanderkul, Penjikent y Juyand)."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "title": "Iskanderkul Day Trip from Dushanbe: Fann Mountains (2027)",
+      "description": "Iskanderkul day trip from Dushanbe by 4x4: over the Anzob Pass to the glacial lake, the 43-metre waterfall and Snake Lake. See how the day runs.",
+      "keywords": [
+        "tajikistan tours",
+        "iskanderkul lake day trip",
+        "fann mountains tour",
+        "seven lakes tajikistan tour",
+        "dushanbe day trips",
+        "pamir fann mountains guide"
+      ],
+      "seo_title": "Iskanderkul Day Trip from Dushanbe: Fann Mountains (2027)",
+      "meta_description": "Iskanderkul day trip from Dushanbe by 4x4: over the Anzob Pass to the glacial lake, the 43-metre waterfall and Snake Lake. See how the day runs."
+    },
+    "de": {
+      "title": "Iskanderkul ab Duschanbe: Tagestour ins Fann-Gebirge (2027)",
+      "description": "Iskanderkul-Tagesausflug ab Duschanbe im Geländewagen: über den Ansob-Pass zum Gletschersee, zum 43 Meter hohen Wasserfall und zum Schlangensee.",
+      "keywords": [
+        "tadschikistan reisen",
+        "iskanderkul tagestour",
+        "fan gebirge reise",
+        "sieben seen tadschikistan",
+        "duschanbe ausflüge"
+      ],
+      "seo_title": "Iskanderkul ab Duschanbe: Tagestour ins Fann-Gebirge (2027)",
+      "meta_description": "Iskanderkul-Tagesausflug ab Duschanbe im Geländewagen: über den Ansob-Pass zum Gletschersee, zum 43 Meter hohen Wasserfall und zum Schlangensee."
+    },
+    "fr": {
+      "title": "Iskanderkoul depuis Douchanbé : les monts Fann (2027)",
+      "description": "Journée à l'Iskanderkoul depuis Douchanbé en 4x4 : col d'Anzob, lac glaciaire, cascade de 43 mètres et lac des Serpents. Voir le déroulé de la journée.",
+      "keywords": [
+        "circuit tadjikistan",
+        "excursion lac iskanderkoul",
+        "monts fann tadjikistan",
+        "sept lacs tadjikistan",
+        "voyage tadjikistan"
+      ],
+      "seo_title": "Iskanderkoul depuis Douchanbé : les monts Fann (2027)",
+      "meta_description": "Journée à l'Iskanderkoul depuis Douchanbé en 4x4 : col d'Anzob, lac glaciaire, cascade de 43 mètres et lac des Serpents. Voir le déroulé de la journée."
+    },
+    "ja": {
+      "title": "イスカンデルクル湖 ドゥシャンベ発日帰り：ファン山脈（2027）",
+      "description": "ドゥシャンベ発、4WDでアンゾブ峠を越えて氷河湖イスカンデルクルへ。高さ43メートルの滝とスネーク湖も訪ねます。1日の流れはこちら。",
+      "keywords": [
+        "タジキスタン ツアー",
+        "イスカンデルクル湖 日帰り",
+        "ファン山脈 ツアー",
+        "タジキスタン 七つの湖",
+        "ドゥシャンベ 観光"
+      ],
+      "seo_title": "イスカンデルクル湖 ドゥシャンベ発日帰り：ファン山脈（2027）",
+      "meta_description": "ドゥシャンベ発、4WDでアンゾブ峠を越えて氷河湖イスカンデルクルへ。高さ43メートルの滝とスネーク湖も訪ねます。1日の流れはこちら。"
+    },
+    "es": {
+      "title": "Iskanderkul desde Dusambé: día en los montes Fann (2027)",
+      "description": "Excursión de un día al Iskanderkul desde Dusambé en 4x4: el paso de Anzob, el lago glaciar, la cascada de 43 metros y el lago de la Serpiente.",
+      "keywords": [
+        "tours tayikistán",
+        "excursión lago iskanderkul",
+        "montes fann tayikistán",
+        "siete lagos tayikistán",
+        "viajes a tayikistán"
+      ],
+      "seo_title": "Iskanderkul desde Dusambé: día en los montes Fann (2027)",
+      "meta_description": "Excursión de un día al Iskanderkul desde Dusambé en 4x4: el paso de Anzob, el lago glaciar, la cascada de 43 metros y el lago de la Serpiente."
+    }
+  },
+  "contentHash": "0dc423f1c2d11ca4",
+  "refreshLog": [
+    {
+      "at": "2026-10-31T16:40:18+04:00",
+      "reason": "catalog refresh: 2 fact(s)"
+    },
+    {
+      "at": "2026-10-31T16:40:39+04:00",
+      "reason": "content edited outside the pipeline"
+    },
+    {
+      "at": "2026-11-02T22:54:53+04:00",
+      "reason": "content edited outside the pipeline"
+    },
+    {
+      "at": "2026-11-17T09:09:02+04:00",
+      "reason": "seasonal section 2026-11"
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "slug": "kyrgyzstan",
+  "name": {
+    "en": "Kyrgyzstan",
+    "de": "Kirgistan",
+    "fr": "Kirghizistan",
+    "ja": "キルギス",
+    "es": "Kirguistán",
+    "zh": "吉尔吉斯斯坦"
+  },
+  "region": {
+    "en": "Central Asia",
+    "de": "Zentralasien",
+    "fr": "Asie centrale",
+    "ja": "中央アジア",
+    "es": "Asia central",
+    "zh": "中亚"
+  },
+  "summary": {
+    "en": "Issyk-Kul, Karakol, Skazka Canyon, eagle hunters and felt makers, and the Tash-Rabat caravanserai: the mountain heart of our Central Asia tours.",
+    "de": "Issyk-Kul, Karakol, der Skazka-Canyon, Adlerjäger und Filzmacherinnen und die Karawanserei Tasch-Rabat: das Bergherz unserer Zentralasien-Reisen.",
+    "fr": "Un circuit au Kirghizistan avec l’Issyk-Koul, Karakol, le canyon Skazka, chasseurs à l’aigle et feutrières, et le caravansérail de Tash-Rabat : le cœur montagnard de nos circuits en Asie centrale.",
+    "ja": "イシク・クル湖、カラコル、スカズカ渓谷、鷲使いとフェルト職人、タシュ・ラバト隊商宿。中央アジアツアーの山の中心です。",
+    "es": "Un viaje a Kirguistán con el Issyk-Kul, Karakol, el cañón Skazka, cazadores con águila y artesanas del fieltro, y el caravasar de Tash-Rabat: el corazón de montaña de nuestros viajes por Asia Central.",
+    "zh": "伊塞克湖、卡拉科尔、斯卡兹卡峡谷、猎鹰人和毡毯艺人，以及塔什-拉巴特商队客栈：我们中亚之旅的山地核心。"
+  },
+  "bestSeasons": {
+    "en": [
+      "Late spring to early autumn is the usual season for the high valleys, Naryn and Tash-Rabat",
+      "Bishkek and Issyk-Kul can be visited more of the year, but mountain roads are best in summer"
+    ],
+    "de": [
+      "Spätfrühling bis Frühherbst ist die übliche Zeit für die Hochtäler, Naryn und Tasch-Rabat",
+      "Bischkek und der Issyk-Kul gehen länger im Jahr, Bergstraßen aber am besten im Sommer"
+    ],
+    "fr": [
+      "De la fin du printemps au début de l’automne, la saison habituelle pour les hautes vallées, Naryn et Tash-Rabat",
+      "Bichkek et l’Issyk-Koul se visitent une plus grande partie de l’année, mais les routes de montagne sont meilleures en été"
+    ],
+    "ja": [
+      "高原の谷、ナリン、タシュ・ラバトは、晩春から初秋が一般的なシーズンです",
+      "ビシュケクとイシク・クル湖は一年のより長い期間訪れられますが、山道は夏がベストです"
+    ],
+    "es": [
+      "De finales de primavera a principios de otoño, la temporada habitual para los valles altos, Naryn y Tash-Rabat",
+      "Biskek y el Issyk-Kul se visitan más meses del año, pero las carreteras de montaña son mejores en verano"
+    ],
+    "zh": [
+      "晚春到初秋是高山谷地、纳林和塔什-拉巴特的常规季节",
+      "比什凯克和伊塞克湖一年大部分时间都可以游览，但山路最适合夏季出行"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Karakol: Dungan Mosque, Holy Trinity Cathedral and the Przhevalsky museum",
+      "Jety-Oguz Gorge and Skazka Canyon on Issyk-Kul",
+      "Eagle hunters in Bokonbaevo and a felt master class in Kochkor",
+      "Bishkek: Ala-Too Square, Manas monument and Osh Bazaar",
+      "Tash-Rabat caravanserai, the Burana Tower and a yurt camp at Tamga (5 Stans tour)"
+    ],
+    "de": [
+      "Karakol: Dunganen-Moschee, Dreifaltigkeitskathedrale und Przewalski-Museum",
+      "Dschety-Oguz-Schlucht und Skazka-Canyon am Issyk-Kul",
+      "Adlerjäger in Bokonbaewo und Filz-Workshop in Kotschkor",
+      "Bischkek: Ala-Too-Platz, Manas-Denkmal und Osch-Basar",
+      "Tasch-Rabat, der Burana-Turm und ein Jurtencamp in Tamga (5-Stans-Reise)"
+    ],
+    "fr": [
+      "Karakol : mosquée doungane, cathédrale de la Sainte-Trinité et musée Prjevalski",
+      "Les gorges de Djety-Oguz et le canyon Skazka sur l’Issyk-Koul",
+      "Chasseurs à l’aigle à Bokonbaevo et atelier de feutre à Kotchkor",
+      "Bichkek : place Ala-Too, monument à Manas et bazar d’Och",
+      "Tash-Rabat, la tour de Bourana et un camp de yourtes à Tamga (circuit 5 Stans)"
+    ],
+    "ja": [
+      "カラコル：ドゥンガン・モスク、聖三位一体大聖堂、プルジェヴァリスキー博物館",
+      "イシク・クル湖のジェティ・オグズ渓谷とスカズカ渓谷",
+      "ボコンバエヴォの鷲使いとコチコルのフェルト作り体験",
+      "ビシュケク：アラトー広場、マナス像、オシュ・バザール",
+      "タシュ・ラバト、ブラナの塔、タムガのユルトキャンプ（5スタンのツアー）"
+    ],
+    "es": [
+      "Karakol: mezquita dungana, catedral de la Santísima Trinidad y museo Przhevalski",
+      "La garganta de Jety-Oguz y el cañón Skazka en el Issyk-Kul",
+      "Cazadores con águila en Bokonbaevo y taller de fieltro en Kochkor",
+      "Biskek: plaza Ala-Too, monumento a Manás y bazar de Osh",
+      "Tash-Rabat, la torre de Burana y un campamento de yurtas en Tamga (viaje 5 Stans)"
+    ],
+    "zh": [
+      "卡拉科尔：干ung清真寺、圣三一大教堂和普热瓦尔斯基博物馆",
+      "捷季奥古兹峡谷和伊塞克湖上的斯卡兹卡峡谷",
+      "博孔巴耶沃的猎鹰人和科奇科尔的毡毯大师课",
+      "比什凯克：阿拉陶广场、马纳斯纪念碑和奥什集市",
+      "塔什-拉巴特商队客栈、布拉纳塔和塔姆加的毡包营地（5 Stans tour）"
+    ]
+  },
+  "visaNote": {
+    "en": "Entry rules depend on your passport and can change, so please check the official government sources before you book. Our tours cross into Kyrgyzstan by land at Kegen or start in Bishkek.",
+    "de": "Die Einreisebestimmungen hängen von Ihrem Pass ab und können sich ändern; bitte prüfen Sie vor der Buchung die offiziellen Quellen. Unsere Reisen kommen auf dem Landweg bei Kegen nach Kirgistan oder beginnen in Bischkek.",
+    "fr": "Les conditions d’entrée dépendent de votre passeport et peuvent changer ; vérifiez les sources officielles avant de réserver. Nos circuits entrent au Kirghizistan par la route à Kegen ou commencent à Bichkek.",
+    "ja": "入国条件はお持ちのパスポートによって異なり、変更されることもあります。ご予約前に公式の情報をご確認ください。私たちのツアーは、陸路でケゲンからキルギスに入るか、ビシュケクから出発します。",
+    "es": "Los requisitos de entrada dependen de su pasaporte y pueden cambiar; consulte las fuentes oficiales antes de reservar. Nuestros viajes entran en Kirguistán por tierra en Kegen o empiezan en Biskek.",
+    "zh": "入境规则取决于您的护照，且可能会变化，请在预订前查阅官方政府信息。我们的旅行团从凯根陆路进入吉尔吉斯斯坦，或从比什凯克出发。"
+  },
+  "heroGradient": [
+    "#8A4E2C",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400036/sunday-atlas/historic-wooden-church-in-karakol-kyrgyzstan-39601524_ov1val.jpg",
+    "width": 1920,
+    "height": 2154,
+    "alt": {
+      "en": "Holy Trinity Cathedral, the historic wooden church in Karakol, Kyrgyzstan",
+      "de": "Dreifaltigkeitskathedrale, die historische Holzkirche in Karakol, Kirgistan",
+      "fr": "Cathédrale de la Sainte-Trinité, l’église en bois de Karakol, Kirghizistan",
+      "ja": "カラコルの歴史ある木造教会、聖三位一体大聖堂（キルギス）",
+      "es": "Catedral de la Santísima Trinidad, la iglesia de madera de Karakol, Kirguistán",
+      "zh": "吉尔吉斯斯坦卡拉科尔的历史悠久的木制圣三一大教堂"
+    }
+  },
+  "sample": false,
+  "published": true,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400036/sunday-atlas/historic-wooden-church-in-karakol-kyrgyzstan-39601524_ov1val.jpg",
+        "width": 1920,
+        "height": 2154
+      },
+      "alt": {
+        "en": "Holy Trinity Cathedral, the historic wooden church in Karakol, Kyrgyzstan",
+        "de": "Dreifaltigkeitskathedrale, die historische Holzkirche in Karakol, Kirgistan",
+        "fr": "Cathédrale de la Sainte-Trinité, l’église en bois de Karakol, Kirghizistan",
+        "ja": "カラコルの歴史ある木造教会、聖三位一体大聖堂（キルギス）",
+        "es": "Catedral de la Santísima Trinidad, la iglesia de madera de Karakol, Kirguistán",
+        "zh": "吉尔吉斯斯坦卡拉科尔的历史悠久的木制圣三一大教堂"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400030/sunday-atlas/winter-landscape-in-karakol-kyrgyzstan-31833313_w1bjoc.jpg",
+        "width": 1920,
+        "height": 1081
+      },
+      "alt": {
+        "en": "Karakol, Kyrgyzstan, in winter",
+        "de": "Karakol, Kirgistan, im Winter",
+        "fr": "Karakol, Kirghizistan, en hiver",
+        "ja": "冬のカラコル（キルギス）",
+        "es": "Karakol, Kirguistán, en invierno",
+        "zh": "吉尔吉斯斯坦卡拉科尔的冬季景色"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400037/sunday-atlas/red-rock-formations-at-jeti-oguz-kyrgyzstan-39694515_zk27cj.jpg",
+        "width": 1920,
+        "height": 2098
+      },
+      "alt": {
+        "en": "Red rock formations at Jety-Oguz Gorge, Kyrgyzstan",
+        "de": "Rote Felsformationen in der Dschety-Oguz-Schlucht, Kirgistan",
+        "fr": "Rochers rouges des gorges de Djety-Oguz, Kirghizistan",
+        "ja": "キルギス、ジェティ・オグズ渓谷の赤い岩",
+        "es": "Formaciones de roca roja en la garganta de Jety-Oguz, Kirguistán",
+        "zh": "吉尔吉斯斯坦捷季奥古兹峡谷的红色岩石地貌"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400029/sunday-atlas/fairy-tale-canyon-in-kyrgyzstan-24778698_lsz2un.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Skazka (Fairy Tale) Canyon on Lake Issyk-Kul, Kyrgyzstan, red and yellow clay ridges",
+        "de": "Skazka-Canyon (Märchen-Canyon) am Issyk-Kul, Kirgistan, rote und gelbe Lehmgrate",
+        "fr": "Canyon Skazka (Conte de fées) sur l’Issyk-Koul, Kirghizistan, crêtes d’argile rouge et jaune",
+        "ja": "イシク・クル湖のスカズカ渓谷、赤と黄色の粘土の尾根（キルギス）",
+        "es": "Cañón Skazka (Cuento de hadas) en el Issyk-Kul, Kirguistán, crestas de arcilla roja y amarilla",
+        "zh": "吉尔吉斯斯坦伊塞克湖上的斯卡兹卡（童话）峡谷，红黄色黏土山脊"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400025/sunday-atlas/tash-rabat-in-kyrgyzstan-17533368_xht6ol.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Tash-Rabat, the 15th-century stone caravanserai in Naryn region, Kyrgyzstan",
+        "de": "Tasch-Rabat, die steinerne Karawanserei aus dem 15. Jahrhundert in der Region Naryn, Kirgistan",
+        "fr": "Tash-Rabat, caravansérail de pierre du XVe siècle, région de Naryn, Kirghizistan",
+        "ja": "ナリン州にある15世紀の石造りの隊商宿タシュ・ラバト（キルギス）",
+        "es": "Tash-Rabat, caravasar de piedra del siglo XV en la región de Naryn, Kirguistán",
+        "zh": "吉尔吉斯斯坦纳林地区15世纪的塔什-拉巴特石造商队客栈"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400034/sunday-atlas/traditional-yurts-on-kyrgyzstan-grasslands-38302182_ke7aoa.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Yurts on the grasslands of Naryn region, Kyrgyzstan",
+        "de": "Jurten im Grasland der Region Naryn, Kirgistan",
+        "fr": "Yourtes dans les prairies de la région de Naryn, Kirghizistan",
+        "ja": "ナリン州の草原に立つユルト（キルギス）",
+        "es": "Yurtas en las praderas de la región de Naryn, Kirguistán",
+        "zh": "吉尔吉斯斯坦纳林地区草原上的毡包"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400035/sunday-atlas/sunset-over-issyk-kul-mountains-kyrgyzstan-38925950_caxk8z.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Sunset over Lake Issyk-Kul and the mountains, Kyrgyzstan",
+        "de": "Sonnenuntergang über dem Issyk-Kul und den Bergen, Kirgistan",
+        "fr": "Coucher de soleil sur l’Issyk-Koul et les montagnes, Kirghizistan",
+        "ja": "イシク・クル湖と山々の夕景（キルギス）",
+        "es": "Atardecer sobre el lago Issyk-Kul y las montañas, Kirguistán",
+        "zh": "吉尔吉斯斯坦伊塞克湖与群山上的日落"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400040/sunday-atlas/city-park-with-monument-in-the-center-6197379_u7yxjh.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "Ala-Too Square in Bishkek, Kyrgyzstan",
+        "de": "Ala-Too-Platz in Bischkek, Kirgistan",
+        "fr": "Place Ala-Too à Bichkek, Kirghizistan",
+        "ja": "ビシュケクのアラトー広場（キルギス）",
+        "es": "Plaza Ala-Too en Biskek, Kirguistán",
+        "zh": "吉尔吉斯斯坦比什凯克的阿拉陶广场"
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Kyrgyzstan Tours & Bishkek Day Trips [2027] | From $115 USD",
+      "meta_description": "Private Kyrgyzstan tours & Bishkek day trips (From $115 USD): Ala-Archa Alpine Gorge, Burana Tower, Issyk-Kul, Karakol, Jety-Oguz & Silk Road Stans tours.",
+      "focus_keyword": "kyrgyzstan tours",
+      "keywords": [
+        "kyrgyzstan tours",
+        "bishkek day trips",
+        "ala archa burana tower tour",
+        "issyk kul karakol tour",
+        "kyrgyzstan yurt camp tour",
+        "song kul lake tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Kirgistan Rundreisen & Bischkek Ausflüge [2027] | Ab $115 USD",
+      "meta_description": "Private Kirgistan-Rundreisen & Tagestouren ab Bischkek (ab $115 USD): Ala-Artscha-Schlucht, Burana-Turm, Issyk-Kul, Karakol & Jurtencamps im Tian Shan.",
+      "focus_keyword": "kirgistan rundreise",
+      "keywords": [
+        "kirgistan rundreise",
+        "kirgistan reisen",
+        "ala artscha burana tagestour",
+        "issyk kul reise",
+        "bischkek ausflüge"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuits Kirghizistan & Excursions Bichkek [2027] | Dès $115 USD",
+      "meta_description": "Circuits privés au Kirghizistan et excursions depuis Bichkek (dès $115 USD) : parc Ala-Archa, tour de Burana, lac Issyk-Koul, Karakol et camps de yourtes.",
+      "focus_keyword": "circuit kirghizistan",
+      "keywords": [
+        "circuit kirghizistan",
+        "voyage kirghizistan",
+        "excursion ala archa burana",
+        "lac issyk koul tour",
+        "excursion bichkek"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "キルギス現地ツアー＆ビシュケク日帰り旅行 [2027] | $115〜",
+      "meta_description": "キルギスのプライベートツアー＆ビシュケク発日帰り旅行（$115〜）：アラ・アルチャ国立公園、ブラナの塔、イシク・クル湖、カラコル、ユルトキャンプ宿泊。",
+      "focus_keyword": "キルギス ツアー",
+      "keywords": [
+        "キルギス ツアー",
+        "ビシュケク 日帰りツアー",
+        "アラアルチャ ブラナの塔",
+        "イシククル湖 ツアー",
+        "キルギス 旅行"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tours en Kirguistán y Excursiones Biskek [2027] | Desde $115 USD",
+      "meta_description": "Tours privados en Kirguistán y excursiones desde Biskek (desde $115 USD): garganta alpina de Ala-Archa, torre de Burana, lago Issyk-Kul, Karakol y yurtas.",
+      "focus_keyword": "tours kirguistán",
+      "keywords": [
+        "tours kirguistán",
+        "viajes a kirguistán",
+        "excursión ala archa burana",
+        "lago issyk kul tour",
+        "excursiones desde biskek"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "吉尔吉斯斯坦旅游及比什凯克一日游 [2027] | 起价 $115 USD",
+      "meta_description": "吉尔吉斯斯坦私人旅游及比什凯克一日游（起价 $115 USD）：阿拉尔查高山峡谷、布拉纳塔、伊塞克湖、卡拉科尔、杰蒂奥古兹及丝绸之路中亚国家旅游线路。",
+      "focus_keyword": "吉尔吉斯斯坦旅游",
+      "keywords": [
+        "吉尔吉斯斯坦旅游",
+        "比什凯克一日游",
+        "阿拉阿尔查峡谷",
+        "巴纳塔",
+        "伊塞克湖",
+        "卡拉科尔",
+        "杰蒂奥古兹",
+        "中亚丝路旅游",
+        "吉尔吉斯斯坦私人旅游",
+        "吉尔吉斯斯坦旅游团"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "intro": {
+    "en": "Each of our three tours includes a Kyrgyzstan tour through the mountains. Around Lake Issyk-Kul we see Karakol with its wooden Dungan Mosque and Holy Trinity Cathedral, the red cliffs of Jety-Oguz Gorge and Skazka (Fairytale) Canyon, and meet eagle hunters in Bokonbaevo. In Kochkor, felt makers show how shyrdak carpets are made. Bishkek has the Manas monument and the Changing of the Guard on Ala-Too Square. The Long Road Through the 5 Stans goes further: Ala-Archa Gorge, the Burana Tower, a Kok-Boru demonstration, Naryn and the 15th-century Tash-Rabat caravanserai, and a yurt camp at Tamga.",
+    "de": "Alle drei unserer Reisen enthalten eine Kirgistan Rundreise durch die Berge. Am Issyk-Kul sehen wir Karakol mit der hölzernen Dunganen-Moschee und der Dreifaltigkeitskathedrale, die roten Felsen der Dschety-Oguz-Schlucht und den Skazka-Canyon (Märchen-Canyon) und treffen Adlerjäger in Bokonbaewo. In Kotschkor zeigen Filzmacherinnen, wie Schyrdak-Teppiche entstehen. Bischkek hat das Manas-Denkmal und die Wachablösung auf dem Ala-Too-Platz. Der lange Weg durch die 5 Stans geht weiter: Ala-Artscha-Schlucht, Burana-Turm, eine Kok-Boru-Vorführung, Naryn, die Karawanserei Tasch-Rabat aus dem 15. Jahrhundert und ein Jurtencamp in Tamga.",
+    "fr": "Chacun de nos trois voyages comprend un circuit au Kirghizistan, dans les montagnes. Autour de l’Issyk-Koul, nous voyons Karakol avec sa mosquée doungane en bois et sa cathédrale de la Sainte-Trinité, les falaises rouges des gorges de Djety-Oguz et le canyon Skazka, et rencontrons des chasseurs à l’aigle à Bokonbaevo. À Kotchkor, les feutrières montrent comment naissent les tapis shyrdak. Bichkek a le monument à Manas et la relève de la garde sur la place Ala-Too. La longue route à travers les 5 Stans va plus loin : gorges d’Ala-Artcha, tour de Bourana, démonstration de kok-borou, Naryn, le caravansérail de Tash-Rabat du XVe siècle et un camp de yourtes à Tamga.",
+    "ja": "私たちの3つのツアーにはどれも、山あいを巡るキルギスツアーが含まれます。イシク・クル湖の周辺では、木造のドゥンガン・モスクと聖三位一体大聖堂のあるカラコル、ジェティ・オグズ渓谷の赤い岩壁、スカズカ（おとぎ話）渓谷を訪ね、ボコンバエヴォで鷲使いに会います。コチコルでは、フェルト職人がシルダック絨毯の作り方を見せてくれます。ビシュケクにはマナス像とアラトー広場の衛兵交代があります。「5つのスタンを巡る長い道」ではさらに、アラ・アルチャ渓谷、ブラナの塔、コク・ボルの実演、ナリン、15世紀のタシュ・ラバト隊商宿、タムガのユルトキャンプへ足を延ばします。",
+    "es": "Nuestros tres viajes incluyen un viaje a Kirguistán por sus montañas. Alrededor del Issyk-Kul vemos Karakol, con su mezquita dungana de madera y la catedral de la Santísima Trinidad, los acantilados rojos de la garganta de Jety-Oguz y el cañón Skazka, y conocemos a cazadores con águila en Bokonbaevo. En Kochkor, las artesanas muestran cómo se hacen las alfombras shyrdak. Biskek tiene el monumento a Manás y el cambio de guardia en la plaza Ala-Too. El largo camino por los 5 Stans va más lejos: la garganta de Ala-Archa, la torre de Burana, una demostración de kok-boru, Naryn, el caravasar de Tash-Rabat del siglo XV y un campamento de yurtas en Tamga.",
+    "zh": "我们的三条旅游线路都包括穿越吉尔吉斯斯坦山区的行程。在伊塞克湖周边，我们参观拥有木制干ung清真寺和圣三一大教堂的卡拉科尔，欣赏捷季奥古兹峡谷的红色悬崖和斯卡兹卡（童话）峡谷，并在博孔巴耶沃会见猎鹰人。在科奇科尔，毡毯艺人展示如何制作舒尔达克地毯。比什凯克有马纳斯纪念碑和阿拉陶广场的换岗仪式。《The Long Road Through the 5 Stans》行程更进一步：阿拉尔查峡谷、布拉纳塔、科克博鲁表演、纳林和15世纪的塔什-拉巴特商队客栈，以及塔姆加的毡包营地。"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "Which tours include Kyrgyzstan?",
+        "de": "Welche Reisen führen durch Kirgistan?",
+        "fr": "Quels circuits passent par le Kirghizistan ?",
+        "ja": "キルギスを訪れるツアーはどれですか？",
+        "es": "¿Qué viajes pasan por Kirguistán?",
+        "zh": "哪些旅游线路包括吉尔吉斯斯坦？"
+      },
+      "a": {
+        "en": "All three. The 3 Stans Discovery and the Four Stans Odyssey spend four nights here between Karakol, Kochkor and Bishkek. The Long Road Through the 5 Stans starts in Bishkek and adds Naryn, Tash-Rabat and a yurt camp at Tamga.",
+        "de": "Alle drei. 3 Stans Discovery und Four Stans Odyssey verbringen hier vier Nächte zwischen Karakol, Kotschkor und Bischkek. Der lange Weg durch die 5 Stans beginnt in Bischkek und ergänzt Naryn, Tasch-Rabat und ein Jurtencamp in Tamga.",
+        "fr": "Les trois. 3 Stans Discovery et Four Stans Odyssey y passent quatre nuits entre Karakol, Kotchkor et Bichkek. La longue route à travers les 5 Stans commence à Bichkek et ajoute Naryn, Tash-Rabat et un camp de yourtes à Tamga.",
+        "ja": "3つすべてです。3スタン・ディスカバリーとフォー・スタンズ・オデッセイは、カラコル、コチコル、ビシュケクで4泊します。「5つのスタンを巡る長い道」はビシュケクから始まり、ナリン、タシュ・ラバト、タムガのユルトキャンプが加わります。",
+        "es": "Los tres. 3 Stans Discovery y Four Stans Odyssey pasan aquí cuatro noches entre Karakol, Kochkor y Biskek. El largo camino por los 5 Stans empieza en Biskek y añade Naryn, Tash-Rabat y un campamento de yurtas en Tamga.",
+        "zh": "三条都包括。3 Stans Discovery 和 Four Stans Odyssey 在卡拉科尔、科奇科尔和比什凯克之间停留四晚。The Long Road Through the 5 Stans 从比什凯克出发，并增加纳林、塔什-拉巴特和塔姆加的毡包营地。"
+      }
+    },
+    {
+      "q": {
+        "en": "Do we sleep in a yurt?",
+        "de": "Übernachten wir in einer Jurte?",
+        "fr": "Dort-on en yourte ?",
+        "ja": "ユルトに泊まりますか？",
+        "es": "¿Dormimos en una yurta?",
+        "zh": "我们会在毡包里过夜吗？"
+      },
+      "a": {
+        "en": "On the Long Road Through the 5 Stans, yes: one night at the Oymo Tash yurt camp in Tamga, in twin yurts with private en-suite bathrooms. The other tours use hotels in Kyrgyzstan.",
+        "de": "Auf der Reise Der lange Weg durch die 5 Stans ja: eine Nacht im Jurtencamp Oymo Tash in Tamga, in Zweibettjurten mit eigenem Bad. Die anderen Reisen nutzen in Kirgistan Hotels.",
+        "fr": "Sur La longue route à travers les 5 Stans, oui : une nuit au camp de yourtes Oymo Tash à Tamga, en yourtes twin avec salle de bains privative. Les autres circuits utilisent des hôtels au Kirghizistan.",
+        "ja": "「5つのスタンを巡る長い道」では、タムガのオイモ・タシュ・ユルトキャンプに1泊します（専用バスルーム付きツインのユルト）。ほかのツアーでは、キルギスではホテルに泊まります。",
+        "es": "En El largo camino por los 5 Stans, sí: una noche en el campamento de yurtas Oymo Tash en Tamga, en yurtas twin con baño privado. Los otros viajes usan hoteles en Kirguistán.",
+        "zh": "在 The Long Road Through the 5 Stans 行程中，是的：在塔姆加的奥伊莫塔什毡包营地住一晚，双人毡包配有独立卫生间。其他线路在吉尔吉斯斯坦使用酒店。"
+      }
+    },
+    {
+      "q": {
+        "en": "What are the eagle hunters and felt master class?",
+        "de": "Was sind die Adlerjäger und der Filz-Workshop?",
+        "fr": "Que sont les chasseurs à l’aigle et l’atelier de feutre ?",
+        "ja": "鷲使いとフェルト作り体験とは？",
+        "es": "¿Qué son los cazadores con águila y el taller de fieltro?",
+        "zh": "鹰猎人与毡艺大师课是什么？"
+      },
+      "a": {
+        "en": "In Bokonbaevo village we watch a traditional falconry demonstration with eagle hunters. In Kochkor, artisans show how shyrdaks (felt carpets) are made, and we join in.",
+        "de": "Im Dorf Bokonbaewo sehen wir eine traditionelle Falknerei-Vorführung mit Adlerjägern. In Kotschkor zeigen Kunsthandwerkerinnen, wie Schyrdaks (Filzteppiche) entstehen, und wir machen mit.",
+        "fr": "Au village de Bokonbaevo, nous assistons à une démonstration de fauconnerie traditionnelle avec des chasseurs à l’aigle. À Kotchkor, des artisanes montrent comment se fabriquent les shyrdaks (tapis de feutre), et nous participons.",
+        "ja": "ボコンバエヴォ村で、鷲使いによる伝統的な鷹狩りの実演を見学します。コチコルでは職人がシルダック（フェルト絨毯）の作り方を見せてくれ、私たちも一緒に作ります。",
+        "es": "En el pueblo de Bokonbaevo vemos una demostración de cetrería tradicional con cazadores con águila. En Kochkor, las artesanas muestran cómo se hacen los shyrdaks (alfombras de fieltro) y participamos.",
+        "zh": "在博孔巴耶沃村，我们观看鹰猎人表演的传统猎鹰术。在科乔尔，工匠展示舒尔达克（毡地毯）的制作过程，我们也会参与其中。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Kyrgyzstan tours: Issyk-Kul, Karakol and Tash-Rabat",
+      "de": "Kirgistan Rundreise: Issyk-Kul, Karakol und Tasch-Rabat",
+      "fr": "Circuit au Kirghizistan : Issyk-Koul, Karakol et Tash-Rabat",
+      "ja": "キルギス ツアー：イシク・クル湖、カラコル、タシュ・ラバト",
+      "es": "Viaje a Kirguistán: Issyk-Kul, Karakol y Tash-Rabat",
+      "zh": "吉尔吉斯斯坦旅游：伊塞克湖、卡拉科尔和塔什拉巴特"
+    },
+    "seasons": {
+      "en": "Best time to visit Kyrgyzstan",
+      "de": "Beste Reisezeit für Kirgistan",
+      "fr": "Quand partir au Kirghizistan",
+      "ja": "キルギス旅行のベストシーズン",
+      "es": "Mejor época para viajar a Kirguistán",
+      "zh": "最佳旅游时间：吉尔吉斯斯坦"
+    },
+    "highlights": {
+      "en": "Kyrgyzstan highlights on our tours",
+      "de": "Kirgistan Reiseroute: Highlights unserer Reisen",
+      "fr": "Le Kirghizistan de nos circuits : les temps forts",
+      "ja": "ツアーで訪れるキルギスの見どころ",
+      "es": "Kirguistán: qué ver en nuestros viajes",
+      "zh": "我们旅游线路中的吉尔吉斯斯坦亮点"
+    },
+    "faq": {
+      "en": "Kyrgyzstan travel: common questions",
+      "de": "Kirgistan Reise: häufige Fragen",
+      "fr": "Voyage au Kirghizistan : questions fréquentes",
+      "ja": "キルギス旅行：よくある質問",
+      "es": "Viaje a Kirguistán: preguntas frecuentes",
+      "zh": "吉尔吉斯斯坦旅游：常见问题"
+    },
+    "packages": {
+      "en": "Kyrgyzstan tours",
+      "de": "Kirgistan Rundreisen",
+      "fr": "Voyage Kirghizistan en groupe : nos circuits",
+      "ja": "キルギスを巡るツアー",
+      "es": "Viaje en grupo a Kirguistán",
+      "zh": "吉尔吉斯斯坦旅游线路"
+    }
+  }
+}

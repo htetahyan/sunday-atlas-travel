@@ -1,0 +1,615 @@
+{
+  "slug": "learn-to-ski-poland-beskid-mountains-9-days",
+  "title": {
+    "en": "Learn to Ski in Poland: 9 Days in the Beskid Mountains",
+    "de": "Skifahren lernen in Polen: 9 Tage in den Beskiden",
+    "fr": "Apprendre à skier en Pologne : 9 jours dans les Beskides",
+    "ja": "ポーランドでスキー入門：ベスキディ山脈9日間",
+    "es": "Aprender a esquiar en Polonia: 9 días en los Beskides",
+    "zh": "波兰滑雪入门：贝斯基德山脉9天之旅"
+  },
+  "destination": "poland",
+  "countries": [],
+  "durationDays": 9,
+  "nights": 8,
+  "style": {
+    "en": "Winter & snow",
+    "de": "Winter & Schnee",
+    "fr": "Hiver et neige",
+    "ja": "冬と雪",
+    "es": "Invierno y nieve",
+    "zh": "冬季与雪"
+  },
+  "seasonNote": {
+    "en": "Winter snow season, usually December to March",
+    "de": "Wintersaison mit Schnee, meist Dezember bis März",
+    "fr": "Saison de neige, en général de décembre à mars",
+    "ja": "冬の雪のシーズン（通常12月～3月）",
+    "es": "Temporada de nieve, normalmente de diciembre a marzo",
+    "zh": "冬季滑雪季节，通常为12月至3月"
+  },
+  "summary": {
+    "en": "A 9-day beginner ski trip in Poland: fly into Kraków, then six nights at a Beskid resort in Szczyrk, Wisła or Ustroń with beginner lessons, gentle slopes and hotel spas.",
+    "de": "9 Tage Skikurs für Anfänger in Polen: Ankunft in Krakau, dann sechs Nächte in einem Beskiden-Ort – Szczyrk, Wisła oder Ustroń – mit Anfängerstunden, sanften Pisten und Hotel-Spa.",
+    "fr": "Un séjour ski débutant de 9 jours en Pologne : arrivée à Cracovie, puis six nuits dans une station des Beskides – Szczyrk, Wisła ou Ustroń – avec cours pour débutants, pistes douces et spa de l’hôtel.",
+    "ja": "ポーランドで初心者向けスキー9日間。クラクフに到着後、ベスキディ山脈のシュチルク、ヴィスワ、ウストロンのいずれかで6泊。初心者レッスン、緩やかなゲレンデ、ホテルのスパを楽しめます。",
+    "es": "Un viaje de esquí para principiantes de 9 días en Polonia: llegada a Cracovia y seis noches en una estación de los Beskides – Szczyrk, Wisła o Ustroń – con clases de iniciación, pistas suaves y spa en el hotel.",
+    "zh": "波兰9天初级滑雪之旅：飞抵克拉科夫，随后在什奇日克、维斯瓦或乌斯特龙的贝斯基德度假村住宿六晚，包含初级滑雪课程、缓坡滑雪和酒店水疗。"
+  },
+  "intro": {
+    "en": "This trip is for people who have never skied, or barely have. You spend one night in Kraków at each end and six nights at a mountain hotel in the Beskids, two and a half hours south, where beginner lessons, easy slopes and an afternoon in the spa fill most days.",
+    "de": "Diese Reise ist für Menschen, die noch nie oder kaum Ski gefahren sind. Sie verbringen am Anfang und Ende je eine Nacht in Krakau und sechs Nächte in einem Berghotel in den Beskiden, zweieinhalb Stunden südlich. Anfängerstunden, leichte Pisten und Nachmittage im Spa prägen die meisten Tage.",
+    "fr": "Ce voyage s’adresse à ceux qui n’ont jamais skié, ou très peu. Vous passez une nuit à Cracovie au début et à la fin, et six nuits dans un hôtel de montagne des Beskides, à deux heures et demie au sud, où cours pour débutants, pistes faciles et après-midi au spa remplissent la plupart des journées.",
+    "ja": "スキーが初めて、またはほとんど経験のない方のための旅です。最初と最後にクラクフで1泊ずつ、南へ約2時間半のベスキディ山脈の山岳ホテルで6泊します。初心者レッスン、易しいゲレンデ、午後のスパが中心の毎日です。",
+    "es": "Este viaje es para quien nunca ha esquiado, o casi. Pasa una noche en Cracovia al principio y al final, y seis noches en un hotel de montaña de los Beskides, a dos horas y media al sur, donde las clases de iniciación, las pistas fáciles y las tardes de spa llenan casi todos los días.",
+    "zh": "此行程适合从未滑过雪或几乎没有滑雪经验的人。您在克拉科夫各住一夜，并在贝斯基德山脉的山地酒店住宿六晚，该地位于克拉科夫以南约两个半小时车程，初级课程、缓坡滑雪和下午的水疗时光填满了大部分日子。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Kraków, arrival",
+        "de": "Krakau, Ankunft",
+        "fr": "Cracovie, arrivée",
+        "ja": "クラクフ到着",
+        "es": "Cracovia, llegada",
+        "zh": "克拉科夫，抵达"
+      },
+      "description": {
+        "en": "A private driver meets you at Kraków Airport (KRK) and takes you to your 4* or 5* hotel. After a rest, an evening walk through the Old Town is an easy first outing, with dinner at a restaurant serving Polish and international dishes if you wish.",
+        "de": "Ein privater Fahrer holt Sie am Flughafen Krakau (KRK) ab und bringt Sie in Ihr 4*- oder 5*-Hotel. Nach einer Pause bietet sich ein Abendspaziergang durch die Altstadt an, auf Wunsch mit Abendessen in einem Restaurant mit polnischer und internationaler Küche.",
+        "fr": "Un chauffeur privé vous accueille à l’aéroport de Cracovie (KRK) et vous conduit à votre hôtel 4* ou 5*. Après un repos, une promenade du soir dans la vieille ville est une première sortie facile, avec un dîner de cuisine polonaise et internationale si vous le souhaitez.",
+        "ja": "クラクフ空港（KRK）で専用ドライバーがお出迎えし、4つ星または5つ星ホテルへご案内します。休憩後は旧市街の夜の散策がおすすめ。ご希望ならポーランド料理と各国料理のレストランで夕食を。",
+        "es": "Un conductor privado le recibe en el aeropuerto de Cracovia (KRK) y le lleva a su hotel de 4* o 5*. Tras descansar, un paseo nocturno por el casco antiguo es una primera salida sencilla, con cena de cocina polaca e internacional si lo desea.",
+        "zh": "私人司机在克拉科夫机场（KRK）迎接您，并送您前往4星或5星酒店。休息后，在老城区散步是一次轻松的首次外出，如有需要，可在供应波兰和国际菜肴的餐厅用餐。"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Kraków – Beskid Mountains",
+        "de": "Krakau – Beskiden",
+        "fr": "Cracovie – Beskides",
+        "ja": "クラクフ – ベスキディ山脈",
+        "es": "Cracovia – Beskides",
+        "zh": "克拉科夫 – 贝斯基德山脉"
+      },
+      "description": {
+        "en": "A private car takes you south to the Beskids, about 2.5 hours. You check in at your resort hotel in Szczyrk, Wisła or Ustroń, take a short walk to get your bearings and have your ski equipment fitted. The evening is for the hotel spa, jacuzzi or sauna.",
+        "de": "Ein Privatwagen bringt Sie in etwa 2,5 Stunden in die Beskiden. Sie checken in Ihrem Hotel in Szczyrk, Wisła oder Ustroń ein, machen einen kurzen Orientierungsspaziergang und lassen sich die Skiausrüstung anpassen. Der Abend gehört Spa, Whirlpool oder Sauna.",
+        "fr": "Une voiture privée vous emmène vers le sud, dans les Beskides, en 2 h 30 environ. Installation à l’hôtel à Szczyrk, Wisła ou Ustroń, courte promenade de repérage et essayage du matériel de ski. La soirée est pour le spa, le jacuzzi ou le sauna.",
+        "ja": "専用車で南のベスキディ山脈へ（約2.5時間）。シュチルク、ヴィスワ、ウストロンのいずれかのホテルにチェックインし、周辺を軽く散策してスキー用具のフィッティング。夜はホテルのスパ、ジャグジー、サウナでくつろぎます。",
+        "es": "Un coche privado le lleva al sur, a los Beskides, en unas 2,5 horas. Se aloja en su hotel en Szczyrk, Wisła o Ustroń, da un breve paseo de orientación y se prueba el equipo de esquí. La noche es para el spa, el jacuzzi o la sauna.",
+        "zh": "私人车辆将您带往贝斯基德山脉，车程约2.5小时。您在什奇日克、维斯瓦或乌斯特龙的度假酒店办理入住，短途散步熟悉环境并试穿滑雪装备。晚上可享受酒店水疗、按摩浴缸或桑拿。"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "First day on snow",
+        "de": "Erster Tag im Schnee",
+        "fr": "Premier jour sur la neige",
+        "ja": "初めての雪上レッスン",
+        "es": "Primer día en la nieve",
+        "zh": "初次踏上雪地"
+      },
+      "description": {
+        "en": "The morning is your first beginner lesson with a certified instructor. In the afternoon you practise on gentle slopes or take a short walk in the snow, then warm up in the thermal area or by the fireplace with hot chocolate.",
+        "de": "Am Vormittag haben Sie Ihre erste Anfängerstunde mit einem geprüften Skilehrer. Nachmittags üben Sie an sanften Hängen oder machen einen kurzen Schneespaziergang und wärmen sich danach im Thermalbereich oder am Kamin mit heißer Schokolade auf.",
+        "fr": "Le matin, premier cours débutant avec un moniteur diplômé. L’après-midi, entraînement sur des pentes douces ou courte balade dans la neige, puis on se réchauffe à l’espace thermal ou au coin du feu avec un chocolat chaud.",
+        "ja": "午前は資格を持つインストラクターによる初心者レッスン。午後は緩やかな斜面で練習するか雪の中を短く散歩し、その後はサーマルエリアや暖炉のそばでホットチョコレートを。",
+        "es": "Por la mañana, su primera clase de iniciación con un monitor titulado. Por la tarde practica en pendientes suaves o da un corto paseo por la nieve, y luego entra en calor en la zona termal o junto a la chimenea con un chocolate caliente.",
+        "zh": "上午是您的第一堂初级滑雪课，由认证教练指导。下午您可以在缓坡上练习，或在雪地里短途散步，随后在温泉区或壁炉旁喝杯热可可取暖。"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Balance and turns",
+        "de": "Gleichgewicht und Kurven",
+        "fr": "Équilibre et virages",
+        "ja": "バランスとターンの練習",
+        "es": "Equilibrio y giros",
+        "zh": "平衡与转弯"
+      },
+      "description": {
+        "en": "Ski training continues with balance and turning. In the afternoon you can add a snowmobile or snow-tubing ride for fun. Dinner suggestion: a relaxed mountain restaurant with regional grilled dishes.",
+        "de": "Das Training geht weiter mit Gleichgewicht und Kurventechnik. Nachmittags können Sie zum Spaß eine Schneemobil- oder Snowtubing-Fahrt dazubuchen. Vorschlag zum Abendessen: ein gemütliches Bergrestaurant mit regionalem Grill.",
+        "fr": "L’entraînement se poursuit avec l’équilibre et les virages. L’après-midi, vous pouvez ajouter une balade en motoneige ou une descente en bouée pour le plaisir. Suggestion de dîner : un restaurant de montagne décontracté avec grillades régionales.",
+        "ja": "バランスとターンの技術を練習します。午後はお好みでスノーモービルやスノーチュービングも。夕食には地元のグリル料理を出す山のレストランがおすすめです。",
+        "es": "El entrenamiento continúa con equilibrio y giros. Por la tarde puede añadir un paseo en moto de nieve o un descenso en rosco por diversión. Sugerencia de cena: un restaurante de montaña con parrilla regional.",
+        "zh": "滑雪训练继续进行平衡与转弯练习。下午您可以增加一趟雪地摩托或雪地滑管体验，增添乐趣。晚餐建议：一家供应当地烤制菜肴的轻松山地餐厅。"
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Ski morning, spa afternoon",
+        "de": "Skivormittag, Spa-Nachmittag",
+        "fr": "Matinée ski, après-midi spa",
+        "ja": "午前スキー、午後スパ",
+        "es": "Mañana de esquí, tarde de spa",
+        "zh": "上午滑雪，下午水疗"
+      },
+      "description": {
+        "en": "A full morning on the slopes with an instructor nearby. The afternoon is free for the spa, the pool or a short walk to a nearby village. You can also stop at a highland hut that makes oscypek, the smoked sheep’s cheese of southern Poland.",
+        "de": "Ein ganzer Vormittag auf der Piste, ein Skilehrer in der Nähe. Der Nachmittag ist frei für Spa, Pool oder einen kurzen Spaziergang ins nächste Dorf. Möglich ist auch ein Besuch in einer Hütte, die Oscypek herstellt, den geräucherten Schafskäse Südpolens.",
+        "fr": "Une matinée complète sur les pistes avec un moniteur à proximité. L’après-midi est libre pour le spa, la piscine ou une courte marche jusqu’au village voisin. Vous pouvez aussi vous arrêter dans une cabane qui fabrique l’oscypek, le fromage de brebis fumé du sud de la Pologne.",
+        "ja": "インストラクターのサポートのもと午前中たっぷり滑ります。午後はスパ、プール、近くの村への散歩などご自由に。南ポーランドの燻製羊乳チーズ「オスツィペク」を作る山小屋に立ち寄ることもできます。",
+        "es": "Una mañana completa en las pistas con un monitor cerca. La tarde es libre para el spa, la piscina o un paseo hasta un pueblo cercano. También puede visitar una cabaña donde elaboran oscypek, el queso ahumado de oveja del sur de Polonia.",
+        "zh": "在教练陪同下，在雪道上度过整个上午。下午可自由享受水疗、游泳池，或短途步行前往附近村庄。您也可以前往一座制作奥斯切佩克（南波兰的熏羊奶酪）的高地小屋。"
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Longer slopes",
+        "de": "Längere Pisten",
+        "fr": "Des pistes plus longues",
+        "ja": "長めのコースに挑戦",
+        "es": "Pistas más largas",
+        "zh": "更长的雪道"
+      },
+      "description": {
+        "en": "Today you move to longer runs to work on technique and control. The afternoon is free to rest, or for a horse-drawn sleigh ride that ends at a bonfire. In the evening, a quiet dinner in a chalet restaurant.",
+        "de": "Heute geht es auf längere Abfahrten, um Technik und Kontrolle zu verbessern. Der Nachmittag ist frei zum Ausruhen oder für eine Pferdeschlittenfahrt mit Lagerfeuer. Am Abend ein ruhiges Essen in einem Chalet-Restaurant.",
+        "fr": "Aujourd’hui, des descentes plus longues pour travailler la technique et le contrôle. L’après-midi est libre pour se reposer ou pour une promenade en traîneau à cheval qui se termine autour d’un feu de camp. Le soir, dîner tranquille dans un restaurant de chalet.",
+        "ja": "今日は長めのコースで技術とコントロールを磨きます。午後は休憩、または焚き火で締めくくる馬ぞりもおすすめ。夜はシャレー風レストランで静かな夕食を。",
+        "es": "Hoy pasa a bajadas más largas para mejorar técnica y control. La tarde es libre para descansar o para un paseo en trineo de caballos que termina junto a una hoguera. Por la noche, una cena tranquila en un restaurante de chalé.",
+        "zh": "今天您将转到更长的雪道，练习技巧和控制。下午可自由休息，或参加一趟以篝火结束的马拉雪橇之旅。晚上，在木屋餐厅享用安静的晚餐。"
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Free day: Wisła or Ustroń",
+        "de": "Freier Tag: Wisła oder Ustroń",
+        "fr": "Journée libre : Wisła ou Ustroń",
+        "ja": "自由行動：ヴィスワまたはウストロン",
+        "es": "Día libre: Wisła o Ustroń",
+        "zh": "自由日：维斯瓦或乌斯特龙"
+      },
+      "description": {
+        "en": "Choose between more skiing and a half-day trip to Wisła or Ustroń. Ski shops and thermal spas are other options. For the last evening in the mountains, the panoramic restaurant at your resort is a good choice for a farewell dinner.",
+        "de": "Sie wählen zwischen weiterem Skifahren und einem Halbtagesausflug nach Wisła oder Ustroń. Skigeschäfte und Thermalbäder sind weitere Möglichkeiten. Für den letzten Abend in den Bergen eignet sich das Panoramarestaurant Ihres Hotels.",
+        "fr": "Au choix : encore du ski ou une demi-journée à Wisła ou Ustroń. Magasins de ski et spas thermaux sont d’autres options. Pour la dernière soirée en montagne, le restaurant panoramique de votre hôtel se prête bien à un dîner d’adieu.",
+        "ja": "スキーを続けるか、ヴィスワやウストロンへの半日観光かをお選びください。スキーショップ巡りや温泉スパも。山での最後の夜は、ホテルのパノラマレストランでの夕食がおすすめです。",
+        "es": "Elija entre más esquí o una excursión de medio día a Wisła o Ustroń. Las tiendas de esquí y los spas termales son otras opciones. Para la última noche en la montaña, el restaurante panorámico de su hotel es buena opción para la cena de despedida.",
+        "zh": "在继续滑雪和前往维斯瓦或乌斯特龙的半日游之间选择。滑雪店和温泉水疗也是其他选择。作为山中最后一个晚上，度假村的全景餐厅是告别晚餐的好去处。"
+      }
+    },
+    {
+      "day": 8,
+      "title": {
+        "en": "Beskid Mountains – Kraków",
+        "de": "Beskiden – Krakau",
+        "fr": "Beskides – Cracovie",
+        "ja": "ベスキディ山脈 – クラクフ",
+        "es": "Beskides – Cracovia",
+        "zh": "贝斯基德山脉 – 克拉科夫"
+      },
+      "description": {
+        "en": "A private transfer takes you back to Kraków, about 2.5 hours, with an optional stop in Katowice for lunch or a short look around. In the evening, a stroll across Kraków’s Main Square.",
+        "de": "Ein privater Transfer bringt Sie in etwa 2,5 Stunden zurück nach Krakau, auf Wunsch mit Halt in Kattowitz zum Mittagessen oder für einen kurzen Rundgang. Am Abend ein Bummel über den Krakauer Hauptmarkt.",
+        "fr": "Un transfert privé vous ramène à Cracovie en 2 h 30 environ, avec un arrêt possible à Katowice pour déjeuner ou une courte visite. Le soir, flânerie sur la place du Marché de Cracovie.",
+        "ja": "専用車でクラクフへ戻ります（約2.5時間）。お好みでカトヴィツェに立ち寄り昼食や短い観光も。夜はクラクフの中央広場を散策します。",
+        "es": "Un traslado privado le devuelve a Cracovia en unas 2,5 horas, con parada opcional en Katowice para almorzar o dar una vuelta. Por la noche, un paseo por la Plaza del Mercado de Cracovia.",
+        "zh": "私人接送车将您带回克拉科夫，车程约2.5小时，可选择在卡托维兹停留用餐或短暂游览。晚上，在克拉科夫主广场散步。"
+      }
+    },
+    {
+      "day": 9,
+      "title": {
+        "en": "Kraków, departure",
+        "de": "Krakau, Abreise",
+        "fr": "Cracovie, départ",
+        "ja": "クラクフ出発",
+        "es": "Cracovia, salida",
+        "zh": "克拉科夫，离开"
+      },
+      "description": {
+        "en": "A private transfer takes you to Kraków Airport, with help for your luggage and the VAT refund on your shopping.",
+        "de": "Ein privater Transfer bringt Sie zum Flughafen Krakau, mit Hilfe beim Gepäck und bei der Mehrwertsteuer-Rückerstattung Ihrer Einkäufe.",
+        "fr": "Un transfert privé vous conduit à l’aéroport de Cracovie, avec de l’aide pour les bagages et le remboursement de la TVA sur vos achats.",
+        "ja": "専用車でクラクフ空港へ。荷物の運搬や買い物のVAT還付手続きもお手伝いします。",
+        "es": "Un traslado privado le lleva al aeropuerto de Cracovia, con ayuda para el equipaje y la devolución del IVA de sus compras.",
+        "zh": "私人接送车将您送往克拉科夫机场，并协助处理行李和购物退税。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "8 nights in 4* or 5* hotels, with breakfast",
+      "Private airport transfers on arrival and departure, and private transfers between cities and resorts",
+      "Beginner ski programme (basic package), with help choosing your equipment",
+      "An online concierge to help before and during the trip",
+      "A local SIM card for calls and data",
+      "24/7 support while you travel"
+    ],
+    "de": [
+      "8 Nächte in 4*- oder 5*-Hotels mit Frühstück",
+      "Private Flughafentransfers bei Ankunft und Abreise sowie private Transfers zwischen Städten und Orten",
+      "Anfänger-Skiprogramm (Basispaket) mit Hilfe bei der Wahl der Ausrüstung",
+      "Ein Online-Concierge, der vor und während der Reise hilft",
+      "Eine lokale SIM-Karte für Anrufe und Daten",
+      "Rund-um-die-Uhr-Betreuung während der Reise"
+    ],
+    "fr": [
+      "8 nuits en hôtels 4* ou 5*, petit-déjeuner compris",
+      "Transferts privés aéroport à l’arrivée et au départ, et transferts privés entre les villes et les stations",
+      "Programme de ski débutant (formule de base), avec aide pour choisir le matériel",
+      "Un concierge en ligne pour vous aider avant et pendant le voyage",
+      "Une carte SIM locale pour les appels et les données",
+      "Assistance 24 h/24 et 7 j/7 pendant le voyage"
+    ],
+    "ja": [
+      "4つ星または5つ星ホテル8泊（朝食付き）",
+      "到着・出発時の専用空港送迎、都市間・リゾート間の専用車移動",
+      "初心者向けスキープログラム（ベーシック）、用具選びのサポート付き",
+      "旅行前・旅行中にサポートするオンラインコンシェルジュ",
+      "通話・データ通信用の現地SIMカード",
+      "旅行中の24時間サポート"
+    ],
+    "es": [
+      "8 noches en hoteles de 4* o 5*, con desayuno",
+      "Traslados privados al aeropuerto a la llegada y la salida, y traslados privados entre ciudades y estaciones",
+      "Programa de esquí para principiantes (paquete básico), con ayuda para elegir el equipo",
+      "Un conserje en línea que le ayuda antes y durante el viaje",
+      "Una tarjeta SIM local para llamadas y datos",
+      "Asistencia 24/7 durante el viaje"
+    ],
+    "zh": [
+      "8晚4星或5星酒店住宿，含早餐",
+      "抵达和离境的私人机场接送，以及城市与度假村之间的私人接送",
+      "初级滑雪课程（基础套餐），协助选择装备",
+      "在线礼宾服务，行前及行程中提供帮助",
+      "本地SIM卡，用于通话和上网",
+      "旅途中24/7支持"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights",
+      "Lunches and dinners (restaurants suggested in the itinerary are paid locally)",
+      "Equipment rental and lift passes",
+      "Optional extras, added on request: a private ski instructor for the whole stay or chosen days, spa and thermal treatments, a snowmobile or sleigh ride, a ski photo session, welcome and farewell dinners, a local guide in Kraków on the first or last day",
+      "Travel insurance and any Schengen visa fees"
+    ],
+    "de": [
+      "Internationale Flüge",
+      "Mittag- und Abendessen (die im Reiseverlauf vorgeschlagenen Restaurants zahlen Sie vor Ort)",
+      "Ausrüstungsverleih und Skipässe",
+      "Optionale Extras auf Wunsch: privater Skilehrer für den ganzen Aufenthalt oder einzelne Tage, Spa- und Thermalanwendungen, Schneemobil- oder Schlittenfahrt, Ski-Fotoshooting, Begrüßungs- und Abschiedsessen, lokaler Guide in Krakau am ersten oder letzten Tag",
+      "Reiseversicherung und eventuelle Schengen-Visumgebühren"
+    ],
+    "fr": [
+      "Vols internationaux",
+      "Déjeuners et dîners (les restaurants suggérés dans le programme se règlent sur place)",
+      "Location du matériel et forfaits de remontées",
+      "Options sur demande : moniteur de ski privé pour tout le séjour ou certains jours, soins spa et thermaux, motoneige ou traîneau, séance photo au ski, dîners de bienvenue et d’adieu, guide local à Cracovie le premier ou le dernier jour",
+      "Assurance voyage et frais de visa Schengen éventuels"
+    ],
+    "ja": [
+      "国際航空券",
+      "昼食・夕食（行程内でご提案するレストランは現地でお支払い）",
+      "スキー用具レンタルとリフト券",
+      "ご希望に応じて追加できるオプション：全日程または指定日のプライベートスキーインストラクター、スパ・温泉トリートメント、スノーモービルまたはそり、スキー撮影、歓迎・送別ディナー、初日または最終日のクラクフ現地ガイド",
+      "旅行保険、必要な場合のシェンゲンビザ費用"
+    ],
+    "es": [
+      "Vuelos internacionales",
+      "Almuerzos y cenas (los restaurantes sugeridos en el itinerario se pagan en destino)",
+      "Alquiler de equipo y forfaits",
+      "Extras opcionales, bajo petición: monitor de esquí privado para toda la estancia o días concretos, tratamientos de spa y termales, moto de nieve o trineo, sesión de fotos esquiando, cenas de bienvenida y despedida, guía local en Cracovia el primer o el último día",
+      "Seguro de viaje y, si aplica, la tasa del visado Schengen"
+    ],
+    "zh": [
+      "国际机票",
+      "午餐和晚餐（行程中建议的餐厅费用需在当地支付）",
+      "装备租赁和缆车票",
+      "可选附加服务，按需添加：全程或指定天数的私人滑雪教练、水疗和温泉护理、雪地摩托或雪橇体验、滑雪摄影拍摄、欢迎和告别晚餐、克拉科夫当地导游（行程首尾日）",
+      "旅行保险及任何申根签证费用"
+    ]
+  },
+  "hotels": [],
+  "vehicles": [],
+  "sample": false,
+  "isDayTour": false,
+  "featured": false,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "Learn to Ski in Poland: 9-Day Beginner Trip, Beskid Mountains",
+      "meta_description": "9 days, 8 nights from Kraków: beginner ski lessons in Szczyrk, Wisła or Ustroń, 4–5* resort hotels with spa, private transfers. Price on request.",
+      "focus_keyword": "learn to ski in poland",
+      "keywords": [
+        "learn to ski in poland",
+        "beginner ski trip poland",
+        "szczyrk ski holiday",
+        "beskid mountains ski",
+        "poland ski package from krakow"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Skifahren lernen in Polen: 9 Tage Anfänger-Skireise Beskiden",
+      "meta_description": "9 Tage, 8 Nächte ab Krakau: Anfänger-Skistunden in Szczyrk, Wisła oder Ustroń, 4–5*-Hotels mit Spa, private Transfers. Preis auf Anfrage.",
+      "focus_keyword": "skifahren lernen polen",
+      "keywords": [
+        "skifahren lernen polen",
+        "skireise anfänger polen",
+        "szczyrk skiurlaub",
+        "beskiden ski",
+        "skireise krakau"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Apprendre à skier en Pologne : 9 jours dans les Beskides",
+      "meta_description": "9 jours, 8 nuits depuis Cracovie : cours de ski débutant à Szczyrk, Wisła ou Ustroń, hôtels 4–5* avec spa, transferts privés. Prix sur demande.",
+      "focus_keyword": "apprendre à skier pologne",
+      "keywords": [
+        "apprendre à skier pologne",
+        "séjour ski débutant pologne",
+        "ski szczyrk",
+        "beskides ski",
+        "séjour ski depuis cracovie"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "ポーランドでスキー入門：ベスキディ山脈9日間の初心者旅",
+      "meta_description": "クラクフ発8泊9日：シュチルク、ヴィスワ、ウストロンで初心者スキーレッスン、スパ付き4～5つ星ホテル、専用送迎。料金はお問い合わせ。",
+      "focus_keyword": "ポーランド スキー 初心者",
+      "keywords": [
+        "ポーランド スキー 初心者",
+        "ベスキディ山脈 スキー",
+        "シュチルク スキー",
+        "クラクフ スキーツアー",
+        "ポーランド 冬 旅行"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Aprender a esquiar en Polonia: 9 días en los Beskides",
+      "meta_description": "9 días, 8 noches desde Cracovia: clases de esquí para principiantes en Szczyrk, Wisła o Ustroń, hoteles 4–5* con spa, traslados privados. Precio a consultar.",
+      "focus_keyword": "aprender a esquiar polonia",
+      "keywords": [
+        "aprender a esquiar polonia",
+        "viaje de esquí principiantes polonia",
+        "esquí szczyrk",
+        "esquí beskides",
+        "paquete de esquí desde cracovia"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "波兰滑雪入门：比斯基德山脉9天初级之旅",
+      "meta_description": "从克拉科夫出发，9天8夜：在什奇尔克、维斯瓦或乌斯特龙学习初级滑雪，入住4-5星级带水疗的度假酒店，提供私人接送。价格另议。",
+      "focus_keyword": "波兰比斯基德山滑雪9天",
+      "keywords": [
+        "波兰比斯基德山滑雪9天",
+        "波兰初学者滑雪旅行",
+        "什奇尔克滑雪初级课程",
+        "维斯瓦滑雪度假村",
+        "乌斯特龙滑雪酒店",
+        "波兰滑雪9天8晚",
+        "克拉科夫出发滑雪团",
+        "波兰滑雪带温泉酒店",
+        "波兰滑雪私人接送",
+        "波兰滑雪度假套餐"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Learn to ski in Poland: Beskid Mountains, 9 days",
+      "de": "Skifahren lernen in Polen: Beskiden in 9 Tagen",
+      "fr": "Apprendre à skier en Pologne : les Beskides en 9 jours",
+      "ja": "ポーランドでスキー入門：ベスキディ山脈9日間",
+      "es": "Aprender a esquiar en Polonia: los Beskides en 9 días"
+    },
+    "facts": {
+      "en": "The trip at a glance",
+      "de": "Die Reise auf einen Blick",
+      "fr": "Le voyage en bref",
+      "ja": "旅の概要",
+      "es": "El viaje de un vistazo"
+    },
+    "itinerary": {
+      "en": "Kraków to the Beskids, day by day",
+      "de": "Von Krakau in die Beskiden, Tag für Tag",
+      "fr": "De Cracovie aux Beskides, jour par jour",
+      "ja": "クラクフからベスキディ山脈へ、日ごとの行程",
+      "es": "De Cracovia a los Beskides, día a día"
+    },
+    "included": {
+      "en": "What the trip includes",
+      "de": "Was die Reise umfasst",
+      "fr": "Ce qui est inclus",
+      "ja": "旅程に含まれるもの",
+      "es": "Qué incluye el viaje"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non inclus",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "faq": {
+      "en": "Learn-to-ski trip FAQs",
+      "de": "Häufige Fragen zur Skireise",
+      "fr": "Questions fréquentes sur le séjour ski",
+      "ja": "スキー旅行のよくある質問",
+      "es": "Preguntas frecuentes sobre el viaje de esquí"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need any skiing experience?",
+        "de": "Brauche ich Skierfahrung?",
+        "fr": "Faut-il déjà savoir skier ?",
+        "ja": "スキーの経験は必要ですか？",
+        "es": "¿Necesito experiencia esquiando?",
+        "zh": "我需要有滑雪经验吗？"
+      },
+      "a": {
+        "en": "No. The trip is built for first-timers: lessons start on Day 3 on gentle slopes, and the pace stays easy, with spa time most afternoons.",
+        "de": "Nein. Die Reise ist für Anfänger gemacht: Die Stunden beginnen an Tag 3 an sanften Hängen, und das Tempo bleibt ruhig, mit Zeit im Spa an den meisten Nachmittagen.",
+        "fr": "Non. Le séjour est pensé pour les débutants : les cours commencent le jour 3 sur des pentes douces, et le rythme reste tranquille, avec du temps au spa la plupart des après-midi.",
+        "ja": "いいえ。初めての方向けの旅で、3日目から緩やかな斜面でレッスンが始まります。ペースはゆったりで、ほとんどの午後はスパで過ごせます。",
+        "es": "No. El viaje está pensado para principiantes: las clases empiezan el día 3 en pendientes suaves y el ritmo es tranquilo, con tiempo de spa casi todas las tardes.",
+        "zh": "不需要。本行程专为初学者设计：第3天起在缓坡开始上课，节奏轻松，大部分下午都有水疗时间。"
+      }
+    },
+    {
+      "q": {
+        "en": "Which resort will I stay in?",
+        "de": "In welchem Ort wohne ich?",
+        "fr": "Dans quelle station vais-je loger ?",
+        "ja": "どのリゾートに泊まりますか？",
+        "es": "¿En qué estación me alojo?",
+        "zh": "我将住在哪个度假村？"
+      },
+      "a": {
+        "en": "You choose one of three Beskid resorts: Szczyrk, Wisła or Ustroń. All three are about 2.5 hours by car from Kraków Airport (KRK), where the trip starts and ends.",
+        "de": "Sie wählen einen von drei Beskiden-Orten: Szczyrk, Wisła oder Ustroń. Alle liegen etwa 2,5 Autostunden vom Flughafen Krakau (KRK) entfernt, wo die Reise beginnt und endet.",
+        "fr": "Vous choisissez l’une des trois stations des Beskides : Szczyrk, Wisła ou Ustroń. Toutes sont à environ 2 h 30 de route de l’aéroport de Cracovie (KRK), où le voyage commence et se termine.",
+        "ja": "ベスキディ山脈のシュチルク、ヴィスワ、ウストロンの3か所からお選びいただけます。いずれも旅の発着地であるクラクフ空港（KRK）から車で約2.5時間です。",
+        "es": "Usted elige una de tres estaciones de los Beskides: Szczyrk, Wisła o Ustroń. Las tres están a unas 2,5 horas en coche del aeropuerto de Cracovia (KRK), donde empieza y termina el viaje.",
+        "zh": "您可从三个比斯基德度假村中选择：什奇尔克、维斯瓦或乌斯特龙。三个度假村均距克拉科夫机场（KRK）约2.5小时车程，行程在此机场开始和结束。"
+      }
+    }
+  ],
+  "addOns": [],
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519868/sunday-atlas/packages/learn-to-ski-poland-beskid-mountains-9-days/beskid-mountains-commons-72815796.jpg",
+        "width": 1920,
+        "height": 1280,
+        "credit": {
+          "author": "Pudelek",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beskid_Ma%C5%82y_Mountains_(PL).jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "A misty forest path in the Beskid Mountains, Poland.",
+        "de": "A misty forest path in the Beskid Mountains, Poland.",
+        "fr": "A misty forest path in the Beskid Mountains, Poland.",
+        "ja": "A misty forest path in the Beskid Mountains, Poland.",
+        "es": "A misty forest path in the Beskid Mountains, Poland.",
+        "zh": "波兰比斯基德山脉中一条雾气蒙蒙的森林小径。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520168/sunday-atlas/packages/learn-to-ski-poland-beskid-mountains-9-days/krakow-commons-116650505.jpg",
+        "width": 1920,
+        "height": 1516,
+        "credit": {
+          "author": "Ввласенко",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Florian_church_in_Krak%C3%B3w._Poland.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Baroque church with twin green towers in Kraków, Poland.",
+        "de": "Baroque church with twin green towers in Kraków, Poland.",
+        "fr": "Baroque church with twin green towers in Kraków, Poland.",
+        "ja": "Baroque church with twin green towers in Kraków, Poland.",
+        "es": "Baroque church with twin green towers in Kraków, Poland.",
+        "zh": "波兰克拉科夫的巴洛克风格双绿塔教堂。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520361/sunday-atlas/packages/learn-to-ski-poland-beskid-mountains-9-days/beskid-mountains-commons-58958923.jpg",
+        "width": 1920,
+        "height": 1280,
+        "credit": {
+          "author": "Pudelek",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beskid_S%C4%85decki_in_winter_2016_05.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Snowy forest path in the Beskid Mountains, Poland, with layered mountain ridges under a clear sky.",
+        "de": "Snowy forest path in the Beskid Mountains, Poland, with layered mountain ridges under a clear sky.",
+        "fr": "Snowy forest path in the Beskid Mountains, Poland, with layered mountain ridges under a clear sky.",
+        "ja": "Snowy forest path in the Beskid Mountains, Poland, with layered mountain ridges under a clear sky.",
+        "es": "Snowy forest path in the Beskid Mountains, Poland, with layered mountain ridges under a clear sky.",
+        "zh": "波兰比斯基德山脉中的雪地森林小径，晴朗天空下层峦叠嶂。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520463/sunday-atlas/packages/learn-to-ski-poland-beskid-mountains-9-days/krakow-commons-180459361.jpg",
+        "width": 1920,
+        "height": 1439,
+        "credit": {
+          "author": "Igor123121",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krak%C3%B3w_G%C5%82%C3%B3wny_train_station,_aerial_view_2025._Krak%C3%B3w,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Aerial view of Kraków Główny railway station and surrounding city under a clear sky.",
+        "de": "Aerial view of Kraków Główny railway station and surrounding city under a clear sky.",
+        "fr": "Aerial view of Kraków Główny railway station and surrounding city under a clear sky.",
+        "ja": "Aerial view of Kraków Główny railway station and surrounding city under a clear sky.",
+        "es": "Aerial view of Kraków Główny railway station and surrounding city under a clear sky.",
+        "zh": "晴朗天空下克拉科夫主火车站及周边城市的鸟瞰图。"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520178/sunday-atlas/packages/learn-to-ski-poland-beskid-mountains-9-days/beskid-mountains-commons-128247894.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": {
+      "author": "Pudelek",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Winter_in_Beskid_%C5%9Al%C4%85ski_mountains,_Ochodzita,_Silesia_01.jpg",
+      "provider": "commons",
+      "required": true
+    },
+    "alt": {
+      "en": "Snow-covered Beskid Mountains in Poland with a wooden shelter and frosted trees.",
+      "de": "Snow-covered Beskid Mountains in Poland with a wooden shelter and frosted trees.",
+      "fr": "Snow-covered Beskid Mountains in Poland with a wooden shelter and frosted trees.",
+      "ja": "Snow-covered Beskid Mountains in Poland with a wooden shelter and frosted trees.",
+      "es": "Snow-covered Beskid Mountains in Poland with a wooden shelter and frosted trees.",
+      "zh": "波兰比斯基德山脉的雪景，有木质避难所和覆霜的树木。"
+    }
+  }
+}

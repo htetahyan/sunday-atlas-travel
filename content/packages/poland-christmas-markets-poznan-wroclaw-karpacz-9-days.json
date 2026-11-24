@@ -1,0 +1,615 @@
+{
+  "slug": "poland-christmas-markets-poznan-wroclaw-karpacz-9-days",
+  "title": {
+    "en": "Poland Christmas Markets: Poznań, Wrocław & Karpacz in 9 Days",
+    "de": "Weihnachtsmärkte in Polen: Posen, Breslau & Karpacz in 9 Tagen",
+    "fr": "Marchés de Noël en Pologne : Poznań, Wrocław et Karpacz en 9 jours",
+    "ja": "ポーランドのクリスマスマーケット：ポズナン、ヴロツワフ、カルパチ9日間",
+    "es": "Mercados navideños de Polonia: Poznan, Breslavia y Karpacz en 9 días",
+    "zh": "波兰圣诞市场：波兹南、弗罗茨瓦夫和卡帕茨 9 日游"
+  },
+  "destination": "poland",
+  "countries": [],
+  "durationDays": 9,
+  "nights": 8,
+  "style": {
+    "en": "Christmas markets & winter",
+    "de": "Weihnachtsmärkte & Winter",
+    "fr": "Marchés de Noël et hiver",
+    "ja": "クリスマスマーケットと冬",
+    "es": "Mercados navideños e invierno",
+    "zh": "圣诞市场与冬季"
+  },
+  "seasonNote": {
+    "en": "Christmas market season, late November to December",
+    "de": "Weihnachtsmarktsaison, Ende November bis Dezember",
+    "fr": "Saison des marchés de Noël, de fin novembre à décembre",
+    "ja": "クリスマスマーケットの季節（11月下旬～12月）",
+    "es": "Temporada de mercados navideños, de finales de noviembre a diciembre",
+    "zh": "圣诞市场季节，11 月底至 12 月"
+  },
+  "summary": {
+    "en": "A 9-day Christmas market trip in western Poland: three nights in Poznań with a croissant and a potato workshop, two in Wrocław for its market and gnomes, two in Karpacz in the Karkonosze mountains, and a last night in Poznań.",
+    "de": "9 Tage Weihnachtsmärkte im Westen Polens: drei Nächte in Posen mit Hörnchen- und Kartoffel-Workshop, zwei in Breslau mit Markt und Zwergen zwei in Karpacz im Riesengebirge und eine letzte in Posen.",
+    "fr": "9 jours de marchés de Noël dans l’ouest de la Pologne : trois nuits à Poznań avec un atelier croissant et un atelier pomme de terre, deux à Wrocław pour son marché et ses nains, deux à Karpacz dans les monts Karkonosze, et une dernière à Poznań.",
+    "ja": "西ポーランドのクリスマスマーケットを巡る9日間。ポズナンで3泊（クロワッサンとジャガイモのワークショップ）、ヴロツワフで2泊（マーケットと小人像）、カルコノシェ山地のカルパチで2泊、最後にポズナンで1泊。",
+    "es": "9 días de mercados navideños en el oeste de Polonia: tres noches en Poznan con taller de cruasán y de patata, dos en Breslavia por su mercado y sus enanitos, dos en Karpacz en los montes Karkonosze y una última en Poznan.",
+    "zh": "西波兰 9 天圣诞市场之旅：在波兹南住 3 晚，体验可颂和土豆工作坊；在弗罗茨瓦夫住 2 晚，游览圣诞市场和小矮人；在喀尔巴阡山脉的卡帕茨住 2 晚，最后一晚回到波兹南。"
+  },
+  "intro": {
+    "en": "This trip follows the Christmas lights across western Poland. You start in Poznań, with its market, colourful square and two hands-on food workshops, move on to Wrocław for one of the country’s biggest Christmas markets, and finish in the snowy mountain town of Karpacz with a sleigh ride and a spa resort.",
+    "de": "Diese Reise folgt den Weihnachtslichtern durch Westpolen. Sie beginnt in Posen mit Markt, buntem Platz und zwei Koch-Workshops, führt nach Breslau zu einem der größten Weihnachtsmärkte des Landes und endet im verschneiten Bergort Karpacz mit Schlittenfahrt und Spa-Hotel.",
+    "fr": "Ce voyage suit les lumières de Noël à travers l’ouest de la Pologne. Il commence à Poznań, avec son marché, sa place colorée et deux ateliers culinaires, continue à Wrocław pour l’un des plus grands marchés de Noël du pays, et se termine dans la station enneigée de Karpacz, avec traîneau et hôtel spa.",
+    "ja": "西ポーランドのクリスマスの灯りを巡る旅。マーケットとカラフルな広場、2つの料理ワークショップがあるポズナンから始まり、国内最大級のクリスマスマーケットがあるヴロツワフへ。最後は雪の山の町カルパチで馬ぞりとスパリゾートを楽しみます。",
+    "es": "Este viaje sigue las luces de Navidad por el oeste de Polonia. Empieza en Poznan, con su mercado, su plaza de colores y dos talleres de cocina, sigue a Breslavia por uno de los mayores mercados navideños del país y termina en el pueblo de montaña nevado de Karpacz, con trineo y hotel spa.",
+    "zh": "此行程沿着西波兰的圣诞灯光而行。您从波兹南出发，游览圣诞市场、色彩缤纷的广场，并参加两场动手体验的美食工作坊，随后前往弗罗茨瓦夫，游览该国最大的圣诞市场之一，最后在雪景中的卡帕茨山城结束行程，体验雪橇之旅和水疗度假村。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Poznań, arrival",
+        "de": "Posen, Ankunft",
+        "fr": "Poznań, arrivée",
+        "ja": "ポズナン到着",
+        "es": "Poznan, llegada",
+        "zh": "波兹南，抵达"
+      },
+      "description": {
+        "en": "A private driver meets you at Poznań Airport (POZ) and takes you to your 4* or 5* hotel near the Old Town. In the evening you walk around the lit-up Old Market Square; for dinner, we suggest a modern Polish restaurant with live music.",
+        "de": "Ein privater Fahrer holt Sie am Flughafen Posen (POZ) ab und bringt Sie in Ihr 4*- oder 5*-Hotel nahe der Altstadt. Am Abend spazieren Sie über den beleuchteten Alten Markt; zum Essen empfehlen wir ein modernes polnisches Restaurant mit Livemusik.",
+        "fr": "Un chauffeur privé vous accueille à l’aéroport de Poznań (POZ) et vous conduit à votre hôtel 4* ou 5* près de la vieille ville. Le soir, promenade sur le Vieux Marché illuminé ; pour le dîner, nous suggérons un restaurant polonais moderne avec musique live.",
+        "ja": "ポズナン空港（POZ）で専用ドライバーがお出迎えし、旧市街近くの4～5つ星ホテルへ。夜はライトアップされた旧市場広場を散策。夕食は生演奏のあるモダンなポーランド料理店がおすすめです。",
+        "es": "Un conductor privado le recibe en el aeropuerto de Poznan (POZ) y le lleva a su hotel de 4* o 5* cerca del casco antiguo. Por la noche pasea por la Plaza del Mercado Viejo iluminada; para cenar, sugerimos un restaurante polaco moderno con música en directo.",
+        "zh": "私人司机在波兹南机场（POZ）迎接您，并送您前往老城附近的 4* 或 5* 酒店。傍晚，您在灯火辉煌的旧城广场散步；晚餐，我们建议一家有现场音乐的现代波兰餐厅。"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Poznań Christmas market & St Martin’s croissants",
+        "de": "Posener Weihnachtsmarkt & Martinshörnchen",
+        "fr": "Marché de Noël de Poznań et croissants de la Saint-Martin",
+        "ja": "ポズナンのクリスマスマーケットと聖マルチンのクロワッサン",
+        "es": "Mercado navideño de Poznan y cruasanes de San Martín",
+        "zh": "波兹南圣诞市场与圣马丁可颂"
+      },
+      "description": {
+        "en": "The morning is for Betlejem Poznańskie, the city’s Christmas market, plus Ostrów Tumski (Cathedral Island) and the merchant houses of the Old Market Square. In the afternoon you bake your own St Martin’s croissant, the local pastry filled with white poppy seeds and almonds. Evening at leisure at the market.",
+        "de": "Der Vormittag gehört Betlejem Poznańskie, dem Weihnachtsmarkt der Stadt, der Dominsel Ostrów Tumski und den Kaufmannshäusern am Alten Markt. Nachmittags backen Sie Ihr eigenes Martinshörnchen, das lokale Gebäck mit weißem Mohn und Mandeln. Abends Zeit am Markt.",
+        "fr": "La matinée est pour Betlejem Poznańskie, le marché de Noël, l’île de la Cathédrale (Ostrów Tumski) et les maisons de marchands du Vieux Marché. L’après-midi, vous préparez votre propre croissant de la Saint-Martin, la pâtisserie locale aux graines de pavot blanc et aux amandes. Soirée libre au marché.",
+        "ja": "午前はポズナンのクリスマスマーケット「ベトレイェム・ポズナンスキェ」、大聖堂の島オストルフ・トゥムスキ、旧市場広場の商家を見学。午後は白いケシの実とアーモンドを詰めた名物「聖マルチンのクロワッサン」作りに挑戦。夜はマーケットで自由に。",
+        "es": "La mañana es para Betlejem Poznańskie, el mercado navideño, la isla de la Catedral (Ostrów Tumski) y las casas de mercaderes de la Plaza del Mercado Viejo. Por la tarde hornea su propio cruasán de San Martín, el dulce local relleno de semillas de amapola blanca y almendras. Noche libre en el mercado.",
+        "zh": "上午游览 Betlejem Poznańskie 圣诞市场，以及奥斯特罗夫图姆斯基（主教座堂岛）和旧城广场的商人房屋。下午，您亲手烘焙圣马丁可颂，这是当地馅料为白罂粟籽和杏仁的糕点。晚上在市场自由活动。"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Poznań: potato workshop & night drive",
+        "de": "Posen: Kartoffel-Workshop & Nachtfahrt",
+        "fr": "Poznań : atelier pomme de terre et tour de nuit",
+        "ja": "ポズナン：ジャガイモ料理体験と夜景ドライブ",
+        "es": "Poznan: taller de patata y paseo nocturno",
+        "zh": "波兹南：土豆工作坊与夜间驾车游"
+      },
+      "description": {
+        "en": "Poznań calls itself Poland’s potato city. At the interactive potato museum you cook local dishes such as pyry z gzikiem (potatoes with curd cheese) or kopytka dumplings. The afternoon is free for shopping or a spa, and the evening brings a short drive past the city lights with a stop at the Old Brewery.",
+        "de": "Posen nennt sich Polens Kartoffelstadt. Im interaktiven Kartoffelmuseum kochen Sie lokale Gerichte wie Pyry z gzikiem (Kartoffeln mit Quark) oder Kopytka-Klößchen. Der Nachmittag ist frei für Einkäufe oder Spa, abends folgt eine kurze Lichterfahrt mit Halt an der Alten Brauerei.",
+        "fr": "Poznań se dit la ville de la pomme de terre. Au musée interactif de la pomme de terre, vous cuisinez des plats locaux comme les pyry z gzikiem (pommes de terre au fromage blanc) ou les kopytka. L’après-midi est libre pour le shopping ou le spa, et le soir, un court tour des lumières de la ville avec arrêt à la Vieille Brasserie.",
+        "ja": "ポズナンは「ジャガイモの町」を名乗ります。体験型のジャガイモ博物館で、ピリ・ズ・グジキェム（カッテージチーズ添えポテト）やコピートカ（ポテト団子）を作ります。午後は買い物やスパで自由に過ごし、夜は旧醸造所に立ち寄る夜景ドライブへ。",
+        "es": "Poznan se llama a sí misma la ciudad de la patata. En el museo interactivo de la patata cocina platos locales como pyry z gzikiem (patatas con requesón) o kopytka. La tarde es libre para compras o spa, y por la noche un breve recorrido por las luces de la ciudad con parada en la Antigua Cervecería.",
+        "zh": "波兹南自称是波兰的土豆之城。在互动式土豆博物馆，您烹饪当地菜肴，如 pyry z gzikiem（土豆配干酪）或 kopytka 饺子。下午自由购物或享受水疗，傍晚则进行一次短途城市灯光驾车游，并在旧啤酒厂停留。"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Poznań – Wrocław",
+        "de": "Posen – Breslau",
+        "fr": "Poznań – Wrocław",
+        "ja": "ポズナン – ヴロツワフ",
+        "es": "Poznan – Breslavia",
+        "zh": "波兹南 – 弗罗茨瓦夫"
+      },
+      "description": {
+        "en": "A private transfer takes you to Wrocław, about 3 hours. After check-in you walk the Market Square, Cathedral Island and the University of Wrocław, then spend the evening at the Wrocław Christmas market, a village of wooden stalls selling crafts and chocolate.",
+        "de": "Ein privater Transfer bringt Sie in etwa 3 Stunden nach Breslau. Nach dem Check-in sehen Sie den Marktplatz, die Dominsel und die Universität und verbringen den Abend auf dem Breslauer Weihnachtsmarkt mit seinen Holzbuden voller Handwerk und Schokolade.",
+        "fr": "Un transfert privé vous emmène à Wrocław en 3 heures environ. Après l’installation, promenade sur la place du Marché, l’île de la Cathédrale et l’université, puis soirée au marché de Noël de Wrocław, un village de chalets en bois pleins d’artisanat et de chocolat.",
+        "ja": "専用車でヴロツワフへ（約3時間）。チェックイン後、市場広場、大聖堂島、ヴロツワフ大学を散策し、夜は手工芸品やチョコレートの木の屋台が並ぶヴロツワフのクリスマスマーケットへ。",
+        "es": "Un traslado privado le lleva a Breslavia en unas 3 horas. Tras el registro recorre la Plaza del Mercado, la isla de la Catedral y la Universidad, y pasa la noche en el mercado navideño de Breslavia, un pueblo de casetas de madera con artesanía y chocolate.",
+        "zh": "私人接送车将您带往弗罗茨瓦夫，车程约 3 小时。入住后，您游览市场广场、主教座堂岛和弗罗茨瓦夫大学，随后在弗罗茨瓦夫圣诞市场度过夜晚，这是一个出售工艺品和巧克力的木质摊位村庄。"
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Wrocław: bridges, gnomes & Market Hall",
+        "de": "Breslau: Brücken, Zwerge & Markthalle",
+        "fr": "Wrocław : ponts, nains et halles",
+        "ja": "ヴロツワフ：橋、小人像、市場ホール",
+        "es": "Breslavia: puentes, enanitos y mercado cubierto",
+        "zh": "弗罗茨瓦夫：桥梁、小矮人与市场大厅"
+      },
+      "description": {
+        "en": "A morning at your own pace among the Old Town bridges, the small bronze gnomes hidden around the city and the historic Market Hall. The afternoon is free for the Christmas market, and the evening for hot chocolate at the stalls or a light-festival park.",
+        "de": "Ein Vormittag in Ihrem Tempo zwischen den Altstadtbrücken, den kleinen Bronzezwergen überall in der Stadt und der historischen Markthalle. Der Nachmittag ist frei für den Weihnachtsmarkt, der Abend für heiße Schokolade an den Ständen oder einen Lichterpark.",
+        "fr": "Une matinée à votre rythme entre les ponts de la vieille ville, les petits nains de bronze cachés dans la ville et les halles historiques. L’après-midi est libre pour le marché de Noël, et la soirée pour un chocolat chaud aux stands ou un parc de lumières.",
+        "ja": "午前は旧市街の橋、街中に隠れた小さなブロンズの小人像、歴史ある市場ホールを自分のペースで巡ります。午後はクリスマスマーケットで自由に、夜は屋台でホットチョコレートを飲むか、イルミネーションパークへ。",
+        "es": "Una mañana a su ritmo entre los puentes del casco antiguo, los pequeños enanitos de bronce escondidos por la ciudad y el histórico mercado cubierto. La tarde es libre para el mercado navideño, y la noche para un chocolate caliente en los puestos o un parque de luces.",
+        "zh": "上午在老城桥梁、城市各处隐藏的小型青铜小矮人和历史悠久的市场大厅之间自由活动。下午自由游览圣诞市场，晚上在摊位喝热巧克力，或前往灯光节公园。"
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Wrocław – Karpacz",
+        "de": "Breslau – Karpacz",
+        "fr": "Wrocław – Karpacz",
+        "ja": "ヴロツワフ – カルパチ",
+        "es": "Breslavia – Karpacz",
+        "zh": "弗罗茨瓦夫 – 卡帕茨"
+      },
+      "description": {
+        "en": "You drive through the Lower Silesian countryside to Karpacz, about 2.5 hours, and check in at a mountain spa resort with views. The evening is for the sauna, the jacuzzi or a hot-stone massage.",
+        "de": "Sie fahren durch die niederschlesische Landschaft nach Karpacz, etwa 2,5 Stunden, und checken in einem Berg-Spa-Hotel mit Aussicht ein. Der Abend gehört Sauna, Whirlpool oder einer Hot-Stone-Massage.",
+        "fr": "Route à travers la campagne de Basse-Silésie jusqu’à Karpacz, en 2 h 30 environ, et installation dans un hôtel spa de montagne avec vue. La soirée est pour le sauna, le jacuzzi ou un massage aux pierres chaudes.",
+        "ja": "下シレジアの田園を抜けてカルパチへ（約2.5時間）。眺めのよい山のスパリゾートにチェックインし、夜はサウナ、ジャグジー、ホットストーンマッサージでくつろぎます。",
+        "es": "Atraviesa el campo de la Baja Silesia hasta Karpacz, en unas 2,5 horas, y se aloja en un resort de montaña con spa y vistas. La noche es para la sauna, el jacuzzi o un masaje con piedras calientes.",
+        "zh": "您驱车穿越下西里西亚乡村前往卡帕茨，车程约 2.5 小时，入住一家景色宜人的山地水疗度假村。晚上享受桑拿、按摩浴缸或热石按摩。"
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Karpacz: Vang Church & Karkonosze National Park",
+        "de": "Karpacz: Kirche Wang & Nationalpark Riesengebirge",
+        "fr": "Karpacz : église de Wang et parc national des Karkonosze",
+        "ja": "カルパチ：ヴァン教会とカルコノシェ国立公園",
+        "es": "Karpacz: iglesia de Wang y parque nacional de Karkonosze",
+        "zh": "卡帕茨：瓦恩教堂与喀尔巴阡国家公园"
+      },
+      "description": {
+        "en": "In the morning you visit Vang Church, a Norwegian wooden stave church rebuilt in Karpacz, and Karkonosze National Park. In the afternoon a horse-drawn sleigh runs through snowy forest to a bonfire with tea and music. Dinner suggestion: a regional mountain feast with folk music.",
+        "de": "Am Vormittag besuchen Sie die Kirche Wang, eine in Karpacz wiederaufgebaute norwegische Stabkirche, und den Nationalpark Riesengebirge. Nachmittags fährt ein Pferdeschlitten durch den verschneiten Wald zu Lagerfeuer, Tee und Musik. Vorschlag zum Abendessen: ein regionales Bergessen mit Volksmusik.",
+        "fr": "Le matin, visite de l’église de Wang, une église norvégienne en bois debout remontée à Karpacz, et du parc national des Karkonosze. L’après-midi, un traîneau à cheval traverse la forêt enneigée jusqu’à un feu de camp avec thé et musique. Suggestion de dîner : un repas montagnard régional avec musique folklorique.",
+        "ja": "午前は、ノルウェーから移築された木造のスターヴ教会「ヴァン教会」とカルコノシェ国立公園へ。午後は馬ぞりで雪の森を抜け、紅茶と音楽のある焚き火へ。夕食は民族音楽を聴きながら山の郷土料理をおすすめします。",
+        "es": "Por la mañana visita la iglesia de Wang, una iglesia noruega de madera reconstruida en Karpacz, y el parque nacional de Karkonosze. Por la tarde, un trineo de caballos cruza el bosque nevado hasta una hoguera con té y música. Sugerencia de cena: un festín montañés regional con música folclórica.",
+        "zh": "上午参观瓦恩教堂，这是一座在卡帕茨重建的挪威木质立柱教堂，以及喀尔巴阡国家公园。下午，马拉雪橇穿过雪林前往篝火，享用茶和音乐。晚餐建议：一场伴有民间音乐的地区山地盛宴。"
+      }
+    },
+    {
+      "day": 8,
+      "title": {
+        "en": "Karpacz – Poznań",
+        "de": "Karpacz – Posen",
+        "fr": "Karpacz – Poznań",
+        "ja": "カルパチ – ポズナン",
+        "es": "Karpacz – Poznan",
+        "zh": "卡帕茨 – 波兹南"
+      },
+      "description": {
+        "en": "A private drive back to Poznań, about 4.5 hours, with a lunch or coffee stop in Wrocław or Leszno. The evening is for a last stroll through Poznań’s market; for a farewell dinner, we suggest a rooftop restaurant over the city.",
+        "de": "Private Rückfahrt nach Posen, etwa 4,5 Stunden, mit Mittags- oder Kaffeepause in Breslau oder Leszno. Am Abend ein letzter Bummel über den Posener Markt; zum Abschied empfehlen wir ein Dachrestaurant über der Stadt.",
+        "fr": "Retour privé à Poznań, en 4 h 30 environ, avec une pause déjeuner ou café à Wrocław ou Leszno. Le soir, dernière flânerie sur le marché de Poznań ; pour le dîner d’adieu, nous suggérons un restaurant sur les toits.",
+        "ja": "専用車でポズナンへ戻ります（約4.5時間）。途中ヴロツワフかレシュノで昼食またはコーヒー休憩。夜はポズナンのマーケットを最後に散策し、送別ディナーには街を見下ろすルーフトップレストランをご提案します。",
+        "es": "Regreso privado a Poznan, en unas 4,5 horas, con parada para almorzar o tomar café en Breslavia o Leszno. Por la noche, un último paseo por el mercado de Poznan; para la cena de despedida, sugerimos un restaurante en una azotea.",
+        "zh": "私人驱车返回波兹南，车程约 4.5 小时，在弗罗茨瓦夫或莱什诺停留享用午餐或咖啡。晚上在波兹南市场最后散步一次；告别晚餐，我们建议一家城市景观的屋顶餐厅。"
+      }
+    },
+    {
+      "day": 9,
+      "title": {
+        "en": "Poznań, departure",
+        "de": "Posen, Abreise",
+        "fr": "Poznań, départ",
+        "ja": "ポズナン出発",
+        "es": "Poznan, salida",
+        "zh": "波兹南，离开"
+      },
+      "description": {
+        "en": "A private transfer takes you to Poznań Airport, with help for your luggage and the VAT refund on your shopping.",
+        "de": "Ein privater Transfer bringt Sie zum Flughafen Posen, mit Hilfe beim Gepäck und bei der Mehrwertsteuer-Rückerstattung.",
+        "fr": "Un transfert privé vous conduit à l’aéroport de Poznań, avec de l’aide pour les bagages et le remboursement de la TVA.",
+        "ja": "専用車でポズナン空港へ。荷物の運搬やVAT還付手続きもお手伝いします。",
+        "es": "Un traslado privado le lleva al aeropuerto de Poznan, con ayuda para el equipaje y la devolución del IVA.",
+        "zh": "私人接送车将您送往波兹南机场，并协助您搬运行李和办理购物 VAT 退税。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "8 nights in 4* or 5* hotels, with breakfast",
+      "Private airport transfers on arrival and departure, and private transfers between cities and resorts",
+      "Potato workshop in Poznań",
+      "St Martin’s croissant workshop in Poznań",
+      "An online concierge to help before and during the trip",
+      "A local SIM card for calls and data",
+      "24/7 support while you travel"
+    ],
+    "de": [
+      "8 Nächte in 4*- oder 5*-Hotels mit Frühstück",
+      "Private Flughafentransfers bei Ankunft und Abreise sowie private Transfers zwischen Städten und Orten",
+      "Kartoffel-Workshop in Posen",
+      "Martinshörnchen-Workshop in Posen",
+      "Ein Online-Concierge, der vor und während der Reise hilft",
+      "Eine lokale SIM-Karte für Anrufe und Daten",
+      "Rund-um-die-Uhr-Betreuung während der Reise"
+    ],
+    "fr": [
+      "8 nuits en hôtels 4* ou 5*, petit-déjeuner compris",
+      "Transferts privés aéroport à l’arrivée et au départ, et transferts privés entre les villes et les stations",
+      "Atelier pomme de terre à Poznań",
+      "Atelier croissant de la Saint-Martin à Poznań",
+      "Un concierge en ligne pour vous aider avant et pendant le voyage",
+      "Une carte SIM locale pour les appels et les données",
+      "Assistance 24 h/24 et 7 j/7 pendant le voyage"
+    ],
+    "ja": [
+      "4つ星または5つ星ホテル8泊（朝食付き）",
+      "到着・出発時の専用空港送迎、都市間・リゾート間の専用車移動",
+      "ポズナンのジャガイモ料理ワークショップ",
+      "ポズナンの聖マルチンのクロワッサン作り体験",
+      "旅行前・旅行中にサポートするオンラインコンシェルジュ",
+      "通話・データ通信用の現地SIMカード",
+      "旅行中の24時間サポート"
+    ],
+    "es": [
+      "8 noches en hoteles de 4* o 5*, con desayuno",
+      "Traslados privados al aeropuerto a la llegada y la salida, y traslados privados entre ciudades y estaciones",
+      "Taller de patata en Poznan",
+      "Taller de cruasán de San Martín en Poznan",
+      "Un conserje en línea que le ayuda antes y durante el viaje",
+      "Una tarjeta SIM local para llamadas y datos",
+      "Asistencia 24/7 durante el viaje"
+    ],
+    "zh": [
+      "8 晚 4* 或 5* 酒店住宿，含早餐",
+      "抵达和离境的私人机场接送，以及城市和度假村之间的私人接送",
+      "波兹南土豆工作坊",
+      "波兹南圣马丁月饼工作坊",
+      "行程前及行程中为您提供在线礼宾服务",
+      "本地SIM卡，可用于通话和上网",
+      "旅途中24/7支持"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights",
+      "Lunches and dinners (restaurants suggested in the itinerary are paid locally)",
+      "Optional extras, added on request: local guides in Poznań, Wrocław and Karpacz, a driver for the day with English, entry tickets to the main sights, the horse-drawn sleigh ride with bonfire, spa and wellness treatments, a winter photo session, help with shopping and gift wrapping, welcome and farewell dinners",
+      "Travel insurance and any Schengen visa fees"
+    ],
+    "de": [
+      "Internationale Flüge",
+      "Mittag- und Abendessen (die im Reiseverlauf vorgeschlagenen Restaurants zahlen Sie vor Ort)",
+      "Optionale Extras auf Wunsch: lokale Guides in Posen, Breslau und Karpacz, Tagesfahrer mit Englischkenntnissen, Eintritte zu den wichtigsten Sehenswürdigkeiten, Pferdeschlittenfahrt mit Lagerfeuer, Spa- und Wellnessanwendungen, Winter-Fotoshooting, Hilfe beim Einkaufen und Geschenkverpacken, Begrüßungs- und Abschiedsessen",
+      "Reiseversicherung und eventuelle Schengen-Visumgebühren"
+    ],
+    "fr": [
+      "Vols internationaux",
+      "Déjeuners et dîners (les restaurants suggérés dans le programme se règlent sur place)",
+      "Options sur demande : guides locaux à Poznań, Wrocław et Karpacz, chauffeur anglophone à la journée, entrées des principaux sites, traîneau à cheval avec feu de camp, soins spa et bien-être, séance photo d’hiver, aide pour les achats et les paquets cadeaux, dîners de bienvenue et d’adieu",
+      "Assurance voyage et frais de visa Schengen éventuels"
+    ],
+    "ja": [
+      "国際航空券",
+      "昼食・夕食（行程内でご提案するレストランは現地でお支払い）",
+      "ご希望に応じて追加できるオプション：ポズナン・ヴロツワフ・カルパチの現地ガイド、英語を話すドライバー（日単位）、主要観光地の入場券、焚き火付き馬ぞり、スパ・ウェルネス、冬の写真撮影、買い物とギフト包装のサポート、歓迎・送別ディナー",
+      "旅行保険、必要な場合のシェンゲンビザ費用"
+    ],
+    "es": [
+      "Vuelos internacionales",
+      "Almuerzos y cenas (los restaurantes sugeridos en el itinerario se pagan en destino)",
+      "Extras opcionales, bajo petición: guías locales en Poznan, Breslavia y Karpacz, conductor de habla inglesa por días, entradas a los principales lugares, trineo de caballos con hoguera, tratamientos de spa y bienestar, sesión de fotos de invierno, ayuda con compras y envoltorio de regalos, cenas de bienvenida y despedida",
+      "Seguro de viaje y, si aplica, la tasa del visado Schengen"
+    ],
+    "zh": [
+      "国际机票",
+      "午餐和晚餐（行程中建议的餐厅需在当地付费）",
+      "可选附加服务，按需添加：波兹南、弗罗茨瓦夫和卡帕采茨当地导游，一名会说英语的全天司机，主要景点门票，马拉雪橇搭配篝火，水疗与养生护理，冬季摄影拍摄，购物与礼品包装协助，欢迎与告别晚宴",
+      "旅游保险及任何申根签证费用"
+    ]
+  },
+  "hotels": [],
+  "vehicles": [],
+  "sample": false,
+  "isDayTour": false,
+  "featured": false,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "Poland Christmas Markets Tour: 9 Days, Poznań, Wrocław & Karpacz",
+      "meta_description": "9 days, 8 nights from Poznań: Christmas markets in Poznań and Wrocław, croissant and potato workshops, a Karpacz spa resort and sleigh ride. Price on request.",
+      "focus_keyword": "poland christmas markets tour",
+      "keywords": [
+        "poland christmas markets tour",
+        "wroclaw christmas market",
+        "poznan christmas market",
+        "karpacz winter",
+        "christmas in poland 9 days"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Weihnachtsmärkte Polen: 9 Tage Posen, Breslau & Karpacz",
+      "meta_description": "9 Tage, 8 Nächte ab Posen: Weihnachtsmärkte in Posen und Breslau, Hörnchen- und Kartoffel-Workshop, Spa-Hotel in Karpacz und Schlittenfahrt. Preis auf Anfrage.",
+      "focus_keyword": "weihnachtsmärkte polen reise",
+      "keywords": [
+        "weihnachtsmärkte polen reise",
+        "breslau weihnachtsmarkt",
+        "posen weihnachtsmarkt",
+        "karpacz winter",
+        "weihnachten in polen"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Marchés de Noël en Pologne : 9 jours, Poznań, Wrocław, Karpacz",
+      "meta_description": "9 jours, 8 nuits depuis Poznań : marchés de Noël de Poznań et Wrocław, ateliers croissant et pomme de terre, hôtel spa à Karpacz et traîneau. Prix sur demande.",
+      "focus_keyword": "marchés de noël pologne",
+      "keywords": [
+        "marchés de noël pologne",
+        "marché de noël wrocław",
+        "marché de noël poznań",
+        "karpacz hiver",
+        "noël en pologne"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "ポーランドのクリスマスマーケット9日間：ポズナン、ヴロツワフ、カルパチ",
+      "meta_description": "ポズナン発8泊9日：ポズナンとヴロツワフのクリスマスマーケット、クロワッサンとジャガイモの料理体験、カルパチのスパリゾートと馬ぞり。料金はお問い合わせ。",
+      "focus_keyword": "ポーランド クリスマスマーケット",
+      "keywords": [
+        "ポーランド クリスマスマーケット",
+        "ヴロツワフ クリスマスマーケット",
+        "ポズナン クリスマス",
+        "カルパチ 冬",
+        "ポーランド クリスマス 旅行"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Mercados navideños de Polonia: 9 días, Poznan, Breslavia y Karpacz",
+      "meta_description": "9 días, 8 noches desde Poznan: mercados navideños de Poznan y Breslavia, talleres de cruasán y patata, resort con spa en Karpacz y trineo. Precio a consultar.",
+      "focus_keyword": "mercados navideños polonia",
+      "keywords": [
+        "mercados navideños polonia",
+        "mercado navideño breslavia",
+        "mercado navideño poznan",
+        "karpacz invierno",
+        "navidad en polonia"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "波兰圣诞市场之旅：9天，波兹南、弗罗茨瓦夫和卡帕采茨",
+      "meta_description": "9天8夜，从波兹南出发：波兹南和弗罗茨瓦夫圣诞市场，月饼与土豆工作坊，卡帕采茨水疗度假村和雪橇之旅。价格另询。",
+      "focus_keyword": "波兰圣诞市场9日游",
+      "keywords": [
+        "波兰圣诞市场9日游",
+        "波兰波兹南弗罗茨瓦夫圣诞市场",
+        "波兰卡帕兹滑雪橇之旅",
+        "波兰圣诞市场行程",
+        "波兰圣诞市场旅游团",
+        "波兰圣诞市场9天8晚",
+        "波兰圣诞市场团",
+        "波兰圣诞市场旅游",
+        "波兰圣诞市场行程推荐",
+        "波兰圣诞市场旅游攻略"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Poland Christmas markets: Poznań, Wrocław & Karpacz, 9 days",
+      "de": "Weihnachtsmärkte in Polen: Posen, Breslau & Karpacz, 9 Tage",
+      "fr": "Marchés de Noël en Pologne : Poznań, Wrocław et Karpacz, 9 jours",
+      "ja": "ポーランドのクリスマスマーケット：ポズナン・ヴロツワフ・カルパチ 9日間",
+      "es": "Mercados navideños de Polonia: Poznan, Breslavia y Karpacz, 9 días"
+    },
+    "facts": {
+      "en": "The trip at a glance",
+      "de": "Die Reise auf einen Blick",
+      "fr": "Le voyage en bref",
+      "ja": "旅の概要",
+      "es": "El viaje de un vistazo"
+    },
+    "itinerary": {
+      "en": "Poznań to Karpacz, day by day",
+      "de": "Von Posen nach Karpacz, Tag für Tag",
+      "fr": "De Poznań à Karpacz, jour par jour",
+      "ja": "ポズナンからカルパチへ、日ごとの行程",
+      "es": "De Poznan a Karpacz, día a día"
+    },
+    "included": {
+      "en": "What the trip includes",
+      "de": "Was die Reise umfasst",
+      "fr": "Ce qui est inclus",
+      "ja": "旅程に含まれるもの",
+      "es": "Qué incluye el viaje"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non inclus",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "faq": {
+      "en": "Christmas markets trip FAQs",
+      "de": "Häufige Fragen zur Weihnachtsmarkt-Reise",
+      "fr": "Questions fréquentes sur le voyage",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes sobre el viaje"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "When are the Poznań and Wrocław Christmas markets open?",
+        "de": "Wann haben die Weihnachtsmärkte in Posen und Breslau geöffnet?",
+        "fr": "Quand ouvrent les marchés de Noël de Poznań et Wrocław ?",
+        "ja": "ポズナンとヴロツワフのクリスマスマーケットはいつ開かれますか？",
+        "es": "¿Cuándo abren los mercados navideños de Poznan y Breslavia?",
+        "zh": "波兹南和弗罗茨瓦夫圣诞市场何时开放？"
+      },
+      "a": {
+        "en": "Both usually open in the second half of November and run through most of December; exact dates change each year, so we match your trip to that year’s calendar.",
+        "de": "Beide öffnen meist in der zweiten Novemberhälfte und laufen fast den ganzen Dezember; die genauen Daten ändern sich jährlich, daher legen wir Ihre Reise in den Kalender des jeweiligen Jahres.",
+        "fr": "Les deux ouvrent en général dans la seconde moitié de novembre et durent presque tout décembre ; les dates exactes changent chaque année, nous calons donc votre voyage sur le calendrier de l’année.",
+        "ja": "どちらも通常11月後半に始まり、12月のほぼ全期間開かれます。日程は毎年変わるため、その年の開催期間に合わせて旅程を組みます。",
+        "es": "Ambos suelen abrir en la segunda mitad de noviembre y duran casi todo diciembre; las fechas exactas cambian cada año, así que ajustamos su viaje al calendario de ese año.",
+        "zh": "两地通常在11月下旬开放，并持续至12月大部分时间；具体日期每年不同，我们会根据当年的日历为您安排行程。"
+      }
+    },
+    {
+      "q": {
+        "en": "Which airport does the trip use?",
+        "de": "Welcher Flughafen wird genutzt?",
+        "fr": "Quel aéroport utilise le voyage ?",
+        "ja": "発着空港はどこですか？",
+        "es": "¿Qué aeropuerto usa el viaje?",
+        "zh": "该行程使用哪个机场？"
+      },
+      "a": {
+        "en": "Poznań Airport (POZ) for both arrival and departure. It has direct flights from some European hubs; from the Gulf, most travellers connect through Warsaw or Frankfurt.",
+        "de": "Flughafen Posen (POZ) für An- und Abreise. Es gibt Direktflüge von einigen europäischen Drehkreuzen; aus der Golfregion steigen die meisten in Warschau oder Frankfurt um.",
+        "fr": "L’aéroport de Poznań (POZ), à l’arrivée comme au départ. Il est relié directement à certains hubs européens ; depuis le Golfe, la plupart des voyageurs passent par Varsovie ou Francfort.",
+        "ja": "到着・出発ともポズナン空港（POZ）です。ヨーロッパの一部ハブ空港から直行便があり、湾岸地域からはワルシャワやフランクフルト経由が一般的です。",
+        "es": "El aeropuerto de Poznan (POZ), a la llegada y a la salida. Tiene vuelos directos desde algunos centros europeos; desde el Golfo, la mayoría conecta en Varsovia o Fráncfort.",
+        "zh": "波兹南机场（POZ），用于抵达和离境。该机场有部分欧洲枢纽的直飞航班；从海湾地区出发的旅客大多通过华沙或法兰克福中转。"
+      }
+    }
+  ],
+  "addOns": [],
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519983/sunday-atlas/packages/poland-christmas-markets-poznan-wroclaw-karpacz-9-days/poznan-commons-35701438.jpg",
+        "width": 1920,
+        "height": 1313,
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_22-24_HDR.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "The ornate organ inside Poznań Cathedral, Poland.",
+        "de": "The ornate organ inside Poznań Cathedral, Poland.",
+        "fr": "The ornate organ inside Poznań Cathedral, Poland.",
+        "ja": "The ornate organ inside Poznań Cathedral, Poland.",
+        "es": "The ornate organ inside Poznań Cathedral, Poland.",
+        "zh": "波兹南大教堂内部华丽的管风琴，波兰。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520005/sunday-atlas/packages/poland-christmas-markets-poznan-wroclaw-karpacz-9-days/st-martin-s-croissants-commons-181564693.jpg",
+        "width": 1920,
+        "height": 1280,
+        "credit": {
+          "author": "AS Photography from Poland",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tasty_traditional_Croissants_of_Saint_Martin_(54118237187).jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "St Martin's croissants on patterned paper with nuts and a spoon.",
+        "de": "St Martin's croissants on patterned paper with nuts and a spoon.",
+        "fr": "St Martin's croissants on patterned paper with nuts and a spoon.",
+        "ja": "St Martin's croissants on patterned paper with nuts and a spoon.",
+        "es": "St Martin's croissants on patterned paper with nuts and a spoon.",
+        "zh": "放在带花纹纸上的圣马丁月饼，配有坚果和勺子。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520014/sunday-atlas/packages/poland-christmas-markets-poznan-wroclaw-karpacz-9-days/wroc-aw-commons-35805926.jpg",
+        "width": 1920,
+        "height": 1186,
+        "credit": {
+          "author": "Jar.ciurus",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wroclaw_-_Biblioteka_Uniwersytecka_i_Kosciol_NMP_na_Piasku_01.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Wrocław University building illuminated at dusk beside the Oder River.",
+        "de": "Wrocław University building illuminated at dusk beside the Oder River.",
+        "fr": "Wrocław University building illuminated at dusk beside the Oder River.",
+        "ja": "Wrocław University building illuminated at dusk beside the Oder River.",
+        "es": "Wrocław University building illuminated at dusk beside the Oder River.",
+        "zh": "黄昏时分，奥得河畔的弗罗茨瓦夫大学大楼灯火辉煌。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520026/sunday-atlas/packages/poland-christmas-markets-poznan-wroclaw-karpacz-9-days/wroc-aw-bridges-commons-35291914.jpg",
+        "width": 1920,
+        "height": 1126,
+        "credit": {
+          "author": "Jar.ciurus",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wroclaw-_Most_Grunwaldzki.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "A blue suspension bridge over a river in Wrocław, Poland, reflected in the water at dusk.",
+        "de": "A blue suspension bridge over a river in Wrocław, Poland, reflected in the water at dusk.",
+        "fr": "A blue suspension bridge over a river in Wrocław, Poland, reflected in the water at dusk.",
+        "ja": "A blue suspension bridge over a river in Wrocław, Poland, reflected in the water at dusk.",
+        "es": "A blue suspension bridge over a river in Wrocław, Poland, reflected in the water at dusk.",
+        "zh": "黄昏时分，弗罗茨瓦夫河上蓝色吊桥在水中倒影，波兰。"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519995/sunday-atlas/packages/poland-christmas-markets-poznan-wroclaw-karpacz-9-days/poznan-christmas-market-commons-157449863.jpg",
+    "width": 1920,
+    "height": 1280,
+    "credit": {
+      "author": "GeoMancer448",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bazar_Plac_Wolno%C5%9Bci.jpg",
+      "provider": "commons",
+      "required": true
+    },
+    "alt": {
+      "en": "Poznań Christmas market stalls fill a city square with historic buildings in the background.",
+      "de": "Poznań Christmas market stalls fill a city square with historic buildings in the background.",
+      "fr": "Poznań Christmas market stalls fill a city square with historic buildings in the background.",
+      "ja": "Poznań Christmas market stalls fill a city square with historic buildings in the background.",
+      "es": "Poznań Christmas market stalls fill a city square with historic buildings in the background.",
+      "zh": "波兹南圣诞市场摊位填满城市广场，背景是历史建筑。"
+    }
+  }
+}

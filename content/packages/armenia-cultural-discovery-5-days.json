@@ -1,0 +1,559 @@
+{
+  "slug": "armenia-cultural-discovery-5-days",
+  "title": {
+    "en": "Armenia: 5-Day Cultural Discovery",
+    "de": "Armenien: 5 Tage Kultur entdecken",
+    "fr": "Arménie : découverte culturelle en 5 jours",
+    "ja": "アルメニア：5日間カルチャー発見の旅",
+    "es": "Armenia: descubrimiento cultural en 5 días",
+    "zh": "亚美尼亚：5天文化探索之旅"
+  },
+  "destination": "armenia",
+  "countries": [],
+  "durationDays": 5,
+  "nights": 4,
+  "style": {
+    "en": "Culture & history",
+    "de": "Kultur & Geschichte",
+    "fr": "Culture et histoire",
+    "ja": "文化と歴史",
+    "es": "Cultura e historia",
+    "zh": "文化与历史"
+  },
+  "seasonNote": {
+    "en": "April to June, September to November",
+    "de": "April bis Juni, September bis November",
+    "fr": "Avril à juin, septembre à novembre",
+    "ja": "4月～6月、9月～11月",
+    "es": "Abril a junio, septiembre a noviembre",
+    "zh": "4月至6月，9月至11月"
+  },
+  "maxGroupSize": 8,
+  "summary": {
+    "en": "A 5-day private Armenia tour: Yerevan, Garni and Geghard, Lake Sevan, Dilijan and Haghartsin, Khor Virap, Areni-1 Cave and Noravank. From $1,080 per person.",
+    "de": "5 Tage private Armenien-Reise: Jerewan, Garni und Geghard, Sewansee, Dilidschan und Haghartsin, Chor Wirap, Höhle Areni-1 und Norawank. Ab $1,080 pro Person.",
+    "fr": "Circuit privé de 5 jours en Arménie : Erevan, Garni et Guéghard, lac Sevan, Dilidjan et Haghartsin, Khor Virap, grotte d’Areni-1 et Noravank. Dès 1 080 $ par personne.",
+    "ja": "5日間のアルメニア・プライベートツアー：エレバン、ガルニとゲガルド、セヴァン湖、ディリジャンとハガルツィン、ホル・ヴィラップ、アレニ1洞窟、ノラヴァンク。1名$1,080から。",
+    "es": "Tour privado de 5 días por Armenia: Ereván, Garni y Geghard, lago Seván, Diliján y Haghartsin, Khor Virap, cueva Areni-1 y Noravank. Desde $1.080 por persona.",
+    "zh": "5天亚美尼亚私人游：埃里温、加尔尼与盖哈德、塞万湖、第利詹与哈加尔钦、霍尔维拉普、阿雷尼-1洞穴和诺拉万克。从 $1,080 每人起。"
+  },
+  "intro": {
+    "en": "With five days we can go further: a day each for the Garni valley, the northern lakes and forests around Sevan and Dilijan, and the wine country of the south, all by private car with a local guide and a 4* hotel in Yerevan.",
+    "de": "Mit fünf Tagen kommen wir weiter: je ein Tag für das Garni-Tal, die Seen und Wälder im Norden um Sewan und Dilidschan und das Weinland im Süden, alles mit privatem Auto, lokalem Guide und 4*-Hotel in Jerewan.",
+    "fr": "Avec cinq jours, nous allons plus loin : une journée pour la vallée de Garni, une pour les lacs et forêts du nord autour de Sevan et Dilidjan, une pour le vignoble du sud, en voiture privée avec guide local et hôtel 4* à Erevan.",
+    "ja": "5日間あればさらに足を延ばせます。ガルニ渓谷、セヴァンとディリジャン周辺の北部の湖と森、南部のワイン産地にそれぞれ1日ずつ。専用車、現地ガイド、エレバンの4つ星ホテル付き。",
+    "es": "Con cinco días llegamos más lejos: un día para el valle de Garni, otro para los lagos y bosques del norte en Seván y Diliján, y otro para la zona vinícola del sur, en coche privado con guía local y hotel 4* en Ereván.",
+    "zh": "五天时间，我们可以走得更远：各安排一天游览加尔尼山谷、塞万湖及第利詹周边的北部湖泊与森林，以及南部的葡萄酒产区，全程私人车辆，配备当地导游，并在埃里温入住 4* 酒店。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Yerevan, arrival and city tour",
+        "de": "Jerewan, Ankunft und Stadtrundfahrt",
+        "fr": "Erevan, arrivée et visite de la ville",
+        "ja": "エレバン到着と市内観光",
+        "es": "Ereván, llegada y visita de la ciudad",
+        "zh": "埃里温，抵达与城市游览"
+      },
+      "description": {
+        "en": "We meet you at Zvartnots International Airport and drive you to our 4* hotel in Yerevan. Later we take you around the city: the Genocide Memorial, Mother Armenia and its views, the Cascade Complex, the Opera House and Swan Lake, Republic Square with its evening fountains, and the Vernissage art market. Overnight in Yerevan.",
+        "de": "Wir holen Sie am Flughafen Swartnoz ab und bringen Sie in unser 4*-Hotel in Jerewan. Danach zeigen wir Ihnen die Stadt: Genozid-Gedenkstätte, Mutter Armenien mit Aussicht, die Kaskade, Opernhaus und Schwanensee, den Platz der Republik mit seinen Abendfontänen und den Kunstmarkt Vernissage. Übernachtung in Jerewan.",
+        "fr": "Nous vous accueillons à l’aéroport de Zvartnots et vous conduisons à notre hôtel 4* d’Erevan. Ensuite, nous vous faisons découvrir la ville : le mémorial du génocide, Mère Arménie et sa vue, la Cascade, l’Opéra et le lac des Cygnes, la place de la République et ses fontaines du soir, et le marché d’art Vernissage. Nuit à Erevan.",
+        "ja": "ズヴァルトノッツ国際空港でお出迎えし、エレバンの4つ星ホテルへご案内します。その後、ジェノサイド記念碑、母なるアルメニア像と展望、カスケード、オペラハウスとスワン湖、夜の噴水が美しい共和国広場、ヴェルニサージュ市場を巡ります。エレバン泊。",
+        "es": "Le recibimos en el aeropuerto de Zvartnots y le llevamos a nuestro hotel 4* en Ereván. Después recorremos la ciudad: el Memorial del Genocidio, la Madre Armenia y sus vistas, la Cascada, la Ópera y el lago de los Cisnes, la Plaza de la República con sus fuentes nocturnas y el mercado de arte Vernissage. Noche en Ereván.",
+        "zh": "我们在兹瓦尔特诺茨国际机场迎接您，并驱车前往埃里温的 4* 酒店。随后带您游览城市：种族灭绝纪念馆、亚美尼亚母亲及其景观、瀑布式建筑群、歌剧院与天鹅湖、共和国广场及其夜间喷泉，以及维尔尼萨日艺术市场。在埃里温过夜。"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Garni – Geghard – Symphony of Stones",
+        "de": "Garni – Geghard – Symphonie der Steine",
+        "fr": "Garni – Guéghard – Symphonie des Pierres",
+        "ja": "ガルニ – ゲガルド – 石の交響曲",
+        "es": "Garni – Geghard – Sinfonía de las Piedras",
+        "zh": "加尔尼 – 盖哈德 – 石之交响曲"
+      },
+      "description": {
+        "en": "We spend the day east of Yerevan visiting Garni Temple, the only Greco-Roman temple left standing in Armenia, the Symphony of Stones basalt columns in Garni Gorge, and Geghard Monastery, carved into the cliffs and listed by UNESCO. Overnight in Yerevan. (Meals: breakfast)",
+        "de": "Wir verbringen den Tag östlich von Jerewan und besuchen den Garni-Tempel, den einzigen erhaltenen griechisch-römischen Tempel Armeniens, die Basaltsäulen der „Symphonie der Steine“ in der Garni-Schlucht und das in den Fels gehauene UNESCO-Kloster Geghard. Übernachtung in Jerewan. (Mahlzeiten: Frühstück)",
+        "fr": "Nous passons la journée à l’est d’Erevan pour visiter le temple de Garni, seul temple gréco-romain encore debout en Arménie, les orgues basaltiques de la Symphonie des Pierres et le monastère de Guéghard, taillé dans la falaise et classé à l’UNESCO. Nuit à Erevan. (Repas : petit-déjeuner)",
+        "ja": "エレバン東部でアルメニアに唯一残るグレコ・ローマン様式のガルニ神殿、ガルニ渓谷の柱状節理「石の交響曲」、断崖に彫られたユネスコ世界遺産ゲガルド修道院を訪れます。エレバン泊。（食事：朝食）",
+        "es": "Pasamos el día al este de Ereván visitando el templo de Garni, el único templo grecorromano en pie en Armenia, las columnas basálticas de la Sinfonía de las Piedras y el monasterio de Geghard, excavado en la roca y Patrimonio de la UNESCO. Noche en Ereván. (Comidas: desayuno)",
+        "zh": "我们在埃里温以东度过一天，参观加尔尼神庙——亚美尼亚仅存的希腊罗马神庙、加尔尼峡谷的玄武岩柱“石之交响曲”，以及雕刻在悬崖上的盖哈德修道院，该修道院已列入世界遗产名录。在埃里温过夜。（含餐：早餐）"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Tsaghkadzor – Lake Sevan – Dilijan – Haghartsin",
+        "de": "Zaghkadsor – Sewansee – Dilidschan – Haghartsin",
+        "fr": "Tsaghkadzor – lac Sevan – Dilidjan – Haghartsin",
+        "ja": "ツァフカゾール – セヴァン湖 – ディリジャン – ハガルツィン",
+        "es": "Tsaghkadzor – lago Seván – Diliján – Haghartsin",
+        "zh": "察赫卡佐尔 – 塞万湖 – 第利詹 – 哈加尔钦"
+      },
+      "description": {
+        "en": "We head north into the mountains: Kecharis Monastery and the ropeway in Tsaghkadzor, Lake Sevan and Sevanavank Monastery, then the forests of Dilijan, quiet Parz Lake and the 13th-century Haghartsin Monastery, before driving back to Yerevan. Overnight in Yerevan. (Meals: breakfast)",
+        "de": "Wir fahren nach Norden in die Berge: Kloster Ketscharis und Seilbahn in Zaghkadsor, Sewansee und Kloster Sewanawank, dann die Wälder von Dilidschan, der stille Pars-See und das Kloster Haghartsin aus dem 13. Jahrhundert, bevor es zurück nach Jerewan geht. Übernachtung in Jerewan. (Mahlzeiten: Frühstück)",
+        "fr": "Cap au nord dans les montagnes : monastère de Kecharis et téléphérique de Tsaghkadzor, lac Sevan et Sevanavank, puis les forêts de Dilidjan, le paisible lac Parz et le monastère de Haghartsin du XIIIe siècle, avant le retour à Erevan. Nuit à Erevan. (Repas : petit-déjeuner)",
+        "ja": "北の山岳地帯へ。ツァフカゾールのケチャリス修道院とロープウェイ、セヴァン湖とセヴァナヴァンク修道院、ディリジャンの森、静かなパルズ湖、13世紀のハガルツィン修道院を巡り、エレバンへ戻ります。エレバン泊。（食事：朝食）",
+        "es": "Vamos al norte, a las montañas: monasterio de Kecharis y teleférico de Tsaghkadzor, lago Seván y Sevanavank, luego los bosques de Diliján, el tranquilo lago Parz y el monasterio de Haghartsin del siglo XIII, antes de volver a Ereván. Noche en Ereván. (Comidas: desayuno)",
+        "zh": "我们向北进入山区：参观察赫卡佐尔的凯查里斯修道院和缆车、塞万湖和塞万万克修道院，然后前往第利詹的森林、宁静的帕尔兹湖和13世纪的哈加尔钦修道院，随后驱车返回埃里温。在埃里温过夜。（含餐：早餐）"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Khor Virap – Areni – Noravank",
+        "de": "Chor Wirap – Areni – Norawank",
+        "fr": "Khor Virap – Areni – Noravank",
+        "ja": "ホル・ヴィラップ – アレニ – ノラヴァンク",
+        "es": "Khor Virap – Areni – Noravank",
+        "zh": "霍尔维拉普 – 阿雷尼 – 诺拉万克"
+      },
+      "description": {
+        "en": "We drive south to Khor Virap Monastery, with Mount Ararat right behind it, then taste local wine at an Areni winery and visit Areni-1 Cave, home of the world’s oldest known winery and a 5,500-year-old leather shoe. Our last stop is Noravank, a 13th-century monastery in a red rock canyon. Overnight in Yerevan. (Meals: breakfast)",
+        "de": "Wir fahren nach Süden zum Kloster Chor Wirap mit dem Ararat direkt dahinter, verkosten Wein in einem Weingut in Areni und besuchen die Höhle Areni-1 mit der ältesten bekannten Kelterei der Welt und einem 5.500 Jahre alten Lederschuh. Zum Schluss besuchen wir Norawank, ein Kloster aus dem 13. Jahrhundert in einer roten Felsschlucht. Übernachtung in Jerewan. (Mahlzeiten: Frühstück)",
+        "fr": "Nous partons vers le sud jusqu’au monastère de Khor Virap, adossé au mont Ararat, puis dégustons du vin dans un domaine d’Areni et visitons la grotte d’Areni-1, qui abrite la plus ancienne cave connue au monde et une chaussure en cuir de 5 500 ans. Dernière étape : Noravank, monastère du XIIIe siècle niché dans un canyon de roche rouge. Nuit à Erevan. (Repas : petit-déjeuner)",
+        "ja": "南へ向かい、アララト山を背にしたホル・ヴィラップ修道院へ。アレニのワイナリーで地元ワインを試飲し、世界最古級のワイン醸造所と5,500年前の革靴が見つかったアレニ1洞窟を訪れます。最後は赤い岩の渓谷に建つ13世紀のノラヴァンク修道院へ。エレバン泊。（食事：朝食）",
+        "es": "Viajamos al sur hasta el monasterio de Khor Virap, con el monte Ararat detrás, catamos vino en una bodega de Areni y visitamos la cueva Areni-1, hogar de la bodega más antigua conocida y de un zapato de cuero de 5.500 años. La última parada es Noravank, un monasterio del siglo XIII en un cañón de roca roja. Noche en Ereván. (Comidas: desayuno)",
+        "zh": "我们驱车南下前往霍尔维拉普修道院，亚拉腊山就在其后，然后在阿雷尼酒庄品尝当地葡萄酒，并参观阿雷尼-1洞穴——世界上已知最古老的酿酒厂所在地，也是一双5,500年历史的皮鞋的发现地。最后一站是诺拉万克，一座位于红色岩石峡谷中的13世纪修道院。在埃里温过夜。（含餐：早餐）"
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Yerevan, departure",
+        "de": "Jerewan, Abreise",
+        "fr": "Erevan, départ",
+        "ja": "エレバン出発",
+        "es": "Ereván, salida",
+        "zh": "埃里温，离境"
+      },
+      "description": {
+        "en": "After breakfast we check you out and drive you to Zvartnots International Airport for your flight home.",
+        "de": "Nach dem Frühstück checken Sie aus und wir bringen Sie zum Flughafen Swartnoz.",
+        "fr": "Après le petit-déjeuner, nous vous conduisons à l’aéroport de Zvartnots pour votre vol retour.",
+        "ja": "朝食後チェックアウトし、ズヴァルトノッツ国際空港までお送りします。",
+        "es": "Después del desayuno le llevamos al aeropuerto de Zvartnots para su vuelo de regreso.",
+        "zh": "早餐后，我们为您办理退房并驱车前往兹瓦尔特诺茨国际机场，乘机返回家乡。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Airport meet and greet in Yerevan and private return airport transfers",
+      "4 nights in a 4* hotel in Yerevan",
+      "Daily breakfast",
+      "Private guided sightseeing as in the itinerary",
+      "Entrance fees for all listed sites",
+      "Winery visit with wine tasting in Areni",
+      "Travel and medical insurance"
+    ],
+    "de": [
+      "Empfang am Flughafen Jerewan und private Flughafentransfers",
+      "4 Nächte in einem 4*-Hotel in Jerewan",
+      "Tägliches Frühstück",
+      "Private geführte Besichtigungen laut Programm",
+      "Eintrittsgelder für alle genannten Orte",
+      "Weingutsbesuch mit Weinprobe in Areni",
+      "Reise- und Krankenversicherung"
+    ],
+    "fr": [
+      "Accueil à l’aéroport d’Erevan et transferts privés aller-retour",
+      "4 nuits en hôtel 4* à Erevan",
+      "Petit-déjeuner quotidien",
+      "Visites privées guidées selon le programme",
+      "Droits d’entrée de tous les sites mentionnés",
+      "Visite d’un domaine avec dégustation à Areni",
+      "Assurance voyage et médicale"
+    ],
+    "ja": [
+      "エレバン空港でのお出迎えと往復専用送迎",
+      "エレバンの4つ星ホテルに4泊",
+      "毎日の朝食",
+      "旅程に沿った専用ガイド付き観光",
+      "記載の全観光地の入場料",
+      "アレニでのワイナリー見学と試飲",
+      "旅行・医療保険"
+    ],
+    "es": [
+      "Recepción en el aeropuerto de Ereván y traslados privados de ida y vuelta",
+      "4 noches en hotel 4* en Ereván",
+      "Desayuno diario",
+      "Visitas privadas guiadas según el itinerario",
+      "Entradas a todos los lugares indicados",
+      "Visita a bodega con cata en Areni",
+      "Seguro de viaje y médico"
+    ],
+    "zh": [
+      "埃里温机场迎接及私人往返机场接送",
+      "埃里温 4* 酒店4晚住宿",
+      "每日早餐",
+      "行程中列明的私人导游观光",
+      "所有列明景点门票",
+      "阿雷尼酒庄参观与品酒",
+      "旅游及医疗保险"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights",
+      "Lunches, dinners and drinks not listed",
+      "Optional tours and extra transfers",
+      "Tips, shopping, laundry and minibar",
+      "Early check-in and late check-out"
+    ],
+    "de": [
+      "Internationale Flüge",
+      "Nicht genannte Mittag- und Abendessen sowie Getränke",
+      "Optionale Ausflüge und zusätzliche Transfers",
+      "Trinkgelder, Einkäufe, Wäsche und Minibar",
+      "Früher Check-in und später Check-out"
+    ],
+    "fr": [
+      "Vols internationaux",
+      "Déjeuners, dîners et boissons non mentionnés",
+      "Excursions optionnelles et transferts supplémentaires",
+      "Pourboires, achats, blanchisserie et minibar",
+      "Arrivée anticipée et départ tardif"
+    ],
+    "ja": [
+      "国際線航空券",
+      "記載以外の昼食・夕食・飲み物",
+      "オプションツアーと追加送迎",
+      "チップ、買い物、ランドリー、ミニバー",
+      "アーリーチェックイン・レイトチェックアウト"
+    ],
+    "es": [
+      "Vuelos internacionales",
+      "Almuerzos, cenas y bebidas no indicados",
+      "Excursiones opcionales y traslados adicionales",
+      "Propinas, compras, lavandería y minibar",
+      "Entrada anticipada y salida tardía"
+    ],
+    "zh": [
+      "国际机票",
+      "未列明的午餐、晚餐和饮品",
+      "可选游览和额外接送",
+      "小费、购物、洗衣和迷你吧",
+      "提前入住和延迟退房"
+    ]
+  },
+  "priceFrom": 1080,
+  "currency": "USD",
+  "priceNote": {
+    "en": "USD per person, twin share in a 4* hotel, private tour.",
+    "de": "USD pro Person im Doppelzimmer, 4*-Hotel, private Reise.",
+    "fr": "USD par personne en chambre double, hôtel 4*, circuit privé.",
+    "ja": "4つ星ホテル2名1室利用時の1名あたりUSD、プライベートツアー。",
+    "es": "USD por persona en habitación doble, hotel 4*, tour privado.",
+    "zh": "USD 每人，双人间入住 4 星级酒店，私人旅游。"
+  },
+  "fromLabel": {
+    "en": "from $1,080 per person (4*, twin share)",
+    "de": "ab $1,080 pro Person (4*, Doppelzimmer)",
+    "fr": "à partir de 1 080 $ par personne (4*  chambre double)",
+    "ja": "1名あたり$1,080から（4つ星・2名1室）",
+    "es": "desde $1.080 por persona (4*. habitación doble)",
+    "zh": "起价每人 $1,080（4星级，双人间共享）"
+  },
+  "hotels": [],
+  "vehicles": [
+    {
+      "group": {
+        "en": "1–3 travellers",
+        "de": "1–3 Reisende",
+        "fr": "1–3 voyageurs",
+        "ja": "1～3名",
+        "es": "1–3 viajeros",
+        "zh": "1–3 名旅客"
+      },
+      "vehicle": {
+        "en": "Private sedan",
+        "de": "Private Limousine",
+        "fr": "Berline privée",
+        "ja": "専用セダン",
+        "es": "Sedán privado",
+        "zh": "私人轿车"
+      }
+    },
+    {
+      "group": {
+        "en": "4–8 travellers",
+        "de": "4–8 Reisende",
+        "fr": "4–8 voyageurs",
+        "ja": "4～8名",
+        "es": "4–8 viajeros",
+        "zh": "4–8 名旅客"
+      },
+      "vehicle": {
+        "en": "Private minivan",
+        "de": "Privater Minivan",
+        "fr": "Minivan privé",
+        "ja": "専用ミニバン",
+        "es": "Minivan privado",
+        "zh": "私人小型货车"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925537/sunday-atlas/w5pzobmjgja0sbdw4iry.jpg",
+    "width": 1600,
+    "height": 894,
+    "alt": {
+      "en": "Armenia landscape and landmarks on our tour, photo 1",
+      "de": "Landschaft und Sehenswürdigkeiten in Armenien auf unserer Reise, Foto 1",
+      "fr": "Paysages et monuments en Arménie lors de notre circuit, photo 1",
+      "ja": "当社ツアーで訪れるアルメニアの風景と名所（写真1）",
+      "es": "Paisajes y monumentos de Armenia en nuestro tour, foto 1",
+      "zh": "亚美尼亚风光与地标，我们的旅游照片1"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925534/sunday-atlas/hjymck2lkqo96lsegffp.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "Armenia landscape and landmarks on our tour, photo 2",
+        "de": "Landschaft und Sehenswürdigkeiten in Armenien auf unserer Reise, Foto 2",
+        "fr": "Paysages et monuments en Arménie lors de notre circuit, photo 2",
+        "ja": "当社ツアーで訪れるアルメニアの風景と名所（写真2）",
+        "es": "Paisajes y monumentos de Armenia en nuestro tour, foto 2",
+        "zh": "亚美尼亚风景与地标，我们的旅行照片2"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925945/sunday-atlas/prwgi1qo6ibjuv9d3xza.jpg",
+        "width": 1600,
+        "height": 849
+      },
+      "alt": {
+        "en": "Armenia landscape and landmarks on our tour, photo 3",
+        "de": "Landschaft und Sehenswürdigkeiten in Armenien auf unserer Reise, Foto 3",
+        "fr": "Paysages et monuments en Arménie lors de notre circuit, photo 3",
+        "ja": "当社ツアーで訪れるアルメニアの風景と名所（写真3）",
+        "es": "Paisajes y monumentos de Armenia en nuestro tour, foto 3",
+        "zh": "亚美尼亚风光与地标，我们的旅行照片3"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925946/sunday-atlas/ekovys1rjet09lxzzqef.jpg",
+        "width": 1600,
+        "height": 1060
+      },
+      "alt": {
+        "en": "Armenia landscape and landmarks on our tour, photo 4",
+        "de": "Landschaft und Sehenswürdigkeiten in Armenien auf unserer Reise, Foto 4",
+        "fr": "Paysages et monuments en Arménie lors de notre circuit, photo 4",
+        "ja": "当社ツアーで訪れるアルメニアの風景と名所（写真4）",
+        "es": "Paisajes y monumentos de Armenia en nuestro tour, foto 4",
+        "zh": "亚美尼亚风景与地标，我们的旅行照片4"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925944/sunday-atlas/cwbfkdcibwdgx2dunvxr.jpg",
+        "width": 1600,
+        "height": 839
+      },
+      "alt": {
+        "en": "Armenia landscape and landmarks on our tour, photo 5",
+        "de": "Landschaft und Sehenswürdigkeiten in Armenien auf unserer Reise, Foto 5",
+        "fr": "Paysages et monuments en Arménie lors de notre circuit, photo 5",
+        "ja": "当社ツアーで訪れるアルメニアの風景と名所（写真5）",
+        "es": "Paisajes y monumentos de Armenia en nuestro tour, foto 5",
+        "zh": "亚美尼亚风光与地标，我们的旅行照片5"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925945/sunday-atlas/fn19bs6wdaezqv0a4ifm.jpg",
+        "width": 1600,
+        "height": 1059
+      },
+      "alt": {
+        "en": "Armenia landscape and landmarks on our tour, photo 6",
+        "de": "Landschaft und Sehenswürdigkeiten in Armenien auf unserer Reise, Foto 6",
+        "fr": "Paysages et monuments en Arménie lors de notre circuit, photo 6",
+        "ja": "当社ツアーで訪れるアルメニアの風景と名所（写真6）",
+        "es": "Paisajes y monumentos de Armenia en nuestro tour, foto 6",
+        "zh": "亚美尼亚风景与地标，我们的旅行照片6"
+      }
+    }
+  ],
+  "sample": false,
+  "isDayTour": false,
+  "featured": true,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "5-Day Armenia Private Tour: Yerevan, Garni, Sevan & Khor Virap ($1,080)",
+      "meta_description": "From $1,080 USD/person: 5-day private Armenia cultural tour covering Yerevan, Garni Temple, Geghard, Lake Sevan, Dilijan, Khor Virap, Areni Cave & Noravank.",
+      "focus_keyword": "armenia 5 day tour",
+      "keywords": [
+        "armenia 5 day tour",
+        "armenia cultural tour package",
+        "yerevan garni sevan khor virap tour",
+        "private armenia itinerary 5 days"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "5-Tage Armenien Privatreise: Jerewan, Garni, Sewansee & Chor Virap ($1.080)",
+      "meta_description": "Ab $1.080 USD/Person: 5-tägige private Armenien-Kulturreise mit Jerewan, Garni-Tempel, Geghard, Sewansee, Dilidschan, Chor Virap, Areni-Weinhöhle & Norawank.",
+      "focus_keyword": "armenien 5 tage rundreise",
+      "keywords": [
+        "armenien 5 tage rundreise",
+        "armenien kulturreise",
+        "jerewan sewansee chor virap"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuit Privé Arménie 5 Jours : Erevan, Garni, Sevan & Khor Virap ($1 080)",
+      "meta_description": "Dès $1 080 USD/pers. : circuit culturel privé de 5 jours en Arménie (Erevan, Garni, Geghard, lac Sevan, Dilijan, Khor Virap, grotte d’Areni et Noravank).",
+      "focus_keyword": "circuit arménie 5 jours",
+      "keywords": [
+        "circuit arménie 5 jours",
+        "voyage culturel arménie",
+        "erevan sevan khor virap"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "アルメニア歴史文化5日間プライベートツアー：エレバン・セヴァン湖 ($1,080〜)",
+      "meta_description": "1名$1,080〜：エレバンを拠点にガルニ神殿、ゲガルド修道院、セヴァン湖、ディリジャン、アララト山を望むホル・ヴィラップ、ノラヴァンクを巡る5日間プライベートツアー。",
+      "focus_keyword": "アルメニア 5日間 ツアー",
+      "keywords": [
+        "アルメニア 5日間 ツアー",
+        "エレバン 現地ツアー",
+        "ホルヴィラップ ノラヴァンク ツアー"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tour Privado Armenia 5 Días: Ereván, Garni, Sevan y Khor Virap ($1,080)",
+      "meta_description": "Desde $1,080 USD/persona: circuito cultural privado de 5 días por Armenia (Ereván, Garni, Geghard, lago Sevan, Dilijan, Khor Virap, cueva de Areni y Noravank).",
+      "focus_keyword": "tour armenia 5 días",
+      "keywords": [
+        "tour armenia 5 días",
+        "viaje cultural armenia",
+        "ereván sevan khor virap"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "5天亚美尼亚私人游：埃里温、加尔尼、塞万湖与霍尔维拉普（$1,080）",
+      "meta_description": "从 $1,080 USD/人起：5天亚美尼亚文化私人游，涵盖埃里温、加尔尼神庙、盖哈德、塞万湖、第里詹、霍尔维拉普、阿雷尼洞穴与诺拉万克。",
+      "focus_keyword": "亚美尼亚5天私人游",
+      "keywords": [
+        "亚美尼亚5天私人游",
+        "亚美尼亚文化之旅",
+        "埃里温加尔尼塞万湖",
+        "亚美尼亚5日游",
+        "亚美尼亚私人旅游团",
+        "亚美尼亚景点游览"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Armenia cultural tour, 5 days: Yerevan, Garni, Sevan, Dilijan and Noravank",
+      "de": "Armenien-Kulturreise, 5 Tage: Jerewan, Garni, Sewan, Dilidschan und Norawank",
+      "fr": "Circuit culturel en Arménie, 5 jours : Erevan, Garni, Sevan, Dilidjan et Noravank",
+      "ja": "アルメニア文化ツアー5日間：エレバン、ガルニ、セヴァン、ディリジャン、ノラヴァンク",
+      "es": "Tour cultural por Armenia, 5 días: Ereván, Garni, Seván, Diliján y Noravank"
+    },
+    "facts": {
+      "en": "Armenia cultural tour, 5 days at a glance",
+      "de": "Armenien-Kulturreise, 5 Tage im Überblick",
+      "fr": "Circuit culturel Arménie 5 jours en bref",
+      "ja": "アルメニア文化ツアー5日間の概要",
+      "es": "Tour cultural Armenia 5 días de un vistazo"
+    },
+    "itinerary": {
+      "en": "Day by day",
+      "de": "Tag für Tag",
+      "fr": "Jour par jour",
+      "ja": "日程",
+      "es": "Día a día"
+    },
+    "included": {
+      "en": "What the tour includes",
+      "de": "Im Preis enthalten",
+      "fr": "Ce que comprend le circuit",
+      "ja": "ツアーに含まれるもの",
+      "es": "Qué incluye el tour"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non compris",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "prices": {
+      "en": "Tour price",
+      "de": "Reisepreis",
+      "fr": "Prix du circuit",
+      "ja": "ツアー料金",
+      "es": "Precio del tour"
+    },
+    "vehicles": {
+      "en": "Vehicles by group size",
+      "de": "Fahrzeuge nach Gruppengröße",
+      "fr": "Véhicules selon la taille du groupe",
+      "ja": "人数別の車両",
+      "es": "Vehículos según el tamaño del grupo"
+    },
+    "faq": {
+      "en": "FAQs",
+      "de": "Häufige Fragen",
+      "fr": "Questions fréquentes",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does the Armenia cultural tour, 5 days cost?",
+        "de": "Was kostet die Reise „Armenien-Kulturreise, 5 Tage“?",
+        "fr": "Combien coûte le circuit « Circuit culturel Arménie 5 jours » ?",
+        "ja": "アルメニア文化ツアー5日間の料金はいくらですか？",
+        "es": "¿Cuánto cuesta el tour «Tour cultural Armenia 5 días»?",
+        "zh": "亚美尼亚文化之旅，5 天多少钱？"
+      },
+      "a": {
+        "en": "It starts from $1,080 per person in a twin room in a 4* hotel, with daily breakfast, private transfers and the sightseeing in the itinerary. Flights are not included.",
+        "de": "Ab $1,080 pro Person im Doppelzimmer in einem 4*-Hotel, mit Frühstück, privaten Transfers und den Besichtigungen laut Programm. Flüge sind nicht enthalten.",
+        "fr": "À partir de 1080 $ par personne en chambre double en hôtel 4*, avec petit-déjeuner, transferts privés et visites du programme. Les vols ne sont pas inclus.",
+        "ja": "4つ星ホテル2名1室利用で1名あたり$1,080から。朝食、専用送迎、旅程内の観光が含まれます。航空券は含まれません。",
+        "es": "Desde $1080 por persona en habitación doble en hotel 4*, con desayuno, traslados privados y las visitas del itinerario. Los vuelos no están incluidos.",
+        "zh": "起价为每人 $1,080，入住双人间的 4 星级酒店，包含每日早餐、私人接送和行程中的观光。机票不含。"
+      }
+    }
+  ],
+  "addOns": []
+}

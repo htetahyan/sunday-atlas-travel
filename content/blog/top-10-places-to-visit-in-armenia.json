@@ -1,0 +1,1242 @@
+{
+  "slug": "top-10-places-to-visit-in-armenia",
+  "published": true,
+  "featured": false,
+  "category": "top-places",
+  "destination": "armenia",
+  "countries": [],
+  "publishedAt": "2026-10-31T10:43:17+04:00",
+  "updatedAt": "2026-11-02T22:54:53+04:00",
+  "readingTimeMinutes": 14,
+  "relatedPackages": [
+    "armenia-cultural-discovery-5-days",
+    "armenia-legends-4-days",
+    "garni-geghard-lake-sevan-day-trip"
+  ],
+  "title": {
+    "en": "Top 10 Places to Visit in Armenia: First-Trip Picks (2027)",
+    "de": "Top 10 Orte in Armenien für die erste Reise (2027)",
+    "fr": "Top 10 des lieux à visiter en Arménie, 1er voyage (2027)",
+    "ja": "アルメニア訪問トップ10スポット：初めての旅に（2027）",
+    "es": "Top 10 lugares para visitar en Armenia: primer viaje (2027)"
+  },
+  "subtitle": {
+    "en": "Ancient monasteries, volcanic landscapes, highland lakes and wine country in one compact itinerary",
+    "de": "Alte Klöster, vulkanische Landschaften, Hochlandseen und Weinland in einer kompakten Reiseroute",
+    "fr": "Monastères antiques, paysages volcaniques, lacs de montagne et pays du vin dans un itinéraire compact",
+    "ja": "古代修道院、火山性の景観、高地の湖、ワイン産地を一つのコンパクトな旅程で",
+    "es": "Monasterios antiguos, paisajes volcánicos, lagos de altura y país vinícola en un solo itinerario compacto"
+  },
+  "summary": {
+    "en": "A practical look at Armenia's essential stops from Yerevan's pink tuff streets to Ararat-view monasteries, cliff-carved Geghard, Lake Sevan and the red-rock canyons of Noravank.",
+    "de": "Ein praktischer Überblick zu Armeniens wichtigsten Stationen, von Jerewans rosa Tuffsteinstraßen über Klöster mit Ararat-Blick, die in die Felsen gehauene Geghard, den Lake Sevan bis zu den roten Felsenschluchten von Noravank.",
+    "fr": "Un tour d\\'horizon pratique des arrêts incontournables d'Arménie, des rues de tuf rose d'Erevan aux monastères avec vue sur l'Ararat, en passant par le Geghard taillé dans la falaise, le lac Sevan et les canyons de roches rouges de Noravank.",
+    "ja": "エレバンのピンク色のトゥフの街並みからアララト山を望む修道院、断崖に彫られたゲガルド、セヴァン湖、ノラヴァンクの赤い岩の峡谷まで、アルメニアの必見スポットを実用的に紹介する記事です。",
+    "es": "Un repaso práctico de las paradas esenciales de Armenia, desde las calles de toba rosada de Ereván hasta los monasterios con vista al Ararat, el Geghard tallado en el acantilado, el lago Sevan y los cañones de roca roja de Noravank."
+  },
+  "intro": {
+    "en": "Armenia packs an extraordinary density of history and landscape into a country the size of Maryland. In a single week you can stand in a first-century Greco-Roman temple at Garni, descend into the cliff-carved chambers of Geghard, gaze across the Ararat plain from Khor Virap, sip 6,000-year-old wine traditions in Areni, and watch the light shift on Lake Sevan's volcanic peninsula. The best travel windows are April to June for wildflower meadows and September to November for golden vineyards and crisp mountain air. Most Western passport holders enter visa-free for up to 180 days; others secure an e-Visa online in three business days. Private day trips and multi-day circuits from Yerevan make the logistics simple, letting you focus on the stonework, the vistas and the hospitality.",
+    "de": "Armenien vereint eine außergewöhnliche Dichte an Geschichte und Landschaft auf einer Fläche von der Größe Marylands. In einer einzigen Woche können Sie in einem tempel aus dem ersten Jahrhundert in Garni stehen, in die in die Felsen gehauenen Kammern von Geghard hinabsteigen, von Khor Virap über die Ararat-Ebene blicken, in Areni 6.000 Jahre alte Weinkultur probieren und das wechselnde Licht auf der vulkanischen Halbinsel des Lake Sevan beobachten. Die besten Reisezeiträume sind April bis Juni für Wildblumenwiesen und September bis November für goldene Weinberge und klare Bergluft. Die meisten Inhaber westlicher Pässe reisen visumfrei für bis zu 180 Tage ein; andere erhalten ein e-Visa online innerhalb von drei Werktagen. Private Tagesausflüge und mehrtägige Rundreisen ab Jerewan machen die Logistik einfach, sodass Sie sich auf die Steinmetzarbeiten, die Ausblicke und die Gastfreundschaft konzentrieren können.",
+    "fr": "L'Arménie concentre une densité extraordinaire d'histoire et de paysages dans un pays de la taille du Maryland. En une seule semaine, vous pouvez vous tenir dans un temple gréco-romain du premier siècle à Garni, descendre dans les chambres taillées dans la falaise de Geghard, contempler la plaine de l'Ararat depuis Khor Virap, goûter aux traditions viticoles de 6 000 ans à Areni, et observer la lumière changer sur la péninsule volcanique du lac Sevan. Les meilleures périodes de voyage sont d'avril à juin pour les prairies de fleurs sauvages et de septembre à novembre pour les vignobles dorés et l'air vif des montagnes. La plupart des détenteurs de passeports occidentaux entrent sans visa pour un séjour allant jusqu'à 180 jours ; les autres obtiennent un e-Visa en ligne en trois jours ouvrés. Les excursions d'une journée privées et les circuits de plusieurs jours au départ d'Erevan simplifient la logistique, vous permettant de vous concentrer sur la pierre, les panoramas et l'hospitalité.",
+    "ja": "アルメニアはメリーランド州と同じくらいの国土に、歴史と景観を驚くほど密集させています。たった一週間で、ガルニの1世紀のグレコローマ神殿に立ち、断崖に彫られたゲガルドの部屋を探検し、ホルヴィラプからアララト平原を見渡し、アレニで6000年のワイン伝統を味わい、セヴァン湖の火山性半島で光の移り変わりを眺めることができます。ベストな旅行時期は、野花の草原が楽しめる4月から6月、そして黄金色のブドウ園と爽やかな山の空気が楽しめる9月から11月です。西洋のパスポート保持者のほとんどはビザなしで最大180日間滞在可能で、その他の方はオンラインで3営業日以内にe-Visaを取得できます。エレバン発のプライベート日帰り旅行や複数日周遊ツアーでロジスティクスは簡単になり、石細工、眺め、もてなしに集中できます。",
+    "es": "Armenia concentra una densidad extraordinaria de historia y paisaje en un país del tamaño de Maryland. En una sola semana puedes estar en un templo greco-romano del siglo I en Garni, descender a las cámaras talladas en el acantilado de Geghard, contemplar la llanura del Ararat desde Khor Virap, saborear 6.000 años de tradición vinícola en Areni y observar cómo cambia la luz en la península volcánica del lago Sevan. Las mejores ventanas de viaje son de abril a junio para los prados de flores silvestres y de septiembre a noviembre para los viñedos dorados y el aire fresco de montaña. La mayoría de los titulares de pasaportes occidentales entran sin visado por hasta 180 días; los demás obtienen un e-Visado en línea en tres días hábiles. Las excursiones privadas de un día y los circuitos de varios días desde Ereván simplifican la logística, permitiéndote centrarte en la piedra, las vistas y la hospitalidad."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793428959/sunday-atlas/blog/top-10-places-to-visit-in-armenia/armenia-commons-52456535.jpg",
+    "width": 1920,
+    "height": 1280,
+    "alt": {
+      "en": "Basalt columns at Garni Gorge in Armenia under a clear blue sky.",
+      "de": "Basaltsäulen in der Garni-Schlucht in Armenien unter einem klaren blauen Himmel.",
+      "fr": "Orgues basaltiques de la gorge de Garni en Arménie sous un ciel bleu clair.",
+      "ja": "アルメニア、ガルニ渓谷の玄武岩柱。澄んだ青空の下。",
+      "es": "Columnas de basalto en el desfiladero de Garni, Armenia, bajo un cielo azul despejado."
+    },
+    "credit": {
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinfon%C3%ADa_de_las_Piedras,_valle_de_Garni,_Armenia,_2016-10-02,_DD_33.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "yerevan-cascade-republic-square",
+      "rankNumber": 1,
+      "placeName": {
+        "en": "Yerevan",
+        "de": "Jerewan",
+        "fr": "Erevan",
+        "ja": "エレバン",
+        "es": "Ereván"
+      },
+      "heading": {
+        "en": "1. Yerevan: Cascade Complex, Republic Square and Vernissage",
+        "de": "1. Jerewan: Kaskaden-Komplex, Republikplatz und Vernissage",
+        "fr": "1. Erevan : complexe de la Cascade, place de la République et Vernissage",
+        "ja": "1. エレバン：カスケード・コンプレックス、共和国広場、ヴェルニサージュ",
+        "es": "1. Ereván: Complejo Cascade, Plaza de la República y Vernissage"
+      },
+      "paragraphs": {
+        "en": [
+          "Yerevan sits at roughly 1,000 meters altitude and the city center is a 20-minute drive from Zvartnots International Airport. The Cascade Complex climbs 572 steps across seven terraces, linking the opera district to the Monument neighborhood with modern sculpture gardens and panoramic views toward Mount Ararat on clear mornings. Republic Square anchors the downtown grid with its tuff-stone government buildings and musical fountains that run color-coordinated shows from late spring through early autumn evenings. Vernissage market stretches along Aram and Buzand streets every weekend, where artisans sell hand-knotted carpets, obsidian jewelry, Soviet-era medals and wood-carved khachkar replicas. April to June and September to November deliver mild temperatures for walking the entire circuit without summer heat or winter ice. A guided half-day introduction covers the Cascade, Republic Square and Vernissage efficiently before lunch at a nearby khinkali house.",
+          "The Cascade's indoor escalators operate daily and let you ascend partially if the full stair climb feels ambitious, while the Cafesjian Center galleries on the upper levels rotate contemporary Armenian exhibitions. Republic Square's fountain performances typically start at 21:00 from May through September and pause during colder months, so time an evening stroll accordingly. Vernissage vendors accept cash in Armenian drams and many now take card payments, though small bills help with bargaining for textiles and ceramics. The surrounding streets hold several specialty coffee roasters and bakeries producing fresh lavash on open tonirs, useful for a quick breakfast before the market crowds build. Taxis and ride-hailing apps connect all three sites within five minutes, but the pedestrian zone between the Cascade base and Republic Square is flat and pleasant for walking. Early morning light on the pink tuff façades makes for the cleanest architectural photographs.",
+          "Our 5-Day Cultural Discovery private tour begins with a Yerevan city day that includes the Cascade Complex, Republic Square and Vernissage market alongside a local guide who explains the Soviet-era planning and post-independence revival. The same tour continues to Garni Temple, Geghard Monastery, Lake Sevan, Dilijan, Khor Virap, Areni-1 Cave and Noravank over the following four days, using a single Yerevan hotel base for all four nights. Private transfers eliminate the need to navigate marshrutka schedules or negotiate shared taxis between dispersed heritage sites. Entrance fees for every listed monument and a winery visit with tasting in Areni are included, so daily logistics stay straightforward. The itinerary runs April through June and September through November, matching the most comfortable walking weather for the Cascade stairs and open-air market browsing.",
+          "Allow at least three hours to walk the full Cascade staircase, pause at the sculpture terraces and visit the Cafesjian galleries without rushing. Republic Square's fountain schedule shifts seasonally, so confirm the evening start time with your guide or hotel concierge on arrival day. Vernissage operates Saturday and Sunday roughly 10:00 to 17:00; weekdays host a smaller book-and-print section near the same streets. Wear supportive shoes for the Cascade's stone steps and the cobblestone lanes around Vernissage, especially after rain. Carry a light wind layer year-round because the elevation exposes the upper terraces to sudden gusts. A reusable water bottle refills at filtered stations inside the Cascade complex and at cafés along the pedestrian corridor."
+        ],
+        "de": [
+          "Jerewan liegt auf etwa 1.000 Metern Höhe, und das Stadtzentrum ist eine 20-minütige Fahrt vom internationalen Flughafen Zvartnots entfernt. Der Kaskaden-Komplex erklimmt 572 Stufen über sieben Terrassen und verbindet das Opernviertel mit dem Monument-Viertel, mit modernen Skulpturengärten und Panoramablicken auf den Berg Ararat an klaren Morgen. Der Republikplatz bildet das Zentrum des Stadtnetzes mit seinen Tuffstein-Regierungsgebäuden und Musikbrunnen, die von spätem Frühjahr bis in den frühen Herbst hinein farblich abgestimmte Shows bieten. Der Vernissage-Markt erstreckt sich jeden Wochenende entlang der Aram- und Buzand-Straßen, wo Kunsthandwerker handgeknüpfte Teppiche, Obsidianschmuck, sowjetische Medaillen und geschnitzte Khachkar-Repliken verkaufen. April bis Juni und September bis November bieten milde Temperaturen, um die gesamte Strecke ohne Sommerhitze oder Winterglätte zu gehen. Eine geführte halbtägige Einführung deckt den Kaskaden-Komplex, den Republikplatz und den Vernissage effizient ab, bevor Sie in einem nahegelegenen Khinkali-Haus zu Mittag essen.",
+          "Die Innenrolltreppen des Kaskaden-Komplexes sind täglich in Betrieb und ermöglichen einen teilweisen Aufstieg, falls die vollständige Treppe zu ambitioniert erscheint, während die Cafesjian-Center-Galerien auf den oberen Ebenen zeitgenössische armenische Ausstellungen präsentieren. Die Brunnenvorführungen auf dem Republikplatz beginnen in der Regel um 21:00 Uhr von Mai bis September und ruhen in den kälteren Monaten, sodass Sie einen Abendspaziergang entsprechend einplanen sollten. Die Händler auf dem Vernissage akzeptieren Bargeld in armenischen Dramen, und viele nehmen mittlerweile Kartenzahlungen an, wobei kleine Scheine beim Feilschen um Textilien und Keramik hilfreich sind. Die umliegenden Straßen beherbergen mehrere Spezialitäten-Kaffeeröstereien und Bäckereien, die frisches Lavash auf offenen Tonirs backen, nützlich für ein schnelles Frühstück, bevor die Marktmengen zunehmen. Taxis und Fahrdienst-Apps verbinden alle drei Standorte innerhalb von fünf Minuten, aber die Fußgängerzone zwischen der Basis des Kaskaden-Komplexes und dem Republikplatz ist flach und angenehm zum Gehen. Das frühe Morgenlicht auf den rosa Tuffstein-Fassaden sorgt für die saubersten Architekturaufnahmen.",
+          "Unsere 5-tägige private Kulturreise beginnt mit einem Tag in Jerewan, der das Kaskaden-Komplex, den Republikplatz und den Vernissage-Markt umfasst, begleitet von einem ortskundigen Guide, der die sowjetische Stadtplanung und den Wiederaufschwung nach der Unabhängigkeit erklärt. Die gleiche Tour führt in den folgenden vier Tagen weiter zum Garni-Tempel, zum Kloster Geghard, zum Sewansee, nach Dilijan, zur Khor-Wirap-Festung, zur Höhle Areni-1 und nach Noravank, wobei wir für alle vier Nächte ein einziges Hotel in Jerewan als Basis nutzen. Private Transfers ersparen das Navigieren durch Marschrutka-Fahrpläne oder das Feilschen um gemeinsame Taxis zwischen den verstreuten Kulturerbestätten. Eintrittsgelder für alle aufgeführten Denkmäler sowie ein Weingutbesuch mit Verkostung in Areni sind enthalten, sodass die tägliche Logistik unkompliziert bleibt. Die Reiseroute läuft von April bis Juni und von September bis November, passend zum angenehmsten Wanderwetter für die Kaskaden-Treppen und das Bummeln auf dem Freiluftmarkt.",
+          "Planen Sie mindestens drei Stunden ein, um die gesamte Kaskaden-Treppe zu gehen, an den Skulpturenterrassen innezuhalten und die Cafesjian-Galerien zu besuchen, ohne zu hetzen. Der Brunnenplan auf dem Republikplatz ändert sich saisonal, daher bestätigen Sie die Startzeit am Abend mit Ihrem Guide oder dem Hotelportier am Anreisetag. Der Vernissage hat samstags und sonntags von etwa 10:00 bis 17:00 geöffnet; unter der Woche gibt es einen kleineren Bereich für Bücher und Drucke in denselben Straßen. Tragen Sie bequeme Schuhe für die Steinstufen der Kaskade und die Kopfsteinpflastergassen rund um den Vernissage, besonders nach Regen. Tragen Sie das ganze Jahr über eine leichte Windjacke, da die Höhe die oberen Terrassen plötzlichen Böen aussetzt. Eine wiederverwendbare Wasserflasche lässt sich an gefilterten Stationen im Kaskaden-Komplex und in Cafés entlang der Fußgängerzone auffüllen."
+        ],
+        "fr": [
+          "Erevan se situe à environ 1 000 mètres d'altitude et le centre-ville est à 20 minutes de route de l'aéroport international de Zvartnots. Le complexe de la Cascade gravit 572 marches sur sept terrasses, reliant le quartier de l'opéra au quartier du Monument avec des jardins de sculptures modernes et des vues panoramiques sur le mont Ararat par temps clair. La place de la République ancre le centre-ville avec ses bâtiments gouvernementaux en tuf et ses fontaines musicales qui proposent des spectacles coordonnés en couleurs du printemps jusqu'au début de l'automne. Le marché de Vernissage s'étend le long des rues Aram et Buzand chaque week-end, où les artisans vendent des tapis noués à la main, des bijoux en obsidienne, des médailles de l'époque soviétique et des répliques de khatchkars sculptés dans le bois. D'avril à juin et de septembre à novembre, les températures sont douces pour parcourir l'ensemble du circuit sans la chaleur estivale ni la glace hivernale. Une visite guidée d'une demi-journée couvre efficacement la Cascade, la place de la République et Vernissage avant le déjeuner dans une maison de khinkali voisine.",
+          "Les escaliers mécaniques intérieurs de la Cascade fonctionnent tous les jours et vous permettent de monter partiellement si l'escalade complète vous semble ambitieuse, tandis que les galeries du centre Cafesjian aux niveaux supérieurs présentent des expositions d'art contemporain arménien. Les spectacles de fontaines de la place de la République commencent généralement à 21:00 de mai à septembre et s'interrompent pendant les mois les plus froids, alors prévoyez votre promenade en soirée en conséquence. Les vendeurs de Vernissage acceptent les espèces en drams arméniens et beaucoup prennent désormais les cartes bancaires, bien que les petites coupures aident à marchander pour les textiles et les céramiques. Les rues environnantes abritent plusieurs torréfacteurs de café spécialisé et boulangeries produisant du lavash frais sur des tonirs ouverts, idéal pour un petit-déjeuner rapide avant que la foule du marché n'arrive. Les taxis et les applications de VTC relient les trois sites en cinq minutes, mais la zone piétonne entre la base de la Cascade et la place de la République est plate et agréable pour marcher. La lumière matinale sur les façades de tuf rose offre les plus belles photographies architecturales.",
+          "Notre circuit privé de découverte culturelle de 5 jours commence par une journée à Yerevan incluant le complexe de la Cascade, la place de la République et le marché de Vernissage, accompagnés d'un guide local qui explique l'urbanisme de l'ère soviétique et la renaissance post-indépendance. Le même circuit se poursuit vers le temple de Garni, le monastère de Geghard, le lac Sevan, Dilijan, Khor Virap, la grotte d'Areni-1 et Noravank au cours des quatre jours suivants, avec un seul hôtel à Yerevan comme base pour les quatre nuits. Les transferts privés évitent de devoir consulter les horaires des marshrutkas ou négocier des taxis partagés entre les sites patrimoniaux dispersés. Les droits d'entrée pour chaque monument listé et une visite de cave avec dégustation à Areni sont inclus, de sorte que la logistique quotidienne reste simple. L'itinéraire s'étend d'avril à juin et de septembre à novembre, correspondant à la météo la plus agréable pour les escaliers de la Cascade et la flânerie en plein air au marché.",
+          "Prévoyez au moins trois heures pour parcourir l'escalier complet de la Cascade, faire une pause sur les terrasses de sculptures et visiter les galeries Cafesjian sans vous presser. Le programme des fontaines de la place de la République varie selon les saisons, confirmez donc l'heure de début du soir avec votre guide ou le concierge de votre hôtel le jour de votre arrivée. Vernissage fonctionne le samedi et le dimanche environ de 10:00 à 17:00 ; en semaine, une section plus petite de livres et d'estampes se trouve dans les mêmes rues. Portez des chaussures de marche pour les marches de pierre de la Cascade et les ruelles pavées autour de Vernissage, surtout après la pluie. Emportez une veste légère coupe-vent toute l'année, car l'altitude expose les terrasses supérieures à des rafales soudaines. Une gourde réutilisable se remplit aux stations filtrées à l'intérieur du complexe de la Cascade et dans les cafés le long du corridor piétonnier."
+        ],
+        "ja": [
+          "エレバンは標高約1000メートルに位置し、市中心部はズヴァルトノツ国際空港から車で20分です。カスケード・コンプレックスは7つのテラスにわたって572段の階段を登り、オペラ地区とモニュメント地区を結び、現代彫刻の庭園と、晴れた朝にはアララト山を見渡すパノラマビューを提供します。共和国広場はトゥフ石の政府庁舎と、晩春から初秋の夕方にかけて色調を合わせたショーを行う音楽噴水でダウンタウンのグリッドを支えています。ヴェルニサージュ市場は毎週末、アラム通りとブザンド通りに広がり、職人たちが手織りのカーペット、黒曜石のジュエリー、ソビエト時代のメダル、木彫りのハチャカルレプリカを販売しています。4月から6月、9月から11月は、夏の暑さや冬の氷なしに全ルートを歩くのに適した穏やかな気温です。ガイド付き半日紹介ツアーでカスケード、共和国広場、ヴェルニサージュを効率的に回り、近くのヒンカリハウスで昼食をとることができます。",
+          "カスケードの屋内エスカレーターは毎日稼働しており、フルの階段登りが大変な場合は部分的に登ることができます。上層階のカフェスジアン・センター・ギャラリーでは現代アルメニアの展示が入れ替わります。共和国広場の噴水パフォーマンスは通常5月から9月まで21:00に始まり、寒い時期は中断するので、夕方の散歩のタイミングを合わせてください。ヴェルニサージュの販売者はアルメニアドラムの現金を受け付け、多くの店がカード決済にも対応していますが、テキスタイルや陶器の値切りには小額紙幣が便利です。周辺の通りにはいくつかの専門コーヒーロースターと、オープントニルで焼きたてのラヴァシュを生産するベーカリーがあり、市場の混雑が始まる前の素早い朝食に役立ちます。タクシーや配車アプリで3つのサイトすべてを5分以内に移動できますが、カスケードの麓から共和国広場までの歩行者専用区域は平坦で散歩に快適です。ピンク色のトゥフのファサードに当たる早朝の光は、建築写真に最適です。",
+          "当社の5日間文化発見プライベートツアーは、カスケード・コンプレックス、共和国広場、ヴェルニサージュ市場を含むエレバン市内1日目から始まり、現地ガイドがソビエト時代の都市計画と独立後の復興について説明します。同ツアーは続く4日間でガルニ神殿、ゲゲルド修道院、セヴァン湖、ディリジャン、ホルヴィラップ、アレニ1号洞窟、ノラヴァンクを巡り、4泊すべてをエレバンの同一ホテルを拠点にします。プライベート送迎により、分散した遺産地間でのマシュルートカの時刻表を確認したり、相乗りタクシーを交渉したりする必要がなくなります。すべての指定記念碑の入場料と、アレニでのワイナリー訪問と試飲が含まれているため、日々の手配はシンプルです。この日程は4月から6月、9月から11月まで実施し、カスケードの階段やオープンエア市場の散策に最も快適な歩行シーズンに合わせています。",
+          "カスケード階段の全長を歩き、彫刻テラスで休憩し、カフェスジアン美術館をゆっくり見学するには、少なくとも3時間を確保してください。共和国広場の噴水スケジュールは季節によって変わるため、到着日にガイドまたはホテルコンシェルジュに夜の開始時間を確認してください。ヴェルニサージュは土曜日と日曜日のおおよそ10:00から17:00まで営業し、平日は同じ通り付近で小規模な書籍・版画コーナーが開催されます。カスケードの石段やヴェルニサージュ周辺の石畳の通りには、特に雨の後、歩きやすい靴を着用してください。標高が高いため上層テラスは突然の突風にさらされやすく、一年中軽いウィンドブレーカーを携帯することをお勧めします。再利用可能な水筒は、カスケード複合施設内のフィルターステーションや歩行者回廊沿いのカフェで補充できます。"
+        ],
+        "es": [
+          "Ereván se encuentra a unos 1.000 metros de altitud y el centro de la ciudad está a 20 minutos en coche del Aeropuerto Internacional de Zvartnots. El Complejo Cascade asciende 572 escalones a través de siete terrazas, conectando el distrito de la ópera con el barrio del Monumento, con jardines de escultura moderna y vistas panorámicas del monte Ararat en las mañanas despejadas. La Plaza de la República ancla la cuadrícula del centro con sus edificios gubernamentales de toba y sus fuentes musicales que ofrecen espectáculos coordinados en color desde finales de primavera hasta principios de otoño por las noches. El mercado Vernissage se extiende por las calles Aram y Buzand todos los fines de semana, donde artesanos venden alfombras hechas a mano, joyas de obsidiana, medallas de la era soviética y réplicas talladas en madera de khachkars. De abril a junio y de septiembre a noviembre ofrecen temperaturas suaves para recorrer todo el circuito sin el calor del verano ni el hielo del invierno. Una introducción guiada de medio día cubre el Cascade, la Plaza de la República y Vernissage de manera eficiente antes del almuerzo en una casa de khinkali cercana.",
+          "Las escaleras mecánicas interiores del Cascade funcionan a diario y te permiten ascender parcialmente si la subida completa de escalones te parece ambiciosa, mientras que las galerías del Centro Cafesjian en los niveles superiores rotan exposiciones contemporáneas armenias. Las actuaciones de las fuentes de la Plaza de la República suelen comenzar a las 21:00 de mayo a septiembre y se detienen durante los meses más fríos, así que programa un paseo vespertino en consecuencia. Los vendedores de Vernissage aceptan efectivo en drams armenios y muchos ahora aceptan pagos con tarjeta, aunque los billetes pequeños ayudan a regatear textiles y cerámicas. Las calles circundantes albergan varias tostadoras de café especializado y panaderías que producen lavash fresco en tonirs abiertos, útiles para un desayuno rápido antes de que se acumulen las multitudes del mercado. Los taxis y las aplicaciones de transporte conectan los tres sitios en cinco minutos, pero la zona peatonal entre la base del Cascade y la Plaza de la República es plana y agradable para caminar. La luz temprana en las fachadas de toba rosada ofrece las fotografías arquitectónicas más limpias.",
+          "Nuestro tour privado de descubrimiento cultural de 5 días comienza con un día en la ciudad de Yereván que incluye el Complejo Cascade, la Plaza República y el mercado Vernissage, junto con un guía local que explica la planificación de la era soviética y el renacimiento posterior a la independencia. El mismo tour continúa hacia el Templo de Garni, el Monasterio de Geghard, el Lago Sevan, Dilijan, Khor Virap, la Cueva de Areni-1 y Noravank durante los siguientes cuatro días, utilizando un único hotel base en Yereván para las cuatro noches. Los traslados privados eliminan la necesidad de navegar por los horarios de las marshrutkas o negociar taxis compartidos entre los sitios patrimoniales dispersos. Las tarifas de entrada para cada monumento listado y una visita a una bodega con degustación en Areni están incluidas, por lo que la logística diaria se mantiene sencilla. El itinerario se realiza de abril a junio y de septiembre a noviembre, coincidiendo con el clima más cómodo para caminar por las escaleras del Cascade y recorrer el mercado al aire libre.",
+          "Permita al menos tres horas para recorrer la escalera completa del Cascade, hacer una pausa en las terrazas de esculturas y visitar las galerías Cafesjian sin prisas. El horario de las fuentes de la Plaza República cambia según la temporada, así que confirme la hora de inicio por la noche con su guía o el conserje del hotel el día de llegada. Vernissage abre los sábados y domingos aproximadamente de 10:00 a 17:00; entre semana hay una sección más pequeña de libros y grabados cerca de las mismas calles. Use calzado con soporte para los escalones de piedra del Cascade y los callejones empedrados alrededor de Vernissage, especialmente después de la lluvia. Lleve una capa ligera contra el viento durante todo el año, ya que la altitud expone las terrazas superiores a ráfagas repentinas. Una botella de agua reutilizable se rellena en estaciones filtradas dentro del complejo Cascade y en cafeterías a lo largo del corredor peatonal."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "572-step stairway linking sculpture gardens to Ararat views",
+          "Musical fountains with evening light shows from May to September",
+          "Weekend open-air market for carpets, obsidian and Soviet memorabilia"
+        ],
+        "de": [
+          "572-stufige Treppe, die Skulpturgärten mit Ausblicken auf den Ararat verbindet",
+          "Musikalische Brunnen mit Abendlichtshows von Mai bis September",
+          "Wochenend-Freiluftmarkt für Teppiche, Obsidian und sowjetische Erinnerungsstücke"
+        ],
+        "fr": [
+          "Escalier de 572 marches reliant les jardins de sculptures aux vues sur l'Ararat",
+          "Fontaines musicales avec spectacles de lumière en soirée de mai à septembre",
+          "Marché en plein air le week-end pour tapis, obsidienne et souvenirs soviétiques"
+        ],
+        "ja": [
+          "彫刻庭園とアララト山の景色を結ぶ572段の階段",
+          "5月から9月までの夕方のライトショー付き音楽噴水",
+          "カーペット、黒曜石、ソビエト時代の記念品を扱う週末のオープンエア市場"
+        ],
+        "es": [
+          "Escalinata de 572 escalones que une jardines de esculturas con vistas al Ararat",
+          "Fuentes musicales con espectáculos de luces por la noche de mayo a septiembre",
+          "Mercado al aire libre de fin de semana para alfombras, obsidiana y recuerdos soviéticos"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Airport transfer",
+            "de": "Flughafentransfer",
+            "fr": "Transfert aéroport",
+            "ja": "空港送迎",
+            "es": "Traslado al aeropuerto"
+          },
+          "value": {
+            "en": "20 minutes from Zvartnots to city center",
+            "de": "20 Minuten von Zvartnots ins Stadtzentrum",
+            "fr": "20 minutes de Zvartnots au centre-ville",
+            "ja": "ズヴァルトノッツから市内中心部まで20分",
+            "es": "20 minutos desde Zvartnots hasta el centro de la ciudad"
+          }
+        },
+        {
+          "label": {
+            "en": "Best walking months",
+            "de": "Beste Wanderzeit",
+            "fr": "Meilleurs mois pour marcher",
+            "ja": "歩行に最適な月",
+            "es": "Mejores meses para caminar"
+          },
+          "value": {
+            "en": "April to June, September to November",
+            "de": "April bis Juni, September bis November",
+            "fr": "Avril à juin, septembre à novembre",
+            "ja": "4月から6月、9月から11月",
+            "es": "De abril a junio, de septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $1080 USD / person",
+            "de": "Ab $1080 USD / Person",
+            "fr": "À partir de $1080 USD / personne",
+            "ja": "$1080 USD〜 / 1名",
+            "es": "Desde $1080 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793428960/sunday-atlas/blog/top-10-places-to-visit-in-armenia/yerevan-commons-200839553.jpg",
+        "width": 1920,
+        "height": 1414,
+        "alt": {
+          "en": "The red-stone Holy Saviour Church in Yerevan, Armenia under a blue sky.",
+          "de": "Die rote Steinkirche Heiliger Erlöser in Jerewan, Armenien, unter einem blauen Himmel.",
+          "fr": "L'église du Saint-Sauveur en pierre rouge à Erevan, en Arménie, sous un ciel bleu.",
+          "ja": "アルメニア、エレバンの赤い石造りのホリ・セイヴァー教会。青空の下。",
+          "es": "La iglesia de piedra roja del Santo Salvador en Ereván, Armenia, bajo un cielo azul."
+        },
+        "credit": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holy_Mother_of_God_the_Mighty_Church,_Yerevan,_Armenia.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Yerevan",
+          "de": "Jerewan",
+          "fr": "Erevan",
+          "ja": "エレバン",
+          "es": "Ereván"
+        }
+      },
+      "embeddedPackageSlug": "armenia-cultural-discovery-5-days"
+    },
+    {
+      "id": "garni-temple-symphony-stones",
+      "rankNumber": 2,
+      "placeName": {
+        "en": "Garni",
+        "de": "Garni",
+        "fr": "Garni",
+        "ja": "ガルニ",
+        "es": "Garni"
+      },
+      "heading": {
+        "en": "2. Garni Temple and the Symphony of Stones",
+        "de": "2. Garni-Tempel und die Symphonie der Steine",
+        "fr": "2. Temple de Garni et la Symphonie des Pierres",
+        "ja": "2. ガルニ神殿とストーンのシンフォニー",
+        "es": "2. Templo de Garni y la Sinfonía de las Piedras"
+      },
+      "paragraphs": {
+        "en": [
+          "Garni Temple stands 28 kilometers east of Yerevan, a 40-minute drive along the Hrazdan River gorge. Built in the first century AD, it is the only surviving Greco-Roman colonnaded temple in the former Soviet sphere, dedicated to the sun god Mihr. The basalt columns of the Symphony of Stones cascade down the Azat River canyon directly below the temple, formed by ancient lava flows that cooled into near-perfect hexagonal pillars. Spring wildflowers carpet the slopes from April to June, while September brings golden light that sharpens the geometric rock faces. Wear sturdy shoes for the steep, uneven path descending to the riverbed.",
+          "The temple site sits at 1,400 meters elevation, so temperatures run several degrees cooler than Yerevan even in July. Morning visits between 9 and 11 AM catch the best light on the colonnade and avoid weekend crowds that build after noon. A small museum near the entrance displays recovered capitals, inscription fragments, and a model of the original fortified complex. Toilets and a modest café operate seasonally; carry water if you plan the full gorge walk. The dirt track to the Symphony of Stones can be slippery after rain.",
+          "Our Garni Temple, Geghard Monastery & Lake Sevan Day Trip from Yerevan includes private hotel pick-up, an English-speaking guide, and the Garni entrance fee. The itinerary sequences Charents Arch for the classic Ararat panorama, then Garni, the Symphony of Stones, UNESCO-listed Geghard, and finally Sevanavank on the Lake Sevan peninsula. The private vehicle allows flexible pacing at each stop, useful for photographers waiting for cloud breaks over the basalt pipes. Total driving time across the day is roughly three hours split into short segments.",
+          "Combine Garni with Geghard, just 7 kilometers further up the Azat gorge, to see both the pagan temple and the cliff-carved monastery in a single half-day. The paved road between them climbs through orchards and offers pull-outs for gorge views. If traveling independently, marshrutkas from Yerevan’s Gai bus station run to Garni village in about an hour, but reaching the Symphony of Stones from the village requires a 30-minute walk or a local taxi. April to June and September to November remain the most comfortable windows for the full gorge descent."
+        ],
+        "de": [
+          "Der Garni-Tempel steht 28 Kilometer östlich von Jerewan, eine 40-minütige Fahrt entlang der Hrazdan-Schlucht. Er wurde im ersten Jahrhundert nach Christus erbaut und ist der einzige erhaltene griechisch-römische Säulentempel im ehemaligen sowjetischen Einflussbereich, dem Sonnengott Mihr geweiht. Die Basaltsäulen der Symphonie der Steine stürzen in der Azat-Schlucht direkt unterhalb des Tempels hinab, gebildet durch uralte Lavaströme, die zu nahezu perfekten sechseckigen Säulen erstarrten. Frühlingsblumen bedecken die Hänge von April bis Juni, während der September goldenes Licht bringt, das die geometrischen Felsflächen schärft. Tragen Sie festes Schuhwerk für den steilen, unebenen Weg zum Flussbett hinab.",
+          "Die Tempelanlage liegt auf 1.400 Metern Höhe, sodass die Temperaturen mehrere Grad kühler sind als in Jerewan, selbst im Juli. Besuche am Morgen zwischen 9 und 11 Uhr bieten das beste Licht auf der Säulenhalle und vermeiden die Wochenendmassen, die sich nach Mittag bilden. Ein kleines Museum nahe dem Eingang zeigt geborgene Kapitelle, Inschriftenfragmente und ein Modell des ursprünglichen befestigten Komplexes. Toiletten und ein bescheidenes Café haben saisonal geöffnet; führen Sie Wasser mit, wenn Sie die gesamte Schluchtwanderung planen. Der Schotterweg zur Symphonie der Steine kann nach Regen rutschig sein.",
+          "Unser Tagesausflug Garni-Tempel, Kloster Geghard & Sewansee ab Jerewan beinhaltet die private Hotelabholung, einen englischsprachigen Guide und den Eintritt für den Garni-Tempel. Die Reiseroute sieht den Charents-Arch für die klassische Ararat-Panoramaaussicht vor, dann Garni, die Symphonie der Steine, das zum UNESCO-Welterbe gehörende Geghard und schließlich Sevanavank auf der Sewansee-Halbinsel. Das private Fahrzeug ermöglicht ein flexibles Tempo an jedem Stopp, nützlich für Fotografen, die auf Wolkenlücken über den Basaltsäulen warten. Die Gesamtfahrzeit beträgt an dem Tag etwa drei Stunden, aufgeteilt in kurze Abschnitte.",
+          "Verbinden Sie Garni mit Geghard, nur 7 Kilometer weiter die Azat-Schlucht hinauf, um den heidnischen Tempel und die in die Felswand gehauene Klosteranlage an einem halben Tag zu besichtigen. Die asphaltierte Straße zwischen beiden Orten führt durch Obstgärten und bietet Aussichtspunkte mit Blick auf die Schlucht. Wer individuell reist, erreicht Garni von der Gai-Bushaltestelle in Jerewan aus in etwa einer Stunde mit der Marshrutka; vom Dorf aus sind die Orgelpfeifen der Symphony of Stones nach einem 30-minütigen Fußweg oder mit einem lokalen Taxi erreichbar. Die angenehmsten Monate für die komplette Schluchtwanderung sind April bis Juni und September bis November."
+        ],
+        "fr": [
+          "Le temple de Garni se trouve à 28 kilomètres à l'est de Yerevan, à 40 minutes de route le long des gorges de la rivière Hrazdan. Construit au premier siècle après J.-C., c'est le seul temple gréco-romain à colonnes subsistant dans l'ancienne sphère soviétique, dédié au dieu du soleil Mihr. Les colonnes de basalte de la Symphonie des Pierres dévalent le canyon de la rivière Azat directement sous le temple, formées par d'anciennes coulées de lave refroidies en piliers hexagonaux quasi parfaits. Les fleurs sauvages du printemps tapissent les pentes d'avril à juin, tandis que septembre apporte une lumière dorée qui accentue les faces rocheuses géométriques. Portez des chaussures robustes pour le sentier escarpé et irrégulier menant au lit de la rivière.",
+          "Le site du temple est situé à 1 400 mètres d'altitude, donc les températures sont plusieurs degrés plus fraîches qu'à Yerevan même en juillet. Les visites matinales entre 9 et 11 heures offrent la meilleure lumière sur la colonnade et évitent les foules du week-end qui se forment après midi. Un petit musée près de l'entrée expose des chapiteaux récupérés, des fragments d'inscriptions et une maquette du complexe fortifié d'origine. Toilettes et un modeste café fonctionnent saisonnièrement ; emportez de l'eau si vous prévoyez la promenade complète dans les gorges. La piste de terre menant à la Symphonie des Pierres peut être glissante après la pluie.",
+          "Notre excursion d'une journée Temple de Garni, Monastère de Geghard et Lac Sevan depuis Yerevan inclut la prise en charge privée à l'hôtel, un guide anglophone et les droits d'entrée à Garni. L'itinéraire enchaîne l'Arche de Charents pour le panorama classique sur l'Ararat, puis Garni, la Symphonie des Pierres, le Geghard classé au patrimoine mondial de l'UNESCO, et enfin Sevanavank sur la péninsule du lac Sevan. Le véhicule privé permet un rythme flexible à chaque arrêt, utile pour les photographes attendant les percées nuageuses au-dessus des tuyaux de basalte. Le temps de conduite total dans la journée est d'environ trois heures répartis en courts segments.",
+          "Associez Garni à Geghard, à seulement 7 kilomètres plus haut dans la gorge de l'Azat, pour découvrir le temple païen et le monastère taillé dans la falaise en une seule demi-journée. La route goudronnée qui les relie serpente à travers les vergers et offre des points d'arrêt pour admirer la gorge. Si vous voyagez de manière indépendante, les marshrutkas depuis la gare routière de Gai à Erevan desservent le village de Garni en environ une heure, mais rejoindre la Symphonie des Pierres depuis le village nécessite une marche de 30 minutes ou un taxi local. Les périodes d'avril à juin et de septembre à novembre restent les plus confortables pour une descente complète de la gorge."
+        ],
+        "ja": [
+          "ガルニ神殿はエレバンから東へ28キロメートル、フラズダン川渓谷に沿って40分のドライブの場所にあります。紀元1世紀に建てられ、かつてのソ連圏で唯一現存するグレコローマ様式の円柱列神殿であり、太陽神ミフルに捧げられています。神殿の真下のアザト川渓谷に、古代の溶岩流が冷えてほぼ完璧な六角形の柱となったストーンのシンフォニーの玄武岩柱が連なっています。春の野生の花は4月から6月に斜面を彩り、9月には黄金色の光が幾何学的な岩肌を際立たせます。川床へ下る急で不整な道には、丈夫な靴を着用してください。",
+          "神殿跡地は標高1,400メートルに位置し、7月でもエレバンより数度気温が低くなります。午前9時から11時の訪問は、円柱列に最適な光が当たり、正午以降に増える週末の混雑を避けられます。入口付近の小さな博物館には、回収された柱頭、碑文の断片、元の要塞化された複合施設の模型が展示されています。トイレと控えめなカフェは季節営業で、渓谷を全周歩く場合は水を携帯してください。ストーンのシンフォニーへの未舗装路は雨の後、滑りやすくなります。",
+          "当社のガルニ神殿、ゲゲルド修道院、セヴァン湖日帰りツアー（エレバン発）には、ホテルへのプライベート送迎、英語ガイド、ガルニ入場料が含まれます。日程は、アララト山の絶景が楽しめなチャレンツァーチャーチ、次にガルニ、ストーンのシンフォニー、ユネスコ世界遺産のゲゲルド、そしてセヴァン湖半島のセヴァナヴァンクへと続きます。プライベート車両により各停留所で柔軟なペース配分が可能で、玄武岩の柱の上の雲の切れ間を待つ写真家に便利です。1日の総走行時間は約3時間で、短い区間に分かれています。",
+          "ガルニとゲゲルドを組み合わせて、アザト渓谷をさらに7キロ上った場所にある両方を、半日で巡ることができます。異教の神殿と崖に彫られた修道院を一度に見学できます。両地を結ぶ舗装道路は果樹園を通り抜け、渓谷の景色を楽しめる路肩があります。個人で旅行する場合、エレバンのガイバスターミナルからガルニ村までマシュルートカが約1時間で運行していますが、村からストーンのシンフォニーまで行くには徒歩30分か、地元のタクシーが必要です。渓谷を完全に下るのに最適な時期は、4月から6月、そして9月から11月です。"
+        ],
+        "es": [
+          "El Templo de Garni se encuentra a 28 kilómetros al este de Yereván, a 40 minutos en coche a lo largo del desfiladero del río Hrazdan. Construido en el primer siglo d.C., es el único templo grecorromano con columnas que sobrevive en la antigua esfera soviética, dedicado al dios sol Mihr. Las columnas de basalto de la Sinfonía de las Piedras caen en cascada por el cañón del río Azat directamente debajo del templo, formadas por antiguos flujos de lava que se enfriaron en pilares hexagonales casi perfectos. Las flores silvestres de primavera alfombran las laderas de abril a junio, mientras que septiembre trae una luz dorada que realza las caras geométricas de las rocas. Use calzado resistente para el camino empinado y desigual que desciende hasta el lecho del río.",
+          "El sitio del templo se encuentra a 1,400 metros de altitud, por lo que las temperaturas son varios grados más frescas que en Yereván incluso en julio. Las visitas matutinas entre las 9 y las 11 AM captan la mejor luz en la columnata y evitan las multitudes de fin de semana que se forman después del mediodía. Un pequeño museo cerca de la entrada exhibe capiteles recuperados, fragmentos de inscripciones y un modelo del complejo fortificado original. Los baños y un café modesto operan estacionalmente; lleve agua si planea la caminata completa por el desfiladero. El camino de tierra hacia la Sinfonía de las Piedras puede estar resbaladizo después de la lluvia.",
+          "Nuestro viaje de un día al Templo de Garni, el Monasterio de Geghard y el Lago Sevan desde Yereván incluye recogida privada en el hotel, un guía de habla inglesa y la tarifa de entrada a Garni. El itinerario secuencia el Arco de Charents para la clásica panorámica del Ararat, luego Garni, la Sinfonía de las Piedras, el Geghard declarado Patrimonio de la Humanidad por la UNESCO, y finalmente Sevanavank en la península del Lago Sevan. El vehículo privado permite un ritmo flexible en cada parada, útil para fotógrafos que esperan claros en las nubes sobre los tubos de basalto. El tiempo total de conducción durante el día es de aproximadamente tres horas divididos en segmentos cortos.",
+          "Combina Garni con Geghard, a solo 7 kilómetros más arriba del desfiladero de Azat, para ver tanto el templo pagano como el monasterio tallado en la roca en una sola media jornada. La carretera pavimentada entre ambos asciende entre huertos y ofrece miradores con vistas al desfiladero. Si viajas por tu cuenta, las marshrutkas desde la estación de autobuses Gai de Ereván llegan a la aldea de Garni en aproximadamente una hora, pero para llegar a la Sinfonía de Piedras desde la aldea se necesita una caminata de 30 minutos o un taxi local. De abril a junio y de septiembre a noviembre son los períodos más cómodos para el descenso completo del desfiladero."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Only standing Greco-Roman temple in the former Soviet sphere",
+          "Basalt organ pipes formed by ancient lava flows",
+          "Private day trip links Garni, Geghard and Lake Sevan"
+        ],
+        "de": [
+          "Einzig erhaltenes griechisch-römisches Tempelbauwerk im ehemaligen sowjetischen Einflussbereich",
+          "Basalt-Orgelpfeifen, gebildet durch uralte Lavaströme",
+          "Privater Tagesausflug verbindet Garni, Geghard und den Sewansee"
+        ],
+        "fr": [
+          "Seul temple gréco-romain encore debout dans l'ex-espace soviétique",
+          "Orgues de basalte formées par d'anciennes coulées de lave",
+          "Excursion privée d'une journée reliant Garni, Geghard et le lac Sevan"
+        ],
+        "ja": [
+          "旧ソ連圏で唯一現存するグレコローマン様式の神殿",
+          "古代の溶岩流によって形成された玄武岩のオルガンパイプ",
+          "ガルニ、ゲゲルド、セヴァン湖を結ぶプライベート日帰り旅行"
+        ],
+        "es": [
+          "El único templo greco-romano en pie en la antigua esfera soviética",
+          "Tubos de basalto en forma de órgano formados por antiguos flujos de lava",
+          "Viaje privado de un día que une Garni, Geghard y el lago Sevan"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance from Yerevan",
+            "de": "Entfernung von Jerewan",
+            "fr": "Distance depuis Erevan",
+            "ja": "エレバンからの距離",
+            "es": "Distancia desde Ereván"
+          },
+          "value": {
+            "en": "28 km, 40 minutes by car",
+            "de": "28 km, 40 Minuten mit dem Auto",
+            "fr": "28 km, 40 minutes en voiture",
+            "ja": "28 km、車で40分",
+            "es": "28 km, 40 minutos en coche"
+          }
+        },
+        {
+          "label": {
+            "en": "Best visiting months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleures périodes de visite",
+            "ja": "ベストシーズン",
+            "es": "Meses ideales para visitar"
+          },
+          "value": {
+            "en": "April–June, September–November",
+            "de": "April–Juni, September–November",
+            "fr": "Avril–juin, septembre–novembre",
+            "ja": "4月〜6月、9月〜11月",
+            "es": "Abril–junio, septiembre–noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $110 USD / person",
+            "de": "Ab $110 USD / Person",
+            "fr": "À partir de $110 USD / personne",
+            "ja": "$110 USD〜 / 1名",
+            "es": "Desde $110 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793428966/sunday-atlas/blog/top-10-places-to-visit-in-armenia/garni-commons-52484458.jpg",
+        "width": 1920,
+        "height": 1251,
+        "alt": {
+          "en": "The Greco-Roman Temple of Garni in Armenia under a clear blue sky.",
+          "de": "Der griechisch-römische Tempel von Garni in Armenien unter einem klaren blauen Himmel.",
+          "fr": "Le temple gréco-romain de Garni en Arménie sous un ciel bleu clair.",
+          "ja": "アルメニア、ガルニのグレコローマン様式ガルニ神殿。澄んだ青空の下。",
+          "es": "El templo grecorromano de Garni, Armenia, bajo un cielo azul despejado."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templo_de_Garni,_Armenia,_2016-10-02,_DD_03.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Garni",
+          "de": "Garni",
+          "fr": "Garni",
+          "ja": "ガルニ",
+          "es": "Garni"
+        }
+      },
+      "embeddedPackageSlug": "garni-geghard-lake-sevan-day-trip"
+    },
+    {
+      "id": "geghard-monastery-azat-gorge",
+      "rankNumber": 3,
+      "placeName": {
+        "en": "Geghard",
+        "de": "Geghard",
+        "fr": "Geghard",
+        "ja": "ゲゲルド",
+        "es": "Geghard"
+      },
+      "heading": {
+        "en": "3. Geghard Monastery Carved into the Azat Gorge",
+        "de": "3. Geghard-Kloster in die Azat-Schlucht gemeißelt",
+        "fr": "3. Le monastère de Geghard taillé dans la gorge de l'Azat",
+        "ja": "3. アザト渓谷に彫られたゲゲルド修道院",
+        "es": "3. Monasterio de Geghard Tallado en el Desfiladero de Azat"
+      },
+      "paragraphs": {
+        "en": [
+          "Geghard Monastery sits 35 kilometers east of Yerevan in the Azat River gorge, a 45-minute drive through orchards and volcanic hills. The main cathedral and its adjoining chapels were hewn directly from the cliff face in the 13th century, while earlier cave cells date back to the 4th century. Inside, the air stays cool year-round and the stone acoustics amplify the chants of visiting choirs. A narrow staircase leads to the upper gavit, where a natural spring still flows into a stone basin. Spring wildflowers carpet the gorge floor in May, and autumn light paints the cliffs gold in October. Wear sturdy shoes for the uneven rock floors and bring a light jacket for the damp interior chambers.",
+          "The complex earned UNESCO World Heritage status for its unique fusion of architecture and landscape, with khachkars carved into the living rock beside the built masonry. Pilgrims have come for centuries to venerate the spear relic that gave the monastery its name, Geghardavank, or Monastery of the Spear. Today the spear is displayed in the Echmiadzin treasury, but the spiritual atmosphere remains palpable in the dimly lit chapels. Guides often demonstrate the resonance by singing a single note that reverberates for several seconds. Photography is permitted without flash, though tripods are discouraged in the narrow passages. The site opens daily from early morning until sunset, with fewer visitors on weekday mornings.",
+          "Most travelers combine Geghard with nearby Garni Temple and the Symphony of Stones basalt formations, all reachable within a half-day loop from Yerevan. Our private day trip follows this route, adding the Charents Arch viewpoint for a panoramic frame of Mount Ararat before descending to the gorge. The drive from Garni to Geghard takes only ten minutes along a paved road that hugs the canyon rim. A small parking area sits a short walk from the monastery entrance, past a row of vendors selling dried fruit and lavash. Restrooms and a modest cafe operate near the gate during the main tourist season from April through October.",
+          "For independent visitors, marshrutka minibuses depart Yerevan's Gai bus station for Garni village roughly every hour, followed by a short taxi ride up the gorge road. The last return minibus usually leaves Garni around 5 PM, so plan an early start if relying on public transport. Winter access remains open, though snow can make the final approach slippery; four-wheel drive is advisable from December through February. Bring water and snacks, as food options inside the monastery grounds are limited to the seasonal cafe. Dress modestly with covered shoulders and knees, as the site functions as an active place of worship for the Armenian Apostolic Church."
+        ],
+        "de": [
+          "Das Geghard-Kloster liegt 35 Kilometer östlich von Jerewan in der Schlucht des Azat-Flusses, eine 45-minütige Fahrt durch Obstgärten und vulkanische Hügel. Die Hauptkathedrale und die angrenzenden Kapellen wurden im 13. Jahrhundert direkt aus der Felswand gehauen, während frühere Höhlenzellen bis ins 4. Jahrhundert zurückreichen. Im Inneren herrscht das ganze Jahr über kühle Luft, und die Steinakustik verstärkt die Gesänge besuchender Chöre. Eine schmale Treppe führt hinauf zur oberen Gavit, wo eine natürliche Quelle noch immer in ein steinernes Becken fließt. Im Mai bedecken Frühlingsblumen den Schluchtboden, und im Oktober taucht das Herbstlicht die Klippen in goldenes Licht. Tragen Sie festes Schuhwerk für die unebenen Felsböden und bringen Sie eine leichte Jacke für die feuchten Innenräume mit.",
+          "Der Komplex erhielt den UNESCO-Welterbe-Status für seine einzigartige Verschmelzung von Architektur und Landschaft, mit Chatschkaren, die in den lebendigen Fels gemeißelt sind, neben dem gemauerten Bauwerk. Pilger kamen seit Jahrhunderten, um die Speerreliquie zu verehren, die dem Kloster seinen Namen Geghardavank, Kloster des Speers, gab. Heute wird der Speer in der Echmiadzin-Schatzkammer ausgestellt, doch die spirituelle Atmosphäre bleibt in den schwach beleuchteten Kapellen spürbar. Guides demonstrieren die Resonanz oft, indem sie einen einzelnen Ton singen, der mehrere Sekunden nachhallt. Fotografieren ohne Blitz ist erlaubt, Stative werden in den engen Gängen jedoch nicht empfohlen. Die Anlage ist täglich von frühmorgens bis Sonnenuntergang geöffnet, an Wochentagen am Vormittag sind weniger Besucher vor Ort.",
+          "Die meisten Reisenden verbinden Geghard mit dem nahe gelegenen Garni-Tempel und den Basaltformationen der Symphony of Stones, die alle in einer halbtägigen Rundtour von Jerewan aus erreichbar sind. Unser privater Tagesausflug folgt dieser Route und fügt den Aussichtspunkt Charents Arch hinzu, der einen Panoramablick auf den Berg Ararat bietet, bevor es hinab in die Schlucht geht. Die Fahrt von Garni nach Geghard dauert nur zehn Minuten entlang einer asphaltierten Straße, die am Canyonrand entlangführt. Ein kleiner Parkplatz befindet sich einen kurzen Fußweg vom Klostereingang entfernt, vorbei an einer Reihe von Händlern, die getrocknete Früchte und Lavash anbieten. Toiletten und ein bescheidenes Café sind während der Hauptsaison von April bis Oktober am Tor geöffnet.",
+          "Für individuelle Besucher fahren Marshrutka-Minibusse stündlich vom Gai-Busbahnhof in Jerewan nach Garni, gefolgt von einer kurzen Taxifahrt die Schluchtstraße hinauf. Der letzte Rückbus verlässt Garni gewöhnlich gegen 17 Uhr, daher sollten Sie früh starten, wenn Sie auf öffentliche Verkehrsmittel angewiesen sind. Der Winterzugang bleibt offen, obwohl Schnee die letzte Anfahrt rutschig machen kann; von Dezember bis Februar wird Allradantrieb empfohlen. Bringen Sie Wasser und Snacks mit, da die Verpflegungsmöglichkeiten auf dem Klostergelände auf das saisonale Café beschränkt sind. Kleiden Sie sich bescheiden mit bedeckten Schultern und Knien, da die Stätte als aktiver Gottesort der Armenischen Apostolischen Kirche fungiert."
+        ],
+        "fr": [
+          "Le monastère de Geghard se trouve à 35 kilomètres à l'est d'Erevan, dans la gorge de la rivière Azat, à 45 minutes de route à travers vergers et collines volcaniques. La cathédrale principale et ses chapelles attenantes ont été taillées directement dans la paroi rocheuse au 13e siècle, tandis que les premières cellules troglodytes remontent au 4e siècle. À l'intérieur, l'air reste frais toute l'année et les acoustiques de la pierre amplifient les chants des chœurs de passage. Un escalier étroit mène au gavit supérieur, où une source naturelle coule encore dans un bassin de pierre. Les fleurs sauvages du printemps tapissent le fond de la gorge en mai, et la lumière d'automne pare les falaises d'or en octobre. Portez des chaussures solides pour les sols rocheux irréguliers et apportez une veste légère pour les chambres intérieures humides.",
+          "Le complexe a obtenu le statut de patrimoine mondial de l'UNESCO pour sa fusion unique d'architecture et de paysage, avec des khatchkars sculptés dans la roche vivante aux côtés de la maçonnerie construite. Les pèlerins viennent depuis des siècles vénérer la relique de la lance qui a donné son nom au monastère, Geghardavank, ou monastère de la Lance. Aujourd'hui, la lance est exposée au trésor d'Etchmiadzine, mais l'atmosphère spirituelle reste palpable dans les chapelles faiblement éclairées. Les guides démontrent souvent la résonance en chantant une seule note qui réverbère pendant plusieurs secondes. La photographie est autorisée sans flash, bien que les trépieds soient déconseillés dans les passages étroits. Le site ouvre tous les jours du lever du soleil jusqu'au coucher du soleil, avec moins de visiteurs les matins en semaine.",
+          "La plupart des voyageurs combinent Geghard avec le temple de Garni voisin et les formations basaltiques de la Symphonie des Pierres, le tout accessible en une boucle d'une demi-journée depuis Erevan. Notre excursion privée d'une journée suit cet itinéraire, en ajoutant le point de vue de l'Arch de Charents pour un cadre panoramique du mont Ararat avant de descendre dans la gorge. Le trajet de Garni à Geghard ne prend que dix minutes le long d'une route goudronnée qui longe le bord du canyon. Un petit parking se trouve à une courte marche de l'entrée du monastère, après une rangée de vendeurs de fruits secs et de lavash. Des toilettes et un modeste café fonctionnent près de la porte pendant la haute saison touristique, d'avril à octobre.",
+          "Pour les visiteurs indépendants, les marshrutkas partent de la gare routière de Gai à Erevan pour le village de Garni environ toutes les heures, suivies d'un court trajet en taxi sur la route de la gorge. Le dernier minibus de retour quitte généralement Garni vers 17 h, alors prévoyez un départ matinal si vous comptez sur les transports en commun. L'accès en hiver reste ouvert, bien que la neige puisse rendre l'approche finale glissante ; un véhicule à quatre roues motrices est conseillé de décembre à février. Apportez de l'eau et des collations, car les options de restauration à l'intérieur de l'enceinte du monastère sont limitées au café saisonnier. Habillez-vous modestement avec les épaules et les genoux couverts, car le site fonctionne comme un lieu de culte actif pour l'Église apostolique arménienne."
+        ],
+        "ja": [
+          "ゲゲルド修道院はエレバンから東へ35キロ、アザト川渓谷に位置し、果樹園や火山性の丘を通り抜ける45分のドライブで到着します。メインカテドラルと隣接する礼拝堂は13世紀に崖の岩肌から直接掘り出され、それより古い洞窟の小部屋は4世紀にまで遡ります。内部は一年中涼しく、石の響きが訪れる合唱隊の聖歌を増幅します。狭い階段を上ると上部のガヴィトに到着し、そこでは天然の泉が今も石の水盤に流れ込んでいます。5月には渓谷底に春の野花が咲き乱れ、10月には秋の光が崖を金色に染めます。不整地な岩場を歩くために丈夫な靴を履き、湿った内部の部屋のために軽いジャケットをご持参ください。",
+          "この複合施設は、建築と景観の独特な融合が評価されユネスコ世界遺産に登録されています。生きた岩に彫られたハチャカールが、積み石の建築の隣にあります。巡礼者は何世紀にもわたって、修道院の名前であるゲゲルダヴァンク（聖槍の修道院）の由来となった聖槍の遺物を崇拝するために訪れてきました。今日、聖槍はエチミアジンの宝物庫に展示されていますが、薄暗い礼拝堂には今もなお精神的な雰囲気が漂っています。ガイドはしばしば、一音を歌って数秒間響かせることで共鳴を実演します。フラッシュなしでの撮影は許可されていますが、狭い通路では三脚の使用は推奨されていません。サイトは早朝から日没まで毎日開いており、平日の午前中は訪問者が少なくなります。",
+          "多くの旅行者は、近くのガルニ神殿と玄武岩のストーンのシンフォニーと合わせて、エレバンからの半日周遊コースで訪れます。当社のプライベート日帰り旅行はこのルートをたどり、渓谷に下る前にマラレンサル展望台からアララト山のパノラマビューを楽しむプランです。ガルニからゲゲルドまでのドライブは、渓谷の縁に沿った舗装道路をわずか10分で走ります。修道院の入り口から少し歩いた場所に小さな駐車場があり、その先にはドライフルーツやラヴァシュパンを販売する露店が並んでいます。メインシーズンである4月から10月の間、門の近くにトイレと控えめなカフェが営業しています。",
+          "個人で訪れる方は、エレバンのガイバスターミナルからガルニ村まで約1時間ごとにマシュルートカミニバスが出発し、その後渓谷道路を短いタクシーで上ります。最終の帰りミニバスは通常午後5時頃にガルニを出発するため、公共交通機関を利用する場合は早めの出発をおすすめします。冬季もアクセスは可能ですが、雪で最終アプローチが滑りやすくなることがあり、12月から2月までは四輪駆動車が推奨されます。修道院敷地内の食事の選択肢は季節限定のカフェのみに限られているため、水と軽食をご持参ください。肩と膝を覆う控えめな服装でお越しください。ここはアルメニア使徒教会の活動的な礼拝場所として機能しています。"
+        ],
+        "es": [
+          "El Monasterio de Geghard se encuentra a 35 kilómetros al este de Ereván, en el desfiladero del río Azat, a 45 minutos en coche a través de huertos y colinas volcánicas. La catedral principal y sus capillas adyacentes fueron talladas directamente en la roca en el siglo XIII, mientras que las celdas-cueva anteriores datan del siglo IV. En su interior, el aire se mantiene fresco durante todo el año y la acústica de la piedra amplifica los cantos de los coros visitantes. Una escalera estrecha conduce al gavit superior, donde un manantial natural aún fluye hacia una pila de piedra. Las flores silvestres de primavera alfombran el suelo del desfiladero en mayo, y la luz otoñal tiñe los acantilados de oro en octubre. Usa calzado resistente para los pisos de roca irregulares y lleva una chaqueta ligera para las cámaras interiores húmedas.",
+          "El complejo obtuvo el estatus de Patrimonio Mundial de la UNESCO por su fusión única de arquitectura y paisaje, con jachkares tallados en la roca viva junto a la mampostería construida. Los peregrinos han llegado durante siglos para venerar la reliquia de la lanza que le dio al monasterio su nombre, Geghardavank, o Monasterio de la Lanza. Hoy la lanza se exhibe en el tesoro de Echmiadzin, pero la atmósfera espiritual sigue siendo palpable en las capillas con poca luz. Los guías suelen demostrar la resonancia cantando una sola nota que reverbera durante varios segundos. Está permitido fotografiar sin flash, aunque se desaconseja el uso de trípodes en los pasajes estrechos. El sitio abre todos los días desde temprano hasta el atardecer, con menos visitantes por las mañanas entre semana.",
+          "La mayoría de los viajeros combinan Geghard con el cercano Templo de Garni y las formaciones basálticas de la Sinfonía de Piedras, todo alcanzable en un circuito de medio día desde Ereván. Nuestro viaje privado de un día sigue esta ruta, añadiendo el mirador del Arco de Charents para un marco panorámico del Monte Ararat antes de descender al desfiladero. El trayecto de Garni a Geghard dura solo diez minutos por una carretera pavimentada que bordea el borde del cañón. Un pequeño aparcamiento queda a poca distancia de la entrada del monasterio, tras una hilera de vendedores de fruta seca y lavash. Baños y un modesto café funcionan cerca de la puerta durante la temporada turística principal, de abril a octubre.",
+          "Para los visitantes independientes, las marshrutkas salen de la estación de autobuses Gai de Ereván hacia la aldea de Garni aproximadamente cada hora, seguidas de un breve trayecto en taxi por la carretera del desfiladero. El último minibus de regreso suele salir de Garni alrededor de las 5 PM, así que planifica un inicio temprano si dependes del transporte público. El acceso en invierno sigue abierto, aunque la nieve puede hacer resbaladizo el tramo final; se recomienda tracción en las cuatro ruedas de diciembre a febrero. Lleva agua y bocadillos, ya que las opciones de comida dentro del recinto del monasterio se limitan al café de temporada. Viste con modestia, con hombros y rodillas cubiertos, ya que el sitio funciona como un lugar de culto activo de la Iglesia Apostólica Armenia."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Rock-hewn chambers with natural spring and resonant acoustics",
+          "UNESCO site combining 4th-century caves and 13th-century cathedral",
+          "Easy half-day combination with Garni Temple and basalt canyon"
+        ],
+        "de": [
+          "Felsgehauene Kammern mit natürlicher Quelle und resonierender Akustik",
+          "UNESCO-Stätte, die Höhlen aus dem 4. Jahrhundert und eine Kathedrale aus dem 13. Jahrhundert vereint",
+          "Einfache halbtägige Kombination mit dem Garni-Tempel und der Basalt-Schlucht"
+        ],
+        "fr": [
+          "Chambres taillées dans la roche avec source naturelle et acoustique résonante",
+          "Site de l'UNESCO alliant grottes du 4e siècle et cathédrale du 13e siècle",
+          "Combinaison facile d'une demi-journée avec le temple de Garni et le canyon de basalte"
+        ],
+        "ja": [
+          "天然の泉と響き渡る音響を持つ岩に彫られた部屋",
+          "4世紀の洞窟と13世紀のカテドラルを融合させたユネスコ遺産",
+          "ガルニ神殿と玄武岩の渓谷との簡単な半日組み合わせ"
+        ],
+        "es": [
+          "Cámaras excavadas en la roca con manantial natural y acústica resonante",
+          "Sitio de la UNESCO que combina cuevas del siglo IV y catedral del siglo XIII",
+          "Combinación sencilla de medio día con el Templo de Garni y el cañón de basalto"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance from Yerevan",
+            "de": "Entfernung von Jerewan",
+            "fr": "Distance depuis Erevan",
+            "ja": "エレバンからの距離",
+            "es": "Distancia desde Ereván"
+          },
+          "value": {
+            "en": "35 km, 45-minute drive",
+            "de": "35 km, 45-minütige Fahrt",
+            "fr": "35 km, 45 minutes de route",
+            "ja": "35 km、45分のドライブ",
+            "es": "35 km, 45 minutos en coche"
+          }
+        },
+        {
+          "label": {
+            "en": "Best visit months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleurs mois de visite",
+            "ja": "ベストシーズン",
+            "es": "Meses ideales para visitar"
+          },
+          "value": {
+            "en": "April to June, September to November",
+            "de": "April bis Juni, September bis November",
+            "fr": "Avril à juin, septembre à novembre",
+            "ja": "4月から6月、9月から11月",
+            "es": "abril a junio, septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $110 USD / person",
+            "de": "Ab $110 USD / Person",
+            "fr": "À partir de $110 USD / personne",
+            "ja": "$110 USD〜 / 1名",
+            "es": "Desde $110 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793428970/sunday-atlas/blog/top-10-places-to-visit-in-armenia/geghard-commons-52483722.jpg",
+        "width": 1920,
+        "height": 585,
+        "alt": {
+          "en": "Geghard monastery carved into a rocky Armenian mountainside under a clear blue sky.",
+          "de": "Das Geghard-Kloster, in die felsige armenische Bergflanke gehauen, unter einem klaren blauen Himmel.",
+          "fr": "Le monastère de Geghard creusé dans le flanc rocheux d'une montagne arménienne sous un ciel bleu clair.",
+          "ja": "アルメニアの岩山に彫られたゲゲルド修道院。澄んだ青空の下。",
+          "es": "El monasterio de Geghard tallado en la ladera rocosa de una montaña armenia bajo un cielo azul despejado."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_Geghard,_Armenia,_2016-10-02,_DD_65-74_PAN.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Geghard",
+          "de": "Geghard",
+          "fr": "Geghard",
+          "ja": "ゲゲルド",
+          "es": "Geghard"
+        }
+      },
+      "embeddedPackageSlug": "garni-geghard-lake-sevan-day-trip"
+    },
+    {
+      "id": "khor-virap-ararat-areni-cave",
+      "rankNumber": 4,
+      "placeName": {
+        "en": "Khor Virap",
+        "de": "Khor Virap",
+        "fr": "Khor Virap",
+        "ja": "ホル・ヴィラフ",
+        "es": "Khor Virap"
+      },
+      "heading": {
+        "en": "4. Khor Virap, Mount Ararat Panorama and Areni-1 Cave",
+        "de": "4. Khor Virap, Panorama des Berges Ararat und Höhle Areni-1",
+        "fr": "4. Khor Virap, panorama du mont Ararat et grotte d'Areni-1",
+        "ja": "4. ホル・ヴィラフ、アララト山パノラマ、アレニ1号洞窟",
+        "es": "4. Khor Virap, panorama del monte Ararat y cueva de Areni-1"
+      },
+      "paragraphs": {
+        "en": [
+          "Khor Virap sits on a low hill about 45 kilometres south of Yerevan, a one-hour drive on the M2 highway past vineyards and apricot orchards. The monastery courtyard opens directly toward the Turkish border, framing the snow-capped bulk of Mount Ararat across the Aras River plain. Morning light between April and June gives the clearest silhouette, while late afternoon in September adds a golden cast to the slopes. Inside the compound, a narrow ladder descends into the deep pit where Gregory the Illuminator was imprisoned for thirteen years. The site has a small parking area, a restroom block and a modest souvenir stall; bring water and a hat because shade is scarce in summer.",
+          "Ten kilometres further south along the same road, the village of Areni clusters around the entrance to Areni-1 Cave, a limestone cavern overlooking the Arpa River gorge. Excavations here uncovered a 5,500-year-old leather shoe, the oldest known example of its kind, along with evidence of the world's earliest winemaking facility. Guided tours enter the main chamber where clay fermentation vats and grape seeds were found in situ, then continue to a viewing platform above the gorge. The cave stays cool year-round, so a light jacket is useful even in July. Allow thirty minutes for the walk from the car park to the entrance and back.",
+          "The surrounding Areni valley is one of Armenia's oldest wine districts, with family-run cellars offering tastings of indigenous varieties such as Areni Noir and Voskehat. Most wineries operate from May through October, opening around 10 am and closing by 6 pm; weekends in harvest season can be busy, so a weekday visit is quieter. Pair a tasting with a plate of local cheese and lavash baked in a tonir oven. Drivers should note that the road through the gorge narrows after the cave, and passing trucks require caution. A combined stop at Khor Virap, the cave and a winery fits comfortably into a half-day loop from Yerevan.",
+          "Our four-day private itinerary includes Khor Virap on Day 3, arriving mid-morning for the best Ararat views before continuing to Areni-1 Cave and a vineyard lunch. The route then climbs into the red-rock canyon toward Noravank, returning to Yerevan by early evening. April to June and September to November deliver mild temperatures and clear skies, while July and August midday heat can top 35 Celsius on the plain. We provide a guide, driver, entrance fees and the winery tasting so you can focus on the landscape and history without logistics."
+        ],
+        "de": [
+          "Khor Virap liegt auf einem niedrigen Hügel etwa 45 Kilometer südlich von Jerewan, eine einstündige Fahrt auf der M2-Autobahn an Weinbergen und Aprikosenplantagen vorbei. Der Klosterhof öffnet sich direkt zur türkischen Grenze und ragt die schneebedeckte Masse des Berges Ararat über der Aras-Ebene ein. Das Morgenlicht zwischen April und Juni bietet die klarste Silhouette, während der späte Nachmittag im September den Hängen einen goldenen Schimmer verleiht. Im Komplex führt eine schmale Leiter hinab in die tiefe Grube, in der Gregor der Erleuchter dreizehn Jahre lang gefangen gehalten wurde. Die Anlage verfügt über einen kleinen Parkplatz, einen Toilettenblock und einen bescheidenen Souvenirstand; bringen Sie Wasser und einen Hut mit, da im Sommer kaum Schatten vorhanden ist.",
+          "Zehn Kilometer weiter südlich auf derselben Straße liegt das Dorf Areni am Eingang zur Höhle Areni-1, einer Kalksteinhöhle mit Blick auf die Arpa-Schlucht. Ausgrabungen hier brachten einen 5.500 Jahre alten Lederschuh zutage, das älteste bekannte Exemplar seiner Art, sowie Beweise für die älteste Weinkellerei der Welt. Geführte Touren betreten die Haupthöhle, in der Ton-Gärgefäße und Weintraubensamen vor Ort gefunden wurden, und führen dann weiter zu einer Aussichtsplattform oberhalb der Schlucht. Die Höhle bleibt das ganze Jahr über kühl, daher ist eine leichte Jacke selbst im Juli nützlich. Rechnen Sie mit dreißig Minuten für den Fußweg vom Parkplatz zum Eingang und zurück.",
+          "Das umliegende Areni-Tal ist eines der ältesten Weinbaugebiete Armeniens, mit familiengeführten Kellereien, die Verkostungen indigener Rebsorten wie Areni Noir und Voskehat anbieten. Die meisten Weingüter sind von Mai bis Oktober geöffnet, etwa von 10 Uhr bis 18 Uhr; an Wochenenden während der Erntezeit kann es voll sein, daher ist ein Besuch unter der Woche ruhiger. Kombinieren Sie eine Verkostung mit einem Teller lokaler Käse und Lavash, der in einem Tonir-Ofen gebacken wird. Fahrer sollten beachten, dass die Straße durch die Schlucht nach der Höhle schmaler wird, und überholende Lkw erfordern Vorsicht. Ein kombinierter Stopp bei Khor Virap, der Höhle und einem Weingut lässt sich bequem in eine halbtägige Rundfahrt von Jerewan einbauen.",
+          "Unsere viertägige Privatreise beinhaltet Khor Virap am Tag 3, mit Ankunft am Vormittag für die besten Ararat-Blicke, bevor es weiter zur Höhle Areni-1 und einem Weinberg-Mittagessen geht. Die Route steigt dann in die rotfelsige Schlucht hinauf nach Noravank und kehrt am frühen Abend nach Jerewan zurück. April bis Juni und September bis November bieten milde Temperaturen und klare Himmel, während die Juli- und Augustmittagshitze auf der Ebene 35 Grad Celsius übersteigen kann. Wir stellen einen Guide, Fahrer, Eintrittsgelder und die Weinverkostung bereit, damit Sie sich auf Landschaft und Geschichte konzentrieren können, ohne sich um die Logistik kümmern zu müssen."
+        ],
+        "fr": [
+          "Khor Virap se dresse sur une petite colline à environ 45 kilomètres au sud d'Erevan, soit une heure de route sur l'autoroute M2 à travers les vignobles et les vergers d'abricotiers. La cour du monastère s'ouvre directement sur la frontière turque, encadrant le massif enneigé du mont Ararat au-delà de la plaine de l'Araxe. La lumière matinale entre avril et juin offre la silhouette la plus nette, tandis que la fin d'après-midi en septembre donne une teinte dorée aux pentes. À l'intérieur de l'enceinte, une échelle étroite descend dans la fosse profonde où Grégoire l'Illuminateur fut emprisonné pendant treize ans. Le site dispose d'un petit parking, d'un bloc sanitaire et d'un modeste étal de souvenirs ; prévoyez de l'eau et un chapeau, car l'ombre se fait rare en été.",
+          "À dix kilomètres plus au sud sur la même route, le village d'Areni se regroupe autour de l'entrée de la grotte d'Areni-1, une caverne calcaire surplombant la gorge de l'Arpa. Les fouilles y ont mis au jour une chaussure en cuir vieille de 5 500 ans, le plus ancien exemple connu de ce type, ainsi que des traces de la plus ancienne installation de vinification au monde. Les visites guidées pénètrent dans la salle principale où des cuves de fermentation en argile et des pépins de raisin ont été découverts in situ, puis se poursuivent jusqu'à une plateforme d'observation au-dessus de la gorge. La grotte reste fraîche toute l'année, donc une veste légère est utile même en juillet. Prévoyez trente minutes pour la marche du parking à l'entrée et retour.",
+          "La vallée d'Areni environnante est l'un des plus anciens districts viticoles d'Arménie, avec des caves familiales proposant des dégustations de cépages indigènes tels que l'Areni Noir et le Voskehat. La plupart des caves fonctionnent de mai à octobre, ouvrant vers 10 heures et fermant à 18 heures ; les week-ends en période de vendanges peuvent être chargés, donc une visite en semaine est plus calme. Accompagnez une dégustation d'un plateau de fromage local et de lavash cuit dans un four tonir. Les conducteurs doivent noter que la route à travers la gorge se rétrécit après la grotte, et les camions qui croisent nécessitent de la prudence. Un arrêt combiné à Khor Virap, à la grotte et à un domaine viticole s'intègre confortablement dans une boucle d'une demi-journée depuis Erevan.",
+          "Notre itinéraire privé de quatre jours inclut Khor Virap le jour 3, arrivant en milieu de matinée pour les meilleures vues sur l'Ararat avant de continuer vers la grotte d'Areni-1 et un déjeuner dans un domaine viticole. L'itinéraire grimpe ensuite dans le canyon de roches rouges vers Noravank, pour revenir à Erevan en début de soirée. Avril à juin et septembre à novembre offrent des températures douces et un ciel dégagé, tandis que la chaleur de midi en juillet et août peut dépasser 35 Celsius dans la plaine. Nous fournissons un guide, un chauffeur, les frais d'entrée et la dégustation au domaine viticole afin que vous puissiez vous concentrer sur le paysage et l'histoire sans vous soucier de la logistique."
+        ],
+        "ja": [
+          "ホル・ヴィラフはエレバンから南へ約45キロメートルの低い丘の上に位置し、M2ハイウェイをブドウ園やアプリコット果樹園を通り抜けて約1時間で到着します。修道院の中庭はトルコ国境に直接向かって開けており、アラス川平原を隔てた雪を頂いたアララト山の雄大な姿を望むことができます。4月から6月の朝の光が最もくっきりとしたシルエットを描き出し、9月の午後遅くには斜面に黄金色の輝きが加わります。境内には、グレゴリー照明者が13年間幽閉された深い穴へと続く狭い梯子があります。敷地内には小さな駐車場、トイレ棟、そして控えめな土産物売店があります。夏は日陰がほとんどないため、水と帽子をご持参ください。",
+          "同じ道をさらに南へ10キロメートル進むと、村アレニがアレニ1号洞窟の入り口付近に集まっています。この石灰岩の洞窟はアルパ川の峡谷を見下ろす場所にあります。発掘調査により、5500年前の革靴（世界最古の例）や、世界最古のワイン醸造施設の証拠が発見されました。ガイド付きツアーでは、粘土製の発酵槽やブドウの種が原位置で発見されたメイン・チャンバーに入り、その後、峡谷を見渡す展望台へと続きます。洞窟内は年間を通じて涼しいため、7月でも軽い上着があると便利です。駐車場から入り口までの往復の徒歩は30分を見込んでください。",
+          "周囲のアレニ渓谷はアルメニア最古のワイン産地の一つで、家族経営のセラーではアレニ・ノワールやヴォスケハットなどの固有品種の試飲を提供しています。ほとんどのワイナリーは5月から10月まで営業し、午前10時頃に開店し午後6時までに閉店します。収穫期の週末は混雑するため、平日の訪問がおすすめです。試飲には地元のチーズとトニルオーブンで焼いたラヴァシュパンを合わせてください。ドライバーは、洞窟を過ぎると峡谷を通る道が狭くなり、通過するトラックに注意が必要であることをご承知おきください。ホル・ヴィラフ、洞窟、ワイナリーを組み合わせた停留所は、エレバンからの半日ループに快適に収まります。",
+          "当社の4日間のプライベート・イタineraryには3日目にホル・ヴィラフが含まれ、アララト山の絶景を楽しむため午前中に到着した後、アレニ1号洞窟とヴィンヤードランチへと続きます。ルートは赤い岩の峡谷を登ってノラヴァンクへと向かい、早い夕方にエレバンへ戻ります。4月から6月、9月から11月は穏やかな気温と晴天が続きますが、7月と8月の真昼の暑さは平原で35度を超えることがあります。当社はガイド、ドライバー、入場料、ワイナリー試飲を手配するので、お客様はロジスティクスを気にせず風景と歴史に集中できます。"
+        ],
+        "es": [
+          "Khor Virap se encuentra en una colina baja a unos 45 kilómetros al sur de Ereván, a una hora en coche por la carretera M2 pasando viñedos y huertos de albaricoques. El patio del monasterio se abre directamente hacia la frontera turca, enmarcando el macizo nevado del monte Ararat al otro lado de la llanura del río Aras. La luz matutina entre abril y junio ofrece la silueta más clara, mientras que el atardecer a finales de septiembre añade un tono dorado a las laderas. Dentro del recinto, una escalera estrecha desciende al pozo profundo donde Gregorio el Iluminador estuvo encarcelado durante trece años. El sitio cuenta con un pequeño aparcamiento, un bloque de baños y un modesto puesto de recuerdos; lleva agua y sombrero porque la sombra escasea en verano.",
+          "Diez kilómetros más al sur por el mismo camino, el pueblo de Areni se agrupa alrededor de la entrada a la cueva de Areni-1, una caverna de piedra caliza que domina el desfiladero del río Arpa. Las excavaciones aquí descubrieron un zapato de cuero de 5500 años, el ejemplo más antiguo conocido de su tipo, junto con evidencia de la instalación vinícola más temprana del mundo. Las visitas guiadas entran en la cámara principal donde se encontraron vasijas de arcilla para fermentación y semillas de uva in situ, y luego continúan hasta una plataforma de observación sobre el desfiladero. La cueva se mantiene fresca durante todo el año, así que una chaqueta ligera es útil incluso en julio. Permite treinta minutos para la caminata desde el aparcamiento hasta la entrada y de regreso.",
+          "El valle de Areni circundante es uno de los distritos vinícolas más antiguos de Armenia, con bodegas familiares que ofrecen degustaciones de variedades autóctonas como Areni Noir y Voskehat. La mayoría de las bodegas operan de mayo a octubre, abriendo alrededor de las 10 am y cerrando a las 6 pm; los fines de semana en temporada de cosecha pueden estar concurridos, por lo que una visita entre semana es más tranquila. Acompaña una degustación con un plato de queso local y lavash horneado en un horno tonir. Los conductores deben tener en cuenta que el camino a través del desfiladero se estrecha después de la cueva, y los camiones que pasan requieren precaución. Una parada combinada en Khor Virap, la cueva y una bodega encaja cómodamente en un circuito de medio día desde Ereván.",
+          "Nuestro itinerario privado de cuatro días incluye Khor Virap el Día 3, llegando a media mañana para las mejores vistas del Ararat antes de continuar a la cueva de Areni-1 y un almuerzo en un viñedo. La ruta luego asciende hacia el cañón de roca roja en dirección a Noravank, regresando a Ereván a primera hora de la tarde. Abril a junio y septiembre a noviembre ofrecen temperaturas suaves y cielos despejados, mientras que el calor del mediodía en julio y agosto puede superar los 35 grados Celsius en la llanura. Proporcionamos un guía, conductor, tarifas de entrada y la degustación en la bodega para que puedas enfocarte en el paisaje y la historia sin preocuparte por la logística."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Mount Ararat framed from the monastery courtyard",
+          "World's oldest leather shoe displayed in situ",
+          "Indigenous Areni Noir tasting in a family cellar"
+        ],
+        "de": [
+          "Der Berg Ararat, eingerahmt vom Klosterhof",
+          "Der älteste Lederschuh der Welt, vor Ort ausgestellt",
+          "Verkostung indigener Areni Noir in einem Familienkeller"
+        ],
+        "fr": [
+          "Le mont Ararat encadré depuis la cour du monastère",
+          "La plus vieille chaussure en cuir du monde exposée in situ",
+          "Dégustation d'Areni Noir indigène dans une cave familiale"
+        ],
+        "ja": [
+          "修道院の中庭から望むアララト山",
+          "原位置で展示される世界最古の革靴",
+          "家族経営のセラーでの固有品種アレニ・ノワール試飲"
+        ],
+        "es": [
+          "Monte Ararat enmarcado desde el patio del monasterio",
+          "El zapato de cuero más antiguo del mundo exhibido in situ",
+          "Degustación de Areni Noir autóctono en una bodega familiar"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive from Yerevan",
+            "de": "Fahrt von Jerewan",
+            "fr": "Route depuis Erevan",
+            "ja": "エレバンからのドライブ",
+            "es": "Conducción desde Ereván"
+          },
+          "value": {
+            "en": "1 hour to Khor Virap",
+            "de": "1 Stunde nach Khor Virap",
+            "fr": "1 heure jusqu'à Khor Virap",
+            "ja": "ホル・ヴィラフまで1時間",
+            "es": "1 hora hasta Khor Virap"
+          }
+        },
+        {
+          "label": {
+            "en": "Best viewing months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleurs mois pour la visite",
+            "ja": "ベストビュー月",
+            "es": "Meses de mejor visibilidad"
+          },
+          "value": {
+            "en": "April to June, September to November",
+            "de": "April bis Juni, September bis November",
+            "fr": "Avril à juin, septembre à novembre",
+            "ja": "4月から6月、9月から11月",
+            "es": "abril a junio, septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "4 Days / 3 Nights",
+            "de": "4 Tage / 3 Nächte",
+            "fr": "4 jours / 3 nuits",
+            "ja": "4日間 / 3泊",
+            "es": "4 días / 3 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $972 USD / person",
+            "de": "Ab $972 USD / Person",
+            "fr": "À partir de $972 USD / personne",
+            "ja": "$972 USD〜 / 1名",
+            "es": "Desde $972 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793428976/sunday-atlas/blog/top-10-places-to-visit-in-armenia/khor-virap-commons-52439216.jpg",
+        "width": 1920,
+        "height": 982,
+        "alt": {
+          "en": "Khor Virap monastery in Armenia with Mount Ararat in the background.",
+          "de": "Das Kloster Khor Virap in Armenien mit dem Berg Ararat im Hintergrund.",
+          "fr": "Le monastère de Khor Virap en Arménie avec le mont Ararat en arrière-plan.",
+          "ja": "アルメニア、ホル・ヴィラップ修道院。背景にアララト山。",
+          "es": "El monasterio de Khor Virap en Armenia con el monte Ararat al fondo."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_25.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Khor Virap",
+          "de": "Khor Virap",
+          "fr": "Khor Virap",
+          "ja": "ホル・ヴィラフ",
+          "es": "Khor Virap"
+        }
+      },
+      "embeddedPackageSlug": "armenia-legends-4-days"
+    },
+    {
+      "id": "noravank-red-canyon-church",
+      "rankNumber": 5,
+      "placeName": {
+        "en": "Noravank",
+        "de": "Noravank",
+        "fr": "Noravank",
+        "ja": "ノラヴァンク",
+        "es": "Noravank"
+      },
+      "heading": {
+        "en": "5. Noravank's Two-Storey Church in a Brick-Red Canyon",
+        "de": "5. Noravanks zweistöckige Kirche in einer ziegelroten Schlucht",
+        "fr": "5. L'église à deux étages de Noravank dans un canyon de brique rouge",
+        "ja": "5. レンガ色の峡谷に佇むノラヴァンクの二階建て教会",
+        "es": "5. La iglesia de dos pisos de Noravank en un cañón rojo ladrillo"
+      },
+      "paragraphs": {
+        "en": [
+          "Noravank sits 122 kilometres south of Yerevan along the M2 highway, a drive of about two hours through the rolling vineyards of the Vayots Dzor region. The monastery complex dates to the 13th century, but the two-storey Surb Astvatsatsin church, completed in 1339, is the architectural highlight, with its external stone staircase climbing the facade to a second-level prayer hall. Sheer ochre cliffs rise on three sides, turning a deep brick-red in the late afternoon light, especially vivid from September to November when the surrounding slopes take on autumn gold. The narrow canyon floor stays cool even in July, so a light jacket is useful for the descent from the church terrace. Parking is available at the canyon rim, followed by a five-minute walk down a paved path to the monastic courtyard.",
+          "Inside Surb Astvatsatsin, the upper chamber holds a simple altar and narrow windows that frame the canyon walls like a painting, while the lower level contains the tomb of Prince Burtel Orbelian, marked by a carved lion-human relief. The adjacent Surb Karapet church, built earlier in the 13th century, retains fragments of frescoes depicting the Virgin and Child, though many were damaged by earthquakes. A small gavit added in the 14th century serves as a narthex, its roof supported by four sturdy columns with intricate geometric capitals. Monks still hold occasional services, so visitors should speak quietly and avoid flash photography during prayer times. The site is open daily from sunrise to sunset, with no formal ticket booth; donations are welcome at the candle stand near the entrance.",
+          "Spring wildflowers carpet the canyon floor from April to June, making this the best season for photography and gentle hiking along the marked trail that loops behind the monastery to a viewpoint above the cliffs. The trail gains about 80 metres in elevation and takes 30 minutes round-trip, offering panoramic views of the Arpa River gorge and the distant snow-capped peaks of the Zangezur range. In winter, snow can close the access road for days, so check local conditions if travelling between December and March. A small café near the parking area serves herbal tea, lavash wraps and local apricot preserves, ideal for a mid-morning break before the return drive. Toilets are basic but clean, located behind the café building.",
+          "Our 5-Day Cultural Discovery tour includes Noravank on Day 4, combining the monastery with a morning at Khor Virap for the classic Mount Ararat panorama and an afternoon winery visit in Areni village, 15 kilometres further south. The private guide handles the timing to catch the canyon at its most colourful, usually arriving around 4 pm in autumn when the cliffs glow deepest red. Overnight accommodation remains in Yerevan, so the day involves a long but scenic round-trip of roughly 250 kilometres on well-maintained highways. Travellers who prefer a slower pace can request an extra night in a guesthouse near Areni to explore the nearby Smbataberd fortress and the medieval Gladzor University ruins at a relaxed rhythm."
+        ],
+        "de": [
+          "Noravank liegt 122 Kilometer südlich von Jerewan entlang der M2-Autobahn, eine Fahrt von etwa zwei Stunden durch die sanften Weinberge der Region Wajoz Dsor. Das Klosterkomplex stammt aus dem 13. Jahrhundert, aber die zweistöckige Surb-Astvatsatsin-Kirche, fertiggestellt im Jahr 1339, ist das architektonische Highlight, mit ihrer externen Steintreppe, die die Fassade zu einer Gebetshalle im zweiten Stock hinaufsteigt. Steile Ockerklippen erheben sich auf drei Seiten und färben sich im späten Nachmittagslicht in ein tiefes Ziegelrot, besonders lebendig von September bis November, wenn die umliegenden Hänge Herbstgold annehmen. Der schmale Schluchtboden bleibt selbst im Juli kühl, daher ist eine leichte Jacke für den Abstieg von der Kirchen-Terrasse nützlich. Parkplätze sind am Schluchtrand verfügbar, gefolgt von einem fünfminütigen Fußweg auf einem gepflasterten Pfad zum Klosterhof.",
+          "Im Inneren von Surb Astvatsatsin beherbergt die obere Kammer einen einfachen Altar und schmale Fenster, die die Canyonwände wie ein Gemälde einrahmen, während die untere Ebene das Grabmal von Prinz Burtel Orbelian enthält, das von einem Löwen-Mensch-Relief geziert wird. Die benachbarte Surb-Karapet-Kirche, die bereits im 13. Jahrhundert erbaut wurde, bewahrt Fragmente von Fresken, die die Madonna mit dem Kind darstellen, obwohl viele durch Erdbeben beschädigt wurden. Ein kleiner Gavit, der im 14. Jahrhundert hinzugefügt wurde, dient als Narthex; sein Dach wird von vier stabilen Säulen mit kunstvollen geometrischen Kapitellen getragen. Mönche halten gelegentlich Gottesdienste ab, sodass Besucher leise sprechen und während der Gebetszeiten auf Blitzlicht verzichten sollten. Die Anlage ist täglich von Sonnenaufgang bis Sonnenuntergang geöffnet, es gibt keinen offiziellen Ticketschalter; Spenden sind am Kerzenständer nahe dem Eingang willkommen.",
+          "Frühlingsblumen bedecken den Canyonboden von April bis Juni, was diese Jahreszeit zur besten für Fotografie und sanfte Wanderungen auf dem markierten Weg macht, der hinter dem Kloster zu einem Aussichtspunkt oberhalb der Klippen führt. Der Weg überwindet etwa 80 Höhenmeter und dauert 30 Minuten hin und zurück, mit Panoramablick auf die Arpa-Schlucht und die schneebedeckten Gipfel des Zangezur-Gebirges in der Ferne. Im Winter kann Schnee die Zufahrtsstraße tagelang sperren, daher sollten Reisende zwischen Dezember und März die örtlichen Bedingungen prüfen. Ein kleines Café am Parkplatz serviert Kräutertee, Lavash-Wraps und lokale Aprikosenmarmelade – ideal für eine Pause am Vormittag vor der Rückfahrt. Die Toiletten sind einfach, aber sauber und befinden sich hinter dem Cafégebäude.",
+          "Unsere 5-tägige Kulturreise beinhaltet Noravank am Tag 4 und verbindet das Kloster mit einem Vormittag in Khor Virap für die klassische Aussicht auf den Berg Ararat sowie einem Nachmittagsbesuch eines Weinguts im Dorf Areni, 15 Kilometer weiter südlich. Unser privater Guide plant die Zeit so, dass der Canyon in seiner farbenprächtigsten Stimmung erlebt wird, meist gegen 16 Uhr im Herbst, wenn die Klippen in tiefem Rot leuchten. Die Übernachtung erfolgt in Jerewan, sodass die Tagesetappe eine lange, aber landschaftlich reizvolle Rundfahrt von etwa 250 Kilometern auf gut ausgebauten Autobahnen umfasst. Reisende, die es ruhiger angehen möchten, können eine zusätzliche Nacht in einem Gästehaus in der Nähe von Areni anfragen, um die nahe gelegene Festung Smbataberd und die Ruinen der mittelalterlichen Gladzor-Universität in entspanntem Tempo zu erkunden."
+        ],
+        "fr": [
+          "Noravank se trouve à 122 kilomètres au sud d'Erevan le long de l'autoroute M2, soit environ deux heures de route à travers les vignobles ondulants de la région de Vayots Dzor. Le complexe monastique date du 13e siècle, mais l'église à deux étages Surb Astvatsatsin, achevée en 1339, est le point d'orgue architectural, avec son escalier en pierre extérieur grimpant sur la façade jusqu'à une salle de prière au deuxième étage. Des falaises ocre à pic s'élèvent sur trois côtés, prenant un rouge brique profond à la fin de l'après-midi, particulièrement vif de septembre à novembre lorsque les pentes environnantes se parent d'or automnal. Le fond étroit du canyon reste frais même en juillet, donc une veste légère est utile pour la descente depuis la terrasse de l'église. Un parking est disponible au bord du canyon, suivi d'une marche de cinq minutes sur un chemin pavé jusqu'à la cour monastique.",
+          "À l'intérieur de Surb Astvatsatsin, la chambre supérieure abrite un autel simple et des fenêtres étroites qui encadrent les parois du canyon comme un tableau, tandis que le niveau inférieur contient le tombeau du prince Burtel Orbelian, marqué par un relief lion-humain sculpté. L'église adjacente de Surb Karapet, construite au début du XIIIe siècle, conserve des fragments de fresques représentant la Vierge à l'Enfant, bien que beaucoup aient été endommagées par les tremblements de terre. Un petit gavit ajouté au XIVe siècle sert de narthex, sa toiture soutenue par quatre colonnes robustes aux chapiteaux aux motifs géométriques complexes. Les moines y célèbrent encore des offices occasionnels, aussi les visiteurs doivent-ils parler bas et éviter la photographie au flash pendant les heures de prière. Le site est ouvert tous les jours du lever au coucher du soleil, sans guichet officiel ; les dons sont les bienvenus au stand de cierges près de l'entrée.",
+          "Les fleurs sauvages du printemps tapissent le fond du canyon d'avril à juin, faisant de cette période la meilleure saison pour la photographie et la randonnée douce le long du sentier balisé qui fait une boucle derrière le monastère jusqu'à un point de vue au-dessus des falaises. Le sentier gagne environ 80 mètres de dénivelé et prend 30 minutes aller-retour, offrant des vues panoramiques sur la gorge de l'Arpa et les sommets enneigés de la chaîne de Zangezur au loin. En hiver, la neige peut fermer la route d'accès pendant plusieurs jours, alors renseignez-vous sur les conditions locales si vous voyagez entre décembre et mars. Un petit café près du parking sert du thé aux herbes, des wraps au lavash et des confitures d'abricot locales, idéals pour une pause de mi-matinée avant le retour. Les toilettes sont basiques mais propres, situées derrière le bâtiment du café.",
+          "Notre circuit Découverte culturelle de 5 jours inclut Noravank au jour 4, combinant le monastère avec une matinée à Khor Virap pour le panorama classique sur le mont Ararat et une visite de cave l'après-midi dans le village d'Areni, à 15 kilomètres plus au sud. Notre guide privé gère le timing pour attraper le canyon à son moment le plus coloré, arrivant généralement vers 16 heures en automne lorsque les falaises prennent leur plus beau rouge. L'hébergement reste à Erevan, donc la journée implique un long mais pittoresque aller-retour d'environ 250 kilomètres sur des autoroutes bien entretenues. Les voyageurs qui préfèrent un rythme plus lent peuvent demander une nuit supplémentaire dans une maison d'hôtes près d'Areni pour explorer la forteresse de Smbataberd et les ruines de l'université médiévale de Gladzor à un rythme détendu."
+        ],
+        "ja": [
+          "ノラヴァンクはエレバンから南へ122キロメートル、M2ハイウェイをヴァヨツ・ゾル地域の起伏のあるブドウ園を通って約2時間のドライブです。修道院複合施設は13世紀に遡りますが、1339年に完成した二階建てのスルブ・アスタツァツィン教会が建築上のハイライトで、外部の石段がファサードを登り、二階の祈りのホールへと続いています。3方向を切り立ったオークル色の崖が囲み、特に9月から11月にかけて周囲の斜面が秋の黄金色を帯びるとき、午後遅くの光の中で深いレンガ色に染まります。峡谷の底は7月でも涼しいため、教会のテラスからの下りには軽い上着が便利です。峡谷の縁に駐車場があり、舗装された小道を5分歩くと修道院の中庭に到着します。",
+          "スルブ・アスタヴァツァツィン教会内部では、上層の聖堂に簡素な祭壇と、キャニオンの壁を一枚の絵画のように切り取る細い窓があり、下層にはバートゥル・オルベリアン王子の墓所があり、獅子と人間の合体した浮き彫りで示されています。隣接するスルブ・カラペト教会は13世紀初期に建てられ、聖母子を描いたフレスコ画の断片が残っていますが、多くは地震で損傷しています。14世紀に増築された小さなガヴィト（玄関ホール）は、精巧な幾何学模様の柱頭を持つ4本の頑丈な柱で屋根を支えています。修道士が時折礼拝を行うため、訪問者は静かにし、祈りの時間中はフラッシュ撮影をお控えください。開場は日の出から日没までで、正式なチケット売り場はありません。入口近くのろうそく台にて寄付を歓迎いたします。",
+          "春の野生の花がキャニオンの底を4月から6月まで彩り、写真撮影や、修道院の裏手にある展望台まで続く標識付きの遊歩道での軽いハイキングに最適な季節です。標高差は約80メートル、往復30分ほどで、アルパ川の渓谷と遠くのザンゲズル山脈の雪を頂いた峰々のパノラマビューが楽しめます。冬は降雪によりアクセス道路が数日間閉鎖されることがあるため、12月から3月にかけてのご旅行の際は現地の状況をご確認ください。駐車場近くの小さなカフェではハーブティー、ラバシュのラップサンド、地元のアプリコットジャムを提供しており、帰路のドライブ前の午前中の休憩に最適です。トイレは簡素ですが清潔で、カフェ棟の裏手にあります。",
+          "当社の5日間文化探訪ツアーでは4日目にノラヴァンクを訪れ、午前中にホル・ヴィラプでアララト山の絶景を楽しみ、午後にはさらに南へ15キロメートルのアレニ村でワイナリーを訪問します。プライベートガイドがタイミングを調整し、キャニオンが最も美しく見える時間帯、通常は秋の午後4時頃に到着するよう手配します。宿泊はエレバンに残り、整備された高速道路を往復約250キロメートルの長いが景色の良いドライブとなります。よりゆったりとしたペースをご希望の方は、アレニ近郊のゲストハウスに追加で1泊し、近くのスムタバベルド要塞や中世のグラドゾル大学跡をゆっくりと探索することも可能です。"
+        ],
+        "es": [
+          "Noravank se encuentra a 122 kilómetros al sur de Ereván por la carretera M2, un trayecto de aproximadamente dos horas a través de los viñedos ondulantes de la región de Vayots Dzor. El complejo monástico data del siglo XIII, pero la iglesia de dos pisos Surb Astvatsatsin, completada en 1339, es el punto culminante arquitectónico, con su escalera de piedra externa que asciende por la fachada hasta una sala de oración en el segundo nivel. Acantilados de ocre escarpados se elevan por tres lados, tornándose de un rojo ladrillo intenso en la luz del atardecer, especialmente vívidos de septiembre a noviembre cuando las laderas circundantes adquieren un tono dorado otoñal. El estrecho suelo del cañón se mantiene fresco incluso en julio, por lo que una chaqueta ligera es útil para el descenso desde la terraza de la iglesia. Hay aparcamiento disponible en el borde del cañón, seguido de una caminata de cinco minutos por un camino pavimentado hasta el patio monástico.",
+          "Dentro de Surb Astvatsatsin, la cámara superior alberga un altar sencillo y ventanas estrechas que enmarcan las paredes del cañón como un cuadro, mientras que el nivel inferior contiene la tumba del príncipe Burtel Orbelian, marcada por un relieve tallado de león-humano. La iglesia adyacente de Surb Karapet, construida a principios del siglo XIII, conserva fragmentos de frescos que representan a la Virgen y el Niño, aunque muchos resultaron dañados por terremotos. Un pequeño gavit añadido en el siglo XIV sirve de nártex, con un techo sostenido por cuatro columnas robustas con capiteles geométricos intrincados. Los monjes aún celebran servicios ocasionales, por lo que los visitantes deben hablar en voz baja y evitar la fotografía con flash durante los horarios de oración. El sitio está abierto todos los días desde el amanecer hasta el atardecer, sin taquilla formal; las donaciones son bienvenidas en el puesto de velas cerca de la entrada.",
+          "Las flores silvestres de primavera alfombran el suelo del cañón de abril a junio, lo que convierte esta en la mejor temporada para la fotografía y el senderismo suave por el sendero señalizado que da la vuelta al monasterio hasta un mirador sobre los acantilados. El sendero gana unos 80 metros de elevación y tarda 30 minutos en ida y vuelta, ofreciendo vistas panorámicas del desfiladero del río Arpa y los picos nevados de la cordillera de Zangezur en la distancia. En invierno, la nieve puede cerrar el camino de acceso durante días, así que revise las condiciones locales si viaja entre diciembre y marzo. Un pequeño café cerca del área de estacionamiento sirve té de hierbas, wraps de lavash y mermelada de albaricoque local, ideal para un descanso a media mañana antes del viaje de regreso. Los baños son básicos pero limpios, ubicados detrás del edificio del café.",
+          "Nuestro tour de 5 días Descubrimiento Cultural incluye Noravank en el Día 4, combinando el monasterio con una mañana en Khor Virap para la clásica vista panorámica del monte Ararat y una visita a una bodega en el pueblo de Areni, a 15 kilómetros más al sur. Nuestro guía privado gestiona el tiempo para capturar el cañón en su momento más colorido, llegando generalmente alrededor de las 4 pm en otoño cuando los acantilados brillan en un rojo más intenso. El alojamiento nocturno permanece en Ereván, por lo que el día implica un viaje de ida y vuelta largo pero escénico de aproximadamente 250 kilómetros en carreteras bien mantenidas. Los viajeros que prefieran un ritmo más lento pueden solicitar una noche adicional en una casa de huéspedes cerca de Areni para explorar la fortaleza cercana de Smbataberd y las ruinas de la universidad medieval de Gladzor a un ritmo relajado."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "External stone staircase climbs the church facade",
+          "Ochre cliffs glow brick-red at sunset",
+          "Prince Burtel Orbelian tomb with lion-human relief"
+        ],
+        "de": [
+          "Äußere Steintreppe an der Kirchenfassade",
+          "Ockerfarbene Klippen leuchten bei Sonnenuntergang ziegelrot",
+          "Grabmal von Prinz Burtel Orbelian mit Löwen-Mensch-Relief"
+        ],
+        "fr": [
+          "Escalier en pierre extérieur montant la façade de l'église",
+          "Falaises ocre qui brillent rouge brique au coucher du soleil",
+          "Tombeau du prince Burtel Orbelian avec relief lion-humain"
+        ],
+        "ja": [
+          "教会のファサードを登る外部の石段",
+          "夕日にオーカー色の崖がレンガ色に輝く",
+          "バートゥル・オルベリアン王子の墓、獅子人間の浮き彫り"
+        ],
+        "es": [
+          "Escalera de piedra exterior que sube por la fachada de la iglesia",
+          "Acantilados ocres brillan rojo ladrillo al atardecer",
+          "Tumba del príncipe Burtel Orbelian con relieve de león-humano"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance from Yerevan",
+            "de": "Entfernung von Jerewan",
+            "fr": "Distance depuis Erevan",
+            "ja": "エレバンからの距離",
+            "es": "Distancia desde Ereván"
+          },
+          "value": {
+            "en": "122 km, about 2 hours by car",
+            "de": "122 km, etwa 2 Stunden mit dem Auto",
+            "fr": "122 km, environ 2 heures en voiture",
+            "ja": "122 km、車で約2時間",
+            "es": "122 km, aproximadamente 2 horas en coche"
+          }
+        },
+        {
+          "label": {
+            "en": "Best photography light",
+            "de": "Bestes Licht für Fotografien",
+            "fr": "Meilleure lumière pour la photographie",
+            "ja": "写真撮影に最適な光",
+            "es": "Mejor luz para fotografía"
+          },
+          "value": {
+            "en": "Late afternoon, September to November",
+            "de": "Später Nachmittag, September bis November",
+            "fr": "Fin d'après-midi, de septembre à novembre",
+            "ja": "午後遅く、9月から11月",
+            "es": "Finales de la tarde, de septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $1080 USD / person",
+            "de": "Ab $1080 USD / Person",
+            "fr": "À partir de $1080 USD / personne",
+            "ja": "$1080 USD〜 / 1名",
+            "es": "Desde $1080 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793428982/sunday-atlas/blog/top-10-places-to-visit-in-armenia/noravank-commons-52452954.jpg",
+        "width": 1920,
+        "height": 601,
+        "alt": {
+          "en": "A paved road winds through a rocky canyon toward distant mountains under a clear blue sky at Noravank, Armenia.",
+          "de": "Eine asphaltierte Straße schlängelt sich durch eine felsige Schlucht zu fernen Bergen unter einem klaren blauen Himmel in Noravank, Armenien.",
+          "fr": "Une route pavée serpente à travers un canyon rocheux vers des montagnes lointaines sous un ciel bleu clair à Noravank, en Arménie.",
+          "ja": "アルメニア、ノラヴァンク。舗装された道が岩の峡谷を遠くの山々へと続く。澄んだ青空の下。",
+          "es": "Un camino pavizado serpentea a través de un cañón rocoso hacia montañas lejanas bajo un cielo azul despejado en Noravank, Armenia."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carretera_al_monasterio_Noravank,_Armenia,_2016-10-01,_DD_55-59_PAN.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Noravank",
+          "de": "Noravank",
+          "fr": "Noravank",
+          "ja": "ノラヴァンク",
+          "es": "Noravank"
+        }
+      },
+      "embeddedPackageSlug": "armenia-cultural-discovery-5-days"
+    },
+    {
+      "id": "lake-sevan-dilijan-highlands",
+      "rankNumber": 6,
+      "placeName": {
+        "en": "Lake Sevan",
+        "de": "Lake Sevan",
+        "fr": "Lac Sevan",
+        "ja": "セヴァン湖",
+        "es": "Lago Sevan"
+      },
+      "heading": {
+        "en": "6. Lake Sevan, Sevanavank and the Forested Valleys of Dilijan",
+        "de": "6. Lake Sevan, Sevanavank und die bewaldeten Täler von Dilijan",
+        "fr": "6. Lac Sevan, Sevanavank et les vallées boisées de Dilijan",
+        "ja": "6. セヴァン湖、セヴァナヴァンク、ディリジャンの森林渓谷",
+        "es": "6. Lago Sevan, Sevanavank y los valles boscosos de Dilijan"
+      },
+      "paragraphs": {
+        "en": [
+          "Lake Sevan sits at 1,900 meters above sea level, about 65 kilometers northeast of Yerevan and roughly a 90-minute drive on the main highway. The peninsula of Sevanavank was once an island before Soviet-era irrigation lowered the water level, leaving a narrow land bridge you can walk across today. Two stone churches, Surp Arakelots and Surp Astvatsatsin, crown the summit with open views across the blue water to the surrounding volcanic ridges. Early morning in June or September gives the clearest light for photography and fewer day-trippers on the stairs. Bring a windproof layer even in summer, as the exposed peninsula catches strong gusts off the lake.",
+          "From Sevanavank the road climbs north through the Selim Pass into the forested valleys of Dilijan National Park, a drive of about 45 minutes through pine and beech stands. Dilijan town center has a restored 19th-century crafts street with workshops, a small museum, and cafes serving local trout from mountain streams. The main trailhead for Haghartsin Monastery starts just outside town; the 12-kilometer paved road winds through dense woods to a clearing where three churches and a gavit sit beside a rushing creek. Autumn colors peak in late October, turning the valley gold and crimson while the air stays crisp. Sturdy walking shoes are essential for the uneven stone paths and occasional muddy sections near the stream.",
+          "Our 4-day private tour includes Lake Sevan and Sevanavank on Day 2 after visits to Garni Temple and Geghard Monastery, with an overnight in a 4-star Yerevan hotel. The itinerary allows a relaxed morning at the lake before continuing toward Dilijan in the afternoon, so you avoid the midday crowds at the peninsula. A private guide handles navigation on the mountain roads and arranges the winery stop in Areni on Day 3, keeping the pace flexible for photo stops or short hikes. Spring wildflowers carpet the meadows around Sevan in May, while September offers comfortable temperatures for walking the forest trails near Haghartsin. Airport meet-and-greet and all entrance fees are covered, leaving only personal expenses and optional gratuities.",
+          "If you travel independently, rent a car with good ground clearance for the Selim Pass, which can hold lingering snow into April and occasional rockfall after heavy rain. Public minibuses run from Yerevan’s Kilikia station to Sevan town, but connections to Dilijan are infrequent and slow, making a full day trip tight without private transport. Pack a picnic for the peninsula, as restaurant options are limited to a few lakeside shashlik stands with variable hygiene. Mobile coverage drops inside the national park, so download offline maps before leaving the main highway. Overnight in Dilijan lets you reach Haghartsin at dawn when the monastery is empty and the light filters through the trees."
+        ],
+        "de": [
+          "Lake Sevan liegt auf 1.900 Metern über dem Meeresspiegel, etwa 65 Kilometer nordöstlich von Jerewan und ungefähr eine 90-minütige Fahrt auf der Hauptstraße. Die Halbinsel Sevanavank war einst eine Insel, bevor die Bewässerung in der Sowjetzeit den Wasserspiegel senkte und eine schmale Landbrücke hinterließ, die man heute überqueren kann. Zwei Steinkirchen, Surp Arakelots und Surp Astvatsatsin, krönen den Gipfel mit offener Sicht über das blaue Wasser bis zu den umliegenden vulkanischen Kämmen. Der frühe Morgen im Juni oder September bietet das klarste Licht für Fotografien und weniger Tagesausflügler auf den Treppen. Bringen Sie auch im Sommer eine winddichte Schicht mit, da die exponierte Halbinsel starke Böen vom See abbekommt.",
+          "Von Sevanavank aus führt die Straße nördlich über den Selim-Pass in die bewaldeten Täler des Dilijan-Nationalparks, eine Fahrt von etwa 45 Minuten durch Kiefern- und Buchenbestände. Das Stadtzentrum von Dilijan hat eine restaurierte Handwerksstraße aus dem 19. Jahrhundert mit Werkstätten, einem kleinen Museum und Cafés, die lokale Forelle aus Gebirgsbächen servieren. Der Hauptwanderweg zum Kloster Haghartsin beginnt direkt außerhalb der Stadt; die 12 Kilometer lange asphaltierte Straße windet sich durch dichte Wälder zu einer Lichtung, auf der drei Kirchen und ein Gavit neben einem reißenden Bach liegen. Die Herbstfärbung erreicht im späten Oktober ihren Höhepunkt und verwandelt das Tal in Gold und Karmesinrot, während die Luft kühl bleibt. Festes Schuhwerk ist für die unebenen Steinwege und gelegentlich schlammigen Abschnitte am Bach unerlässlich.",
+          "Unsere 4-tägige Privatreise umfasst den Lake Sevan und Sevanavank am Tag 2 nach Besuchen des Garni-Tempels und des Geghard-Klosters, mit einer Übernachtung in einem 4-Sterne-Hotel in Jerewan. Die Reiseroute erlaubt einen entspannten Morgen am See, bevor Sie am Nachmittag weiter nach Dilijan reisen, sodass Sie die Mittagsmassen auf der Halbinsel vermeiden. Ein privater Guide übernimmt die Navigation auf den Bergstraßen und organisiert den Weinstopp in Areni am Tag 3, wobei das Tempo flexibel für Fotostopps oder kurze Wanderungen bleibt. Im Mai bedecken Frühlingswildblumen die Wiesen rund um den Lake Sevan, während der September angenehme Temperaturen für Spaziergänge auf den Waldwegen in der Nähe von Haghartsin bietet. Der Abholservice am Flughafen und alle Eintrittsgebühren sind enthalten, sodass nur persönliche Ausgaben und optionale Trinkgelder übrig bleiben.",
+          "Wenn Sie individuell reisen, mieten Sie ein Auto mit guter Bodenfreiheit für den Selim-Pass, der bis in den April hinein Schnee enthalten kann und nach starken Regenfällen gelegentlich Steinschlag aufweist. Öffentliche Marshrutkas fahren vom Kilikia-Bahnhof in Jerewan nach Sevan, aber Verbindungen nach Dilijan sind selten und langsam, sodass ein Tagesausflug ohne privaten Transport knapp bemessen ist. Packen Sie ein Picknick für die Halbinsel, da die Restaurantoptionen auf ein paar lakeside Shashlik-Stände mit unterschiedlicher Hygiene beschränkt sind. Der Mobilfunkempfang fällt im Nationalpark aus, laden Sie daher Offline-Karten herunter, bevor Sie die Hauptstraße verlassen. Eine Übernachtung in Dilijan ermöglicht es Ihnen, Haghartsin bei Tagesanbruch zu erreichen, wenn das Kloster leer ist und das Licht durch die Bäume fällt."
+        ],
+        "fr": [
+          "Le lac Sevan se trouve à 1 900 mètres d'altitude, à environ 65 kilomètres au nord-est d'Erevan et à environ 90 minutes de route sur l'autoroute principale. La péninsule de Sevanavank était autrefois une île avant que l'irrigation de l'époque soviétique n'abaisse le niveau de l'eau, laissant un étroit isthme que l'on peut traverser à pied aujourd'hui. Deux églises en pierre, Surp Arakelots et Surp Astvatsatsin, couronnent le sommet avec des vues dégagées sur l'eau bleue et les crêtes volcaniques environnantes. Le début de matinée en juin ou en septembre offre la lumière la plus claire pour la photographie et moins d'excursionnistes d'un jour sur les escaliers. Apportez une couche coupe-vent même en été, car la péninsule exposée reçoit de fortes rafales du lac.",
+          "Depuis Sevanavank, la route monte vers le nord par le col de Selim jusqu'aux vallées boisées du parc national de Dilijan, un trajet d'environ 45 minutes à travers des peuplements de pins et de hêtres. Le centre-ville de Dilijan possède une rue d'artisanat restaurée du XIXe siècle avec des ateliers, un petit musée et des cafés servant de la truite locale des ruisseaux de montagne. Le point de départ principal du sentier pour le monastère de Haghartsin se trouve juste à l'extérieur de la ville ; la route goudronnée de 12 kilomètres serpente à travers des bois denses jusqu'à une clairière où trois églises et un gavit se trouvent à côté d'un ruisseau impétueux. Les couleurs d'automne culminent à la fin octobre, transformant la vallée en or et cramoisi tandis que l'air reste vif. Des chaussures de marche robustes sont essentielles pour les sentiers de pierre irréguliers et les sections occasionnellement boueuses près du ruisseau.",
+          "Notre circuit privé de 4 jours inclut le lac Sevan et Sevanavank le jour 2 après les visites du temple de Garni et du monastère de Geghard, avec une nuit dans un hôtel 4 étoiles à Erevan. L'itinéraire prévoit une matinée détendue au lac avant de poursuivre vers Dilijan dans l'après-midi, afin d'éviter la foule de midi sur la péninsule. Un guide privé assure la navigation sur les routes de montagne et organise l'arrêt dans une cave à vin à Areni le jour 3, en conservant un rythme flexible pour les arrêts photo ou les courtes randonnées. Les fleurs sauvages du printemps tapissent les prairies autour de Sevan en mai, tandis que septembre offre des températures agréables pour parcourir les sentiers forestiers près de Haghartsin. L'accueil à l'aéroport et tous les droits d'entrée sont inclus, ne laissant que les dépenses personnelles et les pourboires optionnels à votre charge.",
+          "Si vous voyagez de manière indépendante, louez une voiture à bonne garde au sol pour le col de Selim, qui peut conserver des restes de neige jusqu'en avril et connaître des chutes de pierres occasionnelles après de fortes pluies. Des minibus publics partent de la gare routière de Kilikia à Erevan pour Sevan, mais les correspondances vers Dilijan sont rares et lentes, rendant une excursion d'une journée complète difficile sans transport privé. Prévoyez un pique-nique pour la péninsule, car les options de restauration se limitent à quelques stands de shashlik au bord du lac avec une hygiène variable. La couverture mobile disparaît à l'intérieur du parc national, alors téléchargez des cartes hors ligne avant de quitter l'autoroute principale. Passer la nuit à Dilijan vous permet d'atteindre Haghartsin à l'aube, lorsque le monastère est vide et que la lumière filtre à travers les arbres."
+        ],
+        "ja": [
+          "セヴァン湖は海抜1,900メートル、エレバンから北東へ約65キロメートル、幹線道路で約90分のドライブに位置します。ソビエト時代の灌漑により水位が下がったことで、かつては島だったセヴァナヴァンク半島は、今では歩いて渡れる狭い陸続きとなっています。スルプ・アラケロツ教会とスルプ・アスタヴァツァツィン教会の2つの石造教会が頂上にそびえ、青い水面と周囲の火山性の尾根を一望できます。6月または9月の早朝は、写真撮影に最適な澄んだ光と、階段の日帰り観光客が少ない時間帯です。夏でも、半島は湖からの強い風にさらされるため、防風の上着をご持参ください。",
+          "セヴァナヴァンクからは、セルム峠を経由してディリジャン国立公園の森林渓谷へと道は北へ登り、マツとブナの林の中を約45分ドライブします。ディリジャンの町の中心には、19世紀に復元されたクラフト通りがあり、工房、小さな博物館、山の小川で獲れた地元の鱒を提供するカフェがあります。ハガルツィン修道院へのメイン登山口は町のすぐ外にあり、12キロメートルの舗装道路が密林の中を曲がりくねって進み、3つの教会とガヴィトがせせらぎの小川のほとりにある空き地へと続きます。紅葉は10月下旬にピークを迎え、谷が黄金と深紅に染まり、空気は爽やかです。不整地な石畳の道や小川近くの時折泥だらけの区間には、頑丈なウォーキングシューズが必須です。",
+          "当社の4日間プライベートツアーには、ガルニ寺院とゲゲルド修道院を訪れた2日目にセバン湖とセヴァナヴァンクが含まれ、4つ星のエレバンホテルに1泊します。午後からディリジャンへ向かう前に湖でのんびりとした朝を過ごせるようスケジュールを組んでいるため、半島の混雑する時間帯を避けられます。当社のガイドが山道のナビゲーションを担当し、3日目のアレニでのワイナリー立ち寄りを手配し、写真撮影や短いハイキングのためにペースを柔軟に調整します。春にはセバン湖周辺の牧草地に野生の花が咲き乱れ、9月にはハガルツィン近くの森林トレイルを歩くのに快適な気温が続きます。空港での出迎えとすべての入場料が含まれており、個人的な出費と任意のチップのみが別途必要です。",
+          "個人で旅行される場合は、セルム峠のために地上高の高いレンタカーを借りてください。セルム峠では4月まで残雪が残ることがあり、大雨の後には時折落石が発生します。エレバンのキリキア駅からセバン町へは公共のミニバスが運行していますが、ディリジャンへの接続は少なく遅いため、プライベート輸送なしでは日帰り旅行はタイトです。半島でのピクニックを用意してください。レストランの選択肢は、衛生状態がまちまちの湖畔のシャシュリク屋台数軒に限られています。国立公園内では携帯電話の電波が届かなくなるため、主要幹線道路を離れる前にオフラインマップをダウンロードしてください。ディリジャンに1泊すれば、ハガルツィンに夜明けに到着でき、修道院が貸切状態で、木々の間から光が差し込む様子を楽しめます。"
+        ],
+        "es": [
+          "El lago Sevan se encuentra a 1,900 metros sobre el nivel del mar, a unos 65 kilómetros al noreste de Ereván y aproximadamente a 90 minutos en coche por la carretera principal. La península de Sevanavank fue una isla antes de que la irrigación de la era soviética bajara el nivel del agua, dejando un estrecho istmo que se puede cruzar a pie hoy en día. Dos iglesias de piedra, Surp Arakelots y Surp Astvatsatsin, coronan la cima con vistas abiertas a través del agua azul hasta las crestas volcánicas circundantes. A primera hora de la mañana en junio o septiembre se obtiene la luz más clara para la fotografía y menos excursionistas de un día en las escaleras. Lleve una capa cortavientos incluso en verano, ya que la península expuesta recibe fuertes ráfagas del lago.",
+          "Desde Sevanavank, el camino asciende hacia el norte a través del paso de Selim hasta los valles boscosos del Parque Nacional de Dilijan, un trayecto de unos 45 minutos a través de bosques de pinos y hayas. El centro de la ciudad de Dilijan tiene una calle de artesanía restaurada del siglo XIX con talleres, un pequeño museo y cafeterías que sirven trucha local de arroyos de montaña. El punto de partida del sendero principal para el monasterio de Haghartsin comienza justo fuera de la ciudad; el camino pavimentado de 12 kilómetros serpentea a través de bosques densos hasta un claro donde tres iglesias y un gavit se encuentran junto a un arroyo caudaloso. Los colores del otoño alcanzan su punto máximo a finales de octubre, tiñendo el valle de oro y carmesí mientras el aire se mantiene fresco. El calzado de caminata resistente es esencial para los senderos de piedra irregulares y las secciones ocasionales embarradas cerca del arroyo.",
+          "Nuestro tour privado de 4 días incluye el lago Sevan y Sevanavank el Día 2, después de visitar el Templo de Garni y el Monasterio de Geghard, con una noche en un hotel de 4 estrellas en Ereván. El itinerario permite una mañana relajada en el lago antes de continuar hacia Dilijan por la tarde, evitando así las multitudes del mediodía en la península. Nuestro guía privado se encarga de la navegación por las carreteras de montaña y organiza la parada en la bodega de Areni el Día 3, manteniendo un ritmo flexible para paradas fotográficas o caminatas cortas. Las flores silvestres de primavera alfombran los prados alrededor de Sevan en mayo, mientras que septiembre ofrece temperaturas agradables para recorrer los senderos forestales cerca de Haghartsin. El recibimiento en el aeropuerto y todas las entradas están incluidos, quedando solo los gastos personales y las propinas opcionales por cuenta del viajero.",
+          "Si viaja por su cuenta, alquile un coche con buena distancia al suelo para el Paso de Selim, que puede conservar nieve hasta abril y presentar desprendimientos ocasionales de roca tras lluvias intensas. Los minibuses públicos salen de la estación Kilikia de Ereván hacia la ciudad de Sevan, pero las conexiones a Dilijan son escasas y lentas, lo que hace difícil realizar una excursión de un día completo sin transporte privado. Lleve un picnic para la península, ya que las opciones de restaurante se limitan a unos pocos puestos de shashlik junto al lago con higiene variable. La cobertura móvil disminuye dentro del parque nacional, así que descargue mapas sin conexión antes de salir de la carretera principal. Pasar la noche en Dilijan le permite llegar a Haghartsin al amanecer, cuando el monasterio está vacío y la luz se filtra entre los árboles."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Peninsula monastery with open lake panoramas",
+          "Pine-forested valleys and hidden Haghartsin complex",
+          "Spring wildflowers and autumn color in Dilijan National Park"
+        ],
+        "de": [
+          "Kloster auf der Halbinsel mit offenem Panoramablick auf den See",
+          "Kiefernbewaldete Täler und der verborgene Haghartsin-Komplex",
+          "Frühlingswildblumen und Herbstfarben im Dilijan-Nationalpark"
+        ],
+        "fr": [
+          "Monastère sur la péninsule avec vues panoramiques sur le lac",
+          "Vallées de pins et complexe caché de Haghartsin",
+          "Fleurs sauvages du printemps et couleurs automnales dans le parc national de Dilijan"
+        ],
+        "ja": [
+          "半島の修道院と広がる湖のパノラマ",
+          "松林の谷間と隠れたハガルツィン複合施設",
+          "ディリジャン国立公園の春の野生の花と秋の紅葉"
+        ],
+        "es": [
+          "Monasterio en la península con vistas panorámicas al lago",
+          "Valles de pinos y el oculto complejo de Haghartsin",
+          "Flores silvestres de primavera y colores otoñales en el Parque Nacional de Dilijan"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive from Yerevan",
+            "de": "Anfahrt von Jerewan",
+            "fr": "Route depuis Erevan",
+            "ja": "エレバンからのドライブ",
+            "es": "Salida desde Ereván"
+          },
+          "value": {
+            "en": "90 minutes to Sevanavank",
+            "de": "90 Minuten nach Sevanavank",
+            "fr": "90 minutes jusqu'à Sevanavank",
+            "ja": "セヴァナヴァンクまで90分",
+            "es": "90 minutos hasta Sevanavank"
+          }
+        },
+        {
+          "label": {
+            "en": "Best months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure période",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "April to June, September to November",
+            "de": "April bis Juni, September bis November",
+            "fr": "Avril à juin, septembre à novembre",
+            "ja": "4月から6月、9月から11月",
+            "es": "De abril a junio, de septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "4 Days / 3 Nights",
+            "de": "4 Tage / 3 Nächte",
+            "fr": "4 jours / 3 nuits",
+            "ja": "4日間 / 3泊",
+            "es": "4 días / 3 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $972 USD / person",
+            "de": "Ab $972 USD / Person",
+            "fr": "À partir de $972 USD / personne",
+            "ja": "$972 USD〜 / 1名",
+            "es": "Desde $972 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793428988/sunday-atlas/blog/top-10-places-to-visit-in-armenia/lake-sevan-commons-47873815.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Sevanavank monastery overlooking Lake Sevan in Armenia under a clear sky.",
+          "de": "Das Kloster Sevanavank mit Blick auf den Sewansee in Armenien unter einem klaren Himmel.",
+          "fr": "Le monastère de Sevanavank surplombant le lac Sevan en Arménie sous un ciel dégagé.",
+          "ja": "アルメニア、セヴァナヴァンク修道院。セヴァン湖を見下ろす。澄んだ空の下。",
+          "es": "El monasterio de Sevanavank con vistas al lago Sevan en Armenia bajo un cielo despejado."
+        },
+        "credit": {
+          "author": "Marcin Konsek",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_Prowincja_Gegharkunik,_Sewanawank,_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Awi%C4%99tych_Aposto%C5%82%C3%B3w_(07).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Lake Sevan",
+          "de": "Lake Sevan",
+          "fr": "Lac Sevan",
+          "ja": "セヴァン湖",
+          "es": "Lago Sevan"
+        }
+      },
+      "embeddedPackageSlug": "armenia-legends-4-days"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "When is the best time to visit Armenia for pleasant weather and scenery?",
+        "de": "Wann ist die beste Reisezeit für Armenien bei angenehmem Wetter und schöner Landschaft?",
+        "fr": "Quand est le meilleur moment pour visiter l'Arménie pour un temps agréable et de beaux paysages ?",
+        "ja": "アルメニアを快適な天候と景色で訪れるベストシーズンはいつですか？",
+        "es": "¿Cuál es la mejor época para visitar Armenia para disfrutar de un clima agradable y paisajes hermosos?"
+      },
+      "a": {
+        "en": "April to June brings wildflower carpets and mild temperatures ideal for monastery visits and hiking. September to November offers golden vineyards, harvest festivals and crisp mountain air around Lake Sevan and Dilijan. July and August are warm in Yerevan but remain cool at higher elevations.",
+        "de": "April bis Juni bringt Frühlingswildblumenteppiche und milde Temperaturen, ideal für Klosterbesuche und Wanderungen. September bis November bietet goldene Weinberge, Erntefeste und klare Bergluft rund um den Lake Sevan und Dilijan. Juli und August sind in Jerewan warm, bleiben aber in höheren Lagen kühl.",
+        "fr": "D'avril à juin, les tapis de fleurs sauvages et les températures douces sont idéaux pour visiter les monastères et faire de la randonnée. De septembre à novembre, les vignobles dorés, les festivals des vendanges et l'air frais des montagnes autour du lac Sevan et de Dilijan vous attendent. Juillet et août sont chauds à Erevan mais restent frais en altitude.",
+        "ja": "4月から6月は野生の花の絨毯と穏やかな気候で、修道院訪問やハイキングに最適です。9月から11月は黄金色のブドウ園、収穫祭、セバン湖とディリジャン周辺のさわやかな山岳空気が楽しめます。7月と8月はエレバンは暖かいですが、高地では涼しさが続きます。",
+        "es": "De abril a junio, las alfombras de flores silvestres y las temperaturas suaves son ideales para visitar monasterios y hacer senderismo. De septiembre a noviembre, los viñedos dorados, los festivales de la cosecha y el aire fresco de la montaña rodean el lago Sevan y Dilijan. Julio y agosto son cálidos en Ereván, pero se mantienen frescos en las elevaciones más altas."
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need a visa to enter Armenia in 2027?",
+        "de": "Benötige ich ein Visum für die Einreise nach Armenien im Jahr 2027?",
+        "fr": "Ai-je besoin d'un visa pour entrer en Arménie en 2027 ?",
+        "ja": "2027年にアルメニアに入国するにはビザが必要ですか？",
+        "es": "¿Necesito visa para entrar a Armenia en 2027?"
+      },
+      "a": {
+        "en": "Passport holders from the EU, Schengen Area, United States, United Kingdom, UAE and Japan enjoy visa-free entry for up to 180 days per year. Most other nationalities can obtain an official Armenian e-Visa online, typically processed within three business days.",
+        "de": "Inhaber von Pässen aus der EU, dem Schengen-Raum, den Vereinigten Staaten, dem Vereinigten Königreich, den VAE und Japan genießen visumfreie Einreise für bis zu 180 Tage pro Jahr. Die meisten anderen Nationalitäten können ein offizielles armenisches e-Visum online beantragen, das in der Regel innerhalb von drei Werktagen bearbeitet wird.",
+        "fr": "Les détenteurs de passeports de l'UE, de l'espace Schengen, des États-Unis, du Royaume-Uni, des Émirats arabes unis et du Japon bénéficient d'une entrée sans visa pour un séjour allant jusqu'à 180 jours par an. La plupart des autres nationalités peuvent obtenir un e-Visa arménien officiel en ligne, généralement traité en trois jours ouvrés.",
+        "ja": "EU、シェンゲン地域、アメリカ合衆国、イギリス、アラブ首長国連邦、日本のパスポート保持者は、年間最大180日までビザなしで入国できます。その他のほとんどの国籍の方は、アルメニアの公式eビザをオンラインで取得でき、通常3営業日以内に処理されます。",
+        "es": "Los titulares de pasaportes de la UE, el Espacio Schengen, Estados Unidos, Reino Unido, Emiratos Árabes Unidos y Japón disfrutan de entrada sin visa por hasta 180 días al año. La mayoría de las demás nacionalidades pueden obtener una e-Visa oficial de Armenia en línea, generalmente procesada en tres días hábiles."
+      }
+    },
+    {
+      "q": {
+        "en": "How many days are needed to see Armenia's top highlights comfortably?",
+        "de": "Wie viele Tage werden benötigt, um die Höhepunkte Armeniens bequem zu sehen?",
+        "fr": "Combien de jours sont nécessaires pour voir les principaux points forts de l'Arménie confortablement ?",
+        "ja": "アルメニアの主要な見どころを快適に巡るには何日必要ですか？",
+        "es": "¿Cuántos días se necesitan para ver los principales atractivos de Armenia con comodidad?"
+      },
+      "a": {
+        "en": "A well-paced 4 to 5 day private circuit from Yerevan covers Garni, Geghard, Lake Sevan, Dilijan, Khor Virap, Areni and Noravank without rushing. Adding a full day in Yerevan for museums and the Vernissage market creates a relaxed 6-day experience.",
+        "de": "Ein gut getakteter 4- bis 5-tägiger Privatreisekurs ab Jerewan umfasst Garni, Geghard, den Lake Sevan, Dilijan, Khor Virap, Areni und Noravank ohne Hektik. Ein ganzer Tag in Jerewan für Museen und den Vernissage-Markt schafft ein entspanntes 6-tägiges Erlebnis.",
+        "fr": "Un circuit privé bien rythmé de 4 à 5 jours depuis Erevan couvre Garni, Geghard, le lac Sevan, Dilijan, Khor Virap, Areni et Noravank sans se presser. Ajouter une journée complète à Erevan pour les musées et le marché de Vernissage crée une expérience détendue de 6 jours.",
+        "ja": "エレバン発着の4〜5日間のプライベート周遊コースで、ガルニ、ゲゲルド、セバン湖、ディリジャン、ホルヴィラプ、アレニ、ノラヴァンクを慌てずに巡れます。エレバンで博物館とヴェルニサージュ市場を楽しむ1日を加えれば、ゆったりとした6日間の旅になります。",
+        "es": "Un circuito privado bien ritmo de 4 a 5 días desde Ereván cubre Garni, Geghard, el lago Sevan, Dilijan, Khor Virap, Areni y Noravank sin prisas. Añadir un día completo en Ereván para museos y el mercado Vernissage crea una experiencia relajada de 6 días."
+      }
+    },
+    {
+      "q": {
+        "en": "Can I visit Garni, Geghard and Lake Sevan in a single day from Yerevan?",
+        "de": "Kann ich Garni, Geghard und den Lake Sevan an einem einzigen Tag von Jerewan aus besuchen?",
+        "fr": "Puis-je visiter Garni, Geghard et le lac Sevan en une seule journée depuis Erevan ?",
+        "ja": "ガルニ、ゲゲルド、セバン湖をエレバンから日帰りで訪れられますか？",
+        "es": "¿Puedo visitar Garni, Geghard y el lago Sevan en un solo día desde Ereván?"
+      },
+      "a": {
+        "en": "Yes, a private day trip covers the Charents Arch viewpoint, Garni Temple, the Symphony of Stones, Geghard Monastery and Sevanavank on the Lake Sevan peninsula, returning to Yerevan by evening with a guide and driver handling all logistics.",
+        "de": "Ja, ein privater Tagesausflug umfasst den Charents-Arch-Aussichtspunkt, den Garni-Tempel, die Symphonie der Steine, das Geghard-Kloster und Sevanavank auf der Lake-Sevan-Halbinsel, mit Rückkehr nach Jerewan am Abend, während ein Guide und Fahrer alle Logistik übernehmen.",
+        "fr": "Oui, une excursion privée d'une journée couvre le point de vue de l'arche de Charents, le temple de Garni, la symphonie des pierres, le monastère de Geghard et Sevanavank sur la péninsule du lac Sevan, avec un retour à Erevan en soirée, un guide et un chauffeur s'occupant de toute la logistique.",
+        "ja": "はい、プライベートの日帰りツアーで、チャレンツァルチ展望台、ガルニ寺院、ストーンのシンフォニー、ゲゲルド修道院、セバン湖半島のセヴァナヴァンクを巡り、ガイドとドライバーがすべての手配を担当し、夕方までにエレバンに戻ります。",
+        "es": "Sí, una excursión privada de un día cubre el mirador del Arco de Charents, el Templo de Garni, la Sinfonía de Piedras, el Monasterio de Geghard y Sevanavank en la península del lago Sevan, regresando a Ereván por la tarde con un guía y un conductor que se encargan de toda la logística."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Top 10 Places to Visit in Armenia: First-Trip Picks (2027)",
+      "meta_description": "Top 10 places to visit in Armenia: Yerevan, Garni, Geghard, Khor Virap, Areni, Noravank, Lake Sevan and Dilijan, with seasons and drive times.",
+      "focus_keyword": "top 10 places to visit in Armenia",
+      "keywords": [
+        "top 10 places to visit in Armenia",
+        "best time to visit Armenia",
+        "Armenia visa requirements 2027",
+        "Garni Temple day trip from Yerevan",
+        "Geghard Monastery tour",
+        "Khor Virap Mount Ararat view",
+        "Lake Sevan Sevanavank monastery",
+        "Areni wine tasting Armenia"
+      ]
+    },
+    "de": {
+      "seo_title": "Top 10 Orte in Armenien für die erste Reise (2027)",
+      "meta_description": "Top 10 Orte in Armenien: Jerewan, Garni, Geghard, Chor Virap, Areni, Noravank, Sewansee und Dilidschan, mit Reisezeiten und Fahrzeiten.",
+      "focus_keyword": "top 10 places to visit in Armenia",
+      "keywords": [
+        "top 10 places to visit in Armenia",
+        "best time to visit Armenia",
+        "Armenia visa requirements 2027",
+        "Garni Temple day trip from Yerevan",
+        "Geghard Monastery tour",
+        "Khor Virap Mount Ararat view",
+        "Lake Sevan Sevanavank monastery",
+        "Areni wine tasting Armenia"
+      ]
+    },
+    "fr": {
+      "seo_title": "Top 10 des lieux à visiter en Arménie, 1er voyage (2027)",
+      "meta_description": "Top 10 des lieux à visiter en Arménie : Erevan, Garni, Geghard, Khor Virap, Areni, Noravank, lac Sevan et Dilijan, avec saisons et temps de trajet.",
+      "focus_keyword": "top 10 lieux à visiter en Arménie",
+      "keywords": [
+        "top 10 lieux à visiter en Arménie",
+        "meilleure période pour visiter l'Arménie",
+        "exigences de visa pour l'Arménie 2027",
+        "excursion d'une journée au temple de Garni depuis Erevan",
+        "visite du monastère de Geghard",
+        "vue sur le mont Ararat depuis Khor Virap",
+        "monastère de Sevanavank au lac Sevan",
+        "dégustation de vin à Areni Arménie"
+      ]
+    },
+    "ja": {
+      "seo_title": "アルメニア訪問トップ10スポット：初めての旅に（2027）",
+      "meta_description": "アルメニア訪問トップ10スポット。エレバン、ガルニ、ゲガルド、ホルヴィラップ、アレニ、ノラヴァンク、セヴァン湖、ディリジャンを季節と移動時間付きで。",
+      "focus_keyword": "アルメニア訪問トップ10スポット",
+      "keywords": [
+        "アルメニア訪問トップ10スポット",
+        "アルメニア訪問ベストシーズン",
+        "アルメニアビザ要件2027",
+        "エレバン発ガルニ神殿日帰り旅行",
+        "ゲガルド修道院ツアー",
+        "ホルヴィラプアララト山ビュー",
+        "セヴァン湖セヴァナヴァンク修道院",
+        "アルメニアアレニワインテイスティング"
+      ]
+    },
+    "es": {
+      "seo_title": "Top 10 lugares para visitar en Armenia: primer viaje (2027)",
+      "meta_description": "Top 10 lugares para visitar en Armenia: Ereván, Garni, Geghard, Khor Virap, Areni, Noravank, el lago Seván y Dilijan, con estaciones y tiempos de viaje.",
+      "focus_keyword": "top 10 lugares para visitar en Armenia",
+      "keywords": [
+        "top 10 lugares para visitar en Armenia",
+        "mejor época para visitar Armenia",
+        "requisitos de visado para Armenia 2027",
+        "excursión de un día al Templo de Garni desde Ereván",
+        "tour al Monasterio de Geghard",
+        "vista del monte Ararat desde Khor Virap",
+        "monasterio de Sevanavank en el lago Sevan",
+        "cata de vinos en Areni Armenia"
+      ]
+    }
+  },
+  "contentHash": "7639e997463931b1",
+  "refreshLog": [
+    {
+      "at": "2026-11-02T22:54:53+04:00",
+      "reason": "content edited outside the pipeline"
+    }
+  ]
+}

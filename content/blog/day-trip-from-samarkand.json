@@ -1,0 +1,1199 @@
+{
+  "slug": "day-trip-from-samarkand",
+  "published": true,
+  "featured": false,
+  "category": "day-trips",
+  "destination": "uzbekistan",
+  "countries": [],
+  "publishedAt": "2026-11-05T22:14:52+04:00",
+  "updatedAt": "2026-11-05T22:14:52+04:00",
+  "readingTimeMinutes": 12,
+  "relatedPackages": [
+    "samarkand-day-tour-by-afrosiyob-train",
+    "3-stans-discovery-14-days",
+    "four-stans-odyssey-18-days",
+    "five-stans-long-road-22-days"
+  ],
+  "title": {
+    "en": "Day Trip from Samarkand: Tashkent & Bukhara (2027)",
+    "de": "Tagesausflug ab Samarkand: Taschkent & Buchara (2027)",
+    "fr": "Excursion d'un jour depuis Samarcande : Tachkent et Boukhara (2027)",
+    "ja": "サマルカンドからの日帰り旅行：タシュケント＆ブハラ（2027年）",
+    "es": "Excursión de un día desde Samarcanda: Taskent y Bujará (2027)"
+  },
+  "subtitle": {
+    "en": "Distances, drive times, train options and private tour links for a single day out of Samarkand",
+    "de": "Entfernungen, Fahrzeiten, Zugoptionen und Links zu privaten Touren für einen Tagesausflug ab Samarkand",
+    "fr": "Distances, temps de trajet, options de train et liens vers nos circuits privés pour une journée au départ de Samarcande",
+    "ja": "サマルカンドからの1日旅行のための距離、所要時間、列車オプション、プライベートツアーリンク",
+    "es": "Distancias, tiempos de viaje, opciones de tren y enlaces a tours privados para una sola salida desde Samarcanda"
+  },
+  "summary": {
+    "en": "Plan a day trip from Samarkand with train times to Tashkent, road distances to Bukhara and Penjikent, border notes for Tajikistan, and our private tours that cover each route.",
+    "de": "Planen Sie einen Tagesausflug ab Samarkand mit Zugzeiten nach Taschkent, Straßenentfernungen nach Buchara und Pendschikent, Hinweisen zur Grenze nach Tadschikistan und unseren privaten Touren, die jede Route abdecken.",
+    "fr": "Organisez une excursion d'un jour depuis Samarcande avec les horaires de train pour Tachkent, les distances routières vers Boukhara et Pendjikent, les informations sur les frontières du Tadjikistan, et nos circuits privés couvrant chaque itinéraire.",
+    "ja": "サマルカンドからの日帰り旅行を計画。タシュケント行きの列車時刻、ブハラおよびペンジケントまでの道路距離、タジキスタン国境情報、各ルートをカバーする当社のプライベートツアーをご紹介します。",
+    "es": "Planea una excursión de un día desde Samarcanda con horarios de tren a Taskent, distancias por carretera a Bujará y Panjikent, notas sobre la frontera con Tayikistán y nuestros tours privados que cubren cada ruta."
+  },
+  "intro": {
+    "en": "A day trip from Samarkand works best by high-speed train to Tashkent in about 2 hours or by private car to Bukhara in about 4 hours, with spring and autumn the most comfortable months. This post covers the main routes, typical durations, border formalities for Penjikent and Dushanbe, and the Sunday Atlas private tours that run each option.",
+    "de": "Ein Tagesausflug ab Samarkand funktioniert am besten mit dem Hochgeschwindigkeitszug nach Taschkent in etwa 2 Stunden oder mit dem privaten Auto nach Buchara in etwa 4 Stunden, wobei Frühling und Herbst die angenehmsten Monate sind. Dieser Beitrag behandelt die wichtigsten Routen, typische Dauer, Grenzformalitäten für Pendschikent und Duschanbe sowie die privaten Touren von Sunday Atlas Travel, die jede Option anbieten.",
+    "fr": "Une excursion d'un jour depuis Samarcande se fait idéalement en train à grande vitesse jusqu'à Tachkent en environ 2 heures, ou en voiture privée jusqu'à Boukhara en environ 4 heures, le printemps et l'automne étant les saisons les plus agréables. Cet article présente les principaux itinéraires, les durées habituelles, les formalités de frontière pour Pendjikent et Douchanbé, ainsi que les circuits privés de Sunday Atlas Travel qui couvrent chaque option.",
+    "ja": "サマルカンドからの日帰り旅行は、高速列車でタシュケントまで約2時間、またはプライベートカーでブハラまで約4時間が最適です。春と秋が最も快適な季節です。本記事では主要ルート、所要時間、ペンジケントおよびドゥシャンベへの国境手続き、そして各オプションを運行するサンデー・アトラス・トラベルのプライベートツアーについて解説します。",
+    "es": "Una excursión de un día desde Samarcanda funciona mejor en tren de alta velocidad a Taskent en unas 2 horas o en coche privado a Bujará en unas 4 horas, siendo la primavera y el otoño los meses más cómodos. Esta publicación cubre las rutas principales, las duraciones típicas, los trámites fronterizos para Panjikent y Dusambé, y los tours privados de Sunday Atlas que operan cada opción."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793902122/sunday-atlas/blog/uzbekistan-itinerary-10-days/tashkent-commons-158430065.jpg",
+    "width": 1920,
+    "height": 1440,
+    "alt": {
+      "en": "A green UAZ van parked on a street in Tashkent, Uzbekistan.",
+      "de": "Ein grüner UAZ-Van auf einer Straße in Taschkent, Usbekistan.",
+      "fr": "Une camionnette verte UAZ garée dans une rue de Tachkent, en Ouzbékistan.",
+      "ja": "タシュケント、ウズベキスタンの通りに駐車した緑のUAZバン。",
+      "es": "Una furgoneta verde UAZ estacionada en una calle de Taskent, Uzbekistán."
+    },
+    "credit": {
+      "author": "Jamshid Nurkulov",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:UAZ-452._Tashkent,_Chimkent_street_01.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "samarkand-to-tashkent-by-train",
+      "placeName": {
+        "en": "Tashkent",
+        "de": "Taschkent",
+        "fr": "Tachkent",
+        "ja": "タシュケント",
+        "es": "Taskent"
+      },
+      "heading": {
+        "en": "Samarkand to Tashkent by High-Speed Train",
+        "de": "Von Samarkand nach Taschkent mit dem Hochgeschwindigkeitszug",
+        "fr": "De Samarcande à Tachkent en train à grande vitesse",
+        "ja": "サマルカンドからタシュケントへの高速鉄道での移動",
+        "es": "De Samarcanda a Taskent en tren de alta velocidad"
+      },
+      "paragraphs": {
+        "en": [
+          "The Afrosiyob high-speed train covers the 300 km between Tashkent and Samarkand in about two hours, with departures roughly every two hours from early morning until late afternoon. Our private day tour uses the morning departure so you arrive in Samarkand around 9:30 am and meet your guide directly on the platform. A private air-conditioned vehicle then handles all city transfers for the full day of sightseeing. The return train leaves Samarkand in the early evening, getting you back to Tashkent before dinner. Trains run year-round, but spring and autumn mornings are the most comfortable for walking the monuments.",
+          "The guided route starts at Gur-e-Amir, the 15th-century mausoleum of Timur, then moves to Registan Square with its three madrasahs facing a central courtyard. From there you continue to Bibi-Khanym Mosque and the adjacent Siyob Bazaar for a short walk among spice stalls and fresh bread. The next stop is Shah-i-Zinda, a shaded avenue of tiled tombs dating from the 11th to 15th centuries. The final visit is the Ulugh Beg Observatory, where the 15th-century astronomer measured the year to within seconds.",
+          "Station transfers in both cities are included: a driver meets you at Tashkent station for the outbound trip and waits at Samarkand station on arrival. In Samarkand the same vehicle and driver stay with you all day, so there is no need to negotiate taxis between sites. The tour includes all monument entrance tickets, bottled water and a lunch stop at a local restaurant near Registan. An English-speaking guide is confirmed at booking and travels with you from the platform through every site.",
+          "The best months to take this day trip are March through June and September through November, when daytime temperatures stay between 15 and 25 degrees Celsius. Summer departures still run, but the guide shifts the start earlier to avoid midday heat above 35 degrees. Winter trains operate on the same schedule, though shorter daylight hours mean a tighter sightseeing window. The tour is sold as a single-day private experience with no overnight stay required in Samarkand."
+        ],
+        "de": [
+          "Der Hochgeschwindigkeitszug Afrosiyob legt die 300 km zwischen Taschkent und Samarkand in etwa zwei Stunden zurück, mit Abfahrten ungefähr alle zwei Stunden von frühmorgens bis zum späten Nachmittag. Unsere private Tagestour nutzt die Morgenabfahrt, sodass Sie gegen 9:30 Uhr in Samarkand ankommen und Ihren Guide direkt auf dem Bahnsteig treffen. Ein privates klimatisiertes Fahrzeug übernimmt dann alle Stadttransfers für den gesamten Tag der Besichtigungen. Der Rückzug verlässt Samarkand am frühen Abend und bringt Sie vor dem Abendessen zurück nach Taschkent. Die Züge verkehren ganzjährig, aber Frühling und Herbst sind die angenehmsten Morgen für Spaziergänge zu den Denkmälern.",
+          "Die geführte Route beginnt am Gur-e-Amir, dem Mausoleum aus dem 15. Jahrhundert von Timur, und führt weiter zum Registan-Platz mit seinen drei Medresen, die auf einen Innenhof zugehen. Von dort geht es weiter zur Bibi-Khanym-Moschee und dem angrenzenden Siyob-Basar für einen kurzen Spaziergang zwischen Gewürzständen und frischem Brot. Die nächste Station ist Shah-i-Zinda, eine schattige Allee mit Kachelgräbern aus dem 11. bis 15. Jahrhundert. Der letzte Besuch gilt der Ulugh-Beg-Sternwarte, wo der Astronom des 15. Jahrhunderts das Jahr auf Sekunden genau maß.",
+          "Bahnhofstransfers in beiden Städten sind inklusive: Ein Fahrer trifft Sie am Bahnhof von Taschkent für die Hinreise und wartet am Bahnhof von Samarkand bei der Ankunft. In Samarkand bleibt dasselbe Fahrzeug mit demselben Fahrer den ganzen Tag bei Ihnen, sodass Sie keine Taxis zwischen den Sehenswürdigkeiten aushandeln müssen. Die Tour umfasst alle Eintrittskarten für die Denkmäler, Flaschenwasser und einen Mittagessen-Stopp in einem lokalen Restaurant in der Nähe des Registan-Platzes. Ein englischsprachiger Guide wird bei der Buchung bestätigt und reist mit Ihnen vom Bahnsteig durch jede Sehenswürdigkeit.",
+          "Die besten Monate für diesen Tagesausflug sind März bis Juni und September bis November, wenn die Tagestemperaturen zwischen 15 und 25 Grad Celsius liegen. Sommerabfahrten finden weiterhin statt, aber der Guide verlegt den Start früher, um die Mittagshitze über 35 Grad zu vermeiden. Winterzüge verkehren nach dem gleichen Fahrplan, obwohl kürzere Tageslichtstunden ein engeres Zeitfenster für Besichtigungen bedeuten. Die Tour wird als privates Erlebnis für einen Tag ohne Übernachtung in Samarkand verkauft."
+        ],
+        "fr": [
+          "Le train à grande vitesse Afrosiyob parcourt les 300 km entre Tachkent et Samarcande en environ deux heures, avec des départs environ toutes les deux heures, du début de la matinée jusqu'à la fin de l'après-midi. Notre circuit privé d'une journée utilise le départ du matin afin que vous arriviez à Samarcande vers 9 h 30 et rencontriez votre guide directement sur le quai. Un véhicule privé climatisé assure ensuite tous les transferts en ville pour une journée complète de visites. Le train de retour quitte Samarcande en début de soirée, vous ramenant à Tachkent avant le dîner. Les trains circulent toute l'année, mais les matinées de printemps et d'automne sont les plus confortables pour arpenter les monuments.",
+          "L'itinéraire guidé commence au Gur-e-Amir, le mausolée du 15e siècle de Tamerlan, puis se dirige vers la place du Registan avec ses trois madrasahs faisant face à une cour centrale. De là, vous continuez vers la mosquée Bibi-Khanym et le bazar Siyob adjacent pour une courte promenade parmi les étals d'épices et le pain frais. L'arrêt suivant est Shah-i-Zinda, une avenue ombragée de tombes carrelées datant du 11e au 15e siècle. La dernière visite est l'observatoire d'Ulugh Beg, où l'astronome du 15e siècle a mesuré l'année à quelques secondes près.",
+          "Les transferts de gare dans les deux villes sont inclus : un chauffeur vous attend à la gare de Tachkent pour le trajet aller et vous attend à la gare de Samarcande à l'arrivée. À Samarcande, le même véhicule et le même chauffeur restent avec vous toute la journée, vous n'avez donc pas besoin de négocier des taxis entre les sites. Le circuit inclut tous les billets d'entrée aux monuments, l'eau en bouteille et un arrêt déjeuner dans un restaurant local près du Registan. Un guide anglophone est confirmé lors de la réservation et vous accompagne du quai à chaque site.",
+          "Les meilleurs mois pour cette excursion d'un jour sont de mars à juin et de septembre à novembre, lorsque les températures diurnes se situent entre 15 et 25 degrés Celsius. Les départs d'été ont toujours lieu, mais le guide décale le départ plus tôt pour éviter la chaleur de midi au-dessus de 35 degrés. Les trains d'hiver circulent selon le même horaire, bien que les journées plus courtes réduisent la fenêtre de visites. Le circuit est vendu comme une expérience privée d'une seule journée sans nécessiter de nuitée à Samarcande."
+        ],
+        "ja": [
+          "アフロシヤブ高速列車は、タシュケントとサマルカンド間の300 kmを約2時間で結び、早朝から午後遅くまで約2時間ごとに出発しています。当社のプライベート日帰りツアーでは午前の出発を利用し、サマルカンドには午前9時30分頃に到着、プラットホームでガイドと直接合流します。その後、専用のエアコン付き車両で1日中の市内移動をすべて手配します。帰りの列車は早い夕方にサマルカンドを出発し、夕食前にタシュケントへ戻ります。列車は年間を通じて運行していますが、春と秋の朝は記念碑を巡る散策に最も快適な季節です。",
+          "ガイド付きルートは、15世紀のティムール廟であるグル・エ・アミールから始まり、中央の中庭に面した3つのマドラサがあるレギスタン広場へと続きます。そこからビビ・ハニム・モスクと隣接するシヨフ・バザールへ移動し、スパイスの露店や焼きたてパンが並ぶ通りを短く散策します。次の停車地は、11世紀から15世紀にかけて建てられたタイル張りの墓が並ぶ陰のある参道、シャー・イ・ジンダです。最後の訪問先はウルグ・ベク天文台で、15世紀の天文学者が1年を数秒の誤差で測定した場所です。",
+          "両都市の駅間送迎が含まれています。出発時はタシュケント駅でドライバーがお出迎えし、サマルカンド駅到着時にはお待ちしております。サマルカンドでは同一の車両とドライバーが一日中ご一緒するため、観光地間のタクシー交渉は不要です。ツアー料金には全ての記念碑入場チケット、ボトルウォーター、レギスタン近くの地元レストランでのランチストップが含まれています。英語ガイドは予約時に確定し、プラットフォームから全ての観光地までご一緒します。",
+          "この日帰り旅行に最適な時期は3月から6月、9月から11月です。日中の気温が15度から25度の間で安定しています。夏の出発も実施していますが、ガイドが出発時間を早め、35度を超える真昼の暑さを避けます。冬の列車は同じスケジュールで運行されますが、日照時間が短いため観光時間は限られます。本ツアーはサマルカンドでの宿泊を必要としない単日プライベート体験として販売されています。"
+        ],
+        "es": [
+          "El tren de alta velocidad Afrosiyob recorre los 300 km entre Taskent y Samarcanda en unas dos horas, con salidas aproximadamente cada dos horas desde primera hora de la mañana hasta última de la tarde. Nuestro tour privado de un día utiliza la salida matutina para que llegues a Samarcanda alrededor de las 9:30 am y encuentres a tu guía directamente en el andén. Un vehículo privado con aire acondicionado se encarga de todos los traslados en la ciudad durante el día completo de visitas. El tren de regreso sale de Samarcanda a primera hora de la tarde, llevándote de vuelta a Taskent antes de la cena. Los trenes funcionan todo el año, pero las mañanas de primavera y otoño son las más cómodas para caminar por los monumentos.",
+          "La ruta guiada comienza en Gur-e-Amir, el mausoleo del siglo 15 de Timur, y continúa hasta la plaza Registán con sus tres madrasas frente a un patio central. Desde allí se sigue hacia la mezquita Bibi-Khanym y el adyacente bazar Siyob para un breve paseo entre puestos de especias y pan recién horneado. La siguiente parada es Shah-i-Zinda, una avenida sombreada de tumbas con azulejos que datan del siglo 11 al siglo 15. La visita final es el observatorio de Ulugh Beg, donde el astrónomo del siglo 15 midió el año con una precisión de segundos.",
+          "Los traslados en estación en ambas ciudades están incluidos: un conductor te recibe en la estación de Taskent para el viaje de ida y espera en la estación de Samarcanda a la llegada. En Samarcanda, el mismo vehículo y conductor te acompañan todo el día, por lo que no es necesario negociar taxis entre los sitios. El tour incluye todas las entradas a los monumentos, agua embotellada y una parada para almorzar en un restaurante local cerca de Registán. Un guía de habla inglesa se confirma al momento de la reserva y te acompaña desde el andén hasta cada sitio.",
+          "Los mejores meses para realizar esta excursión de un día son de marzo a junio y de septiembre a noviembre, cuando las temperaturas diurnas se mantienen entre 15 y 25 grados Celsius. Las salidas de verano siguen operando, pero el guía adelanta el inicio para evitar el calor del mediodía por encima de los 35 grados. Los trenes de invierno operan con el mismo horario, aunque las horas de luz más cortas reducen el tiempo disponible para las visitas. El tour se vende como una experiencia privada de un solo día sin necesidad de pernoctar en Samarcanda."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Two-hour train ride each way",
+          "Guide waiting on the platform",
+          "All entrance tickets included"
+        ],
+        "de": [
+          "Zweistündige Zugfahrt in jede Richtung",
+          "Guide wartet auf dem Bahnsteig",
+          "Alle Eintrittskarten inklusive"
+        ],
+        "fr": [
+          "Deux heures de train aller-retour",
+          "Notre guide vous attend sur le quai",
+          "Tous les billets d'entrée inclus"
+        ],
+        "ja": [
+          "往復2時間の列車移動",
+          "プラットホームでガイドがお出迎え",
+          "入場料すべて込み"
+        ],
+        "es": [
+          "Tren de ida y vuelta de dos horas",
+          "Guía esperando en el andén",
+          "Entradas incluidas"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Train duration",
+            "de": "Zugdauer",
+            "fr": "Durée du trajet en train",
+            "ja": "列車所要時間",
+            "es": "Duración del tren"
+          },
+          "value": {
+            "en": "About 2 hours",
+            "de": "Etwa 2 Stunden",
+            "fr": "Environ 2 heures",
+            "ja": "約2時間",
+            "es": "Aproximadamente 2 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Best months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure période",
+            "ja": "ベストシーズン",
+            "es": "Meses recomendados"
+          },
+          "value": {
+            "en": "March to June, September to November",
+            "de": "März bis Juni, September bis November",
+            "fr": "De mars à juin, de septembre à novembre",
+            "ja": "3月から6月、9月から11月",
+            "es": "De marzo a junio y de septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $280 USD / person",
+            "de": "Ab $280 USD / Person",
+            "fr": "À partir de $280 USD / personne",
+            "ja": "$280 USD〜 / 1名",
+            "es": "Desde $280 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400030/sunday-atlas/majestic-gur-e-amir-mausoleum-in-samarkand-33403700_qgc86d.jpg",
+        "width": 1920,
+        "height": 2560,
+        "alt": {
+          "en": "Ribbed turquoise dome and tiled portal of the Gur-e-Amir Mausoleum in Samarkand, Uzbekistan",
+          "de": "Gerippte türkisfarbene Kuppel und gekacheltes Portal des Gur-Emir-Mausoleums in Samarkand, Usbekistan",
+          "fr": "Coupole nervurée turquoise et portail en céramique du mausolée Gour-Émir à Samarcande, Ouzbékistan",
+          "ja": "サマルカンドのアミール・ティムール廟（グーリ・アミール）の青きドームとタイル装飾の門（ウズベキスタン）",
+          "es": "Cúpula nervada de color turquesa y pórtico de azulejos del mausoleo Gur-e-Amir en Samarcanda, Uzbekistán"
+        },
+        "caption": {
+          "en": "Tashkent",
+          "de": "Taschkent",
+          "fr": "Tachkent",
+          "ja": "タシュケント",
+          "es": "Taskent"
+        }
+      },
+      "embeddedPackageSlug": "samarkand-day-tour-by-afrosiyob-train"
+    },
+    {
+      "id": "samarkand-to-bukhara-by-road",
+      "placeName": {
+        "en": "Bukhara",
+        "de": "Bukhara",
+        "fr": "Boukhara",
+        "ja": "ブハラ",
+        "es": "Bujará"
+      },
+      "heading": {
+        "en": "Samarkand to Bukhara by Private Car",
+        "de": "Von Samarkand nach Bukhara mit dem Privatwagen",
+        "fr": "De Samarcande à Boukhara en voiture privée",
+        "ja": "サマルカンドからブハラへ専用車で",
+        "es": "De Samarcanda a Bujará en coche privado"
+      },
+      "paragraphs": {
+        "en": [
+          "The 280 km drive from Samarkand to Bukhara crosses the Kyzyl-Kum Desert in about 4 hours by private car. The route follows the M37 highway and passes the Amudarya River, where a short stop offers views of Central Asia's longest river. Spring (April-May) and autumn (September-October) provide comfortable temperatures for the journey and sightseeing upon arrival. Summer heat in the desert cities often exceeds 40°C, so early morning departures around 7:00 AM are standard practice. Our 14-day 3 Stans Discovery tour covers this leg on Day 10, connecting Samarkand's Registan Square with Bukhara's historic center.",
+          "The private car allows flexible stops at roadside tea houses and the Amudarya River viewpoint, roughly halfway through the 4-hour drive. Unlike the high-speed train which takes about 1 hour 40 minutes, the car journey includes the desert landscape transition between the two Silk Road cities. The driver typically departs after breakfast in Samarkand, reaching Bukhara by early afternoon for lunch near Lyabi-Hauz. This timing works well for visiting the Ark Citadel and Po-i-Kalyan complex before sunset. The road is paved throughout and maintained year-round.",
+          "Bukhara's main sites cluster within walking distance of Lyabi-Hauz plaza, making an afternoon arrival efficient for sightseeing. The Ark Citadel, a 5th-century fortress, sits 500 meters from the plaza and requires 1-2 hours to explore. Po-i-Kalyan ensemble with its 47-meter Kalyan Minaret is another 300 meters further. A plov master class can be arranged in a local family kitchen, typically lasting 2 hours including the meal. Evening temperatures in spring and autumn stay pleasant for dining outdoors at the Lyabi-Hauz tea houses.",
+          "The private car returns to Samarkand the same evening or continues onward to Khiva (460 km, about 7 hours) on multi-day itineraries. For day trips, a 5:00 PM departure from Bukhara reaches Samarkand around 9:00 PM before dark. Winter months (November-March) bring shorter daylight hours and occasional fog on the desert highway, so the trip is less common then. Our tours use sedan or SUV vehicles with air conditioning and English-speaking drivers who know the route and stop options. Fuel and tolls are included in the tour price."
+        ],
+        "de": [
+          "Die 280 km lange Fahrt von Samarkand nach Bukhara durchquert die Kyzyl-Kum-Wüste in etwa 4 Stunden mit dem Privatwagen. Die Route folgt der M37 und passiert den Amudarya, wo ein kurzer Stopp Ausblicke auf den längsten Fluss Zentralasiens bietet. Frühling (April–Mai) und Herbst (September–Oktober) sorgen für angenehme Temperaturen auf der Reise und bei Besichtigungen bei der Ankunft. Die Sommerhitze in den Wüstenstädten übersteigt oft 40 °C, daher sind frühe Morgenabfahrten um 7:00 Uhr Standardpraxis. Unsere 14-tägige 3 Stans Discovery Tour deckt diesen Abschnitt am Tag 10 ab und verbindet Samarkands Registan-Platz mit dem historischen Zentrum von Bukhara.",
+          "Der Privatwagen erlaubt flexible Stopps an Straßen-Teehäusern und am Aussichtspunkt am Amudarya, etwa auf halbem Weg der 4-stündigen Fahrt. Im Gegensatz zum Hochgeschwindigkeitszug, der etwa 1 Stunde 40 Minuten benötigt, umfasst die Autofahrt den Übergang der Wüstenlandschaft zwischen den beiden Seidenstraßenstädten. Der Fahrer fährt in der Regel nach dem Frühstück in Samarkand ab und erreicht Bukhara am frühen Nachmittag zum Mittagessen in der Nähe von Lyabi-Hauz. Dieser Zeitplan eignet sich gut für Besuche der Ark-Zitadelle und des Po-i-Kalyan-Komplexes vor Sonnenuntergang. Die Straße ist durchgehend asphaltiert und ganzjährig instand gehalten.",
+          "Bukharas Hauptsehenswürdigkeiten liegen in Gehdistanz zum Lyabi-Hauz-Platz, was eine Ankunft am Nachmittag für Besichtigungen effizient macht. Die Ark-Zitadelle, eine Festung aus dem 5. Jahrhundert, liegt 500 Meter vom Platz entfernt und erfordert 1–2 Stunden zur Erkundung. Der Po-i-Kalyan-Komplex mit seinem 47 Meter hohen Kalyan-Minarett ist weitere 300 Meter entfernt. Ein Plov-Kochkurs kann in einer lokalen Familienküche arrangiert werden, der in der Regel 2 Stunden inklusive der Mahlzeit dauert. Die Abendtemperaturen im Frühling und Herbst bleiben angenehm für Abendessen im Freien in den Teehäusern am Lyabi-Hauz.",
+          "Der Privatwagen kehrt am selben Abend nach Samarkand zurück oder setzt die Reise nach Khiva (460 km, etwa 7 Stunden) bei mehrtägigen Reisen fort. Für Tagesausflüge erreicht eine Abfahrt um 17:00 Uhr von Bukhara Samarkand gegen 21:00 Uhr vor Einbruch der Dunkelheit. Die Wintermonate (November–März) bringen kürzere Tageslichtstunden und gelegentlichen Nebel auf der Wüstenautobahn, sodass die Reise dann seltener stattfindet. Unsere Touren nutzen Limousinen oder SUVs mit Klimaanlage und englischsprachigen Fahrern, die die Route und die Stoppoptionen kennen. Kraftstoff und Mautgebühren sind im Reisepreis enthalten."
+        ],
+        "fr": [
+          "Le trajet de 280 km de Samarcande à Boukhara traverse le désert du Kyzyl-Kum en environ 4 heures en voiture privée. L'itinéraire suit l'autoroute M37 et longe l'Amou-Daria, où un arrêt court offre des vues sur le plus long fleuve d'Asie centrale. Le printemps (avril-mai) et l'automne (septembre-octobre) offrent des températures agréables pour le voyage et les visites à l'arrivée. La chaleur estivale dans les villes du désert dépasse souvent les 40 °C, aussi les départs tôt le matin vers 7 h sont-ils la pratique courante. Notre circuit Découverte des 3 pays de 14 jours couvre cette étape le jour 10, reliant la place du Régistan de Samarcande au centre historique de Boukhara.",
+          "La voiture privée permet des arrêts flexibles dans les maisons de thé au bord de la route et au point de vue sur l'Amou-Daria, à mi-parcours environ des 4 heures de route. Contrairement au train à grande vitesse qui prend environ 1 heure 40 minutes, le trajet en voiture inclut la transition du paysage désertique entre les deux villes de la Route de la Soie. Le chauffeur part généralement après le petit-déjeuner à Samarcande, atteignant Boukhara en début d'après-midi pour déjeuner près de Lyabi-Hauz. Ce timing convient bien pour visiter l'Ark et le complexe Po-i-Kalyan avant le coucher du soleil. La route est goudronnée sur toute sa longueur et entretenue toute l'année.",
+          "Les principaux sites de Boukhara se trouvent à distance de marche de la place Lyabi-Hauz, rendant une arrivée en après-midi efficace pour les visites. L'Ark, une forteresse du 5e siècle, se trouve à 500 mètres de la place et nécessite 1 à 2 heures de visite. L'ensemble Po-i-Kalyan avec son minaret Kalyan de 47 mètres se trouve à 300 mètres de plus. Un cours de cuisine du plov peut être organisé dans la cuisine d'une famille locale, d'une durée typique de 2 heures incluant le repas. Les températures du soir au printemps et en automne restent agréables pour dîner en extérieur dans les maisons de thé de Lyabi-Hauz.",
+          "La voiture privée retourne à Samarcande le même soir ou continue vers Khiva (460 km, environ 7 heures) sur les itinéraires de plusieurs jours. Pour les excursions d'une journée, un départ à 17 h de Boukhara atteint Samarcande vers 21 h avant la nuit. Les mois d'hiver (novembre-mars) apportent des heures de jour plus courtes et un brouillard occasionnel sur l'autoroute du désert, rendant le voyage moins fréquent à cette période. Nos circuits utilisent des berlines ou des SUV climatisés avec des chauffeurs anglophones qui connaissent la route et les options d'arrêt. Le carburant et les péages sont inclus dans le prix du circuit."
+        ],
+        "ja": [
+          "サマルカンドからブハラまでの280kmのドライブは、専用車で約4時間かけてクズィルクム砂漠を横断します。ルートはM37幹線道路を通り、アムダリヤ川を通過します。途中で短い停車があり、中央アジア最長の川の景色を楽しめます。春（4月〜5月）と秋（9月〜10月）は、移動や到着後の観光に快適な気候です。砂漠の都市の夏の暑さは40℃を超えることが多く、午前7時頃の早朝出発が標準的です。当社の14日間「3 スタンズ ディスカバリー」ツアーでは、10日目にこの区間を移動し、サマルカンドのレギスタン広場とブハラの歴史地区を結びます。",
+          "専用車なら、道端の茶屋やアムダリヤ川の展望所など、柔軟に停車できます。約4時間のドライブの途中地点です。所要約1時間40分の高速列車とは異なり、車での移動は二つのシルクロード都市間の砂漠の風景の変化を楽しめます。ドライバーは通常、サマルカンドでの朝食後に出発し、早午後にブハラに到着し、リャビ・ハウズ近くで昼食をとります。このスケジュールなら、日没前にアルク城塞とポーイ・カリャン複合体を訪れるのに適しています。道路は全区間舗装され、年間を通じて整備されています。",
+          "ブハラの主要な観光地はリャビ・ハウズ広場の徒歩圏内に集中しているため、午後の到着は観光に効率的です。5世紀の要塞であるアルク城塞は広場から500メートルの場所にあり、見学に1〜2時間かかります。高さ47メートルのカリャン・ミナレットを擁するポーイ・カリャン建築群は、さらに300メートル先にあります。地元の家族の台所でプロフのマスタークラスを手配でき、通常は食事を含めて2時間程度です。春と秋の夕方の気温は快適で、リャビ・ハウズの茶屋で屋外での食事を楽しめます。",
+          "専用車は当日夕方にサマルカンドへ戻るか、複数日程の旅程ではヒヴァ（460km、約7時間）へと続きます。日帰りの場合、ブハラから午後5時に出発すると、暗くなる前に午後9時頃にサマルカンドに到着します。冬季（11月〜3月）は日照時間が短く、砂漠の幹線道路に時折霧が発生するため、旅行はそれほど一般的ではありません。当社のツアーでは、エアコン付きのセダンまたはSUV車両を使用し、ルートと停車オプションに精通した英語を話すドライバーが同行します。燃料代と通行料はツアー料金に含まれています。"
+        ],
+        "es": [
+          "El trayecto de 280 km desde Samarcanda hasta Bujará cruza el desierto de Kyzyl-Kum en unas 4 horas en coche privado. La ruta sigue la carretera M37 y pasa por el río Amudarya, donde una breve parada ofrece vistas del río más largo de Asia Central. La primavera (abril-mayo) y el otoño (septiembre-octubre) ofrecen temperaturas agradables para el viaje y las visitas a la llegada. El calor del verano en las ciudades del desierto suele superar los 40 °C, por lo que las salidas temprano por la mañana, alrededor de las 7:00, son práctica habitual. Nuestro recorrido de 14 días 3 Stans Discovery cubre este tramo el día 10, conectando la plaza Registán de Samarcanda con el centro histórico de Bujará.",
+          "El coche privado permite paradas flexibles en casas de té junto a la carretera y en el mirador del río Amudarya, aproximadamente a mitad del trayecto de 4 horas. A diferencia del tren de alta velocidad, que tarda aproximadamente 1 hora y 40 minutos, el viaje en coche incluye la transición del paisaje desértico entre las dos ciudades de la Ruta de la Seda. El conductor suele salir después del desayuno en Samarcanda, llegando a Bujará a primera hora de la tarde para almorzar cerca de Lyabi-Hauz. Este horario funciona bien para visitar la Ciudadela Ark y el complejo Po-i-Kalyan antes del atardecer. La carretera está pavimentada en todo su recorrido y se mantiene durante todo el año.",
+          "Los principales sitios de Bujará se agrupan a poca distancia a pie de la plaza Lyabi-Hauz, lo que hace que una llegada por la tarde sea eficiente para hacer turismo. La Ciudadela Ark, una fortaleza del siglo V, se encuentra a 500 metros de la plaza y requiere de 1 a 2 horas para explorarla. El conjunto Po-i-Kalyan con su minarete Kalyan de 47 metros está a otros 300 metros más adelante. Se puede organizar una clase magistral de plov en la cocina de una familia local, que suele durar 2 horas, incluida la comida. Las temperaturas nocturnas en primavera y otoño se mantienen agradables para cenar al aire libre en las casas de té de Lyabi-Hauz.",
+          "El coche privado regresa a Samarcanda la misma tarde o continúa hacia Khiva (460 km, unas 7 horas) en itinerarios de varios días. Para excursiones de un día, una salida a las 5:00 PM desde Bujará llega a Samarcanda alrededor de las 9:00 PM antes del anochecer. Los meses de invierno (noviembre-marzo) traen menos horas de luz y niebla ocasional en la carretera del desierto, por lo que el viaje es menos común entonces. Nuestros recorridos utilizan vehículos sedán o SUV con aire acondicionado y conductores de habla inglesa que conocen la ruta y las opciones de paradas. El combustible y los peajes están incluidos en el precio del tour."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "280 km desert drive, about 4 hours",
+          "Amudarya River stop at halfway point",
+          "Ark Citadel and Lyabi-Hauz arrival by afternoon"
+        ],
+        "de": [
+          "280 km Wüstenfahrt, etwa 4 Stunden",
+          "Amudarya-Stopp auf halbem Weg",
+          "Ankunft an der Ark-Zitadelle und am Lyabi-Hauz am Nachmittag"
+        ],
+        "fr": [
+          "Trajet de 280 km dans le désert, environ 4 heures",
+          "Arrêt sur l'Amou-Daria à mi-parcours",
+          "Arrivée à l'Ark et à Lyabi-Hauz dans l'après-midi"
+        ],
+        "ja": [
+          "砂漠を280kmドライブ、約4時間",
+          "途中地点でのアムダリヤ川停車",
+          "午後のアルク城塞とリャビ・ハウズ到着"
+        ],
+        "es": [
+          "Travesía de 280 km por el desierto, unas 4 horas",
+          "Parada en el río Amudarya a mitad de camino",
+          "Llegada por la tarde a la Ciudadela Ark y Lyabi-Hauz"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance",
+            "de": "Entfernung",
+            "fr": "Distance",
+            "ja": "距離",
+            "es": "Distancia"
+          },
+          "value": {
+            "en": "280 km",
+            "de": "280 km",
+            "fr": "280 km",
+            "ja": "280 km",
+            "es": "280 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Drive time",
+            "de": "Fahrzeit",
+            "fr": "Durée du trajet",
+            "ja": "所要時間",
+            "es": "Tiempo de viaje"
+          },
+          "value": {
+            "en": "About 4 hours",
+            "de": "Etwa 4 Stunden",
+            "fr": "Environ 4 heures",
+            "ja": "約4時間",
+            "es": "Aproximadamente 4 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "14 Days / 13 Nights",
+            "de": "14 Tage / 13 Nächte",
+            "fr": "14 jours / 13 nuits",
+            "ja": "14日間 / 13泊",
+            "es": "14 días / 13 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $2643 USD / person",
+            "de": "Ab $2643 USD / Person",
+            "fr": "À partir de $2643 USD / personne",
+            "ja": "$2643 USD〜 / 1名",
+            "es": "Desde $2643 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793902137/sunday-atlas/blog/uzbekistan-itinerary-10-days/bukhara-commons-142287572.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "The Sitorai Mohi Khosa palace in Bukhara, Uzbekistan reflected in a pool.",
+          "de": "Der Palast Sitorai Mohi Khosa in Buchara, Usbekistan, spiegelt sich in einem Becken wider.",
+          "fr": "Le palais Sitorai Mohi Khosa à Boukhara, en Ouzbékistan, reflété dans un bassin.",
+          "ja": "ブハラ、ウズベキスタンのシトロアイ・モヒ・ホサ宮殿がプールに映る。",
+          "es": "El palacio Sitorai Mohi Khosa en Bujará, Uzbekistán, reflejado en una piscina."
+        },
+        "credit": {
+          "author": "Bernard Gagnon",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harem_of_Sitorai_Mokhi-Khosa_Palace_01.jpg",
+          "provider": "commons",
+          "required": false
+        },
+        "caption": {
+          "en": "Bukhara",
+          "de": "Bukhara",
+          "fr": "Boukhara",
+          "ja": "ブハラ",
+          "es": "Bujará"
+        }
+      },
+      "embeddedPackageSlug": "3-stans-discovery-14-days"
+    },
+    {
+      "id": "samarkand-to-panjikent-border-crossing",
+      "placeName": {
+        "en": "Penjikent",
+        "de": "Penjikent",
+        "fr": "Penjikent",
+        "ja": "ペンジケント",
+        "es": "Penjikent"
+      },
+      "heading": {
+        "en": "Samarkand to Penjikent and the Tajikistan Border",
+        "de": "Samarkand nach Penjikent und zur tadschikischen Grenze",
+        "fr": "Samarkand à Penjikent et la frontière du Tadjikistan",
+        "ja": "サマルカンドからペンジケントとタジキスタン国境へ",
+        "es": "De Samarcanda a Penjikent y la frontera de Tayikistán"
+      },
+      "paragraphs": {
+        "en": [
+          "The road from Samarkand to the Jartepa border post covers about 180 km and takes roughly 3 hours by private car, crossing the Zarafshan range before dropping into the Penjikent valley. The paved highway follows the Zeravshan River for much of the way, passing orchards and small towns such as Urgut at 1,000 m elevation. Spring melt can make the mountain sections slower in April, while autumn offers stable weather and clear views of the snow-capped peaks. Our Four Stans Odyssey tour covers this segment on Day 11, linking Penjikent to Samarkand in a single driving day. Travelers should carry water and snacks because services are limited along the higher stretches.",
+          "Penjikent sits at 950 m and its ancient Sogdian ruins and Rudaki museum open daily from 9:00 to 17:00 between April and October. The archaeological site spans 13 hectares and includes a citadel, residential quarters and well-preserved wall paintings from the 5th to 8th centuries. A guided walk through the ruins takes about 90 minutes and works best in the morning light before the midday heat. The nearby Friday mosque and bazaar operate year-round, though hours shorten in winter. Visitors staying overnight can use the town as a base for day trips to the surrounding valleys.",
+          "Most passports can obtain a visa on arrival at Jartepa, but the rule can change so travelers should confirm current requirements with the Tajik embassy before departure. The border post operates from 8:00 to 20:00 and processing typically takes 30 to 60 minutes during the spring and autumn peak seasons. A passport valid for at least six months and one blank page are standard requirements. Travelers entering by land from Uzbekistan receive a 45-day tourist visa for many nationalities. It is advisable to carry US dollars in small denominations for the visa fee since card payment is not always available.",
+          "After crossing, the route continues north along the Zeravshan River toward the Seven Lakes, a chain of alpine basins reached by a 60 km mountain road that is usually passable from June through September. The lakes sit between 1,600 m and 2,400 m and the drive from the border takes about 2 hours in a 4WD vehicle. Each lake has a distinct color caused by mineral content, and short hiking trails connect several of them. Guesthouses operate at the larger lakes during the summer season, offering basic rooms and meals. The road closes with the first heavy snowfall, typically in late October, and reopens in late May."
+        ],
+        "de": [
+          "Die Straße von Samarkand zum Grenzposten Jartepa ist etwa 180 km lang und dauert mit dem privaten Auto rund 3 Stunden. Sie führt über das Zarafshan-Gebirge und hinunter ins Penjikent-Tal. Die asphaltierte Fernstraße folgt weite Strecken dem Fluss Zeravshan und passiert Obstplantagen sowie kleine Orte wie Urgut auf 1.000 m Höhe. Im Frühjahr kann die Schneeschmelze die Bergabschnitte im April verlangsamen, während der Herbst stabiles Wetter und klare Ausblicke auf die schneebedeckten Gipfel bietet. Unsere Tour „Four Stans Odyssey“ deckt dieses Teilstück am Tag 11 ab und verbindet Penjikent an einem einzigen Fahrtag mit Samarkand. Reisende sollten Wasser und Snacks mitnehmen, da die Dienstleistungen auf den höheren Abschnitten begrenzt sind.",
+          "Penjikent liegt auf 950 m, und die antiken sogdischen Ruinen sowie das Rudaki-Museum haben täglich von 9:00 bis 17:00 Uhr zwischen April und Oktober geöffnet. Die archäologische Stätte erstreckt sich über 13 Hektar und umfasst eine Zitadelle, Wohnviertel und gut erhaltene Wandmalereien aus dem 5. bis 8. Jahrhundert. Ein geführter Spaziergang durch die Ruinen dauert etwa 90 Minuten und eignet sich am besten im Morgenlicht, bevor die Mittagshitze einsetzt. Die nahe gelegene Freitagsmoschee und der Basar haben ganzjährig geöffnet, wobei die Öffnungszeiten im Winter verkürzt sind. Übernachtungsgäste können die Stadt als Ausgangspunkt für Tagesausflüge in die umliegenden Täler nutzen.",
+          "Die meisten Reisepässe erhalten ein Visum bei der Einreise am Grenzposten Jartepa, doch die Bestimmungen können sich ändern, sodass Reisende die aktuellen Anforderungen vor der Abreise bei der tadschikischen Botschaft bestätigen sollten. Der Grenzposten ist von 8:00 bis 20:00 Uhr geöffnet, und die Bearbeitung dauert in der Hauptsaison im Frühjahr und Herbst in der Regel 30 bis 60 Minuten. Ein Reisepass, der mindestens sechs Monate gültig ist und eine leere Seite aufweist, ist die Standardvoraussetzung. Reisende, die auf dem Landweg aus Usbekistan einreisen, erhalten für viele Nationalitäten ein 45-tägiges Touristenvisum. Es ist ratsam, US-Dollar in kleinen Stückelungen für die Visagebühr mitzuführen, da Kartenzahlung nicht immer verfügbar ist.",
+          "Nach der Überquerung führt die Route weiter nördlich entlang des Flusses Zeravshan zu den Sieben Seen, einer Kette alpiner Becken, die über eine 60 km lange Bergstraße erreichbar ist, die in der Regel von Juni bis September befahrbar ist. Die Seen liegen zwischen 1.600 m und 2.400 m, und die Fahrt von der Grenze dauert etwa 2 Stunden in einem 4WD-Fahrzeug. Jeder See hat aufgrund des Mineralgehalts eine eigene Farbe, und kurze Wanderwege verbinden mehrere von ihnen. Pensionen an den größeren Seen bieten in der Sommersaison einfache Zimmer und Mahlzeiten an. Die Straße schließt mit dem ersten starken Schneefall, typischerweise Ende Oktober, und öffnet Ende Mai wieder."
+        ],
+        "fr": [
+          "La route de Samarkand au poste frontière de Jartepa couvre environ 180 km et prend environ 3 heures en voiture privée, traversant la chaîne du Zarafchan avant de descendre dans la vallée de Penjikent. L'autoroute pavée suit le fleuve Zeravchan sur une grande partie du trajet, traversant vergers et petites villes comme Urgut à 1 000 m d'altitude. La fonte printanière peut ralentir les sections de montagne en avril, tandis que l'automne offre un temps stable et des vues dégagées sur les sommets enneigés. Notre circuit Four Stans Odyssey couvre ce segment le jour 11, reliant Penjikent à Samarkand en une seule journée de route. Les voyageurs doivent emporter de l'eau et des collations car les services sont limités sur les portions les plus élevées.",
+          "Penjikent se trouve à 950 m et ses ruines sogdiennes antiques et le musée Rudaki ouvrent tous les jours de 9h00 à 17h00 entre avril et octobre. Le site archéologique s'étend sur 13 hectares et comprend une citadelle, des quartiers résidentiels et des peintures murales bien conservées du 5e au 8e siècle. Une visite guidée des ruines dure environ 90 minutes et se fait de préférence le matin, avant la chaleur de midi. La mosquée du vendredi et le bazar voisin fonctionnent toute l'année, bien que les horaires soient réduits en hiver. Les visiteurs séjournant sur place peuvent utiliser la ville comme base pour des excursions d'une journée dans les vallées environnantes.",
+          "La plupart des passeports peuvent obtenir un visa à l'arrivée à Jartepa, mais la règle peut changer, aussi les voyageurs doivent-ils confirmer les exigences actuelles auprès de l'ambassade du Tadjikistan avant le départ. Le poste frontière est ouvert de 8h00 à 20h00 et le traitement prend généralement 30 à 60 minutes pendant les hautes saisons de printemps et d'automne. Un passeport valide au moins six mois et une page vierge sont les exigences standard. Les voyageurs entrant par voie terrestre depuis l'Ouzbékistan reçoivent un visa touristique de 45 jours pour de nombreuses nationalités. Il est conseillé de transporter des dollars américains en petites coupures pour les frais de visa, car le paiement par carte n'est pas toujours disponible.",
+          "Après le passage, la route continue vers le nord le long du Zeravchan vers les Sept Lacs, une chaîne de bassins alpins accessible par une route de montagne de 60 km généralement praticable de juin à septembre. Les lacs se situent entre 1 600 m et 2 400 m et le trajet depuis la frontière dure environ 2 heures en véhicule 4WD. Chaque lac a une couleur distincte due à sa teneur en minéraux, et de courts sentiers de randonnée en relient plusieurs. Des maisons d'hôtes fonctionnent sur les plus grands lacs pendant la saison estivale, proposant des chambres simples et des repas. La route ferme avec les premières chutes de neige importantes, généralement fin octobre, et rouvre fin mai."
+        ],
+        "ja": [
+          "サマルカンドからジャルテパ国境検問所までの道のりは約180km、専用車で約3時間。ザラフシャン山脈を越え、ペンジケント盆地へと下っていきます。舗装された幹線道路はザラフシャン川に沿って続き、標高1,000mのウルグットなどの果樹園や小さな町を通ります。春の雪解け時期は4月に山岳区間の走行が遅くなることがあり、秋は安定した天候と雪を頂いた山々の絶景が楽しめます。当社のフォー・スタンズ・オデッセイツアーでは11日目にこの区間をカバーし、ペンジケントとサマルカンドを1日のドライブで結びます。高地区間ではサービスが限られているため、水と軽食を持参することをお勧めします。",
+          "標高950mに位置するペンジケントでは、古代ソグド人の遺跡とルダキ博物館が4月から10月まで毎日9:00から17:00まで開館しています。考古遺跡は13ヘクタールに及び、城塞、居住区、5世紀から8世紀にかけてのよく保存された壁画を含んでいます。遺跡のガイド付きウォークは約90分かかり、昼の暑さが来る前の午前中の光の中で歩くのが最適です。近くの金曜モスクとバザールは年間を通じて営業していますが、冬は営業時間が短縮されます。一泊する訪問者は、周辺の谷への日帰り旅行の拠点として町を利用できます。",
+          "ほとんどのパスポートでジャルテパでの到着ビザ取得が可能ですが、規則は変更される可能性があるため、出発前にタジキスタン大使館で最新の要件を確認する必要があります。国境検問所は8:00から20:00まで営業し、春と秋の繁忙期には通常30分から60分で手続きが完了します。パスポートの残存有効期間が少なくとも6ヶ月あり、見開き1ページの空きがあることが標準的な要件です。ウズベキスタンから陸路で入国する旅行者は、多くの国籍に対して45日間の観光ビザが発行されます。ビザ料金の支払いには米ドルの小額紙幣を携帯することをお勧めします。カード決済が常に利用できるとは限らないためです。",
+          "国境を越えた後、ルートはザラフシャン川に沿って北へ続き、セブンレイクスへと向かいます。セブンレイクスは標高1,600mから2,400mに位置するアルプスの盆地の連なりで、通常6月から9月まで通行可能な60kmの山岳道路で到達できます。国境からのドライブは4WD車で約2時間です。各湖はミネラル含有量によって異なる色をしており、いくつかの湖を短いハイキングトレイルが結んでいます。夏季には大きな湖にゲストハウスが営業し、基本的な部屋と食事を提供しています。道路は通常10月下旬の最初の大雪で閉鎖され、5月下旬に再開します。"
+        ],
+        "es": [
+          "El trayecto desde Samarcanda hasta el puesto fronterizo de Jartepa recorre unos 180 km y dura aproximadamente 3 horas en coche privado, cruzando la cordillera de Zarafshan antes de descender al valle de Penjikent. La carretera pavimentada sigue el río Zeravshan durante gran parte del recorrido, pasando por huertos y pueblos pequeños como Urgut, a 1.000 m de altitud. El deshielo primaveral puede ralentizar los tramos de montaña en abril, mientras que el otoño ofrece un clima estable y vistas despejadas de los picos nevados. Nuestro recorrido Four Stans Odyssey cubre este segmento en el Día 11, uniendo Penjikent con Samarcanda en un solo día de viaje. Los viajeros deben llevar agua y snacks porque los servicios son limitados en los tramos más elevados.",
+          "Penjikent se encuentra a 950 m y sus antiguas ruinas sogdianas y el museo Rudaki abren todos los días de 9:00 a 17:00 entre abril y octubre. El yacimiento arqueológico abarca 13 hectáreas e incluye una ciudadela, barrios residenciales y pinturas murales bien conservadas de los siglos 5 al 8. Una visita guiada por las ruinas dura unos 90 minutos y funciona mejor con la luz de la mañana, antes del calor del mediodía. La mezquita del viernes y el bazar cercanos funcionan todo el año, aunque el horario se reduce en invierno. Los visitantes que se queden a pasar la noche pueden usar la ciudad como base para excursiones de un día a los valles circundantes.",
+          "La mayoría de los pasaportes pueden obtener una visa a la llegada en Jartepa, pero la normativa puede cambiar, por lo que los viajeros deben confirmar los requisitos actuales con la embajada de Tayikistán antes de partir. El puesto fronterizo opera de 8:00 a 20:00 y el trámite suele durar entre 30 y 60 minutos durante las temporadas altas de primavera y otoño. Un pasaporte con al menos seis meses de validez y una página en blanco son requisitos estándar. Los viajeros que ingresan por tierra desde Uzbekistán reciben una visa de turista de 45 días para muchas nacionalidades. Es recomendable llevar dólares estadounidenses en billetes pequeños para el pago de la visa, ya que el pago con tarjeta no siempre está disponible.",
+          "Tras cruzar, la ruta continúa hacia el norte a lo largo del río Zeravshan hacia los Siete Lagos, una cadena de cuencas alpinas accesible mediante una carretera de montaña de 60 km que suele ser transitable de junio a septiembre. Los lagos se encuentran entre 1.600 m y 2.400 m y el trayecto desde la frontera dura unas 2 horas en un vehículo 4WD. Cada lago tiene un color distintivo debido a su contenido mineral, y senderos cortos conectan varios de ellos. Casas de huéspedes operan en los lagos más grandes durante la temporada de verano, ofreciendo habitaciones básicas y comidas. La carretera cierra con la primera nevada intensa, típicamente a finales de octubre, y reabre a finales de mayo."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "180 km drive to Jartepa border post",
+          "Visa on arrival for many nationalities",
+          "Seven Lakes accessible June to September"
+        ],
+        "de": [
+          "180 km Fahrt zum Grenzposten Jartepa",
+          "Visum bei der Einreise für viele Nationalitäten",
+          "Sieben Seen von Juni bis September erreichbar"
+        ],
+        "fr": [
+          "Trajet de 180 km jusqu'au poste frontière de Jartepa",
+          "Visa à l'arrivée pour de nombreuses nationalités",
+          "Les Sept Lacs accessibles de juin à septembre"
+        ],
+        "ja": [
+          "ジャルテパ国境検問所まで180kmのドライブ",
+          "多くの国籍に到着ビザを発行",
+          "セブンレイクスは6月から9月までアクセス可能"
+        ],
+        "es": [
+          "Trayecto de 180 km al puesto fronterizo de Jartepa",
+          "Visa a la llegada para muchas nacionalidades",
+          "Siete Lagos accesibles de junio a septiembre"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance",
+            "de": "Entfernung",
+            "fr": "Distance",
+            "ja": "距離",
+            "es": "Distancia"
+          },
+          "value": {
+            "en": "180 km",
+            "de": "180 km",
+            "fr": "180 km",
+            "ja": "180 km",
+            "es": "180 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Border crossing",
+            "de": "Grenzübergang",
+            "fr": "Passage frontalier",
+            "ja": "国境越え",
+            "es": "Cruce fronterizo"
+          },
+          "value": {
+            "en": "Jartepa",
+            "de": "Jartepa",
+            "fr": "Jartepa",
+            "ja": "ジャルテパ",
+            "es": "Jartepa"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "18 Days / 17 Nights",
+            "de": "18 Tage / 17 Nächte",
+            "fr": "18 jours / 17 nuits",
+            "ja": "18日間 / 17泊",
+            "es": "18 días / 17 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3145 USD / person",
+            "de": "Ab $3145 USD / Person",
+            "fr": "À partir de $3145 USD / personne",
+            "ja": "$3145 USD〜 / 1名",
+            "es": "Desde $3145 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317588/sunday-atlas/06-yurt-pasture_rrim5b.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "People beside a felt yurt and tent on green mountain pasture in Kyrgyzstan, with a saddled horse grazing",
+          "de": "Menschen neben einer Filzjurte und einem Zelt auf einer grünen Bergweide in Kirgistan, mit einem gesattelten Pferd",
+          "fr": "Personnes près d’une yourte en feutre et d’une tente sur un alpage au Kirghizistan, avec un cheval sellé",
+          "ja": "キルギスの緑の牧草地でフェルトのユルトとテントのそばに集う人々と、草をはむ鞍付きの馬",
+          "es": "Personas junto a una yurta de fieltro y una tienda en un pastizal de montaña en Kirguistán, con un caballo ensillado"
+        },
+        "caption": {
+          "en": "Penjikent",
+          "de": "Penjikent",
+          "fr": "Penjikent",
+          "ja": "ペンジケント",
+          "es": "Penjikent"
+        }
+      },
+      "embeddedPackageSlug": "four-stans-odyssey-18-days"
+    },
+    {
+      "id": "samarkand-to-dushanbe-via-panjikent",
+      "placeName": {
+        "en": "Dushanbe",
+        "de": "Duschanbe",
+        "fr": "Douchanbé",
+        "ja": "ドゥシャンベ",
+        "es": "Dushanbe"
+      },
+      "heading": {
+        "en": "Samarkand to Dushanbe Through the Fan Mountains",
+        "de": "Samarkand nach Duschanbe durch die Fan-Berge",
+        "fr": "Samarkand à Douchanbé à travers les monts Fan",
+        "ja": "ファン山脈を経てサマルカンドからドゥシャンベへ",
+        "es": "De Samarcanda a Dushanbe a través de los montes Fan"
+      },
+      "paragraphs": {
+        "en": [
+          "The route from Samarkand to Dushanbe crosses into Tajikistan at the Oybek border near Penjikent and covers about 300 km from the border to the capital through the Fan Mountains. Our 22-day Five Stans tour follows this corridor on Day 11, driving 235 km from Dushanbe to Iskanderkul Lake and onward to Penjikent. The high point is Anzob Pass at roughly 3,370 meters, which is usually open from May to October but can close after heavy snow. Spring and autumn provide the most reliable weather for the mountain sections. Allow a full day for the border formalities and the winding alpine drive.",
+          "After clearing the Oybek crossing, the road follows the Zerafshan Valley to Penjikent, where the ancient Sogdian ruins and the Rudaki Museum sit at about 1,000 meters altitude. From Penjikent the highway climbs toward the Seven Lakes (Haft Kul), a chain of glacial lakes between 1,600 and 2,400 meters that appear along the next 60 km of gravel and paved road. The drive from Penjikent to the upper lakes takes about 2 hours in dry conditions. Summer afternoons often bring thunderstorms, so an early start is practical. The lakes are a common picnic stop before the final ascent to Anzob Pass.",
+          "Descending from Anzob Pass, the road drops into the Varzob Gorge and reaches Dushanbe in about 3 hours from the pass summit. The total driving distance from the Tajik border to Dushanbe is approximately 300 km and typically requires 7 to 8 hours including border time and photo stops. On Day 12 of our tour the route continues north from Penjikent to Khujand and back across the Oybek border to Tashkent, covering 460 km. Fuel and supplies are available in Penjikent and at the pass tea house, but carry water for the mountain section. Mobile coverage is patchy above 2,500 meters.",
+          "The Five Stans itinerary links this mountain crossing with the Silk Road cities of Samarkand, Bukhara and Khiva on Days 13 to 18, using the evening high-speed train from Tashkent to Samarkand (2 hours) and private cars for the desert legs. Visa rules for Tajikistan and Uzbekistan depend on your passport and can change, so verify requirements before departure. The Anzob Tunnel provides a winter alternative when the pass is closed, adding about 50 km but saving altitude exposure. Book a private vehicle with a driver experienced in mountain conditions for this sector."
+        ],
+        "de": [
+          "Die Route von Samarkand nach Duschanbe überquert bei Oybek bei Penjikent die Grenze nach Tadschikistan und umfasst etwa 300 km von der Grenze bis zur Hauptstadt durch die Fan-Berge. Unsere 22-tägige Tour „Five Stans“ folgt diesem Korridor am Tag 11 und fährt 235 km von Duschanbe zum Iskanderkul-See und weiter nach Penjikent. Der höchste Punkt ist der Anzob-Pass auf etwa 3.370 Metern, der in der Regel von Mai bis Oktober geöffnet ist, aber nach starkem Schneefall schließen kann. Frühling und Herbst bieten das zuverlässigste Wetter für die Bergabschnitte. Reisende sollten einen ganzen Tag für die Grenzformalitäten und die kurvenreiche Alpenstraße einplanen.",
+          "Nach der Passierung des Grenzübergangs Oybek folgt die Straße dem Zerafshan-Tal nach Penjikent, wo die antiken sogdischen Ruinen und das Rudaki-Museum auf etwa 1.000 Metern Höhe liegen. Von Penjikent aus steigt die Fernstraße zu den Sieben Seen (Haft Kul) auf, einer Kette von Gletscherseen zwischen 1.600 und 2.400 Metern, die sich über die nächsten 60 km Schotter- und Asphaltstraße erstrecken. Die Fahrt von Penjikent zu den oberen Seen dauert bei trockenen Bedingungen etwa 2 Stunden. Sommerliche Nachmittage bringen oft Gewitter, sodass ein früher Start praktisch ist. Die Seen sind ein häufiger Zwischenstopp für ein Picknick vor dem letzten Aufstieg zum Anzob-Pass.",
+          "Die Abfahrt vom Anzob-Pass führt die Straße hinab in die Varzob-Schlucht und erreicht Duschanbe etwa 3 Stunden nach dem Passgipfel. Die gesamte Fahrstrecke von der tadschikischen Grenze nach Duschanbe beträgt rund 300 km und erfordert in der Regel 7 bis 8 Stunden, einschließlich Grenzformalitäten und Fotostopps. Am Tag 12 unserer Tour führt die Route weiter von Penjikent nach Khujand und zurück über die Grenze Oybek nach Taschkent, auf einer Strecke von 460 km. Treibstoff und Vorräte sind in Penjikent und am Teehaus am Pass erhältlich, aber führen Sie Wasser für den Bergabschnitt mit. Der Mobilfunkempfang ist oberhalb von 2.500 Metern lückenhaft.",
+          "Die Reiseroute Fünf Stan verbindet diese Bergüberquerung mit den Seidenstraßenstädten Samarkand, Buchara und Chiwa an den Tagen 13 bis 18, unter Nutzung des abendlichen Hochgeschwindigkeitszuges von Taschkent nach Samarkand (2 Stunden) und privater Autos für die Wüstenabschnitte. Die Visabestimmungen für Tadschikistan und Usbekistan hängen von Ihrem Reisepass ab und können sich ändern, überprüfen Sie daher die Anforderungen vor der Abreise. Der Anzob-Tunnel bietet eine Winteralternative, wenn der Pass gesperrt ist, und verlängert die Strecke um etwa 50 km, spart aber die Höhenbelastung. Buchen Sie ein privates Fahrzeug mit einem Fahrer, der Erfahrung in Bergverhältnissen hat, für diesen Sektor."
+        ],
+        "fr": [
+          "L'itinéraire de Samarkand à Douchanbé entre au Tadjikistan au poste frontière d'Oybek près de Penjikent et couvre environ 300 km de la frontière à la capitale à travers les monts Fan. Notre circuit de 22 jours Five Stans suit ce corridor le jour 11, parcourant 235 km de Douchanbé au lac Iskanderkul puis jusqu'à Penjikent. Le point culminant est le col d'Anzob, à environ 3 370 mètres, généralement ouvert de mai à octobre mais susceptible de fermer après de fortes chutes de neige. Le printemps et l'automne offrent le temps le plus fiable pour les sections de montagne. Prévoyez une journée complète pour les formalités frontalières et la route alpine sinueuse.",
+          "Après le passage du poste d'Oybek, la route suit la vallée du Zerafshan jusqu'à Penjikent, où les ruines sogdiennes antiques et le musée Rudaki se trouvent à environ 1 000 mètres d'altitude. Depuis Penjikent, l'autoroute grimpe vers les Sept Lacs (Haft Kul), une chaîne de lacs glaciaires entre 1 600 et 2 400 mètres qui s'étend sur les 60 km suivants de route gravillonnée et pavée. Le trajet de Penjikent aux lacs supérieurs dure environ 2 heures par temps sec. Les après-midi d'été apportent souvent des orages, donc un départ matinal est pratique. Les lacs sont une halte pique-nique courante avant la montée finale vers le col d'Anzob.",
+          "En descendant du col d'Anzob, la route plonge dans le gorge de Varzob et atteint Douchanbé en environ 3 heures depuis le sommet du col. La distance totale de route depuis la frontière tadjike jusqu'à Douchanbé est d'environ 300 km et nécessite généralement 7 à 8 heures, temps de passage de la frontière et arrêts photo compris. Le jour 12 de notre circuit, l'itinéraire continue vers le nord depuis Pendjikent jusqu'à Khoudjand, puis repasse la frontière d'Oybek en direction de Tachkent, sur 460 km. Le carburant et les provisions sont disponibles à Pendjikent et à la maison de thé du col, mais prévoyez de l'eau pour la section de montagne. La couverture mobile est irrégulière au-dessus de 2 500 mètres.",
+          "L'itinéraire des Cinq Stan relie ce col de montagne aux villes de la Route de la Soie de Samarcande, Boukhara et Khiva des jours 13 à 18, en utilisant le train grande vitesse du soir de Tachkent à Samarcande (2 heures) et des voitures privées pour les étapes désertiques. Les règles de visa pour le Tadjikistan et l'Ouzbékistan dépendent de votre passeport et peuvent évoluer, vérifiez donc les exigences avant le départ. Le tunnel d'Anzob offre une alternative hivernale lorsque le col est fermé, ajoutant environ 50 km mais évitant l'exposition à l'altitude. Réservez un véhicule privé avec un chauffeur expérimenté en conditions de montagne pour ce secteur."
+        ],
+        "ja": [
+          "サマルカンドからドゥシャンベへのルートはペンジケント近郊のオイベク国境でタジキスタンに入り、国境から首都まで約300kmをファン山脈を通って進みます。当社の22日間ファイブ・スタンズツアーでは11日目にこの回廊をたどり、ドゥシャンベからイスカンダルクル湖まで235kmを走行し、さらにペンジケントへと向かいます。最高地点は標高約3,370メートルのアンズボ峠で、通常は5月から10月まで開通していますが、大雪の後は閉鎖されることがあります。春と秋は山岳区間で最も安定した天候が期待できます。国境手続きと曲がりくねったアルプスドライブには丸一日を要することをお勧めします。",
+          "オイベク越えを通過した後、道路はゼラフシャン渓谷に沿ってペンジケントへと続きます。ペンジケントには標高約1,000メートルの場所に古代ソグド人の遺跡とルダキ博物館があります。ペンジケントからはハイウェイがセブンレイクス（ハフト・クル）へと登っていきます。セブンレイクスは標高1,600メートルから2,400メートルの間に位置する氷河湖の連なりで、続く60kmの砂利道と舗装道路に沿って現れます。ペンジケントから上部の湖までは乾燥した状態で約2時間のドライブです。夏の午後にはしばしば雷雨が発生するため、早めの出発が実用的です。湖はアンズボ峠への最終登坂前の一般的なピクニック停留所です。",
+          "アンゾブ峠を下ると、道はヴァルゾブ渓谷に入り、峠頂上から約3時間でドゥシャンベに到着します。タジク国境からドゥシャンベまでの総走行距離は約300kmで、国境手続きや写真撮影の停車を含め、通常7〜8時間かかります。ツアー12日目は、ペンジケントからフジェンドへ北へ向かい、オイベク国境を越えてタシュケントへ戻るルートで、460kmを走行します。燃料と物資はペンジケントと峠の茶屋で調達可能ですが、山岳区間には水を持参してください。標高2,500メートル以上では携帯電話の電波が不安定です。",
+          "ファイブスタンズ・イタineraryは、この山岳越えとサマルカンド、ブハラ、ヒヴァのシルクロード都市を13日目から18日目に結び、タシュケントからサマルカンドまでの夜行高速列車（2時間）と砂漠区間の専用車を利用します。タジキスタンとウズベキスタンのビザ規則はパスポートによって異なり変更される場合があるため、出発前に要件をご確認ください。アンゾブトンネルは峠が閉鎖される冬季の代替ルートで、約50kmの距離増となりますが、高所でのリスクを軽減できます。この区間は、山岳走行に精通したドライバー付きの専用車両をご予約ください。"
+        ],
+        "es": [
+          "La ruta desde Samarcanda hasta Dushanbe cruza a Tayikistán en el paso fronterizo de Oybek, cerca de Penjikent, y recorre unos 300 km desde la frontera hasta la capital a través de los montes Fan. Nuestro recorrido de 22 días Five Stans sigue este corredor en el Día 11, conduciendo 235 km desde Dushanbe hasta el lago Iskanderkul y luego hasta Penjikent. El punto más alto es el paso de Anzob, a unos 3.370 metros, que suele estar abierto de mayo a octubre, pero puede cerrar tras fuertes nevadas. La primavera y el otoño ofrecen el clima más fiable para los tramos de montaña. Se debe permitir un día completo para los trámites fronterizos y la sinuosa carretera alpina.",
+          "Tras pasar el cruce de Oybek, la carretera sigue el valle de Zerafshan hasta Penjikent, donde las ruinas antiguas sogdianas y el museo Rudaki se encuentran a unos 1.000 metros de altitud. Desde Penjikent, la carretera asciende hacia los Siete Lagos (Haft Kul), una cadena de lagos glaciares entre 1.600 y 2.400 metros que aparecen a lo largo de los siguientes 60 km de carretera de grava y pavimentada. El trayecto desde Penjikent hasta los lagos superiores dura unas 2 horas en condiciones secas. Las tardes de verano suelen traer tormentas, por lo que es práctico salir temprano. Los lagos son una parada común para hacer un picnic antes del ascenso final al paso de Anzob.",
+          "Al descender del paso de Anzob, la carretera baja hasta el desfiladero de Varzob y llega a Dushanbe en unas 3 horas desde la cima del paso. La distancia total en coche desde la frontera tayika hasta Dushanbe es de aproximadamente 300 km y suele requerir de 7 a 8 horas, incluido el tiempo en la frontera y las paradas para fotos. El día 12 de nuestro recorrido, la ruta continúa hacia el norte desde Penjikent hasta Khujand y regresa cruzando la frontera de Oybek hacia Taskent, recorriendo 460 km. Hay combustible y suministros en Penjikent y en la casa de té del paso, pero lleva agua para la sección de montaña. La cobertura móvil es irregular por encima de los 2.500 metros.",
+          "El itinerario de los Cinco Stanes une este cruce de montaña con las ciudades de la Ruta de la Seda de Samarcanda, Bujará y Jiva en los días 13 a 18, utilizando el tren de alta velocidad por la noche de Taskent a Samarcanda (2 horas) y coches privados para los tramos del desierto. Las reglas de visado para Tayikistán y Uzbekistán dependen de tu pasapuesto y pueden cambiar, así que verifica los requisitos antes de la salida. El túnel de Anzob ofrece una alternativa invernal cuando el paso está cerrado, añadiendo unos 50 km pero ahorrando exposición a la altitud. Reserva un vehículo privado con un conductor experimentado en condiciones de montaña para este sector."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Anzob Pass at 3,370 meters",
+          "Seven Lakes chain up to 2,400 meters",
+          "300 km border to Dushanbe drive"
+        ],
+        "de": [
+          "Anzob-Pass auf 3.370 Metern",
+          "Kette der Sieben Seen bis zu 2.400 Metern",
+          "300 km Fahrt von der Grenze nach Duschanbe"
+        ],
+        "fr": [
+          "Col d'Anzob à 3 370 mètres",
+          "Chaîne des Sept Lacs jusqu'à 2 400 mètres",
+          "Trajet de 300 km de la frontière à Douchanbé"
+        ],
+        "ja": [
+          "標高3,370メートルのアンゾブ峠",
+          "標高2,400メートルまでのセブンレイクス連峰",
+          "国境からドゥシャンベまでの300kmドライブ"
+        ],
+        "es": [
+          "Paso de Anzob a 3.370 metros",
+          "Cadena de los Siete Lagos hasta 2.400 metros",
+          "Conducción de 300 km desde la frontera hasta Dushanbe"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Driving distance",
+            "de": "Fahrstrecke",
+            "fr": "Distance de route",
+            "ja": "走行距離",
+            "es": "Distancia en coche"
+          },
+          "value": {
+            "en": "300 km border to Dushanbe",
+            "de": "300 km von der Grenze nach Duschanbe",
+            "fr": "300 km de la frontière à Douchanbé",
+            "ja": "国境からドゥシャンベまで300km",
+            "es": "300 km desde la frontera hasta Dushanbe"
+          }
+        },
+        {
+          "label": {
+            "en": "Pass altitude",
+            "de": "Passhöhe",
+            "fr": "Altitude du col",
+            "ja": "峠の標高",
+            "es": "Altitud del paso"
+          },
+          "value": {
+            "en": "3,370 meters",
+            "de": "3.370 Meter",
+            "fr": "3 370 mètres",
+            "ja": "3,370メートル",
+            "es": "3.370 metros"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days / 21 Nights",
+            "de": "22 Tage / 21 Nächte",
+            "fr": "22 jours / 21 nuits",
+            "ja": "22日間 / 21泊",
+            "es": "22 días / 21 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "Ab $3490 USD / Person",
+            "fr": "À partir de $3490 USD / personne",
+            "ja": "$3490 USD〜 / 1名",
+            "es": "Desde $3490 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400025/sunday-atlas/tash-rabat-in-kyrgyzstan-17533368_xht6ol.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Tash-Rabat, the 15th-century stone caravanserai in Naryn region, Kyrgyzstan",
+          "de": "Tasch-Rabat, die steinerne Karawanserei aus dem 15. Jahrhundert in der Region Naryn, Kirgistan",
+          "fr": "Tash-Rabat, caravansérail de pierre du XVe siècle, région de Naryn, Kirghizistan",
+          "ja": "ナリン州にある15世紀の石造りの隊商宿タシュ・ラバト（キルギス）",
+          "es": "Tash-Rabat, caravasar de piedra del siglo XV en la región de Naryn, Kirguistán"
+        },
+        "caption": {
+          "en": "Dushanbe",
+          "de": "Duschanbe",
+          "fr": "Douchanbé",
+          "ja": "ドゥシャンベ",
+          "es": "Dushanbe"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    },
+    {
+      "id": "bishkek-to-samarkand-connection",
+      "placeName": {
+        "en": "Bishkek",
+        "de": "Bischkek",
+        "fr": "Bichkek",
+        "ja": "ビシュケク",
+        "es": "Biskek"
+      },
+      "heading": {
+        "en": "Connecting from Bishkek to Samarkand",
+        "de": "Anbindung von Bischkek nach Samarkand",
+        "fr": "Connexion de Bichkek à Samarcande",
+        "ja": "ビシュケクからサマルカンドへの接続",
+        "es": "Conexión desde Biskek a Samarcanda"
+      },
+      "paragraphs": {
+        "en": [
+          "Our 14-day and 18-day tours connect Bishkek to Samarkand with an evening flight to Tashkent that takes about 1 hour 40 minutes, followed by an evening high-speed train to Samarkand covering roughly 300 km in about 2 hours 10 minutes. The flight typically departs Bishkek after 18:00 and arrives in Tashkent before 20:00 local time, allowing a same-evening transfer to the railway station. The Afrosiyob train runs year-round and offers comfortable second-class seating with power outlets. Spring (April–May) and autumn (September–October) provide the most reliable schedules and pleasant temperatures for the onward journey. Booking the flight and train as a single sequence avoids an overnight hotel in Tashkent and keeps the itinerary moving.",
+          "On Day 7 of the 14-day tour the group flies from Bishkek to Tashkent in the evening, and on Day 8 boards the evening train to Samarkand, arriving in time for dinner. The 18-day tour follows the same pattern after additional days in Kyrgyzstan’s Issyk-Kul region. Both itineraries use the same flight window and train service, so the connection is consistent regardless of tour length. Luggage is transferred directly from the aircraft to the train platform by our driver, eliminating the need to handle bags in the Tashkent terminal. Travelers should keep passports accessible for the domestic flight check-in and the train boarding control.",
+          "The Bishkek–Tashkent flight operates daily in the peak seasons of April–June and September–October, with reduced frequency in July–August and November–March. Winter fog in Tashkent can occasionally delay the evening departure, so we build a buffer into the schedule and monitor the flight status on the day of travel. The high-speed train from Tashkent to Samarkand runs on a fixed timetable with departures around 19:00 and 20:00, arriving in Samarkand around 21:10 or 22:10. Seats are reserved in advance and tickets are issued electronically. A light meal is served on board, and the carriage temperature is regulated for comfort.",
+          "Arriving in Samarkand by train places you within a short drive of the Registan, Gur-e Amir and Shah-i-Zinda, so the first full day of sightseeing can begin early the next morning. The railway station is about 6 km from the historic center, a 15-minute transfer by private car. Our guides meet the train on the platform and assist with the walk to the vehicle. This arrival method is used on both the 14-day and 18-day tours and avoids the longer daytime road journey from Tashkent. Travelers carrying only a day bag for the train ride find the transition especially smooth."
+        ],
+        "de": [
+          "Unsere 14-tägigen und 18-tägigen Touren verbinden Bischkek mit Samarkand durch einen Abendflug nach Taschkent, der etwa 1 Stunde 40 Minuten dauert, gefolgt von einem abendlichen Hochgeschwindigkeitszug nach Samarkand, der rund 300 km in etwa 2 Stunden 10 Minuten zurücklegt. Der Flug startet in der Regel nach 18:00 Uhr in Bischkek und kommt vor 20:00 Uhr Ortszeit in Taschkent an, was einen Transfer zum Bahnhof am selben Abend ermöglicht. Der Zug Afrosiyob verkehrt ganzjährig und bietet komfortable Sitzplätze der zweiten Klasse mit Stromanschlüssen. Frühling (April–Mai) und Herbst (September–Oktober) bieten die zuverlässigsten Fahrpläne und angenehme Temperaturen für die Weiterreise. Die Buchung von Flug und Zug als eine Einheit vermeidet eine Übernachtung in Taschkent und hält die Reiseroute in Bewegung.",
+          "Am Tag 7 der 14-tägigen Tour fliegt die Gruppe am Abend von Bischkek nach Taschkent und besteigt am Tag 8 den Abendzug nach Samarkand, der rechtzeitig zum Abendessen ankommt. Die 18-tägige Tour folgt demselben Muster nach zusätzlichen Tagen in der Region Issyk-Kul in Kirgisistan. Beide Reiserouten nutzen dasselbe Flugzeitfenster und denselben Zugdienst, sodass die Verbindung unabhängig von der Reisedauer konsistent ist. Das Gepäck wird von unserem Fahrer direkt vom Flugzeug zum Bahnsteig gebracht, sodass Sie Ihre Taschen im Terminal von Taschkent nicht selbst handhaben müssen. Reisende sollten ihre Pässe für den Check-in beim Inlandsflug und die Kontrolle beim Einsteigen in den Zug griffbereit halten.",
+          "Der Flug von Bischkek nach Taschkent verkehrt täglich in der Hauptsaison von April bis Juni und September bis Oktober, mit reduzierter Frequenz von Juli bis August und November bis März. Winternebel in Taschkent kann gelegentlich die Abendabreise verzögern, daher bauen wir einen Puffer in den Zeitplan ein und überwachen den Flugstatus am Reisetag. Der Hochgeschwindigkeitszug von Taschkent nach Samarkand fährt nach einem festen Fahrplan mit Abfahrten um etwa 19:00 und 20:00 Uhr und kommt in Samarkand um etwa 21:10 oder 22:10 Uhr an. Die Plätze werden im Voraus reserviert und die Tickets elektronisch ausgestellt. An Bord wird eine leichte Mahlzeit serviert, und die Temperatur im Waggon wird für Komfort reguliert.",
+          "Die Ankunft in Samarkand mit dem Zug bringt Sie in kurze Fahrdistanz zum Registan, Gur-e Amir und Shah-i-Zinda, sodass der erste volle Tag der Besichtigung früh am nächsten Morgen beginnen kann. Der Bahnhof liegt etwa 6 km vom historischen Zentrum entfernt, ein 15-minütiger Transfer mit dem privaten Auto. Unsere Guides treffen den Zug auf dem Bahnsteig und begleiten Sie zum Fahrzeug. Diese Ankunftsmethode wird sowohl bei den 14-tägigen als auch bei den 18-tägigen Touren verwendet und vermeidet die längere Tagesreise auf der Straße von Taschkent. Reisende, die nur eine Tagesreise für die Zugfahrt mitnehmen, finden den Übergang besonders reibungslos."
+        ],
+        "fr": [
+          "Nos circuits de 14 et 18 jours relient Bichkek à Samarcande par un vol du soir vers Tachkent d'environ 1 heure 40 minutes, suivi d'un train grande vitesse du soir vers Samarcande couvrant environ 300 km en environ 2 heures 10 minutes. Le vol décolle généralement de Bichkek après 18:00 et arrive à Tachkent avant 20:00 heure locale, permettant un transfert le soir même vers la gare. Le train Afrosiyob circule toute l'année et propose des sièges confortables en seconde classe avec prises de courant. Le printemps (avril-mai) et l'automne (septembre-octobre) offrent les horaires les plus fiables et des températures agréables pour la suite du voyage. Réserver le vol et le train en une seule séquence évite une nuit d'hôtel à Tachkent et maintient l'itinéraire en mouvement.",
+          "Le jour 7 du circuit de 14 jours, le groupe vole de Bichkek à Tachkent le soir, et le jour 8 embarque dans le train du soir pour Samarcande, arrivant à temps pour le dîner. Le circuit de 18 jours suit le même schéma après des jours supplémentaires dans la région d'Issyk-Kul au Kirghizistan. Les deux itinéraires utilisent la même fenêtre de vol et le même service de train, donc la connexion est constante quelle que soit la durée du circuit. Les bagages sont transférés directement de l'avion au quai de la gare par notre chauffeur, éliminant le besoin de manipuler les sacs dans le terminal de Tachkent. Les voyageurs doivent garder leurs passeports à portée de main pour l'enregistrement du vol intérieur et le contrôle d'embarquement du train.",
+          "Le vol Bichkek-Tachkent opère quotidiennement pendant les hautes saisons d'avril-juin et septembre-octobre, avec une fréquence réduite en juillet-août et novembre-mars. Le brouillard hivernal à Tachkent peut occasionnellement retarder le départ du soir, nous incluons donc une marge dans le planning et suivons le statut du vol le jour du voyage. Le train grande vitesse de Tachkent à Samarcande circule selon un horaire fixe avec des départs vers 19:00 et 20:00, arrivant à Samarcande vers 21:10 ou 22:10. Les sièges sont réservés à l'avance et les billets sont émis électroniquement. Un repas léger est servi à bord, et la température du wagon est régulée pour le confort.",
+          "Arriver à Samarcande en train vous place à une courte distance du Régistan, du Gur-e Amir et de Shah-i-Zinda, donc la première journée complète de visites peut commencer tôt le lendemain matin. La gare se trouve à environ 6 km du centre historique, un transfert de 15 minutes en voiture privée. Nos guides accueillent le train sur le quai et aident pour la marche jusqu'au véhicule. Ce mode d'arrivée est utilisé sur les circuits de 14 et 18 jours et évite le plus long trajet routier de jour depuis Tachkent. Les voyageurs ne portant qu'un sac de jour pour le trajet en train trouvent la transition particulièrement fluide."
+        ],
+        "ja": [
+          "14日間および18日間のツアーでは、ビシュケクからタシュケントまでの夜行フライト（約1時間40分）を利用し、その後、約300kmを約2時間10分で結ぶ夜行高速列車でサマルカンドへ向かいます。フライトは通常18:00以降にビシュケクを出発し、現地時間で20:00前にタシュケントに到着するため、同日のうちに鉄道駅へ移動可能です。アフロシヤブ号は年間を通じて運行され、コンセント付きの快適な二等席を提供します。春（4月〜5月）と秋（9月〜10月）は、ダイヤが安定しており、 onward journey に適した快適な気温です。フライトと列車を一連の手配として予約することで、タシュケントでの一泊ホテルが不要となり、旅程をスムーズに進められます。",
+          "14日間ツアーの7日目には、グループは夕方にビシュケクからタシュケントへ飛行し、8日目に夕方の列車でサマルカンドへ向かい、夕食の時間に到着します。18日間ツアーは、キルギスのイシククル地域での追加日程を経た後、同じパターンをたどります。両プランとも同じフライト時間帯と列車サービスを利用するため、ツアー期間に関わらず接続は一定です。手荷物は当社のドライバーが航空機から列車プラットフォームまで直接運搬するため、タシュケントのターミナルで荷物を扱う必要はありません。旅行者は、国内線チェックインと列車乗車時の検査のため、パスポートを手元に準備しておいてください。",
+          "ビシュケク〜タシュケント線は、4月〜6月と9月〜10月の繁忙期に毎日運航され、7月〜8月および11月〜3月は減便となります。タシュケントの冬の霧により夕方の出発が遅れることがあるため、スケジュールに余裕を持たせ、出発当日にフライト状況を確認しています。タシュケントからサマルカンドまでの高速列車は固定ダイヤで運行され、19:00頃と20:00頃に出発し、それぞれ21:10頃と22:10頃にサマルカンドに到着します。座席は事前に予約され、チケットは電子発行されます。車内では軽食が提供され、車両温度は快適に調整されています。",
+          "列車でサマルカンドに到着すれば、レギスタン広場、グール・エミール廟、シャーヒ・ズィンダまで短いドライブで移動でき、翌朝から観光を開始できます。鉄道駅は歴史地区から約6km、専用車で15分の移動です。当社のガイドがホームで列車を出迎え、車両までの移動をサポートします。この到着方法は14日間および18日間の両ツアーで採用されており、タシュケントからの長い昼間の道路移動を避けられます。列車内では日帰りバッグのみを持参する旅行者にとって、乗り換えは特にスムーズです。"
+        ],
+        "es": [
+          "Nuestros recorridos de 14 y 18 días conectan Biskek con Samarcande mediante un vuelo nocturno a Taskent que dura aproximadamente 1 hora 40 minutos, seguido de un tren de alta velocidad por la noche a Samarcande que recorre unos 300 km en aproximadamente 2 horas 10 minutos. El vuelo suele salir de Biskek después de las 18:00 y llega a Taskent antes de las 20:00 hora local, lo que permite un traslado el mismo día a la estación de tren. El tren Afrosiyob funciona durante todo el año y ofrece cómodos asientos de segunda clase con enchufes. La primavera (abril-mayo) y el otoño (septiembre-octubre) ofrecen los horarios más fiables y temperaturas agradables para el viaje posterior. Reservar el vuelo y el tren como una sola secuencia evita una noche de hotel en Taskent y mantiene el itinerario en movimiento.",
+          "El día 7 del recorrido de 14 días, el grupo vuela de Biskek a Taskent por la noche, y el día 8 aborda el tren nocturno a Samarcande, llegando a tiempo para la cena. El recorrido de 18 días sigue el mismo patrón después de días adicionales en la región de Issyk-Kul de Kirguistán. Ambos itinerarios utilizan la misma ventana de vuelo y servicio de tren, por lo que la conexión es consistente sin importar la duración del recorrido. Nuestro conductor transfiere el equipaje directamente del avión al andén del tren, eliminando la necesidad de manejar maletas en la terminal de Taskent. Los viajeros deben tener los pasaportes a mano para el registro del vuelo nacional y el control de abordaje del tren.",
+          "El vuelo de Biskek a Taskent opera diariamente en las temporadas altas de abril a junio y septiembre a octubre, con frecuencia reducida en julio-agosto y noviembre-marzo. La niebla invernal en Taskent puede retrasar ocasionalmente la salida nocturna, por lo que incluimos un margen en el horario y monitoreamos el estado del vuelo el día del viaje. El tren de alta velocidad de Taskent a Samarcande circula con un horario fijo con salidas alrededor de las 19:00 y las 20:00, llegando a Samarcande alrededor de las 21:10 o las 22:10. Los asientos se reservan con antelación y los billetes se emiten electrónicamente. Se sirve una comida ligera a bordo, y la temperatura del vagón se regula para mayor comodidad.",
+          "Llegar a Samarcande en tren te sitúa a poca distancia en coche del Registán, Gur-e Amir y Shah-i-Zinda, por lo que el primer día completo de visitas puede comenzar temprano a la mañana siguiente. La estación de tren está a unos 6 km del centro histórico, un traslado de 15 minutos en coche privado. Nuestros guías reciben el tren en el andén y ayudan con el camino hasta el vehículo. Este método de llegada se utiliza tanto en los recorridos de 14 como de 18 días y evita el viaje por carretera más largo durante el día desde Taskent. Los viajeros que llevan solo un bolso de mano para el trayecto en tren encuentran la transición especialmente fluida."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Evening flight plus evening train same day",
+          "300 km train ride in 2 hours 10 minutes",
+          "Used on 14-day and 18-day tours"
+        ],
+        "de": [
+          "Abendflug plus Abendzug am selben Tag",
+          "300 km Zugfahrt in 2 Stunden 10 Minuten",
+          "Verwendet auf 14-tägigen und 18-tägigen Touren"
+        ],
+        "fr": [
+          "Vol du soir plus train du soir le même jour",
+          "300 km en train en 2 heures 10 minutes",
+          "Utilisé sur les circuits de 14 et 18 jours"
+        ],
+        "ja": [
+          "同日、夕方のフライトと夕方の列車",
+          "300 kmの列車移動を2時間10分で",
+          "14日間および18日間のツアーで利用"
+        ],
+        "es": [
+          "Vuelo nocturno más tren nocturno el mismo día",
+          "300 km en tren en 2 horas 10 minutos",
+          "Usado en tours de 14 y 18 días"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Flight time",
+            "de": "Flugzeit",
+            "fr": "Temps de vol",
+            "ja": "フライト時間",
+            "es": "Tiempo de vuelo"
+          },
+          "value": {
+            "en": "1 hour 40 minutes",
+            "de": "1 Stunde 40 Minuten",
+            "fr": "1 heure 40 minutes",
+            "ja": "1時間40分",
+            "es": "1 hora 40 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Train time",
+            "de": "Zugzeit",
+            "fr": "Temps de train",
+            "ja": "列車時間",
+            "es": "Tiempo en tren"
+          },
+          "value": {
+            "en": "2 hours 10 minutes",
+            "de": "2 Stunden 10 Minuten",
+            "fr": "2 heures 10 minutes",
+            "ja": "2時間10分",
+            "es": "2 horas 10 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "14 Days / 13 Nights",
+            "de": "14 Tage / 13 Nächte",
+            "fr": "14 jours / 13 nuits",
+            "ja": "14日間 / 13泊",
+            "es": "14 días / 13 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $2643 USD / person",
+            "de": "Ab $2643 USD / Person",
+            "fr": "À partir de $2643 USD / personne",
+            "ja": "$2643 USD〜 / 1名",
+            "es": "Desde $2643 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400023/sunday-atlas/landscape-of-the-charyn-canyon-in-kazakhstan-15792410_a6jkdl.jpg",
+        "width": 1920,
+        "height": 2880,
+        "alt": {
+          "en": "Charyn Canyon in Kazakhstan, red sandstone cliffs and the canyon floor under a blue sky",
+          "de": "Scharyn-Canyon in Kasachstan, rote Sandsteinfelsen unter blauem Himmel",
+          "fr": "Canyon de Charyn au Kazakhstan, falaises de grès rouge sous un ciel bleu",
+          "ja": "カザフスタンのチャリン渓谷、青空の下の赤い砂岩の崖",
+          "es": "Cañón de Charyn en Kazajistán, acantilados de arenisca roja bajo el cielo azul"
+        },
+        "caption": {
+          "en": "Bishkek",
+          "de": "Bischkek",
+          "fr": "Bichkek",
+          "ja": "ビシュケク",
+          "es": "Biskek"
+        }
+      },
+      "embeddedPackageSlug": "3-stans-discovery-14-days"
+    },
+    {
+      "id": "best-months-and-booking-notes",
+      "placeName": {
+        "en": "Samarkand",
+        "de": "Samarkand",
+        "fr": "Samarcande",
+        "ja": "サマルカンド",
+        "es": "Samarcanda"
+      },
+      "heading": {
+        "en": "Best Months to Travel and How to Book a Private Day Trip",
+        "de": "Beste Reisezeit und Buchung einer privaten Tagesreise",
+        "fr": "Meilleure période pour voyager et comment réserver une excursion privée d'une journée",
+        "ja": "ベストシーズンとプライベート日帰りツアーの予約方法",
+        "es": "Los mejores meses para viajar y cómo reservar una excursión privada de un día"
+      },
+      "paragraphs": {
+        "en": [
+          "March to June and September to November bring daytime highs between 15 and 25 degrees Celsius, making walking tours of Registan Square and the Ark Citadel comfortable without early starts. The Afrosiyob high-speed train covers the 300 km between Tashkent and Samarkand in about 2 hours 10 minutes each way, leaving a full day for guided visits. Summer heat often pushes temperatures above 35 degrees by midday, so our private day tour begins with the 7:00 am departure from Tashkent station to maximize cooler morning hours. Winter days stay near freezing but all major monuments remain open and far less crowded. We confirm an English-speaking guide and pre-booked train seats when you reserve the tour.",
+          "The one-day private tour from Tashkent includes round-trip economy tickets on the Afrosiyob or Sharq train, a private air-conditioned vehicle and driver in Samarkand, and all entrance fees for Gur-e-Amir, Registan Square, Bibi-Khanym Mosque, Shah-i-Zinda and the Ulugh Beg Observatory. Your guide meets you on the platform at Samarkand station and the itinerary follows a logical south-to-north route through the historic center. Lunch is arranged at a local restaurant near Siyob Bazaar, and bottled water is provided throughout the day. The return train typically departs Samarkand in the late afternoon, arriving back in Tashkent by early evening.",
+          "For travelers already in Samarkand who want a day trip to Bukhara, the private car journey covers about 270 km and takes roughly 4 hours each way on the M37 highway, so an early 6:00 am departure is necessary to allow 6 to 7 hours for Lyabi-Hauz, Po-i-Kalyan and the Ark Citadel. The alternative high-speed train connection requires a change in Tashkent and extends total travel time to over 6 hours, making the direct drive more practical for a single day. Spring and autumn mornings are cool and the desert landscape along the route is especially clear for photography. Winter fog can occasionally delay the highway crossing near the Amudarya River.",
+          "We operate the Samarkand day tour year-round but recommend booking at least four weeks ahead for spring and autumn dates when train seats sell quickly. Visa requirements depend on your passport and can change, so check official government sources before confirming travel dates. Our tours reach Uzbekistan by air from Bishkek or by land from Tajikistan, and we coordinate the Samarkand day trip as a standalone module or as part of a longer Central Asia itinerary. The private format means the start time and pace can be adjusted to your arrival schedule in Tashkent."
+        ],
+        "de": [
+          "März bis Juni und September bis November bringen Tageshöchstwerte zwischen 15 und 25 Grad Celsius, sodass Spaziergänge über den Registan-Platz und zur Ark-Zitadelle ohne frühe Aufbrüche angenehm sind. Der Hochgeschwindigkeitszug Afrosiyob legt die 300 km zwischen Taschkent und Samarkand in etwa 2 Stunden 10 Minuten pro Richtung zurück und lässt einen ganzen Tag für geführte Besichtigungen. Die Sommerhitze treibt die Temperaturen oft mittags über 35 Grad, daher beginnt unsere private Tagestour mit der Abfahrt um 7:00 Uhr vom Bahnhof Taschkent, um die kühleren Morgenstunden zu nutzen. Wintertage liegen nahe dem Gefrierpunkt, aber alle wichtigen Denkmäler bleiben geöffnet und sind deutlich weniger überlaufen. Wir bestätigen einen englischsprachigen Guide und vorab gebuchte Zugplätze, wenn Sie die Tour reservieren.",
+          "Die eintägige private Tour ab Taschkent umfasst Hin- und Rückfahrkarten in der Economy-Klasse im Zug Afrosiyob oder Sharq, ein privates klimatisiertes Fahrzeug mit Fahrer in Samarkand sowie alle Eintrittsgelder für Gur-e-Amir, den Registan-Platz, die Bibi-Khanym-Moschee, Shah-i-Zinda und die Ulugh-Beg-Sternwarte. Ihr Guide erwartet Sie auf dem Bahnsteig am Bahnhof Samarkand, und die Reiseroute folgt einer logischen Route von Süden nach Norden durch das historische Zentrum. Das Mittagessen wird in einem Restaurant in der Nähe des Siyob-Basars arrangiert, und Flaschenwasser wird den ganzen Tag über bereitgestellt. Der Rückzug fährt in der Regel am späten Nachmittag von Samarkand ab und erreicht Taschkent am frühen Abend.",
+          "Für Reisende, die bereits in Samarkand sind und einen Tagesausflug nach Bukhara unternehmen möchten, beträgt die private Autofahrt etwa 270 km und dauert in jede Richtung ungefähr 4 Stunden auf der M37-Autobahn, sodass eine frühe Abfahrt um 6:00 Uhr notwendig ist, um 6 bis 7 Stunden für Lyabi-Hauz, Po-i-Kalyan und die Ark-Zitadelle einzuplanen. Die alternative Hochgeschwindigkeitszugverbindung erfordert einen Umstieg in Taschkent und verlängert die Gesamtreisezeit auf über 6 Stunden, wodurch die direkte Fahrt für einen einzigen Tag praktischer ist. Frühlinge und Herbstmorgen sind kühl, und die Wüstenlandschaft entlang der Strecke ist besonders klar für Fotografien. Winternebel kann gelegentlich die Autobahnüberquerung in der Nähe des Amudarya-Flusses verzögern.",
+          "Wir bieten die Samarkand-Tagestour ganzjährig an, empfehlen jedoch, mindestens vier Wochen im Voraus für Frühjahrs- und Herbsttermine zu buchen, wenn sich die Zugplätze schnell verkaufen. Die Visabestimmungen hängen von Ihrem Reisepass ab und können sich ändern, daher prüfen Sie offizielle Regierungsquellen, bevor Sie Reisedaten bestätigen. Unsere Touren erreichen Usbekistan per Flug ab Bischkek oder auf dem Landweg von Tadschikistan aus, und wir koordinieren den Samarkand-Tagesausflug als eigenständiges Modul oder als Teil einer längeren Zentralasien-Reiseroute. Das private Format bedeutet, dass die Startzeit und das Tempo an Ihren Ankunftsplan in Taschkent angepasst werden können."
+        ],
+        "fr": [
+          "De mars à juin et de septembre à novembre, les maximales diurnes oscillent entre 15 et 25 degrés Celsius, ce qui rend les visites à pied de la place du Registan et de la citadelle de l'Ark agréables sans départs matinaux. Le train à grande vitesse Afrosiyob parcourt les 300 km entre Tachkent et Samarcande en environ 2 heures 10 minutes chaque sens, laissant une journée entière pour des visites guidées. La chaleur estivale fait souvent grimper les températures au-dessus de 35 degrés à midi, aussi notre excursion privée d'une journée commence par le départ de 7h00 de la gare de Tachkent pour profiter des heures matinales plus fraîches. Les journées d'hiver restent proches du point de congélation, mais tous les grands monuments restent ouverts et bien moins fréquentés. Nous confirmons un guide anglophone et des places de train pré-réservées lorsque vous réservez le circuit.",
+          "L'excursion privée d'une journée depuis Tachkent comprend les billets aller-retour en classe économique sur le train Afrosiyob ou Sharq, un véhicule climatisé privé avec chauffeur à Samarcande, et tous les droits d'entrée pour Gur-e-Amir, la place du Registan, la mosquée Bibi-Khanym, Shah-i-Zinda et l'observatoire d'Oulough Beg. Votre guide vous attend sur le quai de la gare de Samarcande et l'itinéraire suit un itinéraire logique du sud au nord à travers le centre historique. Le déjeuner est organisé dans un restaurant local près du bazar de Siyob, et de l'eau en bouteille est fournie tout au long de la journée. Le train de retour quitte généralement Samarcande en fin d'après-midi, arrivant à Tachkent en début de soirée.",
+          "Pour les voyageurs déjà à Samarcande qui souhaitent une excursion d'une journée à Boukhara, le trajet en voiture privée couvre environ 270 km et prend environ 4 heures chaque sens sur l'autoroute M37, donc un départ tôt à 6h00 est nécessaire pour permettre 6 à 7 heures pour Lyabi-Hauz, Po-i-Kalyan et la citadelle de l'Ark. L'alternative du train à grande vitesse nécessite un changement à Tachkent et porte le temps de trajet total à plus de 6 heures, rendant la conduite directe plus pratique pour une seule journée. Les matins de printemps et d'automne sont frais et le paysage désertique le long de la route est particulièrement clair pour la photographie. Le brouillard hivernal peut occasionnellement retarder le passage de l'autoroute près du fleuve Amou-Daria.",
+          "Nous exploitons l'excursion d'une journée à Samarcande toute l'année mais recommandons de réserver au moins quatre semaines à l'avance pour les dates de printemps et d'automne, lorsque les places de train se vendent rapidement. Les exigences de visa dépendent de votre passeport et peuvent changer, alors consultez les sources gouvernementales officielles avant de confirmer vos dates de voyage. Nos circuits atteignent l'Ouzbékistan par avion depuis Bichkek ou par voie terrestre depuis le Tadjikistan, et nous coordonnons l'excursion d'une journée à Samarcande comme module indépendant ou dans le cadre d'un itinéraire plus long en Asie centrale. Le format privé signifie que l'heure de départ et le rythme peuvent être ajustés à votre horaire d'arrivée à Tachkent."
+        ],
+        "ja": [
+          "3月から6月、9月から11月は日中の最高気温が15度から25度となり、レギスタン広場やアルク城塞のウォーキングツアーを早朝からの出発なしで快適に楽しめます。アフロシヤブ高速列車はタシケントとサマルカンド間の300 kmを片道約2時間10分で結び、ガイド付き訪問に丸一日を割くことができます。夏の暑さは正午までに35度を超えることが多いため、当社のプライベート日帰りツアーはタシケント駅発7:00の列車で出発し、涼しい午前中を最大限に活用します。冬の日中は氷点近くになりますが、主要な記念碑はすべて開いており、はるかに混雑が少ないです。ツアーをご予約いただくと、英語を話すガイドと事前予約済みの列車席を手配いたします。",
+          "タシケント発の一日プライベートツアーには、アフロシヤブまたはシャルク列車の往復エコノミーチケット、サマルカンドでのプライベートエアコン付き車両とドライバー、グル・エ・アミール、レギスタン広場、ビビ・ハニム・モスク、シャー・イ・ジンダ、ウルグ・ベク天文台のすべての入場料が含まれます。ガイドがサマルカンド駅のプラットフォームでお出迎えし、行程は歴史地区を南北に論理的に巡るルートとなります。昼食はシヨブ・バザール近くの地元レストランで手配し、一日中ボトル入りの水をご用意いたします。帰路の列車は通常サマルカンドを午後遅くに出発し、早 evening にタシケントに到着します。",
+          "サマルカンドに滞在中でブハラへの日帰り旅行をご希望の方には、プライベートカーでの移動が約270 km、M37ハイウェイを片道約4時間かかります。6:00の早朝出発が必要で、リャビ・ハウズ、ポーイ・カリャン、アルク城塞に6〜7時間を割くことができます。代替の高速列車接続はタシケントでの乗り換えを必要とし、総移動時間が6時間を超えるため、一日旅行には直接のドライブがより実用的です。春と秋の朝は涼しく、ルート沿いの砂漠の風景は写真撮影に特に適しています。冬はアムダリヤ川近くの高速道路横断で霧が発生し、時折遅延することがあります。",
+          "サマルカンド日帰りツアーは年間を通じて運行していますが、列車の席がすぐに埋まる春と秋の日付は、少なくとも4週間前のご予約をお勧めします。ビザ要件はパスポートによって異なり変更される可能性があるため、旅行日程を確定する前に公式政府情報源をご確認ください。当社のツアーはビシュケクから空路、またはタジキスタンから陸路でウズベキスタンに到達し、サマルカンド日帰り旅行を単独モジュールとして、またはより長い中央アジアの旅程の一部として調整いたします。プライベート形式のため、タシケントでの到着スケジュールに合わせて出発時刻とペースを調整可能です。"
+        ],
+        "es": [
+          "De marzo a junio y de septiembre a noviembre, las máximas diurnas oscilan entre 15 y 25 grados Celsius, lo que hace cómodos los recorridos a pie por la Plaza Registán y la Ciudadela Ark sin necesidad de madrugar. El tren de alta velocidad Afrosiyob recorre los 300 km entre Taskent y Samarcanda en unas 2 horas 10 minutos por trayecto, dejando un día completo para visitas guiadas. El calor del verano suele superar los 35 grados al mediodía, por lo que nuestro tour privado de un día comienza con la salida a las 7:00 de la mañana desde la estación de Taskent para aprovechar las horas más frescas de la mañana. Los días de invierno se mantienen cerca del punto de congelación, pero todos los monumentos principales siguen abiertos y están mucho menos concurridos. Confirmamos un guía de habla inglesa y los asientos de tren reservados cuando reserva el tour.",
+          "El tour privado de un día desde Taskent incluye boletos de ida y vuelta en clase económica en el tren Afrosiyob o Sharq, un vehículo privado con aire acondicionado y conductor en Samarcanda, y todas las entradas para Gur-e-Amir, la Plaza Registán, la Mezquita Bibi-Khanym, Shah-i-Zinda y el Observatorio de Ulugh Beg. Su guía lo recibe en el andén de la estación de Samarcanda y el itinerario sigue una ruta lógica de sur a norte por el centro histórico. El almuerzo se organiza en un restaurante local cerca del Bazar Siyob, y se proporciona agua embotellada durante todo el día. El tren de regreso suele salir de Samarcanda a última hora de la tarde, llegando de vuelta a Taskent a primera hora de la noche.",
+          "Para viajeros que ya están en Samarcanda y desean una excursión de un día a Bujará, el viaje en coche privado cubre unos 270 km y toma aproximadamente 4 horas por trayecto por la carretera M37, por lo que es necesario salir temprano, a las 6:00 de la mañana, para permitir 6 a 7 horas para Lyabi-Hauz, Po-i-Kalyan y la Ciudadela Ark. La alternativa del tren de alta velocidad requiere un cambio en Taskent y extiende el tiempo total de viaje a más de 6 horas, lo que hace que el trayecto directo sea más práctico para un solo día. Las mañanas de primavera y otoño son frescas y el paisaje desértico a lo largo de la ruta es especialmente claro para la fotografía. La niebla invernal puede retrasar ocasionalmente el cruce de la carretera cerca del río Amudarya.",
+          "Operamos el tour de un día a Samarcanda durante todo el año, pero recomendamos reservar con al menos cuatro semanas de antelación para las fechas de primavera y otoño, cuando los asientos de tren se agotan rápidamente. Los requisitos de visa dependen de su pasaporte y pueden cambiar, así que consulte fuentes oficiales del gobierno antes de confirmar las fechas de viaje. Nuestros tours llegan a Uzbekistán por aire desde Biskek o por tierra desde Tayikistán, y coordinamos la excursión de un día a Samarcanda como un módulo independiente o como parte de un itinerario más largo por Asia Central. El formato privado permite ajustar la hora de inicio y el ritmo a su horario de llegada a Taskent."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Afrosiyob train covers 300 km in 2 hours 10 minutes",
+          "Private car to Bukhara is 270 km each way",
+          "Best months are March to June and September to November"
+        ],
+        "de": [
+          "Afrosiyob-Zug legt 300 km in 2 Stunden 10 Minuten zurück",
+          "Privates Auto nach Bukhara ist 270 km pro Strecke",
+          "Beste Monate sind März bis Juni und September bis November"
+        ],
+        "fr": [
+          "Le train Afrosiyob parcourt 300 km en 2 heures 10 minutes",
+          "Voiture privée pour Boukhara : 270 km chaque sens",
+          "Meilleurs mois : mars à juin et septembre à novembre"
+        ],
+        "ja": [
+          "アフロシヤブ列車が300 kmを2時間10分で走破",
+          "ブハラ行きプライベートカーは片道270 km",
+          "ベストシーズンは3月から6月、9月から11月"
+        ],
+        "es": [
+          "El tren Afrosiyob recorre 300 km en 2 horas 10 minutos",
+          "Coche privado a Bujará: 270 km por trayecto",
+          "Los mejores meses son de marzo a junio y de septiembre a noviembre"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Train duration",
+            "de": "Zugdauer",
+            "fr": "Durée du train",
+            "ja": "列車所要時間",
+            "es": "Duración del tren"
+          },
+          "value": {
+            "en": "2 hours 10 minutes each way",
+            "de": "2 Stunden 10 Minuten pro Strecke",
+            "fr": "2 heures 10 minutes chaque sens",
+            "ja": "片道2時間10分",
+            "es": "2 horas 10 minutos por trayecto"
+          }
+        },
+        {
+          "label": {
+            "en": "Drive to Bukhara",
+            "de": "Fahrt nach Bukhara",
+            "fr": "Trajet jusqu'à Boukhara",
+            "ja": "ブハラまでのドライブ",
+            "es": "Trayecto a Bujará"
+          },
+          "value": {
+            "en": "270 km about 4 hours",
+            "de": "270 km etwa 4 Stunden",
+            "fr": "270 km environ 4 heures",
+            "ja": "270 km 約4時間",
+            "es": "270 km, unas 4 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $280 USD / person",
+            "de": "Ab $280 USD / Person",
+            "fr": "À partir de $280 USD / personne",
+            "ja": "$280 USD〜 / 1名",
+            "es": "Desde $280 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793902128/sunday-atlas/blog/uzbekistan-itinerary-10-days/samarkand-commons-202544479.jpg",
+        "width": 1920,
+        "height": 1440,
+        "alt": {
+          "en": "A tiled portal in Samarkand, Uzbekistan, with blue and gold mosaic patterns and a dark doorway.",
+          "de": "Ein gefliestes Portal in Samarkand, Usbekistan, mit blauen und goldenen Mosaikmustern und einem dunklen Eingang.",
+          "fr": "Un portail carrelé à Samarcande, en Ouzbékistan, avec des motifs de mosaïque bleue et dorée et une entrée sombre.",
+          "ja": "サマルカンド、ウズベキスタンのタイル張りのポータル。青と金のモザイク模様と暗い入り口。",
+          "es": "Un portal de azulejos en Samarcanda, Uzbekistán, con patrones de mosaico azul y dorado y un portalón oscuro."
+        },
+        "credit": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tuman_Oko_complex,_Samarkand_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%A2%D1%83%D0%BC%D0%B0%D0%BD_%D0%9E%D0%BA%D0%BE,_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4,_2025).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Samarkand",
+          "de": "Samarkand",
+          "fr": "Samarcande",
+          "ja": "サマルカンド",
+          "es": "Samarcanda"
+        }
+      },
+      "embeddedPackageSlug": "samarkand-day-tour-by-afrosiyob-train"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How to get from Tashkent to Samarkand",
+        "de": "Wie kommt man von Taschkent nach Samarkand",
+        "fr": "Comment se rendre de Tachkent à Samarcande",
+        "ja": "タシケントからサマルカンドへの行き方",
+        "es": "Cómo ir de Taskent a Samarcanda"
+      },
+      "a": {
+        "en": "The Afrosiyob high-speed train covers the 300 km route in about 2 hours with several daily departures; our private day tour includes round-trip train tickets, station transfers, a guide, car and entrance tickets in Samarkand.",
+        "de": "Der Afrosiyob-Hochgeschwindigkeitszug legt die 300 km lange Strecke in etwa 2 Stunden zurück, mit mehreren täglichen Abfahrten; unsere private Tagestour umfasst Hin- und Rückfahrkarten für den Zug, Transfers zum Bahnhof, einen Guide, ein Auto und Eintrittskarten in Samarkand.",
+        "fr": "Le train à grande vitesse Afrosiyob parcourt les 300 km en environ 2 heures, avec plusieurs départs quotidiens ; notre excursion privée d'une journée inclut les billets de train aller-retour, les transferts depuis et vers la gare, un guide, une voiture et les billets d'entrée à Samarcande.",
+        "ja": "アフロシヤブ高速列車は300 kmのルートを約2時間で結び、1日数便運行しています。当社のプライベート日帰りツアーには、往復列車チケット、駅送迎、ガイド、車、サマルカンドの入場チケットが含まれています。",
+        "es": "El tren de alta velocidad Afrosiyob recorre los 300 km en unas 2 horas, con varias salidas diarias; nuestro tour privado de día incluye billetes de tren de ida y vuelta, traslados en la estación, un guía, coche y entradas en Samarcanda."
+      }
+    },
+    {
+      "q": {
+        "en": "How to get from Samarkand to Dushanbe",
+        "de": "Wie kommt man von Samarkand nach Duschanbe",
+        "fr": "Comment se rendre de Samarcande à Douchanbé",
+        "ja": "サマルカンドからドゥシャンベへの行き方",
+        "es": "Cómo ir de Samarcanda a Dushanbe"
+      },
+      "a": {
+        "en": "Drive 180 km to the Jartepa border near Penjikent, cross into Tajikistan (visa on arrival for many nationalities), then continue about 300 km via the Seven Lakes and Anzob Pass to Dushanbe, typically a full day with stops.",
+        "de": "Fahren Sie 180 km zum Grenzübergang Jartepa bei Penjikent, überqueren Sie die Grenze nach Tadschikistan (Visum bei Ankunft für viele Nationalitäten), und setzen Sie die Reise etwa 300 km über die Sieben Seen und den Anzob-Pass nach Duschanbe fort, in der Regel ein ganzer Tag mit Zwischenstopps.",
+        "fr": "Parcourez 180 km jusqu'au poste frontière de Jartepa, près de Pendjikent, passez au Tadjikistan (visa à l'arrivée pour de nombreuses nationalités), puis continuez sur environ 300 km via les Sept Lacs et le col d'Anzob jusqu'à Douchanbé, généralement une journée complète avec arrêts.",
+        "ja": "ペンジケント近郊のジャルテパ国境まで180 kmを車で移動し、タジキスタンへ国境を越えます（多くの国籍の方は到着ビザ取得可能）。その後、セブンレイクスとアンゾブ峠を経由して約300 kmをドゥシャンベまで進み、通常は立ち寄りを含めて1日かかります。",
+        "es": "Conduce 180 km hasta el paso fronterizo de Jartepa, cerca de Penjikent, cruza a Tayikistán (visado a la llegada para muchas nacionalidades) y continúa unos 300 km a través de los Siete Lagos y el paso de Anzob hasta Dushanbe, normalmente un día completo con paradas."
+      }
+    },
+    {
+      "q": {
+        "en": "How to get from Samarkand to Panjakent",
+        "de": "Wie kommt man von Samarkand nach Pendschikent",
+        "fr": "Comment se rendre de Samarcande à Pendjikent",
+        "ja": "サマルカンドからパンジャケントへの行き方",
+        "es": "Cómo ir de Samarcanda a Panjakent"
+      },
+      "a": {
+        "en": "A private car covers the 180 km to the Jartepa border post in about 3 hours; after border formalities you enter Penjikent, the gateway to the Seven Lakes and the Fan Mountains in Tajikistan.",
+        "de": "Ein privates Auto legt die 180 km zum Grenzposten Jartepa in etwa 3 Stunden zurück; nach den Grenzformalitäten gelangen Sie nach Penjikent, dem Tor zu den Sieben Seen und den Fan-Bergen in Tadschikistan.",
+        "fr": "Une voiture privée parcourt les 180 km jusqu'au poste frontière de Jartepa en environ 3 heures ; après les formalités de frontière, vous arrivez à Pendjikent, la porte d'entrée des Sept Lacs et des monts Fan au Tadjikistan.",
+        "ja": "プライベートカーで180 kmを約3時間かけてジャルテパ国境検問所まで移動します。入国手続きの後、タジキスタンのセブンレイクスとファン山脈への玄関口であるペンジケントへ入ります。",
+        "es": "Un coche privado recorre los 180 km hasta el puesto fronterizo de Jartepa en unas 3 horas; tras los trámites fronterizos, llegas a Penjikent, la puerta de entrada a los Siete Lagos y las montañas Fan en Tayikistán."
+      }
+    },
+    {
+      "q": {
+        "en": "How to get from Bishkek to Samarkand",
+        "de": "Wie kommt man von Bischkek nach Samarkand",
+        "fr": "Comment se rendre de Bichkek à Samarcande",
+        "ja": "ビシュケクからサマルカンドへの行き方",
+        "es": "Cómo ir de Biskek a Samarcanda"
+      },
+      "a": {
+        "en": "Fly from Bishkek to Tashkent in about 1 hour 40 minutes, then take the evening high-speed train to Samarkand (2 hours); our multi-country tours combine this flight and train connection on a single travel day.",
+        "de": "Flug von Bischkek nach Taschkent in etwa 1 Stunde 40 Minuten, dann die Abend-Hochgeschwindigkeitsbahn nach Samarkand (2 Stunden); unsere Mehrländer-Reisen kombinieren diese Flug- und Zugverbindung an einem einzigen Reisetag.",
+        "fr": "Volez de Bichkek à Tachkent en environ 1 heure 40 minutes, puis prenez le train à grande vitesse du soir pour Samarcande (2 heures) ; nos circuits multi-pays combinent ce vol et cette liaison ferroviaire en une seule journée de voyage.",
+        "ja": "ビシュケクからタシュケントまで約1時間40分で飛行し、その後夕方の高速列車でサマルカンドまで移動します（2時間）。当社の多国籍ツアーでは、このフライトと列車の接続を1日の旅行日程に組み合わせています。",
+        "es": "Vuela de Biskek a Taskent en unas 1 hora 40 minutos, luego toma el tren de alta velocidad por la noche hasta Samarcanda (2 horas); nuestros tours multi país combinan este vuelo y esta conexión de tren en un solo día de viaje."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Day Trip from Samarkand: Tashkent & Bukhara (2027)",
+      "meta_description": "Day trip from Samarkand: train to Tashkent in 2 hours, drive to Bukhara in 4 hours, border crossing to Penjikent. Private tours, best months, sample day.",
+      "focus_keyword": "day trip from samarkand",
+      "keywords": [
+        "day trip from samarkand",
+        "samarkand day trip",
+        "samarkand day trip from tashkent",
+        "day trip from tashkent to samarkand",
+        "tashkent day trip to samarkand",
+        "how to get from samarkand to bukhara",
+        "how to get from samarkand to panjakent",
+        "how to get from samarkand to dushanbe"
+      ]
+    },
+    "de": {
+      "seo_title": "Tagesausflug ab Samarkand: Taschkent & Buchara (2027)",
+      "meta_description": "Tagesausflug ab Samarkand: Zug nach Taschkent in 2 Stunden, Fahrt nach Buchara in 4 Stunden, Grenzüberquerung nach Pendschikent. Private Touren, beste Monate, Beispieltag.",
+      "focus_keyword": "tagesausflug ab samarkand",
+      "keywords": [
+        "tagesausflug ab samarkand",
+        "samarkand tagesausflug",
+        "samarkand tagesausflug ab taschkent",
+        "tagesausflug ab taschkent nach samarkand",
+        "taschkent tagesausflug nach samarkand",
+        "wie kommt man von samarkand nach buchara",
+        "wie kommt man von samarkand nach pendschikent",
+        "wie kommt man von samarkand nach duschanbe"
+      ]
+    },
+    "fr": {
+      "seo_title": "Excursion d'un jour depuis Samarcande : Tachkent et Boukhara (2027)",
+      "meta_description": "Excursion d'un jour depuis Samarcande : train pour Tachkent en 2 heures, route vers Boukhara en 4 heures, passage de la frontière pour Pendjikent. Circuits privés, meilleures périodes, exemple de journée.",
+      "focus_keyword": "excursion d'un jour depuis samarcande",
+      "keywords": [
+        "excursion d'un jour depuis samarcande",
+        "excursion d'un jour samarcande",
+        "excursion d'un jour samarcande depuis tachkent",
+        "excursion d'un jour de tachkent à samarcande",
+        "excursion d'un jour tachkent vers samarcande",
+        "comment aller de samarcande à boukhara",
+        "comment aller de samarcande à pendjikent",
+        "comment aller de samarcande à douchanbé"
+      ]
+    },
+    "ja": {
+      "seo_title": "サマルカンドからの日帰り旅行：タシュケント＆ブハラ（2027年）",
+      "meta_description": "サマルカンドからの日帰り旅行：電車でタシケントまで2時間、車でブハラまで4時間、ペンジケントへの国境越え。プライベートツアー、ベストシーズン、サンプルデイ。",
+      "focus_keyword": "サマルカンドからの日帰り旅行",
+      "keywords": [
+        "サマルカンドからの日帰り旅行",
+        "サマルカンド日帰り旅行",
+        "タシュケント発サマルカンド日帰りツアー",
+        "タシュケントからサマルカンドへの日帰り旅行",
+        "タシュケントからサマルカンドへの日帰り旅行",
+        "サマルカンドからブハラへの行き方",
+        "サマルカンドからパンジャケントへの行き方",
+        "サマルカンドからドゥシャンベへの行き方"
+      ]
+    },
+    "es": {
+      "seo_title": "Excursión de un día desde Samarcanda: Taskent y Bujará (2027)",
+      "meta_description": "Excursión de un día desde Samarcanda: tren a Taskent en 2 horas, viaje en coche a Bujará en 4 horas, cruce fronterizo a Panjikent. Tours privados, mejores meses, ejemplo de día.",
+      "focus_keyword": "excursión de un día desde samarcanda",
+      "keywords": [
+        "excursión de un día desde samarcanda",
+        "samarcanda excursión de un día",
+        "samarcanda excursión de un día desde taskent",
+        "excursión de un día desde taskent a samarcanda",
+        "taskent excursión de un día a samarcanda",
+        "cómo llegar de samarcanda a bujará",
+        "cómo llegar de samarcanda a panjikent",
+        "cómo llegar de samarcanda a dusambé"
+      ]
+    }
+  },
+  "contentHash": "c1d82cc71e0f4d46"
+}

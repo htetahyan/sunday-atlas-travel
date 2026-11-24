@@ -1,0 +1,1263 @@
+# Decap CMS for Sunday Atlas Travel.
+# Local: `npm run cms` and `npm run dev`, then open http://localhost:3000/admin/
+# Production auth is not in this file. See docs/CMS.md. Do not put secrets here.
+
+backend:
+  name: github
+  repo: htetahyan/rare-atlas-travel
+  branch: main
+  # Alternative: Netlify Identity + git-gateway. Not used on Cloudflare Pages.
+  # name: git-gateway
+  # branch: main
+  # Cloudflare Worker OAuth proxy (workers/cms-auth).
+  # Keep the GitHub OAuth client secret in the worker, not in this repo.
+  base_url: https://rare-atlas-cms-auth.htetahyan.workers.dev
+  auth_endpoint: auth
+
+# Local editing is not enabled in this committed file.
+# For local editing, add `local_backend: true` temporarily to your local copy,
+# run `npx decap-server` (`npm run cms`), and never commit that line.
+
+media_folder: public/uploads
+public_folder: /uploads
+media_library:
+  name: cloudinary
+  output_filename_only: false
+  use_secure_url: true
+  use_transformations: false
+  config:
+    cloud_name: di4a4oz3o
+    api_key: 493622286779552
+# Documented default origin for local Decap (`npm run cms`).
+# `scripts/cms-site-url.mjs` runs as `postbuild` and rewrites these two lines
+# in out/admin/config.yml from NEXT_PUBLIC_SITE_URL, with any trailing slash removed.
+# If that variable is unset, the built file is left unchanged.
+site_url: https://sundayatlastravel.com
+display_url: https://sundayatlastravel.com
+
+# Shared by destinations, packages, and static pages. Decap expands these anchors.
+x-seo-locale-fields: &seo_locale_fields
+  - label: SEO title
+    name: seo_title
+    widget: string
+    required: false
+    hint: "About 60 characters. Leave empty to use the automatic title."
+    pattern: ["^.{0,65}$", "Keep the SEO title to about 60 characters (65 max)."]
+  - label: Meta description
+    name: meta_description
+    widget: text
+    required: false
+    hint: "About 155 characters. Leave empty to use the automatic description."
+    pattern: ["^[\\s\\S]{0,160}$", "Keep the meta description to about 155 characters (160 max)."]
+  - label: Focus keyword
+    name: focus_keyword
+    widget: string
+    required: false
+    hint: "The main search phrase for this page. Use it in the page heading (H1), early in the description, and in at least one image alt text."
+  - label: Keywords
+    name: keywords
+    widget: list
+    required: false
+    field: { label: Keyword, name: keyword, widget: string }
+  - label: Social image
+    name: og_image
+    widget: image
+    required: false
+    hint: "Social share image override, ideally 1200x630. Leave empty to use the hero image."
+  - label: Canonical URL
+    name: canonical
+    widget: string
+    required: false
+    hint: "Absolute URL or site path. Leave empty to use the page's own URL. Only set it for duplicates."
+  - label: Noindex
+    name: noindex
+    widget: boolean
+    required: false
+    default: false
+    hint: "Hides this page from search engines and removes it from the sitemap."
+
+x-seo-locales: &seo_locales
+  - label: SEO (English)
+    name: en
+    widget: object
+    required: false
+    collapsed: true
+    fields: *seo_locale_fields
+  - label: SEO (German)
+    name: de
+    widget: object
+    required: false
+    collapsed: true
+    fields: *seo_locale_fields
+  - label: SEO (French)
+    name: fr
+    widget: object
+    required: false
+    collapsed: true
+    fields: *seo_locale_fields
+  - label: SEO (Japanese)
+    name: ja
+    widget: object
+    required: false
+    collapsed: true
+    fields: *seo_locale_fields
+  - label: SEO (Spanish)
+    name: es
+    widget: object
+    required: false
+    collapsed: true
+    fields: *seo_locale_fields
+  - label: SEO (Chinese (Simplified))
+    name: zh
+    widget: object
+    required: false
+    collapsed: true
+    fields: *seo_locale_fields
+
+x-locale-string-fields: &locale_string_fields
+  - { label: English, name: en, widget: string, required: false }
+  - { label: German, name: de, widget: string, required: false }
+  - { label: French, name: fr, widget: string, required: false }
+  - { label: Japanese, name: ja, widget: string, required: false }
+  - { label: Spanish, name: es, widget: string, required: false }
+  - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+
+x-locale-text-fields: &locale_text_fields
+  - { label: English, name: en, widget: text, required: false }
+  - { label: German, name: de, widget: text, required: false }
+  - { label: French, name: fr, widget: text, required: false }
+  - { label: Japanese, name: ja, widget: text, required: false }
+  - { label: Spanish, name: es, widget: text, required: false }
+  - { label: Chinese (Simplified), name: zh, widget: text, required: false }
+
+x-faqs: &faqs
+  label: FAQs
+  name: faqs
+  widget: list
+  required: false
+  hint: "Question and answer pairs. Leave empty to hide the section."
+  fields:
+    - label: Question
+      name: q
+      widget: object
+      required: true
+      fields:
+        - { label: English, name: en, widget: string, required: true }
+        - { label: German, name: de, widget: string, required: false }
+        - { label: French, name: fr, widget: string, required: false }
+        - { label: Japanese, name: ja, widget: string, required: false }
+        - { label: Spanish, name: es, widget: string, required: false }
+        - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+    - label: Answer
+      name: a
+      widget: object
+      required: true
+      fields:
+        - { label: English, name: en, widget: text, required: true }
+        - { label: German, name: de, widget: text, required: false }
+        - { label: French, name: fr, widget: text, required: false }
+        - { label: Japanese, name: ja, widget: text, required: false }
+        - { label: Spanish, name: es, widget: text, required: false }
+        - { label: Chinese (Simplified), name: zh, widget: text, required: false }
+
+x-faq-title: &faq_title
+  label: FAQ title
+  name: faq_title
+  widget: object
+  required: false
+  hint: "Optional H2 above the questions. Use a secondary keyword."
+  fields: *locale_string_fields
+
+x-page-sections: &page_sections
+  label: Content sections (H2 + text)
+  name: sections
+  widget: list
+  required: false
+  hint: "Shown only when this locale has both a heading and a body. English does not fill other locales."
+  fields:
+    - label: Heading
+      name: heading
+      widget: object
+      required: false
+      fields: *locale_string_fields
+    - label: Body
+      name: body
+      widget: object
+      required: false
+      fields: *locale_text_fields
+
+collections:
+  - name: destinations
+    label: Destinations
+    folder: content/destinations
+    format: json
+    extension: json
+    create: true
+    slug: "{{fields.slug}}"
+    identifier_field: slug
+    fields:
+      - label: Slug
+        name: slug
+        widget: string
+        required: true
+        hint: "Lowercase letters, numbers, and hyphens. Page URL: /<locale>/destinations/<slug>/. The slug is set here; changing it changes the URL."
+      - label: Name
+        name: name
+        widget: object
+        required: true
+        fields:
+          - { label: English, name: en, widget: string, required: true }
+          - { label: German, name: de, widget: string, required: false }
+          - { label: French, name: fr, widget: string, required: false }
+          - { label: Japanese, name: ja, widget: string, required: false }
+          - { label: Spanish, name: es, widget: string, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Region
+        name: region
+        widget: object
+        required: true
+        fields:
+          - { label: English, name: en, widget: string, required: true }
+          - { label: German, name: de, widget: string, required: false }
+          - { label: French, name: fr, widget: string, required: false }
+          - { label: Japanese, name: ja, widget: string, required: false }
+          - { label: Spanish, name: es, widget: string, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Summary
+        name: summary
+        widget: object
+        required: true
+        fields:
+          - { label: English, name: en, widget: text, required: true }
+          - { label: German, name: de, widget: text, required: false }
+          - { label: French, name: fr, widget: text, required: false }
+          - { label: Japanese, name: ja, widget: text, required: false }
+          - { label: Spanish, name: es, widget: text, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: text, required: false }
+      - label: Best seasons
+        name: bestSeasons
+        widget: object
+        required: false
+        hint: "One season per item. Leave empty to hide this section."
+        fields:
+          - { label: English, name: en, widget: list, required: false, default: [] }
+          - { label: German, name: de, widget: list, required: false, default: [] }
+          - { label: French, name: fr, widget: list, required: false, default: [] }
+          - { label: Japanese, name: ja, widget: list, required: false, default: [] }
+          - { label: Spanish, name: es, widget: list, required: false, default: [] }
+          - { label: Chinese (Simplified), name: zh, widget: list, required: false, default: [] }
+      - label: Highlights
+        name: highlights
+        widget: object
+        required: false
+        hint: "Leave empty to hide this section."
+        fields:
+          - { label: English, name: en, widget: list, required: false, default: [] }
+          - { label: German, name: de, widget: list, required: false, default: [] }
+          - { label: French, name: fr, widget: list, required: false, default: [] }
+          - { label: Japanese, name: ja, widget: list, required: false, default: [] }
+          - { label: Spanish, name: es, widget: list, required: false, default: [] }
+          - { label: Chinese (Simplified), name: zh, widget: list, required: false, default: [] }
+      - label: Visa note
+        name: visaNote
+        widget: object
+        required: false
+        hint: "Must not state specific visa rules. Leave empty to hide this section."
+        fields:
+          - label: English
+            name: en
+            widget: string
+            required: false
+            default: "Check official government sources before travel"
+          - { label: German, name: de, widget: string, required: false }
+          - { label: French, name: fr, widget: string, required: false }
+          - { label: Japanese, name: ja, widget: string, required: false }
+          - { label: Spanish, name: es, widget: string, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Intro
+        name: intro
+        widget: object
+        required: false
+        hint: "About 60 to 90 words, shown under the hero. Put the focus keyword in the first sentence. Leave empty to hide."
+        fields:
+          - { label: English, name: en, widget: text, required: false }
+          - { label: German, name: de, widget: text, required: false }
+          - { label: French, name: fr, widget: text, required: false }
+          - { label: Japanese, name: ja, widget: text, required: false }
+          - { label: Spanish, name: es, widget: text, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: text, required: false }
+      - *faqs
+      - label: Hero gradient
+        name: heroGradient
+        widget: list
+        required: false
+        default: ["#0E4F57", "#1C2430"]
+        min: 2
+        max: 2
+        hint: "Exactly two CSS colors, for example #0E4F57 and #1C2430."
+      - label: Image
+        name: image
+        widget: object
+        required: true
+        fields:
+          - label: Source
+            name: src
+            widget: image
+            required: true
+          - label: Width
+            name: width
+            widget: number
+            value_type: int
+            min: 1
+            required: true
+          - label: Height
+            name: height
+            widget: number
+            value_type: int
+            min: 1
+            required: true
+          - label: Alt text
+            name: alt
+            widget: object
+            required: true
+            fields:
+              - { label: English, name: en, widget: string, required: true }
+              - { label: German, name: de, widget: string, required: false }
+              - { label: French, name: fr, widget: string, required: false }
+              - { label: Japanese, name: ja, widget: string, required: false }
+              - { label: Spanish, name: es, widget: string, required: false }
+              - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Gallery
+        name: gallery
+        widget: list
+        required: false
+        default: []
+        fields:
+          - label: Image
+            name: image
+            widget: object
+            required: true
+            fields:
+              - label: Source
+                name: src
+                widget: image
+                required: true
+              - label: Width
+                name: width
+                widget: number
+                value_type: int
+                required: true
+              - label: Height
+                name: height
+                widget: number
+                value_type: int
+                required: true
+          - label: Alt text
+            name: alt
+            widget: object
+            required: true
+            fields:
+              - { label: English, name: en, widget: string, required: true }
+              - { label: German, name: de, widget: string, required: false }
+              - { label: French, name: fr, widget: string, required: false }
+              - { label: Japanese, name: ja, widget: string, required: false }
+              - { label: Spanish, name: es, widget: string, required: false }
+              - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Sample
+        name: sample
+        widget: boolean
+        required: false
+        default: false
+        hint: "Kept for older entries. The site does not show a sample badge."
+      - label: Published
+        name: published
+        widget: boolean
+        required: true
+        default: false
+        hint: "Off hides this destination from the site."
+      - label: Headings
+        name: headings
+        widget: object
+        required: false
+        collapsed: true
+        hint: "Optional on-page headings. Leave a field empty to keep the automatic title."
+        fields:
+          - label: H1
+            name: h1
+            widget: object
+            required: false
+            hint: "Include the focus keyword. Leave empty to use the name."
+            fields: *locale_string_fields
+          - label: Seasons
+            name: seasons
+            widget: object
+            required: false
+            hint: "Leave empty to use the default seasons heading."
+            fields: *locale_string_fields
+          - label: Highlights
+            name: highlights
+            widget: object
+            required: false
+            hint: "Leave empty to use the default highlights heading."
+            fields: *locale_string_fields
+          - label: FAQ
+            name: faq
+            widget: object
+            required: false
+            hint: "Leave empty to use the default FAQ heading."
+            fields: *locale_string_fields
+          - label: Packages
+            name: packages
+            widget: object
+            required: false
+            hint: "Leave empty to use the default packages heading."
+            fields: *locale_string_fields
+      - label: SEO
+        name: seo
+        widget: object
+        required: false
+        collapsed: true
+        hint: "Page URL: /<locale>/destinations/<slug>/. The slug is set in the Slug field above; changing it changes the URL."
+        fields: *seo_locales
+  - name: packages
+    label: Packages / tours
+    folder: content/packages
+    format: json
+    extension: json
+    create: true
+    slug: "{{fields.slug}}"
+    identifier_field: slug
+    fields:
+      - label: Slug
+        name: slug
+        widget: string
+        required: true
+        hint: "Lowercase letters, numbers, and hyphens. Page URL: /<locale>/packages/<slug>/. The slug is set here; changing it changes the URL."
+      - label: Title
+        name: title
+        widget: object
+        required: true
+        fields:
+          - { label: English, name: en, widget: string, required: true }
+          - { label: German, name: de, widget: string, required: false }
+          - { label: French, name: fr, widget: string, required: false }
+          - { label: Japanese, name: ja, widget: string, required: false }
+          - { label: Spanish, name: es, widget: string, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Destination
+        name: destination
+        widget: relation
+        collection: destinations
+        value_field: slug
+        search_fields: [name.en, slug]
+        display_fields: [name.en]
+        required: true
+        hint: "Primary destination slug. The package is listed on this page and on every extra country below."
+      - label: Countries
+        name: countries
+        widget: relation
+        collection: destinations
+        multiple: true
+        value_field: slug
+        search_fields: [name.en, slug]
+        display_fields: [name.en]
+        required: false
+        default: []
+        hint: "Other destinations on this tour. Leave empty for a single-country package."
+      - label: Region
+        name: region
+        widget: object
+        required: false
+        hint: "Optional geographical region override (for example Central Asia). Leave empty to inherit the region from the Destination and Countries."
+        fields: *locale_string_fields
+      - label: Duration (days)
+        name: durationDays
+        widget: number
+        value_type: int
+        min: 1
+        required: true
+      - label: Nights
+        name: nights
+        widget: number
+        value_type: int
+        min: 0
+        required: false
+        hint: "Leave empty to show days only. 0 does not print 0 nights. One day with nights empty or 0 uses the singular day label."
+      - label: Day tour
+        name: isDayTour
+        widget: boolean
+        required: false
+        default: false
+        hint: "Mark as a day tour for filtering on the packages page. Tours with Duration (days) set to 1 also default to Day tour."
+      - label: Maximum group size
+        name: maxGroupSize
+        widget: number
+        value_type: int
+        min: 1
+        required: false
+        hint: "Private tour, up to this many travellers. Leave empty to hide the group-size card."
+      - label: Style
+        name: style
+        widget: object
+        required: false
+        hint: "Leave empty to hide the style line."
+        fields:
+          - { label: English, name: en, widget: string, required: false }
+          - { label: German, name: de, widget: string, required: false }
+          - { label: French, name: fr, widget: string, required: false }
+          - { label: Japanese, name: ja, widget: string, required: false }
+          - { label: Spanish, name: es, widget: string, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Season note
+        name: seasonNote
+        widget: object
+        required: false
+        hint: "Shown on the At a glance grid. Leave empty to hide."
+        fields: *locale_string_fields
+      - label: Summary
+        name: summary
+        widget: object
+        required: true
+        fields:
+          - { label: English, name: en, widget: text, required: true }
+          - { label: German, name: de, widget: text, required: false }
+          - { label: French, name: fr, widget: text, required: false }
+          - { label: Japanese, name: ja, widget: text, required: false }
+          - { label: Spanish, name: es, widget: text, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: text, required: false }
+      - label: Intro
+        name: intro
+        widget: object
+        required: false
+        hint: "Use the focus keyword in the first sentence. Leave empty to hide."
+        fields: *locale_text_fields
+      - label: Itinerary
+        name: itinerary
+        widget: list
+        required: false
+        default: []
+        summary: "Day {{fields.day}}: {{fields.title.en}}"
+        fields:
+          - label: Day
+            name: day
+            widget: number
+            value_type: int
+            min: 1
+            required: true
+          - label: Title
+            name: title
+            widget: object
+            required: true
+            fields:
+              - { label: English, name: en, widget: string, required: true }
+              - { label: German, name: de, widget: string, required: false }
+              - { label: French, name: fr, widget: string, required: false }
+              - { label: Japanese, name: ja, widget: string, required: false }
+              - { label: Spanish, name: es, widget: string, required: false }
+              - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+          - label: Description
+            name: description
+            widget: object
+            required: true
+            fields:
+              - { label: English, name: en, widget: text, required: true }
+              - { label: German, name: de, widget: text, required: false }
+              - { label: French, name: fr, widget: text, required: false }
+              - { label: Japanese, name: ja, widget: text, required: false }
+              - { label: Spanish, name: es, widget: text, required: false }
+              - { label: Chinese (Simplified), name: zh, widget: text, required: false }
+          - label: Meals
+            name: meals
+            widget: object
+            required: false
+            hint: "Shown verbatim, for example Breakfast, lunch. Leave empty to hide."
+            fields: *locale_string_fields
+          - label: Image
+            name: image
+            widget: object
+            required: false
+            fields:
+              - label: Image
+                name: image
+                widget: object
+                required: true
+                fields:
+                  - label: Source
+                    name: src
+                    widget: image
+                    required: true
+                  - label: Width
+                    name: width
+                    widget: number
+                    value_type: int
+                    required: true
+                  - label: Height
+                    name: height
+                    widget: number
+                    value_type: int
+                    required: true
+              - label: Alt text
+                name: alt
+                widget: object
+                required: true
+                fields:
+                  - { label: English, name: en, widget: string, required: true }
+                  - { label: German, name: de, widget: string, required: false }
+                  - { label: French, name: fr, widget: string, required: false }
+                  - { label: Japanese, name: ja, widget: string, required: false }
+                  - { label: Spanish, name: es, widget: string, required: false }
+                  - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Included
+        name: included
+        widget: object
+        required: false
+        hint: "Leave empty to hide this section."
+        fields:
+          - { label: English, name: en, widget: list, required: false, default: [] }
+          - { label: German, name: de, widget: list, required: false, default: [] }
+          - { label: French, name: fr, widget: list, required: false, default: [] }
+          - { label: Japanese, name: ja, widget: list, required: false, default: [] }
+          - { label: Spanish, name: es, widget: list, required: false, default: [] }
+          - { label: Chinese (Simplified), name: zh, widget: list, required: false, default: [] }
+      - label: Not included
+        name: notIncluded
+        widget: object
+        required: false
+        hint: "Leave empty to hide this section."
+        fields:
+          - { label: English, name: en, widget: list, required: false, default: [] }
+          - { label: German, name: de, widget: list, required: false, default: [] }
+          - { label: French, name: fr, widget: list, required: false, default: [] }
+          - { label: Japanese, name: ja, widget: list, required: false, default: [] }
+          - { label: Spanish, name: es, widget: list, required: false, default: [] }
+          - { label: Chinese (Simplified), name: zh, widget: list, required: false, default: [] }
+      - label: Train note
+        name: trainNote
+        widget: object
+        required: false
+        hint: "Optional footnote under the included list. Leave empty to hide."
+        fields: *locale_text_fields
+      - *faqs
+      - label: Price from
+        name: priceFrom
+        widget: number
+        value_type: float
+        required: false
+        default: null
+        hint: "Leave empty for on request."
+      - label: Currency
+        name: currency
+        widget: string
+        required: false
+        default: ""
+        hint: "ISO 4217 code, for example USD. Leave empty when the price is on request."
+      - label: Price note
+        name: priceNote
+        widget: object
+        required: false
+        hint: "Leave empty to hide the note under the price."
+        fields:
+          - label: English
+            name: en
+            widget: string
+            required: false
+            default: "Price on request — we quote every trip personally"
+          - { label: German, name: de, widget: string, required: false }
+          - { label: French, name: fr, widget: string, required: false }
+          - { label: Japanese, name: ja, widget: string, required: false }
+          - { label: Spanish, name: es, widget: string, required: false }
+          - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Price label
+        name: fromLabel
+        widget: object
+        required: false
+        hint: "Shown verbatim, for example from $2643 per person (10–11 travellers, 3*). Leave empty for Price on request."
+        fields: *locale_string_fields
+      - label: Price table
+        name: priceTable
+        widget: object
+        required: false
+        hint: "Leave empty to hide the prices section. Each price is a number. The site adds $ and does not round or group digits."
+        fields:
+          - label: Caption
+            name: caption
+            widget: object
+            required: false
+            fields: *locale_string_fields
+          - label: Group sizes
+            name: groupSizes
+            widget: object
+            required: false
+            hint: "Column headers, one string per group size."
+            fields:
+              - { label: English, name: en, widget: list, required: false, default: [] }
+              - { label: German, name: de, widget: list, required: false, default: [] }
+              - { label: French, name: fr, widget: list, required: false, default: [] }
+              - { label: Japanese, name: ja, widget: list, required: false, default: [] }
+              - { label: Spanish, name: es, widget: list, required: false, default: [] }
+              - { label: Chinese (Simplified), name: zh, widget: list, required: false, default: [] }
+          - label: Rows
+            name: rows
+            widget: list
+            required: false
+            summary: "{{fields.label.en}}"
+            fields:
+              - label: Label
+                name: label
+                widget: object
+                required: false
+                hint: "Row label, for example Hotels 3*."
+                fields: *locale_string_fields
+              - label: Prices
+                name: prices
+                widget: list
+                required: false
+                hint: "One number per group-size column, in the same order."
+                field:
+                  label: Price
+                  name: price
+                  widget: number
+                  value_type: float
+                  required: false
+              - label: Single supplement
+                name: singleSupplement
+                widget: string
+                required: false
+                hint: "Shown verbatim, for example +390. Leave empty to show On request."
+          - label: Note
+            name: note
+            widget: object
+            required: false
+            fields: *locale_text_fields
+          - label: First column header
+            name: rowHeader
+            widget: select
+            required: false
+            default: auto
+            hint: "Auto shows Hotels when the row labels name a hotel class (for example 3* hotels) and Tour type otherwise. Pick another value to override it for this tour. Translated for every language."
+            options:
+              - { label: "Auto", value: auto }
+              - { label: "Hotels", value: hotels }
+              - { label: "Tour type", value: tourType }
+              - { label: "Option", value: option }
+      - label: Hotels
+        name: hotels
+        widget: list
+        required: false
+        default: []
+        summary: "{{fields.city.en}}"
+        fields:
+          - label: City
+            name: city
+            widget: object
+            required: false
+            fields: *locale_string_fields
+          - label: 3* hotels
+            name: standard
+            widget: object
+            required: false
+            fields: *locale_string_fields
+          - label: 4* hotels
+            name: superior
+            widget: object
+            required: false
+            fields: *locale_string_fields
+      - label: Vehicles
+        name: vehicles
+        widget: list
+        required: false
+        default: []
+        summary: "{{fields.group.en}}"
+        fields:
+          - label: Group size
+            name: group
+            widget: object
+            required: false
+            fields: *locale_string_fields
+          - label: Vehicle
+            name: vehicle
+            widget: object
+            required: false
+            fields: *locale_string_fields
+      - label: Add-on trips
+        name: addOns
+        widget: relation
+        collection: packages
+        multiple: true
+        value_field: slug
+        search_fields: [title.en, slug]
+        display_fields: [title.en]
+        required: false
+        default: []
+        hint: "Optional published trips shown after the price table. Unknown or unpublished slugs are skipped."
+      - label: Change note
+        name: changeNote
+        widget: object
+        required: false
+        hint: "Disclaimer under the itinerary. Leave empty to hide."
+        fields: *locale_text_fields
+      - label: Image
+        name: image
+        widget: object
+        required: true
+        fields:
+          - label: Source
+            name: src
+            widget: image
+            required: true
+          - label: Width
+            name: width
+            widget: number
+            value_type: int
+            min: 1
+            required: true
+          - label: Height
+            name: height
+            widget: number
+            value_type: int
+            min: 1
+            required: true
+          - label: Alt text
+            name: alt
+            widget: object
+            required: true
+            fields:
+              - { label: English, name: en, widget: string, required: true }
+              - { label: German, name: de, widget: string, required: false }
+              - { label: French, name: fr, widget: string, required: false }
+              - { label: Japanese, name: ja, widget: string, required: false }
+              - { label: Spanish, name: es, widget: string, required: false }
+              - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Gallery
+        name: gallery
+        widget: list
+        required: false
+        default: []
+        fields:
+          - label: Image
+            name: image
+            widget: object
+            required: true
+            fields:
+              - label: Source
+                name: src
+                widget: image
+                required: true
+              - label: Width
+                name: width
+                widget: number
+                value_type: int
+                required: true
+              - label: Height
+                name: height
+                widget: number
+                value_type: int
+                required: true
+          - label: Alt text
+            name: alt
+            widget: object
+            required: true
+            fields:
+              - { label: English, name: en, widget: string, required: true }
+              - { label: German, name: de, widget: string, required: false }
+              - { label: French, name: fr, widget: string, required: false }
+              - { label: Japanese, name: ja, widget: string, required: false }
+              - { label: Spanish, name: es, widget: string, required: false }
+              - { label: Chinese (Simplified), name: zh, widget: string, required: false }
+      - label: Sample
+        name: sample
+        widget: boolean
+        required: false
+        default: false
+        hint: "Kept for older entries. The site does not show a sample badge."
+      - label: Featured on homepage
+        name: featured
+        widget: boolean
+        required: false
+        default: false
+        hint: "Show this package in the Featured Packages section on the homepage."
+      - label: Published
+        name: published
+        widget: boolean
+        required: true
+        default: false
+        hint: "Off hides this package from the site."
+      - label: Headings
+        name: headings
+        widget: object
+        required: false
+        collapsed: true
+        hint: "Optional on-page headings. Leave a field empty to keep the automatic title."
+        fields:
+          - label: H1
+            name: h1
+            widget: object
+            required: false
+            hint: "Include the focus keyword. Leave empty to use the title."
+            fields: *locale_string_fields
+          - label: Facts
+            name: facts
+            widget: object
+            required: false
+            hint: "Leave empty to use the default facts heading."
+            fields: *locale_string_fields
+          - label: Itinerary
+            name: itinerary
+            widget: object
+            required: false
+            hint: "Leave empty to use the default itinerary heading."
+            fields: *locale_string_fields
+          - label: Included
+            name: included
+            widget: object
+            required: false
+            hint: "Leave empty to use the default included heading."
+            fields: *locale_string_fields
+          - label: Not included
+            name: notIncluded
+            widget: object
+            required: false
+            hint: "Leave empty to use the default not-included heading."
+            fields: *locale_string_fields
+          - label: Prices
+            name: prices
+            widget: object
+            required: false
+            hint: "Leave empty to use the default prices heading."
+            fields: *locale_string_fields
+          - label: Add-ons
+            name: addOns
+            widget: object
+            required: false
+            hint: "Leave empty to use the default add-ons heading."
+            fields: *locale_string_fields
+          - label: Hotels
+            name: hotels
+            widget: object
+            required: false
+            hint: "Leave empty to use the default hotels heading."
+            fields: *locale_string_fields
+          - label: Vehicles
+            name: vehicles
+            widget: object
+            required: false
+            hint: "Leave empty to use the default vehicles heading."
+            fields: *locale_string_fields
+          - label: FAQ
+            name: faq
+            widget: object
+            required: false
+            hint: "Leave empty to use the default FAQ heading."
+            fields: *locale_string_fields
+      - label: SEO
+        name: seo
+        widget: object
+        required: false
+        collapsed: true
+        hint: "Page URL: /<locale>/packages/<slug>/. The slug is set in the Slug field above; changing it changes the URL."
+        fields: *seo_locales
+  - name: pages
+    label: Pages (SEO only)
+    files:
+      - label: Home
+        name: home
+        file: content/pages/home.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - *faq_title
+          - *faqs
+          - *page_sections
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/."
+            fields: *seo_locales
+      - label: About
+        name: about
+        file: content/pages/about.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - *faq_title
+          - *faqs
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/about/."
+            fields: *seo_locales
+      - label: How it works
+        name: how-it-works
+        file: content/pages/how-it-works.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - *faq_title
+          - *faqs
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/how-it-works/."
+            fields: *seo_locales
+      - label: FAQ
+        name: faq
+        file: content/pages/faq.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - *page_sections
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/faq/."
+            fields: *seo_locales
+      - label: Contact
+        name: contact
+        file: content/pages/contact.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/contact/."
+            fields: *seo_locales
+      - label: Privacy
+        name: privacy
+        file: content/pages/privacy.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/privacy/."
+            fields: *seo_locales
+      - label: Terms
+        name: terms
+        file: content/pages/terms.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/terms/."
+            fields: *seo_locales
+      - label: Destinations
+        name: destinations
+        file: content/pages/destinations.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - *faq_title
+          - *faqs
+          - *page_sections
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/destinations/."
+            fields: *seo_locales
+      - label: Packages
+        name: packages
+        file: content/pages/packages.json
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            hint: "CMS label only. It is not shown on the site."
+          - *faq_title
+          - *faqs
+          - *page_sections
+          - label: SEO
+            name: seo
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Page URL: /<locale>/packages/."
+            fields: *seo_locales
+  - name: settings
+    label: Settings
+    files:
+      - label: SEO settings
+        name: seo
+        file: content/settings/seo.json
+        fields:
+          - label: Title template
+            name: title_template
+            widget: object
+            required: false
+            hint: "%s is the page title. Example: %s | Sunday Atlas Travel."
+            fields:
+              - label: English
+                name: en
+                widget: string
+                required: false
+                default: "%s | Sunday Atlas Travel"
+              - label: German
+                name: de
+                widget: string
+                required: false
+                default: "%s | Sunday Atlas Travel"
+              - label: French
+                name: fr
+                widget: string
+                required: false
+                default: "%s | Sunday Atlas Travel"
+              - label: Japanese
+                name: ja
+                widget: string
+                required: false
+                default: "%s | Sunday Atlas Travel"
+              - label: Spanish
+                name: es
+                widget: string
+                required: false
+                default: "%s | Sunday Atlas Travel"
+              - label: Chinese (Simplified)
+                name: zh
+                widget: string
+                required: false
+                default: "%s | Sunday Atlas Travel"
+          - label: Default description
+            name: default_description
+            widget: object
+            required: false
+            hint: "Used when a page has no description of its own."
+            fields:
+              - { label: English, name: en, widget: text, required: false }
+              - { label: German, name: de, widget: text, required: false }
+              - { label: French, name: fr, widget: text, required: false }
+              - { label: Japanese, name: ja, widget: text, required: false }
+              - { label: Spanish, name: es, widget: text, required: false }
+              - { label: Chinese (Simplified), name: zh, widget: text, required: false }
+          - label: Default keywords
+            name: default_keywords
+            widget: object
+            required: false
+            hint: "Used when a page sets neither a focus keyword nor a keyword list."
+            fields:
+              - label: English
+                name: en
+                widget: list
+                required: false
+                field: { label: Keyword, name: keyword, widget: string }
+              - label: German
+                name: de
+                widget: list
+                required: false
+                field: { label: Keyword, name: keyword, widget: string }
+              - label: French
+                name: fr
+                widget: list
+                required: false
+                field: { label: Keyword, name: keyword, widget: string }
+              - label: Japanese
+                name: ja
+                widget: list
+                required: false
+                field: { label: Keyword, name: keyword, widget: string }
+              - label: Spanish
+                name: es
+                widget: list
+                required: false
+                field: { label: Keyword, name: keyword, widget: string }
+              - label: Chinese (Simplified)
+                name: zh
+                widget: list
+                required: false
+                field: { label: Keyword, name: keyword, widget: string }
+          - label: Social profiles
+            name: social
+            widget: object
+            required: false
+            fields:
+              - label: X
+                name: x
+                widget: string
+                required: false
+                hint: "Profile URL. The handle becomes twitter:site."
+              - { label: Instagram, name: instagram, widget: string, required: false }
+              - { label: Facebook, name: facebook, widget: string, required: false }
+              - { label: YouTube, name: youtube, widget: string, required: false }
+              - { label: TikTok, name: tiktok, widget: string, required: false }
+              - { label: LinkedIn, name: linkedin, widget: string, required: false }
+              - { label: Trustpilot, name: trustpilot, widget: string, required: false, hint: "Trustpilot review page URL. Listed in structured data sameAs." }
+          - label: Public contact email
+            name: contact_email
+            widget: string
+            required: false
+            hint: "The one public email shown on the contact page, footer, privacy and terms pages and in structured data. Leave empty to show contact email coming soon."
+            pattern: ['^$|^[^@\s]+@[^@\s]+\.[^@\s]+$', "Enter one email address, for example contact@sundayatlastravel.com"]
+          - label: Organization logo
+            name: organization_logo
+            widget: image
+            required: false
+            hint: "Used in structured data. Leave empty to keep the current logo."
+          - label: Google site verification
+            name: google_site_verification
+            widget: string
+            required: false
+            hint: "Paste the code from Google Search Console. Leave empty to omit the tag."
+          - label: Bing site verification
+            name: bing_site_verification
+            widget: string
+            required: false
+            hint: "Paste the code from Bing Webmaster Tools. Leave empty to omit the tag."
+          - label: Analytics
+            name: analytics
+            widget: object
+            required: false
+            fields:
+              - label: Provider
+                name: provider
+                widget: select
+                required: false
+                default: none
+                options: [none, ga4, cloudflare]
+              - label: Measurement ID
+                name: id
+                widget: string
+                required: false
+                hint: "GA4 measurement ID or Cloudflare Web Analytics token. Leave empty to load nothing."

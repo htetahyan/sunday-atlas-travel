@@ -1,0 +1,299 @@
+# Automatic blog job: one scheduled run plus bounded hourly catch-up for that same run.
+# Standing ceiling: exactly 1 generated post TOTAL per real Asia/Dubai day, including
+# manual and late catch-up runs. Missed earlier days stay missed (no backlog bursts).
+# Generated files are not live publication.
+#
+# One destination per run: the day's single post covers ONE destination
+# (scripts/lib/blog-rotation.mjs). Pass order is "has
+# linkable packages (priced or price-on-request), fewest posts first", tracked with {date, slot}
+# in content/blog-rotation.json. Each post targets the next unused, highest-priority keyword for
+# that destination from the keyword bank in content/blog-keywords.json (researched once with
+# scripts/build-keyword-bank.mjs; no live research in these runs) and marks it used.
+# Preview without publishing: node scripts/blog-rotation-plan.mjs --days=3
+#
+# Schedule (off-peak minute 17; GitHub often starts scheduled runs late):
+#   slot 0: 02:17 UTC = 06:17 Asia/Dubai
+# slot "auto" = today's 02:17 UTC run once it has started (scripts/lib/blog-rotation.mjs
+# pickSlot). Late or dropped scheduled runs may be retried hourly after that start, subject to the
+# 1/day cap. Idempotent: a slot that already has its post exits after the check step. Also runs on demand (workflow_dispatch).
+#
+# Dates are honest: updatedAt changes only when a post's content hash changes
+# (new prices, new seasonal section, edits made in Sanity). See scripts/lib/blog-core.mjs.
+#
+# Secrets (names only, never print values):
+#   NVIDIA_API_KEY            required. build.nvidia.com free API (OpenAI-compatible). Writes and
+#                             translates the posts: nvidia/nemotron-3-ultra-550b-a55b (text) and
+#                             nvidia/nemotron-3.5-super-vl-120b-a12b (translation), each other's fallback.
+#                             Override with repo variables BLOG_NVIDIA_TEXT_MODELS / BLOG_NVIDIA_TRANSLATE_MODELS.
+#   TRANSLATE_SECRET          last-resort fallback only. Same value as the Pages secret; authorises
+#                             POST /api/blog-ai (Workers AI on the Pages AI binding). Only used when
+#                             every NVIDIA model fails, so the free neuron allowance stays for the site.
+#   SANITY_API_WRITE_TOKEN    recommended. Sanity Editor token for project mi09tcmc. Without it the
+#                             posts still ship from the repo (the build's Sanity sync keeps newer
+#                             local posts) but they do not show up in Sanity Studio.
+#   CLOUDFLARE_AI_API_TOKEN   optional. With CLOUDFLARE_ACCOUNT_ID, calls Workers AI REST directly
+#                             instead of /api/blog-ai. Needs "Workers AI: Read" permission.
+#   CLOUDINARY_URL            recommended. cloudinary://<api_key>:<api_secret>@di4a4oz3o (Cloudinary
+#                             Settings > API Keys). Lets the image finder upload new, vision-checked
+#                             photos to sunday-atlas/blog/<slug>. Without it posts use catalog photos.
+#   PEXELS_API_KEY            optional. Adds Pexels as an image source (Commons is always on, no key).
+#   UNSPLASH_ACCESS_KEY       optional. Adds Unsplash (hotlinked per Unsplash API terms, not uploaded).
+# GITHUB_TOKEN pushes do not trigger the push workflow, so the deploy is dispatched explicitly.
+
+name: Daily blog posts
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+    # Standing target: 1 generated post per Asia/Dubai day.
+    # Hourly catch-up: GitHub often delays or drops the 02:17 UTC run. After that start, a later
+    # hourly run may write today's single post and skips in seconds when the cap is already met.
+    - cron: "47 * * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "New posts to write (capped at 1 per Asia/Dubai day)"
+        default: "1"
+      refresh:
+        description: "Oldest posts to give a current-month section (scheduled runs: 2 in slot 0, 0 otherwise)"
+        default: "2"
+      slot:
+        description: "Run slot: auto (today's 02:17 UTC run once it has started) or 0 (02:17 UTC / 06:17 Asia/Dubai)"
+        default: "auto"
+      preview:
+        description: "Real model, publish nothing: posts are uploaded as a workflow artifact"
+        type: boolean
+        default: false
+      topic:
+        description: "Only this topic id from content/blog-topic-queue.json (optional; bypasses the destination rotation)"
+        default: ""
+      no_rotation:
+        description: "Ignore the one-destination-per-day rotation and use plain queue order"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Mock model, write nothing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: blog-daily
+  cancel-in-progress: false
+
+jobs:
+  blog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      # Scheduled runs are on main. A dispatch from another branch (e.g. a --preview test) checks out
+      # that branch, and never publishes (Sanity push and commit are main-only).
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      # Cheap idempotency check before any work: content/blog-rotation.json records each slot's posts.
+      - name: Which slot, and is it already done?
+        id: slot
+        shell: bash
+        env:
+          IN_SLOT: ${{ github.event.inputs.slot || 'auto' }}
+          IN_COUNT: ${{ github.event.inputs.count || '1' }}
+          IN_TOPIC: ${{ github.event.inputs.topic || '' }}
+          IN_NO_ROTATION: ${{ github.event.inputs.no_rotation || 'false' }}
+          IN_DRY: ${{ github.event.inputs.dry_run || 'false' }}
+          IN_PREVIEW: ${{ github.event.inputs.preview || 'false' }}
+        run: |
+          set -euo pipefail
+          [[ "$IN_SLOT" =~ ^(auto|0)$ ]] || IN_SLOT=auto
+          [[ "$IN_COUNT" =~ ^[0-9]+$ ]] || IN_COUNT=1
+          node scripts/blog-slot.mjs --slot="$IN_SLOT" --count="$IN_COUNT" | tee -a "$GITHUB_OUTPUT"
+          # Topic / no-rotation / dry-run / preview runs don't fill a slot, so they never skip.
+          if [[ -n "$IN_TOPIC" || "$IN_NO_ROTATION" == "true" || "$IN_DRY" == "true" || "$IN_PREVIEW" == "true" ]]; then
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          elif grep -q '^done=true$' <(node scripts/blog-slot.mjs --slot="$IN_SLOT" --count="$IN_COUNT"); then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "### Blog slot already done" >> "$GITHUB_STEP_SUMMARY"
+            node scripts/blog-slot.mjs --slot="$IN_SLOT" --count="$IN_COUNT" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install dependencies
+        if: steps.slot.outputs.skip != 'true'
+        run: npm ci
+
+      - name: Pull live content from Sanity
+        if: steps.slot.outputs.skip != 'true'
+        run: node scripts/sync-from-sanity.mjs
+
+      - name: Refresh prices and durations from the package catalog
+        if: steps.slot.outputs.skip != 'true' && github.event.inputs.preview != 'true'
+        run: node scripts/blog-refresh.mjs
+
+      - name: Preview the destination rotation (next 3 days)
+        if: steps.slot.outputs.skip != 'true'
+        shell: bash
+        run: |
+          node scripts/blog-rotation-plan.mjs --days=3 | tee rotation-preview.txt
+          { echo "### Destination rotation preview"; echo '```'; cat rotation-preview.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Write new posts from the keyword bank, and seasonal updates
+        id: gen
+        if: steps.slot.outputs.skip != 'true'
+        shell: bash
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          BLOG_NVIDIA_TEXT_MODELS: ${{ vars.BLOG_NVIDIA_TEXT_MODELS || '' }}
+          BLOG_NVIDIA_TRANSLATE_MODELS: ${{ vars.BLOG_NVIDIA_TRANSLATE_MODELS || '' }}
+          TRANSLATE_SECRET: ${{ secrets.TRANSLATE_SECRET }}
+          BLOG_AI_URL: ${{ vars.BLOG_AI_URL || 'https://sundayatlastravel.com/api/blog-ai' }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_AI_API_TOKEN: ${{ secrets.CLOUDFLARE_AI_API_TOKEN }}
+          # Image finder: Wikimedia Commons needs no key. Uploads need CLOUDINARY_URL
+          # (cloudinary://<api_key>:<api_secret>@di4a4oz3o). Pexels/Unsplash switch on only if set.
+          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          IN_COUNT: ${{ github.event.inputs.count || '1' }}
+          IN_REFRESH: ${{ github.event.inputs.refresh || '' }}
+          IN_PREVIEW: ${{ github.event.inputs.preview || 'false' }}
+          SLOT: ${{ steps.slot.outputs.slot }}
+          SLOT_DATE: ${{ steps.slot.outputs.date }}
+          IN_TOPIC: ${{ github.event.inputs.topic || '' }}
+          IN_DRY: ${{ github.event.inputs.dry_run || 'false' }}
+          IN_NO_ROTATION: ${{ github.event.inputs.no_rotation || 'false' }}
+        run: |
+          set -uo pipefail
+          [[ "$IN_COUNT" =~ ^[0-9]+$ ]] || IN_COUNT=1
+          # Seasonal refresh once a day: 2 posts in slot 0, none in the other runs (unless set by hand).
+          if ! [[ "$IN_REFRESH" =~ ^[0-9]+$ ]]; then if [[ "$SLOT" == "0" ]]; then IN_REFRESH=2; else IN_REFRESH=0; fi; fi
+          [[ "$IN_PREVIEW" == "true" ]] && IN_REFRESH=0
+          args=(--count="$IN_COUNT" --refresh="$IN_REFRESH" --slot="$SLOT" --date="$SLOT_DATE" --max-minutes=100 --report=blog-daily-report.json)
+          if [[ -n "$IN_TOPIC" ]]; then
+            [[ "$IN_TOPIC" =~ ^[a-z0-9-]+$ ]] || { echo "::error::bad topic id"; exit 1; }
+            args+=(--topic="$IN_TOPIC")
+          fi
+          if [[ "$IN_DRY" == "true" ]]; then args+=(--dry-run); fi
+          if [[ "$IN_NO_ROTATION" == "true" ]]; then args+=(--no-rotation); fi
+          if [[ "$IN_PREVIEW" == "true" ]]; then args+=(--preview); fi
+          # The step shell runs with -e: capture the exit code instead of letting a
+          # non-zero code (3 = nothing passed, 4 = rate limit) kill the step before the commit.
+          code=0
+          node scripts/blog-daily.mjs "${args[@]}" || code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          if [[ $code -eq 2 ]]; then
+            echo "::error::Missing secret: set NVIDIA_API_KEY (or TRANSLATE_SECRET for the Workers AI fallback)."
+          elif [[ $code -eq 4 ]]; then
+            echo "::warning::AI rate limit / daily allocation hit (NVIDIA 429s or Workers AI neurons); stopped early. Posts written before that are kept; remaining topics stay pending."
+          elif [[ $code -eq 3 ]]; then
+            echo "::error::No new post was generated in this run. See the log and content/blog-topic-queue.json."
+          elif [[ $code -ne 0 ]]; then
+            echo "::error::blog-daily exited with $code"
+          fi
+          exit 0
+
+      - name: Upload preview posts
+        if: github.event.inputs.preview == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: blog-preview
+          path: |
+            blog-preview/
+            blog-daily-report.json
+          if-no-files-found: warn
+
+      - name: Push changed posts to Sanity
+        if: github.ref == 'refs/heads/main' && steps.slot.outputs.skip != 'true' && github.event.inputs.dry_run != 'true' && github.event.inputs.preview != 'true'
+        env:
+          SANITY_API_WRITE_TOKEN: ${{ secrets.SANITY_API_WRITE_TOKEN }}
+        run: node scripts/sanity-push-blog.mjs
+
+      - name: Commit to main
+        id: commit
+        if: github.ref == 'refs/heads/main' && steps.slot.outputs.skip != 'true' && github.event.inputs.dry_run != 'true' && github.event.inputs.preview != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- content/blog content/blog-topic-queue.json content/blog-rotation.json content/blog-keywords.json content/image-registry.json
+          if git diff --cached --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing changed."
+            exit 0
+          fi
+          day="${{ steps.slot.outputs.date }}"
+          created="$(node -e 'try{const r=require("./blog-daily-report.json");console.log(r.created.length)}catch{console.log(0)}')"
+          slot="${{ steps.slot.outputs.slot }}"
+          git commit -m "chore(blog): posts ${day} slot ${slot} (${created} new)"
+          # Leftover unstaged files from the sync/refresh steps must not block the rebase
+          # (1-2 Nov failure: "cannot pull with rebase: You have unstaged changes").
+          git stash push --include-untracked -m blog-leftovers -- . ':(exclude)blog-daily-report.json' || true
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git rebase --abort || true
+            sleep $((attempt * 10))
+          done
+          echo "::error::Could not push to main"
+          exit 1
+
+      - name: Dispatch deployment (publication pending live verification)
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --ref main
+
+      # Backup trigger for the zh queue (GitHub skips some of its 3-hourly crons). Catch-up mode
+      # translates nothing when the zh queue is on time, so this never speeds it past ~1 per 3 h.
+      - name: Nudge the zh translation queue (catch-up)
+        if: always() && github.ref == 'refs/heads/main' && github.event_name == 'schedule'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run zh-translate.yml --ref main -f catch_up=true
+
+      - name: Summary
+        if: always()
+        shell: bash
+        run: |
+          if [[ -f blog-daily-report.json ]]; then
+            node -e '
+              const r = require("./blog-daily-report.json");
+              const out = [];
+              out.push(`### Daily blog (${r.dryRun ? "dry run" : r.backend})`);
+              if (r.rotation) out.push(`Run ${r.rotation.date} slot ${r.rotation.slot}: ${r.rotation.destination ?? "none"}${r.rotation.done ? " (already done)" : ""}${r.rotation.sameSlot ? " (top-up)" : ""}${r.rotation.skippedDestinations?.length ? `; skipped ${r.rotation.skippedDestinations.map((s) => s.destination).join(", ")}` : ""}`);
+              for (const k of r.keywordBank?.runs ?? []) out.push(`Keyword bank ${k.destination}: ${k.unused} unused${k.covered ? `, ${k.covered} already covered` : ""} -> ${(k.topics ?? []).join(" | ")}${k.unused < 9 ? " (LOW: run scripts/build-keyword-bank.mjs)" : ""}`);
+              out.push(`Generated posts (not yet verified published): ${r.created.length}`);
+              for (const c of r.created) out.push(`- [${c.title}](${c.urls[0]}) (${c.words} words) keyword "${c.keyword}"; secondary: ${(c.secondary ?? []).join(" | ")}`);
+              if (r.skipped.length) out.push(`Skipped topics: ${r.skipped.map((s) => `${s.topic} (${s.reasons[0]})`).join("; ")}`);
+              out.push(`Seasonal refresh: ${r.refreshed.join(", ") || "none due"}`);
+              const nv = r.usage.nvidia || {};
+              out.push(`Models: text ${r.models?.text}; translate ${r.models?.translate}`);
+              out.push(`AI calls: ${r.usage.calls} (${r.usage.promptTokens}+${r.usage.completionTokens} tokens). NVIDIA: ${nv.calls ?? 0} requests, ${nv.rateLimited ?? 0} rate-limited (429), ${nv.serverErrors ?? 0} 5xx, ${nv.timeouts ?? 0} timeouts, ${nv.cloudflareFallbacks ?? 0} Workers AI fallbacks (~${r.usage.neurons} neurons). Topics left: ${r.queuePending}`);
+              if (r.stopped) out.push(`Stopped early: ${r.stopped}`);
+              if (r.budgetStop) out.push(`Time budget: ${r.budgetStop}`);
+              console.log(out.join("\n"));
+            ' >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      # Exit 3 = the run wrote 0 posts: fail loudly (after the state commit above), never "success".
+      - name: Fail when the generator failed or generated nothing
+        if: steps.slot.outputs.skip != 'true' && steps.gen.outputs.code != '0' && steps.gen.outputs.code != '4'
+        run: |
+          echo "::error::blog-daily exit code ${{ steps.gen.outputs.code }} (3 = no new post generated)"
+          exit 1

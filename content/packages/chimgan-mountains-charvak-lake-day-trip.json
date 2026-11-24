@@ -1,0 +1,503 @@
+{
+  "slug": "chimgan-mountains-charvak-lake-day-trip",
+  "title": {
+    "en": "Chimgan Mountains, Amirsoy Gondola & Charvak Lake Day Trip from Tashkent",
+    "de": "Chimgan-Berge, Amirsoy-Gondel & Charvak-See: Tagesausflug ab Taschkent",
+    "fr": "Monts Chimgan, télécabine d’Amirsoy et lac Charvak : excursion d’une journée depuis Tachkent",
+    "ja": "タシケント発 チムガン山・アミルソイのゴンドラ・チャルヴァク湖 日帰りツアー",
+    "es": "Montes Chimgan, góndola de Amirsoy y lago Charvak: excursión de un día desde Taskent",
+    "zh": "塔什干出发：奇姆甘山、阿米尔索伊缆车与查尔瓦克湖一日游"
+  },
+  "destination": "uzbekistan",
+  "countries": [],
+  "durationDays": 1,
+  "nights": 0,
+  "isDayTour": true,
+  "style": {
+    "en": "Private mountain & lake day trip",
+    "de": "Privater Berg- & Seeausflug",
+    "fr": "Excursion privée montagne et lac",
+    "ja": "山と湖のプライベート日帰り",
+    "es": "Excursión privada de montaña y lago",
+    "zh": "私人山湖一日游"
+  },
+  "seasonNote": {
+    "en": "Year-round (gondola weather permitting)",
+    "de": "Ganzjährig (Gondel wetterabhängig)",
+    "fr": "Toute l’année (télécabine selon la météo)",
+    "ja": "通年（ゴンドラは天候次第）",
+    "es": "Todo el año (góndola según el tiempo)",
+    "zh": "全年（视缆车天气情况而定）"
+  },
+  "maxGroupSize": 4,
+  "summary": {
+    "en": "A private day in the Western Tian Shan from Tashkent: the Amirsoy Express and Prima cable cars, time on the shore of Charvak Reservoir, and an old plane tree and rock carvings near Bochka.",
+    "de": "Ein privater Tag im westlichen Tian Shan ab Taschkent: die Seilbahnen Express und Prima in Amirsoy, Zeit am Ufer des Tscharwak-Stausees sowie eine uralte Platane und Felszeichnungen bei Botschka.",
+    "fr": "Une journée privée dans le Tian Shan occidental depuis Tachkent : les télécabines Express et Prima d’Amirsoy, du temps au bord du réservoir de Tcharvak, puis un très vieux platane et des gravures rupestres près de Botchka.",
+    "ja": "タシケント発、西天山へのプライベート日帰りツアー：アミルソイのゴンドラ「エクスプレス」と「プリマ」、チャルヴァク湖畔でのひととき、そしてボチカ近くの古いプラタナスの巨木と岩絵を訪ねます。",
+    "es": "Un día privado en el Tian Shan occidental desde Taskent: los teleféricos Express y Prima de Amirsoy, tiempo a orillas del embalse de Charvak y un plátano centenario y grabados rupestres cerca de Bochka.",
+    "zh": "从塔什干出发，在西天山度过私人一日：乘坐阿米尔索伊快车和普里玛缆车，在查尔瓦克水库岸边停留，并在博奇卡附近参观古老的梧桐树和岩画。"
+  },
+  "intro": {
+    "en": "The mountains are about two hours from Tashkent. We leave at 08:00, ride both Amirsoy cable cars, spend the middle of the day by Charvak Lake and are back in the city around 18:30.",
+    "de": "Die Berge liegen rund zwei Stunden von Taschkent entfernt. Wir starten um 08:00 Uhr, fahren mit beiden Seilbahnen in Amirsoy, verbringen die Tagesmitte am Tscharwak-See und sind gegen 18:30 Uhr zurück in der Stadt.",
+    "fr": "Les montagnes sont à environ deux heures de Tachkent. Départ à 8 h, montée dans les deux télécabines d’Amirsoy, milieu de journée au bord du lac de Tcharvak et retour en ville vers 18 h 30.",
+    "ja": "山岳エリアまではタシケントから約2時間。8:00に出発し、アミルソイの2本のゴンドラに乗車、日中はチャルヴァク湖で過ごし、18:30頃に市内へ戻ります。",
+    "es": "Las montañas están a unas dos horas de Taskent. Salimos a las 08:00, subimos en los dos teleféricos de Amirsoy, pasamos el mediodía junto al lago Charvak y volvemos a la ciudad hacia las 18:30.",
+    "zh": "山区距离塔什干约两小时车程。我们08:00出发，乘坐两趟阿米尔索伊缆车，中午时分在查尔瓦克湖边，大约18:30返回城市。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Tashkent – Amirsoy – Charvak Lake – Bochka – Tashkent",
+        "de": "Taschkent – Amirsoy – Tscharwak-See – Botschka – Taschkent",
+        "fr": "Tachkent – Amirsoy – lac de Tcharvak – Botchka – Tachkent",
+        "ja": "タシケント – アミルソイ – チャルヴァク湖 – ボチカ – タシケント",
+        "es": "Taskent – Amirsoy – lago Charvak – Bochka – Taskent",
+        "zh": "塔什干 – 阿米尔索伊 – 查尔瓦克湖 – 博奇卡 – 塔什干"
+      },
+      "description": {
+        "en": "Your private driver collects you in Tashkent at 08:00 and heads into the mountains via Galvasay and Uchterek, with views down the Chirchik valley. At Amirsoy (about 10:00) you ride the Express cable car and then the Prima line higher up, with time for photos at the top. Around midday we drive on to Charvak Reservoir for a lunch break and free time by the water (boats and other water activities can be added). In the afternoon we stop near Bochka, by the Chirchik bridge at Chinorkent, to walk to a plane tree said to be some 800 years old and a rock face with ancient carvings. We leave around 16:30 and are back at your address in Tashkent at about 18:30.",
+        "de": "Ihr privater Fahrer holt Sie um 08:00 Uhr in Taschkent ab und fährt über Galwasai und Utschterek in die Berge, mit Blick auf das Tschirtschik-Tal. In Amirsoy (gegen 10:00 Uhr) fahren Sie mit der Seilbahn Express und anschließend höher hinauf mit der Prima, oben bleibt Zeit für Fotos. Gegen Mittag geht es weiter zum Tscharwak-Stausee: Mittagspause und freie Zeit am Wasser (Boote und andere Wasseraktivitäten können dazugebucht werden). Am Nachmittag halten wir bei Botschka an der Tschirtschik-Brücke in Tschinorkent und spazieren zu einer rund 800 Jahre alten Platane und einer Felswand mit uralten Zeichnungen. Gegen 16:30 Uhr fahren wir zurück und sind etwa um 18:30 Uhr wieder an Ihrer Adresse in Taschkent.",
+        "fr": "Votre chauffeur privé vous prend à Tachkent à 8 h et monte vers les montagnes par Galvasaï et Outchterek, avec vue sur la vallée de la Tchirtchik. À Amirsoy (vers 10 h), vous montez dans la télécabine Express puis, plus haut, dans la ligne Prima, avec du temps pour les photos au sommet. Vers midi, direction le réservoir de Tcharvak pour la pause déjeuner et du temps libre au bord de l’eau (bateaux et autres activités nautiques en option). L’après-midi, arrêt près de Botchka, au pont de la Tchirtchik à Tchinorkent, pour marcher jusqu’à un platane qu’on dit vieux d’environ 800 ans et une paroi aux gravures anciennes. Départ vers 16 h 30 et retour à votre adresse à Tachkent vers 18 h 30.",
+        "ja": "8:00にタシケントで専用ドライバーがお迎えし、ガルヴァサイ、ウチテレクを経由して山へ。チルチク渓谷を見下ろす景色が楽しめます。10:00頃アミルソイに到着し、ゴンドラ「エクスプレス」、さらに上の「プリマ」に乗車。山頂で写真撮影の時間をとります。昼頃チャルヴァク湖へ移動し、昼食休憩と湖畔での自由時間（ボートなどの水上アクティビティは追加可能）。午後はチノルケントのチルチク橋近く、ボチカに立ち寄り、樹齢約800年といわれるプラタナスの巨木と古代の岩絵が残る岩壁まで歩きます。16:30頃に出発し、18:30頃タシケントのご指定場所に戻ります。",
+        "es": "Su conductor privado le recoge en Taskent a las 08:00 y sube a las montañas por Galvasay y Uchterek, con vistas al valle del Chirchik. En Amirsoy (hacia las 10:00) sube en el teleférico Express y luego, más arriba, en la línea Prima, con tiempo para fotos en la cima. Hacia el mediodía seguimos hasta el embalse de Charvak para almorzar y tener tiempo libre junto al agua (se pueden añadir barcas y otras actividades acuáticas). Por la tarde paramos cerca de Bochka, junto al puente del Chirchik en Chinorkent, para caminar hasta un plátano de unos 800 años y una pared rocosa con grabados antiguos. Salimos hacia las 16:30 y volvemos a su dirección en Taskent sobre las 18:30.",
+        "zh": "您的私人司机08:00在塔什干接您，经加尔瓦萨和乌切雷克进入山区，沿途可欣赏奇尔奇克河谷的景色。大约10:00抵达阿米尔索伊，您先乘坐快车缆车，再乘普里玛线缆车登高，在山顶留有拍照时间。中午左右前往查尔瓦克水库，享用午餐并自由活动（可另加船只及其他水上活动）。下午我们在博奇卡附近停留，位于钦诺尔肯特的奇尔奇克大桥旁，步行前往一棵据说有800年历史的梧桐树，以及一处带有古老岩画的岩壁。大约16:30出发，18:30左右抵达您在塔什干的住址。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Private hotel pick-up and drop-off in Tashkent",
+      "Private vehicle and driver for the whole day",
+      "Bottled water",
+      "Amirsoy Express + Prima cable car tickets (when the lifts are running)"
+    ],
+    "de": [
+      "Privater Hoteltransfer in Taschkent (Abholung und Rückfahrt)",
+      "Privates Fahrzeug mit Fahrer für den ganzen Tag",
+      "Wasser in Flaschen",
+      "Seilbahntickets Express + Prima in Amirsoy (bei Betrieb der Bahnen)"
+    ],
+    "fr": [
+      "Prise en charge et retour privés à votre hôtel à Tachkent",
+      "Véhicule privé avec chauffeur toute la journée",
+      "Eau en bouteille",
+      "Billets des télécabines Express + Prima d’Amirsoy (si elles fonctionnent)"
+    ],
+    "ja": [
+      "タシケントのホテル送迎（専用）",
+      "終日専用車とドライバー",
+      "ミネラルウォーター",
+      "アミルソイのゴンドラ「エクスプレス」＋「プリマ」乗車券（運行時）"
+    ],
+    "es": [
+      "Recogida y regreso privados a su hotel en Taskent",
+      "Vehículo privado con conductor todo el día",
+      "Agua embotellada",
+      "Billetes de los teleféricos Express + Prima de Amirsoy (cuando estén en servicio)"
+    ],
+    "zh": [
+      "塔什干酒店私人接送服务",
+      "全天私人车辆及司机",
+      "瓶装水",
+      "阿米尔索伊快车+普里玛缆车票（缆车运营时提供）"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "Lunch and drinks unless listed",
+      "English-speaking guide (available on request at extra cost)",
+      "Boats and other water activities at Charvak",
+      "Tips and personal expenses",
+      "Flights, visas and travel insurance"
+    ],
+    "de": [
+      "Mittagessen und Getränke, sofern nicht genannt",
+      "Englischsprachiger Guide (auf Anfrage gegen Aufpreis)",
+      "Boote und andere Wasseraktivitäten am Tscharwak-See",
+      "Trinkgelder und persönliche Ausgaben",
+      "Flüge, Visa und Reiseversicherung"
+    ],
+    "fr": [
+      "Déjeuner et boissons sauf mention",
+      "Guide anglophone (sur demande, en supplément)",
+      "Bateaux et autres activités nautiques à Tcharvak",
+      "Pourboires et dépenses personnelles",
+      "Vols, visas et assurance voyage"
+    ],
+    "ja": [
+      "記載以外の昼食・飲み物",
+      "英語ガイド（ご希望により別料金で手配可）",
+      "チャルヴァク湖でのボート等の水上アクティビティ",
+      "チップ・個人的費用",
+      "航空券・ビザ・旅行保険"
+    ],
+    "es": [
+      "Almuerzo y bebidas salvo indicación",
+      "Guía de habla inglesa (bajo petición, con coste adicional)",
+      "Barcas y otras actividades acuáticas en Charvak",
+      "Propinas y gastos personales",
+      "Vuelos, visados y seguro de viaje"
+    ],
+    "zh": [
+      "午餐及饮料（除非另有列明）",
+      "英语导游（可应要求另付费用安排）",
+      "查尔瓦克湖的船只及其他水上活动",
+      "小费及个人开支",
+      "机票、签证及旅行保险"
+    ]
+  },
+  "priceFrom": 125,
+  "currency": "USD",
+  "priceNote": {
+    "en": "Prices are per person in USD for a private day tour, by group size; see the table below.",
+    "de": "Preise pro Person in USD für eine private Tagestour, nach Gruppengröße; siehe Tabelle unten.",
+    "fr": "Prix par personne en USD pour une excursion privée, selon la taille du groupe ; voir le tableau ci-dessous.",
+    "ja": "プライベート日帰りツアーの1名あたり料金（米ドル、人数別）。下の表をご覧ください。",
+    "es": "Precios por persona en USD para un tour privado de un día, según el tamaño del grupo; vea la tabla abajo.",
+    "zh": "价格为私人一日游每人美元价格，按团体人数计算；详见下方表格。"
+  },
+  "fromLabel": {
+    "en": "from $125 per person (4 travellers)",
+    "de": "ab $125 pro Person (4 Reisende)",
+    "fr": "à partir de 125 $ par personne (4 voyageurs)",
+    "ja": "1名あたり$125から（4名参加時）",
+    "es": "desde $125 por persona (4 viajeros)",
+    "zh": "起价$125/人（4位旅客）"
+  },
+  "priceTable": {
+    "rowHeader": "tourType",
+    "caption": {
+      "en": "Price per person in USD by group size (private day tour from Tashkent)",
+      "de": "Preis pro Person in USD nach Gruppengröße (private Tagestour ab Taschkent)",
+      "fr": "Prix par personne en USD selon la taille du groupe (excursion privée depuis Tachkent)",
+      "ja": "グループ人数別 1名あたり料金（米ドル・タシケント発プライベート日帰りツアー）",
+      "es": "Precio por persona en USD según el tamaño del grupo (tour privado desde Taskent)",
+      "zh": "私人一日游（从塔什干出发）按团体人数计算的每人美元价格"
+    },
+    "groupSizes": {
+      "en": [
+        "1 traveller",
+        "2 travellers",
+        "3 travellers",
+        "4 travellers"
+      ],
+      "de": [
+        "1 Reisender",
+        "2 Reisende",
+        "3 Reisende",
+        "4 Reisende"
+      ],
+      "fr": [
+        "1 voyageur",
+        "2 voyageurs",
+        "3 voyageurs",
+        "4 voyageurs"
+      ],
+      "ja": [
+        "1名",
+        "2名",
+        "3名",
+        "4名"
+      ],
+      "es": [
+        "1 viajero",
+        "2 viajeros",
+        "3 viajeros",
+        "4 viajeros"
+      ],
+      "zh": [
+        "1位旅客",
+        "2位旅客",
+        "3位旅客",
+        "4位旅客"
+      ]
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "Private day tour",
+          "de": "Private Tagestour",
+          "fr": "Excursion privée",
+          "ja": "プライベート日帰りツアー",
+          "es": "Tour privado de un día",
+          "zh": "私人一日游"
+        },
+        "prices": [
+          295,
+          175,
+          145,
+          125
+        ],
+        "singleSupplement": "–"
+      }
+    ],
+    "note": {
+      "en": "For groups larger than 4, ask us for a quote.",
+      "de": "Für Gruppen über 4 Personen erstellen wir gern ein Angebot.",
+      "fr": "Pour plus de 4 voyageurs, demandez-nous un devis.",
+      "ja": "5名以上のグループはお見積もりをご依頼ください。",
+      "es": "Para grupos de más de 4, pídanos un presupuesto.",
+      "zh": "超过4人的团体，请联系我们获取报价。"
+    }
+  },
+  "hotels": [],
+  "vehicles": [
+    {
+      "group": {
+        "en": "1–3 travellers",
+        "de": "1–3 Reisende",
+        "fr": "1 à 3 voyageurs",
+        "ja": "1〜3名",
+        "es": "1–3 viajeros",
+        "zh": "1–3位旅客"
+      },
+      "vehicle": {
+        "en": "Private air-conditioned car",
+        "de": "Privates klimatisiertes Auto",
+        "fr": "Voiture privée climatisée",
+        "ja": "エアコン付き専用車",
+        "es": "Coche privado climatizado",
+        "zh": "私人空调轿车"
+      }
+    },
+    {
+      "group": {
+        "en": "4 travellers",
+        "de": "4 Reisende",
+        "fr": "4 voyageurs",
+        "ja": "4名",
+        "es": "4 viajeros",
+        "zh": "4位旅客"
+      },
+      "vehicle": {
+        "en": "Private minivan",
+        "de": "Privater Minivan",
+        "fr": "Minivan privé",
+        "ja": "専用ミニバン",
+        "es": "Minivan privado",
+        "zh": "私人小型面包车"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925943/sunday-atlas/ugrwcrigdxw76ux1z5np.jpg",
+    "width": 1600,
+    "height": 1067,
+    "alt": {
+      "en": "Intricate Timurid tilework and arches in historic Samarkand, Uzbekistan",
+      "de": "Kunstvolle timuridische Fliesenmosaike und Bögen im historischen Samarkand, Usbekistan",
+      "fr": "Mosaïques timourides et arches historiques à Samarcande, Ouzbékistan",
+      "ja": "サマルカンドの歴史的建造物を彩る緻密なティムール朝タイル装飾",
+      "es": "Mosaicos timúridas y arcos históricos en Samarcanda, Uzbekistán",
+      "zh": "乌兹别克斯坦撒马尔罕历史悠久的帖木儿王朝精美瓷砖与拱门"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400032/sunday-atlas/registan-square-in-samarkand-uzbekistan-35220187_hm4jth.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Registan Square in Samarkand, Uzbekistan, with its three madrasahs",
+        "de": "Registan in Samarkand, Usbekistan, mit seinen drei Medresen",
+        "fr": "Place du Registan à Samarcande, Ouzbékistan, et ses trois médersas",
+        "ja": "サマルカンドのレギスタン広場と3つのメドレセ（ウズベキスタン）",
+        "es": "Plaza del Registán en Samarcanda, Uzbekistán, con sus tres madrasas",
+        "zh": "乌兹别克斯坦撒马尔罕里加斯坦广场及其三所伊斯兰学校"
+      }
+    }
+  ],
+  "sample": false,
+  "featured": true,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "Chimgan Mountains, Amirsoy & Charvak Lake Day Trip from Tashkent ($125)",
+      "meta_description": "From $125 USD/person: private 1-day Chimgan Mountains, Amirsoy Gondola (2,290 m) & turquoise Charvak Lake tour from Tashkent with hotel pickup & private car.",
+      "focus_keyword": "chimgan charvak day trip",
+      "keywords": [
+        "chimgan charvak day trip",
+        "tashkent mountains day tour",
+        "amirsoy resort day trip",
+        "charvak lake tour from tashkent"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Tschimgan-Gebirge, Amirsoy & Tscharwak-See Tagestour ab Taschkent ($125)",
+      "meta_description": "Ab $125 USD/Person: Privater Tagesausflug ab Taschkent in das Tschimgan-Gebirge mit Amirsoy-Gondelbahn (2.290 m) und Tscharwak-Stausee inkl. Hotelabholung.",
+      "focus_keyword": "tschimgan tscharwak tagestour",
+      "keywords": [
+        "tschimgan tscharwak tagestour",
+        "ausflug ab taschkent berge",
+        "amirsoy seilbahn tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Excursion Monts Tchimgan, Amirsoy & Lac Tcharvak depuis Tachkent ($125)",
+      "meta_description": "Dès $125 USD/pers. : excursion privée d’un jour depuis Tachkent vers la télécabine d’Amirsoy (2 290 m), les monts Tchimgan et le lac turquoise de Tcharvak.",
+      "focus_keyword": "excursion tchimgan tcharvak",
+      "keywords": [
+        "excursion tchimgan tcharvak",
+        "sortie montagne depuis tachkent",
+        "lac tcharvak tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "タシケント発チムガン山脈・アミルソイ＆チャルヴァク湖日帰りツアー ($125〜)",
+      "meta_description": "1名$125〜：タシケントのホテル送迎付き！標高2,290mのアミルソイ・ゴンドラ、チムガン山脈の絶景、ターコイズブルーのチャルヴァク湖を専用車で巡る日帰りツアー。",
+      "focus_keyword": "チムガン チャルヴァク湖 日帰りツアー",
+      "keywords": [
+        "チムガン チャルヴァク湖 日帰りツアー",
+        "タシケント 郊外 ツアー",
+        "アミルソイ 観光"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Excursión a Montes Chimgan, Amirsoy y Lago Charvak desde Taskent ($125)",
+      "meta_description": "Desde $125 USD/persona: excursión privada de 1 día desde Taskent al teleférico de Amirsoy (2.290 m), los montes Chimgan y el lago turquesa de Charvak.",
+      "focus_keyword": "excursión chimgan charvak",
+      "keywords": [
+        "excursión chimgan charvak",
+        "excursiones desde taskent",
+        "lago charvak tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "从塔什干出发的奇姆根山、阿米尔索伊与查尔瓦克湖一日游（125美元）",
+      "meta_description": "从125美元/人起：私人1日奇姆根山、阿米尔索伊缆车（海拔2,290米）与碧绿查尔瓦克湖之旅，从塔什干出发，含酒店接送及私人车辆。",
+      "focus_keyword": "塔什干一日游",
+      "keywords": [
+        "塔什干一日游",
+        "奇姆甘山",
+        "阿米尔索伊缆车",
+        "查尔瓦克湖",
+        "塔什干周边旅游",
+        "奇姆甘山缆车",
+        "查尔瓦克湖一日游",
+        "塔什干私人包车",
+        "塔什干山区旅游",
+        "奇姆甘山查尔瓦克湖"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Chimgan Mountains & Charvak Lake day trip from Tashkent",
+      "de": "Tagesausflug zu den Chimgan-Bergen & zum Charvak-See ab Taschkent",
+      "fr": "Excursion aux monts Chimgan et au lac Charvak depuis Tachkent",
+      "ja": "タシケント発チムガン山＆チャルヴァク湖日帰りツアー",
+      "es": "Excursión a los montes Chimgan y el lago Charvak desde Taskent"
+    },
+    "facts": {
+      "en": "Day tour at a glance",
+      "de": "Die Tagestour auf einen Blick",
+      "fr": "L’excursion en bref",
+      "ja": "日帰りツアーの概要",
+      "es": "El tour de un día de un vistazo"
+    },
+    "itinerary": {
+      "en": "The day, step by step",
+      "de": "Der Tagesablauf",
+      "fr": "Le programme de la journée",
+      "ja": "1日の流れ",
+      "es": "El día, paso a paso"
+    },
+    "included": {
+      "en": "What the tour includes",
+      "de": "Im Preis enthalten",
+      "fr": "Ce que comprend l’excursion",
+      "ja": "ツアーに含まれるもの",
+      "es": "Qué incluye el tour"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non compris",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "prices": {
+      "en": "Day tour prices",
+      "de": "Preise der Tagestour",
+      "fr": "Prix de l’excursion",
+      "ja": "日帰りツアー料金",
+      "es": "Precios del tour"
+    },
+    "vehicles": {
+      "en": "Vehicles by group size",
+      "de": "Fahrzeuge nach Gruppengröße",
+      "fr": "Véhicules selon la taille du groupe",
+      "ja": "人数別の車両",
+      "es": "Vehículos según el tamaño del grupo"
+    },
+    "faq": {
+      "en": "Day tour FAQs",
+      "de": "Häufige Fragen zur Tagestour",
+      "fr": "Questions fréquentes",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does this day tour cost?",
+        "de": "Was kostet diese Tagestour?",
+        "fr": "Combien coûte cette excursion ?",
+        "ja": "この日帰りツアーの料金は？",
+        "es": "¿Cuánto cuesta este tour?",
+        "zh": "这趟一日游多少钱？"
+      },
+      "a": {
+        "en": "It is $125 per person for 4 travellers, $145 for 3, $175 for 2 and $295 for one traveller, as a private tour.",
+        "de": "Als private Tour $125 pro Person bei 4 Reisenden, $145 bei 3, $175 bei 2 und $295 für eine Person.",
+        "fr": "En privé : 125 $ par personne à 4, 145 $ à 3, 175 $ à 2 et 295 $ pour un voyageur seul.",
+        "ja": "プライベートツアーで、4名なら1名$125、3名$145、2名$175、1名$295です。",
+        "es": "Como tour privado: $125 por persona para 4, $145 para 3, $175 para 2 y $295 para un viajero.",
+        "zh": "作为私人旅游，4位旅客每人125美元，3位旅客145美元，2位旅客175美元，1位旅客295美元。"
+      }
+    },
+    {
+      "q": {
+        "en": "Where does the tour start?",
+        "de": "Wo beginnt die Tour?",
+        "fr": "Où commence l’excursion ?",
+        "ja": "出発地はどこですか？",
+        "es": "¿Dónde empieza el tour?",
+        "zh": "旅游从哪里开始？"
+      },
+      "a": {
+        "en": "We pick you up at your hotel in Tashkent in the morning and bring you back there in the evening.",
+        "de": "Wir holen Sie morgens an Ihrem Hotel in Taschkent ab und bringen Sie abends zurück.",
+        "fr": "Nous venons vous chercher le matin à votre hôtel à Tachkent et vous y ramenons le soir.",
+        "ja": "朝タシケントのホテルへお迎えに上がり、夕方ホテルまでお送りします。",
+        "es": "Le recogemos por la mañana en su hotel de Taskent y le devolvemos allí por la tarde.",
+        "zh": "我们早上在塔什干您的酒店接您，晚上送回酒店。"
+      }
+    }
+  ],
+  "addOns": []
+}

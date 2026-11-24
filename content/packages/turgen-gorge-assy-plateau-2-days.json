@@ -1,0 +1,649 @@
+{
+  "slug": "turgen-gorge-assy-plateau-2-days",
+  "title": {
+    "en": "Turgen Gorge & Assy Plateau, 2 days",
+    "de": "Turgen-Schlucht & Assy-Plateau, 2 Tage",
+    "fr": "Turgen Gorge & Assy Plateau, 2 jours",
+    "ja": "トゥルゲン峡谷とアッシ高原、2日間",
+    "es": "Turgen Gorge & Assy Plateau, 2 días",
+    "zh": "图尔根峡谷与阿西高原，2天"
+  },
+  "destination": "kazakhstan",
+  "countries": [],
+  "durationDays": 2,
+  "nights": 1,
+  "style": {
+    "en": "Hiking & off-road",
+    "de": "Wandern & Offroad",
+    "fr": "Randonnée & tout-terrain",
+    "ja": "ハイキング＆オフロード",
+    "es": "Senderismo y todo terreno",
+    "zh": "徒步与越野"
+  },
+  "seasonNote": {
+    "en": "Summer only",
+    "de": "Nur im Sommer",
+    "fr": "Seulement en été",
+    "ja": "夏季のみ",
+    "es": "Solo en verano",
+    "zh": "仅限夏季"
+  },
+  "maxGroupSize": 6,
+  "summary": {
+    "en": "A private 2-day trip from Almaty in summer: a forest hike to Kairak waterfall in Turgen Gorge, a night at our glamping camp, then a full off-road day on the Assy Plateau at about 3,000 m.",
+    "de": "Eine private 2-Tage-Tour ab Almaty im Sommer: eine Waldwanderung zum Kairak-Wasserfall in der Turgen-Schlucht, eine Nacht in unserem Glamping-Camp und dann ein ganzer Offroad-Tag auf dem Assy-Plateau auf etwa 3.000 m.",
+    "fr": "Un voyage privé de 2 jours au départ d'Almaty en été : une randonnée en forêt jusqu'à la cascade de Kairak dans la gorge de Turgen, une nuit dans notre camp de glamping, puis une journée complète tout-terrain sur le plateau d'Assy à environ 3 000 m.",
+    "ja": "夏のアルマトイからのプライベート2日間の旅：トゥルゲン峡谷の森林ハイキングでカイラクの滝に到達し、グランピングキャンプで一泊。その後、アッシ高原で約3,000 mのオフロードを満喫します。",
+    "es": "Un viaje privado de 2 días desde Almaty en verano: una caminata por el bosque hasta la cascada Kairak en el cañón de Turgen, una noche en nuestro campamento de glamping, luego un día completo de todo terreno en el altiplano de Assy, a unos 3,000 m.",
+    "zh": "夏季从阿拉木图出发的私人2天行程：在图尔根峡谷徒步前往卡伊拉克瀑布，在我们的露营地过夜，随后在海拔约3,000米的阿西高原度过全天越野日。"
+  },
+  "intro": {
+    "en": "This Assy Plateau tour is a private 2-day trip from Almaty for one to six travellers, run in summer only. On the first day our guide leads a 16 km forest hike up Turgen Gorge to Big Kairak waterfall, on an old park road with no steep or exposed sections, and you sleep at our glamping camp by the river. On the second day a 4x4 climbs out of the forest onto the Assy Plateau, a high summer pasture with yurts, herds, Saka burial mounds and views of the Tien Shan glaciers.",
+    "de": "Diese Assy-Plateau-Tour ist eine private 2-Tage-Tour ab Almaty für ein bis sechs Reisende, die nur im Sommer stattfindet. Am ersten Tag führt unser Guide eine 16 km lange Waldwanderung durch die Turgen-Schlucht hinauf zum Großen Kairak-Wasserfall, auf einer alten Parkstraße ohne steile oder exponierte Abschnitte. Übernachtet wird in unserem Glamping-Camp am Fluss. Am zweiten Tag fährt ein 4x4 aus dem Wald auf das Assy-Plateau, eine hohe Sommerweide mit Jurten, Herden, sakischen Grabhügeln und Blick auf die Gletscher des Tian-Schan.",
+    "fr": "Ce tour du plateau d'Assy est un voyage privé de 2 jours au départ d'Almaty pour un à six voyageurs, organisé uniquement en été. Le premier jour, notre guide mène une randonnée de 16 km en forêt dans la gorge de Turgen jusqu'à la grande cascade de Kairak, sur une ancienne route de parc sans sections raides ou exposées, et vous dormez dans notre camp de glamping au bord de la rivière. Le deuxième jour, un 4x4 grimpe hors de la forêt sur le plateau d'Assy, un haut pâturage d'été avec des yourtes, des troupeaux, des tumulus sakas et des vues sur les glaciers du Tian Shan.",
+    "es": "Este tour por el altiplano de Assy es un viaje privado de 2 días desde Almaty para uno a seis viajeros, que se realiza solo en verano. El primer día, nuestro guía lidera una caminata de 16 km por el bosque subiendo el cañón de Turgen hasta la gran cascada Kairak, por un antiguo camino del parque sin secciones empinadas o expuestas, y duermes en nuestro campamento de glamping junto al río. El segundo día, un 4x4 sube fuera del bosque hasta el altiplano de Assy, un alto pastizal de verano con yurtas, rebaños, túmulos funerarios saka y vistas de los glaciares del Tian Shan.",
+    "ja": "このアッシ高原ツアーは、アルマトイから1人から6人までのプライベート2日間の旅で、夏季のみ運行されます。1日目は、当社のガイドがトゥルゲン峡谷を16kmの森林ハイキングでビッグ・カイラクの滝まで案内します。古い公園道路で急な場所や露出された場所はありません。川辺の当社のグランピングキャンプで一泊します。2日目は、4x4車で森林からアッシ高原に登ります。高地の夏の牧場でユルト、家畜、サカの墳墓、そして天山の氷河を見渡すことができます。",
+    "zh": "这个阿西高原之旅是从阿拉木图出发的私人2天行程，适合1至6名旅客，仅在夏季运营。第一天，我们的导游带领您沿图尔根峡谷的旧公园道路徒步16公里前往大卡伊拉克瀑布，路线无陡峭或暴露路段，您将在河边的露营地过夜。第二天，4x4越野车从森林驶上阿西高原，这是一个夏季牧场，有毡帐篷、牛羊群落、萨卡古墓群以及天山冰川的景色。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Almaty – Turgen Gorge – Kairak waterfall – our glamping camp",
+        "de": "Almaty – Turgen-Schlucht – Kairak-Wasserfall – unser Glamping-Camp",
+        "fr": "Almaty – Gorge de Turgen – Cascade de Kairak – notre camp de glamping",
+        "ja": "アルマトイ – トゥルゲン峡谷 – カイラクの滝 – 当社のグランピングキャンプ",
+        "es": "Almaty – Cañón de Turgen – Cascada Kairak – nuestro campamento de glamping",
+        "zh": "阿拉木图 – 图尔根峡谷 – 卡伊拉克瀑布 – 我们的露营地"
+      },
+      "description": {
+        "en": "We pick you up in Almaty early in the morning and drive about 80 km east, past Issyk village and the Turgen trout farm, with a short stop at the national park gate. The asphalt ends at the Batan forestry, and the hike starts where the Kishi-Turgen meets the Turgen river. A former park road, whose main bridge was swept away by a mudflow, runs about 8 km up the valley with no big height gain and no steep or dangerous sections. It crosses 11 old bridges and passes Schrenk spruce, mossy meadows full of flowers, ash shrubs and wild Sievers apple trees, the ancestor of all cultivated apples. At the Kairak confluence we turn left and climb for about 20 minutes through spruce to Big Kairak waterfall, more than 55 m high (about 70 m in all), which never dries up. Allow 2.5–3 hours up, 30–40 minutes at the falls for photos and a snack, and about 2 hours back. From Batan we drive to our glamping camp on the riverbank for a late lunch, time in the hammocks among the trees, dinner and the night. Walking: about 5–6 hours, 16 km, 430 m up and down (1,700–2,130 m). Driving: about 2 hours, 80 km.",
+        "de": "Wir holen Sie morgens früh in Almaty ab und fahren etwa 80 km nach Osten, vorbei am Dorf Issyk und an der Forellenzucht am Turgen, mit einem kurzen Halt am Nationalpark-Tor. Der Asphalt endet bei der Forstwirtschaft Batan, und der Wanderweg beginnt, wo der Kishi-Turgen auf den Turgen-Fluss trifft. Ein ehemaliger Parkweg, dessen Hauptbrücke von einem Schlammstrom weggespült wurde, führt etwa 8 km ins Tal, ohne großen Höhengewinn und ohne steile oder gefährliche Abschnitte. Er überquert 11 alte Brücken und führt an Schrenk-Fichten, moosigen Wiesen voller Blumen, Eschensträuchern und wilden Sievers-Apfelbäumen vorbei, dem Vorfahren aller kultivierten Äpfel. An der Kairak-Mündung biegen wir links ab und steigen etwa 20 Minuten durch Fichtenwald zum Großen Kairak-Wasserfall hinauf, der mehr als 55 m hoch ist (insgesamt etwa 70 m) und nie austrocknet. Planen Sie 2,5–3 Stunden für den Aufstieg, 30–40 Minuten am Wasserfall für Fotos und einen Snack und etwa 2 Stunden für den Rückweg ein. Von Batan aus fahren wir zu unserem Glamping-Camp am Flussufer für ein spätes Mittagessen, Zeit in den Hängematten zwischen den Bäumen, Abendessen und die Nacht. Gehen: etwa 5–6 Stunden, 16 km, 430 m auf und ab (1.700–2.130 m). Fahren: etwa 2 Stunden, 80 km.",
+        "fr": "Nous venons vous chercher à Almaty tôt le matin et nous conduisons environ 80 km à l'est, en passant par le village d'Issyk et l'élevage de truites du Turgen, avec un court arrêt à la porte du parc national. L'asphalte s'arrête à la forêt de Batan, et la randonnée commence là où la Kishi-Turgen rencontre la rivière Turgen. Une ancienne route de parc, dont le principal pont a été emporté par une coulée de boue, remonte la vallée sur environ 8 km sans grand gain d'altitude et sans sections raides ou dangereuses. Elle traverse 11 anciens ponts et passe par des épicéas de Schrenk, des prairies moussues pleines de fleurs, des arbustes de frêne et des pommiers sauvages de Sievers, l'ancêtre de toutes les pommes cultivées. À la confluence de Kairak, nous tournons à gauche et montons pendant environ 20 minutes à travers les épicéas jusqu'à la grande cascade de Kairak, haute de plus de 55 m (environ 70 m au total), qui ne se tarit jamais. Prévoyez 2,5 à 3 heures pour monter, 30 à 40 minutes aux chutes pour des photos et une collation, et environ 2 heures pour redescendre. De Batan, nous conduisons jusqu'à notre camp de glamping au bord de la rivière pour un déjeuner tardif, du temps dans les hamacs parmi les arbres, le dîner et la nuit. Marche : environ 5 à 6 heures, 16 km, 430 m de montée et de descente (1 700 à 2 130 m). Conduite : environ 2 heures, 80 km.",
+        "ja": "朝早くアルマトイからお迎えし、イッシク村とトゥルゲンの鱒養殖場を通り、国立公園のゲートで短い休憩を挟み、東へ約80 kmのドライブを行います。アスファルトはバタンの林業地帯で終わり、ハイキングはキシ・トゥルゲン川がトゥルゲン川に合流する地点から始まります。かつての公園道路で、主な橋が土砂崩れで流されていますが、谷を約8 km上ることができ、大きな高度差や急な危険な箇所はありません。11の古い橋を渡り、シュレンクトウヒ、花が咲き乱れる苔の生えた草地、トネリコの低木、野生のシエバーズリンゴの木、すべての栽培リンゴの祖先を通過します。カイラクの合流点で左に曲がり、トウヒの森を約20分登ると、高さ55 m以上（全体で約70 m）のビッグ・カイラクの滝に到達します。この滝は決して枯れません。上りに2.5–3時間、滝で写真撮影と軽食に30–40分、戻りに約2時間をかけます。バタンからは、川辺の当社のグランピングキャンプにドライブし、遅い昼食、木々の間のハンギングチェアで過ごし、夕食と夜を過ごします。歩行：約5–6時間、16 km、430 mの上り下り（1,700–2,130 m）。ドライブ：約2時間、80 km。",
+        "es": "Te recogemos en Almaty temprano en la mañana y conducimos unos 80 km hacia el este, pasando por el pueblo de Issyk y la granja de truchas de Turgen, con una breve parada en la puerta del parque nacional. El asfalto termina en la forestal de Batan, y la caminata comienza donde el Kishi-Turgen se encuentra con el río Turgen. Un antiguo camino del parque, cuyo puente principal fue arrastrado por un alud, corre unos 8 km por el valle sin gran ganancia de altura y sin secciones empinadas o peligrosas. Cruza 11 puentes antiguos y pasa por abetos de Schrenk, praderas musgosas llenas de flores, arbustos de fresno y manzanos silvestres de Sievers, el antepasado de todas las manzanas cultivadas. En la confluencia de Kairak giramos a la izquierda y subimos unos 20 minutos a través de abetos hasta la gran cascada Kairak, de más de 55 m de altura (unos 70 m en total), que nunca se seca. Permite 2.5–3 horas de subida, 30–40 minutos en las cascadas para fotos y un refrigerio, y unas 2 horas de regreso. Desde Batan conducimos hasta nuestro campamento de glamping en la orilla del río para almorzar tarde, tiempo en las hamacas entre los árboles, cena y la noche. Caminata: unas 5–6 horas, 16 km, 430 m de subida y bajada (1,700–2,130 m). Conducción: unas 2 horas, 80 km.",
+        "zh": "我们清晨在阿拉木图接您，向东行驶约80公里，途经伊西克村和图尔根鳟鱼场，在国家公园大门短暂停留。柏油路在巴坦林场结束，徒步从基什-图尔根河与图尔根河交汇处开始。一条旧公园道路，其主桥曾被泥石流冲毁，沿山谷延伸约8公里，无大幅度海拔上升，也无陡峭或危险路段。道路跨越11座旧桥，穿过施伦克云杉、长满鲜花的苔藓草地、白蜡灌木和西弗斯野苹果树——所有栽培苹果的祖先。在卡伊拉克河口处，我们左转，穿过云杉林攀爬约20分钟，到达高度超过55米（总高约70米）且永不干涸的大卡伊拉克瀑布。上山预计2.5–3小时，在瀑布处拍照和吃零食约30–40分钟，下山约2小时。从巴坦我们驱车前往河岸的露营地，享用午餐，在树林间的吊床上休息，然后用晚餐并过夜。步行：约5–6小时，16公里，累计上下坡430米（海拔1,700–2,130米）。驾车：约2小时，80公里。"
+      },
+      "meals": {
+        "en": "lunch, dinner",
+        "de": "Mittagessen, Abendessen",
+        "fr": "déjeuner, dîner",
+        "ja": "昼食、夕食",
+        "es": "almuerzo, cena",
+        "zh": "午餐，晚餐"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Off-road day on the Assy Plateau – Almaty",
+        "de": "Offroad-Tag auf dem Assy-Plateau – Almaty",
+        "fr": "Journée tout-terrain sur le plateau d'Assy – Almaty",
+        "ja": "アッシ高原のオフロード – アルマトイ",
+        "es": "Día de todo terreno en el altiplano de Assy – Almaty",
+        "zh": "阿西高原越野日 – 阿拉木图"
+      },
+      "description": {
+        "en": "After breakfast at camp a 4x4 takes the rough track up the gorge. At about 2,600 m the forest ends all at once and the green Assy highland valley opens up, at around 3,000 m. In summer this is pasture for goats, sheep and horses, with white yurts and shepherds working with Tazy hounds; we stop at a yurt for Kazakh tea with salted kurt. The plateau also holds ancient Saka (Scythian) ruins and burial mounds, Bronze Age rock carvings and plenty of wildlife, and we call at the Assy space observatory. Lunch is a picnic with views of the snow peaks and glaciers of the Tien Shan. In the afternoon we drive back down to camp, pack up and return to Almaty. Walking: about 1 hour, 2.5 km. Driving: about 7 hours, 130 km, most of it off-road on the plateau.",
+        "de": "Nach dem Frühstück im Camp nimmt ein 4x4 den holprigen Weg durch die Schlucht. Bei etwa 2.600 m endet der Wald schlagartig und das grüne Hochlandtal von Assy öffnet sich, bei etwa 3.000 m. Im Sommer ist dies Weideland für Ziegen, Schafe und Pferde, mit weißen Jurten und Hirten, die mit Tazy-Hunden arbeiten; wir halten an einer Jurte für kaspischen Tee mit gesalzenem Kurt. Das Plateau beherbergt auch antike sakische (skythische) Ruinen und Grabhügel, Felszeichnungen aus der Bronzezeit und jede Menge Wildtiere, und wir besuchen das Assy-Sternenobservatorium. Das Mittagessen ist ein Picknick mit Blick auf die Schneegipfel und Gletscher des Tian-Schan. Am Nachmittag fahren wir zurück ins Camp, packen zusammen und kehren nach Almaty zurück. Gehen: etwa 1 Stunde, 2,5 km. Fahren: etwa 7 Stunden, 130 km, größtenteils Offroad auf dem Plateau.",
+        "fr": "Après le petit-déjeuner au camp, un 4x4 prend la piste cahoteuse dans la gorge. Vers 2 600 m, la forêt s'arrête brusquement et la vallée verte du haut plateau d'Assy s'ouvre, autour de 3 000 m. En été, c'est un pâturage pour les chèvres, les moutons et les chevaux, avec des yourtes blanches et des bergers travaillant avec des chiens Tazy ; nous nous arrêtons dans une yourte pour du thé kazakh avec du kurt salé. Le plateau abrite également des ruines et des tumulus sakas (scythes) anciens, des gravures rupestres de l'âge du bronze et une faune abondante, et nous faisons un arrêt à l'observatoire spatial d'Assy. Le déjeuner est un pique-nique avec vue sur les sommets enneigés et les glaciers du Tian Shan. L'après-midi, nous redescendons en voiture jusqu'au camp, nous faisons nos bagages et retournons à Almaty. Marche : environ 1 heure, 2,5 km. Conduite : environ 7 heures, 130 km, dont la plupart hors route sur le plateau.",
+        "ja": "キャンプでの朝食後、4x4が荒れた道を谷を登ります。約2,600 mで森林が一気に終わり、約3,000 mの緑豊かなアッシ高原の谷が広がります。夏にはヤギ、羊、馬の牧場で、白いユルトとタジ犬を使う牧羊人がいます。ユルトでカザフの塩茶と塩辛いクルトを楽しみます。この高原には、古代のサカ（スキタイ）の遺跡や墳墓、青銅器時代の岩絵、そして豊かな野生動物がいます。アッシ宇宙観測所にも立ち寄ります。昼食は、天山の雪山と氷河の景色を楽しみながらのピクニックです。午後はキャンプに戻り、荷物をまとめてアルマトイに帰ります。歩行：約1時間、2.5 km。ドライブ：約7時間、130 km、ほとんどが高原のオフロードです。",
+        "es": "Después del desayuno en el campamento, un 4x4 toma la pista irregular por el cañón. A unos 2,600 m el bosque termina de repente y se abre el valle alto verde de Assy, a unos 3,000 m. En verano, esto es pastizal para cabras, ovejas y caballos, con yurtas blancas y pastores trabajando con perros Tazy; nos detenemos en una yurta para tomar té kazajo con kurt salado. El altiplano también alberga ruinas y túmulos funerarios antiguos saka (escitas), grabados en roca de la Edad de Bronce y mucha vida silvestre, y visitamos el observatorio espacial de Assy. El almuerzo es un picnic con vistas a las cimas nevadas y glaciares del Tian Shan. Por la tarde, conducimos de regreso al campamento, empacamos y regresamos a Almaty. Caminata: unas 1 hora, 2.5 km. Conducción: unas 7 horas, 130 km, la mayoría fuera de la carretera en el altiplano.",
+        "zh": "在营地早餐后，4x4越野车沿峡谷的粗糙道路行驶。在约2,600米处，森林戛然而止，绿色的阿西高原山谷展现在眼前，海拔约3,000米。夏季这里是山羊、绵羊和马匹的牧场，有白色毡帐篷和牧羊人与塔齐猎犬一起工作；我们会在一个毡帐篷停留，品尝带盐的库尔特奶干配茶。高原上还有古代萨卡（斯基泰）遗址和古墓冢、青铜时代岩画以及丰富的野生动物，我们还会参观阿西太空观测站。午餐是野餐，可欣赏天山雪峰和冰川的景色。下午我们驱车返回营地，收拾行装后返回阿拉木图。步行：约1小时，2.5公里。驾车：约7小时，130公里，其中大部分在高原上越野行驶。"
+      },
+      "meals": {
+        "en": "breakfast, lunch",
+        "de": "Frühstück, Mittagessen",
+        "fr": "petit-déjeuner, déjeuner",
+        "ja": "朝食、昼食",
+        "es": "desayuno, almuerzo",
+        "zh": "早餐，午餐"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Private tour with our English-speaking guide on both days, including the guided hike and excursions",
+      "Pick-up and drop-off in Almaty and all transfers in the itinerary",
+      "Off-road 4x4 day on the Assy Plateau",
+      "1 night at our glamping camp in Turgen Gorge, sharing a large furnished double tent with beds, mattresses, pillows, sleeping bags and linen; shared showers and toilets",
+      "Meals: 2 lunches, 1 dinner and 1 breakfast, plus drinking water",
+      "Entry fees and permits for Ile-Alatau National Park and the Assy reserve",
+      "Group first-aid kit, radio for larger groups and inspected off-road vehicles"
+    ],
+    "de": [
+      "Private Tour mit unserem englischsprachigen Guide an beiden Tagen, einschließlich der geführten Wanderung und Ausflüge",
+      "Abholung und Rückfahrt in Almaty sowie alle Transfers im Reiseverlauf",
+      "Offroad-Tag mit dem 4x4 auf dem Assy-Plateau",
+      "1 Nacht in unserem Glamping-Camp in der Turgen-Schlucht, in einem großen, möblierten Doppelzelt mit Betten, Matratzen, Kissen, Schlafsäcken und Bettwäsche; gemeinsame Duschen und Toiletten",
+      "Mahlzeiten: 2 Mittagessen, 1 Abendessen und 1 Frühstück, plus Trinkwasser",
+      "Eintrittsgebühren und Genehmigungen für den Ile-Alatau-Nationalpark und das Assy-Reservat",
+      "Gruppen-Erste-Hilfe-Kasten, Funkgerät für größere Gruppen und geprüfte Offroad-Fahrzeuge"
+    ],
+    "fr": [
+      "Tour privé avec notre guide anglophone les deux jours, y compris la randonnée guidée et les excursions",
+      "Prise en charge et dépôt à Almaty et tous les transferts dans l'itinéraire",
+      "Journée tout-terrain en 4x4 sur le plateau d'Assy",
+      "1 nuit dans notre camp de glamping dans la gorge de Turgen, partageant une grande tente double meublée avec lits, matelas, oreillers, sacs de couchage et draps ; douches et toilettes partagées",
+      "Repas : 2 déjeuners, 1 dîner et 1 petit-déjeuner, plus de l'eau potable",
+      "Frais d'entrée et permis pour le parc national d'Ile-Alatau et la réserve d'Assy",
+      "Trousse de premiers secours de groupe, radio pour les grands groupes et véhicules tout-terrain inspectés"
+    ],
+    "ja": [
+      "両日とも英語を話す当社のガイドによるプライベートツアー、ガイド付きハイキングとエクスカーションを含む",
+      "アルマトイでのお迎えと送り、イテナリー内のすべての移動",
+      "アッシ高原のオフロード4x4",
+      "トゥルゲン峡谷の当社のグランピングキャンプでの1泊、ベッド、マットレス、枕、寝袋、リネン付きの大きな家具付きダブルテントを共有、シャワーとトイレは共有",
+      "食事：2回の昼食、1回の夕食、1回の朝食、飲料水",
+      "イル・アラタウ国立公園とアッシ保護区の入場料と許可証",
+      "グループ用の救急キット、大規模グループ用のラジオ、点検済みのオフロード車両"
+    ],
+    "es": [
+      "Tour privado con nuestro guía de habla inglesa ambos días, incluyendo la caminata guiada y las excursiones",
+      "Recogida y traslado en Almaty y todos los traslados en el itinerario",
+      "Día de 4x4 todo terreno en el altiplano de Assy",
+      "1 noche en nuestro campamento de glamping en el cañón de Turgen, compartiendo una gran tienda doble amueblada con camas, colchones, almohadas, sacos de dormir y ropa de cama; duchas y baños compartidos",
+      "Comidas: 2 almuerzos, 1 cena y 1 desayuno, más agua potable",
+      "Tarifas de entrada y permisos para el Parque Nacional Ile-Alatau y la reserva de Assy",
+      "Botiquín de primeros auxilios grupal, radio para grupos más grandes y vehículos todo terreno inspeccionados"
+    ],
+    "zh": [
+      "两天均有我们的英语导游陪同的私人旅行，包括导游徒步和游览",
+      "阿拉木图接送站及行程中所有交通",
+      "阿西高原越野4x4之旅",
+      "图尔根峡谷我们的露营地1晚，共用一间配有床铺、床垫、枕头、睡袋和床单的大型家具双人帐篷；共用淋浴间和厕所",
+      "餐饮：2份午餐，1份晚餐和1份早餐，以及饮用水",
+      "伊列-阿拉套国家公园和阿西保护区的门票和许可证",
+      "团体急救包、大型团队的对讲机以及经过检查的越野车辆"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights to and from Almaty",
+      "Airport, railway and bus station transfers",
+      "Hotels, meals and activities in Almaty before and after the trip",
+      "Visa and migration fees or support",
+      "Travel insurance",
+      "Personal expenses",
+      "Rental of clothing, footwear and gear",
+      "Porters for luggage and backpacks",
+      "Soft and alcoholic drinks and snacks",
+      "The camp sauna (arranged on site)",
+      "A tent of your own (single supplement on request)"
+    ],
+    "de": [
+      "Internationale Flüge nach und von Almaty",
+      "Transfers zum/vom Flughafen, Bahnhof und Busbahnhof",
+      "Hotels, Mahlzeiten und Aktivitäten in Almaty vor und nach der Reise",
+      "Visa- und Migrationsgebühren oder -unterstützung",
+      "Reiseversicherung",
+      "Persönliche Ausgaben",
+      "Ausleihe von Kleidung, Schuhwerk und Ausrüstung",
+      "Träger für Gepäck und Rucksäcke",
+      "Weiche und alkoholische Getränke sowie Snacks",
+      "Die Sauna im Camp (vor Ort arrangiert)",
+      "Ein eigenes Zelt (Einzelzuschlag auf Anfrage)"
+    ],
+    "fr": [
+      "Vols internationaux à destination et en provenance d'Almaty",
+      "Transfert aéroport, gare et gare routière",
+      "Hôtels, repas et activités à Almaty avant et après le voyage",
+      "Frais de visa et de migration ou de soutien",
+      "Assurance voyage",
+      "Dépenses personnelles",
+      "Location de vêtements, chaussures et équipement",
+      "Portage des bagages et sacs à dos",
+      "Boissons et snacks, alcoolisés ou non",
+      "Le sauna du camp (à organiser sur place)",
+      "Une tente pour soi (supplément individuel sur demande)"
+    ],
+    "ja": [
+      "アルマトイへの国際線のフライト",
+      "空港、鉄道、バス駅の送迎",
+      "旅行前後のアルマトイでのホテル、食事、アクティビティ",
+      "ビザと移民手数料またはサポート",
+      "旅行保険",
+      "個人的な費用",
+      "衣類、靴、装備のレンタル",
+      "荷物やリュックサックの運搬",
+      "ソフトドリンク、アルコール、お菓子",
+      "現地で手配するキャンプのサウナ",
+      "個室のテント（シングルサプリメントはご希望に応じて）"
+    ],
+    "es": [
+      "Vuelos internacionales a y desde Almaty",
+      "Translados al aeropuerto, estación de tren y estación de autobuses",
+      "Hoteles, comidas y actividades en Almaty antes y después del viaje",
+      "Tarifas y apoyo de visa y migración",
+      "Seguro de viaje",
+      "Gastos personales",
+      "Alquiler de ropa, calzado y equipo",
+      "Portadores para el equipaje y mochilas",
+      "Bebidas y snacks, con y sin alcohol",
+      "La sauna del campamento (se puede organizar en el lugar)",
+      "Una tienda propia (suplemento individual bajo petición)"
+    ],
+    "zh": [
+      "往返阿拉木图的国际机票",
+      "机场、火车站和汽车站接送",
+      "行程前后在阿拉木图的酒店、餐饮和活动",
+      "签证和移民费用或支持",
+      "旅行保险",
+      "个人费用",
+      "服装、鞋履和装备租赁",
+      "行李和背包搬运工",
+      "软饮、酒精饮料和零食",
+      "营地桑拿（现场安排）",
+      "单独帐篷（可申请单人房差）"
+    ]
+  },
+  "priceFrom": 364,
+  "currency": "USD",
+  "priceNote": {
+    "en": "Season 2026, USD per person. Private tour; the price depends on group size. Single supplement on request.",
+    "de": "Saison 2026, USD pro Person. Private Tour; der Preis hängt von der Gruppengröße ab. Einzelzuschlag auf Anfrage.",
+    "fr": "Saison 2026, USD par personne. Tour privé; le prix dépend de la taille du groupe. Supplément individuel sur demande.",
+    "es": "Temporada 2026, USD por persona. Tour privado; el precio depende del tamaño del grupo. Suplemento individual bajo petición.",
+    "ja": "2026年シーズン、1人あたり米ドル。プライベートツアーのため、価格はグループの人数によって異なります。シングルサプリメントはご希望に応じてご用意いたします。",
+    "zh": "2026年季节，每人美元。私人旅游；价格根据团队规模而定。单人房差可申请。"
+  },
+  "fromLabel": {
+    "en": "from $364 per person (4–6 travellers)",
+    "de": "ab $364 pro Person (4–6 Reisende)",
+    "fr": "à partir de 364 $ par personne (4–6 voyageurs)",
+    "es": "desde $364 por persona (4–6 viajeros)",
+    "ja": "1人あたり$364から（4–6名様）",
+    "zh": "每人364美元起（4–6位旅客）"
+  },
+  "priceTable": {
+    "caption": {
+      "en": "Season 2026, USD per person",
+      "de": "Saison 2026, USD pro Person",
+      "fr": "Saison 2026, USD par personne",
+      "es": "Temporada 2026, USD por persona",
+      "ja": "2026年シーズン、1人あたり米ドル",
+      "zh": "2026年季节，每人美元"
+    },
+    "groupSizes": {
+      "en": [
+        "1 traveller",
+        "2 travellers",
+        "3 travellers",
+        "4–6 travellers"
+      ],
+      "de": [
+        "1 Gast",
+        "2 Gäste",
+        "3 Gäste",
+        "4–6 Gäste"
+      ],
+      "fr": [
+        "1 voyageur",
+        "2 voyageurs",
+        "3 voyageurs",
+        "4–6 voyageurs"
+      ],
+      "ja": [
+        "1名の旅行者",
+        "2名の旅行者",
+        "3名の旅行者",
+        "4–6名の旅行者"
+      ],
+      "es": [
+        "1 viajero",
+        "2 viajeros",
+        "3 viajeros",
+        "4–6 viajeros"
+      ],
+      "zh": [
+        "1位旅客",
+        "2位旅客",
+        "3位旅客",
+        "4–6位旅客"
+      ]
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "Private tour",
+          "de": "Private Tour",
+          "fr": "Tour privé",
+          "ja": "プライベートツアー",
+          "es": "Tour privado",
+          "zh": "私人旅游"
+        },
+        "prices": [
+          891,
+          559,
+          423,
+          364
+        ],
+        "singleSupplement": ""
+      }
+    ],
+    "note": {
+      "en": "Prices are per person in USD for a private tour, by group size, sharing a tent. A tent of your own is on request.",
+      "de": "Die Preise sind pro Person in USD für eine private Tour, nach Gruppengröße, mit einem geteilten Zelt. Ein eigenes Zelt ist auf Anfrage.",
+      "fr": "Les prix sont par personne en USD pour un tour privé, par taille de groupe, en partageant une tente. Une tente pour soi est sur demande.",
+      "es": "Los precios son por persona en USD para un tour privado, por tamaño de grupo, compartiendo una tienda. Una tienda propia es bajo petición.",
+      "ja": "価格は1人あたり米ドルで、プライベートツアー、グループの人数によって異なります。テントをシェアする場合の価格です。個室のテントはご希望に応じてご用意いたします。",
+      "zh": "价格为私人旅游每人美元，按团队规模计算，共用帐篷。单独帐篷可申请。"
+    }
+  },
+  "hotels": [],
+  "vehicles": [],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410516/sunday-atlas/yurts-by-the-turgen-river-kazakhstan-38116264_hhpzgh.jpg",
+    "width": 1920,
+    "height": 1080,
+    "alt": {
+      "en": "Yurts by the Turgen river in Turgen Gorge, Almaty Region, on the way to the Assy Plateau",
+      "de": "Jurten am Turgen-Fluss in der Turgen-Schlucht, Almaty-Region, auf dem Weg zum Assy-Plateau",
+      "fr": "Yourtes au bord de la rivière Turgen dans la gorge de Turgen, région d'Almaty, en route vers le plateau d'Assy",
+      "ja": "アルマトイ州のトゥルゲン渓谷、アッシ高原への途中にあるトゥルゲン川沿いのユルト",
+      "es": "Yurtas junto al río Turgen en el cañón de Turgen, región de Almaty, de camino al plato Assy",
+      "zh": "阿拉木图州图尔根河畔图尔根峡谷的毡包，前往阿西高原途中"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317588/sunday-atlas/06-yurt-pasture_rrim5b.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "People gathered beside a felt yurt and tent on green summer pasture in the Tien Shan mountains, with a saddled horse grazing",
+        "de": "Menschen neben einer Filzjurte und einem Zelt auf einer grünen Sommerweide im Tian-Schan-Gebirge, daneben ein gesatteltes Pferd",
+        "fr": "Personnes rassemblées près d’une yourte en feutre et d’une tente sur un pâturage d’été verdoyant dans les monts Tian Shan, avec un cheval sellé",
+        "ja": "天山山脈の緑の夏の牧草地に立つフェルトのユルトとテントのそばに集う人々と、草を食む鞍付きの馬",
+        "es": "Personas reunidas junto a una yurta de fieltro y una tienda en un pastizal verde de verano en las montañas Tian Shan, con un caballo ensillado",
+        "zh": "天山山脉绿色夏季牧场上，人们聚集在毡包和帐篷旁，一匹备鞍的马在吃草"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/02-horses-naryn_gzijee.jpg",
+        "width": 1600,
+        "height": 2133
+      },
+      "alt": {
+        "en": "Horsemen leading and riding horses across a high mountain pasture in the Tien Shan",
+        "de": "Reiter mit Pferden auf einer hochgelegenen Bergweide im Tian-Schan-Gebirge",
+        "fr": "Cavaliers menant et montant des chevaux sur un alpage de haute montagne dans les monts Tian Shan",
+        "ja": "天山山脈の高原牧草地で馬を引き、馬に乗る騎手たち",
+        "es": "Jinetes guiando y montando caballos en un pastizal de alta montaña en las montañas Tian Shan",
+        "zh": "骑手在天山高海拔牧场上牵马和骑马"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410516/sunday-atlas/spring-in-the-turgen-valley-kazakhstan-38116260_tlc0ud.jpg",
+        "width": 1728,
+        "height": 3072
+      },
+      "alt": {
+        "en": "Spring trees and yurts by the river in the Turgen valley, Kazakhstan",
+        "de": "Frühlingsbäume und Jurten am Fluss im Turgen-Tal, Kasachstan",
+        "fr": "Arbres printaniers et yourtes au bord de la rivière dans la vallée de Turgen, Kazakhstan",
+        "ja": "カザフスタンのトゥルゲン渓谷で、川沿いの春の木々とユルト",
+        "es": "Árboles de primavera y yurtas junto al río en el valle de Turgen, Kazajistán",
+        "zh": "哈萨克斯坦图尔根河谷春日树木与河畔毡包"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410517/sunday-atlas/mountain-stream-in-turgen-kazakhstan-38116263_jvdm2b.jpg",
+        "width": 1728,
+        "height": 3072
+      },
+      "alt": {
+        "en": "A clear mountain stream and yurts in Turgen Gorge near Almaty",
+        "de": "Ein klarer Bergbach und Jurten in der Turgen-Schlucht in der Nähe von Almaty",
+        "fr": "Un ruisseau de montagne clair et des yourtes dans la gorge de Turgen près d'Almaty",
+        "ja": "アルマトイ近くのトゥルゲン渓谷で、山の清流とユルト",
+        "es": "Un claro arroyo de montaña y yurtas en el cañón de Turgen cerca de Almaty",
+        "zh": "阿拉木图附近图尔根峡谷清澈的山间溪流与毡包"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410518/sunday-atlas/horses-on-the-assy-plateau-kazakhstan-14544998_sbh4fb.jpg",
+        "width": 1920,
+        "height": 1107
+      },
+      "alt": {
+        "en": "Horses grazing on the Assy Plateau in Kazakhstan, with mountains on the horizon",
+        "de": "Pferde, die auf dem Assy-Plateau in Kasachstan weiden, mit Bergen am Horizont",
+        "fr": "Des chevaux paissant sur le plateau d'Assy au Kazakhstan, avec des montagnes à l'horizon",
+        "ja": "カザフスタンのアッシ高原で、遠くに山々が見える馬が草を食む様子",
+        "es": "Caballos pastando en el plato Assy en Kazajistán, con montañas en el horizonte",
+        "zh": "哈萨克斯坦阿西高原上的吃草马匹，远处是群山"
+      }
+    }
+  ],
+  "sample": false,
+  "isDayTour": false,
+  "featured": false,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "2-Day Assy Plateau 4x4 & Turgen Gorge Glamping Tour from Almaty ($364)",
+      "meta_description": "From $364 USD/person: private 2-day Almaty 4WD tour with Kairak Waterfall hike in Turgen Gorge, mountain glamping night & high-altitude Assy Plateau.",
+      "focus_keyword": "assy plateau tour",
+      "keywords": [
+        "assy plateau tour",
+        "turgen gorge kairak waterfall hike",
+        "almaty 2 day 4x4 tour",
+        "assy plateau glamping tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "2-Tage Assy-Plateau 4x4 & Turgen-Schlucht Glamping-Tour ab Almaty ($364)",
+      "meta_description": "Ab $364 USD/Person: Private 2-tägige Geländewagentour ab Almaty mit Kairak-Wasserfall-Wanderung in der Turgen-Schlucht, Glamping-Camp & dem Assy-Hochplateau.",
+      "focus_keyword": "assy plateau tour",
+      "keywords": [
+        "assy plateau tour",
+        "turgen schlucht wanderung",
+        "almaty 4x4 ausflug"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuit 4x4 2 Jours Plateau d’Assy & Gorge de Turgen depuis Almaty ($364)",
+      "meta_description": "Dès $364 USD/pers. : excursion privée 4x4 de 2 jours depuis Almaty avec randonnée à la cascade Kairak dans la gorge de Turgen, nuit en glamping et plateau d’Assy.",
+      "focus_keyword": "plateau d assy tour",
+      "keywords": [
+        "plateau d assy tour",
+        "gorge de turgen randonnée",
+        "excursion 4x4 almaty"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "アルマトイ発トゥルゲン渓谷＆アッシ高原4WDグランピング1泊2日ツアー ($364〜)",
+      "meta_description": "1名$364〜：トゥルゲン渓谷カイラク滝ハイキング、山岳グランピング宿泊、標高2,750mのアッシ高原4WDドライブを楽しむアルマトイ発1泊2日プライベートツアー。",
+      "focus_keyword": "アッシ高原 トゥルゲン渓谷 ツアー",
+      "keywords": [
+        "アッシ高原 ツアー",
+        "トゥルゲン渓谷 ハイキング",
+        "アルマトイ 4WD ツアー"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tour 4x4 2 Días Meseta de Assy y Garganta de Turgen desde Almaty ($364)",
+      "meta_description": "Desde $364 USD/persona: tour privado 4x4 de 2 días desde Almaty con caminata a la cascada Kairak en la garganta de Turgen, noche de glamping y meseta de Assy.",
+      "focus_keyword": "tour meseta de assy",
+      "keywords": [
+        "tour meseta de assy",
+        "garganta de turgen caminata",
+        "excursión 4x4 almaty"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "从阿拉木图出发：2天阿西高原越野车与图尔根峡谷露营之旅（$364）",
+      "meta_description": "从$364 USD/人起：私人2天阿拉木图四驱之旅，包含图尔根峡谷凯拉克瀑布徒步、山地露营过夜及高海拔阿西高原。",
+      "focus_keyword": "阿拉木图2天4WD越野游",
+      "keywords": [
+        "阿拉木图2天4WD越野游",
+        "图尔根峡谷凯拉克瀑布徒步",
+        "阿西高原2天越野游",
+        "图尔根峡谷山地露营",
+        "阿拉木图周边2天越野游",
+        "阿西高原高海拔越野",
+        "图尔根峡谷2天游",
+        "阿拉木图4WD越野游"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Turgen Gorge and Assy Plateau tour, 2 days from Almaty"
+    },
+    "facts": {
+      "en": "Assy Plateau tour from Almaty at a glance"
+    },
+    "itinerary": {
+      "en": "Turgen Gorge hike and Assy Plateau, day by day"
+    },
+    "included": {
+      "en": "What the trip includes"
+    },
+    "notIncluded": {
+      "en": "Not included"
+    },
+    "prices": {
+      "en": "Assy Plateau tour prices, season 2026"
+    },
+    "faq": {
+      "en": "Turgen waterfall and Assy Plateau: questions"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does the Assy Plateau tour cost?",
+        "de": "Wie viel kostet die Assy-Plateau-Tour?",
+        "fr": "Combien coûte le tour du plateau d'Assy?",
+        "ja": "アッシ高原ツアーの費用はどれくらいですか？",
+        "es": "¿Cuánto cuesta el tour al plato Assy?",
+        "zh": "阿西高原之旅多少钱？"
+      },
+      "a": {
+        "en": "For the 2026 season it costs $364 per person for 4–6 travellers, $423 for 3, $559 for 2 and $891 for one traveller, in USD. The price assumes a shared tent; a tent of your own is on request.",
+        "de": "Für die Saison 2026 kostet sie $364 pro Person für 4–6 Reisende, $423 für 3, $559 für 2 und $891 für Alleinreisende, in USD. Der Preis geht von einem geteilten Zelt aus; ein eigenes Zelt ist auf Anfrage.",
+        "fr": "Pour la saison 2026, il coûte 364 $ par personne pour 4–6 voyageurs, 423 $ pour 3, 559 $ pour 2 et 891 $ pour un voyageur, en USD. Le prix suppose une tente partagée; une tente pour soi est sur demande.",
+        "es": "Para la temporada 2026 cuesta $364 por persona para 4–6 viajeros, $423 para 3, $559 para 2 y $891 para un viajero, en USD. El precio asume una tienda compartida; una tienda propia es bajo petición.",
+        "ja": "2026年シーズンは、4–6名様で1人あたり$364、3名様で$423、2名様で$559、1名様で$891です。価格は米ドルで、テントをシェアすることを前提としています。個室のテントはご希望に応じてご用意いたします。",
+        "zh": "2026年季节，4–6位旅客每人364美元，3位旅客423美元，2位旅客559美元，1位旅客891美元，均为美元。价格假设共用帐篷；单独帐篷可申请。"
+      }
+    },
+    {
+      "q": {
+        "en": "Is the Turgen waterfall entrance fee included?",
+        "de": "Ist die Eintrittsgebühr für den Turgen-Wasserfall enthalten?",
+        "fr": "Le droit d'entrée à la cascade de Turgen est-il inclus?",
+        "ja": "トゥルゲン滝の入場料は含まれていますか？",
+        "es": "¿Está incluida la entrada a la cascada Turgen?",
+        "zh": "图尔根瀑布门票包含在内吗？"
+      },
+      "a": {
+        "en": "Yes. Entry fees and permits for Ile-Alatau National Park and the Assy reserve are included.",
+        "de": "Ja. Die Eintrittsgebühren und Genehmigungen für den Ile-Alatau-Nationalpark und das Assy-Reservat sind enthalten.",
+        "fr": "Oui. Les droits d'entrée et les permis pour le parc national d'Ile-Alatau et la réserve d'Assy sont inclus.",
+        "ja": "はい。イル・アラタウ国立公園およびアッシ保護区の入場料および許可証は含まれています。",
+        "es": "Sí. Las entradas y permisos para el parque nacional Ile-Alatau y la reserva de Assy están incluidos.",
+        "zh": "是的。伊莱阿拉塔国家公园和阿西保护区的门票和许可证均已包含。"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I visit the Assy Plateau in June?",
+        "de": "Kann ich das Assy-Plateau im Juni besuchen?",
+        "fr": "Puis-je visiter le plateau d'Assy en juin?",
+        "es": "¿Puedo visitar el plato Assy en junio?",
+        "ja": "6月にアッシ高原を訪れることはできますか？",
+        "zh": "我可以六月去阿西高原吗？"
+      },
+      "a": {
+        "en": "Yes, the trip runs in summer only. In June ticks are active in the forest, so wear long trousers and bring repellent.",
+        "de": "Ja, die Tour findet nur im Sommer statt. Im Juni sind Zecken im Wald aktiv, also lange Hosen tragen und Repellent mitbringen.",
+        "fr": "Oui, le voyage se déroule uniquement en été. En juin, les tiques sont actives dans la forêt, donc portez des pantalons longs et apportez un répulsif.",
+        "es": "Sí, el viaje se realiza solo en verano. En junio las garrapatas están activas en el bosque, así que usa pantalones largos y lleva repelente.",
+        "ja": "はい、このツアーは夏季のみ運行されます。6月には森林でダニが活動するので、長いズボンを履き、忌避剤を持参してください。",
+        "zh": "是的，此行程仅在夏季运行。六月森林中蜱虫活跃，请穿长裤并携带驱虫剂。"
+      }
+    },
+    {
+      "q": {
+        "en": "What is the Turgen Gorge weather like in summer?",
+        "de": "Wie ist das Wetter in der Turgen-Schlucht im Sommer?",
+        "fr": "Quel est le climat de la gorge de Turgen en été?",
+        "ja": "トゥルゲン渓谷の夏の天候はどうですか？",
+        "es": "¿Cómo es el clima en el cañón de Turgen en verano?",
+        "zh": "夏季的图尔根峡谷天气如何？"
+      },
+      "a": {
+        "en": "Between 1,700 and 2,700 m days are usually +15 to +25 °C and nights +5 to +15 °C. On the plateau, above 2,700 m, days are about +10 to +20 °C and nights 0 to +10 °C. Bring a warm fleece, thermal layers, a wind and rain jacket, a hat, gloves, sunglasses and sunscreen.",
+        "de": "Zwischen 1.700 und 2.700 m sind die Tage normalerweise +15 bis +25 °C und die Nächte +5 bis +15 °C. Auf dem Plateau, über 2.700 m, sind die Tage etwa +10 bis +20 °C und die Nächte 0 bis +10 °C. Ein warmer Fleece, Thermounterwäsche, eine Wind- und Regenjacke, ein Hut, Handschuhe, Sonnenbrille und Sonnencreme mitbringen.",
+        "fr": "Entre 1 700 et 2 700 m, les journées sont généralement de +15 à +25 °C et les nuits de +5 à +15 °C. Sur le plateau, au-dessus de 2 700 m, les journées sont d'environ +10 à +20 °C et les nuits de 0 à +10 °C. Apportez une veste polaire chaude, des sous-vêtements thermiques, une veste coupe-vent et imperméable, un chapeau, des gants, des lunettes de soleil et de la crème solaire.",
+        "ja": "1,700から2,700 mでは、昼間は通常+15から+25 °C、夜間は+5から+15 °Cです。高原、2,700 m以上では、昼間は約+10から+20 °C、夜間は0から+10 °Cです。暖かいフリース、保温層、風雨ジャケット、帽子、手袋、サングラス、日焼け止めを持参してください。",
+        "es": "Entre 1,700 y 2,700 m los días suelen ser de +15 a +25 °C y las noches de +5 a +15 °C. En el plato, por encima de 2,700 m, los días son de unos +10 a +20 °C y las noches de 0 a +10 °C. Trae un forro polar cálido, capas térmicas, una chaqueta impermeable y contra el viento, un sombrero, guantes, gafas de sol y protector solar.",
+        "zh": "海拔1,700至2,700米之间，白天通常为+15至+25 °C，夜间为+5至+15 °C。高原地区海拔在2,700米以上，白天约为+10至+20 °C，夜间为0至+10 °C。请携带保暖抓绒衣、保暖内层衣物、防风防雨夹克、帽子、手套、太阳镜和防晒霜。"
+      }
+    },
+    {
+      "q": {
+        "en": "What is our glamping camp like?",
+        "de": "Wie ist unser Glamping-Camp?",
+        "fr": "À quoi ressemble notre camp de glamping?",
+        "ja": "当社のグランピングキャンプはどのようなものですか？",
+        "es": "¿Cómo es nuestro campamento de glamping?",
+        "zh": "我们的露营营地是什么样的？"
+      },
+      "a": {
+        "en": "Large, fully furnished double tents with beds, mattresses, pillows, sleeping bags and linen, with shared showers and toilets. Towels, toiletries and slippers are not provided, and there is no wi-fi or mobile signal. Breakfast and dinner are served at camp; special diets are possible if you ask in advance.",
+        "de": "Große, vollständig eingerichtete Doppelzelte mit Betten, Matratzen, Kissen, Schlafsäcken und Bettwäsche, mit gemeinsamen Duschen und Toiletten. Handtücher, Toilettenartikel und Pantoffeln sind nicht vorhanden, und es gibt kein Wi-Fi und keinen Mobilfunkempfang. Frühstück und Abendessen werden im Camp serviert; spezielle Diäten sind möglich, wenn Sie im Voraus fragen.",
+        "fr": "De grandes tentes doubles entièrement meublées avec lits, matelas, oreillers, sacs de couchage et draps, avec douches et toilettes partagées. Les serviettes, articles de toilette et pantoufles ne sont pas fournis, et il n'y a pas de wi-fi ni de signal mobile. Le petit-déjeuner et le dîner sont servis au camp; les régimes spéciaux sont possibles si vous demandez à l'avance.",
+        "ja": "ベッド、マットレス、枕、寝袋、リネンが備わった大きな完全に家具付きのダブルテント。シャワーとトイレは共有です。タオル、トイレタリー、スリッパは提供されません。Wi-Fiや携帯電話の信号はありません。朝食と夕食はキャンプで提供されます。事前にご連絡いただければ、特別な食事も可能です。",
+        "es": "Tiendas dobles grandes, completamente amuebladas con camas, colchones, almohadas, sacos de dormir y ropa de cama, con duchas y baños compartidos. No se proporcionan toallas, artículos de tocador ni zapatillas, y no hay wi-fi ni señal móvil. El desayuno y la cena se sirven en el campamento; se pueden acomodar dietas especiales si lo solicitas con antelación.",
+        "zh": "宽敞、设施齐全的双人帐篷，配有床、床垫、枕头、睡袋和床单，共用淋浴间和厕所。不提供毛巾、洗漱用品和拖鞋，且没有Wi-Fi或手机信号。早餐和晚餐在营地供应；如需特殊饮食，请提前告知。"
+      }
+    },
+    {
+      "q": {
+        "en": "What luggage and money should I bring?",
+        "de": "Welches Gepäck und wie viel Geld sollte ich mitbringen?",
+        "fr": "Quel bagage et quel argent dois-je apporter ?",
+        "ja": "どのような荷物とお金を持っていけばよいですか？",
+        "es": "¿Qué equipaje y dinero debo llevar?",
+        "zh": "我应该带什么行李和多少钱？"
+      },
+      "a": {
+        "en": "One duffel bag and one small backpack per person, because the trip uses off-road vehicles. Bring some cash in tenge for the plateau and the villages.",
+        "de": "Einen großen Reisebeutel und einen kleinen Rucksack pro Person, da wir Geländefahrzeuge nutzen. Bringen Sie etwas Bargeld in Tenge für das Plateau und die Dörfer mit.",
+        "fr": "Un sac à dos de randonnée et un petit sac à dos par personne, car le voyage se fait en véhicules tout-terrain. Apportez un peu d'argent liquide en tenge pour le plateau et les villages.",
+        "ja": "オフロード車を使用するため、一人につきダッフルバッグと小さなバックパックを各一個ずつご用意ください。高原や村々で使うためにテンゲ紙幣を少しご用意ください。",
+        "es": "Una maleta grande y una mochila pequeña por persona, ya que el viaje utiliza vehículos todoterreno. Lleva algo de efectivo en tenge para la meseta y los pueblos.",
+        "zh": "每人带一个旅行袋和一个小背包，因为此行程使用越野车。请携带一些戈腾现金，用于高原和村庄。"
+      }
+    }
+  ],
+  "addOns": []
+}

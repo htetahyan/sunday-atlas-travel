@@ -1,0 +1,584 @@
+{
+  "slug": "kyrgyzstan-8-day-nomad-trails",
+  "title": {
+    "en": "Kyrgyzstan: 8 days on nomad trails",
+    "de": "Kirgisistan: 8 Tage auf Nomadenpfaden",
+    "fr": "Kirghizistan : 8 jours sur les pistes nomades",
+    "ja": "キルギス：遊牧の道を行く8日間",
+    "es": "Kirguistán: 8 días por senderos nómadas"
+  },
+  "destination": "kyrgyzstan",
+  "durationDays": 8,
+  "style": {
+    "en": "Mountains & nomadic life",
+    "de": "Berge und nomadisches Leben",
+    "fr": "Montagnes et vie nomade",
+    "ja": "山と遊牧の暮らし",
+    "es": "Montañas y vida nómada"
+  },
+  "summary": {
+    "en": "A sample arc from Bishkek to high pasture and a long lake, then back. Yurt camps and guesthouses stand in for named hotels. Horse riding is an offer, not a test.",
+    "de": "Ein Beispielbogen von Bischkek zur Hochweide und einem langen See, dann zurück. Jurtenlager und Gästehäuser stehen anstelle benannter Hotels. Reiten ist ein Angebot, keine Prüfung.",
+    "fr": "Un arc d’exemple de Bichkek vers les hauts pâturages et un long lac, puis le retour. Les campements de yourtes et les maisons d’hôtes tiennent lieu d’hôtels nommés. La sortie à cheval est une proposition, pas une épreuve.",
+    "ja": "ビシュケクから高地の牧草地と長い湖を経て戻る、見本の弧です。名前を挙げたホテルの代わりに、ユルトのキャンプとゲストハウスを置いています。乗馬は提案であり、試しではありません。",
+    "es": "Un arco de ejemplo desde Biskek hasta pastos de altura y un lago largo, y después de vuelta. Los campamentos de yurtas y las casas de huéspedes ocupan el lugar de hoteles con nombre. Montar a caballo es una oferta, no una prueba."
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Bishkek",
+        "de": "Ankunft in Bischkek",
+        "fr": "Arrivée à Bichkek",
+        "ja": "ビシュケクに到着",
+        "es": "Llegada a Biskek"
+      },
+      "description": {
+        "en": "A gentle introduction to wide avenues and a green park, then a briefing with the local guide about the days ahead. The evening stays in the city.",
+        "de": "Eine ruhige Einführung in weite Alleen und einen grünen Park, danach eine Besprechung mit dem lokalen Guide über die kommenden Tage. Der Abend bleibt in der Stadt.",
+        "fr": "Une introduction douce aux larges avenues et à un parc vert, puis un échange avec le guide local sur les jours à venir. La soirée reste en ville.",
+        "ja": "広い並木道と緑の公園を静かに知り、そのあと現地のガイドから、これからの日々について説明を受けます。夜は市内で過ごします。",
+        "es": "Una introducción pausada a avenidas anchas y un parque verde, y después una charla con el guía local sobre los días que vienen. La tarde-noche se queda en la ciudad."
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Market morning, then the foothills",
+        "de": "Markt am Morgen, dann die Vorberge",
+        "fr": "Matin au marché, puis les contreforts",
+        "ja": "朝は市場、そのあと山麓へ",
+        "es": "Mañana de mercado y después las estribaciones"
+      },
+      "description": {
+        "en": "An open-air market for bread, fruit, and a look at daily life, followed by a drive toward the mountains. Overnight in a small town on the way to the pastures.",
+        "de": "Ein Markt im Freien für Brot, Obst und einen Blick auf den Alltag, danach eine Fahrt in Richtung Berge. Die Nacht verbringen Sie in einer kleinen Stadt auf dem Weg zu den Weiden.",
+        "fr": "Un marché en plein air pour le pain, les fruits et un regard sur la vie quotidienne, puis une route vers les montagnes. Vous passez la nuit dans une petite ville sur le chemin des pâturages.",
+        "ja": "パンや果物、日常の様子を見る青空市場のあと、山に向かって移動します。牧草地へ向かう途中の小さな町に泊まります。",
+        "es": "Un mercado al aire libre para el pan, la fruta y una mirada a la vida diaria, y después un trayecto hacia las montañas. Pase la noche en un pueblo pequeño de camino a los pastos."
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Up to the jailoo",
+        "de": "Hinauf zum Jailoo",
+        "fr": "Montée vers le jailoo",
+        "ja": "ジャイローへ上る",
+        "es": "Subida al jailoo"
+      },
+      "description": {
+        "en": "The road climbs to summer pasture. When the season allows, a herding family hosts lunch. The night is in a yurt camp or a simple guesthouse, as the quote will specify.",
+        "de": "Die Straße steigt zur Sommerweide. Wenn die Jahreszeit es zulässt, lädt eine Hirtenfamilie zum Mittagessen. Die Nacht ist in einem Jurtenlager oder einem einfachen Gästehaus, wie es das Angebot festlegt.",
+        "fr": "La route monte vers les pâturages d’été. Quand la saison le permet, une famille d’éleveurs offre le déjeuner. La nuit se passe dans un campement de yourtes ou une simple maison d’hôtes, comme le devis le précisera.",
+        "ja": "道は夏の牧草地へ上ります。季節が許せば、牧畜の家族が昼食をふるまいます。夜はユルトのキャンプか簡素なゲストハウスで、どちらになるかは見積もりが示します。",
+        "es": "La carretera sube hasta el pasto de verano. Cuando la estación lo permite, una familia de pastores ofrece el almuerzo. La noche es en un campamento de yurtas o en una casa de huéspedes sencilla, según precise el presupuesto."
+      },
+      "image": {
+        "image": {
+          "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317588/sunday-atlas/06-yurt-pasture_rrim5b.jpg",
+          "width": 1600,
+          "height": 1067
+        },
+        "alt": {
+          "en": "A felt yurt and a white tent on green pasture in Kyrgyzstan, a saddled horse grazing, and several people beside the yurt.",
+          "de": "Eine Filzjurte und ein weißes Zelt auf grüner Weide in Kirgisistan, ein gesatteltes Pferd beim Grasen und mehrere Menschen neben der Jurte.",
+          "fr": "Une yourte en feutre et une tente blanche sur un pâturage vert au Kirghizistan, un cheval sellé qui pâture, et plusieurs personnes à côté de la yourte.",
+          "ja": "キルギスの緑の草地にあるフェルトのユルトと白いテント。鞍を置いた馬が草を食べ、ユルトのそばに数人の人がいます。",
+          "es": "Una yurta de fieltro y una tienda blanca en un pastizal verde de Kirguistán, un caballo ensillado pastando y varias personas junto a la yurta."
+        }
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "A full day with more sky than schedule",
+        "de": "Ein ganzer Tag mit mehr Himmel als Programm",
+        "fr": "Une journée entière avec plus de ciel que de programme",
+        "ja": "予定より空の多い、丸一日",
+        "es": "Un día entero con más cielo que programa"
+      },
+      "description": {
+        "en": "Walks, optional horse riding, and a long meal. There is no forced early start. The guide keeps a shorter loop for anyone who wants one.",
+        "de": "Spaziergänge, Reiten auf Wunsch und eine lange Mahlzeit. Es gibt keinen erzwungenen frühen Start. Der Guide hält eine kürzere Runde bereit für alle, die sie möchten.",
+        "fr": "Des marches, une sortie à cheval en option et un long repas. Il n’y a pas de départ matinal imposé. Le guide garde une boucle plus courte pour qui la souhaite.",
+        "ja": "散歩、任意の乗馬、そして長い食事です。無理な早出はありません。希望する方のために、ガイドは短い周回を用意しています。",
+        "es": "Paseos, equitación opcional y una comida larga. No hay una salida temprana obligada. El guía guarda un circuito más corto para quien lo quiera."
+      },
+      "image": {
+        "image": {
+          "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/02-horses-naryn_gzijee.jpg",
+          "width": 1600,
+          "height": 2133
+        },
+        "alt": {
+          "en": "Two people and two horses on a dry golden slope in the Naryn region, one person walking and leading a horse, the other riding.",
+          "de": "Zwei Menschen und zwei Pferde an einem trockenen, goldenen Hang in der Region Naryn; eine Person geht und führt ein Pferd, die andere reitet.",
+          "fr": "Deux personnes et deux chevaux sur une pente sèche et dorée dans la région de Naryn ; l’une marche et mène un cheval, l’autre est à cheval.",
+          "ja": "ナリン州の乾いた黄金色の斜面に、人と馬が二組。一人は歩いて馬を引き、もう一人は馬に乗っています。",
+          "es": "Dos personas y dos caballos en una ladera seca y dorada de la región de Naryn; una camina y lleva un caballo, la otra va montada."
+        }
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Toward the lake",
+        "de": "Auf den See zu",
+        "fr": "Vers le lac",
+        "ja": "湖へ向かって",
+        "es": "Hacia el lago"
+      },
+      "description": {
+        "en": "A cross-country drive to the shore. Picnic where the wind is kind, a swim only if the water invites it, and a quiet guesthouse evening.",
+        "de": "Eine Fahrt quer durchs Land ans Ufer. Ein Picknick, wo der Wind freundlich ist, ein Bad nur, wenn das Wasser dazu einlädt, und ein ruhiger Abend im Gästehaus.",
+        "fr": "Une route à travers le pays jusqu’au rivage. Un pique-nique là où le vent est clément, une baignade seulement si l’eau invite, et une soirée tranquille dans une maison d’hôtes.",
+        "ja": "岸まで土地を横切る移動です。風の穏やかな場所でピクニックをし、水が誘うときだけ泳ぎ、ゲストハウスで静かな夜を過ごします。",
+        "es": "Un trayecto a través del país hasta la orilla. Un picnic donde el viento sea amable, un baño solo si el agua invita, y una tarde tranquila en la casa de huéspedes."
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "A shoreline day",
+        "de": "Ein Tag am Ufer",
+        "fr": "Une journée au bord de l’eau",
+        "ja": "岸辺の一日",
+        "es": "Un día en la orilla"
+      },
+      "description": {
+        "en": "Time beside the water. A short boat if conditions are fair, or a canyon walk the guide holds in reserve. The sample does not promise either.",
+        "de": "Zeit am Wasser. Eine kurze Bootsfahrt, wenn die Bedingungen gut sind, oder eine Schluchtwanderung, die der Guide in Reserve hält. Das Beispiel verspricht keines von beiden.",
+        "fr": "Du temps au bord de l’eau. Une courte sortie en bateau si les conditions sont bonnes, ou une marche dans un canyon que le guide garde en réserve. L’exemple ne promet ni l’une ni l’autre.",
+        "ja": "水辺で過ごす時間です。条件がよければ短い船に乗り、あるいはガイドが予備にしている峡谷を歩きます。この見本は、どちらも約束しません。",
+        "es": "Tiempo junto al agua. Un paseo corto en barca si las condiciones son buenas, o una caminata por un cañón que el guía reserva. El ejemplo no promete ninguna de las dos."
+      },
+      "image": {
+        "image": {
+          "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/03-issyk-kul-pier_vvapcg.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        "alt": {
+          "en": "A long pier over the blue water of Issyk-Kul, seen from above, with a pale shore at the left edge and mountains on the horizon.",
+          "de": "Ein langer Steg über dem blauen Wasser des Issyk-Kul, von oben gesehen, mit einem hellen Ufer am linken Rand und Bergen am Horizont.",
+          "fr": "Une longue jetée sur l’eau bleue de l’Issyk-Koul, vue d’en haut, avec une rive pâle au bord gauche et des montagnes à l’horizon.",
+          "ja": "上空から見た、イシク・クルの青い水面に延びる長い桟橋。左端に淡い岸、地平線に山があります。",
+          "es": "Un muelle largo sobre el agua azul del Issyk-Kul, visto desde arriba, con una orilla clara en el borde izquierdo y montañas en el horizonte."
+        }
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Back through a gorge to Bishkek",
+        "de": "Durch eine Schlucht zurück nach Bischkek",
+        "fr": "Retour par une gorge jusqu’à Bichkek",
+        "ja": "峡谷を抜けてビシュケクへ戻る",
+        "es": "De vuelta por un desfiladero hasta Biskek"
+      },
+      "description": {
+        "en": "The return drive leaves room for a photo stop and an optional craft shop. Evening in the capital, with dinner on your own unless the quote includes it.",
+        "de": "Die Rückfahrt lässt Raum für einen Fotohalt und einen optionalen Laden für Kunsthandwerk. Der Abend ist in der Hauptstadt. Das Abendessen nehmen Sie selbst ein, sofern das Angebot es nicht einschließt.",
+        "fr": "Le trajet de retour laisse place à un arrêt photo et à une boutique d’artisanat en option. La soirée se passe dans la capitale, et le dîner est à votre charge sauf si le devis l’inclut.",
+        "ja": "帰路には、写真のための停車と、任意の工芸品店の時間を残します。夜は首都で過ごします。夕食は、見積もりに含まれる場合を除き、ご自身でおとりください。",
+        "es": "El regreso deja espacio para una parada de fotos y una tienda de artesanía opcional. La tarde es en la capital, y la cena corre por su cuenta salvo que el presupuesto la incluya."
+      }
+    },
+    {
+      "day": 8,
+      "title": {
+        "en": "Departure",
+        "de": "Abreise",
+        "fr": "Départ",
+        "ja": "出発",
+        "es": "Salida"
+      },
+      "description": {
+        "en": "Breakfast and a transfer onward. This sample does not include an international flight, and it does not hold a seat.",
+        "de": "Frühstück und ein Transfer zur Weiterreise. Dieses Beispiel enthält keinen internationalen Flug und hält keinen Sitz frei.",
+        "fr": "Le petit-déjeuner et un transfert pour la suite. Cet exemple n’inclut pas de vol international et ne retient pas de siège.",
+        "ja": "朝食と、次の移動への送迎です。この見本は国際線を含みません。座席も確保していません。",
+        "es": "Desayuno y un traslado para seguir viaje. Este ejemplo no incluye un vuelo internacional y no reserva un asiento."
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "A local English-speaking guide on touring days",
+      "Yurt-camp or guesthouse nights as the quote will name",
+      "Ground transport between the places on this route",
+      "Breakfasts, plus other meals the quote lists",
+      "Our planning for the camps and permits this route needs"
+    ],
+    "de": [
+      "Ein lokaler, Englisch sprechender Guide an den Ausflugstagen",
+      "Nächte im Jurtenlager oder Gästehaus, wie das Angebot sie benennt",
+      "Transport vor Ort zwischen den Orten dieser Route",
+      "Frühstücke sowie weitere Mahlzeiten, die das Angebot aufführt",
+      "Unsere Planung für Lager und Genehmigungen, die diese Route braucht"
+    ],
+    "fr": [
+      "Un guide local anglophone les jours de visite",
+      "Des nuits en campement de yourtes ou en maison d’hôtes, selon ce que le devis nommera",
+      "Le transport sur place entre les lieux de cet itinéraire",
+      "Les petits-déjeuners, plus les autres repas que le devis indique",
+      "Notre planification pour les campements et les autorisations que cet itinéraire demande"
+    ],
+    "ja": [
+      "観光の日には、英語を話す現地のガイド",
+      "見積もりが示す、ユルトのキャンプまたはゲストハウスでの宿泊",
+      "この経路の地点のあいだの現地の移動",
+      "朝食と、見積もりが挙げるその他の食事",
+      "この経路に必要なキャンプと許可について、私たちが行う計画"
+    ],
+    "es": [
+      "Un guía local que habla inglés en los días de recorrido",
+      "Noches en campamento de yurtas o en casa de huéspedes, según las nombre el presupuesto",
+      "Transporte en destino entre los lugares de esta ruta",
+      "Desayunos y las demás comidas que indique el presupuesto",
+      "Nuestra planificación para los campamentos y los permisos que esta ruta necesita"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights",
+      "Travel insurance",
+      "Visas and entry fees, if any",
+      "Horse riding, unless the quote includes it",
+      "Drinks, tips, souvenirs, and optional activities"
+    ],
+    "de": [
+      "Internationale Flüge",
+      "Reiseversicherung",
+      "Visa und Einreisegebühren, falls solche anfallen",
+      "Reiten, sofern das Angebot es nicht einschließt",
+      "Getränke, Trinkgelder, Souvenirs und optionale Aktivitäten"
+    ],
+    "fr": [
+      "Les vols internationaux",
+      "L’assurance voyage",
+      "Les visas et les frais d’entrée, s’il y en a",
+      "La sortie à cheval, sauf si le devis l’inclut",
+      "Les boissons, les pourboires, les souvenirs et les activités facultatives"
+    ],
+    "ja": [
+      "国際線の航空券",
+      "旅行保険",
+      "査証と入国に伴う料金（ある場合）",
+      "乗馬（見積もりに含まれる場合を除きます）",
+      "飲み物、チップ、土産、任意の活動"
+    ],
+    "es": [
+      "Vuelos internacionales",
+      "Seguro de viaje",
+      "Visados y tasas de entrada, si los hay",
+      "Equitación, salvo que el presupuesto la incluya",
+      "Bebidas, propinas, recuerdos y actividades opcionales"
+    ]
+  },
+  "priceNote": {
+    "en": "Price on request — we quote every trip personally",
+    "de": "Preis auf Anfrage — wir erstellen jedes Angebot persönlich.",
+    "fr": "Prix sur demande — nous établissons chaque devis personnellement.",
+    "ja": "料金はお問い合わせください — お見積もりは私たちが作成します。",
+    "es": "Precio a consulta — preparamos cada presupuesto personalmente."
+  },
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317593/sunday-atlas/kyrgyzstan-8-day-nomad-trails_shvtcx.jpg",
+    "width": 1600,
+    "height": 2133,
+    "alt": {
+      "en": "A Kyrgyzstan yurt camp on open grassland at the foot of the mountains in the Naryn region",
+      "de": "Ein Jurtencamp in Kirgistan auf offenem Grasland am Fuß der Berge in der Region Naryn",
+      "fr": "Yourtes au Kirghizistan, sur une prairie ouverte au pied des montagnes de la région de Naryn",
+      "ja": "キルギスのユルト。ナリン地方の山のふもと、広い草原に並ぶ",
+      "es": "Yurtas en Kirguistán sobre una pradera abierta al pie de las montañas de la región de Naryn"
+    }
+  },
+  "sample": true,
+  "published": false,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317586/sunday-atlas/01-kel-suu_ak7cae.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      "alt": {
+        "en": "Kel-Suu, turquoise water between steep rock walls in the Naryn region, a small boat leaving a wake, and pale rock in the foreground.",
+        "de": "Der Kel-Suu, türkisfarbenes Wasser zwischen steilen Felswänden in der Region Naryn, ein kleines Boot mit Kielwasser und heller Fels im Vordergrund.",
+        "fr": "Le Kel-Suu, une eau turquoise entre des parois rocheuses abruptes dans la région de Naryn, un petit bateau laissant un sillage, et une roche pâle au premier plan.",
+        "ja": "ナリン州のケル・スウ。切り立った岩壁のあいだの青緑色の水面に、航跡を引く小さな船があり、手前は淡い岩です。",
+        "es": "El Kel-Suu, agua turquesa entre paredes de roca escarpadas en la región de Naryn, una barca pequeña que deja estela y roca clara en primer plano."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/02-horses-naryn_gzijee.jpg",
+        "width": 1600,
+        "height": 2133
+      },
+      "alt": {
+        "en": "Two people and two horses on a dry golden slope in the Naryn region, one person walking and leading a horse, the other riding.",
+        "de": "Zwei Menschen und zwei Pferde an einem trockenen, goldenen Hang in der Region Naryn; eine Person geht und führt ein Pferd, die andere reitet.",
+        "fr": "Deux personnes et deux chevaux sur une pente sèche et dorée dans la région de Naryn ; l’une marche et mène un cheval, l’autre est à cheval.",
+        "ja": "ナリン州の乾いた黄金色の斜面に、人と馬が二組。一人は歩いて馬を引き、もう一人は馬に乗っています。",
+        "es": "Dos personas y dos caballos en una ladera seca y dorada de la región de Naryn; una camina y lleva un caballo, la otra va montada."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317588/sunday-atlas/06-yurt-pasture_rrim5b.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "A felt yurt and a white tent on green pasture in Kyrgyzstan, a saddled horse grazing, and several people beside the yurt.",
+        "de": "Eine Filzjurte und ein weißes Zelt auf grüner Weide in Kirgisistan, ein gesatteltes Pferd beim Grasen und mehrere Menschen neben der Jurte.",
+        "fr": "Une yourte en feutre et une tente blanche sur un pâturage vert au Kirghizistan, un cheval sellé qui pâture, et plusieurs personnes à côté de la yourte.",
+        "ja": "キルギスの緑の草地にあるフェルトのユルトと白いテント。鞍を置いた馬が草を食べ、ユルトのそばに数人の人がいます。",
+        "es": "Una yurta de fieltro y una tienda blanca en un pastizal verde de Kirguistán, un caballo ensillado pastando y varias personas junto a la yurta."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/03-issyk-kul-pier_vvapcg.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      "alt": {
+        "en": "A long pier over the blue water of Issyk-Kul, seen from above, with a pale shore at the left edge and mountains on the horizon.",
+        "de": "Ein langer Steg über dem blauen Wasser des Issyk-Kul, von oben gesehen, mit einem hellen Ufer am linken Rand und Bergen am Horizont.",
+        "fr": "Une longue jetée sur l’eau bleue de l’Issyk-Koul, vue d’en haut, avec une rive pâle au bord gauche et des montagnes à l’horizon.",
+        "ja": "上空から見た、イシク・クルの青い水面に延びる長い桟橋。左端に淡い岸、地平線に山があります。",
+        "es": "Un muelle largo sobre el agua azul del Issyk-Kul, visto desde arriba, con una orilla clara en el borde izquierdo y montañas en el horizonte."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/04-yurt-mountains_swrmad.jpg",
+        "width": 1600,
+        "height": 2400
+      },
+      "alt": {
+        "en": "A white yurt on a green, rocky pasture in the Chuy region, with camping gear beside it and steep grey-green mountains under cloud.",
+        "de": "Eine weiße Jurte auf einer grünen, steinigen Weide in der Region Tschüi, daneben Campingausrüstung und steile grau-grüne Berge unter Wolken.",
+        "fr": "Une yourte blanche sur un pâturage vert et pierreux dans la région de Tchouï, du matériel de campement à côté, et des montagnes abruptes, grises et vertes, sous les nuages.",
+        "ja": "チュイ州の緑の、石の多い草地に立つ白いユルト。そばにキャンプの道具があり、雲の下に急な灰緑色の山があります。",
+        "es": "Una yurta blanca en un pastizal verde y pedregoso de la región de Chuy, con equipo de acampada al lado y montañas empinadas, grises y verdes, bajo las nubes."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317588/sunday-atlas/05-yurt-spruce-pasture_vwldsb.jpg",
+        "width": 1600,
+        "height": 1200
+      },
+      "alt": {
+        "en": "A pale yurt in a green meadow in Kyrgyzstan, a band of spruce on the slope behind it, mist along the ridge, and a small figure farther off in the grass.",
+        "de": "Eine helle Jurte auf einer grünen Wiese in Kirgisistan, dahinter ein Fichtenstreifen am Hang, Nebel entlang des Kamms und weiter weg im Gras eine kleine Gestalt.",
+        "fr": "Une yourte claire dans une prairie verte au Kirghizistan, une bande d’épicéas sur la pente derrière elle, de la brume le long de la crête, et une petite silhouette plus loin dans l’herbe.",
+        "ja": "キルギスの緑の草地にある淡い色のユルト。背後の斜面にトウヒの帯があり、尾根には霧がかかり、草地の向こうに小さな人影があります。",
+        "es": "Una yurta clara en un prado verde de Kirguistán, una franja de píceas en la ladera detrás, niebla a lo largo de la cresta y una figura pequeña más lejos en la hierba."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "8-Day Kyrgyzstan Nomad & Yurt Camp Tour: Bishkek, Song-Kul & Issyk-Kul",
+      "meta_description": "8-day private Kyrgyzstan itinerary from Bishkek to Song-Kul Lake yurt camps, Kochkor felt workshops, Karakol & Issyk-Kul shore with private 4x4 & local guide.",
+      "focus_keyword": "kyrgyzstan yurt tour",
+      "keywords": [
+        "kyrgyzstan yurt tour",
+        "8 day kyrgyzstan itinerary",
+        "song kul issyk kul tour",
+        "kyrgyzstan nomad tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "de": {
+      "seo_title": "8-Tage Kirgistan Jurten- & Nomadenreise: Bischkek, Song-Kul & Issyk-Kul",
+      "meta_description": "8-tägige private Kirgistan-Rundreise von Bischkek zu den Jurtencamps am Song-Kul-See, Kotschkor, Karakol und dem Issyk-Kul inklusive 4x4 & Reiseleitung.",
+      "focus_keyword": "kirgistan jurtenreise",
+      "keywords": [
+        "kirgistan jurtenreise",
+        "kirgistan 8 tage route",
+        "song kul issyk kul reise"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "fr": {
+      "seo_title": "Circuit Kirghizistan 8 Jours en Yourte : Bichkek, Song-Koul & Issyk-Koul",
+      "meta_description": "Itinéraire privé de 8 jours au Kirghizistan de Bichkek aux camps de yourtes du lac Song-Koul, Kotchkor, Karakol et les rives de l’Issyk-Koul en 4x4 privé.",
+      "focus_keyword": "circuit yourte kirghizistan",
+      "keywords": [
+        "circuit yourte kirghizistan",
+        "itinéraire kirghizistan 8 jours",
+        "lac song koul issyk koul"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "ja": {
+      "seo_title": "キルギス遊牧民＆ユルトキャンプ8日間ツアー：ソンクル湖・イシククル湖",
+      "meta_description": "ビシュケクからソンクル湖のユルトキャンプ宿泊、コチコルのフェルト工房、カラコル、イシク・クル湖畔を専用4WDとガイドで巡るキルギス8日間プライベートツアー。",
+      "focus_keyword": "キルギス ユルト ツアー",
+      "keywords": [
+        "キルギス ユルト ツアー",
+        "ソンクル湖 イシククル湖 ツアー",
+        "キルギス 8日間 モデルコース"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "es": {
+      "seo_title": "Tour Kirguistán 8 Días en Yurtas: Biskek, Lago Song-Kul e Issyk-Kul",
+      "meta_description": "Itinerario privado de 8 días por Kirguistán desde Biskek hasta los campamentos de yurtas de Song-Kul, Kochkor, Karakol y el lago Issyk-Kul con 4x4 y guía.",
+      "focus_keyword": "tour yurtas kirguistán",
+      "keywords": [
+        "tour yurtas kirguistán",
+        "itinerario kirguistán 8 días",
+        "lago song kul issyk kul"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    }
+  },
+  "intro": {
+    "en": "This Kyrgyzstan yurt tour is an 8-day sample route from Bishkek to summer pasture, a yurt camp and a long alpine lake, with optional horse riding. It moves at a small-group pace with a local guide and is priced on request.",
+    "de": "Diese Kirgistan Rundreise ist eine 8-tägige Beispielroute von Bischkek zu Sommerweiden, einem Jurtencamp und einem langen Bergsee, mit optionalem Reiten. Sie folgt einem Kleingruppen-Tempo mit lokalem Guide und wird auf Anfrage kalkuliert.",
+    "fr": "Ce circuit Kirghizistan est un itinéraire d’exemple de 8 jours, de Bichkek aux alpages d’été, à un camp de yourtes et à un long lac de montagne, avec équitation en option. Il avance au rythme d’un petit groupe avec un guide local et se chiffre sur demande.",
+    "ja": "このキルギスツアーは、ビシュケクから夏の牧草地、ユルトキャンプ、細長い山の湖へと向かう8日間のサンプル行程です。乗馬はオプション。少人数のペースで現地ガイドと進み、料金はお見積もりです。",
+    "es": "Este circuito Kirguistán es una ruta de ejemplo de 8 días, de Biskek a los pastos de verano, un campamento de yurtas y un largo lago de montaña, con paseos a caballo opcionales. Avanza a ritmo de grupo pequeño con un guía local y tiene precio a consultar."
+  },
+  "headings": {
+    "h1": {
+      "en": "Kyrgyzstan yurt tour: 8 days on nomad trails",
+      "de": "Kirgistan Rundreise: 8 Tage auf Nomadenpfaden",
+      "fr": "Circuit Kirghizistan : 8 jours sur les pistes nomades",
+      "ja": "キルギスツアー：遊牧の道をゆく8日間",
+      "es": "Circuito Kirguistán: 8 días por rutas nómadas"
+    },
+    "facts": {
+      "en": "At a glance: Kyrgyzstan tour package",
+      "de": "Auf einen Blick: Rundreise durch Kirgistan",
+      "fr": "En bref : Kirghizistan voyage organisé",
+      "ja": "概要：キルギス観光ツアー",
+      "es": "De un vistazo: tour por Kirguistán"
+    },
+    "itinerary": {
+      "en": "Kyrgyzstan itinerary, day by day",
+      "de": "Kirgistan Reiseroute, Tag für Tag",
+      "fr": "Itinéraire voyage Kirghizistan, jour par jour",
+      "ja": "キルギス観光モデルコース：日ごとの行程",
+      "es": "Viaje a Kirguistán: itinerario día a día"
+    },
+    "included": {
+      "en": "Included: Kyrgyzstan yurt camp nights and more",
+      "de": "Enthalten: Nächte im Kirgistan Jurtencamp und mehr",
+      "fr": "Inclus : nuits en yourte au Kirghizistan et plus",
+      "ja": "含まれるもの：キルギスのユルト宿泊など",
+      "es": "Incluido: noches en yurta en Kirguistán y más"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non inclus",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "faq": {
+      "en": "Kyrgyzstan tours: common questions",
+      "de": "Kirgistan Nomaden, Reiten und weitere Fragen",
+      "fr": "Voyage nomade au Kirghizistan : questions fréquentes",
+      "ja": "キルギスの遊牧民体験と乗馬：よくある質問",
+      "es": "Kirguistán a caballo y otras preguntas"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does a Kyrgyzstan trip cost?",
+        "de": "Wie viele Tage braucht man für Kirgistan?",
+        "fr": "Combien coûte un voyage au Kirghizistan ?",
+        "ja": "キルギスツアーは何日必要ですか？",
+        "es": "¿Cuántos días en Kirguistán?"
+      },
+      "a": {
+        "en": "Price on request: we quote every trip personally. International flights, travel insurance, visas or entry fees and optional horse riding are not included unless your quote says so.",
+        "de": "Unser Beispiel dauert acht Tage. Nennen Sie uns Ihr Zeitfenster, dann kürzen oder verlängern wir die Route.",
+        "fr": "Prix sur demande : nous chiffrons chaque voyage personnellement. Vols internationaux, assurance, frais de visa ou d’entrée et équitation en option ne sont pas inclus, sauf mention dans votre devis.",
+        "ja": "このサンプルは8日間です。ご希望の期間に合わせて、短くも長くもできます。",
+        "es": "Nuestro ejemplo dura ocho días. Díganos su ventana de fechas y acortamos o alargamos la ruta."
+      }
+    },
+    {
+      "q": {
+        "en": "How do Kyrgyzstan tours work?",
+        "de": "Wie teuer sind Kirgistan-Rundreisen?",
+        "fr": "Combien de jours au Kirghizistan ?",
+        "ja": "キルギスツアーは安全ですか？",
+        "es": "¿Por qué un tour por Kirguistán puede ser caro?"
+      },
+      "a": {
+        "en": "This sample includes a local English-speaking guide on touring days, ground transport and the yurt-camp or guesthouse nights named in the quote. You write to us; we reply by email and send a personal quote for your dates.",
+        "de": "Preis auf Anfrage: Wir kalkulieren jede Reise persönlich. Internationale Flüge, Reiseversicherung, Visa- oder Einreisegebühren und optionales Reiten sind nicht enthalten, außer Ihr Angebot nennt sie.",
+        "fr": "Notre exemple dure huit jours. Donnez-nous votre période, nous raccourcissons ou allongeons l’itinéraire.",
+        "ja": "一般的な情報として、ご予約前にご自身の国の政府が出す最新の渡航情報をご確認ください。当サイトでは安全を保証しません。",
+        "es": "Consejo general: el precio depende de la distancia, el alojamiento, el guía y el tamaño del grupo. Ponemos precio a cada viaje en un presupuesto personal."
+      }
+    },
+    {
+      "q": {
+        "en": "Is Kyrgyzstan safe for tourists?",
+        "de": "Lohnt sich eine Kirgistan-Rundreise?",
+        "fr": "Comment visiter le Kirghizistan ?",
+        "ja": "キルギスでは何泊しますか？",
+        "es": "¿Cuánto cuesta un viaje a Kirguistán desde España?"
+      },
+      "a": {
+        "en": "General guidance: read your government's current travel advice for Kyrgyzstan before you book. We do not make safety promises on this site.",
+        "de": "Wenn Sie Weite, Jurtenleben und Bergseen in ruhigem Tempo suchen, ist diese Route dafür gedacht.",
+        "fr": "Avec un guide local, en voiture et à pied, de Bichkek aux alpages et au bord d’un lac, avec des nuits en camp de yourtes ou en maison d’hôtes nommées dans le devis.",
+        "ja": "8日間の行程です。ユルトキャンプやゲストハウスの泊数は、お見積もりに明記します。",
+        "es": "No vendemos vuelos, así que el presupuesto cubre el viaje en destino. Los vuelos internacionales no están incluidos salvo que se indique por escrito."
+      }
+    },
+    {
+      "q": {
+        "en": "How many days for a Kyrgyzstan trip?",
+        "de": "Übernachtet man in einer Jurte?",
+        "fr": "Dort-on sous la yourte ?",
+        "ja": "ユルトに泊まれますか？",
+        "es": "¿Se duerme en yurta?"
+      },
+      "a": {
+        "en": "This sample takes eight days. Tell us your window and we can shorten or extend the route.",
+        "de": "Ja, in diesem Beispiel gibt es Nächte im Jurtencamp oder im Gästehaus; das Angebot nennt die genauen Unterkünfte.",
+        "fr": "Oui, cet exemple prévoit des nuits en camp de yourtes ou en maison d’hôtes ; le devis précise les hébergements.",
+        "ja": "はい。このサンプルにはユルトキャンプまたはゲストハウスでの宿泊があり、お見積もりに宿泊先を記載します。",
+        "es": "Sí, este ejemplo incluye noches en campamento de yurtas o en casa de huéspedes; el presupuesto indica los alojamientos."
+      }
+    }
+  ],
+  "addOns": [],
+  "countries": [],
+  "featured": false,
+  "fromLabel": {
+    "en": ""
+  },
+  "hotels": [],
+  "isDayTour": false,
+  "seasonNote": {
+    "en": ""
+  },
+  "vehicles": []
+}

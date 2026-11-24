@@ -1,0 +1,138 @@
+# Simplified Chinese (zh), one item per run: every 3 hours this job translates the next static
+# page, destination or tour that has no zh yet (destinations before their tours), writes the zh
+# fields to Sanity and to content/, commits to main and starts a deploy. The deploy's build runs
+# the supplier-leak and placeholder guards (which also check /zh/ pages), so the new /zh/ page,
+# the language switcher entry and the zh hreflang go live together.
+#
+# New tours and destinations get zh the same way: once published, they are queued and translated
+# within a few runs (about 3 hours each). Queue and estimate: node scripts/zh-translate-next.mjs --status
+# When every item has zh, a run only checks the queue and stops (no commit, no deploy).
+# One item on demand: Run workflow with `slug` (destination slug, tour slug or pages/<id>).
+#
+# Schedule: minute 37 of every 3rd hour UTC (00:37, 03:37, ... = 04:37, 07:37, ... Asia/Dubai).
+# GitHub skips scheduled runs at times (3 Nov: 1 of 3 fired), so scheduled runs use --catch-up:
+# 0 items if the last one is under 2.5 h old, 1 if under 5.5 h, else 2 (about 1 per 3 h on average).
+# The daily blog job also dispatches a catch-up run after each scheduled blog run (a no-op when on time).
+# Free: NVIDIA build.nvidia.com free API; Workers AI (free allowance) only if NVIDIA fails.
+#
+# Secrets (names only, never print values):
+#   NVIDIA_API_KEY            required. Translation (nemotron models, see scripts/lib/blog-ai-client.mjs).
+#   TRANSLATE_SECRET          fallback. Authorises POST /api/blog-ai (Workers AI) when NVIDIA fails.
+#   SANITY_API_WRITE_TOKEN    required. Writes the zh fields to Sanity; the build pulls from Sanity,
+#                             so without this a zh field would be overwritten on the next build.
+# GITHUB_TOKEN pushes do not trigger the push workflow, so the deploy is dispatched explicitly.
+
+name: Chinese (zh) translation queue
+
+on:
+  schedule:
+    - cron: "37 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "Translate this item now (destination slug, tour slug or pages/<id>); empty = next in queue"
+        default: ""
+      dry_run:
+        description: "Translate and print, write nothing"
+        type: boolean
+        default: false
+      catch_up:
+        description: "Catch-up mode (what scheduled runs use): 0 items if the last is < 2.5 h old, 1 if < 5.5 h, else 2"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: zh-translate
+  cancel-in-progress: false
+
+jobs:
+  zh:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # The scripts below use only Node built-ins, so no npm ci.
+      - name: Pull live content from Sanity
+        run: node scripts/sync-from-sanity.mjs
+
+      - name: Queue before this run
+        shell: bash
+        run: |
+          node scripts/zh-translate-next.mjs --status | tee zh-queue.txt
+          { echo "### zh queue"; echo '```'; cat zh-queue.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Translate the next item
+        id: zh
+        shell: bash
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          BLOG_NVIDIA_TRANSLATE_MODELS: ${{ vars.BLOG_NVIDIA_TRANSLATE_MODELS || '' }}
+          TRANSLATE_SECRET: ${{ secrets.TRANSLATE_SECRET }}
+          BLOG_AI_URL: ${{ vars.BLOG_AI_URL || 'https://sundayatlastravel.com/api/blog-ai' }}
+          SANITY_API_WRITE_TOKEN: ${{ secrets.SANITY_API_WRITE_TOKEN }}
+          NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL || 'https://sundayatlastravel.com' }}
+          IN_SLUG: ${{ github.event.inputs.slug || '' }}
+          IN_DRY: ${{ github.event.inputs.dry_run || 'false' }}
+          IN_CATCH_UP: ${{ github.event_name == 'schedule' && 'true' || github.event.inputs.catch_up || 'false' }}
+        run: |
+          set -euo pipefail
+          args=()
+          if [[ -n "$IN_SLUG" ]]; then
+            [[ "$IN_SLUG" =~ ^[a-z0-9/-]+$ ]] || { echo "::error::bad slug"; exit 1; }
+            args+=(--slug="$IN_SLUG")
+          fi
+          if [[ "$IN_DRY" == "true" ]]; then args+=(--dry-run); fi
+          if [[ "$IN_CATCH_UP" == "true" && -z "$IN_SLUG" ]]; then args+=(--catch-up); fi
+          node scripts/zh-translate-next.mjs "${args[@]}" | tee zh-run.txt
+          { echo "### zh run"; echo '```'; cat zh-run.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit to main
+        id: commit
+        if: github.event.inputs.dry_run != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- content/zh-status.json
+          if [[ "${{ steps.zh.outputs.translated }}" == "true" ]]; then
+            git add -- content/destinations content/packages content/pages
+          fi
+          if git diff --cached --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "chore(zh): ${{ steps.zh.outputs.item || 'queue status' }} in Simplified Chinese"
+          git stash push --include-untracked -m zh-leftovers -- . ':(exclude)zh-run.txt' ':(exclude)zh-queue.txt' || true
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git rebase --abort || true
+            sleep $((attempt * 10))
+          done
+          echo "::error::Could not push to main"
+          exit 1
+
+      - name: Deploy
+        if: steps.commit.outputs.pushed == 'true' && steps.zh.outputs.translated == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --ref main

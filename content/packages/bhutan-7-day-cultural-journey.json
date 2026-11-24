@@ -1,0 +1,581 @@
+{
+  "slug": "bhutan-7-day-cultural-journey",
+  "title": {
+    "en": "Bhutan: a 7-day cultural journey",
+    "de": "Bhutan: eine 7-tägige kulturelle Reise",
+    "fr": "Bhoutan : un voyage culturel de 7 jours",
+    "ja": "ブータン：7日間の文化の旅",
+    "es": "Bután: un viaje cultural de 7 días"
+  },
+  "destination": "bhutan",
+  "durationDays": 7,
+  "style": {
+    "en": "Culture & heritage",
+    "de": "Kultur und Erbe",
+    "fr": "Culture et patrimoine",
+    "ja": "文化と遺産",
+    "es": "Cultura y patrimonio"
+  },
+  "summary": {
+    "en": "A sample week in western Bhutan. The route links Paro, Thimphu, and Punakha with short walks, long looks, and enough unscheduled time that a guide can adjust the day.",
+    "de": "Eine Beispielwoche im Westen Bhutans. Die Route verbindet Paro, Thimphu und Punakha mit kurzen Spaziergängen, langen Blicken und genug freier Zeit, damit ein Guide den Tag anpassen kann.",
+    "fr": "Une semaine d’exemple dans l’ouest du Bhoutan. L’itinéraire relie Paro, Thimphu et Punakha par de courtes marches, de longs regards et assez de temps libre pour qu’un guide ajuste la journée.",
+    "ja": "ブータン西部の、見本となる一週間です。経路はパロ、ティンプー、プナカを、短い散策と長い眺め、そしてガイドがその日を調整できるだけの空き時間で結びます。",
+    "es": "Una semana de ejemplo en el oeste de Bután. La ruta une Paro, Thimphu y Punakha con paseos cortos, miradas largas y suficiente tiempo sin programar para que un guía ajuste el día."
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrival in the Paro valley",
+        "de": "Ankunft im Tal von Paro",
+        "fr": "Arrivée dans la vallée de Paro",
+        "ja": "パロの谷への到着",
+        "es": "Llegada al valle de Paro"
+      },
+      "description": {
+        "en": "Land and let the valley do the welcoming. A short walk near the river, a quiet look at the town, and an early night. The sample keeps this day deliberately light.",
+        "de": "Landen Sie, und überlassen Sie dem Tal das Willkommen. Ein kurzer Spaziergang am Fluss, ein ruhiger Blick auf den Ort und eine frühe Nacht. Das Beispiel hält diesen Tag bewusst leicht.",
+        "fr": "Atterrissez et laissez la vallée faire l’accueil. Une courte promenade près de la rivière, un regard tranquille sur la ville et une nuit précoce. L’exemple garde cette journée volontairement légère.",
+        "ja": "着陸したら、歓迎は谷に任せます。川の近くを短く歩き、町を静かに眺め、早めに休みます。この見本では、この日を意図的に軽くしています。",
+        "es": "Aterrice y deje que el valle dé la bienvenida. Un paseo corto junto al río, una mirada tranquila al pueblo y una noche temprana. El ejemplo mantiene este día ligero a propósito."
+      },
+      "image": {
+        "image": {
+          "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317582/sunday-atlas/06-paro-valley_cnvcxd.jpg",
+          "width": 1600,
+          "height": 1067
+        },
+        "alt": {
+          "en": "A river runs through the Paro valley past an airstrip, white buildings with green roofs, and forested hills.",
+          "de": "Ein Fluss zieht durch das Tal von Paro, vorbei an einer Landebahn, weißen Gebäuden mit grünen Dächern und bewaldeten Hügeln.",
+          "fr": "Une rivière traverse la vallée de Paro, le long d’une piste d’atterrissage, de bâtiments blancs aux toits verts et de collines boisées.",
+          "ja": "パロの谷を川が流れ、滑走路、緑の屋根の白い建物、そして森の丘が続いています。",
+          "es": "Un río recorre el valle de Paro junto a una pista de aterrizaje, edificios blancos de tejado verde y colinas boscosas."
+        }
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Paro at walking pace",
+        "de": "Paro im Schritttempo",
+        "fr": "Paro au rythme de la marche",
+        "ja": "歩くペースで巡るパロ",
+        "es": "Paro a paso de caminante"
+      },
+      "description": {
+        "en": "Farms, a fortress-monastery viewpoint, and time in town for textiles or simply tea. The guide sets the distance to the group, not to a checklist.",
+        "de": "Höfe, ein Aussichtspunkt an einer Klosterfestung und Zeit in der Stadt für Textilien oder einfach für Tee. Der Guide richtet die Strecke nach der Gruppe, nicht nach einer Liste.",
+        "fr": "Des fermes, un point de vue sur un monastère-forteresse et du temps en ville pour les textiles ou simplement pour le thé. Le guide règle la distance sur le groupe, pas sur une liste.",
+        "ja": "農家、城塞寺院の展望地点、そして町で織物を見るか、ただお茶を飲む時間です。ガイドは距離を一覧ではなく、グループに合わせます。",
+        "es": "Granjas, un mirador de un monasterio fortaleza y tiempo en el pueblo para los textiles o simplemente un té. El guía ajusta la distancia al grupo, no a una lista."
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Over the pass toward Thimphu",
+        "de": "Über den Pass nach Thimphu",
+        "fr": "Par le col, vers Thimphu",
+        "ja": "峠を越えてティンプーへ",
+        "es": "Por el puerto hacia Thimphu"
+      },
+      "description": {
+        "en": "A scenic drive with stops where the road opens into a wide view. The afternoon in the capital is for a workshop visit and an easy orientation, not a sprint through museums.",
+        "de": "Eine Fahrt durch die Landschaft, mit Halt dort, wo die Straße sich zu einem weiten Blick öffnet. Der Nachmittag in der Hauptstadt ist für einen Werkstattbesuch und eine ruhige Orientierung da, nicht für einen Sprint durch Museen.",
+        "fr": "Une route panoramique, avec des arrêts là où elle s’ouvre sur une vue large. L’après-midi dans la capitale est consacré à une visite d’atelier et à une orientation tranquille, pas à une course à travers les musées.",
+        "ja": "道が広い眺めに開けるところで停まる、景色のよい移動です。首都の午後は工房の見学とゆったりした案内のためであり、博物館を駆け足で回るためではありません。",
+        "es": "Un trayecto con paisaje y paradas donde la carretera se abre a una vista amplia. La tarde en la capital es para visitar un taller y orientarse con calma, no para recorrer museos a toda prisa."
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Thimphu, with room to change the plan",
+        "de": "Thimphu, mit Raum, den Plan zu ändern",
+        "fr": "Thimphu, avec de la marge pour changer le plan",
+        "ja": "ティンプー、予定を変える余白とともに",
+        "es": "Thimphu, con margen para cambiar el plan"
+      },
+      "description": {
+        "en": "A memorial site, a hillside monastery if the weather and the group agree, and an hour kept free. This is the day a good guide edits.",
+        "de": "Eine Gedenkstätte, ein Kloster am Hang, wenn Wetter und Gruppe einverstanden sind, und eine Stunde, die frei bleibt. Dies ist der Tag, den ein guter Guide umstellt.",
+        "fr": "Un lieu commémoratif, un monastère à flanc de colline si le temps et le groupe sont d’accord, et une heure laissée libre. C’est la journée qu’un bon guide ajuste.",
+        "ja": "記念の場所、天候とグループがよければ丘の寺院、そして空けておく一時間です。よいガイドが内容を整える日です。",
+        "es": "Un lugar conmemorativo, un monasterio en la ladera si el tiempo y el grupo están de acuerdo, y una hora que queda libre. Este es el día que un buen guía retoca."
+      },
+      "image": {
+        "image": {
+          "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317581/sunday-atlas/03-buddha-dordenma_cbfid7.jpg",
+          "width": 1600,
+          "height": 2400
+        },
+        "alt": {
+          "en": "A close view of the gilt seated Buddha Dordenma in Thimphu, seen from below against a blue sky with light cloud.",
+          "de": "Eine nahe Ansicht des vergoldeten sitzenden Buddha Dordenma in Thimphu, von unten gesehen, vor blauem Himmel mit leichter Bewölkung.",
+          "fr": "Une vue rapprochée du Bouddha Dordenma doré et assis à Thimphu, prise de bas en haut, sous un ciel bleu légèrement nuageux.",
+          "ja": "ティンプーの黄金のブッダ・ドルデンマ坐像を下から見上げた近景。薄い雲のある青空を背にしています。",
+          "es": "Una vista cercana del Buda Dordenma dorado y sentado en Thimphu, desde abajo, bajo un cielo azul con nubes ligeras."
+        }
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Dochula and on to Punakha",
+        "de": "Dochula und weiter nach Punakha",
+        "fr": "Dochula, puis Punakha",
+        "ja": "ドチュラを経てプナカへ",
+        "es": "Dochula y después Punakha"
+      },
+      "description": {
+        "en": "The pass is the heart of the drive. In Punakha, the afternoon is for the river confluence and the courtyards of the dzong, taken slowly.",
+        "de": "Der Pass ist das Herz der Fahrt. In Punakha gehört der Nachmittag dem Zusammenfluss der Flüsse und den Höfen des Dzong, in Ruhe genommen.",
+        "fr": "Le col est le cœur du trajet. À Punakha, l’après-midi est pour la confluence des rivières et les cours du dzong, prises sans se presser.",
+        "ja": "この移動の中心は峠です。プナカでは、午後を川の合流点とゾンの中庭に、ゆっくり充てます。",
+        "es": "El puerto es el corazón del trayecto. En Punakha, la tarde es para la confluencia de los ríos y los patios del dzong, tomados con calma."
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "A valley walk, then back toward Paro",
+        "de": "Ein Spaziergang im Tal, dann zurück Richtung Paro",
+        "fr": "Une marche dans la vallée, puis le retour vers Paro",
+        "ja": "谷を歩き、それからパロへ戻る",
+        "es": "Un paseo por el valle y después de regreso hacia Paro"
+      },
+      "description": {
+        "en": "Rice fields, a suspension bridge, and a picnic we arrange. The sample returns toward Paro in the late afternoon so the last morning stays calm.",
+        "de": "Reisfelder, eine Hängebrücke und ein Picknick, das wir vorbereiten. Das Beispiel kehrt am späten Nachmittag Richtung Paro zurück, damit der letzte Morgen ruhig bleibt.",
+        "fr": "Des rizières, un pont suspendu et un pique-nique que nous organisons. L’exemple revient vers Paro en fin d’après-midi pour que le dernier matin reste calme.",
+        "ja": "田んぼ、吊り橋、そして私たちが用意するピクニックです。見本では午後遅くにパロ方面へ戻るので、最後の朝は落ち着いたままです。",
+        "es": "Arrozales, un puente colgante y un picnic que organizamos. El ejemplo regresa hacia Paro a última hora de la tarde para que la última mañana siga en calma."
+      },
+      "image": {
+        "image": {
+          "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317581/sunday-atlas/04-punakha-valley-fields_p1msyj.jpg",
+          "width": 1600,
+          "height": 1067
+        },
+        "alt": {
+          "en": "A river with a pale gravel bar runs through the Punakha valley, past golden fields, a small building with a dark red roof, and forested mountains under a cloudy sky.",
+          "de": "Ein Fluss mit einer hellen Kiesbank zieht durch das Tal von Punakha, vorbei an goldenen Feldern, einem kleinen Gebäude mit dunkelrotem Dach und bewaldeten Bergen unter bewölktem Himmel.",
+          "fr": "Une rivière avec un banc de gravier pâle traverse la vallée de Punakha, le long de champs dorés, d’un petit bâtiment au toit rouge sombre et de montagnes boisées sous un ciel nuageux.",
+          "ja": "プナカの谷を、淡い砂州のある川が流れ、黄金色の畑、暗い赤屋根の小さな建物、そして雲の多い空の下の森の山が続いています。",
+          "es": "Un río con un banco de grava claro recorre el valle de Punakha, junto a campos dorados, un edificio pequeño de tejado rojo oscuro y montañas boscosas bajo un cielo nuboso."
+        }
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "A last morning, then departure",
+        "de": "Ein letzter Morgen, dann die Abreise",
+        "fr": "Une dernière matinée, puis le départ",
+        "ja": "最後の朝、そして出発",
+        "es": "Una última mañana y después la salida"
+      },
+      "description": {
+        "en": "Breakfast and the flight out. If the departure is later, there is time for one more short walk in Paro. Nothing in this sample is a reserved seat.",
+        "de": "Frühstück und der Abflug. Liegt die Abreise später, bleibt Zeit für einen weiteren kurzen Spaziergang in Paro. Nichts in diesem Beispiel ist ein reservierter Sitz.",
+        "fr": "Le petit-déjeuner et le vol de départ. Si le départ est plus tard, il reste le temps d’une dernière courte promenade à Paro. Rien dans cet exemple n’est un siège réservé.",
+        "ja": "朝食と、出発の便です。出発が遅ければ、パロでもう一度短く歩く時間があります。この見本に、予約済みの座席はありません。",
+        "es": "El desayuno y el vuelo de salida. Si la salida es más tarde, hay tiempo para un paseo corto más en Paro. Nada en este ejemplo es un asiento reservado."
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "A local English-speaking guide on touring days",
+      "Accommodation of the standard named in the eventual quote",
+      "Ground transport for the route described",
+      "Breakfasts, plus other meals the quote lists day by day",
+      "Planning by our team for this sample route"
+    ],
+    "de": [
+      "Ein lokaler, Englisch sprechender Guide an den Ausflugstagen",
+      "Unterkunft in dem Standard, den das spätere Angebot nennt",
+      "Transport vor Ort für die beschriebene Route",
+      "Frühstücke sowie weitere Mahlzeiten, die das Angebot Tag für Tag aufführt",
+      "Planung durch unser Team für diese Beispielroute"
+    ],
+    "fr": [
+      "Un guide local anglophone les jours de visite",
+      "Un hébergement du niveau que le devis à venir indiquera",
+      "Le transport sur place pour l’itinéraire décrit",
+      "Les petits-déjeuners, plus les autres repas que le devis indique jour par jour",
+      "La planification par notre équipe pour cet itinéraire d’exemple"
+    ],
+    "ja": [
+      "観光の日には、英語を話す現地のガイド",
+      "後日の見積もりに記す水準の宿泊",
+      "記載した経路のための現地の移動",
+      "朝食と、見積もりが日ごとに挙げるその他の食事",
+      "この見本の経路について、Sunday Atlas Travel のチームが行う計画"
+    ],
+    "es": [
+      "Un guía local que habla inglés en los días de recorrido",
+      "Alojamiento del nivel que indique el presupuesto que se prepare",
+      "Transporte en destino para la ruta descrita",
+      "Desayunos y las demás comidas que el presupuesto detalle día a día",
+      "La planificación de nuestro equipo para esta ruta de ejemplo"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights",
+      "Travel insurance",
+      "Visas and entry fees, if any",
+      "Drinks, tips, and souvenirs",
+      "Anything the quote marks as optional"
+    ],
+    "de": [
+      "Internationale Flüge",
+      "Reiseversicherung",
+      "Visa und Einreisegebühren, falls solche anfallen",
+      "Getränke, Trinkgelder und Souvenirs",
+      "Alles, was das Angebot als optional kennzeichnet"
+    ],
+    "fr": [
+      "Les vols internationaux",
+      "L’assurance voyage",
+      "Les visas et les frais d’entrée, s’il y en a",
+      "Les boissons, les pourboires et les souvenirs",
+      "Tout ce que le devis marque comme facultatif"
+    ],
+    "ja": [
+      "国際線の航空券",
+      "旅行保険",
+      "査証と入国に伴う料金（ある場合）",
+      "飲み物、チップ、土産",
+      "見積もりが任意と記すもの"
+    ],
+    "es": [
+      "Vuelos internacionales",
+      "Seguro de viaje",
+      "Visados y tasas de entrada, si los hay",
+      "Bebidas, propinas y recuerdos",
+      "Todo lo que el presupuesto marque como opcional"
+    ]
+  },
+  "priceNote": {
+    "en": "Price on request — we quote every trip personally",
+    "de": "Preis auf Anfrage — wir erstellen jedes Angebot persönlich.",
+    "fr": "Prix sur demande — nous établissons chaque devis personnellement.",
+    "ja": "料金はお問い合わせください — お見積もりは私たちが作成します。",
+    "es": "Precio a consulta — preparamos cada presupuesto personalmente."
+  },
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317592/sunday-atlas/bhutan-7-day-cultural-journey_rsxghl.jpg",
+    "width": 1600,
+    "height": 1067,
+    "alt": {
+      "en": "Rinpung Dzong, a fortress monastery beside the river in Paro, Bhutan",
+      "de": "Rinpung-Dzong, ein Kloster und eine Festung am Fluss in Paro, Bhutan",
+      "fr": "Le Rinpung Dzong, monastère-forteresse au bord de la rivière à Paro, au Bhoutan",
+      "ja": "ブータン・パロの川沿いに立つリンプン・ゾン",
+      "es": "Rinpung Dzong, monasterio fortaleza junto al río en Paro, Bután"
+    }
+  },
+  "sample": true,
+  "published": false,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317580/sunday-atlas/01-taktsang_vi9i6l.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "Paro Taktsang, white buildings with dark and gilded roofs, on a cliff in a forested mountainside.",
+        "de": "Der Paro Taktsang, weiße Gebäude mit dunklen und vergoldeten Dächern, an einer Felswand in einem bewaldeten Berghang.",
+        "fr": "Le Paro Taktsang, bâtiments blancs aux toits sombres et dorés, sur une falaise dans un versant boisé.",
+        "ja": "パロ・タクツァン。暗い屋根と金箔の屋根を持つ白い建物が、森の山腹の崖に建っています。",
+        "es": "El Paro Taktsang, edificios blancos de tejados oscuros y dorados, en un acantilado de una ladera boscosa."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317580/sunday-atlas/02-paro-dzong_ndejhq.jpg",
+        "width": 1600,
+        "height": 1203
+      },
+      "alt": {
+        "en": "Paro Dzong at dusk, a white complex with lit windows above a river, and a covered wooden bridge with lights along its side.",
+        "de": "Der Paro-Dzong in der Dämmerung, eine weiße Anlage mit erleuchteten Fenstern über einem Fluss, und eine gedeckte Holzbrücke mit Lichtern an der Seite.",
+        "fr": "Le dzong de Paro au crépuscule, ensemble blanc aux fenêtres éclairées au-dessus d’une rivière, et un pont de bois couvert, éclairé sur le côté.",
+        "ja": "黄昏のパロ・ゾン。川の上に窓の灯る白い建物群があり、側面に明かりのついた屋根付きの木橋が架かっています。",
+        "es": "El dzong de Paro al anochecer, un conjunto blanco de ventanas iluminadas sobre un río, y un puente de madera cubierto con luces a lo largo del costado."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317581/sunday-atlas/03-buddha-dordenma_cbfid7.jpg",
+        "width": 1600,
+        "height": 2400
+      },
+      "alt": {
+        "en": "A close view of the gilt seated Buddha Dordenma in Thimphu, seen from below against a blue sky with light cloud.",
+        "de": "Eine nahe Ansicht des vergoldeten sitzenden Buddha Dordenma in Thimphu, von unten gesehen, vor blauem Himmel mit leichter Bewölkung.",
+        "fr": "Une vue rapprochée du Bouddha Dordenma doré et assis à Thimphu, prise de bas en haut, sous un ciel bleu légèrement nuageux.",
+        "ja": "ティンプーの黄金のブッダ・ドルデンマ坐像を下から見上げた近景。薄い雲のある青空を背にしています。",
+        "es": "Una vista cercana del Buda Dordenma dorado y sentado en Thimphu, desde abajo, bajo un cielo azul con nubes ligeras."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/02-horses-naryn_gzijee.jpg",
+        "width": 1600,
+        "height": 2133
+      },
+      "alt": {
+        "en": "Guides and riders with horses on a high mountain slope along the trail.",
+        "de": "Begleiter und Reiter mit Pferden an einem hohen Berghang entlang des Weges.",
+        "fr": "Guides et cavaliers avec des chevaux sur un versant de haute montagne le long du sentier.",
+        "ja": "山道沿いの高い斜面に立つガイドと馬に乗る人々。",
+        "es": "Guías y jinetes con caballos en una ladera de alta montaña a lo largo del sendero."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317581/sunday-atlas/04-punakha-valley-fields_p1msyj.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "A river with a pale gravel bar runs through the Punakha valley, past golden fields, a small building with a dark red roof, and forested mountains under a cloudy sky.",
+        "de": "Ein Fluss mit einer hellen Kiesbank zieht durch das Tal von Punakha, vorbei an goldenen Feldern, einem kleinen Gebäude mit dunkelrotem Dach und bewaldeten Bergen unter bewölktem Himmel.",
+        "fr": "Une rivière avec un banc de gravier pâle traverse la vallée de Punakha, le long de champs dorés, d’un petit bâtiment au toit rouge sombre et de montagnes boisées sous un ciel nuageux.",
+        "ja": "プナカの谷を、淡い砂州のある川が流れ、黄金色の畑、暗い赤屋根の小さな建物、そして雲の多い空の下の森の山が続いています。",
+        "es": "Un río con un banco de grava claro recorre el valle de Punakha, junto a campos dorados, un edificio pequeño de tejado rojo oscuro y montañas boscosas bajo un cielo nuboso."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317582/sunday-atlas/05-punakha-dzong_oqsu4e.jpg",
+        "width": 1600,
+        "height": 2133
+      },
+      "alt": {
+        "en": "Punakha Dzong, a white complex with red and gold roofs, on a wooded spur above a broad muddy river, with cloud on the ridges.",
+        "de": "Der Punakha-Dzong, eine weiße Anlage mit roten und goldenen Dächern, auf einem bewaldeten Sporn über einem breiten, lehmigen Fluss, mit Wolken an den Bergrücken.",
+        "fr": "Le dzong de Punakha, ensemble blanc aux toits rouges et or, sur un éperon boisé au-dessus d’une large rivière boueuse, avec des nuages sur les crêtes.",
+        "ja": "プナカ・ゾン。赤と金の屋根を持つ白い建物群が、濁った広い川の上の森の尾根にあり、稜線には雲がかかっています。",
+        "es": "El dzong de Punakha, un conjunto blanco de tejados rojos y dorados, en un espolón arbolado sobre un río ancho y turbio, con nubes en las crestas."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317582/sunday-atlas/06-paro-valley_cnvcxd.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "A river runs through the Paro valley past an airstrip, white buildings with green roofs, and forested hills.",
+        "de": "Ein Fluss zieht durch das Tal von Paro, vorbei an einer Landebahn, weißen Gebäuden mit grünen Dächern und bewaldeten Hügeln.",
+        "fr": "Une rivière traverse la vallée de Paro, le long d’une piste d’atterrissage, de bâtiments blancs aux toits verts et de collines boisées.",
+        "ja": "パロの谷を川が流れ、滑走路、緑の屋根の白い建物、そして森の丘が続いています。",
+        "es": "Un río recorre el valle de Paro junto a una pista de aterrizaje, edificios blancos de tejado verde y colinas boscosas."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "7-Day Bhutan Private Tour: Paro, Thimphu, Punakha & Tiger’s Nest",
+      "meta_description": "7-day private Bhutan cultural itinerary covering Paro, Thimphu, Dochula Pass (108 chortens), Punakha Dzong & the Tiger’s Nest Monastery hike with private guide.",
+      "focus_keyword": "bhutan 7 day tour",
+      "keywords": [
+        "bhutan 7 day tour",
+        "paro thimphu punakha itinerary",
+        "tigers nest hike tour",
+        "bhutan cultural tour package"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "de": {
+      "seo_title": "7-Tage Bhutan Privatreise: Paro, Thimphu, Punakha & Tigernest-Kloster",
+      "meta_description": "7-tägige private Bhutan-Kulturreise durch Paro, Thimphu, Dochula-Pass (108 Chörten), Punakha Dzong & Wanderung zum Tigernest-Kloster (Taktsang) mit Guide.",
+      "focus_keyword": "bhutan 7 tage rundreise",
+      "keywords": [
+        "bhutan 7 tage rundreise",
+        "paro thimphu punakha reise",
+        "tigernest kloster bhutan"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "fr": {
+      "seo_title": "Circuit Privé Bhoutan 7 Jours : Paro, Thimphu, Punakha & Nid du Tigre",
+      "meta_description": "Circuit culturel privé de 7 jours au Bhoutan : Paro, Thimphu, col de Dochula (108 chörtens), dzong de Punakha et randonnée au monastère du Nid du Tigre.",
+      "focus_keyword": "circuit bhoutan 7 jours",
+      "keywords": [
+        "circuit bhoutan 7 jours",
+        "itinéraire paro thimphu punakha",
+        "monastère taktsang bhoutan"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "ja": {
+      "seo_title": "ブータン7日間プライベートツアー：パロ・ティンプー・プナカ＆タクツァン僧院",
+      "meta_description": "パロ、ティンプー、ドチュラ峠（108の仏塔）、プナカ・ゾン、断崖のタクツァン僧院（タイガーズネスト）ハイキングを専用車とガイドで巡るブータン7日間ツアー。",
+      "focus_keyword": "ブータン 7日間 ツアー",
+      "keywords": [
+        "ブータン 7日間 ツアー",
+        "タクツァン僧院 ハイキング ツアー",
+        "パロ ティンプー プナカ"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "es": {
+      "seo_title": "Tour Privado Bután 7 Días: Paro, Thimphu, Punakha y Nido del Tigre",
+      "meta_description": "Itinerario cultural privado de 7 días por Bután: Paro, Thimphu, paso Dochula (108 estupas), Punakha Dzong y caminata al monasterio del Nido del Tigre.",
+      "focus_keyword": "tour bután 7 días",
+      "keywords": [
+        "tour bután 7 días",
+        "itinerario paro thimphu punakha",
+        "monasterio nido del tigre bután"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    }
+  },
+  "intro": {
+    "en": "This Bhutan tour itinerary is a sample week in western Bhutan: Paro, Thimphu, the Dochula pass and Punakha, with a local English-speaking guide and time kept free. It is a sketch for a cultural tour, priced on request in a personal quote.",
+    "de": "Diese Bhutan Rundreise ist eine Beispielwoche im Westen Bhutans: Paro, Thimphu, der Dochula-Pass und Punakha, mit einem lokalen, Englisch sprechenden Guide und freier Zeit. Sie ist eine Skizze für eine Kulturreise und wird auf Anfrage in einem persönlichen Angebot kalkuliert.",
+    "fr": "Ce circuit Bhoutan est une semaine d’exemple dans l’ouest du pays : Paro, Thimphu, le col de Dochula et Punakha, avec un guide local anglophone et du temps libre. C’est l’esquisse d’un voyage culturel, chiffré sur demande dans un devis personnel.",
+    "ja": "このブータンツアーは、ブータン西部を巡る1週間のサンプルです。パロ、ティンプー、ドチュ・ラ峠、プナカを、英語を話す現地ガイドと自由時間を交えて訪ねます。文化を味わう旅のたたき台で、料金は個別のお見積もりです。",
+    "es": "Este circuito Bután es una semana de ejemplo en el oeste del país: Paro, Thimphu, el paso de Dochula y Punakha, con un guía local de habla inglesa y tiempo libre. Es el borrador de un viaje cultural, con precio a consultar en un presupuesto personal."
+  },
+  "headings": {
+    "h1": {
+      "en": "Bhutan tour itinerary: a 7-day cultural journey",
+      "de": "Bhutan Rundreise: 7 Tage Kultur von Paro bis Punakha",
+      "fr": "Circuit Bhoutan : 7 jours de Paro à Punakha",
+      "ja": "ブータンツアー：パロからプナカへ、7日間の文化の旅",
+      "es": "Circuito Bután: 7 días de Paro a Punakha"
+    },
+    "facts": {
+      "en": "At a glance: Bhutan cultural tour",
+      "de": "Auf einen Blick: Bhutan Kulturreisen",
+      "fr": "En bref : un circuit au Bhoutan",
+      "ja": "概要：ブータン観光ツアー",
+      "es": "De un vistazo: tour por Bután"
+    },
+    "itinerary": {
+      "en": "Bhutan itinerary for 7 days, day by day",
+      "de": "Bhutan Reiseroute, Tag für Tag",
+      "fr": "Itinéraire Bhoutan, jour par jour",
+      "ja": "ブータン旅行ツアーの日程",
+      "es": "Itinerario Bután, día a día"
+    },
+    "included": {
+      "en": "What this Bhutan travel itinerary includes",
+      "de": "Enthalten in dieser Bhutan Rundreise",
+      "fr": "Inclus dans ce voyage Bhoutan d’une semaine",
+      "ja": "このツアーに含まれるもの",
+      "es": "Qué incluye este viaje organizado a Bután"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non inclus",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "faq": {
+      "en": "Bhutan tour cost and other questions",
+      "de": "Bhutan Rundreise Kosten und weitere Fragen",
+      "fr": "Circuit Bhoutan, prix et autres questions",
+      "ja": "ブータンのおすすめツアー：よくある質問",
+      "es": "Tour Bután, precio y otras preguntas"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How many days is this Bhutan trip?",
+        "de": "Wie viele Tage braucht man für Bhutan?",
+        "fr": "Combien coûte un voyage au Bhoutan ?",
+        "ja": "ブータンツアーは何日必要ですか？",
+        "es": "¿Cuánto cuesta viajar a Bután con este circuito?"
+      },
+      "a": {
+        "en": "Seven days: the Paro valley, over the pass to Thimphu, Dochula and Punakha, then back toward Paro.",
+        "de": "Unser Beispiel dauert sieben Tage und deckt den Westen in ruhigem Tempo ab. Ihr Angebot kann die Route kürzen oder verlängern.",
+        "fr": "Prix sur demande : nous chiffrons chaque voyage personnellement. Les vols internationaux, l’assurance voyage et les frais de visa ou d’entrée ne sont pas inclus dans cet exemple.",
+        "ja": "このサンプルは7日間で、西部をゆったりしたペースで巡ります。お見積もりで短くも長くもできます。",
+        "es": "Precio a consultar: ponemos precio a cada viaje de forma personal. Los vuelos internacionales, el seguro de viaje y las tasas de visado o entrada no están incluidos en este ejemplo."
+      }
+    },
+    {
+      "q": {
+        "en": "How much does this Bhutan trip cost?",
+        "de": "Wie teuer sind Bhutan-Rundreisen?",
+        "fr": "Quel circuit Bhoutan choisir ?",
+        "ja": "ブータンに個人旅行ができないのはなぜですか？",
+        "es": "¿Por qué un tour por Bután es caro?"
+      },
+      "a": {
+        "en": "Price on request: we quote every trip personally. International flights, travel insurance, and visas or entry fees are not included in this sample.",
+        "de": "Preis auf Anfrage: Wir kalkulieren jede Reise persönlich. Internationale Flüge, Reiseversicherung sowie Visa- oder Einreisegebühren sind in diesem Beispiel nicht enthalten.",
+        "fr": "Ce circuit convient à une première semaine sans se presser, centrée sur le patrimoine et la vie quotidienne. Dites-nous vos envies, nous l’adaptons.",
+        "ja": "一般的な情報として、ブータンには独自の入国規則があり、多くの場所でガイドの同行が求められます。最新の条件は政府の公式情報でご確認ください。",
+        "es": "Consejo general: Bután aplica una tasa diaria de desarrollo sostenible fijada por el gobierno, además de alojamiento, guía y transporte. Consulte el importe actual en fuentes oficiales."
+      }
+    },
+    {
+      "q": {
+        "en": "Which Bhutan trip is best for me?",
+        "de": "Wie macht man eine Bhutan-Rundreise?",
+        "fr": "Quel voyage au Bhoutan choisir pour une première fois ?",
+        "ja": "ブータン旅行はいくらかかりますか？",
+        "es": "Bután, ¿cuántos días?"
+      },
+      "a": {
+        "en": "This sample suits a first, unhurried week focused on heritage and daily life. Tell us your pace and interests and we will adjust the route.",
+        "de": "Mit einem lokalen Guide, von Tal zu Tal: Paro, über den Pass nach Thimphu, Dochula und Punakha. Schreiben Sie uns, wir antworten per E-Mail.",
+        "fr": "L’ouest du pays, comme ici : Paro, Thimphu et Punakha se rejoignent facilement en une semaine, avec du temps libre.",
+        "ja": "料金はお見積もりです。国際線の航空券、旅行保険、ビザや入国にかかる費用はこのサンプルに含まれません。",
+        "es": "Siete días cubren esta ruta por el oeste a un ritmo tranquilo, con tiempo libre. Su presupuesto puede acortarla o alargarla."
+      }
+    },
+    {
+      "q": {
+        "en": "How many days should you spend in Bhutan?",
+        "de": "Was ist in dieser Rundreise enthalten?",
+        "fr": "Que comprend ce circuit ?",
+        "ja": "ツアーには何が含まれますか？",
+        "es": "¿Qué incluye el circuito?"
+      },
+      "a": {
+        "en": "Seven days covers this western route at an easy pace, with time kept free. Your quote can shorten or extend it.",
+        "de": "Ein lokaler, Englisch sprechender Guide an den Reisetagen, die im Angebot genannten Unterkünfte, Transfers vor Ort und Frühstück.",
+        "fr": "Un guide local anglophone les jours de visite, les hébergements nommés dans le devis, les transferts sur place et les petits-déjeuners.",
+        "ja": "観光日の英語を話す現地ガイド、お見積もりに記載の宿泊、現地での移動、朝食が含まれます。",
+        "es": "Un guía local de habla inglesa los días de visita, los alojamientos indicados en el presupuesto, los traslados en destino y los desayunos."
+      }
+    }
+  ],
+  "addOns": [],
+  "countries": [],
+  "featured": false,
+  "fromLabel": {
+    "en": ""
+  },
+  "hotels": [],
+  "isDayTour": false,
+  "seasonNote": {
+    "en": ""
+  },
+  "vehicles": []
+}

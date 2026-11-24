@@ -1,0 +1,404 @@
+{
+  "slug": "china",
+  "name": {
+    "en": "China",
+    "de": "China",
+    "fr": "Chine",
+    "ja": "中国",
+    "es": "China",
+    "zh": "中国"
+  },
+  "region": {
+    "en": "East Asia",
+    "de": "Ostasien",
+    "fr": "Asie de l’Est",
+    "ja": "東アジア",
+    "es": "Asia Oriental",
+    "zh": "东亚"
+  },
+  "summary": {
+    "en": "Deep-winter journeys across Northeast China — from Harbin’s ice architecture and Russian heritage to the lantern-lit snow roofs of China Snow Town, the volcanic crater lake of Changbai Mountain, Yanji’s borderland culture, and Jilin’s rime-frosted river corridors.",
+    "de": "Tiefwinterreisen durch Nordostchina – von Harbins Eisarchitektur und russischem Erbe über die laternenbeleuchteten Schneedächer von China Snow Town und den Vulkankratersee des Changbai-Gebirges bis zur Grenzkultur in Yanji und den raureifbedeckten Flussufern von Jilin.",
+    "fr": "Voyages au cœur de l’hiver dans le nord-est de la Chine — de l’architecture de glace et de l’héritage russe de Harbin aux toits enneigés illuminés de lanternes du Village de la Neige, au lac volcanique du mont Changbai, à la culture frontalière de Yanji et aux berges givrées de Jilin.",
+    "ja": "中国東北部の厳冬を巡る旅 ― ハルビンの氷建築とロシア建築遺産、赤い提灯が灯る中国雪郷の雪屋根、長白山の火山カルデラ湖・天池、延吉の朝鮮族文化、そして吉林の霧氷が彩る松花江回廊へ。",
+    "es": "Viajes de pleno invierno por el noreste de China: desde la arquitectura de hielo y la herencia rusa de Harbin hasta los tejados nevados iluminados con farolillos de China Snow Town, el lago volcánico del monte Changbai, la cultura fronteriza de Yanji y los ríos escarchados de Jilin.",
+    "zh": "深冬时节，穿越中国东北——从哈尔滨的冰雪建筑与俄罗斯风情，到中国雪乡灯笼照耀的雪顶，长白山火山口湖，延吉的边境文化，以及吉林挂霜的河流走廊。"
+  },
+  "bestSeasons": {
+    "en": [
+      "Mid-December to February (peak snow cover, Harbin Ice & Snow World, and Jilin rime frost)",
+      "Late November to early December (early winter snowfields in Xuexiang and Changbai Mountain)",
+      "January to mid-February (frozen Jingpo Lake winter net fishing and alpine skiing)"
+    ],
+    "de": [
+      "Mitte Dezember bis Februar (tiefste Schneedecke, Harbin Ice & Snow World und Raureif in Jilin)",
+      "Ende November bis Anfang Dezember (frühe Schneefelder in Xuexiang und am Changbai-Gebirge)",
+      "Januar bis Mitte Februar (Winter-Eisfischen auf dem zugefrorenen Jingpo-See und Alpinski)"
+    ],
+    "fr": [
+      "Mi-décembre à février (enneigement maximal, festival de glace de Harbin et givre de Jilin)",
+      "Fin novembre à début décembre (premières grandes neiges à Xuexiang et au mont Changbai)",
+      "Janvier à mi-février (pêche hivernale sous la glace au lac Jingpo et ski alpin)"
+    ],
+    "ja": [
+      "12月中旬〜2月（積雪のピーク、ハルビン氷雪大世界、吉林の霧氷シーズン）",
+      "11月下旬〜12月上旬（雪郷や長白山の初冬パウダースノー）",
+      "1月〜2月中旬（凍結した鏡泊湖での冬漁見学とスキーベストシーズン）"
+    ],
+    "es": [
+      "Mediados de diciembre a febrero (máxima nieve, Festival de Hielo de Harbin y escarcha en Jilin)",
+      "Finales de noviembre a principios de diciembre (primeras nieves profundas en Xuexiang y el monte Changbai)",
+      "Enero a mediados de febrero (pesca invernal bajo el hielo en el lago Jingpo y esquí alpino)"
+    ],
+    "zh": [
+      "12月中旬至2月（积雪最盛，哈尔滨冰雪大世界，吉林挂霜）",
+      "11月下旬至12月初（雪乡和长白山早冬雪原）",
+      "1月至2月中旬（镜泊湖冬季冰下捕鱼与高山滑雪）"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Harbin — St. Sophia Cathedral, Zhongyang Pedestrian Street’s turn-of-the-century facades, and monumental illuminated ice architecture",
+      "China Snow Town (Xuexiang) — deep snow-mushroom roofs, red-lantern wooden walkways, horse-drawn sleighs, and Dream Snow Mountain ridge treks",
+      "Hengdaohezi & Jingpo Lake — historic Chinese Eastern Railway timber architecture and traditional winter net fishing on thick lake ice",
+      "Changbai Mountain & Erdaobaihe — 4WD ascent to the frozen caldera of Heavenly Lake (Tianchi) at 2,189 m, volcanic waterfalls, and outdoor snow hot springs",
+      "Yanji & Jilin City — Korean borderland cuisine, misty rime-ice river rafting, Songhua River rime corridors, and Songhua Lake alpine ski runs"
+    ],
+    "de": [
+      "Harbin — Sophienkathedrale, historische Fassaden der Zhongyang-Fußgängerzone und monumentale beleuchtete Eisarchitektur",
+      "China Snow Town (Xuexiang) — dicke Schneepilz-Dächer, Holzstege mit roten Laternen, Pferdeschlittenfahrten und Schneewanderungen am Dream Snow Mountain",
+      "Hengdaohezi & Jingpo-See — historische Holzarchitektur der Ostchinesischen Eisenbahn und traditionelles Winter-Eisfischen",
+      "Changbai-Gebirge & Erdaobaihe — Allrad-Auffahrt zum gefrorenen Kratersee Tianchi auf 2.189 m, Vulkanwasserfälle und heiße Freiluftquellen im Schnee",
+      "Yanji & Stadt Jilin — koreanische Grenzküche, Rafting auf dampfenden Raureif-Flüssen, Raureif-Ufer am Songhua-Fluss und Skipisten am Songhua-See"
+    ],
+    "fr": [
+      "Harbin — cathédrale Sainte-Sophie, façades historiques de la rue piétonne Zhongyang et architecture monumentale de glace illuminée",
+      "China Snow Town (Xuexiang) — toits en champignons de neige, passerelles en bois aux lanternes rouges, traîneaux à chevaux et randonnée au mont Dream Snow",
+      "Hengdaohezi et lac Jingpo — patrimoine ferroviaire russe de l’Est chinois et pêche hivernale traditionnelle au filet sous la glace",
+      "Mont Changbai et Erdaobaihe — ascension en 4x4 vers le lac céleste gelé (Tianchi) à 2 189 m, cascades volcaniques et sources chaudes en plein air dans la neige",
+      "Yanji et Jilin — gastronomie coréenne de Yanbian, descente en radeau entre les berges givrées, corridor de givre du fleuve Songhua et ski alpin au lac Songhua"
+    ],
+    "ja": [
+      "ハルビン — 聖ソフィア大聖堂、中央大街の歴史的街並み、幻想的にライトアップされる巨大氷像建築",
+      "中国雪郷（双峰林場） — 雪キノコのような厚い雪屋根、赤提灯が揺れる棒槌山遊歩道、馬そり体験と夢幻雪山トレッキング",
+      "横道河子・鏡泊湖 — 中東鉄道の歴史的木造建築群と、凍結した鏡泊湖での伝統的な氷上網漁",
+      "長白山・二道白河 — 標高2,189mのカルデラ湖「天池」への四輪駆動車登頂、長白瀑布、雪見の火山温泉",
+      "延吉・吉林市 — 延辺朝鮮族の食文化、霧氷の渓流ラフティング、松花江の霧氷回廊と松花湖スキー場"
+    ],
+    "es": [
+      "Harbin — la catedral de Santa Sofía, las fachadas históricas de la calle peatonal Zhongyang y la monumental arquitectura de hielo iluminada",
+      "China Snow Town (Xuexiang) — tejados cubiertos de gruesas setas de nieve, pasarelas con farolillos rojos, trineos tirados por caballos y caminata por Dream Snow Mountain",
+      "Hengdaohezi y lago Jingpo — arquitectura ferroviaria histórica del Ferrocarril Oriental Chino y pesca tradicional bajo el hielo",
+      "Monte Changbai y Erdaobaihe — ascenso en 4x4 al lago celestial helado (Tianchi) a 2.189 m, cascadas volcánicas y aguas termales al aire libre en la nieve",
+      "Yanji y ciudad de Jilin — gastronomía coreana fronteriza, rafting entre orillas escarchadas, el corredor de escarcha del río Songhua y esquí alpino en el lago Songhua"
+    ],
+    "zh": [
+      "哈尔滨——圣索菲亚教堂、中阳步行街的世纪初建筑外观，以及宏大的灯光冰雪建筑",
+      "中国雪乡（雪乡）——深厚的雪蘑菇屋顶、红灯笼木质步道、马拉雪橇，以及梦雪山山脊徒步",
+      "恒春河子与镜泊湖——中东铁路历史性木结构建筑，以及厚冰上的传统冰下捕鱼",
+      "长白山与二道白河——四驱车登上海拔2,189米的天池冰封火山口、火山瀑布与室外雪中温泉",
+      "延吉与吉林市——朝鲜边境美食、雾凇河漂流、松花江挂霜走廊，以及松花湖高山滑雪道"
+    ]
+  },
+  "visaNote": {
+    "en": "Many European, Asian, and Oceania passport holders currently enjoy unilateral 30-day visa-free entry to China; other nationalities can apply for a standard L tourist visa or use eligible transit exemptions. We provide full hotel and itinerary documentation for every booking.",
+    "de": "Viele Reisende aus Europa, Asien und Ozeanien können derzeit bis zu 30 Tage visumfrei nach China einreisen; andere Staatsangehörige beantragen ein reguläres L-Touristenvisum. Wir stellen für jede Buchung vollständige Hotel- und Reisebestätigungen aus.",
+    "fr": "De nombreux détenteurs de passeports européens, asiatiques et océaniens bénéficient d’une entrée sans visa de 30 jours en Chine ; les autres nationalités peuvent demander un visa touristique L standard. Nous fournissons tous les justificatifs d’itinéraire et d’hébergement.",
+    "ja": "日本を含む多くのアジア・欧州・オセアニア諸国のパスポート保有者は現在30日間のビザ免除措置の対象となっています。その他の国籍の方も観光ビザ（Lビザ）申請に必要な旅程表・ホテル予約確認書をすべてご用意いたします。",
+    "es": "Muchos titulares de pasaportes europeos, asiáticos y de Oceanía disfrutan actualmente de entrada sin visado a China por 30 días; otras nacionalidades pueden solicitar un visado turístico L estándar. Proporcionamos toda la documentación de hoteles e itinerario para cada reserva.",
+    "zh": "许多欧洲、亚洲和大洋洲护照持有者目前享有单方面30天免签入境中国；其他国籍旅客可申请标准L旅游签证，或使用符合条件的过境免签政策。我们为每笔预订提供完整的酒店和行程文件。"
+  },
+  "heroGradient": [
+    "#0E4F57",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911681/sunday-atlas/qtwkoxkqehiipf5ucafy.jpg",
+    "width": 1920,
+    "height": 1440,
+    "alt": {
+      "en": "St. Sophia Cathedral in Harbin illuminated at night across a snow-covered plaza in Northeast China",
+      "de": "Die beleuchtete Sophienkathedrale in Harbin bei Nacht auf einem schneebedeckten Platz in Nordostchina",
+      "fr": "La cathédrale Sainte-Sophie de Harbin illuminée la nuit sur une place enneigée dans le nord-est de la Chine",
+      "ja": "中国東北部・ハルビンの雪に覆われた広場に佇む夜の聖ソフィア大聖堂",
+      "es": "La catedral de Santa Sofía en Harbin iluminada de noche sobre una plaza cubierta de nieve en el noreste de China",
+      "zh": "哈尔滨圣索菲亚教堂在夜晚的雪地广场上灯火辉煌，中国东北"
+    }
+  },
+  "sample": false,
+  "published": true,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911662/sunday-atlas/zxwnebqwimxxqalcaesv.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "Snow-covered wooden cottages and glowing red lanterns at night in China Snow Town (Xuexiang)",
+        "de": "Schneebedeckte Holzhäuser und leuchtende rote Laternen bei Nacht in China Snow Town (Xuexiang)",
+        "fr": "Chalets en bois couverts de neige et lanternes rouges illuminées la nuit à China Snow Town (Xuexiang)",
+        "ja": "赤い提灯が灯る夜の中国雪郷（双峰林場）の厚い雪屋根の家並み",
+        "es": "Cabañas de madera cubiertas de nieve y farolillos rojos encendidos de noche en China Snow Town (Xuexiang)",
+        "zh": "中国雪乡（雪乡）夜晚，雪覆盖的木屋与闪烁的红灯笼"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911684/sunday-atlas/cnh9cf8piomzlw6ttvol.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "Illuminated multi-story ice pagoda and ice spires at Harbin Ice and Snow World at night",
+        "de": "Beleuchtete mehrstöckige Eispagode und Eistürme in der Harbin Ice and Snow World bei Nacht",
+        "fr": "Pagode de glace illuminée et flèches de glace au Harbin Ice and Snow World la nuit",
+        "ja": "カラフルにライトアップされた夜のハルビン氷雪大世界の巨大氷塔",
+        "es": "Pagoda de hielo iluminada y agujas de hielo en Harbin Ice and Snow World por la noche",
+        "zh": "哈尔滨冰雪大世界夜晚，灯光照耀的多层冰塔与冰尖"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911686/sunday-atlas/llj1ynrhg1k1lweicbmj.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "Frozen Heavenly Lake (Tianchi) volcanic crater surrounded by snow-covered peaks on Changbai Mountain",
+        "de": "Gefrorener Vulkankratersee Tianchi (Himmelssee), umgeben von verschneiten Gipfeln des Changbai-Gebirges",
+        "fr": "Le lac céleste gelé (Tianchi) entouré de sommets volcaniques enneigés au mont Changbai",
+        "ja": "雪化粧した外輪山に囲まれた冬の長白山・天池（カルデラ湖）",
+        "es": "El lago celestial helado (Tianchi) rodeado de cumbres volcánicas nevadas en el monte Changbai",
+        "zh": "长白山上，被雪覆盖的山峰环绕的天池火山口湖冰面"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911688/sunday-atlas/zxtgc6bg8xblaqzjbwhi.jpg",
+        "width": 1600,
+        "height": 1200
+      },
+      "alt": {
+        "en": "Willow trees coated in white crystalline rime frost along the snow-covered Songhua River promenade in Jilin City",
+        "de": "Weidenbäume voller weißem Raureif entlang der verschneiten Uferpromenade des Songhua-Flusses in der Stadt Jilin",
+        "fr": "Saules recouverts de givre blanc cristallin le long de la promenade enneigée du fleuve Songhua à Jilin",
+        "ja": "吉林市の松花江沿いに広がる真っ白な霧氷（樹氷）の並木道",
+        "es": "Sauces cubiertos de escarcha blanca cristalina junto al paseo nevado del río Songhua en la ciudad de Jilin",
+        "zh": "吉林市松花江堤岸上，覆盖白色晶体雾凇的柳树，两旁是积雪的步道"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911690/sunday-atlas/bgydm8hgujh7n5hyfbmn.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Groomed alpine ski slope and gondola lift lined with frost-covered forest in Northeast China",
+        "de": "Präparierte Alpinskipiste und Gondelbahn inmitten raureifbedeckter Wälder in Nordostchina",
+        "fr": "Piste de ski alpin damée et télécabine bordées de forêts givrées dans le nord-est de la Chine",
+        "ja": "霧氷の森に囲まれた中国東北部のスキーゲレンデとゴンドラリフト",
+        "es": "Pista de esquí alpino y telecabina flanqueadas por bosques cubiertos de escarcha en el noreste de China",
+        "zh": "中国东北，覆盖霜冻森林的高山滑雪道与缆车"
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Harbin Ice Festival & China Snow Town Tours [2026–2027] | From $215",
+      "meta_description": "Private Harbin Ice and Snow World day tours ($215) & 7-day China Snow Town (Xuexiang), Changbai Mountain & Yabuli winter tour packages ($879 USD/person).",
+      "focus_keyword": "harbin ice festival tour",
+      "keywords": [
+        "harbin ice festival tour",
+        "harbin snow town tour",
+        "harbin ice and snow world tour",
+        "changbai mountain winter tour",
+        "china winter tours"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Harbin Eisfestival & China Snow Town Touren [2026–2027] | Ab $215",
+      "meta_description": "Private Harbin Ice and Snow World Tagestour ($215) & 7-tägige Winterreise nach China Snow Town (Xuexiang), Changbai-Gebirge & Yabuli ($879 USD pro Person).",
+      "focus_keyword": "harbin eisfestival tour",
+      "keywords": [
+        "harbin eisfestival tour",
+        "china snow town reise",
+        "harbin winterreise",
+        "changbai gebirge tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuits Festival de Glace de Harbin & Snow Town [2026–2027] | Dès $215",
+      "meta_description": "Excursion privée d’un jour au Festival de glace de Harbin ($215) et circuit d’hiver de 7 jours à China Snow Town (Xuexiang) et au mont Changbai ($879 USD).",
+      "focus_keyword": "festival de glace harbin tour",
+      "keywords": [
+        "festival de glace harbin tour",
+        "circuit harbin snow town",
+        "voyage hiver chine harbin",
+        "mont changbai tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "ハルビン氷祭り＆中国雪郷（双峰林場）ツアー [2026–2027] | $215〜",
+      "meta_description": "ハルビン氷雪大世界プライベート日帰りツアー（$215〜）と、中国雪郷・長白山天池・ヤブリスキー場を巡る7日間冬季ツアーパッケージ（$879〜）。",
+      "focus_keyword": "ハルビン 氷祭り ツアー",
+      "keywords": [
+        "ハルビン 氷祭り ツアー",
+        "中国 雪郷 ツアー",
+        "ハルビン 氷雪大世界 ツアー",
+        "長白山 ツアー 冬"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tours al Festival de Hielo de Harbin y Snow Town [2026–2027] | Desde $215",
+      "meta_description": "Tour privado de 1 día al Festival de Hielo y Nieve de Harbin ($215) y paquete de invierno de 7 días por China Snow Town y el monte Changbai ($879 USD).",
+      "focus_keyword": "tour festival de hielo harbin",
+      "keywords": [
+        "tour festival de hielo harbin",
+        "circuito harbin snow town",
+        "viaje invierno china harbin",
+        "monte changbai tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "哈尔滨冰灯节与中国雪乡旅游 [2026–2027] | 起价 $215",
+      "meta_description": "哈尔滨冰雪大世界一日游（$215）& 7天中国雪乡（雪乡）、长白山与亚布力冬季旅游套餐（$879 USD/人）。",
+      "focus_keyword": "哈尔滨冰雪大世界一日游",
+      "keywords": [
+        "哈尔滨冰雪大世界一日游",
+        "哈尔滨冰灯节旅游",
+        "中国雪乡旅游团",
+        "长白山冬季旅游",
+        "亚布力滑雪旅游",
+        "哈尔滨冰雪大世界门票",
+        "哈尔滨雪乡七日游",
+        "哈尔滨冬季旅游团"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "intro": {
+    "en": "Northeast China experiences a winter on a scale unlike anywhere else in East Asia. Across Heilongjiang and Jilin provinces, Siberian cold fronts meet moist mountain air from the Sea of Japan, blanketing timber villages in metre-deep snow, freezing volcanic crater lakes above 2,100 metres, and coating riverbanks in delicate crystalline rime.\n\nOur journeys connect Harbin’s Russian-built avenues and monumental ice architecture with the forested Yaxue Highway into China Snow Town (Xuexiang), the historic railway settlement of Hengdaohezi, the Korean borderland city of Yanji, the North Slope of Changbai Mountain, and the hot springs and ski slopes around Erdaobaihe and Jilin City.",
+    "de": "Nordostchina erlebt einen Winter in einer Dimension, die in Ostasien einzigartig ist. In den Provinzen Heilongjiang und Jilin treffen sibirische Kaltfronten auf feuchte Bergluft aus dem Japanischen Meer: Holzdörfer versinken unter meterdickem Schnee, Vulkankraterseen über 2.100 Metern gefrieren zu Eis, und Flussufer überziehen sich mit feinem, kristallinem Raureif.\n\nUnsere Reisen verbinden Harbins russisch geprägte Boulevards und monumentale Eisarchitektur mit der verschneiten Yaxue-Gebirgsstraße nach China Snow Town (Xuexiang), der historischen Eisenbahnsiedlung Hengdaohezi, der koreanisch geprägten Grenzstadt Yanji, der Nordflanke des Changbai-Gebirges sowie den Vulkan-Thermalquellen und Skipisten rund um Erdaobaihe und Jilin.",
+    "fr": "Le nord-est de la Chine connaît un hiver d’une ampleur unique en Asie de l’Est. Dans les provinces du Heilongjiang et du Jilin, les fronts froids sibériens rencontrent l’air humide des montagnes proches de la mer du Japon, recouvrant les villages en bois d’un mètre de neige, gelant les lacs de cratère volcaniques à plus de 2 100 mètres d’altitude et parant les berges des rivières d’un givre cristallin.\n\nNos itinéraires relient les avenues d’héritage russe et les sculptures de glace monumentales de Harbin à la route forestière Yaxue vers China Snow Town (Xuexiang), au bourg ferroviaire historique de Hengdaohezi, à la ville frontalière coréenne de Yanji, au versant nord du mont Changbai, ainsi qu’aux sources chaudes volcaniques et pistes de ski d’Erdaobaihe et de Jilin.",
+    "ja": "中国東北部（黒竜江省・吉林省）の冬は、東アジアでも類を見ない壮大なスケールで訪れます。シベリアからの寒気と日本海側の湿った山岳気流がぶつかることで、木造の村々は1メートルを超える深い雪に包まれ、標高2,100メートルを超える火山カルデラ湖は氷結し、川沿いの木々には純白の霧氷（樹氷）が花開きます。\n\nサンデー・アトラスの旅では、ロシア建築と巨大氷像が彩るハルビンから、樹氷の森を抜ける亜雪公路、赤提灯が灯る中国雪郷（双峰林場）、中東鉄道の歴史が息づく横道河子、朝鮮族文化の中心地・延吉、長白山北坡と天池、そして二道白河の火山温泉や吉林・松花湖のスキー場までを一筆書きで快適に巡ります。",
+    "es": "El noreste de China vive un invierno de una magnitud única en Asia Oriental. En las provincias de Heilongjiang y Jilin, los frentes fríos siberianos se encuentran con el aire húmedo de las montañas cercanas al mar del Japón, cubriendo aldeas de madera con más de un metro de nieve, congelando lagos volcánicos por encima de los 2.100 metros y vistiendo las riberas de los ríos con una delicada escarcha cristalina.\n\nNuestros itinerarios conectan las avenidas de herencia rusa y la arquitectura monumental de hielo de Harbin con la carretera forestal Yaxue hacia China Snow Town (Xuexiang), el histórico poblado ferroviario de Hengdaohezi, la ciudad fronteriza coreana de Yanji, la ladera norte del monte Changbai y las aguas termales volcánicas y pistas de esquí de Erdaobaihe y la ciudad de Jilin.",
+    "zh": "中国东北的冬季在东亚地区规模独一无二。在黑龙江和吉林两省，西伯利亚寒流与来自日本海的湿润山地空气相遇，使木屋村庄覆盖米深的积雪，火山口湖在海拔2,100米以上结冰，河岸则镀上精致的晶体雾凇。\n\n我们的旅程连接哈尔滨的俄罗斯风情大道与宏伟冰雪建筑，通往中国雪乡（雪乡）的森林雅雪公路，历史悠久的铁路定居点恒春河子，朝鲜边境城市延吉，长白山北坡，以及二道白河和吉林市周边的温泉与滑雪场。"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How cold does Northeast China get in winter, and what clothing do I need?",
+        "de": "Wie kalt wird es im Winter in Nordostchina und welche Kleidung benötige ich?",
+        "fr": "Quel froid fait-il dans le nord-est de la Chine en hiver et comment s’habiller ?",
+        "ja": "冬の中国東北部はどのくらい寒いですか？どのような服装が必要ですか？",
+        "es": "¿Qué tan frío es el invierno en el noreste de China y qué ropa necesito?",
+        "zh": "中国东北冬季有多冷，我需要穿什么衣服？"
+      },
+      "a": {
+        "en": "Daytime temperatures between December and February typically range from -12°C to -22°C, dropping below -25°C at night in China Snow Town and on the summit of Changbai Mountain. Bring thermal base layers, a fleece or wool mid-layer, a windproof down parka, insulated waterproof snow boots with good grip, fleece-lined trousers, a warm hat, neck gaiter, and touchscreen liner gloves under heavy mittens.",
+        "de": "Die Tagestemperaturen liegen zwischen Dezember und Februar meist bei -12 °C bis -22 °C und fallen nachts in China Snow Town sowie auf dem Gipfel des Changbai-Gebirges unter -25 °C. Empfohlen werden Thermounterwäsche, eine Fleece- oder Wollschicht, ein winddichter Daunenparka, gefütterte, wasserdichte Winterstiefel mit gutem Profil, gefütterte Hosen, Mütze, Schal und Unterziehhandschuhe unter warmen Fäustlingen.",
+        "fr": "Entre décembre et février, les températures diurnes varient généralement de -12 °C à -22 °C et descendent sous -25 °C la nuit à China Snow Town et au sommet du mont Changbai. Prévoyez des sous-vêtements thermiques, une couche intermédiaire en polaire ou laine, une parka en duvet coupe-vent, des bottes de neige imperméables et isolées, un pantalon doublé, un bonnet et des sous-gants tactiles sous des moufles chaudes.",
+        "ja": "12月〜2月の日中は氷点下12〜22℃前後、中国雪郷の夜間や長白山山頂では氷点下25℃以下になることがあります。保温性の高いインナー上下、フリースやウールのミドルレイヤー、防風性の高いロングダウンジャケット、防寒・防水スノーブーツ、裏起毛パンツ、ニット帽、ネックウォーマー、厚手の手袋をご用意ください。",
+        "es": "Entre diciembre y febrero, las temperaturas diurnas suelen oscilar entre -12 °C y -22 °C, bajando de -25 °C por la noche en China Snow Town y en la cumbre del monte Changbai. Lleve capas térmicas interiores, forro polar o lana, parka de plumas cortavientos, botas de nieve impermeables con buen agarre, pantalones térmicos, gorro, braga de cuello y guantes interiores táctiles bajo manoplas gruesas.",
+        "zh": "12月至2月白天气温通常在-12°C至-22°C之间，夜晚在中国雪乡和长白山山顶会低于-25°C。请携带保暖内衣、抓绒或羊毛中层衣物、防风羽绒大衣、防水保暖且抓地力好的雪靴、抓绒裤、暖帽、颈套，以及厚手套内的触控内衬手套。"
+      }
+    },
+    {
+      "q": {
+        "en": "Which airports work best for the Harbin to Jilin winter route?",
+        "de": "Welche Flughäfen eignen sich am besten für die Winterroute von Harbin nach Jilin?",
+        "fr": "Quels aéroports privilégier pour l’itinéraire d’hiver de Harbin à Jilin ?",
+        "ja": "ハルビンから吉林へ抜ける冬のルートでは、どの空港を利用するのが便利ですか？",
+        "es": "¿Qué aeropuertos funcionan mejor para la ruta invernal de Harbin a Jilin?",
+        "zh": "哈尔滨到吉林冬季路线哪些机场最方便？"
+      },
+      "a": {
+        "en": "Fly into Harbin Taiping International Airport (HRB) on Day 1, where 24-hour airport pickup is included. On the final day, the tour finishes at Jilin City Railway Station around 16:00, which connects directly by high-speed train (approximately 30 minutes) to Changchun Longjia International Airport (CGQ) for evening departures.",
+        "de": "Fliegen Sie am 1. Tag zum Harbin Taiping International Airport (HRB), wo unser 24-Stunden-Abholservice inklusive ist. Am letzten Tag endet die Reise gegen 16:00 Uhr am Bahnhof der Stadt Jilin; von dort erreichen Sie mit dem Hochgeschwindigkeitszug in rund 30 Minuten direkt den Flughafen Changchun Longjia (CGQ) für Abendflüge.",
+        "fr": "Arrivez à l’aéroport international de Harbin Taiping (HRB) le jour 1, où l’accueil 24h/24 est inclus. Le dernier jour, le circuit se termine vers 16h00 à la gare de Jilin, reliée directement en 30 minutes de train à grande vitesse à l’aéroport international de Changchun Longjia (CGQ) pour les vols du soir.",
+        "ja": "1日目はハルビン太平国際空港（HRB）へご到着ください（24時間空港送迎付き）。最終日は16:00頃に吉林駅でお送りとなります。吉林駅から長春龍嘉国際空港（CGQ）へは高速鉄道で約30分で直結しており、夜便でのご帰国や乗り継ぎに大変便利です。",
+        "es": "Llegue al Aeropuerto Internacional de Harbin Taiping (HRB) el día 1, donde se incluye recogida las 24 horas. El último día, el recorrido finaliza hacia las 16:00 en la estación de tren de la ciudad de Jilin, conectada directamente en tren de alta velocidad (unos 30 minutos) con el Aeropuerto Internacional de Changchun Longjia (CGQ) para vuelos nocturnos.",
+        "zh": "第1天飞抵哈尔滨太平国际机场（HRB），包含24小时机场接送。最后一天，行程在吉林市火车站结束，约16:00，可乘高铁（约30分钟）直达长春龙嘉国际机场（CGQ），方便傍晚起飞的航班。"
+      }
+    },
+    {
+      "q": {
+        "en": "Are the accommodations heated inside China Snow Town and along the route?",
+        "de": "Sind die Unterkünfte in China Snow Town und entlang der Route gut beheizt?",
+        "fr": "Les hébergements sont-ils bien chauffés à China Snow Town et tout au long du circuit ?",
+        "ja": "中国雪郷や各地の宿泊施設は暖房が効いていますか？",
+        "es": "¿Están bien climatizados los alojamientos en China Snow Town y durante la ruta?",
+        "zh": "中国雪乡及沿线住宿是否有室内供暖？"
+      },
+      "a": {
+        "en": "Yes. Northeast China has strong central indoor heating throughout winter. In China Snow Town, you stay in a heated kang guesthouse lodge with a private en-suite bathroom, paired with 4-star and 5-star hotels in Harbin, Mudanjiang, Yanji, Erdaobaihe (hot spring resort), and Jilin City.",
+        "de": "Ja. Nordostchina verfügt im gesamten Winter über eine sehr warme Zentralheizung in allen Innenräumen. In China Snow Town übernachten Sie in einer beheizten Kang-Lodge mit eigenem Bad, ergänzt durch 4- und 5-Sterne-Hotels in Harbin, Mudanjiang, Yanji, Erdaobaihe (Thermalresort) und Jilin.",
+        "fr": "Oui. Le nord-est de la Chine dispose d’un chauffage central très performant tout l’hiver. À China Snow Town, vous logez dans une maison d’hôtes chauffée (kang) avec salle de bain privée, complétée par des hôtels 4 et 5 étoiles à Harbin, Mudanjiang, Yanji, Erdaobaihe (complexe thermal) et Jilin.",
+        "ja": "はい、中国東北部の建物は冬の間、強力なセントラルヒーティング（集中暖房）が効いており室内はとても暖かいです。中国雪郷では専用バスルーム付きの温かいオンドル（炕）ロッジに宿泊し、ハルビン・牡丹江・延吉・二道白河（温泉リゾート）・吉林市では4つ星〜5つ星ホテルに滞在します。",
+        "es": "Sí. El noreste de China cuenta con una potente calefacción central interior durante todo el invierno. En China Snow Town se alojará en una posada tradicional calefactada (kang) con baño privado, combinada con hoteles de 4 y 5 estrellas en Harbin, Mudanjiang, Yanji, Erdaobaihe (resort termal) y la ciudad de Jilin.",
+        "zh": "是的。中国东北地区冬季室内集中供暖充足。在中国雪乡，您入住配有独立卫生间的带热炕客栈，并搭配哈尔滨、牡丹江、延吉、二道白河（温泉度假村）和吉林市的4星级和5星级酒店。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "China: Harbin, Snow Town & Changbai Mountain winter tours",
+      "de": "China: Winterreisen nach Harbin, Snow Town & zum Changbai-Gebirge",
+      "fr": "Chine : voyages d’hiver à Harbin, Snow Town et au mont Changbai",
+      "ja": "中国：ハルビン・中国雪郷・長白山を巡る冬の旅",
+      "es": "China: viajes de invierno a Harbin, Snow Town y el monte Changbai",
+      "zh": "中国：哈尔滨、雪乡与长白山冬季旅游"
+    },
+    "seasons": {
+      "en": "Best time to visit China’s winter northeast",
+      "de": "Beste Reisezeit für den Winter in Nordostchina",
+      "fr": "Meilleure période pour visiter le nord-est de la Chine en hiver",
+      "ja": "中国東北部・冬のベストシーズン",
+      "es": "Mejor época para viajar al noreste de China en invierno",
+      "zh": "中国东北冬季最佳旅游时间"
+    },
+    "highlights": {
+      "en": "Places we build around in Northeast China",
+      "de": "Orte, um die wir unsere Routen in Nordostchina gestalten",
+      "fr": "Les étapes clés de nos itinéraires dans le nord-est de la Chine",
+      "ja": "中国東北部で訪れる主な見どころ",
+      "es": "Lugares clave de nuestras rutas por el noreste de China",
+      "zh": "我们在东北中国围绕打造的景点"
+    },
+    "faq": {
+      "en": "China winter travel FAQs",
+      "de": "Häufige Fragen zu Winterreisen in China",
+      "fr": "Questions fréquentes sur les voyages d’hiver en Chine",
+      "ja": "中国東北部・冬の旅行に関するよくある質問",
+      "es": "Preguntas frecuentes sobre viajes de invierno a China",
+      "zh": "中国冬季旅行常见问题"
+    },
+    "packages": {
+      "en": "Itineraries in China",
+      "de": "Reiserouten in China",
+      "fr": "Itinéraires en Chine",
+      "ja": "中国のツアープラン",
+      "es": "Itinerarios en China",
+      "zh": "中国行程"
+    }
+  }
+}

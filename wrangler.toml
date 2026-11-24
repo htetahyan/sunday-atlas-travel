@@ -1,0 +1,40 @@
+# Cloudflare Pages project for Sunday Atlas Travel.
+# Deploy from the repo root (`npx wrangler pages deploy out`) so this file and
+# ./functions are picked up together with the static export in out/.
+#
+# This file is the source of truth for bindings. Once it is used, a binding or
+# variable added only in the dashboard is overridden on the next deploy.
+#
+# Workers AI is bound as AI. No API secret is required.
+#
+# CHAT_RL is the KV namespace "sunday-atlas-chat-rl" (created 2026-10-18). It holds
+# per-IP rate-limit counters and the global daily chat cap.
+
+name = "sunday-atlas-travel"
+pages_build_output_dir = "out"
+compatibility_date = "2024-09-23"
+
+[ai]
+binding = "AI"
+
+[[kv_namespaces]]
+binding = "CHAT_RL"
+id = "2894d60df66c464d88b3614edc3a26de"
+
+# INQUIRY_MAIL is the Worker workers/inquiry-mail (send_email binding, no public
+# route). POST /api/inquiry calls it after the row is saved in Supabase.
+# Pages secrets (set with `wrangler pages secret put`, never in git):
+#   SUPABASE_URL, SUPABASE_ANON_KEY, INQUIRY_DB_TOKEN
+[[services]]
+binding = "INQUIRY_MAIL"
+service = "sunday-atlas-inquiry-mail"
+
+# INQUIRIES_DB is the D1 database "sunday-atlas-inquiries" (created 2026-11-01).
+# POST /api/inquiry stores every enquiry here (replaces Supabase). Schema: migrations/.
+# Top-level bindings apply to both production and preview deployments.
+[[d1_databases]]
+binding = "INQUIRIES_DB"
+database_name = "sunday-atlas-inquiries"
+database_id = "f8bae59c-8246-4f5c-9587-fa2722e5ff7a"
+migrations_dir = "migrations"
+

@@ -1,0 +1,584 @@
+{
+  "slug": "samarkand-day-tour-by-afrosiyob-train",
+  "title": {
+    "en": "Samarkand in a Day: High-Speed Train Tour from Tashkent",
+    "de": "Samarkand an einem Tag: Schnellzug-Tagestour ab Taschkent",
+    "fr": "Samarcande en un jour : excursion en train à grande vitesse depuis Tachkent",
+    "ja": "タシケント発サマルカンド日帰りツアー：高速鉄道アフラシャブ号で行く1日観光",
+    "es": "Samarcanda en un día: excursión en tren de alta velocidad desde Taskent",
+    "zh": "撒马尔罕一日游：从塔什干乘高铁出发"
+  },
+  "destination": "uzbekistan",
+  "countries": [],
+  "durationDays": 1,
+  "nights": 0,
+  "isDayTour": true,
+  "style": {
+    "en": "Private Silk Road day tour by Afrosiyob high-speed train",
+    "de": "Private Seidenstraßen-Tagestour mit dem Afrosiyob-Schnellzug",
+    "fr": "Excursion privée d'une journée sur la Route de la soie en train rapide Afrosiyob",
+    "ja": "高速鉄道アフラシャブ号で行くシルクロード・プライベート日帰りツアー",
+    "es": "Excursión privada de un día por la Ruta de la Seda en tren de alta velocidad Afrosiyob",
+    "zh": "私人丝绸之路一日游，乘坐阿弗罗西阿布高铁"
+  },
+  "seasonNote": {
+    "en": "Year-round (best March to June and September to November)",
+    "de": "Ganzjährig (optimal März bis Juni und September bis November)",
+    "fr": "Toute l'année (idéal de mars à juin et de septembre à novembre)",
+    "ja": "通年（ベストシーズンは3月〜6月および9月〜11月）",
+    "es": "Todo el año (óptimo de marzo a junio y de septiembre a noviembre)",
+    "zh": "全年（最佳季节：3月至6月，9月至11月）"
+  },
+  "maxGroupSize": 6,
+  "summary": {
+    "en": "A private full-day trip from Tashkent to Samarkand on the Afrosiyob high-speed train, with your guide waiting at Samarkand station, a private car in the city, lunch, and visits to Gur-e-Amir, Registan Square, Bibi-Khanym Mosque, Siyob Bazaar, Shah-i-Zinda and the Ulugh Beg Observatory.",
+    "de": "Ein privater Tagesausflug von Taschkent nach Samarkand mit dem Afrosiyob-Hochgeschwindigkeitszug: Ihr Guide erwartet Sie am Bahnhof Samarkand, dazu Privatwagen in der Stadt, Mittagessen und Besuche von Gur-Emir, Registan, Bibi-Chanym-Moschee, Siyob-Basar, Schah-i-Sinda und Ulugh-Beg-Observatorium.",
+    "fr": "Une journée privée de Tachkent à Samarcande en train à grande vitesse Afrosiyob : votre guide vous attend à la gare de Samarcande, voiture privée en ville, déjeuner et visites du Gour-Emir, de la place du Régistan, de la mosquée Bibi-Khanym, du bazar Siyob, de Chah-i-Zinda et de l’observatoire d’Ulugh Beg.",
+    "ja": "タシケントから高速鉄道アフロシャブ号で行くサマルカンド日帰りプライベートツアー。サマルカンド駅でガイドがお出迎えし、市内は専用車で移動。昼食付きで、グーリ・アミール廟、レギスタン広場、ビビハニム・モスク、シアブ・バザール、シャーヒ・ズィンダ廟群、ウルグベク天文台を巡ります。",
+    "es": "Una excursión privada de un día de Taskent a Samarcanda en el tren de alta velocidad Afrosiyob, con su guía esperándole en la estación de Samarcanda, coche privado en la ciudad, almuerzo y visitas a Gur-e-Amir, la plaza Registán, la mezquita Bibi-Khanym, el bazar Siyob, Shah-i-Zinda y el observatorio de Ulugh Beg.",
+    "zh": "从塔什干出发的私人全日撒马尔罕之旅，乘坐阿弗罗西阿布高铁，导游在撒马尔罕车站迎接，全程配备私人车辆，包含午餐，并参观古尔-埃米尔陵、雷吉斯坦广场、比比哈努姆清真寺、锡亚布集市、沙希-津达陵墓群和乌鲁格别克天文台。"
+  },
+  "intro": {
+    "en": "Already staying in Tashkent and want to see the Timurid masterpieces of Samarkand in one well-paced day? We book your Afrosiyob seats both ways, your guide meets you outside Samarkand station with a private car, and lunch is included. Getting to and from the station in Tashkent is up to you, or we can add a transfer.",
+    "de": "Sie wohnen in Taschkent und möchten die timuridischen Meisterwerke Samarkands an einem gut getakteten Tag erleben? Wir buchen Ihre Afrosiyob-Plätze für Hin- und Rückfahrt, Ihr Guide erwartet Sie mit Privatwagen vor dem Bahnhof Samarkand, und das Mittagessen ist inklusive. Den Weg zum und vom Bahnhof in Taschkent organisieren Sie selbst – oder wir buchen einen Transfer dazu.",
+    "fr": "Vous séjournez à Tachkent et souhaitez découvrir les chefs-d’œuvre timourides de Samarcande en une journée bien rythmée ? Nous réservons vos places dans l’Afrosiyob à l’aller et au retour, votre guide vous attend avec une voiture privée à la sortie de la gare de Samarcande, et le déjeuner est inclus. Le trajet vers et depuis la gare de Tachkent reste à votre charge, ou nous pouvons ajouter un transfert.",
+    "ja": "タシケント滞在中に、ティムール朝の傑作が並ぶサマルカンドを1日で効率よく巡りたい方へ。アフロシャブ号の往復座席を手配し、サマルカンド駅の出口でガイドが専用車とともにお待ちします。昼食付き。タシケントでの駅までの移動はお客様ご自身で、またはご希望により送迎を追加できます。",
+    "es": "¿Se aloja en Taskent y quiere ver las obras maestras timúridas de Samarcanda en un solo día bien organizado? Reservamos sus asientos en el Afrosiyob de ida y vuelta, su guía le espera con un coche privado a la salida de la estación de Samarcanda y el almuerzo está incluido. El trayecto hasta y desde la estación en Taskent corre por su cuenta, o podemos añadir un traslado.",
+    "zh": "已经在塔什干，想在一天里舒适地游览帖木儿时代的撒马尔罕杰作吗？我们为您预订阿弗罗西阿布双程车票，导游在撒马尔罕车站外迎接您并提供私人车辆，午餐包含在内。塔什干往返车站的交通需自行安排，或我们可以为您增加接送服务。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Tashkent — Afrosiyob Bullet Train — Gur-e-Amir — Registan Square — Bibi-Khanym & Siyob Bazaar — Shah-i-Zinda — Tashkent",
+        "de": "Taschkent — Afrosiyob-Schnellzug — Gur-Emir — Registan-Platz — Bibi-Chanum & Siyob-Basar — Schah-i-Sinda — Taschkent",
+        "fr": "Tachkent — Train rapide Afrosiyob — Gour-Émir — Place du Régistan — Bibi-Khanym & Bazar Siyob — Chah-i-Zinda — Tachkent",
+        "ja": "タシケント — 高速鉄道アフラシャブ号 — アミール・ティムール廟 — レギスタン広場 — ビビハニム・モスク＆シヨブ・バザール — シャーヒ・ズィンダ廟群 — タシケント",
+        "es": "Taskent — Tren rápido Afrosiyob — Gur-e-Amir — Plaza del Registán — Bibi-Khanym y Bazar Siyob — Shah-i-Zinda — Taskent",
+        "zh": "塔什干 — 阿弗罗西阿布子弹头列车 — 古尔-埃米尔 — 雷吉斯坦广场 — 比比哈努姆 & 锡亚布集市 — 沙希-津达 — 塔什干"
+      },
+      "description": {
+        "en": "Make your way to Tashkent railway station for the morning Afrosiyob train across the Hungry Steppe to Samarkand (about 2 hours 10 minutes); we can add a hotel transfer if you like. Your guide meets you just outside the station exit with a private car and starts at the ribbed blue dome of the Gur-e-Amir Mausoleum, resting place of Timur and his astronomer grandson Ulugh Beg. Next is Registan Square and its three madrasahs, Ulugh Beg, Sher-Dor and the gilded Tilya-Kori. After lunch at a local restaurant, see the huge Bibi-Khanym Mosque and the stalls of Siyob Bazaar, then climb the tiled lane of the Shah-i-Zinda necropolis and finish at Ulugh Beg’s 15th-century observatory. Your guide takes you back to the station for the evening train to Tashkent.",
+        "de": "Sie fahren selbst zum Bahnhof Taschkent und nehmen den Afrosiyob-Morgenzug durch die Hungersteppe nach Samarkand (rund 2 Stunden 10 Minuten); auf Wunsch buchen wir einen Hoteltransfer dazu. Ihr Guide erwartet Sie direkt vor dem Bahnhofsausgang mit einem Privatwagen und beginnt an der gerippten blauen Kuppel des Gur-Emir-Mausoleums, der Grabstätte Timurs und seines Enkels, des Astronomen Ulugh Beg. Weiter geht es zum Registan mit seinen drei Medresen Ulugh Beg, Scher-Dor und der vergoldeten Tilla-Kori. Nach dem Mittagessen in einem lokalen Restaurant sehen Sie die gewaltige Bibi-Chanym-Moschee und die Stände des Siyob-Basars, steigen dann die gekachelte Gasse der Nekropole Schah-i-Sinda hinauf und enden am Observatorium Ulugh Begs aus dem 15. Jahrhundert. Ihr Guide bringt Sie zum Abendzug zurück nach Taschkent.",
+        "fr": "Rendez-vous à la gare de Tachkent pour l’Afrosiyob du matin, qui traverse la steppe de la Faim jusqu’à Samarcande (environ 2 h 10) ; nous pouvons ajouter un transfert depuis votre hôtel. Votre guide vous attend juste à la sortie de la gare avec une voiture privée et commence par la coupole bleue côtelée du mausolée Gour-Emir, où reposent Tamerlan et son petit-fils astronome Ulugh Beg. Place ensuite au Régistan et à ses trois médersas, Ulugh Beg, Cher-Dor et la Tilla-Kari dorée. Après le déjeuner dans un restaurant local, découvrez l’immense mosquée Bibi-Khanym et les étals du bazar Siyob, puis montez l’allée de céramiques de la nécropole de Chah-i-Zinda avant de terminer à l’observatoire d’Ulugh Beg du XVe siècle. Votre guide vous raccompagne à la gare pour le train du soir vers Tachkent.",
+        "ja": "朝、タシケント駅へお越しいただき、アフロシャブ号で飢餓ステップを越えてサマルカンドへ（約2時間10分）。ご希望でホテルからの送迎も追加できます。サマルカンド駅の出口でガイドが専用車とともにお出迎えし、ティムールと天文学者の孫ウルグベクが眠る、青いリブ状ドームのグーリ・アミール廟からスタート。続いてウルグベク、シェルドル、金色に輝くティラカリの3つのメドレセが並ぶレギスタン広場へ。地元レストランでの昼食後は、巨大なビビハニム・モスクとシアブ・バザールの露店を見学し、タイル装飾の参道が続くシャーヒ・ズィンダ廟群を上り、15世紀のウルグベク天文台で締めくくります。ガイドが駅までお送りし、夕方の列車でタシケントへ戻ります。",
+        "es": "Usted se dirige a la estación de Taskent para tomar el Afrosiyob de la mañana, que cruza la Estepa del Hambre hasta Samarcanda (unas 2 h 10 min); si lo desea, añadimos un traslado desde su hotel. Su guía le espera justo a la salida de la estación con un coche privado y empieza por la cúpula azul acanalada del mausoleo Gur-e-Amir, donde descansan Tamerlán y su nieto astrónomo Ulugh Beg. Después, la plaza Registán y sus tres madrasas: Ulugh Beg, Sher-Dor y la dorada Tilya-Kori. Tras almorzar en un restaurante local, visite la enorme mezquita Bibi-Khanym y los puestos del bazar Siyob, suba por la calle de azulejos de la necrópolis de Shah-i-Zinda y termine en el observatorio de Ulugh Beg, del siglo XV. Su guía le lleva de vuelta a la estación para el tren de la tarde a Taskent.",
+        "zh": "自行前往塔什干火车站，乘坐早班阿弗罗西阿布列车穿越饥饿草原前往撒马尔罕（约2小时10分钟）；如需，我们可以增加酒店接送服务。导游将在车站出口外与您会合，乘坐私人车辆，从古尔-埃米尔陵的肋状蓝色圆顶开始游览，这里是帖木儿及其天文学家孙子乌鲁格别克的安息之地。接下来是雷吉斯坦广场及其三所经学院：乌鲁格别克经学院、舍尔多尔经学院和镀金的蒂利亚-卡里经学院。在当地餐厅享用午餐后，参观宏伟的比比哈努姆清真寺和锡亚布集市的摊位，然后沿着沙希-津达陵墓群的彩色瓷砖小巷攀登，最后参观乌鲁格别克15世纪的天文台。导游将带您返回车站，乘坐傍晚列车返回塔什干。"
+      },
+      "meals": {
+        "en": "Bottled water in vehicle (lunch at a local courtyard restaurant at own expense or arranged on request)",
+        "de": "Trinkwasser im Fahrzeug (Mittagessen im traditionellen Restaurant auf eigene Kosten oder auf Wunsch inklusive)",
+        "fr": "Eau en bouteille dans le véhicule (déjeuner dans un restaurant traditionnel libre ou organisé sur demande)",
+        "ja": "車内でのミネラルウォーター（昼食は現地レストランにご案内・実費またはご希望により手配可能）",
+        "es": "Agua embotellada en el vehículo (almuerzo en restaurante tradicional por cuenta propia o incluido bajo petición)",
+        "zh": "车内提供瓶装水（当地庭院餐厅午餐自费或应要求安排）"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Meeting at Samarkand station and station transfers in Samarkand",
+      "Round-trip economy tickets on the Afrosiyob or Sharq high-speed train between Tashkent and Samarkand",
+      "Private air-conditioned vehicle and driver for the full day in Samarkand",
+      "Private local guide in Samarkand (we confirm an English-speaking guide when you book)",
+      "All monument entrance tickets in Samarkand (Gur-e-Amir, Registan Square, Bibi-Khanym, Shah-i-Zinda, Ulugh Beg Observatory)",
+      "Bottled water during the tour",
+      "Lunch at a local restaurant (drinks extra)"
+    ],
+    "de": [
+      "Empfang am Bahnhof Samarkand und Bahnhofstransfers in Samarkand",
+      "Hin- und Rückfahrtickets (Economy Class) für den Afrosiyob- oder Sharq-Schnellzug zwischen Taschkent und Samarkand",
+      "Privates klimatisiertes Fahrzeug mit Fahrer für den gesamten Tag in Samarkand",
+      "Privater örtlicher Guide in Samarkand (einen englischsprachigen Guide bestätigen wir bei der Buchung)",
+      "Alle Eintrittsgelder in Samarkand (Gur-Emir, Registan-Platz, Bibi-Chanum, Schah-i-Sinda, Ulugbek-Observatorium)",
+      "Trinkwasser während der gesamten Tour",
+      "Mittagessen in einem lokalen Restaurant (Getränke extra)"
+    ],
+    "fr": [
+      "Accueil à la gare de Samarcande et transferts depuis/vers la gare",
+      "Billets aller-retour en classe économique à bord du train rapide Afrosiyob ou Sharq entre Tachkent et Samarcande",
+      "Véhicule privé climatisé avec chauffeur pour toute la journée à Samarcande",
+      "Guide local privé à Samarcande (nous confirmons un guide anglophone à la réservation)",
+      "Tous les billets d'entrée aux monuments de Samarcande (Gour-Émir, Régistan, Bibi-Khanym, Chah-i-Zinda, observatoire d'Oulough Beg)",
+      "Eau en bouteille pendant l'excursion",
+      "Déjeuner dans un restaurant local (boissons en supplément)"
+    ],
+    "ja": [
+      "サマルカンド駅でのお出迎えと駅送迎",
+      "タシケント〜サマルカンド間の高速鉄道アフラシャブ号（またはシャルク号）往復普通席チケット",
+      "サマルカンド市内観光中の専用車（エアコン完備）およびドライバー",
+      "サマルカンドでの専属現地ガイド（英語ガイドはご予約時に確定します）",
+      "日程表記載の全入場料（アミール・ティムール廟、レギスタン広場、ビビハニム・モスク、シャーヒ・ズィンダ廟群、ウルグ・ベク天文台跡）",
+      "ツアー中のミネラルウォーター",
+      "地元レストランでの昼食（飲み物は別料金）"
+    ],
+    "es": [
+      "Recibimiento en la estación de Samarcanda y traslados desde/hacia la estación",
+      "Billetes de ida y vuelta en clase turista en el tren rápido Afrosiyob o Sharq entre Taskent y Samarcanda",
+      "Vehículo privado climatizado con conductor durante todo el día en Samarcanda",
+      "Guía local privado en Samarcanda (confirmamos un guía de habla inglesa al reservar)",
+      "Todas las entradas a los monumentos de Samarcanda (Gur-e-Amir, Registán, Bibi-Khanym, Shah-i-Zinda y observatorio de Ulugh Beg)",
+      "Agua embotellada durante el recorrido",
+      "Almuerzo en un restaurante local (bebidas aparte)"
+    ],
+    "zh": [
+      "撒马尔罕车站迎接及撒马尔罕市内车站接送",
+      "塔什干与撒马尔罕之间阿弗罗西阿布或沙尔克高铁经济舱往返车票",
+      "撒马尔罕全天私人空调车及司机",
+      "撒马尔罕当地私人导游（预订时我们将确认英语导游）",
+      "撒马尔罕所有景点门票（古尔-埃米尔、雷吉斯坦广场、比比哈努姆、沙希-津达、乌鲁格别克天文台）",
+      "游览期间瓶装水",
+      "当地餐厅午餐（饮料另计）"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "Dinner and drinks",
+      "Hotel–station transfers in Tashkent (available on request)",
+      "VIP / business class train seat upgrade (available on request subject to Uzbekistan Railways inventory)",
+      "Personal expenses and gratuities for guide and driver"
+    ],
+    "de": [
+      "Abendessen und Getränke",
+      "Transfers zwischen Hotel und Bahnhof in Taschkent (auf Anfrage)",
+      "Upgrade auf VIP-/Business-Class im Schnellzug (auf Anfrage je nach Verfügbarkeit der usbekischen Bahn möglich)",
+      "Persönliche Ausgaben und Trinkgelder für Guide und Fahrer"
+    ],
+    "fr": [
+      "Dîner et boissons",
+      "Transferts hôtel–gare à Tachkent (sur demande)",
+      "Surclassement en classe VIP / affaires dans le train (disponible sur demande selon les places des chemins de fer ouzbeks)",
+      "Dépenses personnelles et pourboires au guide et au chauffeur"
+    ],
+    "ja": [
+      "夕食・飲み物",
+      "タシケントでのホテル〜駅間の送迎（ご希望により手配可）",
+      "高速鉄道のVIP・ビジネスクラス座席へのアップグレード（ご希望および空席状況により手配可能）",
+      "個人的な諸費用およびガイド・ドライバーへのチップ"
+    ],
+    "es": [
+      "Cena y bebidas",
+      "Traslados hotel–estación en Taskent (bajo petición)",
+      "Mejora a clase VIP / ejecutiva en el tren (disponible bajo petición según disponibilidad ferroviaria)",
+      "Gastos personales y propinas para el guía y el conductor"
+    ],
+    "zh": [
+      "晚餐和饮料",
+      "塔什干酒店—车站接送（应要求提供）",
+      "VIP/商务舱火车座位升级（应要求提供，视乌兹别克斯坦铁路库存情况而定）",
+      "个人开支及导游和司机小费"
+    ]
+  },
+  "priceFrom": 280,
+  "currency": "USD",
+  "priceNote": {
+    "en": "Prices are per person in USD for a private full-day tour including round-trip economy train tickets, Samarkand station transfers, private guide, entrance fees and lunch; see the table below.",
+    "de": "Preise pro Person in USD für eine private Tagestour inklusive Bahntickets (Economy, Hin und Rück), Bahnhofstransfers in Samarkand, privatem Guide, Eintritten und Mittagessen; siehe Tabelle unten.",
+    "fr": "Prix par personne en USD pour une excursion privée d’une journée, billets de train A/R en classe économique, transferts depuis la gare de Samarcande, guide privé, entrées et déjeuner inclus ; voir le tableau ci-dessous.",
+    "ja": "料金は1名あたりの米ドル表示です。往復エコノミー列車券、サマルカンド駅からの送迎、専属ガイド、入場料、昼食を含むプライベート日帰りツアーの料金です。下表をご覧ください。",
+    "es": "Precios por persona en USD para un tour privado de día completo con billetes de tren de ida y vuelta en clase económica, traslados en la estación de Samarcanda, guía privado, entradas y almuerzo; consulte la tabla.",
+    "zh": "价格为每人美元，包含私人全日游、往返经济舱火车票、撒马尔罕车站接送、私人导游、门票和午餐；详见下表。"
+  },
+  "fromLabel": {
+    "en": "from $280 per person (4–6 travellers)",
+    "de": "ab $280 pro Person (4–6 Reisende)",
+    "fr": "à partir de 280 $ par personne (4 à 6 voyageurs)",
+    "ja": "1名あたり$280から（4〜6名参加時）",
+    "es": "desde $280 por persona (4–6 viajeros)",
+    "zh": "起价$280/人（4-6位旅客）"
+  },
+  "priceTable": {
+    "rowHeader": "tourType",
+    "caption": {
+      "en": "Price per person in USD by group size (private day tour from Tashkent)",
+      "de": "Preis pro Person in USD nach Gruppengröße (private Tagestour ab Taschkent)",
+      "fr": "Prix par personne en USD selon la taille du groupe (excursion privée depuis Tachkent)",
+      "ja": "グループ人数別 1名あたり料金（米ドル・タシケント発プライベート日帰りツアー）",
+      "es": "Precio por persona en USD según el tamaño del grupo (tour privado desde Taskent)",
+      "zh": "按团队人数划分的每人美元价格（从塔什干出发的私人一日游）"
+    },
+    "groupSizes": {
+      "en": [
+        "1 traveller",
+        "2 travellers",
+        "3 travellers",
+        "4–6 travellers"
+      ],
+      "de": [
+        "1 Reisender",
+        "2 Reisende",
+        "3 Reisende",
+        "4–6 Reisende"
+      ],
+      "fr": [
+        "1 voyageur",
+        "2 voyageurs",
+        "3 voyageurs",
+        "4–6 voyageurs"
+      ],
+      "ja": [
+        "1名",
+        "2名",
+        "3名",
+        "4〜6名"
+      ],
+      "es": [
+        "1 viajero",
+        "2 viajeros",
+        "3 viajeros",
+        "4–6 viajeros"
+      ],
+      "zh": [
+        "1位旅客",
+        "2位旅客",
+        "3位旅客",
+        "4–6位旅客"
+      ]
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "Private day tour (with high-speed train)",
+          "de": "Private Tagestour (inkl. Schnellzug)",
+          "fr": "Excursion privée (avec train rapide)",
+          "ja": "プライベート日帰りツアー（高速鉄道往復込）",
+          "es": "Excursión privada (con tren de alta velocidad)",
+          "zh": "私人一日游（含高铁）"
+        },
+        "prices": [
+          450,
+          325,
+          305,
+          280
+        ],
+        "singleSupplement": "–"
+      }
+    ],
+    "note": {
+      "en": "Already staying in Samarkand? We can also run this private guided city tour starting directly at your Samarkand hotel without train tickets—just mention it in your inquiry.",
+      "de": "Sie übernachten bereits in Samarkand? Wir bieten diese private Stadtführung auch direkt ab Ihrem Hotel in Samarkand ohne Bahntickets an – erwähnen Sie dies einfach in Ihrer Anfrage.",
+      "fr": "Vous logez déjà à Samarcande ? Nous pouvons également organiser cette visite guidée privée directement depuis votre hôtel à Samarcande sans billets de train — précisez-le simplement dans votre demande.",
+      "ja": "すでにサマルカンドにご滞在中の場合は、鉄道チケットを除いたサマルカンド市内ホテル発着のプライベート1日観光としても手配可能です。お問い合わせ時にお知らせください。",
+      "es": "¿Ya se aloja en Samarcanda? También podemos organizar esta visita privada saliendo directamente desde su hotel en Samarcanda sin billetes de tren; indíquelo en su consulta.",
+      "zh": "已经在撒马尔罕住宿？我们也可以直接从您在撒马尔罕的酒店出发，安排这趟私人导游城市游览，无需火车票——请在询价时注明。"
+    }
+  },
+  "hotels": [],
+  "vehicles": [
+    {
+      "group": {
+        "en": "1–2 travellers",
+        "de": "1–2 Reisende",
+        "fr": "1 à 2 voyageurs",
+        "ja": "1〜2名",
+        "es": "1–2 viajeros",
+        "zh": "1–2位旅客"
+      },
+      "vehicle": {
+        "en": "Comfort air-conditioned sedan (Chevrolet Lacetti / Cobalt)",
+        "de": "Komfort-Limousine mit Klimaanlage (Chevrolet Lacetti / Cobalt)",
+        "fr": "Berline confortable climatisée (Chevrolet Lacetti / Cobalt)",
+        "ja": "エアコン付き快適セダン（Chevrolet Lacetti / Cobalt）",
+        "es": "Sedán confortable climatizado (Chevrolet Lacetti / Cobalt)",
+        "zh": "舒适空调轿车（雪佛兰 Lacetti / Cobalt）"
+      }
+    },
+    {
+      "group": {
+        "en": "3–6 travellers",
+        "de": "3–6 Reisende",
+        "fr": "3 à 6 voyageurs",
+        "ja": "3〜6名",
+        "es": "3–6 viajeros",
+        "zh": "3–6位旅客"
+      },
+      "vehicle": {
+        "en": "Private air-conditioned minivan (Hyundai Grand Starex / H-1)",
+        "de": "Privater klimatisierter Minivan (Hyundai Grand Starex / H-1)",
+        "fr": "Minivan privé climatisé (Hyundai Grand Starex / H-1)",
+        "ja": "エアコン付き専用ミニバン（Hyundai Grand Starex / H-1）",
+        "es": "Miniván privada climatizada (Hyundai Grand Starex / H-1)",
+        "zh": "私人空调小巴（现代 Grand Starex / H-1）"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400030/sunday-atlas/majestic-gur-e-amir-mausoleum-in-samarkand-33403700_qgc86d.jpg",
+    "width": 1920,
+    "height": 2560,
+    "alt": {
+      "en": "Ribbed turquoise dome and tiled portal of the Gur-e-Amir Mausoleum in Samarkand, Uzbekistan",
+      "de": "Gerippte türkisfarbene Kuppel und gekacheltes Portal des Gur-Emir-Mausoleums in Samarkand, Usbekistan",
+      "fr": "Coupole nervurée turquoise et portail en céramique du mausolée Gour-Émir à Samarcande, Ouzbékistan",
+      "ja": "サマルカンドのアミール・ティムール廟（グーリ・アミール）の青きドームとタイル装飾の門（ウズベキスタン）",
+      "es": "Cúpula nervada de color turquesa y pórtico de azulejos del mausoleo Gur-e-Amir en Samarcanda, Uzbekistán",
+      "zh": "撒马尔罕古尔-阿米尔陵墓的肋状青绿色圆顶与瓷砖门廊，乌兹别克斯坦"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400032/sunday-atlas/registan-square-in-samarkand-uzbekistan-35220187_hm4jth.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "The three monumental madrasahs of Registan Square in Samarkand, Uzbekistan",
+        "de": "Die drei monumentalen Medresen am Registan-Platz in Samarkand, Usbekistan",
+        "fr": "Les trois médersas monumentales de la place du Régistan à Samarcande, Ouzbékistan",
+        "ja": "サマルカンドのレギスタン広場に並ぶ3つの壮麗なマドラサ（ウズベキスタン）",
+        "es": "Las tres madrasas monumentales de la plaza del Registán en Samarcanda, Uzbekistán",
+        "zh": "撒马尔罕雷吉斯坦广场的三座宏伟伊斯兰学校，乌兹别克斯坦"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400024/sunday-atlas/shah-i-zinda-in-samarkand-16681661_dpy6zx.jpg",
+        "width": 1920,
+        "height": 2880
+      },
+      "alt": {
+        "en": "Glazed blue-tiled mausoleums along the sacred avenue of Shah-i-Zinda in Samarkand",
+        "de": "Blau glasierte Mausoleen entlang der heiligen Gräbergasse Schah-i-Sinda in Samarkand",
+        "fr": "Mausolées aux céramiques bleues le long de l'allée sacrée de Chah-i-Zinda à Samarcande",
+        "ja": "サマルカンドのシャーヒ・ズィンダ廟群に連なる青タイル装飾の霊廟",
+        "es": "Mausoleos revestidos de azulejos azules en la necrópolis de Shah-i-Zinda en Samarcanda",
+        "zh": "撒马尔罕沙希-津达圣道沿线的蓝色釉面陵墓"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400027/sunday-atlas/illuminated-registan-square-at-night-19439122_kfzhaf.jpg",
+        "width": 1920,
+        "height": 1188
+      },
+      "alt": {
+        "en": "Registan Square in Samarkand illuminated at dusk before the evening return train to Tashkent",
+        "de": "Der beleuchtete Registan-Platz in Samarkand in der Abenddämmerung vor der Rückfahrt nach Taschkent",
+        "fr": "La place du Régistan à Samarcande illuminée au crépuscule avant le train du soir vers Tachkent",
+        "ja": "タシケントへの帰路につく夕暮れ時にライトアップされたサマルカンドのレギスタン広場",
+        "es": "La plaza del Registán en Samarcanda iluminada al anochecer antes del tren de regreso a Taskent",
+        "zh": "黄昏时分灯火辉煌的撒马尔罕雷吉斯坦广场，随后乘晚班火车返回塔什干"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925943/sunday-atlas/ugrwcrigdxw76ux1z5np.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "Intricate Timurid tilework and arches in historic Samarkand, Uzbekistan",
+        "de": "Kunstvolle timuridische Fliesenmosaike und Bögen im historischen Samarkand, Usbekistan",
+        "fr": "Mosaïques timourides et arches historiques à Samarcande, Ouzbékistan",
+        "ja": "サマルカンドの歴史的建造物を彩る緻密なティムール朝タイル装飾",
+        "es": "Mosaicos timúridas y arcos históricos en Samarcanda, Uzbekistán",
+        "zh": "乌兹别克斯坦历史名城撒马尔罕精美的帖木儿时期瓷砖工艺与拱门"
+      }
+    }
+  ],
+  "sample": false,
+  "featured": false,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "Samarkand Day Tour from Tashkent by Afrosiyob Bullet Train ($280 Private)",
+      "meta_description": "From $280 USD/person: 1-day private Samarkand tour from Tashkent with round-trip Afrosiyob high-speed train tickets, Registan, Shah-i-Zinda & private guide.",
+      "focus_keyword": "samarkand day tour from tashkent",
+      "keywords": [
+        "samarkand day tour from tashkent",
+        "tashkent to samarkand bullet train tour",
+        "afrosiyob train samarkand tour",
+        "registan square day trip"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Samarkand Tagestour ab Taschkent per Afrosiyob-Schnellzug ($280 Privat)",
+      "meta_description": "Ab $280 USD/Person: Private 1-Tages-Tour nach Samarkand ab Taschkent inkl. Afrosiyob-Hochgeschwindigkeitszug (Hin & Rück), Registan, Schah-i-Sinda & Guide.",
+      "focus_keyword": "samarkand tagestour ab taschkent",
+      "keywords": [
+        "samarkand tagestour ab taschkent",
+        "afrosiyob zug samarkand ausflug",
+        "registan samarkand tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Excursion Samarcande en TGV Afrosiyob depuis Tachkent ($280 Privé)",
+      "meta_description": "Dès $280 USD/pers. : excursion privée d’un jour à Samarcande depuis Tachkent avec billets TGV Afrosiyob A/R, place du Régistan, Chah-i-Zinda et guide privé.",
+      "focus_keyword": "excursion samarcande depuis tachkent",
+      "keywords": [
+        "excursion samarcande depuis tachkent",
+        "train afrosiyob samarcande",
+        "visite samarcande 1 jour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "タシケント発サマルカンド日帰りツアー｜アフロシャブ高速鉄道往復付き ($280〜)",
+      "meta_description": "1名$280〜：アフロシャブ号往復チケット＋専用車＋ガイド付き！タシケントから日帰りでレギスタン広場、シャーヒ・ズィンダ廟群、アミール・ティムール廟を巡るプライベートツアー。",
+      "focus_keyword": "サマルカンド 日帰りツアー タシケント発",
+      "keywords": [
+        "サマルカンド 日帰りツアー",
+        "アフロシャブ号 サマルカンド ツアー",
+        "タシケント発 サマルカンド"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Excursión a Samarcanda en Tren Bala Afrosiyob desde Taskent ($280 Privado)",
+      "meta_description": "Desde $280 USD/persona: excursión privada de 1 día a Samarcanda desde Taskent con billetes de tren Afrosiyob I/V, plaza Registán, Shah-i-Zinda y guía privado.",
+      "focus_keyword": "excursión a samarcanda desde taskent",
+      "keywords": [
+        "excursión a samarcanda desde taskent",
+        "tren afrosiyob samarcanda tour",
+        "visitar samarcanda en 1 día"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "从塔什干出发的撒马尔罕一日游：乘坐阿弗罗西奥布子弹头列车（$280 私人）",
+      "meta_description": "从$280 USD/人起：从塔什干出发的1天私人撒马尔罕游，含往返阿弗罗西奥布高铁车票、雷吉斯坦、沙希-津达及私人导游。",
+      "focus_keyword": "塔什干撒马尔罕一日游",
+      "keywords": [
+        "塔什干撒马尔罕一日游",
+        "撒马尔罕高铁一日游",
+        "阿弗罗西阿伯高铁",
+        "撒马尔罕雷吉斯坦广场",
+        "沙希津达陵墓群",
+        "塔什干到撒马尔罕火车票",
+        "撒马尔罕私人导游",
+        "乌兹别克斯坦一日游"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Samarkand in a Day: High-Speed Train Tour from Tashkent",
+      "de": "Samarkand an einem Tag: Schnellzug-Tagestour ab Taschkent",
+      "fr": "Samarcande en un jour : excursion en train à grande vitesse depuis Tachkent",
+      "ja": "タシケント発サマルカンド日帰りツアー：高速鉄道アフラシャブ号で行く1日観光",
+      "es": "Samarcanda en un día: excursión en tren de alta velocidad desde Taskent"
+    },
+    "facts": {
+      "en": "Samarkand day tour at a glance",
+      "de": "Die Samarkand-Tagestour auf einen Blick",
+      "fr": "L'excursion à Samarcande en bref",
+      "ja": "サマルカンド日帰りツアーの概要",
+      "es": "La excursión a Samarcanda de un vistazo"
+    },
+    "itinerary": {
+      "en": "Full-day itinerary",
+      "de": "Tagesprogramm im Detail",
+      "fr": "Programme de la journée",
+      "ja": "1日のスケジュール",
+      "es": "Itinerario del día"
+    },
+    "included": {
+      "en": "What is included",
+      "de": "Im Preis enthalten",
+      "fr": "Ce qui est inclus",
+      "ja": "料金に含まれるもの",
+      "es": "Qué está incluido"
+    },
+    "notIncluded": {
+      "en": "What is not included",
+      "de": "Nicht im Preis enthalten",
+      "fr": "Ce qui n'est pas inclus",
+      "ja": "料金に含まれないもの",
+      "es": "Qué no está incluido"
+    },
+    "prices": {
+      "en": "Prices by group size",
+      "de": "Preise nach Gruppengröße",
+      "fr": "Tarifs selon la taille du groupe",
+      "ja": "参加人数別料金表",
+      "es": "Precios según el tamaño del grupo"
+    },
+    "vehicles": {
+      "en": "Vehicles in Samarkand",
+      "de": "Fahrzeuge in Samarkand",
+      "fr": "Véhicules à Samarcande",
+      "ja": "サマルカンドでの利用車両",
+      "es": "Vehículos en Samarcanda"
+    },
+    "faq": {
+      "en": "Questions about the Samarkand day tour",
+      "de": "Häufige Fragen zur Samarkand-Tagestour",
+      "fr": "Questions sur l'excursion à Samarcande",
+      "ja": "サマルカンド日帰りツアーに関するよくある質問",
+      "es": "Preguntas sobre la excursión a Samarcanda"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "What happens if the Afrosiyob high-speed train is sold out on my date?",
+        "de": "Was passiert, wenn der Afrosiyob-Schnellzug an meinem Wunschdatum ausgebucht ist?",
+        "fr": "Que se passe-t-il si le train rapide Afrosiyob est complet à ma date ?",
+        "ja": "希望日に高速鉄道アフラシャブ号が満席の場合はどうなりますか？",
+        "es": "¿Qué ocurre si el tren rápido Afrosiyob está agotado en mi fecha?",
+        "zh": "如果我预订日期的阿弗罗西奥布高铁票已售完怎么办？"
+      },
+      "a": {
+        "en": "Afrosiyob tickets open 45 to 60 days before departure and sell out quickly in spring and autumn. If the Afrosiyob is full on your date, we can book the fast Sharq express train or arrange the entire day trip by private comfort sedan/minivan directly from your Tashkent hotel, confirming the exact schedule in your quote.",
+        "de": "Die Afrosiyob-Tickets werden 45 bis 60 Tage vor Abfahrt freigeschaltet und sind im Frühjahr und Herbst schnell vergriffen. Sollte der Afrosiyob an Ihrem Termin ausgebucht sein, buchen wir entweder den schnellen Sharq-Expresszug oder führen den Ausflug komplett im privaten Komfortfahrzeug ab Ihrem Hotel in Taschkent durch.",
+        "fr": "Les billets Afrosiyob ouvrent 45 à 60 jours avant le départ et partent vite au printemps et à l'automne. Si l'Afrosiyob est complet à votre date, nous pouvons réserver le train rapide Sharq ou organiser toute la journée en véhicule privé depuis votre hôtel de Tachkent.",
+        "ja": "アフラシャブ号のチケットは出発の45〜60日前に発売され、春や秋の観光シーズンは早期に完売することがあります。満席の場合は、急行列車「シャルク号」の手配、またはタシケントのホテルから専用車で直接往復するプランをご提案し、お見積もり時に正確な発着時刻をご案内します。",
+        "es": "Los billetes del Afrosiyob salen a la venta entre 45 y 60 días antes y se agotan rápido en primavera y otoño. Si está completo en su fecha, podemos reservar el tren expreso Sharq o realizar toda la excursión en vehículo privado desde su hotel en Taskent.",
+        "zh": "阿弗罗西奥布车票在出发前45至60天开放预订，春秋两季很快售完。如果您的日期阿弗罗西奥布已满，我们可以预订快速沙列克特快列车，或直接从您在塔什干的酒店出发，安排整个一日游，使用私人舒适轿车/小巴，并在报价中确认确切行程。"
+      }
+    },
+    {
+      "q": {
+        "en": "What do you need from us to issue the Uzbekistan train tickets?",
+        "de": "Welche Angaben benötigen Sie für die Ausstellung der usbekischen Bahntickets?",
+        "fr": "De quoi avez-vous besoin pour émettre les billets de train ouzbeks ?",
+        "ja": "ウズベキスタン国鉄の列車チケット手配には何が必要ですか？",
+        "es": "¿Qué datos necesitan para emitir los billetes de tren en Uzbekistán?",
+        "zh": "预订乌兹别克斯坦火车票需要我们提供哪些信息？"
+      },
+      "a": {
+        "en": "Uzbekistan Railways issues named electronic tickets tied to each passenger's passport. Once you accept your quote, we simply need the full name, passport number, date of birth, and nationality of each traveller, and you will board the train showing your passport.",
+        "de": "Die usbekische Eisenbahn stellt personalisierte E-Tickets aus, die an den Reisepass gebunden sind. Nach Bestätigung Ihres Angebots benötigen wir lediglich den vollständigen Namen, die Passnummer, das Geburtsdatum und die Staatsangehörigkeit jedes Reisenden.",
+        "fr": "Les chemins de fer ouzbeks émettent des billets électroniques nominatifs liés au passeport. Une fois votre devis accepté, il nous suffit des nom complet, numéro de passeport, date de naissance et nationalité de chaque voyageur.",
+        "ja": "ウズベキスタン鉄道はパスポート情報と紐づいた記名式Eチケットを発行します。お見積もり承認後、ご参加者全員のローマ字氏名・パスポート番号・生年月日・国籍をお知らせいただければ手配完了となり、当日はパスポート提示でご乗車いただけます。",
+        "es": "Los ferrocarriles de Uzbekistán emiten billetes electrónicos nominales vinculados al pasaporte. Al confirmar su presupuesto, solo necesitamos el nombre completo, número de pasaporte, fecha de nacimiento y nacionalidad de cada viajero.",
+        "zh": "乌兹别克斯坦铁路公司签发关联每位乘客护照的实名电子票。接受报价后，我们只需每位旅客的全名、护照号码、出生日期和国籍，您持护照即可登车。"
+      }
+    },
+    {
+      "q": {
+        "en": "Can we start this tour in Samarkand if we are already staying there?",
+        "de": "Können wir diese Tour auch direkt in Samarkand beginnen, wenn wir dort übernachten?",
+        "fr": "Pouvons-nous commencer cette visite directement à Samarcande si nous y logeons déjà ?",
+        "ja": "すでにサマルカンドに宿泊している場合、現地ホテル発着で参加できますか？",
+        "es": "¿Podemos empezar este tour directamente en Samarcanda si ya nos alojamos allí?",
+        "zh": "如果我们已经在撒马尔罕，可以从那里开始行程吗？"
+      },
+      "a": {
+        "en": "Yes. If you are already in Samarkand—or if you want to keep your luggage with you in the vehicle and stay overnight in Samarkand instead of returning to Tashkent—tell us in your inquiry and we will adjust the price and transfers accordingly.",
+        "de": "Ja. Wenn Sie bereits in Samarkand übernachten – oder Ihr Gepäck im Fahrzeug mitnehmen und am Abend in Samarkand bleiben möchten, statt nach Taschkent zurückzukehren –, teilen Sie uns dies einfach mit und wir passen Preis und Transfers an.",
+        "fr": "Oui. Si vous séjournez déjà à Samarcande — ou si vous souhaitez garder vos bagages dans le véhicule et dormir à Samarcande plutôt que de rentrer à Tachkent — indiquez-le dans votre demande et nous adapterons le tarif.",
+        "ja": "はい、可能です。すでにサマルカンドにご滞在中の場合や、タシケントへ戻らずスーツケースを専用車に積んでそのままサマルカンドのホテルへチェックインする片道プランをご希望の場合は、お問い合わせ時にお知らせいただければ料金と送迎を調整いたします。",
+        "es": "Sí. Si ya se aloja en Samarcanda —o si prefiere llevar su equipaje en el vehículo y quedarse a dormir en Samarcanda en lugar de regresar a Taskent— indíquelo en su consulta y ajustaremos el presupuesto.",
+        "zh": "可以。如果您已经在撒马尔罕——或者希望将行李放在车内，在撒马尔罕过夜而不返回塔什干——请在询价时告知我们，我们将相应调整价格和接送安排。"
+      }
+    }
+  ],
+  "addOns": []
+}

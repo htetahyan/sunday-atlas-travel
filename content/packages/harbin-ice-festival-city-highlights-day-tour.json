@@ -1,0 +1,505 @@
+{
+  "slug": "harbin-ice-festival-city-highlights-day-tour",
+  "title": {
+    "en": "Harbin Ice and Snow World, Sun Island & St. Sophia Private Day Tour",
+    "de": "Harbin Ice and Snow World, Sonneninsel & Sophienkathedrale – Private Tagestour",
+    "fr": "Harbin Ice and Snow World, île du Soleil et Sainte-Sophie – excursion privée d’une journée",
+    "ja": "ハルビン氷雪大世界・太陽島＆聖ソフィア大聖堂 1日プライベートツアー",
+    "es": "Harbin Ice and Snow World, isla del Sol y Santa Sofía – tour privado de un día",
+    "zh": "哈尔滨冰雪大世界、太阳岛与圣索菲亚大教堂私人一日游"
+  },
+  "destination": "china",
+  "countries": [],
+  "durationDays": 1,
+  "nights": 0,
+  "isDayTour": true,
+  "style": {
+    "en": "Private winter city day tour",
+    "de": "Private Winter-Stadttour",
+    "fr": "Excursion privée en ville l’hiver",
+    "ja": "冬の市内プライベート日帰り",
+    "es": "Tour privado de invierno por la ciudad",
+    "zh": "私人冬季城市一日游"
+  },
+  "seasonNote": {
+    "en": "Late December to February",
+    "de": "Ende Dezember bis Februar",
+    "fr": "Fin décembre à février",
+    "ja": "12月下旬〜2月",
+    "es": "Finales de diciembre a febrero",
+    "zh": "12月下旬至2月"
+  },
+  "maxGroupSize": 4,
+  "summary": {
+    "en": "A private winter day in Harbin: the giant snow sculptures on Sun Island, the ice buildings of Ice and Snow World, then St. Sophia Cathedral and the cobbled Central Street (Zhongyang Street).",
+    "de": "Ein privater Wintertag in Harbin: die riesigen Schneeskulpturen auf der Sonneninsel, die Eisbauten der Ice and Snow World, danach die Sophienkathedrale und die gepflasterte Zentralstraße (Zhongyang-Straße).",
+    "fr": "Une journée d’hiver privée à Harbin : les sculptures de neige géantes de l’île du Soleil, les bâtiments de glace d’Ice and Snow World, puis la cathédrale Sainte-Sophie et la rue Centrale pavée (rue Zhongyang).",
+    "ja": "ハルビンの冬を満喫するプライベート日帰りツアー：太陽島の巨大な雪像、氷雪大世界の氷の建築群、そして聖ソフィア大聖堂と石畳の中央大街を巡ります。",
+    "es": "Un día de invierno privado en Harbin: las esculturas de nieve gigantes de la isla del Sol, los edificios de hielo de Ice and Snow World y, después, la catedral de Santa Sofía y la empedrada calle Central (calle Zhongyang).",
+    "zh": "哈尔滨私人冬日之旅：太阳岛上的巨型雪雕、冰雪大世界的冰雪建筑，随后参观圣索菲亚大教堂和鹅卵石铺就的中央大街（中街）。"
+  },
+  "intro": {
+    "en": "Harbin’s two big ice-and-snow parks and its Russian-era old town in about eight hours, with entrance tickets for the sights included and lunch left up to you.",
+    "de": "Harbins zwei große Eis- und Schneeparks und die Altstadt aus russischer Zeit in rund acht Stunden – Eintritte inklusive, das Mittagessen wählen Sie selbst.",
+    "fr": "Les deux grands parcs de glace et de neige de Harbin et sa vieille ville d’époque russe en huit heures environ, entrées des sites incluses, déjeuner à votre choix.",
+    "ja": "ハルビンの二大氷雪パークとロシア時代の旧市街を約8時間で。各観光地の入場料込み、昼食はお好みのお店でどうぞ。",
+    "es": "Los dos grandes parques de hielo y nieve de Harbin y su casco antiguo de época rusa en unas ocho horas, con las entradas incluidas y el almuerzo a su elección.",
+    "zh": "约八小时游览哈尔滨两大冰雪公园及其俄罗斯风情老城，门票已含，午餐自理。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Harbin – Sun Island – Ice and Snow World – St. Sophia Cathedral – Central Street",
+        "de": "Harbin – Sonneninsel – Ice and Snow World – Sophienkathedrale – Zentralstraße",
+        "fr": "Harbin – île du Soleil – Ice and Snow World – cathédrale Sainte-Sophie – rue Centrale",
+        "ja": "ハルビン – 太陽島 – 氷雪大世界 – 聖ソフィア大聖堂 – 中央大街",
+        "es": "Harbin – isla del Sol – Ice and Snow World – catedral de Santa Sofía – calle Central",
+        "zh": "哈尔滨 – 太阳岛 – 冰雪大世界 – 圣索菲亚大教堂 – 中央大街"
+      },
+      "description": {
+        "en": "You choose a pick-up time between 07:00 and 10:00 and we collect you at your Harbin hotel. First stop is Sun Island on the north bank of the Songhua River, where the winter snow sculpture expo fills the park. Next is Harbin Ice and Snow World, with its full-size buildings cut from river ice. After a lunch break (on your own; your guide can suggest a place), we head back into town for St. Sophia Cathedral, Harbin’s red-brick Byzantine landmark, and a walk along the cobbled Central Street. We drop you at your hotel after about eight hours.",
+        "de": "Sie wählen eine Abholzeit zwischen 07:00 und 10:00 Uhr, wir holen Sie an Ihrem Hotel in Harbin ab. Erster Halt ist die Sonneninsel am Nordufer des Songhua, wo im Winter die Schneeskulpturen-Ausstellung den Park füllt. Danach geht es in die Harbin Ice and Snow World mit ihren lebensgroßen Gebäuden aus Flusseis. Nach der Mittagspause (auf eigene Kosten, Ihr Guide gibt gern Tipps) fahren wir zurück in die Stadt zur Sophienkathedrale, Harbins byzantinischem Backsteinwahrzeichen, und spazieren über die gepflasterte Zentralstraße. Nach rund acht Stunden bringen wir Sie zurück zum Hotel.",
+        "fr": "Vous choisissez une heure de prise en charge entre 7 h et 10 h et nous venons vous chercher à votre hôtel de Harbin. Premier arrêt : l’île du Soleil, sur la rive nord de la Songhua, où l’exposition hivernale de sculptures de neige occupe le parc. Puis Harbin Ice and Snow World et ses bâtiments grandeur nature taillés dans la glace du fleuve. Après la pause déjeuner (libre, votre guide peut vous conseiller une adresse), nous rentrons en ville pour la cathédrale Sainte-Sophie, monument byzantin en brique rouge, et une promenade dans la rue Centrale pavée. Retour à votre hôtel après environ huit heures.",
+        "ja": "お迎え時間は7:00〜10:00の間でお選びいただけます。ハルビン市内のホテルからスタートし、まずは松花江北岸の太陽島へ。冬は雪像博覧会が園内を埋め尽くします。続いて、川の氷を切り出して造られた実物大の建物が並ぶハルビン氷雪大世界へ。昼食（各自負担、ガイドがお店をご案内します）の後は市内に戻り、赤レンガのビザンチン様式の聖ソフィア大聖堂を見学し、石畳の中央大街を散策します。約8時間後にホテルへお送りします。",
+        "es": "Usted elige la hora de recogida entre las 07:00 y las 10:00 y le buscamos en su hotel de Harbin. La primera parada es la isla del Sol, en la orilla norte del río Songhua, donde en invierno la exposición de esculturas de nieve llena el parque. Después, Harbin Ice and Snow World, con sus edificios a tamaño real tallados en hielo del río. Tras la pausa para almorzar (por su cuenta; su guía le recomienda un sitio), volvemos a la ciudad para ver la catedral de Santa Sofía, el emblema bizantino de ladrillo rojo de Harbin, y pasear por la empedrada calle Central. Le dejamos en su hotel tras unas ocho horas.",
+        "zh": "您在 07:00 至 10:00 之间选择接车时间，我们在哈尔滨酒店接您。第一站是松花江北岸的太阳岛，公园内举办冬季雪雕博览会。接着前往哈尔滨冰雪大世界，那里有用河冰切割而成的原大小建筑。午餐休息后（自理；导游可推荐餐厅），返回市区参观哈尔滨红砖拜占庭地标圣索菲亚大教堂，并漫步鹅卵石铺就的中央大街。约八小时后送您回酒店。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Private hotel pick-up and drop-off in Harbin",
+      "Private vehicle and driver for the whole day",
+      "English-speaking guide",
+      "Bottled water",
+      "Harbin Ice and Snow World entrance ticket",
+      "Sun Island snow sculpture expo entrance ticket"
+    ],
+    "de": [
+      "Privater Hoteltransfer in Harbin (Abholung und Rückfahrt)",
+      "Privates Fahrzeug mit Fahrer für den ganzen Tag",
+      "Englischsprachiger Guide",
+      "Wasser in Flaschen",
+      "Eintritt Harbin Ice and Snow World",
+      "Eintritt zur Schneeskulpturen-Ausstellung auf der Sonneninsel"
+    ],
+    "fr": [
+      "Prise en charge et retour privés à votre hôtel à Harbin",
+      "Véhicule privé avec chauffeur toute la journée",
+      "Guide anglophone",
+      "Eau en bouteille",
+      "Billet d’entrée à Harbin Ice and Snow World",
+      "Entrée à l’exposition de sculptures de neige de l’île du Soleil"
+    ],
+    "ja": [
+      "ハルビンのホテル送迎（専用）",
+      "終日専用車とドライバー",
+      "英語ガイド",
+      "ミネラルウォーター",
+      "ハルビン氷雪大世界入場券",
+      "太陽島雪像博覧会の入場券"
+    ],
+    "es": [
+      "Recogida y regreso privados a su hotel en Harbin",
+      "Vehículo privado con conductor todo el día",
+      "Guía de habla inglesa",
+      "Agua embotellada",
+      "Entrada a Harbin Ice and Snow World",
+      "Entrada a la exposición de esculturas de nieve de la isla del Sol"
+    ],
+    "zh": [
+      "哈尔滨私人酒店接送服务",
+      "全天私人车辆及司机",
+      "英语导游",
+      "瓶装水",
+      "哈尔滨冰雪大世界门票",
+      "太阳岛雪雕博览会门票"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "Lunch and drinks unless listed",
+      "Tips and personal expenses",
+      "Flights, visas and travel insurance",
+      "Optional rides and activities inside the parks"
+    ],
+    "de": [
+      "Mittagessen und Getränke, sofern nicht genannt",
+      "Trinkgelder und persönliche Ausgaben",
+      "Flüge, Visa und Reiseversicherung",
+      "Optionale Fahrgeschäfte und Aktivitäten in den Parks"
+    ],
+    "fr": [
+      "Déjeuner et boissons sauf mention",
+      "Pourboires et dépenses personnelles",
+      "Vols, visas et assurance voyage",
+      "Attractions et activités optionnelles dans les parcs"
+    ],
+    "ja": [
+      "記載以外の昼食・飲み物",
+      "チップ・個人的費用",
+      "航空券・ビザ・旅行保険",
+      "パーク内の有料アトラクション・アクティビティ"
+    ],
+    "es": [
+      "Almuerzo y bebidas salvo indicación",
+      "Propinas y gastos personales",
+      "Vuelos, visados y seguro de viaje",
+      "Atracciones y actividades opcionales dentro de los parques"
+    ],
+    "zh": [
+      "午餐和饮料（除非列明）",
+      "小费和个人开支",
+      "机票、签证和旅行保险",
+      "公园内的可选乘车和活动"
+    ]
+  },
+  "priceFrom": 215,
+  "currency": "USD",
+  "priceNote": {
+    "en": "Prices are per person in USD for a private day tour, by group size; see the table below.",
+    "de": "Preise pro Person in USD für eine private Tagestour, nach Gruppengröße; siehe Tabelle unten.",
+    "fr": "Prix par personne en USD pour une excursion privée, selon la taille du groupe ; voir le tableau ci-dessous.",
+    "ja": "プライベート日帰りツアーの1名あたり料金（米ドル、人数別）。下の表をご覧ください。",
+    "es": "Precios por persona en USD para un tour privado de un día, según el tamaño del grupo; vea la tabla abajo.",
+    "zh": "价格为私人一日游每人美元价格，按团队人数计算；见下方表格。"
+  },
+  "fromLabel": {
+    "en": "from $215 per person (4 travellers)",
+    "de": "ab $215 pro Person (4 Reisende)",
+    "fr": "à partir de 215 $ par personne (4 voyageurs)",
+    "ja": "1名あたり$215から（4名参加時）",
+    "es": "desde $215 por persona (4 viajeros)",
+    "zh": "从每人 $215 起（4位旅客）"
+  },
+  "priceTable": {
+    "rowHeader": "tourType",
+    "caption": {
+      "en": "Price per person in USD by group size (private day tour from Harbin)",
+      "de": "Preis pro Person in USD nach Gruppengröße (private Tagestour ab Harbin)",
+      "fr": "Prix par personne en USD selon la taille du groupe (excursion privée depuis Harbin)",
+      "ja": "グループ人数別 1名あたり料金（米ドル・ハルビン発プライベート日帰りツアー）",
+      "es": "Precio por persona en USD según el tamaño del grupo (tour privado desde Harbin)",
+      "zh": "私人一日游每人美元价格（按团队人数，从哈尔滨出发）"
+    },
+    "groupSizes": {
+      "en": [
+        "1 traveller",
+        "2 travellers",
+        "3 travellers",
+        "4 travellers"
+      ],
+      "de": [
+        "1 Reisender",
+        "2 Reisende",
+        "3 Reisende",
+        "4 Reisende"
+      ],
+      "fr": [
+        "1 voyageur",
+        "2 voyageurs",
+        "3 voyageurs",
+        "4 voyageurs"
+      ],
+      "ja": [
+        "1名",
+        "2名",
+        "3名",
+        "4名"
+      ],
+      "es": [
+        "1 viajero",
+        "2 viajeros",
+        "3 viajeros",
+        "4 viajeros"
+      ],
+      "zh": [
+        "1 位旅客",
+        "2 位旅客",
+        "3 位旅客",
+        "4 位旅客"
+      ]
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "Private day tour",
+          "de": "Private Tagestour",
+          "fr": "Excursion privée",
+          "ja": "プライベート日帰りツアー",
+          "es": "Tour privado de un día",
+          "zh": "私人一日游"
+        },
+        "prices": [
+          440,
+          290,
+          245,
+          215
+        ],
+        "singleSupplement": "–"
+      }
+    ],
+    "note": {
+      "en": "For groups larger than 4, ask us for a quote.",
+      "de": "Für Gruppen über 4 Personen erstellen wir gern ein Angebot.",
+      "fr": "Pour plus de 4 voyageurs, demandez-nous un devis.",
+      "ja": "5名以上のグループはお見積もりをご依頼ください。",
+      "es": "Para grupos de más de 4, pídanos un presupuesto.",
+      "zh": "4人以上团队，请联系我们获取报价。"
+    }
+  },
+  "hotels": [],
+  "vehicles": [
+    {
+      "group": {
+        "en": "1–3 travellers",
+        "de": "1–3 Reisende",
+        "fr": "1 à 3 voyageurs",
+        "ja": "1〜3名",
+        "es": "1–3 viajeros",
+        "zh": "1–3位旅客"
+      },
+      "vehicle": {
+        "en": "Private air-conditioned car",
+        "de": "Privates klimatisiertes Auto",
+        "fr": "Voiture privée climatisée",
+        "ja": "エアコン付き専用車",
+        "es": "Coche privado climatizado",
+        "zh": "私人空调轿车"
+      }
+    },
+    {
+      "group": {
+        "en": "4 travellers",
+        "de": "4 Reisende",
+        "fr": "4 voyageurs",
+        "ja": "4名",
+        "es": "4 viajeros",
+        "zh": "4位旅客"
+      },
+      "vehicle": {
+        "en": "Private minivan",
+        "de": "Privater Minivan",
+        "fr": "Minivan privé",
+        "ja": "専用ミニバン",
+        "es": "Minivan privado",
+        "zh": "私人小型面包车"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911684/sunday-atlas/cnh9cf8piomzlw6ttvol.jpg",
+    "width": 1920,
+    "height": 1440,
+    "alt": {
+      "en": "Illuminated multi-story ice pagoda and ice spires at Harbin Ice and Snow World at night",
+      "de": "Beleuchtete mehrstöckige Eispagode und Eistürme in der Harbin Ice and Snow World bei Nacht",
+      "fr": "Pagode de glace illuminée et flèches de glace au Harbin Ice and Snow World la nuit",
+      "ja": "カラフルにライトアップされた夜のハルビン氷雪大世界の巨大氷塔",
+      "es": "Pagoda de hielo iluminada y agujas de hielo en Harbin Ice and Snow World por la noche",
+      "zh": "哈尔滨冰雪大世界夜景中灯火通明的多层冰塔与冰尖塔"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911681/sunday-atlas/qtwkoxkqehiipf5ucafy.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "St. Sophia Cathedral in Harbin illuminated at night across a snow-covered plaza in Northeast China",
+        "de": "Die beleuchtete Sophienkathedrale in Harbin bei Nacht auf einem schneebedeckten Platz in Nordostchina",
+        "fr": "La cathédrale Sainte-Sophie de Harbin illuminée la nuit sur une place enneigée dans le nord-est de la Chine",
+        "ja": "中国東北部・ハルビンの雪に覆われた広場に佇む夜の聖ソフィア大聖堂",
+        "es": "La catedral de Santa Sofía en Harbin iluminada de noche sobre una plaza cubierta de nieve en el noreste de China",
+        "zh": "东北中国哈尔滨圣索菲亚教堂夜景，雪覆盖的广场上教堂灯火璀璨"
+      }
+    }
+  ],
+  "sample": false,
+  "featured": true,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "Harbin Ice and Snow World, Sun Island & St. Sophia Day Tour ($215)",
+      "meta_description": "From $215 USD/person: private 1-day Harbin winter tour with Sun Island snow sculptures, Ice and Snow World, St. Sophia Cathedral & Central Street. Tickets included.",
+      "focus_keyword": "harbin ice and snow world tour",
+      "keywords": [
+        "harbin ice and snow world tour",
+        "harbin 1 day private tour",
+        "harbin sun island snow sculpture tour",
+        "harbin ice festival day trip"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Harbin Ice and Snow World, Sonneninsel & Sophienkathedrale Tagestour ($215)",
+      "meta_description": "Ab $215 USD/Person: Private Winter-Tagestour in Harbin mit Schneeskulpturen der Sonneninsel, Ice and Snow World, Sophienkathedrale & Zentralstraße. Eintritte inklusive.",
+      "focus_keyword": "harbin ice and snow world tagestour",
+      "keywords": [
+        "harbin ice and snow world tagestour",
+        "harbin stadtrundfahrt winter",
+        "harbin eisfestival ausflug"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Excursion 1 Jour Harbin Ice & Snow World, Île du Soleil & Ste-Sophie ($215)",
+      "meta_description": "Dès $215 USD/pers. : journée privée d’hiver à Harbin avec sculptures de neige de l’île du Soleil, Ice and Snow World, Sainte-Sophie et rue Centrale. Entrées incluses.",
+      "focus_keyword": "excursion harbin ice and snow world",
+      "keywords": [
+        "excursion harbin ice and snow world",
+        "visite harbin 1 jour",
+        "festival de glace harbin excursion"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "ハルビン氷雪大世界・太陽島＆聖ソフィア大聖堂1日プライベートツアー ($215〜)",
+      "meta_description": "1名$215〜：太陽島の雪像、ハルビン氷雪大世界、聖ソフィア大聖堂、中央大街を専用車とガイドで巡る冬の日帰りツアー。入場料込み。",
+      "focus_keyword": "ハルビン 氷雪大世界 日帰りツアー",
+      "keywords": [
+        "ハルビン 氷雪大世界 日帰りツアー",
+        "ハルビン 1日 観光 ツアー",
+        "太陽島 雪像 ツアー"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tour 1 Día Harbin Ice & Snow World, Isla del Sol y Sta. Sofía ($215)",
+      "meta_description": "Desde $215 USD/persona: tour privado de invierno en Harbin con las esculturas de nieve de la isla del Sol, Ice and Snow World, Santa Sofía y calle Central. Entradas incluidas.",
+      "focus_keyword": "tour harbin ice and snow world",
+      "keywords": [
+        "tour harbin ice and snow world",
+        "excursión harbin 1 día",
+        "festival de hielo harbin día"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "哈尔滨冰雪大世界、太阳岛与圣索菲亚一日游（215美元）",
+      "meta_description": "从215美元/人起：哈尔滨冬季私人1日游，含太阳岛雪雕、冰雪大世界、圣索菲亚教堂与中央大街门票。",
+      "focus_keyword": "哈尔滨冰雪大世界一日游",
+      "keywords": [
+        "哈尔滨冰雪大世界一日游",
+        "太阳岛雪雕一日游",
+        "圣索菲亚教堂 中央大街 哈尔滨",
+        "哈尔滨冬季私人一日游",
+        "冰雪大世界 门票 太阳岛",
+        "哈尔滨 冰雪大世界 圣索菲亚 教堂"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Harbin Ice and Snow World & city highlights day tour",
+      "de": "Tagestour Harbin Ice and Snow World & Stadthighlights",
+      "fr": "Excursion Harbin Ice and Snow World et incontournables de la ville",
+      "ja": "ハルビン氷雪大世界＆市内ハイライト日帰りツアー",
+      "es": "Tour de Harbin Ice and Snow World y lo mejor de la ciudad"
+    },
+    "facts": {
+      "en": "Day tour at a glance",
+      "de": "Die Tagestour auf einen Blick",
+      "fr": "L’excursion en bref",
+      "ja": "日帰りツアーの概要",
+      "es": "El tour de un día de un vistazo"
+    },
+    "itinerary": {
+      "en": "The day, step by step",
+      "de": "Der Tagesablauf",
+      "fr": "Le programme de la journée",
+      "ja": "1日の流れ",
+      "es": "El día, paso a paso"
+    },
+    "included": {
+      "en": "What the tour includes",
+      "de": "Im Preis enthalten",
+      "fr": "Ce que comprend l’excursion",
+      "ja": "ツアーに含まれるもの",
+      "es": "Qué incluye el tour"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non compris",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "prices": {
+      "en": "Day tour prices",
+      "de": "Preise der Tagestour",
+      "fr": "Prix de l’excursion",
+      "ja": "日帰りツアー料金",
+      "es": "Precios del tour"
+    },
+    "vehicles": {
+      "en": "Vehicles by group size",
+      "de": "Fahrzeuge nach Gruppengröße",
+      "fr": "Véhicules selon la taille du groupe",
+      "ja": "人数別の車両",
+      "es": "Vehículos según el tamaño del grupo"
+    },
+    "faq": {
+      "en": "Day tour FAQs",
+      "de": "Häufige Fragen zur Tagestour",
+      "fr": "Questions fréquentes",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does this day tour cost?",
+        "de": "Was kostet diese Tagestour?",
+        "fr": "Combien coûte cette excursion ?",
+        "ja": "この日帰りツアーの料金は？",
+        "es": "¿Cuánto cuesta este tour?",
+        "zh": "这一天游多少钱？"
+      },
+      "a": {
+        "en": "It is $215 per person for 4 travellers, $245 for 3, $290 for 2 and $440 for one traveller, as a private tour.",
+        "de": "Als private Tour $215 pro Person bei 4 Reisenden, $245 bei 3, $290 bei 2 und $440 für eine Person.",
+        "fr": "En privé : 215 $ par personne à 4, 245 $ à 3, 290 $ à 2 et 440 $ pour un voyageur seul.",
+        "ja": "プライベートツアーで、4名なら1名$215、3名$245、2名$290、1名$440です。",
+        "es": "Como tour privado: $215 por persona para 4, $245 para 3, $290 para 2 y $440 para un viajero.",
+        "zh": "作为私人团，4位旅客每人215美元，3位245美元，2位290美元，单人440美元。"
+      }
+    },
+    {
+      "q": {
+        "en": "Where does the tour start?",
+        "de": "Wo beginnt die Tour?",
+        "fr": "Où commence l’excursion ?",
+        "ja": "出発地はどこですか？",
+        "es": "¿Dónde empieza el tour?",
+        "zh": "旅游从哪里开始？"
+      },
+      "a": {
+        "en": "We pick you up at your hotel in Harbin in the morning and bring you back there in the evening.",
+        "de": "Wir holen Sie morgens an Ihrem Hotel in Harbin ab und bringen Sie abends zurück.",
+        "fr": "Nous venons vous chercher le matin à votre hôtel à Harbin et vous y ramenons le soir.",
+        "ja": "朝ハルビンのホテルへお迎えに上がり、夕方ホテルまでお送りします。",
+        "es": "Le recogemos por la mañana en su hotel de Harbin y le devolvemos allí por la tarde.",
+        "zh": "我们早上在哈尔滨您的酒店接您，晚上送回酒店。"
+      }
+    }
+  ],
+  "addOns": []
+}

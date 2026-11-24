@@ -1,0 +1,1230 @@
+{
+  "slug": "baku-itinerary-5-days",
+  "published": true,
+  "featured": false,
+  "category": "destination-guide",
+  "destination": "azerbaijan",
+  "countries": [],
+  "publishedAt": "2026-11-06T06:17:01+04:00",
+  "updatedAt": "2026-11-06T06:17:01+04:00",
+  "readingTimeMinutes": 11,
+  "relatedPackages": [
+    "gobustan-mud-volcanoes-absheron-day-trip",
+    "azerbaijan-explorer-4-days",
+    "azerbaijan-journey-5-days"
+  ],
+  "title": {
+    "en": "Baku Itinerary 5 Days: Baku, Shamakhi & Gabala (2027)",
+    "de": "Baku Reiseroute 5 Tage: Baku, Schamachi & Gabala (2027)",
+    "fr": "Itinéraire à Bakou 5 jours : Bakou, Shamakhi et Gabala (2027)",
+    "ja": "バクー 5日間プラン：バクー、シャマヒ、ガバラ（2027年）",
+    "es": "Itinerario de 5 días en Bakú: Bakú, Shamakhi y Gabala (2027)"
+  },
+  "subtitle": {
+    "en": "Five days in Azerbaijan with Baku city sights and a mountain day in Gabala.",
+    "de": "Fünf Tage in Aserbaidschan mit Sehenswürdigkeiten in Baku und einem Bergtag in Gabala.",
+    "fr": "Cinq jours en Azerbaïdjan avec les sites de Bakou et une journée à la montagne à Gabala.",
+    "ja": "アゼルバイジャンを5日間で巡る旅。バクー市内観光とガバラでの山岳デーを組み合わせました。",
+    "es": "Cinco días en Azerbaiyán con los puntos destacados de la ciudad de Bakú y un día de montaña en Gabala."
+  },
+  "summary": {
+    "en": "A day-by-day Baku itinerary for five days covering the Old City, Absheron fire sites, Shamakhi and Gabala, plus drive times and where to stay.",
+    "de": "Eine tageweise Baku-Reiseroute für fünf Tage, die die Altstadt, die Feuerstätten auf der Absheron-Halbinsel, Schamachi und Gabala sowie Fahrzeiten und Unterkunftstipps umfasst.",
+    "fr": "Un itinéraire jour par jour à Bakou sur cinq jours couvrant la Vieille Ville, les sites du feu d'Absheron, Shamakhi et Gabala, ainsi que les temps de trajet et les hébergements.",
+    "ja": "バクー旧市街、アブシェロン半島の火の聖地、シャマヒ、ガバラを5日間で巡る日程表。所要時間と宿泊先も掲載。",
+    "es": "Un itinerario día a día de Bakú para cinco días que cubre la Ciudad Vieja, los sitios de fuego de Absheron, Shamakhi y Gabala, además de tiempos de conducción y dónde alojarse."
+  },
+  "intro": {
+    "en": "A baku itinerary 5 days runs two days in Baku, one day on the Absheron Peninsula, one full day to Shamakhi and Gabala, and a final day in Baku before departure. The best months are April to June and September to November. The matching Sunday Atlas tour runs for five days and four nights with private transfers and a 4-star city hotel in Baku.",
+    "de": "Eine Baku-Reiseroute über 5 Tage umfasst zwei Tage in Baku, einen Tag auf der Absheron-Halbinsel, einen ganzen Tag für Schamachi und Gabala sowie einen letzten Tag in Baku vor der Abreise. Die besten Reisezeiten sind April bis Juni und September bis November. Die passende Sunday Atlas Tour dauert fünf Tage und vier Nächte mit privaten Transfers und einem 4-Sterne-Stadthotel in Baku.",
+    "fr": "Un itinéraire à Bakou de 5 jours comprend deux jours à Bakou, une journée sur la péninsule d'Absheron, une journée complète à Shamakhi et Gabala, et un dernier jour à Bakou avant le départ. Les meilleurs mois sont d'avril à juin et de septembre à novembre. Le voyage correspondant de Sunday Atlas Travel dure cinq jours et quatre nuits avec transferts privés et un hôtel 4 étoiles à Bakou.",
+    "ja": "バクー5日間プランは、バクーで2日間、アブシェロン半島で1日間、シャマヒとガバラへの丸1日、そして出発前のバクー最終日で構成されています。ベストシーズンは4月から6月、9月から11月です。当社のバクーツアーは5日間4泊で、専用送迎とバクー市内の4つ星ホテルが含まれています。",
+    "es": "Un itinerario de 5 días en Bakú incluye dos días en Bakú, un día en la península de Absheron, un día completo en Shamakhi y Gabala, y un último día en Bakú antes de la salida. Los mejores meses son de abril a junio y de septiembre a noviembre. El tour correspondiente de Sunday Atlas Travel dura cinco días y cuatro noches con traslados privados y un hotel de 4 estrellas en Bakú."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793931361/sunday-atlas/blog/baku-itinerary-5-days/baku-commons-52207188.jpg",
+    "width": 1920,
+    "height": 1175,
+    "alt": {
+      "en": "Fountain at night in Baku, Azerbaijan.",
+      "de": "Brunnen bei Nacht in Baku, Aserbaidschan.",
+      "fr": "Fontaine de nuit à Bakou, en Azerbaïdjan.",
+      "ja": "バクー、アゼルバイジャンの夜の噴水。",
+      "es": "Fuente nocturna en Bakú, Azerbaiyán."
+    },
+    "credit": {
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fuente_en_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_227-229_HDR.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "day-1-baku-arrival-and-caspian-evening-walk",
+      "placeName": {
+        "en": "Baku",
+        "de": "Baku",
+        "fr": "Bakou",
+        "ja": "バクー",
+        "es": "Bakú"
+      },
+      "heading": {
+        "en": "Day 1: Baku Arrival and Caspian Evening Walk",
+        "de": "Tag 1: Ankunft in Baku und abendlicher Spaziergang am Kaspischen Meer",
+        "fr": "Jour 1 : Arrivée à Bakou et promenade caspienne en soirée",
+        "ja": "1日目：バクー到着とカスピ海夕べの散歩",
+        "es": "Día 1: Llegada a Bakú y paseo vespertino por el Caspio"
+      },
+      "paragraphs": {
+        "en": [
+          "Our 5 day / 4 night Azerbaijan tour starts with arrival in Baku. Transfer from Heydar Aliyev Airport to your 4 star city hotel takes about 30 minutes. The best travel months are April to June and September to November, when Caspian breezes keep evenings comfortable. After check-in, join a short evening walk along the Baku Corniche, the seafront boulevard that runs along the Caspian Sea coast. You will pass Little Venice and the Azerbaijan Carpet Museum before reaching the illuminated Flame Towers. Day 1 ends with dinner near the waterfront.",
+          "The Baku Corniche stretches several kilometers along the Caspian shoreline. Street lamps light the promenade after sunset, making it safe for an evening stroll. Local cafes serve Azerbaijani tea and sweets along the route. Highland Park rises behind the boulevard and offers views over the city skyline. The Flame Towers glow against the night sky from multiple points along the walk. This relaxed pace helps travelers adjust after a long flight.",
+          "Baku sits about 28 meters below sea level on the western Caspian coast. Spring and autumn temperatures typically range from 15 to 25 degrees Celsius. Summer heat can make evening walks more comfortable than midday sightseeing. Winter brings cooler weather and occasional rain to the Absheron Peninsula. Pack a light jacket for the Caspian breeze even in warmer months. Comfortable walking shoes are essential for the paved promenade.",
+          "Your private driver meets you at the airport arrival hall with a name sign. The transfer to the hotel uses the main highway and avoids the Old City traffic. Day 2 begins with a full morning in Icherisheher, the UNESCO walled Old City. The Maiden Tower and the Palace of the Shirvanshahs date to the 12th and 15th centuries. The Heydar Aliyev Center features Zaha Hadid's sculptural white design. All excursions run on a private basis with an English-speaking driver."
+        ],
+        "de": [
+          "Unsere 5-tägige / 4-nächtige Aserbaidschan-Tour beginnt mit der Ankunft in Baku. Der Transfer vom Flughafen Heydar Aliyev zu Ihrem 4-Sterne-Stadthotel dauert etwa 30 Minuten. Die besten Reisezeiten sind April bis Juni und September bis November, wenn die Kaspische Brise die Abende angenehm hält. Nach dem Check-in schließen Sie sich einem kurzen Abendspaziergang entlang der Baku Corniche, der Strandpromenade am Ufer des Kaspischen Meeres, an. Sie passieren Little Venice und das Aserbaidschanische Teppichmuseum, bevor Sie die beleuchteten Flame Towers erreichen. Tag 1 endet mit einem Abendessen in der Nähe der Uferpromenade.",
+          "Die Baku Corniche erstreckt sich über mehrere Kilometer entlang der kaspischen Küste. Straßenlaternen beleuchten die Promenade nach Sonnenuntergang und machen sie sicher für einen Abendspaziergang. Lokale Cafés servieren aserbaidschanischen Tee und Süßigkeiten entlang der Route. Der Highland Park erhebt sich hinter dem Boulevard und bietet Ausblicke auf die Stadtsilhouette. Die Flame Towers leuchten gegen den Nachthimmel von mehreren Punkten des Spaziergangs aus. Dieses entspannte Tempo hilft Reisenden, sich nach einem langen Flug zu akklimatisieren.",
+          "Baku liegt etwa 28 Meter unter dem Meeresspiegel an der westlichen Küste des Kaspischen Meeres. Die Temperaturen im Frühling und Herbst liegen typischerweise zwischen 15 und 25 Grad Celsius. Die Sommerhitze kann Abendspaziergänge angenehmer machen als Besichtigungen am Mittag. Der Winter bringt kühleres Wetter und gelegentlichen Regen auf die Absheron-Halbinsel. Packen Sie eine leichte Jacke für die kaspische Brise ein, selbst in wärmeren Monaten. Bequeme Wanderschuhe sind für die gepflasterte Promenade unerlässlich.",
+          "Ihr privater Fahrer erwartet Sie in der Ankunftshalle des Flughafens mit einem Namensschild. Der Transfer zum Hotel nutzt die Hauptstraße und vermeidet den Verkehr in der Altstadt. Tag 2 beginnt mit einem vollen Vormittag in Icherisheher, der UNESCO-geschützten Altstadt. Der Jungfernturm und der Palast der Schirwanschahs stammen aus dem 12. und 15. Jahrhundert. Das Heydar Aliyev Center besticht durch Zaha Hadids skulpturales weißes Design. Alle Ausflüge finden auf privater Basis mit einem englischsprachigen Fahrer statt."
+        ],
+        "fr": [
+          "Notre voyage en Azerbaïdjan de 5 jours / 4 nuits commence par l'arrivée à Bakou. Le transfert de l'aéroport Heydar Aliyev à votre hôtel 4 étoiles en ville dure environ 30 minutes. Les meilleurs mois pour voyager sont d'avril à juin et de septembre à novembre, lorsque les brises caspiennes rendent les soirées agréables. Après l'enregistrement, rejoignez une courte promenade en soirée le long de la Corniche de Bakou, le boulevard qui longe la côte de la mer Caspienne. Vous passerez Little Venice et le musée du Tapis d'Azerbaïdjan avant d'atteindre les Flame Towers illuminées. Le Jour 1 se termine par un dîner près du front de mer.",
+          "La Corniche de Bakou s'étend sur plusieurs kilomètres le long du rivage caspien. Les lampadaires éclairent la promenade après le coucher du soleil, ce qui rend la promenade en soirée sûre. Les cafés locaux servent du thé et des douceurs azerbaïdjanais le long du parcours. Highland Park s'élève derrière le boulevard et offre une vue sur l'horizon de la ville. Les Flame Towers brillent dans le ciel nocturne depuis plusieurs points de la promenade. Ce rythme détendu aide les voyageurs à s'adapter après un long vol.",
+          "Bakou se trouve à environ 28 mètres sous le niveau de la mer sur la côte ouest de la Caspienne. Les températures au printemps et en automne varient généralement de 15 à 25 degrés Celsius. La chaleur estivale peut rendre les promenades en soirée plus agréables que les visites en milieu de journée. L'hiver apporte un temps plus frais et des pluies occasionnelles sur la péninsule d'Absheron. Emportez une veste légère pour la brise caspienne même pendant les mois les plus chauds. Des chaussures de marche confortables sont essentielles pour la promenade pavée.",
+          "Notre chauffeur privé vous attend dans le hall des arrivées de l'aéroport avec une pancarte à votre nom. Le transfert vers l'hôtel emprunte l'autoroute principale et évite le trafic de la vieille ville. Le jour 2 commence par une matinée complète à Icherisheher, la vieille ville fortifiée classée à l'UNESCO. La tour de la Jeune Fille et le palais des Chirvanchahs datent des 12e et 15e siècles. Le centre Heydar Aliyev présente le design sculptural blanc de Zaha Hadid. Toutes les excursions se déroulent en privé avec un chauffeur anglophone."
+        ],
+        "ja": [
+          "当社のアゼルバイジャン5日間4泊ツアーは、バクー到着から始まります。ヘイダル・アリエフ空港から市内の4つ星ホテルへの送迎は約30分です。ベストシーズンは4月から6月、9月から11月で、この時期はカスピ海のそよ風が夕方を快適に過ごさせてくれます。チェックイン後、バクー・コルニッシュ（海沿い遊歩道）を短い夕方の散歩にご案内します。リトル・ヴェニスとアゼルバイジャン絨毯博物館を通り過ぎ、ライトアップされたフレイム・タワーズへと向かいます。1日目は水辺での夕食で締めくくります。",
+          "バクー・コルニッシュはカスピ海岸に沿って数キロメートルにわたって広がっています。日没後は街灯が遊歩道を照らし、夕方の散歩に安全です。地元のカフェではルート沿いでアゼルバイジャンのお茶とスイーツを提供しています。ハイランド・パークが遊歩道の背後にそびえ、市街地のスカイラインを一望できます。フレイム・タワーズは散歩道の複数の地点から夜空に輝いて見えます。このゆったりとしたペースは、長いフライト後の旅行者が体を慣らすのに役立ちます。",
+          "バクーはカスピ海西岸の海抜約28メートル下に位置しています。春と秋の気温は通常15度から25度です。夏の暑さは、昼間の観光よりも夕方の散歩を快適にします。冬はアブシェロン半島に涼しい天候と時折の雨をもたらします。暖かい月でもカスピ海のそよ風に備えて軽いジャケットをご用意ください。舗装された遊歩道には歩きやすい靴が必須です。",
+          "専用ドライバーが空港到着ロビーでネームサインを持ってお出迎えします。ホテルへの移動は幹線道路を利用し、旧市街の交通渋滞を避けます。2日目はユネスコ世界遺産の旧市街イチェリシェヘルで午前中を過ごします。乙女の塔とシルヴァンシャー宮殿は12世紀と15世紀に遡ります。ヘイダル・アリエフ・センターはザハ・ハディドによる彫刻的な白いデザインが特徴です。すべてのエクスカーションは英語を話すドライバーによる専用手配で実施します。"
+        ],
+        "es": [
+          "Nuestro tour de 5 días / 4 noches por Azerbaiyán comienza con la llegada a Bakú. El traslado desde el Aeropuerto Heydar Aliyev hasta su hotel de 4 estrellas en la ciudad toma unos 30 minutos. Los mejores meses para viajar son de abril a junio y de septiembre a noviembre, cuando las brisas del Caspio mantienen las noches agradables. Después del check-in, únete a un breve paseo vespertino por el Paseo Marítimo de Bakú, el bulevar costero que recorre la costa del Mar Caspio. Pasarás por Little Venice y el Museo de la Alfombra de Azerbaiyán antes de llegar a las iluminadas Flame Towers. El Día 1 termina con una cena cerca del paseo marítimo.",
+          "El Paseo Marítimo de Bakú se extiende varios kilómetros a lo largo de la orilla del Caspio. Las farolas iluminan el paseo después del atardecer, lo que lo hace seguro para un paseo vespertino. Los cafés locales sirven té y dulces azerbaiyanos a lo largo de la ruta. Highland Park se eleva detrás del bulevar y ofrece vistas del horizonte de la ciudad. Las Flame Towers brillan contra el cielo nocturno desde varios puntos del recorrido. Este ritmo relajado ayuda a los viajeros a adaptarse después de un vuelo largo.",
+          "Bakú se encuentra a unos 28 metros bajo el nivel del mar en la costa occidental del Caspio. Las temperaturas en primavera y otoño suelen oscilar entre 15 y 25 grados Celsius. El calor del verano puede hacer que los paseos vespertinos sean más cómodos que las visitas turísticas al mediodía. El invierno trae clima más fresco y lluvias ocasionales a la península de Absheron. Empaca una chaqueta ligera para la brisa del Caspio incluso en los meses más cálidos. Los zapatos cómodos para caminar son esenciales para el paseo pavimentado.",
+          "Su conductor privado lo recibe en la sala de llegadas del aeropuerto con un cartel con su nombre. El traslado al hotel utiliza la carretera principal y evita el tráfico de la Ciudad Vieja. El día 2 comienza con una mañana completa en Icherisheher, la ciudad amurallada de la UNESCO. La Torre de la Doncella y el Palacio de los Shirvanshahs datan de los siglos 12 y 15. El Centro Heydar Aliyev presenta el diseño escultórico blanco de Zaha Hadid. Todas las excursiones se realizan de forma privada con un conductor de habla inglesa."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Baku Corniche evening walk along the Caspian Sea",
+          "4 star city hotel with private airport transfer",
+          "Flame Towers illuminated at night"
+        ],
+        "de": [
+          "Baku Corniche: Abendspaziergang am Kaspischen Meer",
+          "4-Sterne-Stadthotel mit privatem Flughafentransfer",
+          "Die Flame Towers bei Nacht illuminiert"
+        ],
+        "fr": [
+          "Promenade nocturne sur la Corniche de Bakou le long de la mer Caspienne",
+          "Hôtel 4 étoiles en centre-ville avec transfert privé depuis l'aéroport",
+          "Les Flame Towers illuminées la nuit"
+        ],
+        "ja": [
+          "バクー コルニッシュ カスピ海沿いの夕方の散歩",
+          "4つ星のシティホテル 空港送迎付き",
+          "夜にライトアップされるフレームタワーズ"
+        ],
+        "es": [
+          "Paseo nocturno por la Cornisa de Bakú a orillas del mar Caspio",
+          "Hotel urbano de 4 estrellas con traslado privado al aeropuerto",
+          "Torres Flame iluminadas por la noche"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Reisedauer",
+            "fr": "Durée du voyage",
+            "ja": "ツアー所要日数",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "5 days / 4 nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Airport transfer",
+            "de": "Flughafentransfer",
+            "fr": "Transfert aéroport",
+            "ja": "空港送迎",
+            "es": "Traslado al aeropuerto"
+          },
+          "value": {
+            "en": "about 30 minutes",
+            "de": "ca. 30 Minuten",
+            "fr": "environ 30 minutes",
+            "ja": "約30分",
+            "es": "unos 30 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $781 USD / person",
+            "de": "Ab $781 USD / Person",
+            "fr": "À partir de $781 USD / personne",
+            "ja": "$781 USD〜 / 1名",
+            "es": "Desde $781 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793931362/sunday-atlas/blog/baku-itinerary-5-days/baku-commons-51854261.jpg",
+        "width": 1920,
+        "height": 1308,
+        "alt": {
+          "en": "Interior of a mosque in Baku, Azerbaijan with ornate arches and chandelier.",
+          "de": "Innere einer Moschee in Baku, Aserbaidschan mit verzierten Bögen und Kronleuchter.",
+          "fr": "Intérieur d'une mosquée à Bakou, en Azerbaïdjan, avec des arches ornées et un lustre.",
+          "ja": "バクー、アゼルバイジャンのモスク内部。装飾的なアーチとシャンデリア。",
+          "es": "Interior de una mezquita en Bakú, Azerbaiyán, con arcos ornamentados y araña."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezquita_del_Viernes,_Baku,_Azerbaiy%C3%A1n,_2016-09-28,_DD_36-38_HDR.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Baku",
+          "de": "Baku",
+          "fr": "Bakou",
+          "ja": "バクー",
+          "es": "Bakú"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-journey-5-days"
+    },
+    {
+      "id": "day-2-baku-old-city-heydar-aliyev-center-and-absheron-fire-sites",
+      "placeName": {
+        "en": "Baku",
+        "de": "Baku",
+        "fr": "Bakou",
+        "ja": "バクー",
+        "es": "Bakú"
+      },
+      "heading": {
+        "en": "Day 2: Baku Old City, Heydar Aliyev Center and Absheron Fire Sites",
+        "de": "Tag 2: Baku Altstadt, Heydar Aliyev Center und Absheron-Feuerstätten",
+        "fr": "Jour 2 : Vieille ville de Bakou, centre Heydar Aliyev et sites du feu d'Absheron",
+        "ja": "2日目：バクー旧市街、ヘイダル・アリエフ・センター、アブシェロン火の遺跡",
+        "es": "Día 2: Ciudad Vieja de Bakú, Centro Heydar Aliyev y sitios del fuego de Absherón"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 2 covers Baku Old City and the Absheron fire sites. The tour starts at Icherisheher, the UNESCO-walled old city, where you walk past the 12th-century Maiden Tower and the limestone Palace of the Shirvanshahs. In the afternoon you drive about 25 minutes to the Heydar Aliyev Center, Zaha Hadid’s sculptural museum on Heydar Aliyev Avenue. The day ends on the Absheron Peninsula with Yanar Dag, where natural gas burns continuously on a hillside, and the 17th-century Ateshgah Fire Temple near Surakhani. April to June and September to November offer the most comfortable weather for walking the old city and visiting the fire sites. Our Azerbaijan: The 5-Day Journey Tour includes Day 2 as a private excursion with an English-speaking driver.",
+          "Icherisheher sits on a small peninsula above the Caspian Sea and its narrow stone lanes date back to the medieval Shirvanshah period. The Maiden Tower rises about 29 meters and offers views over Baku Bay and the modern Flame Towers. The Palace of the Shirvanshahs complex includes a divankhana, a mausoleum and a mosque built from local limestone. Most visitors need about two to three hours to walk the walls and enter the main sites. Comfortable shoes are essential because the old city is paved with uneven cobblestones. The 5-day private tour schedules this visit on Day 2 before the afternoon drive to the Heydar Aliyev Center.",
+          "The Heydar Aliyev Center is located about 6 kilometers east of the old city on Heydar Aliyev Avenue. Its flowing white facade houses exhibition halls, a museum and an auditorium inside a single continuous surface. Visitors typically spend about 90 minutes inside viewing temporary exhibitions and the permanent display on Azerbaijani culture. The building is open year-round, though spring and autumn avoid the summer heat and winter chill. After the center, the private vehicle continues east toward the Absheron Peninsula for the evening fire sites. Day 2 of our 5-day Azerbaijan tour includes this transfer and entry to the center.",
+          "Yanar Dag lies about 25 kilometers north of central Baku on the Absheron Peninsula, where a natural gas seep keeps a wall of fire burning along a limestone ridge. The Ateshgah Fire Temple is about 30 kilometers from Baku near Surakhani and was built in the 17th century around a natural gas vent used by fire worshippers. Both sites are open in every season, but April to June and September to November provide clearer skies and milder temperatures for walking the temple grounds. A short walk from the parking area leads to the viewing platform at Yanar Dag. Our private 5-day tour visits both fire sites on Day 2 with an English-speaking driver."
+        ],
+        "de": [
+          "Tag 2 umfasst die Altstadt von Baku und die Feuerstätten auf der Absheron-Halbinsel. Die Tour beginnt in Icherisheher, der von der UNESCO geschützten Altstadt, wo Sie am 12. Jahrhundert Maiden Tower und dem Kalksteinpalast der Schirwanschahs vorbeigehen. Am Nachmittag fahren Sie etwa 25 Minuten zum Heydar Aliyev Center, Zaha Hadids skulpturalem Museum am Heydar Aliyev Avenue. Der Tag endet auf der Absheron-Halbinsel mit dem Yanar Dag, wo Erdgas kontinuierlich an einem Hang brennt, und dem 17. Jahrhundert Ateshgah-Feuertempel in der Nähe von Surakhani. April bis Juni und September bis November bieten das angenehmste Wetter für Spaziergänge in der Altstadt und Besuche der Feuerstätten. Unsere Reise „Azerbaijan: The 5-Day Journey Tour“ beinhaltet Tag 2 als privaten Ausflug mit einem englischsprachigen Fahrer.",
+          "Icherisheher liegt auf einer kleinen Halbinsel über dem Kaspischen Meer, und seine engen Gassen aus Stein stammen aus der Zeit der Schirwanschahs im Mittelalter. Der Maiden Tower ragt etwa 29 Meter hoch und bietet einen Blick über die Bucht von Baku und die modernen Flame Towers. Der Palast der Schirwanschahs umfasst eine Divankhana, ein Mausoleum und eine Moschee aus lokalem Kalkstein. Die meisten Besucher benötigen etwa zwei bis drei Stunden, um die Mauern zu erkunden und die Hauptsehenswürdigkeiten zu besichtigen. Bequeme Schuhe sind unerlässlich, da die Altstadt aus unebenen Kopfsteinpflaster besteht. Die 5-tägige Privatreise plant diesen Besuch für Tag 2 vor der Nachmittagsfahrt zum Heydar Aliyev Center ein.",
+          "Das Heydar Aliyev Center befindet sich etwa 6 Kilometer östlich der Altstadt am Heydar Aliyev Avenue. Seine fließende weiße Fassade beherbergt Ausstellungshallen, ein Museum und einen Auditorium in einer einzigen durchgehenden Fläche. Besucher verbringen in der Regel etwa 90 Minuten im Inneren, um temporäre Ausstellungen und die ständige Ausstellung zur aserbaidschanischen Kultur zu besichtigen. Das Gebäude ist ganzjährig geöffnet, obwohl Frühling und Herbst die Sommerhitze und die Winterkälte vermeiden. Nach dem Center setzt das private Fahrzeug seine Fahrt in Richtung Osten auf die Absheron-Halbinsel zu den abendlichen Feuerstätten fort. Tag 2 unserer 5-tägigen Aserbaidschan-Reise beinhaltet diesen Transfer und den Eintritt ins Center.",
+          "Yanar Dag liegt etwa 25 Kilometer nördlich des Zentrums von Baku auf der Absheron-Halbinsel, wo ein Erdgasaustritt eine Feuerwand entlang eines Kalksteinrückens brennen lässt. Der Ateshgah-Feuertempel befindet sich etwa 30 Kilometer von Baku entfernt in der Nähe von Surakhani und wurde im 17. Jahrhundert um einen natürlichen Erdgasausstoß herum errichtet, der von Feueranbetern genutzt wurde. Beide Stätten sind in jeder Jahreszeit geöffnet, aber April bis Juni und September bis November bieten klarere Himmel und mildere Temperaturen für Spaziergänge auf dem Tempelgelände. Ein kurzer Fußweg vom Parkplatz führt zur Aussichtsplattform am Yanar Dag. Unsere private 5-tägige Reise besucht beide Feuerstätten am Tag 2 mit einem englischsprachigen Fahrer."
+        ],
+        "fr": [
+          "Le jour 2 couvre la vieille ville de Bakou et les sites du feu de la péninsule d'Absheron. La visite commence à Icherisheher, la vieille ville fortifiée classée à l'UNESCO, où vous passez devant la tour de la Vierge du XIIe siècle et le palais de calcaire des Chirvanchahs. Dans l'après-midi, vous roulez environ 25 minutes jusqu'au centre Heydar Aliyev, le musée sculptural de Zaha Hadid sur l'avenue Heydar Aliyev. La journée se termine sur la péninsule d'Absheron avec Yanar Dag, où le gaz naturel brûle en continu sur une colline, et le temple du feu d'Ateshgah du XVIIe siècle près de Surakhani. D'avril à juin et de septembre à novembre offrent le climat le plus agréable pour parcourir la vieille ville et visiter les sites du feu. Notre voyage Azerbaïdjan : le voyage de 5 jours inclut le jour 2 en excursion privée avec un chauffeur anglophone.",
+          "Icherisheher se trouve sur une petite péninsule au-dessus de la mer Caspienne et ses ruelles étroites en pierre remontent à la période médiévale des Chirvanchahs. La tour de la Vierge s'élève à environ 29 mètres et offre une vue sur la baie de Bakou et les modernes Flame Towers. Le complexe du palais des Chirvanchahs comprend un divankhana, un mausolée et une mosquée construits en calcaire local. La plupart des visiteurs ont besoin de deux à trois heures pour parcourir les remparts et visiter les principaux sites. Des chaussures confortables sont indispensables car la vieille ville est pavée de pavés irréguliers. Le voyage privé de 5 jours programme cette visite le jour 2 avant le trajet de l'après-midi vers le centre Heydar Aliyev.",
+          "Le centre Heydar Aliyev est situé à environ 6 kilomètres à l'est de la vieille ville sur l'avenue Heydar Aliyev. Sa façade blanche et fluide abrite des salles d'exposition, un musée et un auditorium à l'intérieur d'une seule surface continue. Les visiteurs passent généralement environ 90 minutes à l'intérieur à voir des expositions temporaires et l'exposition permanente sur la culture azerbaïdjanaise. Le bâtiment est ouvert toute l'année, bien que le printemps et l'automne évitent la chaleur estivale et le froid hivernal. Après le centre, le véhicule privé continue vers l'est en direction de la péninsule d'Absheron pour les sites du feu en soirée. Le jour 2 de notre voyage de 5 jours en Azerbaïdjan inclut ce transfert et l'entrée au centre.",
+          "Yanar Dag se trouve à environ 25 kilomètres au nord du centre de Bakou sur la péninsule d'Absheron, où une source de gaz naturel entretient un mur de feu brûlant le long d'une crête calcaire. Le temple du feu d'Ateshgah est à environ 30 kilomètres de Bakou près de Surakhani et a été construit au XVIIe siècle autour d'une évent de gaz naturel utilisée par les adorateurs du feu. Les deux sites sont ouverts en toutes saisons, mais d'avril à juin et de septembre à novembre offrent des ciels plus dégagés et des températures plus douces pour parcourir les terrains du temple. Une courte marche depuis le parking mène à la plateforme d'observation de Yanar Dag. Notre voyage privé de 5 jours visite les deux sites du feu le jour 2 avec un chauffeur anglophone."
+        ],
+        "ja": [
+          "2日目はバクー旧市街とアブシェロン半島の火の遺跡を巡ります。ツアーはユネスコ世界遺産の城壁に囲まれた旧市街イチェリシェヘルから始まり、12世紀の乙女の塔や石灰岩のシルヴァンシャー宮殿の前を歩きます。午後には車で約25分移動し、ヘイダル・アリエフ大通りにあるザハ・ハディド設計の彫刻的な美術館、ヘイダル・アリエフ・センターを訪れます。1日目はアブシェロン半島で締めくくり、丘陵で天然ガスが絶え間なく燃え続けるヤナル・ダグと、スラハニ近郊の17世紀のアテシュガー火の神殿を訪れます。4月から6月、9月から11月は旧市街の散策や火の遺跡訪問に最も快適な気候です。当社の「アゼルバイジャン：5日間の旅」ツアーでは、2日目が英語を話すドライバーによるプライベートエクスカーションとして含まれています。",
+          "イチェリシェヘルはカスピ海に面した小さな半島に位置し、その狭い石畳の路地は中世のシルヴァンシャー時代に遡ります。乙女の塔は高さ約29メートルで、バクー湾と現代的なフレームタワーズの景色を望めます。シルヴァンシャー宮殿の複合施設には、ディヴァンカーナ、霊廟、モスクが含まれ、すべて地元の石灰岩で建てられています。城壁を歩き主要な見学地を回るには、ほとんどの訪問者に約2〜3時間が必要です。旧市街は不均一な敷石で舗装されているため、歩きやすい靴が必須です。5日間のプライベートツアーでは、この見学を2日目に、午後のヘイダル・アリエフ・センターへの移動前にスケジュールしています。",
+          "ヘイダル・アリエフ・センターは旧市街から東へ約6キロメートル、ヘイダル・アリエフ大通りに位置します。流れるような白い外壁の中に展示ホール、博物館、講堂が一つの連続した表面に収められています。訪問者は通常、館内で約90分を過ごし、期間限定展示やアゼルバイジャン文化に関する常設展示を鑑賞します。建物は年間を通じて開館していますが、春と秋は夏の暑さや冬の寒さを避けられます。センターの後、プライベート車両は東へアブシェロン半島へと向かい、夕方の火の遺跡へ向かいます。5日間のアゼルバイジャンツアーの2日目には、この移動とセンターへの入場が含まれています。",
+          "ヤナル・ダグはバクー中心部から北へ約25キロメートル、アブシェロン半島に位置し、天然ガスの湧出により石灰岩の尾根に沿って火の壁が燃え続けています。アテシュガー火の神殿はバクーから約30キロメートル、スラハニ近郊にあり、17世紀に火を崇拝する人々によって天然ガスの噴出口の周りに建てられました。両方の遺跡は一年中開いていますが、4月から6月、9月から11月はより澄んだ空と穏やかな気温で神殿の敷地を歩くのに適しています。駐車場からの短い散歩でヤナル・ダグの展望台に到着します。当社のプライベート5日間ツアーでは、2日目に英語を話すドライバーとともに両方の火の遺跡を訪れます。"
+        ],
+        "es": [
+          "El Día 2 cubre la Ciudad Vieja de Bakú y los sitios del fuego de la península de Absherón. El recorrido comienza en Icherisheher, la ciudad amurallada declarada Patrimonio de la Humanidad por la UNESCO, donde caminas junto a la Torre de la Doncella del siglo XII y el palacio de piedra caliza de los Shirvanshahs. Por la tarde, conduces unos 25 minutos hasta el Centro Heydar Aliyev, el museo escultórico de Zaha Hadid en la avenida Heydar Aliyev. El día termina en la península de Absherón con Yanar Dag, donde el gas natural arde continuamente en una ladera, y el templo del fuego de Ateshgah del siglo XVII cerca de Surakhani. De abril a junio y de septiembre a noviembre ofrecen el clima más agradable para caminar por la ciudad vieja y visitar los sitios del fuego. Nuestro viaje de 5 días por Azerbaiyán incluye el Día 2 como una excursión privada con conductor de habla inglesa.",
+          "Icherisheher se encuentra en una pequeña península sobre el mar Caspio y sus estrechos callejones de piedra datan del período medieval de los Shirvanshahs. La Torre de la Doncella se eleva unos 29 metros y ofrece vistas sobre la bahía de Bakú y las modernas Torres Flame. El complejo del palacio de los Shirvanshahs incluye un divankhana, un mausoleo y una mezquita construidos con piedra caliza local. La mayoría de los visitantes necesitan entre dos y tres horas para recorrer las murallas y entrar en los sitios principales. El calzado cómodo es esencial porque la ciudad vieja está pavimentada con adoquines irregulares. El tour privado de 5 días programa esta visita el Día 2 antes del trayecto por la tarde al Centro Heydar Aliyev.",
+          "El Centro Heydar Aliyev está ubicado a unos 6 kilómetros al este de la ciudad vieja, en la avenida Heydar Aliyev. Su fluida fachada blanca alberga salas de exposición, un museo y un auditorio dentro de una superficie continua. Los visitantes suelen pasar unos 90 minutos dentro viendo exposiciones temporales y la exhibición permanente sobre la cultura azerbaiyana. El edificio está abierto todo el año, aunque la primavera y el otoño evitan el calor del verano y el frío del invierno. Después del centro, el vehículo privado continúa hacia el este en dirección a la península de Absherón para los sitios del fuego por la noche. El Día 2 de nuestro tour de 5 días por Azerbaiyán incluye este traslado y la entrada al centro.",
+          "Yanar Dag se encuentra a unos 25 kilómetros al norte del centro de Bakú, en la península de Absherón, donde un escape de gas natural mantiene ardiendo un muro de fuego a lo largo de una cresta de piedra caliza. El templo del fuego de Ateshgah está a unos 30 kilómetros de Bakú, cerca de Surakhani, y fue construido en el siglo XVII alrededor de un respiradero de gas natural utilizado por adoradores del fuego. Ambos sitios están abiertos en todas las estaciones, pero de abril a junio y de septiembre a noviembre ofrecen cielos más despejados y temperaturas más suaves para caminar por los terrenos del templo. Un corto paseo desde el área de estacionamiento lleva a la plataforma de observación en Yanar Dag. Nuestro tour privado de 5 días visita ambos sitios del fuego el Día 2 con un conductor de habla inglesa."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Walk the UNESCO walls of Icherisheher on Day 2",
+          "See Zaha Hadid’s Heydar Aliyev Center in Baku",
+          "Visit Yanar Dag and Ateshgah on the Absheron Peninsula"
+        ],
+        "de": [
+          "Die UNESCO-Mauern von Icherisheher am Tag 2 erkunden",
+          "Zaha Hadids Heydar Aliyev Center in Baku besichtigen",
+          "Yanar Dag und Ateshgah auf der Absheron-Halbinsel besuchen"
+        ],
+        "fr": [
+          "Parcourir les remparts de l'UNESCO d'Icherisheher le jour 2",
+          "Voir le centre Heydar Aliyev de Zaha Hadid à Bakou",
+          "Visiter Yanar Dag et Ateshgah sur la péninsule d'Absheron"
+        ],
+        "ja": [
+          "2日目にユネスコの城壁に囲まれたイチェリシェヘルを散策",
+          "バクーのザハ・ハディド設計ヘイダル・アリエフ・センターを見学",
+          "アブシェロン半島のヤナル・ダグとアテシュガーを訪問"
+        ],
+        "es": [
+          "Recorre las murallas de la UNESCO de Icherisheher el Día 2",
+          "Visita el Centro Heydar Aliyev de Zaha Hadid en Bakú",
+          "Visita Yanar Dag y Ateshgah en la península de Absherón"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Reisedauer",
+            "fr": "Durée du voyage",
+            "ja": "ツアー所要日数",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "5 days / 4 nights, private",
+            "de": "5 Tage / 4 Nächte, privat",
+            "fr": "5 jours / 4 nuits, privé",
+            "ja": "5日間 / 4泊、プライベート",
+            "es": "5 días / 4 noches, privado"
+          }
+        },
+        {
+          "label": {
+            "en": "Best seasons",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleures saisons",
+            "ja": "ベストシーズン",
+            "es": "Temporadas recomendadas"
+          },
+          "value": {
+            "en": "April to June and September to November",
+            "de": "April bis Juni und September bis November",
+            "fr": "D'avril à juin et de septembre à novembre",
+            "ja": "4月から6月、9月から11月",
+            "es": "De abril a junio y de septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $781 USD / person",
+            "de": "Ab $781 USD / Person",
+            "fr": "À partir de $781 USD / personne",
+            "ja": "$781 USD〜 / 1名",
+            "es": "Desde $781 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793931364/sunday-atlas/blog/baku-itinerary-5-days/baku-commons-52207186.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "A large stone fountain in front of a classical building in Baku, Azerbaijan.",
+          "de": "Ein großer steinerner Brunnen vor einem klassischen Gebäude in Baku, Aserbaidschan.",
+          "fr": "Une grande fontaine en pierre devant un bâtiment classique à Bakou, en Azerbaïdjan.",
+          "ja": "バクー、アゼルバイジャンの古典的な建物の前にある大きな石の噴水。",
+          "es": "Gran fuente de piedra frente a un edificio clásico en Bakú, Azerbaiyán."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fuente_en_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_45.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Baku",
+          "de": "Baku",
+          "fr": "Bakou",
+          "ja": "バクー",
+          "es": "Bakú"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-journey-5-days"
+    },
+    {
+      "id": "day-3-shamakhi-gabala-nohur-lake-and-tufandag",
+      "placeName": {
+        "en": "Gabala",
+        "de": "Gabala",
+        "fr": "Gabala",
+        "ja": "ガバラ",
+        "es": "Gabala"
+      },
+      "heading": {
+        "en": "Day 3: Shamakhi, Gabala, Nohur Lake and Tufandag",
+        "de": "Tag 3: Schamachi, Gabala, Nohur-See und Tufandag",
+        "fr": "Jour 3 : Shamakhi, Gabala, lac Nohur et Tufandag",
+        "ja": "Day 3: シャマヒ、ガバラ、ノフル湖、トゥファンダグ",
+        "es": "Día 3: Shamakhi, Gabala, lago Nohur y Tufandag"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 3 begins with a private departure from Baku around 08:00 for the 130 km drive northwest to Shamakhi, taking about 2 hours through the foothills of the Greater Caucasus. In Shamakhi we visit the Juma Mosque, one of the oldest in the Caucasus, and the Seven Domes royal mausoleum before continuing another 80 km, roughly 1.5 hours, to Gabala. The route climbs gradually, so April to June and September to November offer the most comfortable road conditions and green scenery. Lunch is arranged in Gabala town before the afternoon activities.",
+          "In Gabala we first stop at Nohur Lake, a reservoir at about 700 meters altitude surrounded by forested slopes, where a short lakeside walk takes 20 to 30 minutes. From there we transfer to the Tufandag Mountain Resort base station and board the cable car system, which rises to the upper station near 2,500 meters in about 20 minutes of ride time. At the top there are viewing platforms and a café; the round trip fits comfortably into a late afternoon window before the drive back. Winter months bring snow cover and ski operations, while summer provides alpine meadow views.",
+          "The return leg from Gabala to Baku covers roughly 210 km and takes about 3.5 hours on the main highway, arriving in the capital around 19:30 to 20:00 depending on traffic. Our private driver handles the full circuit, so there is no need to coordinate separate taxis or shared minibuses. The day is timed to maximize daylight at the lake and mountain, with the longest drives scheduled for early morning and evening. Travelers should carry a light jacket for the altitude at Tufandag even in warmer months.",
+          "This full-day excursion corresponds to Day 3 of our 5-day Azerbaijan private tour, which includes private transport, an English-speaking driver, and all sightseeing stops described above. The tour operates from April to June and September to November, avoiding the peak summer heat and the winter ski season unless specifically requested. Hotel accommodation remains in Baku for all four nights, so luggage stays unpacked throughout the trip. The pace allows enough time at each site without rushing."
+        ],
+        "de": [
+          "Tag 3 beginnt mit einer privaten Abreise von Baku gegen 08:00 für die 130 km lange Fahrt nordwestlich nach Schamachi, die etwa 2 Stunden durch die Vororte des Großen Kaukasus dauert. In Schamachi besichtigen wir die Juma-Moschee, eine der ältesten im Kaukasus, und das königliche Mausoleum der Sieben Kuppeln, bevor wir weitere 80 km, etwa 1,5 Stunden, nach Gabala weiterfahren. Die Strecke steigt allmählich an, sodass April bis Juni und September bis November die angenehmsten Straßenverhältnisse und grüne Landschaft bieten. Das Mittagessen ist in der Stadt Gabala arrangiert, bevor die Nachmittagsaktivitäten beginnen.",
+          "In Gabala legen wir zuerst einen Stopp am Nohur-See ein, einem Stausee auf etwa 700 Metern Höhe, umgeben von bewaldeten Hängen, wo ein kurzer Spaziergang am Seeufer 20 bis 30 Minuten dauert. Von dort aus transferieren wir zur Talstation des Tufandag Mountain Resort und besteigen die Seilbahn, die in etwa 20 Minuten Fahrtzeit zur Bergstation auf rund 2.500 Metern Höhe hinaufführt. Oben gibt es Aussichtsplattformen und ein Café; die Hin- und Rückfahrt passt bequem in ein spätes Nachmittagsfenster, bevor die Rückfahrt beginnt. Die Wintermonate bringen Schnee und Skibetrieb, während der Sommer alpine Wiesenblicke bietet.",
+          "Die Rückfahrt von Gabala nach Baku umfasst etwa 210 km und dauert auf der Hauptstraße etwa 3,5 Stunden, mit Ankunft in der Hauptstadt gegen 19:30 bis 20:00 Uhr, je nach Verkehr. Unser privater Fahrer übernimmt die gesamte Rundreise, sodass keine separaten Taxis oder Sammeltaxis koordiniert werden müssen. Der Tag ist so getaktet, dass das Tageslicht am See und in den Bergen optimal genutzt wird, wobei die längsten Fahrten für den frühen Morgen und den Abend eingeplant sind. Reisende sollten auch in wärmeren Monaten eine leichte Jacke für die Höhe am Tufandag mitführen.",
+          "Dieser ganztägige Ausflug entspricht Tag 3 unserer 5-tägigen privaten Azerbaijan-Rundreise, die privaten Transport, einen englischsprachigen Fahrer und alle oben beschriebenen Besichtigungsstopps umfasst. Die Rundreise wird von April bis Juni und September bis November angeboten, um die sommerliche Hitze und die Winter-Skisaison zu vermeiden, sofern nicht ausdrücklich gewünscht. Die Hotelunterkunft bleibt für alle vier Nächte in Baku, sodass das Gepäck während der gesamten Reise ausgepackt bleiben kann. Das Tempo lässt genug Zeit an jedem Ort, ohne zu hetzen."
+        ],
+        "fr": [
+          "Le jour 3 commence par un départ privé de Bakou vers 08:00 pour un trajet de 130 km vers le nord-ouest jusqu'à Shamakhi, d'une durée d'environ 2 heures à travers les contreforts du Grand Caucase. À Shamakhi, nous visitons la mosquée Juma, l'une des plus anciennes du Caucase, et le mausolée royal des Sept Dômes avant de poursuivre sur 80 km supplémentaires, soit environ 1,5 heure, jusqu'à Gabala. La route monte progressivement, donc avril à juin et septembre à novembre offrent les meilleures conditions de circulation et des paysages verdoyants. Le déjeuner est organisé dans la ville de Gabala avant les activités de l'après-midi.",
+          "À Gabala, nous faisons d'abord un arrêt au lac Nohur, un réservoir situé à environ 700 mètres d'altitude entouré de pentes boisées, où une courte promenade au bord du lac dure 20 à 30 minutes. De là, nous nous rendons à la station de base du domaine skiable de Tufandag et empruntons le téléphérique, qui monte jusqu'à la station supérieure près de 2 500 mètres en environ 20 minutes de trajet. En haut, il y a des plateformes d'observation et un café ; l'aller-retour s'intègre confortablement dans une fenêtre de fin d'après-midi avant le retour. Les mois d'hiver apportent la neige et les opérations de ski, tandis que l'été offre des vues sur les prairies alpines.",
+          "Le trajet retour de Gabala à Bakou couvre environ 210 km et dure environ 3,5 heures sur l'autoroute principale, avec une arrivée dans la capitale vers 19 h 30 à 20 h selon le trafic. Notre chauffeur privé assure l'ensemble du circuit, il n'est donc pas nécessaire de coordonner des taxis séparés ou des minibus partagés. La journée est organisée pour maximiser la lumière du jour au lac et à la montagne, les plus longs trajets étant prévus tôt le matin et en soirée. Les voyageurs doivent emporter une veste légère pour l'altitude à Tufandag, même pendant les mois les plus chauds.",
+          "Cette excursion d'une journée complète correspond au jour 3 de notre circuit privé de 5 jours en Azerbaïdjan, qui comprend le transport privé, un chauffeur anglophone et toutes les visites décrites ci-dessus. Le circuit fonctionne d'avril à juin et de septembre à novembre, évitant la chaleur estivale maximale et la saison de ski hivernale sauf demande spécifique. L'hébergement à l'hôtel reste à Bakou pour les quatre nuits, donc les bagages restent défaits tout au long du voyage. Le rythme permet assez de temps sur chaque site sans se presser."
+        ],
+        "ja": [
+          "3日目は午前8時頃にバクーを出発し、北西へ約130キロ、約2時間かけてシャマヒへ向かいます。大コーカサス山脈の麓を抜ける道中、シャマヒではコーカサス最古のモスクの一つであるジュマ・モスクと、七つのドームを持つ王家の霊廟を訪れた後、さらに約80キロ、約1時間半かけてガバラへと向かいます。ルートは徐々に標高が上がるため、4月から6月、9月から11月が最も快適な道路状況と緑豊かな景色を楽しめる時期です。ガバラの町で昼食をとった後、午後のアクティビティへと向かいます。",
+          "ガバラではまず、標高約700メートルの貯水池、ノフル湖に立ち寄ります。森林に囲まれた斜面に囲まれた湖畔を、20分から30分ほどの短い散歩を楽しめます。その後、トゥファンダグ山岳リゾートの麓駅へ移動し、ケーブルカーに乗車します。約20分で標高2,500メートル近くの山頂駅へ到着し、展望台やカフェがあります。往復は午後遅くの時間帯に収まり、その後バクーへ戻るドライブとなります。冬は雪景色とスキーシーズン、夏は高山草原の景色が広がります。",
+          "ガバラからバクーへの復路は、主要幹線道路を約210 km、所要約3.5時間です。交通状況によりますが、首都到着は19:30から20:00頃を予定しています。専用ドライバーが全行程を担当するため、別々のタクシーや乗合ミニバスを手配する必要はありません。湖と山での日照時間を最大限に活用できるようスケジュールを組んでおり、最も長い移動は早朝と夕方に設定しています。トゥファンダグでは標高による気温低下に備え、暖かい時期でも軽い上着をご持参ください。",
+          "この1日ツアーは、当社の5日間アゼルバイジャンプライベートツアーの3日目にあたり、専用交通手段、英語を話すドライバー、および上記のすべての観光スポットが含まれます。ツアーは4月から6月、9月から11月まで運行し、真夏の暑さと冬のスキーシーズンを避けます（特別なご要望がある場合を除く）。ホテル宿泊はバクーの4泊すべてにわたり、荷物を解いたまま旅程を進められます。各スポットで十分な時間を確保し、慌ただしくならないペースです。"
+        ],
+        "es": [
+          "El día 3 comienza con una salida privada desde Bakú alrededor de las 08:00 para el trayecto de 130 km hacia el noroeste hasta Shamakhi, que dura unas 2 horas por las estribaciones del Gran Cáucaso. En Shamakhi visitamos la mezquita Juma, una de las más antiguas del Cáucaso, y el mausoleo real de las Siete Cúpulas antes de continuar otros 80 km, aproximadamente 1.5 horas, hasta Gabala. La ruta asciende gradualmente, por lo que de abril a junio y de septiembre a noviembre ofrecen las condiciones de carretera más cómodas y paisajes verdes. El almuerzo se organiza en la ciudad de Gabala antes de las actividades de la tarde.",
+          "En Gabala hacemos una primera parada en el lago Nohur, un embalse a unos 700 metros de altitud rodeado de laderas boscosas, donde un breve paseo junto al lago toma de 20 a 30 minutos. Desde allí nos trasladamos a la estación base del complejo montañoso Tufandag y tomamos el sistema de teleférico, que asciende hasta la estación superior cerca de los 2,500 metros en unos 20 minutos de trayecto. En la cima hay miradores y un café; el viaje de ida y vuelta se ajusta cómodamente a una ventana de tarde antes del regreso. Los meses de invierno traen cobertura de nieve y operaciones de esquí, mientras que el verano ofrece vistas de prados alpinos.",
+          "El tramo de regreso de Gabala a Bakú cubre aproximadamente 210 km y toma unas 3.5 horas por la carretera principal, llegando a la capital alrededor de las 19:30 a 20:00 según el tráfico. Nuestro conductor privado gestiona todo el circuito, por lo que no es necesario coordinar taxis separados o minibuses compartidos. El día está programado para maximizar la luz del día en el lago y la montaña, con los trayectos más largos programados para la mañana temprano y la tarde. Los viajeros deben llevar una chaqueta ligera por la altitud en Tufandag incluso en los meses más cálidos.",
+          "Esta excursión de día completo corresponde al día 3 de nuestro tour privado de 5 días por Azerbaiyán, que incluye transporte privado, un conductor de habla inglesa y todas las paradas turísticas descritas anteriormente. El tour opera de abril a junio y de septiembre a noviembre, evitando el calor del verano pico y la temporada de esquí invernal a menos que se solicite específicamente. El alojamiento en hotel permanece en Bakú durante las cuatro noches, por lo que el equipaje permanece deshecho durante todo el viaje. El ritmo permite suficiente tiempo en cada sitio sin prisas."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Juma Mosque and Seven Domes in Shamakhi",
+          "Nohur Lake walk at 700 meters altitude",
+          "Tufandag cable car to 2,500 meters"
+        ],
+        "de": [
+          "Juma-Moschee und Sieben Kuppeln in Schamachi",
+          "Nohur-See-Spaziergang auf 700 Metern Höhe",
+          "Tufandag-Seilbahn auf 2.500 Meter"
+        ],
+        "fr": [
+          "Mosquée Juma et Sept Dômes à Shamakhi",
+          "Promenade au lac Nohur à 700 mètres d'altitude",
+          "Téléphérique de Tufandag jusqu'à 2 500 mètres"
+        ],
+        "ja": [
+          "シャマヒのジュマ・モスクと七つのドーム",
+          "標高700メートルのノフル湖散策",
+          "標高2,500メートルへのトゥファンダグ・ケーブルカー"
+        ],
+        "es": [
+          "Mezquita Juma y Siete Cúpulas en Shamakhi",
+          "Paseo por el lago Nohur a 700 metros de altitud",
+          "Teleférico de Tufandag hasta 2,500 metros"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive Baku to Shamakhi",
+            "de": "Fahrt Baku nach Schamachi",
+            "fr": "Route de Bakou à Shamakhi",
+            "ja": "バクーからシャマヒへのドライブ",
+            "es": "Trayecto de Bakú a Shamakhi"
+          },
+          "value": {
+            "en": "130 km, about 2 hours",
+            "de": "130 km, etwa 2 Stunden",
+            "fr": "130 km, environ 2 heures",
+            "ja": "130 km、約2時間",
+            "es": "130 km, unas 2 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Drive Gabala to Baku",
+            "de": "Fahrt Gabala nach Baku",
+            "fr": "Route de Gabala à Bakou",
+            "ja": "ガバラからバクーへのドライブ",
+            "es": "Trayecto de Gabala a Bakú"
+          },
+          "value": {
+            "en": "210 km, about 3.5 hours",
+            "de": "210 km, etwa 3,5 Stunden",
+            "fr": "210 km, environ 3,5 heures",
+            "ja": "210 km、約3.5時間",
+            "es": "210 km, unas 3.5 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $781 USD / person",
+            "de": "Ab $781 USD / Person",
+            "fr": "À partir de $781 USD / personne",
+            "ja": "$781 USD〜 / 1名",
+            "es": "Desde $781 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793931369/sunday-atlas/blog/baku-itinerary-5-days/gabala-commons-134527628.jpg",
+        "width": 1920,
+        "height": 1082,
+        "alt": {
+          "en": "A cable car cabin travels over a dirt slope toward buildings in Gabala, Azerbaijan.",
+          "de": "Eine Seilbahnkabine fährt über einen Schotterhang auf Gebäude in Gabala, Aserbaidschan zu.",
+          "fr": "Une cabine de téléphérique traverse une pente de terre en direction de bâtiments à Gabala, en Azerbaïdjan.",
+          "ja": "ガバラ、アゼルバイジャンの土の斜面を建物へと向かうケーブルカーのキャビン。",
+          "es": "Cabina de teleférico que recorre una ladera de tierra hacia edificios en Gabala, Azerbaiyán."
+        },
+        "credit": {
+          "author": "Fanti Salms",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cable_Car,_Gabala,_Azerbaijan.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Gabala",
+          "de": "Gabala",
+          "fr": "Gabala",
+          "ja": "ガバラ",
+          "es": "Gabala"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-journey-5-days"
+    },
+    {
+      "id": "day-4-baku-at-your-own-pace",
+      "placeName": {
+        "en": "Baku",
+        "de": "Baku",
+        "fr": "Bakou",
+        "ja": "バクー",
+        "es": "Bakú"
+      },
+      "heading": {
+        "en": "Day 4: Baku at Your Own Pace",
+        "de": "Tag 4: Baku in Ihrem eigenen Tempo",
+        "fr": "Jour 4 : Bakou à votre rythme",
+        "ja": "Day 4: バクーを自由に過ごす",
+        "es": "Día 4: Bakú a tu propio ritmo"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 4 leaves Baku entirely open for independent exploration or a private day trip to Gobustan and the Absheron fire sites. The Gobustan Rock Art, Mud Volcanoes & Absheron Fire Tour from Baku runs as a 1-day private tour year-round and covers about 130 km round-trip with roughly 3 hours of total driving. It departs Baku in the morning for the UNESCO-listed Gobustan petroglyphs, then continues to the bubbling mud volcanoes above the Caspian Sea. The route returns via Bibi-Heybat Mosque, the 17th-century Ateshgah Fire Temple and the natural gas flames of Yanar Dag before dropping you back at your hotel.",
+          "If you stay in Baku, the Caspian Sea Boulevard stretches for several kilometres and is ideal for a morning walk or a bike ride along the waterfront. The Azerbaijan Carpet Museum and the Little Venice canals are both within a 15-minute walk of most central hotels. Highland Park offers panoramic city views and is reached by a short funicular ride from the Boulevard. April to June and September to November provide the most comfortable temperatures for outdoor wandering.",
+          "The Old City (Icherisheher) is a UNESCO-walled district where you can visit the 12th-century Maiden Tower and the limestone Palace of the Shirvanshahs on foot. Zaha Hadid's Heydar Aliyev Center lies about a 10-minute drive or 30-minute walk from the Old City walls and stays open daily except Mondays. The Flame Towers light show is best seen after sunset from the Boulevard or from a rooftop venue along Neftchilar Avenue.",
+          "For a half-day alternative, the Absheron Peninsula fire sites can be reached in about 45 minutes by car from central Baku. Yanar Dag burns continuously from natural gas seepage and is visible year-round, while Ateshgah Fire Temple operates as a museum with indoor exhibits. Both sites are included in the private day trip if you prefer not to arrange separate transport. Summer afternoons can be hot, so morning visits are more comfortable."
+        ],
+        "de": [
+          "Tag 4 lässt Baku ganz offen für eigene Erkundungen oder einen privaten Tagesausflug nach Gobustan und zu den Feuerstätten von Absheron. Die Tour Gobustan Rock Art, Mud Volcanoes & Absheron Fire Tour ab Baku ist eine 1-tägige private Tour ganzjährig verfügbar und umfasst etwa 130 km Hin- und Rückfahrt mit insgesamt rund 3 Stunden Fahrzeit. Sie startet morgens in Baku zu den von der UNESCO gelisteten Felszeichnungen von Gobustan, führt weiter zu den brodelnden Schlammvulkanen über dem Kaspischen Meer und kehrt über die Bibi-Heybat-Moschee, den 17. Jahrhundert alten Ateshgah-Feuertempel und die natürlichen Gasflammen von Yanar Dag zurück, bevor wir Sie wieder an Ihrem Hotel absetzen.",
+          "Wenn Sie in Baku bleiben, erstreckt sich die Kaspische Meeres-Promenade über mehrere Kilometer und eignet sich ideal für einen Morgen- oder einen Fahrradausflug entlang des Wassers. Das Aserbaidschanische Teppichmuseum und die Kanäle von Little Venice sind beide innerhalb eines 15-minütigen Fußwegs von den meisten zentralen Hotels erreichbar. Der Highland Park bietet Panoramablicke auf die Stadt und ist mit einer kurzen Standseilbahnfahrt von der Promenade aus zu erreichen. April bis Juni und September bis November bieten die angenehmsten Temperaturen für ausgedehnte Spaziergänge im Freien.",
+          "Die Altstadt (Icherisheher) ist ein ummauerter UNESCO-Bezirk, in dem Sie den 12. Jahrhundert alten Jungfernturm und den Kalksteinpalast der Schirwanschahs zu Fuß besichtigen können. Das Heydar Aliyev Center von Zaha Hadid liegt etwa eine 10-minütige Fahrt oder einen 30-minütigen Fußweg von den Altstadtmauern entfernt und hat täglich außer montags geöffnet. Die Lichtshow der Flame Towers ist am besten nach Sonnenuntergang von der Promenade oder von einer Dachterrasse entlang der Neftchilar Avenue aus zu sehen.",
+          "Für eine halbtägige Alternative erreichen Sie die Feuerstätten der Absheron-Halbinsel in etwa 45 Minuten mit dem Auto vom Zentrum Bakus aus. Der Yanar Dag brennt durch natürliche Gasaustritte kontinuierlich und ist ganzjährig sichtbar, während der Ateshgah-Feuertempel als Museum mit Innenausstellungen fungiert. Beide Stätten sind in der privaten Tagesreise enthalten, falls Sie keine separate Organisation des Transports wünschen. Sommerliche Nachmittage können heiß sein, daher sind Morgenbesuche angenehmer."
+        ],
+        "fr": [
+          "Le jour 4 laisse Bakou entièrement libre pour une exploration indépendante ou une excursion privée d'une journée à Gobustan et sur les sites de feu de l'Absheron. Le circuit Gobustan Art Rupestre, Volcans de Boue & Feu de l'Absheron au départ de Bakou se déroule en excursion privée d'1 jour toute l'année et couvre environ 130 km aller-retour avec environ 3 heures de conduite au total. Il quitte Bakou le matin pour les pétroglyphes de Gobustan classés à l'UNESCO, puis continue vers les volcans de boue bouillonnants au-dessus de la mer Caspienne. Le retour se fait par la mosquée Bibi-Heybat, le temple du feu d'Ateshgah du 17e siècle et les flammes de gaz naturel de Yanar Dag avant de vous déposer à votre hôtel.",
+          "Si vous restez à Bakou, le boulevard de la mer Caspienne s'étend sur plusieurs kilomètres et est idéal pour une promenade matinale ou une balade à vélo le long du front de mer. Le musée du tapis d'Azerbaïdjan et les canaux de la Petite Venise sont tous deux à moins de 15 minutes à pied de la plupart des hôtels centraux. Le parc Highland Park offre des vues panoramiques sur la ville et est accessible par un court trajet en funiculaire depuis le boulevard. D'avril à juin et de septembre à novembre offrent les températures les plus confortables pour flâner en plein air.",
+          "La vieille ville (Icherisheher) est un district fortifié classé à l'UNESCO où vous pouvez visiter la tour de la Jeune Fille du 12e siècle et le palais de calcaire des Chirvanchahs à pied. Le centre Heydar Aliyev de Zaha Hadid se trouve à environ 10 minutes en voiture ou 30 minutes à pied des murs de la vieille ville et reste ouvert tous les jours sauf le lundi. Le spectacle de lumière des Flame Towers est mieux vu après le coucher du soleil depuis le boulevard ou depuis un lieu en hauteur le long de l'avenue Neftchilar.",
+          "Pour une alternative d'une demi-journée, les sites de feu de la péninsule d'Absheron sont accessibles en environ 45 minutes de voiture depuis le centre de Bakou. Yanar Dag brûle en continu grâce aux infiltrations de gaz naturel et se visite toute l'année, tandis que le temple du feu d'Ateshgah fonctionne comme un musée avec des expositions en intérieur. Les deux sites sont inclus dans l'excursion privée d'une journée si vous préférez ne pas organiser de transport séparé. Les après-midi d'été peuvent être chauds, les visites matinales sont donc plus agréables."
+        ],
+        "ja": [
+          "4日目はバクーで自由に過ごすか、ゴブスタンとアブシェロンの火の聖地へのプライベート日帰り旅行をお選びいただけます。バクー発ゴブスタン岩絵、泥火山、アブシェロン火の聖地ツアーは1日プライベートツアーとして年間を通じて運行し、往復約130キロ、総走行時間は約3時間です。朝にバクーを出発し、ユネスコ登録のゴブスタンの岩絵を訪れた後、カスピ海の上にある泡立つ泥火山へと向かいます。ルートはビビヘイバト・モスク、17世紀のアテシュガー火の神殿、ヤナルダグの天然ガスの炎を経由し、ホテルまでお送りします。",
+          "バクーに滞在する場合、カスピ海沿いの遊歩道は数キロにわたり広がり、朝の散歩や水辺でのサイクリングに最適です。アゼルバイジャン絨毯博物館とリトルヴェニスの運河は、中心部のホテルの多くから徒歩15分圏内にあります。ハイランドパークからは街のパノラマビューを楽しめ、遊歩道から短いケーブルカー（フニクラー）でアクセスできます。4月から6月、9月から11月は屋外を散策するのに最も快適な気温です。",
+          "旧市街（イチェリシェヘル）はユネスコ登録の城壁地区で、徒歩で12世紀の乙女の塔と石灰岩のシルヴァンシャー宮殿を訪れることができます。ザハ・ハディド設計のヘイダル・アリエフ・センターは旧市街の城壁から車で約10分、徒歩約30分の場所にあり、月曜日を除き毎日開館しています。フレイムタワーズのライトショーは日没後、遊歩道やネフチラー通り沿いのルーフトップ会場から眺めるのが最適です。",
+          "半日プランの代替として、アブシェロン半島の火の遺跡はバクー市内中心部から車で約45分で到着できます。ヤナル・ダグは天然ガスの噴出によって絶え間なく燃え続け、一年中見学可能です。アテシュガー火の神殿は博物館として運営され、屋内展示をご覧いただけます。両方のスポットはプライベート日帰りツアーに含まれており、別途交通手段を手配する必要はありません。夏の午後は暑くなるため、午前中の訪問が快適です。"
+        ],
+        "es": [
+          "El día 4 deja Bakú completamente abierto para la exploración independiente o una excursión privada de un día a Gobustan y los sitios de fuego de Absheron. El tour Gobustan Rock Art, Mud Volcanoes & Absheron Fire Tour desde Bakú funciona como un tour privado de 1 día durante todo el año y cubre unos 130 km de ida y vuelta con aproximadamente 3 horas de tiempo total de conducción. Sale de Bakú por la mañana hacia los petroglifos de Gobustan, declarados Patrimonio de la Humanidad por la UNESCO, y luego continúa hacia los volcanes de lodo burbujeantes sobre el mar Caspio. La ruta regresa pasando por la mezquita Bibi-Heybat, el templo del fuego Ateshgah del siglo 17 y las llamas de gas natural de Yanar Dag antes de dejarte de vuelta en tu hotel.",
+          "Si te quedas en Bakú, el bulevar del mar Caspio se extiende por varios kilómetros y es ideal para un paseo matinal o un paseo en bicicleta a lo largo del frente marítimo. El Museo de la Alfombra de Azerbaiyán y los canales de Little Venice están ambos a menos de 15 minutos a pie de la mayoría de los hoteles céntricos. Highland Park ofrece vistas panorámicas de la ciudad y se alcanza con un breve trayecto en funicular desde el Bulevar. De abril a junio y de septiembre a noviembre ofrecen las temperaturas más cómodas para caminar al aire libre.",
+          "La Ciudad Vieja (Icherisheher) es un distrito amurallado declarado Patrimonio de la Humanidad por la UNESCO donde puedes visitar la Torre de la Doncella del siglo 12 y el palacio de piedra caliza de los Shirvanshahs a pie. El Centro Heydar Aliyev de Zaha Hadid está a unos 10 minutos en coche o 30 minutos a pie desde las murallas de la Ciudad Vieja y permanece abierto todos los días excepto los lunes. El espectáculo de luces de las Flame Towers se aprecia mejor después del atardecer desde el Bulevar o desde un lugar en la azotea a lo largo de la avenida Neftchilar.",
+          "Como alternativa de medio día, los yacimientos de fuego de la península de Absheron se encuentran a unos 45 minutos en coche desde el centro de Bakú. Yanar Dag arde continuamente por filtraciones de gas natural y es visible durante todo el año, mientras que el Templo del Fuego de Ateshgah funciona como museo con exposiciones en interiores. Ambos sitios están incluidos en el viaje privado de un día si prefieres no organizar transporte por tu cuenta. Las tardes de verano pueden ser calurosas, por lo que las visitas matutinas son más agradables."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Free day in Baku or private Gobustan tour",
+          "130 km round-trip with 3 hours driving",
+          "Year-round departures from your hotel"
+        ],
+        "de": [
+          "Freier Tag in Baku oder private Gobustan-Tour",
+          "130 km Rundfahrt mit 3 Stunden Fahrzeit",
+          "Ganzjährige Abfahrten von Ihrem Hotel"
+        ],
+        "fr": [
+          "Journée libre à Bakou ou excursion privée à Gobustan",
+          "130 km aller-retour avec 3 heures de route",
+          "Départs toute l'année depuis votre hôtel"
+        ],
+        "ja": [
+          "バクーでの自由日、またはプライベートゴブスタンツアー",
+          "往復130km、走行時間3時間",
+          "ホテルからの年間を通じた出発"
+        ],
+        "es": [
+          "Día libre en Bakú o tour privado a Gobustán",
+          "130 km de ida y vuelta con 3 horas de conducción",
+          "Salidas durante todo el año desde tu hotel"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Reisedauer",
+            "fr": "Durée de l'excursion",
+            "ja": "ツアー所要時間",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "1-day private tour",
+            "de": "1-tägige Privatreise",
+            "fr": "Visite privée d'1 jour",
+            "ja": "1日プライベートツアー",
+            "es": "Tour privado de 1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Season",
+            "de": "Reisezeitraum",
+            "fr": "Saison",
+            "ja": "シーズン",
+            "es": "Temporada"
+          },
+          "value": {
+            "en": "Year-round",
+            "de": "Ganzjährig",
+            "fr": "Toute l'année",
+            "ja": "年間を通じて",
+            "es": "Todo el año"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $115 USD / person",
+            "de": "Ab $115 USD / Person",
+            "fr": "À partir de $115 USD / personne",
+            "ja": "$115 USD〜 / 1名",
+            "es": "Desde $115 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793931371/sunday-atlas/blog/baku-itinerary-5-days/baku-commons-202657585.jpg",
+        "width": 1920,
+        "height": 1411,
+        "alt": {
+          "en": "Baku Mosque by the sea with domes and minarets under a blue sky.",
+          "de": "Baku-Moschee am Meer mit Kuppeln und Minaretten unter blauem Himmel.",
+          "fr": "Mosquée de Bakou au bord de la mer, avec dômes et minarets sous un ciel bleu.",
+          "ja": "海辺のバクーモスク。ドームとミナレットが青空の下に。",
+          "es": "Mezquita de Bakú junto al mar, con cúpulas y minaretes bajo un cielo azul."
+        },
+        "credit": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bibi-Heybat_Mosque,_Baku,_Azerbaijan_(%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8-%D0%AD%D0%B9%D0%B1%D0%B0%D1%82,_2026).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Baku",
+          "de": "Baku",
+          "fr": "Bakou",
+          "ja": "バクー",
+          "es": "Bakú"
+        }
+      },
+      "embeddedPackageSlug": "gobustan-mud-volcanoes-absheron-day-trip"
+    },
+    {
+      "id": "day-5-baku-departure",
+      "placeName": {
+        "en": "Baku",
+        "de": "Baku",
+        "fr": "Bakou",
+        "ja": "バクー",
+        "es": "Bakú"
+      },
+      "heading": {
+        "en": "Day 5: Baku Departure",
+        "de": "Tag 5: Abreise aus Baku",
+        "fr": "Jour 5 : Départ de Bakou",
+        "ja": "5日目：バクー出発",
+        "es": "Día 5: Salida de Bakú"
+      },
+      "paragraphs": {
+        "en": [
+          "On the final morning a private driver meets you at the Baku hotel and covers the 25 km airport transfer in about 30 minutes via the Heydar Aliyev International Airport expressway. The departure transfer is included in the 5-day private tour and runs year-round, matching flight times from early morning to late evening. April to June and September to November offer the smoothest traffic conditions along the Caspian coastal road. Luggage is loaded directly into the sedan or minivan, so no additional shuttle or taxi is needed. The driver waits in the hotel lobby at the agreed pickup time, typically three hours before departure.",
+          "If your flight leaves in the afternoon you can store bags at the hotel reception after check-out at noon and take a short walk along Baku Boulevard or visit the Carpet Museum before the transfer. The expressway has clear signage in English and Azerbaijani, and the route passes the Flame Towers for a last photo opportunity. Winter months from December to February may add 10 minutes due to occasional snow, but the road is kept clear. The same English-speaking driver who handled the Day 3 Shamakhi-Gabala excursion usually provides the departure transfer for continuity.",
+          "The tour includes travel insurance valid until you pass through the airport security checkpoint, so coverage ends at the terminal entrance. No separate payment or tip is expected for the driver; the service is pre-arranged as part of the private itinerary. Should your flight be delayed, the driver will adjust the pickup time based on the updated departure schedule communicated by the local operations team. The transfer works for all terminals at Heydar Aliyev International Airport, which handles both domestic and international flights.",
+          "For travellers extending their stay independently, the hotel concierge can book a return transfer on the same 30-minute route at any later date. The expressway connects directly to the city centre via the Baku-Salyan highway, making future airport runs straightforward. Peak summer weekends in July and August can see heavier traffic near the Boulevard, so allow an extra 15 minutes if departing then. The private transfer eliminates the need to navigate public buses or negotiate airport taxi fares."
+        ],
+        "de": [
+          "Am letzten Morgen trifft Sie ein privater Fahrer in Ihrem Baku-Hotel und übernimmt den 25 km langen Flughafentransfer in etwa 30 Minuten über die Schnellstraße zum Heydar Aliyev International Airport. Der Abholtransfer ist in der 5-tägigen Privatreise enthalten und ganzjährig verfügbar, abgestimmt auf Flugzeiten von frühmorgens bis spätabends. Von April bis Juni und von September bis November herrschen die günstigsten Verkehrsbedingungen entlang der Kaspischen Küstenstraße. Das Gepäck wird direkt in die Limousine oder den Kleinbus verladen, sodass kein zusätzlicher Shuttle oder Taxi benötigt wird. Der Fahrer wartet zur vereinbarten Abholzeit in der Hotelhalle, in der Regel drei Stunden vor Abflug.",
+          "Falls Ihr Flug am Nachmittag geht, können Sie nach dem Check-out um Mittag Ihre Gepäckstücke an der Hotelrezeption aufbewahren und einen kurzen Spaziergang am Baku Boulevard unternehmen oder das Teppichmuseum besuchen, bevor der Transfer stattfindet. Die Schnellstraße ist mit klaren Schildern auf Englisch und Aserbaidschanisch beschildert, und die Route führt an den Flame Towers vorbei für eine letzte Fotogelegenheit. Die Wintermonate von Dezember bis Februar können aufgrund gelegentlichen Schnees 10 Minuten hinzufügen, aber die Straße wird geräumt gehalten. Der gleiche englischsprachige Fahrer, der den Ausflug nach Schamachi-Gabala am Tag 3 begleitet hat, übernimmt in der Regel den Abholtransfer für Kontinuität.",
+          "Die Reise umfasst eine Reiseversicherung, die gültig ist, bis Sie die Sicherheitskontrolle am Flughafen passieren, sodass der Versicherungsschutz am Terminaleingang endet. Für den Fahrer ist keine separate Zahlung oder Trinkgeld erwartet; der Service ist als Teil der privaten Reiseroute vorab vereinbart. Sollte Ihr Flug verspätet sein, passt der Fahrer die Abholzeit basierend auf dem aktualisierten Abflugplan an, der vom lokalen Operations-Team mitgeteilt wird. Der Transfer funktioniert für alle Terminals des Heydar Aliyev International Airport, der sowohl Inlands- als auch Internationale Flüge abwickelt.",
+          "Für Reisende, die ihren Aufenthalt eigenständig verlängern, kann der Hotelconcierge einen Rücktransfer auf derselben 30-minütigen Route zu einem späteren Zeitpunkt buchen. Die Schnellstraße verbindet direkt mit dem Stadtzentrum über die Baku-Salyan-Autobahn, was zukünftige Flughafenfahrten unkompliziert macht. Spätsommerliche Wochenenden im Juli und August können zu stärkerem Verkehr in der Nähe des Boulevards führen, also planen Sie bei einer Abreise dann zusätzliche 15 Minuten ein. Der private Transfer erspart die Navigation mit öffentlichen Bussen oder das Verhandeln von Flughafen-Taxipreisen."
+        ],
+        "fr": [
+          "Le dernier matin, un chauffeur privé vous attend à votre hôtel à Bakou et assure le transfert de 25 km jusqu'à l'aéroport en environ 30 minutes via l'autoroute de l'aéroport international Heydar Aliyev. Le transfert de départ est inclus dans le circuit privé de 5 jours et fonctionne toute l'année, en fonction des horaires de vol, du petit matin au soir. D'avril à juin et de septembre à novembre, la circulation est la plus fluide le long de la route côtière de la Caspienne. Les bagages sont chargés directement dans la berline ou le minivan, aucune navette ou taxi supplémentaire n'est nécessaire. Le chauffeur vous attend dans le hall de l'hôtel à l'heure convenue, généralement trois heures avant le départ.",
+          "Si votre vol décolle l'après-midi, vous pouvez déposer vos bagages à la réception de l'hôtel après le départ à midi et faire une courte promenade le long du boulevard de Bakou ou visiter le musée du Tapis avant le transfert. L'autoroute est clairement signalisée en anglais et en azéri, et l'itinéraire passe devant les Flame Towers pour une dernière opportunité de photo. Les mois d'hiver, de décembre à février, peuvent ajouter 10 minutes en raison de chutes de neige occasionnelles, mais la route est déneigée. Le même chauffeur anglophone qui a assuré l'excursion de Shamakhi-Gabala le jour 3 fournit généralement le transfert de départ pour assurer la continuité.",
+          "Le circuit inclut une assurance voyage valable jusqu'à ce que vous passiez le contrôle de sécurité de l'aéroport, la couverture prenant fin à l'entrée du terminal. Aucun paiement ni pourboire n'est attendu pour le chauffeur ; le service est pré-organisé dans le cadre de l'itinéraire privé. Si votre vol est retardé, le chauffeur ajustera l'heure de prise en charge en fonction du nouveau planning de départ communiqué par notre équipe opérationnelle sur place. Le transfert fonctionne pour tous les terminaux de l'aéroport international Heydar Aliyev, qui accueille des vols nationaux et internationaux.",
+          "Pour les voyageurs prolongeant leur séjour de manière indépendante, le concierge de l'hôtel peut réserver un transfert retour sur le même trajet de 30 minutes à une date ultérieure. L'autoroute relie directement le centre-ville via l'autoroute Bakou-Salyan, rendant les futurs trajets vers l'aéroport simples. Les week-ends de pointe en juillet et août peuvent connaître une circulation plus dense près du boulevard, prévoyez donc 15 minutes supplémentaires si vous partez à cette période. Le transfert privé élimine le besoin de naviguer dans les bus publics ou de négocier les tarifs des taxis à l'aéroport."
+        ],
+        "ja": [
+          "最終日の朝、プライベートドライバーがバクーのホテルでお客様をお迎えし、ヘイダル・アリエフ国際空港高速道路を経由して空港までの25kmの移動を約30分で行います。出発送迎は5日間のプライベートツアーに含まれており、早朝から深夜までのフライト時間に合わせて年間を通じて運行しています。4月から6月、9月から11月はカスピ海沿岸道路の交通状況が最もスムーズです。荷物はセダンまたはミニバンに直接積み込まれるため、追加のシャトルやタクシーは不要です。ドライバーはホテルロビーで合意したピックアップ時間に待機しており、通常は出発の3時間前です。",
+          "フライトが午後の場合、チェックアウト後の正午にホテル受付で荷物を預け、バクー・ブールバードを短く散歩したり、カーペット博物館を訪れたりしてから送迎に向かうことができます。高速道路には英語とアゼルバイジャン語の明確な標識があり、ルートはフレイムタワーズを通り、最後の写真撮影の機会を提供します。12月から2月の冬季は、時折の降雪により10分ほど時間がかかる場合がありますが、道路は除雪されています。3日目のシャマヒー・ガバラ遠足を担当した同じ英語を話すドライバーが、通常、出発送迎を担当し、一貫性を保ちます。",
+          "ツアーには、空港の保安検査場を通過するまで有効な旅行保険が含まれており、補償はターミナル入口で終了します。ドライバーへの別途の支払いやチップは不要で、サービスはプライベート旅程の一部として事前に手配されています。フライトが遅延した場合、ドライバーは現地オペレーションチームから連絡された更新された出発スケジュールに基づいてピックアップ時間を調整します。送迎はヘイダル・アリエフ国際空港のすべてのターミナルで利用可能で、同空港は国内線と国際線の両方を扱っています。",
+          "個別に滞在を延長されるお客様は、ホテルコンシェルジュが後日いつでも同じ30分のルートでの帰路送迎を手配できます。高速道路はバクー・サルヤン高速道路を経由して市内中心部に直接接続しており、将来の空港行きも簡単です。7月と8月のピーク夏の週末はブールバード付近で交通量が増えるため、出発時に15分余分に余裕を持たせてください。プライベート送迎により、公共バスを利用したり空港タクシーの料金を交渉したりする必要がなくなります。"
+        ],
+        "es": [
+          "En la mañana final, un conductor privado te recibe en el hotel de Bakú y cubre el traslado de 25 km al aeropuerto en unos 30 minutos por la autopista expreso del Aeropuerto Internacional Heydar Aliyev. El traslado de salida está incluido en el tour privado de 5 días y opera durante todo el año, adaptándose a los horarios de vuelo desde temprano en la mañana hasta entrada la noche. De abril a junio y de septiembre a noviembre se ofrecen las mejores condiciones de tráfico a lo largo de la carretera costera del Caspio. El equipaje se carga directamente en el sedán o la minivan, por lo que no se necesita ningún shuttle o taxi adicional. El conductor espera en el vestíbulo del hotel a la hora acordada de recogida, normalmente tres horas antes de la salida.",
+          "Si tu vuelo sale por la tarde, puedes dejar las maletas en la recepción del hotel después del check-out al mediodía y dar un corto paseo por el Bulevar de Bakú o visitar el Museo de la Alfombra antes del traslado. La autopista tiene señalización clara en inglés y azerí, y la ruta pasa por las Torres Flame para una última oportunidad de foto. Los meses de invierno, de diciembre a febrero, pueden añadir 10 minutos debido a nevadas ocasionales, pero la carretera se mantiene despejada. El mismo conductor de habla inglesa que gestionó la excursión de Shamakhi-Gabala del Día 3 suele proporcionar el traslado de salida para garantizar continuidad.",
+          "El tour incluye un seguro de viaje válido hasta que pases el control de seguridad del aeropuerto, por lo que la cobertura termina en la entrada de la terminal. No se espera ningún pago o propina por separado para el conductor; el servicio está pre-organizado como parte del itinerario privado. Si tu vuelo se retrasa, el conductor ajustará la hora de recogida según el horario de salida actualizado comunicado por el equipo de operaciones local. El traslado funciona para todas las terminales del Aeropuerto Internacional Heydar Aliyev, que maneja vuelos nacionales e internacionales.",
+          "Para los viajeros que extienden su estancia de forma independiente, el conserje del hotel puede reservar un traslado de regreso en la misma ruta de 30 minutos en cualquier fecha posterior. La autopista conecta directamente con el centro de la ciudad a través de la carretera Bakú-Salyán, lo que hace que los futuros traslados al aeropuerto sean sencillos. Los fines de semana de verano pico en julio y agosto pueden tener tráfico más intenso cerca del Bulevar, así que permite 15 minutos extra si sales entonces. El traslado privado elimina la necesidad de navegar en autobuses públicos o negociar tarifas de taxi en el aeropuerto."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Private hotel-to-airport transfer included",
+          "25 km expressway drive, about 30 minutes",
+          "Driver adjusts for flight changes automatically"
+        ],
+        "de": [
+          "Privater Hotel-zu-Flughafen-Transfer inklusive",
+          "25 km Schnellstraßenfahrt, etwa 30 Minuten",
+          "Fahrer passt sich Flugänderungen automatisch an"
+        ],
+        "fr": [
+          "Transfert privé hôtel-aéroport inclus",
+          "Trajet de 25 km sur autoroute, environ 30 minutes",
+          "Le chauffeur ajuste automatiquement les changements de vol"
+        ],
+        "ja": [
+          "プライベートホテルから空港までの送迎が含まれています",
+          "高速道路を25km、約30分のドライブ",
+          "フライト変更にドライバーが自動的に対応"
+        ],
+        "es": [
+          "Traslado privado hotel-aeropuerto incluido",
+          "25 km en autopista expreso, unos 30 minutos",
+          "El conductor ajusta automáticamente los cambios de vuelo"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Transfer distance",
+            "de": "Transferstrecke",
+            "fr": "Distance du transfert",
+            "ja": "送迎距離",
+            "es": "Distancia del traslado"
+          },
+          "value": {
+            "en": "25 km",
+            "de": "25 km",
+            "fr": "25 km",
+            "ja": "25 km",
+            "es": "25 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Typical drive time",
+            "de": "Typische Fahrzeit",
+            "fr": "Temps de trajet typique",
+            "ja": "標準的な所要時間",
+            "es": "Tiempo típico de conducción"
+          },
+          "value": {
+            "en": "30 minutes",
+            "de": "30 Minuten",
+            "fr": "30 minutes",
+            "ja": "30分",
+            "es": "30 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $781 USD / person",
+            "de": "Ab $781 USD / Person",
+            "fr": "À partir de $781 USD / personne",
+            "ja": "$781 USD〜 / 1名",
+            "es": "Desde $781 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793931373/sunday-atlas/blog/baku-itinerary-5-days/baku-commons-51854253.jpg",
+        "width": 1920,
+        "height": 1237,
+        "alt": {
+          "en": "Stone gatehouse at the Maiden Tower complex in Baku, Azerbaijan.",
+          "de": "Steinernes Torhaus am Komplex des Jungfrauenturms in Baku, Aserbaidschan.",
+          "fr": "Porte en pierre du complexe de la Tour de la Jeune Fille à Bakou, en Azerbaïdjan.",
+          "ja": "バクー、アゼルバイジャンの乙女の塔複合施設にある石の門衛室。",
+          "es": "Casa de entrada de piedra en el complejo de la Torre de la Doncella en Bakú, Azerbaiyán."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templo_de_fuego,_Baku,_Azerbaiy%C3%A1n,_2016-09-27,_DD_33.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Baku",
+          "de": "Baku",
+          "fr": "Bakou",
+          "ja": "バクー",
+          "es": "Bakú"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-journey-5-days"
+    },
+    {
+      "id": "getting-between-places-and-where-to-stay",
+      "placeName": {
+        "en": "Baku",
+        "de": "Baku",
+        "fr": "Bakou",
+        "ja": "バクー",
+        "es": "Bakú"
+      },
+      "heading": {
+        "en": "Getting Between Places and Where to Stay",
+        "de": "Anreise und Unterkunft",
+        "fr": "Se déplacer et se loger",
+        "ja": "移動と宿泊について",
+        "es": "Cómo desplazarse y dónde alojarse"
+      },
+      "paragraphs": {
+        "en": [
+          "Private airport transfers in Baku cover the 25 km ride from Heydar Aliyev International Airport to the city center in about 30 minutes, and the same service handles departure on Day 5. The overland journey from Baku to Gabala on Day 3 spans roughly 220 km and takes about three hours each way through the Caucasus foothills. Travel is most comfortable from April to June and September to November when mountain passes are clear and temperatures stay mild. Winter months bring snow to Tufandag Mountain Resort, which can extend drive times on higher sections. The private vehicle and English-speaking driver remain with the group for all excursions throughout the five days.",
+          "Accommodation is four nights in a 4-star hotel located in central Baku, within walking distance of the UNESCO-listed Old City and the Caspian Sea Boulevard. Daily breakfast is included, and the property provides a reliable base for the Day 2 city tour and the free Day 4 schedule. Rooms typically feature air conditioning, Wi-Fi, and private bathrooms suited to the spring and autumn travel windows. Staying in one hotel for the entire trip avoids repacking and maximizes time for sightseeing. The central location also puts restaurants, pharmacies, and currency exchange points within a few minutes' walk.",
+          "On Day 3 the route heads west from Baku toward Shamakhi at about 1,050 m altitude before descending to Gabala at roughly 750 m, passing vineyards and forested valleys along the way. The drive includes a stop at Nohur Lake, set at approximately 700 m, where a short lakeside walk takes 15 to 20 minutes. From Gabala the Tufandag cable car climbs to the upper station near 1,900 m, operating year-round with seasonal schedules. Road conditions are generally good on the main highway, though mountain weather can cause brief delays in early spring or late autumn. The return to Baku follows the same corridor, arriving in the early evening.",
+          "The private transfer model means no shared shuttles or fixed group timetables; departure times each morning are set with the driver the night before. Luggage stays in the vehicle during the Day 3 round trip, so only a daypack is needed for lake and mountain stops. Travel insurance covering the trip duration is included in the tour package. Visa requirements are straightforward for most nationalities via the ASAN e-Visa portal, typically processed within three working days for a 30-day stay. April through June and September through November remain the recommended months for smooth logistics and comfortable temperatures."
+        ],
+        "de": [
+          "Private Flughafentransfers in Baku legen die 25 km vom Flughafen Heydar Aliyev ins Stadtzentrum in etwa 30 Minuten zurück, und derselbe Service kümmert sich am Tag 5 um die Abreise. Die Überlandfahrt von Baku nach Gabala am Tag 3 umfasst rund 220 km und dauert in jede Richtung etwa drei Stunden durch das Kaukasusvorland. Die Reise ist am komfortabelsten von April bis Juni und September bis November, wenn die Pässe frei sind und die Temperaturen mild bleiben. Die Wintermonate bringen Schnee ins Skigebiet Tufandag Mountain Resort, was die Fahrzeiten auf den höheren Abschnitten verlängern kann. Das private Fahrzeug und der englischsprachige Fahrer bleiben während der gesamten fünf Tage bei der Gruppe für alle Ausflüge.",
+          "Die Unterkunft umfasst vier Nächte in einem 4-Sterne-Hotel im Zentrum von Baku, in Gehdistanz zur UNESCO-listeten Altstadt und zur Kaspischen Meerespromenade. Das tägliche Frühstück ist inklusive, und die Unterkunft bietet eine zuverlässige Basis für die Stadttour am Tag 2 und den freien Tag 4. Die Zimmer verfügen in der Regel über Klimaanlage, WLAN und ein eigenes Bad, das für die Reisezeiträume im Frühling und Herbst geeignet ist. In einem Hotel für die gesamte Reise zu bleiben, vermeidet das Umpacken und maximiert die Zeit für Besichtigungen. Die zentrale Lage bringt Restaurants, Apotheken und Wechselstuben in wenigen Gehminuten in Reichweite.",
+          "Am Tag 3 führt die Route westwärts von Baku nach Shamakhi auf etwa 1.050 m Höhe, bevor sie nach Gabala auf rund 750 m abfällt, vorbei an Weinbergen und bewaldeten Tälern. Die Fahrt beinhaltet einen Stopp am Nohur-See, der auf etwa 700 m liegt, wo ein kurzer Spaziergang am Seeufer 15 bis 20 Minuten dauert. Von Gabala aus steigt die Tufandag-Seilbahn zur Bergstation auf knapp 1.900 m, ganzjährig in Betrieb mit saisonalen Fahrplänen. Die Straßenverhältnisse sind auf der Hauptstraße im Allgemeinen gut, obwohl das Bergwetter im Frühjahr oder späten Herbst zu kurzen Verzögerungen führen kann. Die Rückkehr nach Baku folgt demselben Korridor und kommt am frühen Abend an.",
+          "Das Modell des privaten Transfers bedeutet keine gemeinsamen Shuttles oder festen Gruppenfahrpläne; die Abfahrtszeiten am Morgen werden am Vorabend mit dem Fahrer festgelegt. Das Gepäck bleibt während der Rundreise am Tag 3 im Fahrzeug, sodass nur ein Tagesrucksack für die Stopps am See und in den Bergen benötigt wird. Eine Reiseversicherung für die Reisedauer ist im Reisepaket enthalten. Die Visabestimmungen sind für die meisten Nationalitäten über das ASAN e-Visa-Portal unkompliziert, in der Regel innerhalb von drei Werktagen für einen 30-tägigen Aufenthalt bearbeitet. April bis Juni und September bis November bleiben die empfohlenen Monate für reibungslose Logistik und angenehme Temperaturen."
+        ],
+        "fr": [
+          "Les transferts privés depuis l'aéroport de Bakou couvrent les 25 km entre l'aéroport international Heydar Aliyev et le centre-ville en environ 30 minutes, et le même service assure le départ le jour 5. Le trajet par la route de Bakou à Gabala le jour 3 s'étend sur environ 220 km et dure environ trois heures dans chaque sens à travers les contreforts du Caucase. Les voyages sont les plus confortables d'avril à juin et de septembre à novembre, lorsque les cols de montagne sont dégagés et les températures restent douces. Les mois d'hiver apportent la neige à la station de montagne de Tufandag, ce qui peut allonger les temps de trajet sur les sections en altitude. Le véhicule privé et le chauffeur anglophone restent avec le groupe pour toutes les excursions pendant les cinq jours.",
+          "L'hébergement comprend quatre nuits dans un hôtel 4 étoiles situé au centre de Bakou, à distance de marche de la vieille ville classée au patrimoine mondial de l'UNESCO et du boulevard de la mer Caspienne. Le petit-déjeuner quotidien est inclus, et l'établissement offre une base fiable pour la visite de la ville le jour 2 et le programme libre du jour 4. Les chambres disposent généralement de la climatisation, du Wi-Fi et de salles de bains privatives adaptées aux fenêtres de voyage du printemps et de l'automne. Séjourner dans le même hôtel pendant tout le voyage évite de refaire ses valises et maximise le temps consacré aux visites. L'emplacement central place également les restaurants, les pharmacies et les bureaux de change à quelques minutes à pied.",
+          "Le jour 3, l'itinéraire se dirige vers l'ouest depuis Bakou en direction de Shamakhi à environ 1 050 m d'altitude avant de descendre à Gabala à environ 750 m, en traversant des vignobles et des vallées boisées en chemin. Le trajet inclut un arrêt au lac Nohur, situé à environ 700 m, où une courte promenade au bord du lac dure 15 à 20 minutes. Depuis Gabala, le téléphérique de Tufandag monte jusqu'à la station supérieure près de 1 900 m, fonctionnant toute l'année avec des horaires saisonniers. Les conditions routières sont généralement bonnes sur l'autoroute principale, bien que la météo de montagne puisse provoquer de courts retards au début du printemps ou à la fin de l'automne. Le retour à Bakou suit le même corridor, arrivant en début de soirée.",
+          "Le modèle de transfert privé signifie pas de navettes partagées ni d'horaires de groupe fixes ; les heures de départ chaque matin sont fixées avec le chauffeur la veille au soir. Les bagages restent dans le véhicule pendant l'aller-retour du jour 3, donc seul un sac à dos est nécessaire pour les arrêts au lac et à la montagne. L'assurance voyage couvrant la durée du séjour est incluse dans le forfait. Les exigences de visa sont simples pour la plupart des nationalités via le portail ASAN e-Visa, généralement traitées dans les trois jours ouvrables pour un séjour de 30 jours. Avril à juin et septembre à novembre restent les mois recommandés pour une logistique fluide et des températures confortables."
+        ],
+        "ja": [
+          "バクーの空港送迎は、ヘイダル・アリエフ国際空港から市内中心部までの25 kmを約30分で結び、5日目の出発時にも同じサービスをご利用いただけます。3日目にバクーからガバラまでの陸路は約220 km、コーカサスの麓を通って片道約3時間かかります。4月から6月、9月から11月は山岳道路が整備され気温も穏やかで、移動に最適な時期です。冬季はトゥファンダグ山岳リゾートに雪が降り、高地区間では所要時間が延びる場合があります。専用車両と英語を話すドライバーが5日間のすべての観光で同行いたします。",
+          "宿泊はバクー中心部の4つ星ホテルに4泊。ユネスコ世界遺産の旧市街とカスピ海沿いの遊歩道まで徒歩圏内です。毎日朝食付きで、2日目の市内観光と4日目の自由行動の拠点として便利です。客室は通常、エアコン、Wi-Fi、専用バスルームを備え、春と秋の旅行シーズンに適しています。1つのホテルに滞在することで荷造りの手間が省け、観光の時間を最大限に活用できます。中心部に位置するため、レストラン、薬局、両替所も徒歩数分圏内です。",
+          "3日目はバクーから西へシャマキ（標高約1,050 m）へ向かい、その後ガバラ（標高約750 m）へ下ります。途中、ブドウ園や森林に囲まれた谷間を通ります。ノフル湖（標高約700 m）に立ち寄り、湖畔での短い散歩に15分から20分を要します。ガバラからトゥファンダグのケーブルカーで標高約1,900 mの上部駅まで登り、年間を通じて運行（季節によりダイヤが異なります）。幹線道路の路面状況は概ね良好ですが、早春や晩秋には山岳天候により一時的な遅延が生じる場合があります。バクーへの帰路は同じ経路をたどり、早夜に到着します。",
+          "専用送迎モデルにより、乗り合いシャトルや固定のグループスケジュールはありません。毎朝の出発時間は前夜にドライバーと調整します。3日目の往復では荷物を車両に残しておけるため、湖や山岳地帯への立ち寄りにはデイパックのみで十分です。旅行期間中の旅行保険はツアーパッケージに含まれています。ビザ要件はほとんどの国籍にとって簡単で、ASAN e-Visaポータルからの申請で、通常3営業日以内に30日間滞在のビザが発行されます。4月から6月、9月から11月は、スムーズな手続きと快適な気温のため、引き続き推奨の月です。"
+        ],
+        "es": [
+          "Los traslados privados al aeropuerto en Bakú cubren los 25 km desde el Aeropuerto Internacional Heydar Aliyev hasta el centro de la ciudad en unos 30 minutos, y el mismo servicio gestiona la salida el Día 5. El trayecto por carretera de Bakú a Gabala el Día 3 recorre unos 220 km y dura unas tres horas por trayecto a través de las estribaciones del Cáucaso. Viajar es más cómodo de abril a junio y de septiembre a noviembre, cuando los pasos de montaña están despejados y las temperaturas son suaves. Los meses de invierno traen nieve al Centro Turístico de Montaña Tufandag, lo que puede prolongar los tiempos de conducción en los tramos más altos. El vehículo privado y el conductor de habla inglesa permanecen con el grupo durante todas las excursiones de los cinco días.",
+          "El alojamiento son cuatro noches en un hotel de 4 estrellas ubicado en el centro de Bakú, a poca distancia a pie de la Ciudad Vieja declarada Patrimonio de la Humanidad por la UNESCO y del Paseo Marítimo del Caspio. El desayuno diario está incluido, y el establecimiento ofrece una base fiable para la visita de la ciudad el Día 2 y el horario libre del Día 4. Las habitaciones suelen contar con aire acondicionado, Wi-Fi y baños privados adecuados para las ventanas de viaje de primavera y otoño. Permanecer en un solo hotel durante todo el viaje evita hacer y deshacer maletas y maximiza el tiempo para visitar lugares de interés. La ubicación céntrica también sitúa restaurantes, farmacias y puntos de cambio de moneda a pocos minutos a pie.",
+          "El Día 3 la ruta se dirige al oeste desde Bakú hacia Shamakí a unos 1.050 m de altitud antes de descender a Gabala a unos 750 m, pasando por viñedos y valles boscosos en el camino. El trayecto incluye una parada en el lago Nohur, situado a unos 700 m, donde un breve paseo junto al lago dura de 15 a 20 minutos. Desde Gabala, el teleférico de Tufandag asciende hasta la estación superior cerca de los 1.900 m, funcionando todo el año con horarios estacionales. Las condiciones de la carretera son generalmente buenas en la carretera principal, aunque el clima de montaña puede causar breves retrasos a principios de primavera o a finales de otoño. El regreso a Bakú sigue el mismo corredor, llegando a primera hora de la tarde.",
+          "El modelo de traslado privado significa que no hay traslados compartidos ni horarios fijos de grupo; los horarios de salida cada mañana se acuerdan con el conductor la noche anterior. El equipaje permanece en el vehículo durante el viaje de ida y vuelta del Día 3, por lo que solo se necesita una mochila para las paradas en el lago y la montaña. El seguro de viaje que cubre la duración del viaje está incluido en el paquete turístico. Los requisitos de visado son sencillos para la mayoría de las nacionalidades a través del portal ASAN e-Visa, generalmente procesados en tres días laborables para una estancia de 30 días. De abril a junio y de septiembre a noviembre siguen siendo los meses recomendados para una logística fluida y temperaturas agradables."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Private airport transfers, 25 km, 30 minutes",
+          "Baku to Gabala drive, 220 km, three hours",
+          "Four nights central Baku 4-star hotel with breakfast"
+        ],
+        "de": [
+          "Privater Flughafentransfer, 25 km, 30 Minuten",
+          "Fahrt Baku nach Gabala, 220 km, drei Stunden",
+          "Vier Nächte zentrales Baku 4-Sterne-Hotel mit Frühstück"
+        ],
+        "fr": [
+          "Transferts privés depuis l'aéroport, 25 km, 30 minutes",
+          "Trajet Bakou-Gabala, 220 km, trois heures",
+          "Quatre nuits dans un hôtel 4 étoiles au centre de Bakou avec petit-déjeuner"
+        ],
+        "ja": [
+          "空港送迎、25 km、30分",
+          "バクーからガバラまでのドライブ、220 km、3時間",
+          "バクー中心部の4つ星ホテルに4泊、朝食付き"
+        ],
+        "es": [
+          "Traslados privados al aeropuerto, 25 km, 30 minutos",
+          "Trayecto de Bakú a Gabala, 220 km, tres horas",
+          "Cuatro noches en hotel de 4 estrellas en el centro de Bakú con desayuno"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Transfer time",
+            "de": "Transferzeit",
+            "fr": "Temps de transfert",
+            "ja": "移動時間",
+            "es": "Tiempo de traslado"
+          },
+          "value": {
+            "en": "30 minutes airport to city",
+            "de": "30 Minuten Flughafen bis Stadt",
+            "fr": "30 minutes de l'aéroport au centre-ville",
+            "ja": "空港から市内まで30分",
+            "es": "30 minutos del aeropuerto al centro"
+          }
+        },
+        {
+          "label": {
+            "en": "Drive time Baku-Gabala",
+            "de": "Fahrzeit Baku-Gabala",
+            "fr": "Temps de trajet Bakou-Gabala",
+            "ja": "バクー～ガバラ間の所要時間",
+            "es": "Tiempo de conducción Bakú-Gabala"
+          },
+          "value": {
+            "en": "about 3 hours each way",
+            "de": "etwa 3 Stunden in jede Richtung",
+            "fr": "environ 3 heures chaque sens",
+            "ja": "片道約3時間",
+            "es": "unas 3 horas por trayecto"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $781 USD / person",
+            "de": "Ab $781 USD / Person",
+            "fr": "À partir de $781 USD / personne",
+            "ja": "$781 USD〜 / 1名",
+            "es": "Desde $781 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793931377/sunday-atlas/blog/baku-itinerary-5-days/baku-commons-161938768.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Baku Mosque with twin minarets under a blue sky.",
+          "de": "Baku-Moschee mit zwei Minaretten unter blauem Himmel.",
+          "fr": "Mosquée de Bakou avec deux minarets sous un ciel bleu.",
+          "ja": "青空の下、双子のミナレットを持つバクーモスク。",
+          "es": "Mezquita de Bakú con dos minaretes bajo un cielo azul."
+        },
+        "credit": {
+          "author": "Bernard Gagnon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martyrs%27_Mosque_in_Baku_01.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Baku",
+          "de": "Baku",
+          "fr": "Bakou",
+          "ja": "バクー",
+          "es": "Bakú"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-journey-5-days"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How many days in Baku",
+        "de": "Wie viele Tage in Baku",
+        "fr": "Combien de jours à Bakou",
+        "ja": "バクーに何日必要か",
+        "es": "¿Cuántos días en Bakú"
+      },
+      "a": {
+        "en": "Five days is enough for Baku city sights plus a day trip to Shamakhi and Gabala. The Sunday Atlas five-day tour uses four nights in Baku and one full day in the mountains.",
+        "de": "Fünf Tage reichen für die Sehenswürdigkeiten in Baku plus einen Tagesausflug nach Shamakhi und Gabala. Die fünftägige Tour von Sunday Atlas nutzt vier Nächte in Baku und einen ganzen Tag in den Bergen.",
+        "fr": "Cinq jours suffisent pour visiter les sites de Bakou ainsi qu'une excursion d'une journée à Shamakhi et Gabala. Le voyage de cinq jours de Sunday Atlas utilise quatre nuits à Bakou et une journée complète dans les montagnes.",
+        "ja": "アゼルバイジャンの首都には、都市部のハイライトを巡るのに約3日間が必要です。5日間の旅程では、ガバラ、ノフル湖、トゥファンダグを加え、より広範な旅をお楽しみいただけます。",
+        "es": "Cinco días son suficientes para los lugares de interés de Bakú más una excursión de un día a Shamakí y Gabala. El tour de cinco días de Sunday Atlas utiliza cuatro noches en Bakú y un día completo en las montañas."
+      }
+    },
+    {
+      "q": {
+        "en": "How many days to spend in Baku",
+        "de": "Wie viele Tage in Baku verbringen",
+        "fr": "Combien de jours passer à Bakou",
+        "ja": "バクーに何日滞在すべきか",
+        "es": "¿Cuántos días pasar en Bakú"
+      },
+      "a": {
+        "en": "Spend two to three days in Baku for the Old City, museums and Caspian Boulevard. Add two days for Gabala and Shamakhi if you want mountain scenery.",
+        "de": "Verbringen Sie zwei bis drei Tage in Baku für die Altstadt, Museen und die Kaspische Meerespromenade. Fügen Sie zwei Tage für Gabala und Shamakhi hinzu, wenn Sie Berglandschaften möchten.",
+        "fr": "Prévoyez deux à trois jours à Bakou pour la vieille ville, les musées et le boulevard de la Caspienne. Ajoutez deux jours pour Gabala et Shamakhi si vous souhaitez admirer les paysages de montagne.",
+        "ja": "旧市街、博物館、カスピ海沿いの遊歩道を巡るには、バクーに2泊から3泊をおすすめします。山岳の景色を楽しみたい場合は、ガバラとシャマキにさらに2日間を追加してください。",
+        "es": "Pasa dos o tres días en Bakú para la Ciudad Vieja, los museos y el Paseo del Caspio. Añade dos días para Gabala y Shamakí si quieres paisajes de montaña."
+      }
+    },
+    {
+      "q": {
+        "en": "How many days in Baku Azerbaijan",
+        "de": "Wie viele Tage in Baku, Aserbaidschan",
+        "fr": "Combien de jours à Bakou en Azerbaïdjan",
+        "ja": "アゼルバイジャンのバクーに何日必要か",
+        "es": "¿Cuántos días en Bakú Azerbaiyán"
+      },
+      "a": {
+        "en": "Azerbaijan’s capital needs about three days for urban highlights. The five-day itinerary adds Gabala, Nohur Lake and Tufandag for a broader trip.",
+        "de": "Die Hauptstadt Aserbaidschans benötigt etwa drei Tage für die städtischen Highlights. Die fünftägige Reiseroute fügt Gabala, den Nohur-See und Tufandag für eine breitere Reise hinzu.",
+        "fr": "La capitale de l'Azerbaïdjan nécessite environ trois jours pour les points forts urbains. L'itinéraire de cinq jours ajoute Gabala, le lac Nohur et Tufandag pour un voyage plus complet.",
+        "ja": "アゼルバイジャンの首都は、都市のハイライトを巡るのに約3日が必要です。5日間のプランでは、ガバラ、ノフル湖、トゥファンダグを加え、より広範な旅をお楽しみいただけます。",
+        "es": "La capital de Azerbaiyán necesita unos tres días para los atractivos urbanos. El itinerario de cinco días añade Gabala, el lago Nohur y Tufandag para un viaje más amplio."
+      }
+    },
+    {
+      "q": {
+        "en": "What to do in Azerbaijan for 5 days",
+        "de": "Was man in 5 Tagen in Aserbaidschan unternehmen kann",
+        "fr": "Que faire en Azerbaïdjan pendant 5 jours",
+        "ja": "アゼルバイジャン5日間の過ごし方",
+        "es": "Qué hacer en Azerbaiyán en 5 días"
+      },
+      "a": {
+        "en": "Walk the walled Old City, see the Maiden Tower and Heydar Aliyev Center, visit Yanar Dag and Ateshgah, then drive to Shamakhi and Gabala for Nohur Lake and the Tufandag cable car.",
+        "de": "Die ummauerte Altstadt erkunden, den Jungfernturm und das Heydar-Aliyev-Zentrum besichtigen, Yanar Dag und Ateshgah besuchen, dann nach Schamachi und Gabala fahren für den Nohur-See und die Tufandag-Seilbahn.",
+        "fr": "Parcourez la vieille ville fortifiée, découvrez la tour de la Vierge et le centre Heydar Aliyev, visitez Yanar Dag et Ateshgah, puis partez à Shamakhi et Gabala pour le lac Nohur et le téléphérique de Tufandag.",
+        "ja": "旧市街の城壁に囲まれた通りを散策し、乙女の塔とヘイダル・アリエフ・センターを見学し、ヤナルダグとアテシュガーを訪れ、その後シャマヒとガバラへ車で向かい、ノフル湖とトゥファンダグ・ケーブルカーを楽しみます。",
+        "es": "Recorre la Ciudad Vieja amurallada, visita la Torre de la Doncella y el Centro Heydar Aliyev, conoce Yanar Dag y Ateshgah, y luego conduce hasta Shamakhi y Gabala para descubrir el lago Nohur y el teleférico de Tufandag."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Baku Itinerary 5 Days: Baku, Shamakhi & Gabala (2027)",
+      "meta_description": "Baku itinerary 5 days: Baku Old City, Absheron fire sites, Shamakhi and Gabala with drive times and where to stay. Best months April to June and.",
+      "focus_keyword": "baku itinerary 5 days",
+      "keywords": [
+        "baku itinerary 5 days",
+        "baku itinerary 5 days from india",
+        "azerbaijan itinerary 5 days",
+        "baku itinerary 7 days",
+        "baku itinerary 2 days",
+        "baku itinerary for 5 days",
+        "how many days in baku",
+        "what to do in azerbaijan for 5 days"
+      ]
+    },
+    "de": {
+      "seo_title": "Baku Reiseroute 5 Tage: Baku, Schamachi & Gabala (2027)",
+      "meta_description": "Baku-Reiseroute 5 Tage: Baku Altstadt, Feuerstätten auf der Absheron-Halbinsel, Schamachi und Gabala mit Fahrzeiten und Unterkunftstipps. Beste Reisezeit April bis Juni und.",
+      "focus_keyword": "baku itinerary 5 days",
+      "keywords": [
+        "baku itinerary 5 days",
+        "baku itinerary 5 days from india",
+        "azerbaijan itinerary 5 days",
+        "baku itinerary 7 days",
+        "baku itinerary 2 days",
+        "baku itinerary for 5 days",
+        "how many days in baku",
+        "what to do in azerbaijan for 5 days"
+      ]
+    },
+    "fr": {
+      "seo_title": "Itinéraire à Bakou 5 jours : Bakou, Shamakhi et Gabala (2027)",
+      "meta_description": "Itinéraire à Bakou 5 jours : Vieille Ville de Bakou, sites du feu d'Absheron, Shamakhi et Gabala avec temps de trajet et hébergements. Meilleurs mois d'avril à juin et de septembre à novembre.",
+      "focus_keyword": "itinéraire à Bakou 5 jours",
+      "keywords": [
+        "itinéraire à Bakou 5 jours",
+        "itinéraire à Bakou 5 jours depuis l'Inde",
+        "itinéraire en Azerbaïdjan 5 jours",
+        "itinéraire à Bakou 7 jours",
+        "itinéraire à Bakou 2 jours",
+        "itinéraire à Bakou pour 5 jours",
+        "combien de jours à Bakou",
+        "que faire en Azerbaïdjan pendant 5 jours"
+      ]
+    },
+    "ja": {
+      "seo_title": "バクー 5日間プラン：バクー、シャマヒ、ガバラ（2027年）",
+      "meta_description": "バクー 5日間プラン：バクー旧市街、アブシェロン半島の火の聖地、シャマヒとガバラ、所要時間と宿泊先。ベストシーズンは4月から6月。",
+      "focus_keyword": "バクー 5日間の旅程",
+      "keywords": [
+        "バクー 5日間の旅程",
+        "インド発 バクー 5日間の旅程",
+        "アゼルバイジャン 5日間の旅程",
+        "バクー 7日間の旅程",
+        "バクー 2日間の旅程",
+        "バクー 5日間モデルコース",
+        "バクー滞在は何日必要？",
+        "アゼルバイジャン 5日間でできること"
+      ]
+    },
+    "es": {
+      "seo_title": "Itinerario de 5 días en Bakú: Bakú, Shamakhi y Gabala (2027)",
+      "meta_description": "Itinerario de 5 días en Bakú: Ciudad Vieja de Bakú, sitios de fuego de Absheron, Shamakhi y Gabala con tiempos de conducción y dónde alojarse. Mejores meses de abril a junio y.",
+      "focus_keyword": "itinerario de 5 días en Bakú",
+      "keywords": [
+        "itinerario de 5 días en Bakú",
+        "itinerario de 5 días en Bakú desde India",
+        "itinerario de 5 días en Azerbaiyán",
+        "itinerario de 7 días en Bakú",
+        "itinerario de 2 días en Bakú",
+        "itinerario de Bakú para 5 días",
+        "cuántos días en Bakú",
+        "qué hacer en Azerbaiyán durante 5 días"
+      ]
+    }
+  },
+  "contentHash": "4bd02c25a7226fde"
+}

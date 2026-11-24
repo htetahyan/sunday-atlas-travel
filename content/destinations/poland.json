@@ -1,0 +1,433 @@
+{
+  "slug": "poland",
+  "name": {
+    "en": "Poland",
+    "de": "Polen",
+    "fr": "Pologne",
+    "ja": "ポーランド",
+    "es": "Polonia",
+    "zh": "波兰"
+  },
+  "region": {
+    "en": "Central Europe",
+    "de": "Mitteleuropa",
+    "fr": "Europe centrale",
+    "ja": "中央ヨーロッパ",
+    "es": "Europa Central",
+    "zh": "中欧"
+  },
+  "summary": {
+    "en": "Private trips across southern and western Poland: Kraków and Wawel, the Tatras around Zakopane, the Beskid ski resorts, the Christmas markets of Poznań and Wrocław, Karpacz in the Karkonosze, and the limestone cliffs and castles of the Polish Jura.",
+    "de": "Private Reisen durch Süd- und Westpolen: Krakau und der Wawel, die Tatra um Zakopane, die Skiorte der Beskiden, die Weihnachtsmärkte von Posen und Breslau, Karpacz im Riesengebirge sowie die Kalkfelsen und Burgen des Polnischen Jura.",
+    "fr": "Voyages privés dans le sud et l’ouest de la Pologne : Cracovie et le Wawel, les Tatras autour de Zakopane, les stations de ski des Beskides, les marchés de Noël de Poznań et Wrocław, Karpacz dans les Karkonosze, et les falaises calcaires et châteaux du Jura polonais.",
+    "ja": "ポーランド南部・西部を巡るプライベート旅行。クラクフとヴァヴェル城、ザコパネ周辺のタトラ山脈、ベスキディ山脈のスキーリゾート、ポズナンとヴロツワフのクリスマスマーケット、カルコノシェ山地のカルパチ、ポーランド・ジュラ高地の石灰岩の崖と古城。",
+    "es": "Viajes privados por el sur y el oeste de Polonia: Cracovia y el Wawel, los Tatras en torno a Zakopane, las estaciones de esquí de los Beskides, los mercados navideños de Poznan y Breslavia, Karpacz en los Karkonosze y los acantilados calizos y castillos del Jura polaco.",
+    "zh": "私人行程，游览波兰南部和西部：克拉科夫和瓦维尔、扎科帕内周边的塔特拉山、贝斯基德滑雪胜地、波兹南和弗罗茨瓦夫的圣诞市场、卡帕采和卡尔科诺谢山的石灰岩悬崖与城堡。"
+  },
+  "intro": {
+    "en": "Poland works well for a first trip to Europe in winter. Kraków’s Old Town and Christmas market are an easy start, the Tatra and Beskid mountains are a short drive south with beginner-friendly slopes and spa hotels, and Poznań and Wrocław in the west have two of the country’s best-loved Christmas markets. Outside winter, the Polish Jura north of Kraków is a quiet place for walking, cycling and first climbs among limestone cliffs. Every trip here uses 4* or 5* hotels and private transfers.",
+    "de": "Polen eignet sich gut für eine erste Winterreise nach Europa. Die Krakauer Altstadt mit ihrem Weihnachtsmarkt ist ein leichter Einstieg, Tatra und Beskiden liegen eine kurze Fahrt südlich, mit Anfängerpisten und Spa-Hotels, und Posen und Breslau im Westen haben zwei der beliebtesten Weihnachtsmärkte des Landes. Außerhalb des Winters ist der Polnische Jura nördlich von Krakau ein ruhiger Ort zum Wandern, Radfahren und für erste Kletterversuche zwischen Kalkfelsen. Alle Reisen hier nutzen 4*- oder 5*-Hotels und private Transfers.",
+    "fr": "La Pologne se prête bien à un premier voyage d’hiver en Europe. La vieille ville de Cracovie et son marché de Noël sont un départ facile, les Tatras et les Beskides sont à une courte route au sud, avec des pistes pour débutants et des hôtels spa, et Poznań et Wrocław, à l’ouest, ont deux des marchés de Noël les plus appréciés du pays. Hors hiver, le Jura polonais, au nord de Cracovie, est un endroit calme pour marcher, faire du vélo et grimper pour la première fois entre les falaises calcaires. Tous nos voyages ici utilisent des hôtels 4* ou 5* et des transferts privés.",
+    "ja": "ポーランドは、冬のヨーロッパを初めて旅する方にも向いています。クラクフの旧市街とクリスマスマーケットから気軽に始められ、南へ少し走ればタトラ山脈やベスキディ山脈の初心者向けゲレンデとスパホテルがあり、西のポズナンとヴロツワフには国内屈指の人気を誇るクリスマスマーケットがあります。冬以外は、クラクフ北部のポーランド・ジュラ高地が、石灰岩の崖の間でハイキング、サイクリング、初めてのクライミングを楽しめる静かな場所です。どの旅も4～5つ星ホテルと専用車移動です。",
+    "es": "Polonia funciona bien para un primer viaje de invierno a Europa. El casco antiguo de Cracovia y su mercado navideño son un comienzo fácil, los Tatras y los Beskides quedan a poca distancia al sur, con pistas para principiantes y hoteles con spa, y Poznan y Breslavia, al oeste, tienen dos de los mercados navideños más queridos del país. Fuera del invierno, el Jura polaco, al norte de Cracovia, es un lugar tranquilo para caminar, ir en bici y escalar por primera vez entre acantilados calizos. Todos los viajes usan hoteles de 4* o 5* y traslados privados.",
+    "zh": "波兰适合初次欧洲冬季旅行。克拉科夫老城和圣诞市场是轻松的起点，塔特拉山和贝斯基德山车程较短，有适合初学者的滑雪场和温泉酒店；波兹南和弗罗茨瓦夫拥有波兰最受欢迎的两个圣诞市场。冬季之外，克拉科夫以北的波兰侏罗山是徒步、骑行和初次攀爬石灰岩悬崖的安静之地。所有行程均使用4星或5星酒店和私人接送。"
+  },
+  "bestSeasons": {
+    "en": [
+      "Late November to December: Christmas markets in Kraków, Poznań and Wrocław",
+      "December to March: snow in the Tatras and Beskids for skiing, sleigh rides and thermal pools",
+      "Spring to autumn: walking, cycling and climbing in the Polish Jura"
+    ],
+    "de": [
+      "Ende November bis Dezember: Weihnachtsmärkte in Krakau, Posen und Breslau",
+      "Dezember bis März: Schnee in Tatra und Beskiden zum Skifahren, für Schlittenfahrten und Thermalbäder",
+      "Frühling bis Herbst: Wandern, Radfahren und Klettern im Polnischen Jura"
+    ],
+    "fr": [
+      "Fin novembre à décembre : marchés de Noël de Cracovie, Poznań et Wrocław",
+      "Décembre à mars : neige dans les Tatras et les Beskides pour le ski, le traîneau et les bains thermaux",
+      "Du printemps à l’automne : marche, vélo et escalade dans le Jura polonais"
+    ],
+    "ja": [
+      "11月下旬～12月：クラクフ、ポズナン、ヴロツワフのクリスマスマーケット",
+      "12月～3月：タトラ山脈とベスキディ山脈に雪。スキー、馬ぞり、温泉に",
+      "春～秋：ポーランド・ジュラ高地でハイキング、サイクリング、クライミング"
+    ],
+    "es": [
+      "Finales de noviembre a diciembre: mercados navideños de Cracovia, Poznan y Breslavia",
+      "Diciembre a marzo: nieve en los Tatras y los Beskides para esquiar, trineos y aguas termales",
+      "De primavera a otoño: senderismo, bici y escalada en el Jura polaco"
+    ],
+    "zh": [
+      "11月下旬至12月：克拉科夫、波兹南和弗罗茨瓦夫的圣诞市场",
+      "12月至3月：塔特拉山和贝斯基德山有雪，适合滑雪、雪橇和温泉池",
+      "春季至秋季：波兰侏罗山的徒步、骑行和攀岩"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Kraków: Wawel Castle, St Mary’s Basilica, Kazimierz and the Main Square",
+      "Zakopane: Gubałówka, Krupówki Street and the Tatra Mountains",
+      "Beskid Mountains: Szczyrk, Wisła and Ustroń",
+      "Western Poland: Poznań Old Market Square, Wrocław Market Square and Vang Church in Karpacz",
+      "Polish Jura: Ojców National Park and Pieskowa Skała Castle"
+    ],
+    "de": [
+      "Krakau: Wawel, Marienkirche, Kazimierz und Hauptmarkt",
+      "Zakopane: Gubałówka, Krupówki-Straße und Tatra",
+      "Beskiden: Szczyrk, Wisła und Ustroń",
+      "Westpolen: Alter Markt in Posen, Breslauer Marktplatz und Kirche Wang in Karpacz",
+      "Polnischer Jura: Nationalpark Ojców und Burg Pieskowa Skała"
+    ],
+    "fr": [
+      "Cracovie : Wawel, basilique Sainte-Marie, Kazimierz et place du Marché",
+      "Zakopane : Gubałówka, rue Krupówki et monts Tatras",
+      "Beskides : Szczyrk, Wisła et Ustroń",
+      "Ouest de la Pologne : Vieux Marché de Poznań, place du Marché de Wrocław et église de Wang à Karpacz",
+      "Jura polonais : parc national d’Ojców et château de Pieskowa Skała"
+    ],
+    "ja": [
+      "クラクフ：ヴァヴェル城、聖マリア教会、カジミェシュ、中央広場",
+      "ザコパネ：グバウフカ、クルプフキ通り、タトラ山脈",
+      "ベスキディ山脈：シュチルク、ヴィスワ、ウストロン",
+      "西ポーランド：ポズナン旧市場広場、ヴロツワフ市場広場、カルパチのヴァン教会",
+      "ポーランド・ジュラ高地：オイツフ国立公園、ピェスコヴァ・スカワ城"
+    ],
+    "es": [
+      "Cracovia: Wawel, basílica de Santa María, Kazimierz y Plaza del Mercado",
+      "Zakopane: Gubałówka, calle Krupówki y montes Tatras",
+      "Beskides: Szczyrk, Wisła y Ustroń",
+      "Oeste de Polonia: Plaza del Mercado Viejo de Poznan, Plaza del Mercado de Breslavia e iglesia de Wang en Karpacz",
+      "Jura polaco: parque nacional de Ojców y castillo de Pieskowa Skała"
+    ],
+    "zh": [
+      "克拉科夫：瓦维尔城堡、圣玛丽大教堂、卡齐米日区和主广场",
+      "扎科帕内：古巴卢夫卡、克鲁普夫基街和塔特拉山",
+      "贝斯基德山：什奇日克、维斯瓦和乌斯特龙",
+      "波兰西部：波兹南旧市场广场、弗罗茨瓦夫市场广场和卡帕采的瓦恩教堂",
+      "波兰侏罗山：奥日茨国家公园和皮耶斯科瓦斯卡拉城堡"
+    ]
+  },
+  "visaNote": {
+    "en": "Poland is in the Schengen Area. Many passport holders can visit for up to 90 days in any 180 without a visa, while others need a Schengen visa before travel. Check the current rules for your passport well before you book flights; we can send a confirmation letter for your hotels if your application needs one.",
+    "de": "Polen gehört zum Schengen-Raum. Viele Reisende können bis zu 90 Tage innerhalb von 180 Tagen visumfrei einreisen, andere brauchen vorab ein Schengen-Visum. Prüfen Sie die aktuellen Regeln für Ihren Pass rechtzeitig vor der Flugbuchung; bei Bedarf senden wir Ihnen eine Hotelbestätigung für den Antrag.",
+    "fr": "La Pologne fait partie de l’espace Schengen. De nombreux voyageurs peuvent y séjourner jusqu’à 90 jours sur 180 sans visa, d’autres doivent obtenir un visa Schengen avant le départ. Vérifiez les règles en vigueur pour votre passeport bien avant de réserver vos vols ; nous pouvons envoyer une confirmation d’hôtel si votre demande l’exige.",
+    "ja": "ポーランドはシェンゲン協定加盟国です。多くの国籍の方は180日間のうち最大90日までビザなしで滞在できますが、事前にシェンゲンビザが必要な国籍もあります。航空券を予約する前に、お持ちのパスポートの最新ルールをご確認ください。申請にホテル確認書が必要な場合はお送りします。",
+    "es": "Polonia forma parte del espacio Schengen. Muchos viajeros pueden quedarse hasta 90 días en un periodo de 180 sin visado, mientras que otros necesitan un visado Schengen antes de viajar. Compruebe las normas vigentes para su pasaporte antes de reservar vuelos; si su solicitud lo requiere, le enviamos una confirmación de hotel.",
+    "zh": "波兰属于申根区。许多护照持有人可在180天内免签停留最多90天，其他人需提前办理申根签证。请在预订航班前查询您护照的最新规定；若签证申请需要，我们可提供酒店确认信。"
+  },
+  "heroGradient": [
+    "#7A1F2B",
+    "#1E2A3A"
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "When is the best time to visit Poland?",
+        "de": "Wann ist die beste Reisezeit für Polen?",
+        "fr": "Quelle est la meilleure période pour visiter la Pologne ?",
+        "ja": "ポーランド旅行のベストシーズンは？",
+        "es": "¿Cuál es la mejor época para visitar Polonia?",
+        "zh": "什么时候去波兰最好？"
+      },
+      "a": {
+        "en": "For Christmas markets, late November to just before Christmas. For snow in the Tatras and Beskids, December to March. For walking and cycling in the Jura, spring to autumn.",
+        "de": "Für Weihnachtsmärkte Ende November bis kurz vor Weihnachten. Für Schnee in Tatra und Beskiden Dezember bis März. Zum Wandern und Radfahren im Jura Frühling bis Herbst.",
+        "fr": "Pour les marchés de Noël, de fin novembre à juste avant Noël. Pour la neige dans les Tatras et les Beskides, de décembre à mars. Pour la marche et le vélo dans le Jura, du printemps à l’automne.",
+        "ja": "クリスマスマーケットなら11月下旬からクリスマス直前まで。タトラ山脈やベスキディ山脈の雪なら12月～3月。ジュラ高地でのハイキングやサイクリングなら春～秋です。",
+        "es": "Para los mercados navideños, de finales de noviembre a justo antes de Navidad. Para la nieve en los Tatras y los Beskides, de diciembre a marzo. Para caminar e ir en bici por el Jura, de primavera a otoño.",
+        "zh": "圣诞市场：11月下旬至圣诞前夕。塔特拉山和贝斯基德山滑雪：12月至3月。侏罗山徒步和骑行：春季至秋季。"
+      }
+    },
+    {
+      "q": {
+        "en": "How cold is Poland in winter?",
+        "de": "Wie kalt ist Polen im Winter?",
+        "fr": "Quel froid fait-il en Pologne en hiver ?",
+        "ja": "冬のポーランドはどのくらい寒いですか？",
+        "es": "¿Cuánto frío hace en Polonia en invierno?",
+        "zh": "波兰冬天有多冷？"
+      },
+      "a": {
+        "en": "In Kraków, Poznań and Wrocław, daytime temperatures are usually around 0 °C, a few degrees either side. In the mountains it is colder, often well below zero at night. A warm coat, hat, gloves and waterproof boots are enough for the cities; for skiing, the gear can be rented locally.",
+        "de": "In Krakau, Posen und Breslau liegen die Tagestemperaturen meist um 0 °C, ein paar Grad darüber oder darunter. In den Bergen ist es kälter, nachts oft deutlich unter null. Für die Städte reichen warmer Mantel, Mütze, Handschuhe und wasserfeste Stiefel; Skiausrüstung kann vor Ort geliehen werden.",
+        "fr": "À Cracovie, Poznań et Wrocław, les températures de jour tournent en général autour de 0 °C, à quelques degrés près. En montagne, il fait plus froid, souvent bien en dessous de zéro la nuit. Un manteau chaud, un bonnet, des gants et des bottes imperméables suffisent en ville ; le matériel de ski se loue sur place.",
+        "ja": "クラクフ、ポズナン、ヴロツワフの日中の気温は通常0℃前後です。山はさらに寒く、夜は氷点下を大きく下回ることもあります。街歩きには暖かいコート、帽子、手袋、防水ブーツで十分で、スキー用具は現地でレンタルできます。",
+        "es": "En Cracovia, Poznan y Breslavia, las temperaturas diurnas suelen rondar los 0 °C, unos grados arriba o abajo. En la montaña hace más frío, a menudo muy por debajo de cero por la noche. Para las ciudades bastan un abrigo, gorro, guantes y botas impermeables; el equipo de esquí se alquila allí.",
+        "zh": "克拉科夫、波兹南和弗罗茨瓦夫白天通常在0℃左右，上下几度。山区更冷，夜间常降至零下几度。城市出行一件厚外套、帽子、手套和防水靴即可；滑雪装备可在当地租赁。"
+      }
+    },
+    {
+      "q": {
+        "en": "Which airports do the Poland trips use?",
+        "de": "Welche Flughäfen nutzen die Polen-Reisen?",
+        "fr": "Quels aéroports utilisent les voyages en Pologne ?",
+        "ja": "ポーランドの旅で利用する空港は？",
+        "es": "¿Qué aeropuertos usan los viajes a Polonia?",
+        "zh": "波兰行程使用哪些机场？"
+      },
+      "a": {
+        "en": "Most trips start and end at Kraków Airport (KRK); the Christmas markets trip uses Poznań Airport (POZ). From the Gulf, there are direct flights to Kraków and Warsaw, or one-stop connections through other European hubs.",
+        "de": "Die meisten Reisen beginnen und enden am Flughafen Krakau (KRK); die Weihnachtsmarkt-Reise nutzt den Flughafen Posen (POZ). Aus der Golfregion gibt es Direktflüge nach Krakau und Warschau oder Verbindungen mit einem Umstieg über andere europäische Drehkreuze.",
+        "fr": "La plupart des voyages commencent et finissent à l’aéroport de Cracovie (KRK) ; le voyage des marchés de Noël utilise l’aéroport de Poznań (POZ). Depuis le Golfe, il existe des vols directs vers Cracovie et Varsovie, ou des correspondances via d’autres hubs européens.",
+        "ja": "ほとんどの旅はクラクフ空港（KRK）発着で、クリスマスマーケットの旅はポズナン空港（POZ）を利用します。湾岸地域からはクラクフやワルシャワへの直行便、または他のヨーロッパのハブ空港経由の便があります。",
+        "es": "La mayoría de los viajes empiezan y terminan en el aeropuerto de Cracovia (KRK); el viaje de mercados navideños usa el de Poznan (POZ). Desde el Golfo hay vuelos directos a Cracovia y Varsovia, o conexiones con una escala en otros centros europeos.",
+        "zh": "大多数行程在克拉科夫机场（KRK）开始和结束；圣诞市场行程使用波兹南机场（POZ）。从海湾地区有直飞克拉科夫和华沙的航班，或经其他欧洲枢纽的一站中转航班。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Poland: winter trips, Christmas markets & the Polish Jura",
+      "de": "Polen: Winterreisen, Weihnachtsmärkte & Polnischer Jura",
+      "fr": "Pologne : voyages d’hiver, marchés de Noël et Jura polonais",
+      "ja": "ポーランド：冬の旅、クリスマスマーケット、ジュラ高地",
+      "es": "Polonia: viajes de invierno, mercados navideños y el Jura polaco",
+      "zh": "波兰：冬季旅行、圣诞市场与波兰侏罗山"
+    },
+    "packages": {
+      "en": "Itineraries in Poland",
+      "de": "Reiserouten in Polen",
+      "fr": "Itinéraires en Pologne",
+      "ja": "ポーランドのツアープラン",
+      "es": "Itinerarios en Polonia",
+      "zh": "波兰行程"
+    },
+    "highlights": {
+      "en": "Places our Poland trips visit",
+      "de": "Orte, die unsere Polen-Reisen besuchen",
+      "fr": "Les lieux de nos voyages en Pologne",
+      "ja": "ポーランドの旅で訪れる場所",
+      "es": "Lugares que visitan nuestros viajes a Polonia",
+      "zh": "我们波兰行程造访的地方"
+    },
+    "seasons": {
+      "en": "Best time to visit Poland",
+      "de": "Beste Reisezeit für Polen",
+      "fr": "Meilleure période pour visiter la Pologne",
+      "ja": "ポーランドのベストシーズン",
+      "es": "Mejor época para visitar Polonia",
+      "zh": "什么时候去波兰最好"
+    },
+    "faq": {
+      "en": "Poland travel FAQs",
+      "de": "Häufige Fragen zu Polen-Reisen",
+      "fr": "Questions fréquentes sur la Pologne",
+      "ja": "ポーランド旅行のよくある質問",
+      "es": "Preguntas frecuentes sobre Polonia",
+      "zh": "波兰旅行常见问题"
+    }
+  },
+  "seo": {
+    "en": {
+      "seo_title": "Poland Tours: Kraków, Zakopane, Christmas Markets & Polish Jura",
+      "meta_description": "Private Poland trips with 4–5* hotels: Kraków and Zakopane in winter, Beskid skiing, Christmas markets in Poznań and Wrocław, and outdoor days in the Polish Jura.",
+      "focus_keyword": "poland tours",
+      "keywords": [
+        "poland tours",
+        "krakow zakopane tour",
+        "poland christmas markets tour",
+        "poland ski holiday",
+        "polish jura"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Polen-Reisen: Krakau, Zakopane, Weihnachtsmärkte & Jura",
+      "meta_description": "Private Polen-Reisen mit 4–5*-Hotels: Krakau und Zakopane im Winter, Skifahren in den Beskiden, Weihnachtsmärkte in Posen und Breslau und Outdoor-Tage im Polnischen Jura.",
+      "focus_keyword": "polen reisen",
+      "keywords": [
+        "polen reisen",
+        "krakau zakopane reise",
+        "weihnachtsmärkte polen",
+        "skiurlaub polen",
+        "polnischer jura"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Voyages en Pologne : Cracovie, Zakopane, marchés de Noël, Jura",
+      "meta_description": "Voyages privés en Pologne en hôtels 4–5* : Cracovie et Zakopane en hiver, ski dans les Beskides, marchés de Noël de Poznań et Wrocław, plein air dans le Jura polonais.",
+      "focus_keyword": "voyage pologne",
+      "keywords": [
+        "voyage pologne",
+        "cracovie zakopane",
+        "marchés de noël pologne",
+        "ski pologne",
+        "jura polonais"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "ポーランド旅行：クラクフ、ザコパネ、クリスマスマーケット、ジュラ高地",
+      "meta_description": "4～5つ星ホテルで巡るポーランドのプライベート旅行。冬のクラクフとザコパネ、ベスキディ山脈のスキー、ポズナンとヴロツワフのクリスマスマーケット、ポーランド・ジュラ高地のアウトドア。",
+      "focus_keyword": "ポーランド 旅行",
+      "keywords": [
+        "ポーランド 旅行",
+        "クラクフ ザコパネ",
+        "ポーランド クリスマスマーケット",
+        "ポーランド スキー",
+        "ポーランド ジュラ"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Viajes a Polonia: Cracovia, Zakopane, mercados navideños y Jura",
+      "meta_description": "Viajes privados a Polonia con hoteles de 4–5*: Cracovia y Zakopane en invierno, esquí en los Beskides, mercados navideños de Poznan y Breslavia y aire libre en el Jura polaco.",
+      "focus_keyword": "viajes a polonia",
+      "keywords": [
+        "viajes a polonia",
+        "cracovia zakopane",
+        "mercados navideños polonia",
+        "esquí polonia",
+        "jura polaco"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "波兰旅游：克拉科夫、扎科帕内、圣诞市场与波兰汇拉",
+      "meta_description": "私人波兰之旅，提供4–5星级酒店：冬季的克拉科夫和扎科帕内、别斯基德滑雪、波兹南和弗罗茨瓦夫的圣诞市场，以及波兰汇拉的户外活动。",
+      "focus_keyword": "波兰旅游 克拉科夫 扎科帕内",
+      "keywords": [
+        "波兰旅游 克拉科夫 扎科帕内",
+        "波兰冬季旅游 克拉科夫 扎科帕内",
+        "波兰圣诞市场 波兹南 弗罗茨瓦夫",
+        "波兰比斯基德滑雪旅游",
+        "波兰波兰日拉户外旅游",
+        "波兰四五星级酒店旅游",
+        "波兰克拉科夫扎科帕内冬季行程",
+        "波兰圣诞市场旅游团"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "published": true,
+  "sample": false,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519755/sunday-atlas/destinations/poland/st-mary-s-basilica-commons-116652126.jpg",
+        "width": 1920,
+        "height": 1471,
+        "credit": {
+          "author": "Ввласенко",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_St._Barbara_and_St._Mary%27s_Basilica._View_from_the_Maly_Rynek._Krakow,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "St Mary's Basilica in Kraków, Poland, with its red tower and Gothic church under a cloudy sky.",
+        "de": "St Mary's Basilica in Kraków, Poland, with its red tower and Gothic church under a cloudy sky.",
+        "fr": "St Mary's Basilica in Kraków, Poland, with its red tower and Gothic church under a cloudy sky.",
+        "ja": "St Mary's Basilica in Kraków, Poland, with its red tower and Gothic church under a cloudy sky.",
+        "es": "St Mary's Basilica in Kraków, Poland, with its red tower and Gothic church under a cloudy sky.",
+        "zh": "波兰克拉科夫圣玛丽大教堂，红色塔楼与哥特式教堂，天空多云。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519758/sunday-atlas/destinations/poland/kazimierz-commons-175857848.jpg",
+        "width": 1920,
+        "height": 1280,
+        "credit": {
+          "author": "Igor123121",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_Hall_of_the_former_City_of_Kazimierz,_1_Wolnica_square._Kazimierz,_Krak%C3%B3w,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "A white building with arched windows in Kazimierz, Poland.",
+        "de": "A white building with arched windows in Kazimierz, Poland.",
+        "fr": "A white building with arched windows in Kazimierz, Poland.",
+        "ja": "A white building with arched windows in Kazimierz, Poland.",
+        "es": "A white building with arched windows in Kazimierz, Poland.",
+        "zh": "波兰卡齐米日一座带拱形窗户的白色建筑。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519761/sunday-atlas/destinations/poland/main-square-commons-175268982.jpg",
+        "width": 1920,
+        "height": 1280,
+        "credit": {
+          "author": "Igor123121",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mennica_tenement_house,_47_Main_Market_Square,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Main Square, Poland",
+        "de": "Main Square, Poland",
+        "fr": "Main Square, Poland",
+        "ja": "Main Square, Poland",
+        "es": "Main Square, Poland",
+        "zh": "波兰主广场"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519763/sunday-atlas/destinations/poland/guba-owka-commons-150909725.jpg",
+        "width": 1920,
+        "height": 1280,
+        "credit": {
+          "author": "Cybularny",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Zakopane_Guba%C5%82%C3%B3wka_z_Drogi_pod_Reglami,_1.jpg",
+          "provider": "commons",
+          "required": false
+        }
+      },
+      "alt": {
+        "en": "Gubałówka hillside with a trailer in a meadow near Zakopane, Poland.",
+        "de": "Gubałówka hillside with a trailer in a meadow near Zakopane, Poland.",
+        "fr": "Gubałówka hillside with a trailer in a meadow near Zakopane, Poland.",
+        "ja": "Gubałówka hillside with a trailer in a meadow near Zakopane, Poland.",
+        "es": "Gubałówka hillside with a trailer in a meadow near Zakopane, Poland.",
+        "zh": "波兰扎科帕内附近草地上的古巴卢夫卡山坡，有一辆拖车。"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519752/sunday-atlas/destinations/poland/wawel-castle-commons-84437632.jpg",
+    "width": 1920,
+    "height": 577,
+    "credit": {
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krakow_-_Wawel_from_Vistula_-_4.jpg",
+      "provider": "commons",
+      "required": true
+    },
+    "alt": {
+      "en": "Wawel Castle in Poland viewed from the Vistula River with boats docked below.",
+      "de": "Wawel Castle in Poland viewed from the Vistula River with boats docked below.",
+      "fr": "Wawel Castle in Poland viewed from the Vistula River with boats docked below.",
+      "ja": "Wawel Castle in Poland viewed from the Vistula River with boats docked below.",
+      "es": "Wawel Castle in Poland viewed from the Vistula River with boats docked below.",
+      "zh": "从维斯瓦河看波兰瓦维尔城堡，下方停泊着船只。"
+    }
+  }
+}

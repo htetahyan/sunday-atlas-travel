@@ -1,0 +1,422 @@
+# Publish the static export in out/ to the existing Cloudflare Pages
+# direct-upload project (sunday-atlas-travel) on every push to main,
+# including commits made by Decap CMS.
+#
+# Deploy runs from the repo root so ./functions and wrangler.toml are picked up.
+# The Workers AI binding (AI) and the CHAT_RL KV namespace come from wrangler.toml.
+# No chat API secret is required. wrangler@3 reads the Pages [ai] binding
+# (Pages wrangler config since 3.45; npx wrangler@3 is 3.114).
+#
+# Machine translation runs in the `translate` job before deploy. It calls
+# POST /api/translate on the deployed site. Pages secrets are separate from
+# wrangler.toml (this file has no [vars]), so a deploy does not create or
+# erase the Pages production secret.
+#
+# Required secrets:
+#   CLOUDFLARE_API_TOKEN          (Account > Cloudflare Pages > Edit only)
+#   CLOUDFLARE_ACCOUNT_ID
+#   NEXT_PUBLIC_SUPABASE_URL
+#   NEXT_PUBLIC_SUPABASE_ANON_KEY
+#   TRANSLATE_SECRET              (same value as the Pages production secret
+#                                 TRANSLATE_SECRET; names only, never print it)
+# Required repository variables:
+#   NEXT_PUBLIC_SITE_URL
+#   NEXT_PUBLIC_INDEXABLE
+# Optional repository variable:
+#   NEXT_PUBLIC_WHATSAPP_NUMBER
+# The Cloudflare API token needs only Account > Cloudflare Pages > Edit.
+#
+# Sequence: translate (commit to main when copy changed) -> deploy that sha.
+# A second deploy happens only when the endpoint was missing (pending=true):
+# translate-after-deploy waits, translates, pushes, and workflow_dispatch runs
+# this file again. GITHUB_TOKEN pushes do not trigger the push workflow.
+
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main
+      - cms/sanity
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-deploy-main
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    # Skip when this push is already a translation commit, or when the actor is
+    # the bot that workflow_dispatch uses after bootstrap. Deploy still runs.
+    if: ${{ github.ref_name == 'main' && github.actor != 'github-actions[bot]' && !contains(github.event.head_commit.message || '', '[auto-translate]') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+      actions: write
+    outputs:
+      sha: ${{ steps.publish.outputs.sha }}
+      pending: ${{ steps.gate.outputs.pending || steps.mt.outputs.pending || 'false' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect content changes
+        id: detect
+        shell: bash
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set -euo pipefail
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          before="${BEFORE}"
+          if [[ -z "${before}" || "${before}" =~ ^0+$ ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if ! changes="$(git diff --name-only "${before}" "${GITHUB_SHA}" -- content/)"; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [[ -n "${changes}" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Node
+        if: steps.detect.outputs.run == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Skip when TRANSLATE_SECRET is empty
+        id: gate
+        if: steps.detect.outputs.run == 'true'
+        shell: bash
+        env:
+          TRANSLATE_SECRET: ${{ secrets.TRANSLATE_SECRET }}
+        run: |
+          set -euo pipefail
+          if [[ -z "${TRANSLATE_SECRET}" ]]; then
+            echo "::warning::TRANSLATE_SECRET is empty. Skipping machine translation."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "pending=false" >> "$GITHUB_OUTPUT"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Translate content
+        id: mt
+        if: steps.detect.outputs.run == 'true' && steps.gate.outputs.skip != 'true'
+        shell: bash
+        env:
+          TRANSLATE_URL: ${{ vars.TRANSLATE_BASE_URL || 'https://sundayatlastravel.com' }}/api/translate
+          TRANSLATE_SECRET: ${{ secrets.TRANSLATE_SECRET }}
+        run: node scripts/auto-translate.mjs
+
+      - name: Commit translations
+        id: commit
+        if: steps.mt.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- content/packages content/destinations content/pages
+          if [[ -d content/.translations ]]; then
+            git add -- content/.translations
+          fi
+          if git diff --cached --quiet; then
+            echo "sha=${GITHUB_SHA}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore(content): machine translations [auto-translate]"
+          push_once() {
+            git pull --rebase origin main && git push origin HEAD:main
+          }
+          if ! push_once; then
+            git rebase --abort || true
+            git pull --rebase origin main && git push origin HEAD:main
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Select deploy sha
+        id: publish
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -n "${{ steps.commit.outputs.sha }}" ]]; then
+            echo "sha=${{ steps.commit.outputs.sha }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "sha=${GITHUB_SHA}" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy:
+    needs: translate
+    if: ${{ always() && needs.translate.result != 'cancelled' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.translate.outputs.sha || github.sha }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static export (bounded retry, never regenerate blog posts)
+        run: |
+          node scripts/sync-from-sanity.mjs
+          node scripts/export-cms.mjs
+          node scripts/build-chat-index.mjs
+          node scripts/retry-command.mjs -- ./node_modules/.bin/next build
+          npm run postbuild
+        env:
+          NEXT_PUBLIC_SITE_URL: https://sundayatlastravel.com
+          NEXT_PUBLIC_INDEXABLE: "true"
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
+          NEXT_PUBLIC_WHATSAPP_NUMBER: ${{ vars.NEXT_PUBLIC_WHATSAPP_NUMBER }}
+
+      - name: Stamp exact blog export for live verification
+        env:
+          DEPLOY_SHA: ${{ needs.translate.outputs.sha || github.sha }}
+        run: node scripts/blog-publication.mjs prepare "$DEPLOY_SHA"
+
+      - name: Retain immutable export for deployment-only recovery
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-export-${{ github.run_id }}-${{ github.run_attempt }}
+          path: out/
+          compression-level: 9
+          include-hidden-files: true
+          retention-days: 1
+
+      - name: Guard export and indexability
+        shell: bash
+        env:
+          NEXT_PUBLIC_SITE_URL: https://sundayatlastravel.com
+          NEXT_PUBLIC_INDEXABLE: "true"
+        run: |
+          set -euo pipefail
+          if [[ ! -f out/index.html ]]; then
+            echo "::error::Refusing to deploy: out/index.html is missing. The Next.js static export did not produce a site root."
+            exit 1
+          fi
+          site_url="${NEXT_PUBLIC_SITE_URL:-}"
+          site_url="${site_url%/}"
+          indexable="${NEXT_PUBLIC_INDEXABLE:-}"
+          if [[ "$site_url" == *.pages.dev && "$indexable" != "false" ]]; then
+            echo "::error::Refusing to deploy: NEXT_PUBLIC_SITE_URL ends with .pages.dev but NEXT_PUBLIC_INDEXABLE is not exactly \"false\". A pages.dev host must not be indexable."
+            exit 1
+          fi
+
+      - name: Guard Pages function and wrangler config
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ ! -f functions/api/chat.ts ]]; then
+            echo "::error::Refusing to deploy: functions/api/chat.ts is missing."
+            exit 1
+          fi
+          if [[ ! -f wrangler.toml ]]; then
+            echo "::error::Refusing to deploy: wrangler.toml is missing. Deploy runs from the repo root so ./functions and wrangler.toml are picked up."
+            exit 1
+          fi
+
+      - name: Sync subscribe secret to Pages
+        # /api/subscribe stores sign-ups in Sanity. Pages secrets apply to the next
+        # deployment, so this runs before the deploy. Value is piped, never echoed.
+        shell: bash
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          SANITY_API_WRITE_TOKEN: ${{ secrets.SANITY_API_WRITE_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [[ -z "${SANITY_API_WRITE_TOKEN}" ]]; then
+            echo "::warning::SANITY_API_WRITE_TOKEN is empty; /api/subscribe will answer 503."
+            exit 0
+          fi
+          if [[ "${{ github.ref_name }}" != "main" ]]; then
+            exit 0
+          fi
+          printf '%s' "$SANITY_API_WRITE_TOKEN" | npx --yes wrangler@3 pages secret put SANITY_SUBSCRIBE_TOKEN \
+            --project-name sunday-atlas-travel \
+            || echo "::warning::Could not set SANITY_SUBSCRIBE_TOKEN on Pages; /api/subscribe may answer 503."
+
+      - name: Sync newsletter unsubscribe secret to Pages
+        # /api/unsubscribe verifies HMAC links signed by scripts/newsletter.mjs. Value is piped, never echoed.
+        shell: bash
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          NEWSLETTER_UNSUB_SECRET: ${{ secrets.NEWSLETTER_UNSUB_SECRET }}
+        run: |
+          set -euo pipefail
+          if [[ -z "${NEWSLETTER_UNSUB_SECRET}" || "${{ github.ref_name }}" != "main" ]]; then
+            exit 0
+          fi
+          printf '%s' "$NEWSLETTER_UNSUB_SECRET" | npx --yes wrangler@3 pages secret put NEWSLETTER_UNSUB_SECRET \
+            --project-name sunday-atlas-travel \
+            || echo "::warning::Could not set NEWSLETTER_UNSUB_SECRET on Pages; /api/unsubscribe links will show 'not valid'."
+
+      - name: Deploy to Cloudflare Pages
+        shell: bash
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          COMMIT_MSG: ${{ github.event.head_commit.message || 'manual run' }}
+          DEPLOY_SHA: ${{ needs.translate.outputs.sha || github.sha }}
+        run: |
+          set -euo pipefail
+          # Commit messages are untrusted. Keep them in COMMIT_MSG (never inline
+          # in the script) and collapse newlines so they cannot break the command.
+          # Run from the repo root so ./functions and wrangler.toml are picked up.
+          # wrangler@3 applies the Pages [ai] binding from wrangler.toml.
+          safe_msg="$(printf '%s' "$COMMIT_MSG" | tr '\r\n' '  ' | tr -s ' ' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
+          safe_msg="${safe_msg:0:240}"
+          if [[ -z "$safe_msg" ]]; then
+            safe_msg="manual run"
+          fi
+          # The translation commit's subject already contains [auto-translate].
+          # Append it to the Pages message when that commit is the one deployed.
+          subject="$(git log -1 --format=%s 2>/dev/null || true)"
+          if [[ "$subject" == *"[auto-translate]"* && "$safe_msg" != *"[auto-translate]"* ]]; then
+            safe_msg="${safe_msg} [auto-translate]"
+            safe_msg="${safe_msg:0:240}"
+          fi
+          # Both attempts upload the same stamped export; no generator is called.
+          node scripts/retry-command.mjs -- npx --yes wrangler@3 pages deploy out \
+            --project-name sunday-atlas-travel \
+            --branch "${{ github.ref_name == 'main' && 'main' || 'cms-sanity' }}" \
+            --commit-hash "$DEPLOY_SHA" \
+            --commit-message "$safe_msg" \
+            --commit-dirty=true
+
+      - name: Verify live blog pages before claiming publication
+        if: ${{ github.ref_name == 'main' }}
+        run: node scripts/blog-publication.mjs verify https://sundayatlastravel.com
+
+      - name: Retain publication verification evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: blog-publication-${{ github.run_id }}-${{ github.run_attempt }}
+          path: blog-publication-report.json
+          if-no-files-found: ignore
+          retention-days: 1
+
+      - name: Report generated versus verified publication
+        if: always()
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          const text = fs.existsSync('blog-publication-report.json')
+            ? (() => { const r = JSON.parse(fs.readFileSync('blog-publication-report.json', 'utf8')); return `Exported/generated posts: ${r.generatedPosts}; verified published: ${r.publishedPosts}; all locale pages loaded with current build/content markers: ${r.liveVerified}. SHA: ${r.sha}`; })()
+            : 'Publication NOT verified. A generated post, successful build, or deployment dispatch is not proof that a page is live.';
+          fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, `### Blog publication\n${text}\n`);
+          JS
+
+      - name: Mark merged blog posts in Sanity
+        # content/blog-merged.json lists posts folded into a stronger one (301 in public/_redirects).
+        # Pushes published=false + mergedInto for the old post and the merged copy of the target,
+        # only when Sanity still has the stale version. Token is read from env, never echoed.
+        if: ${{ github.ref_name == 'main' }}
+        shell: bash
+        env:
+          SANITY_API_WRITE_TOKEN: ${{ secrets.SANITY_API_WRITE_TOKEN }}
+        run: node scripts/sanity-sync-merged-blog.mjs || echo "::warning::Could not sync merged blog posts to Sanity."
+
+      - name: Ping IndexNow
+        # Free; ownership is the key file public/<key>.txt. Sends sitemap URLs whose lastmod is in the
+        # last 3 days, or the whole sitemap when the commit message contains [indexnow-all].
+        if: ${{ github.ref_name == 'main' }}
+        shell: bash
+        env:
+          NEXT_PUBLIC_SITE_URL: https://sundayatlastravel.com
+          COMMIT_MSG: ${{ github.event.head_commit.message || '' }}
+        run: |
+          if [[ "$COMMIT_MSG" == *"[indexnow-all]"* ]]; then export INDEXNOW_ALL=1; fi
+          node scripts/indexnow-ping.mjs
+
+  translate-after-deploy:
+    needs: [translate, deploy]
+    if: ${{ always() && needs.translate.outputs.pending == 'true' && needs.deploy.result == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+      actions: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Wait for the Pages function
+        run: sleep 30
+
+      - name: Translate against production
+        id: mt
+        shell: bash
+        env:
+          TRANSLATE_URL: ${{ vars.TRANSLATE_BASE_URL || 'https://sundayatlastravel.com' }}/api/translate
+          TRANSLATE_SECRET: ${{ secrets.TRANSLATE_SECRET }}
+        run: node scripts/auto-translate.mjs
+
+      - name: Commit translations
+        id: commit
+        if: steps.mt.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- content/packages content/destinations content/pages
+          if [[ -d content/.translations ]]; then
+            git add -- content/.translations
+          fi
+          if git diff --cached --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore(content): machine translations [auto-translate]"
+          push_once() {
+            git pull --rebase origin main && git push origin HEAD:main
+          }
+          if ! push_once; then
+            git rebase --abort || true
+            git pull --rebase origin main && git push origin HEAD:main
+          fi
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Deploy the translation commit
+        if: steps.commit.outputs.pushed == 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --ref main

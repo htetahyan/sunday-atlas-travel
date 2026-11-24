@@ -1,0 +1,129 @@
+{
+  "title": "Travel Guides & Blog",
+  "seo": {
+    "en": {
+      "seo_title": "Central Asia, Caucasus, Poland & Harbin Travel Blog (2027)",
+      "meta_description": "2027 travel blog: itineraries, best time to visit, things to do and day trips in Uzbekistan, Kazakhstan, Kyrgyzstan, the Caucasus, Poland and Harbin.",
+      "focus_keyword": "central asia travel guide",
+      "keywords": [
+        "central asia travel guide",
+        "uzbekistan travel guide",
+        "top places to visit in uzbekistan",
+        "top places to visit in kazakhstan",
+        "harbin ice festival guide",
+        "darvaza gas crater guide",
+        "pamir highway guide",
+        "armenia travel guide",
+        "azerbaijan travel guide"
+      ],
+      "og_image": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1776711349/sunday-atlas/uzbekistan-registan-samarkand.jpg",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Reiseblog Zentralasien, Kaukasus, Polen & Harbin (2027)",
+      "meta_description": "Reiseblog 2027: Reisepläne, beste Reisezeit, Sehenswürdigkeiten und Tagesausflüge in Usbekistan, Kasachstan, Kirgisistan, im Kaukasus, in Polen und Harbin.",
+      "focus_keyword": "zentralasien reiseführer",
+      "keywords": [
+        "zentralasien reiseführer",
+        "usbekistan reiseführer",
+        "usbekistan sehenswürdigkeiten",
+        "kasachstan sehenswürdigkeiten",
+        "harbin eisfestival tipps",
+        "darwaza gaskrater reise"
+      ],
+      "og_image": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1776711349/sunday-atlas/uzbekistan-registan-samarkand.jpg",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Blog voyage Asie centrale, Caucase, Pologne et Harbin (2027)",
+      "meta_description": "Blog voyage 2027 : itinéraires, meilleure période, que faire et excursions en Ouzbékistan, Kazakhstan, Kirghizistan, Caucase, Pologne et à Harbin.",
+      "focus_keyword": "guide voyage asie centrale",
+      "keywords": [
+        "guide voyage asie centrale",
+        "guide voyage ouzbékistan",
+        "que voir en ouzbékistan",
+        "que voir à almaty",
+        "festival de glace harbin guide",
+        "cratère de darvaza guide"
+      ],
+      "og_image": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1776711349/sunday-atlas/uzbekistan-registan-samarkand.jpg",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "中央アジア・コーカサス・ポーランド・ハルビン旅行ブログ（2027）",
+      "meta_description": "2027年の旅行ブログ。ウズベキスタン、カザフスタン、キルギス、コーカサス、ポーランド、ハルビンのモデルコース、ベストシーズン、見どころ、日帰り旅行。",
+      "focus_keyword": "中央アジア 旅行ガイド",
+      "keywords": [
+        "中央アジア 旅行ガイド",
+        "ウズベキスタン 観光 おすすめ",
+        "カザフスタン アルマトイ 観光",
+        "ハルビン 氷祭り ガイド",
+        "地獄の門 トルクメニスタン 行き方"
+      ],
+      "og_image": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1776711349/sunday-atlas/uzbekistan-registan-samarkand.jpg",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Blog de viajes: Asia Central, Cáucaso, Polonia y Harbin (2027)",
+      "meta_description": "Blog de viajes 2027: itinerarios, mejor época, qué hacer y excursiones en Uzbekistán, Kazajistán, Kirguistán, el Cáucaso, Polonia y Harbin.",
+      "focus_keyword": "guía de viaje asia central",
+      "keywords": [
+        "guía de viaje asia central",
+        "guía de uzbekistán",
+        "qué ver en uzbekistán",
+        "qué ver en almaty",
+        "guía festival de hielo harbin",
+        "cráter de darvaza guía"
+      ],
+      "og_image": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1776711349/sunday-atlas/uzbekistan-registan-samarkand.jpg",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "faq_title": {
+    "en": "Questions about our travel blog & routes",
+    "de": "Fragen zu unserem Reiseblog & Routen",
+    "fr": "Questions sur notre blog voyage et nos itinéraires",
+    "ja": "旅行ブログとモデルコースに関するよくある質問",
+    "es": "Preguntas sobre nuestro blog de viajes y rutas"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "Can I book the exact routes described in these blog posts?",
+        "de": "Kann ich die in diesen Blogbeiträgen beschriebenen Routen genau so buchen?",
+        "fr": "Puis-je réserver exactement les itinéraires décrits dans ces articles ?",
+        "ja": "ブログ記事に書かれているルートをそのままツアーとして申し込めますか？",
+        "es": "¿Puedo reservar exactamente las rutas descritas en estos artículos?"
+      },
+      "a": {
+        "en": "Yes. Every section in our blog posts links directly to the private Sunday Atlas Travel itinerary that covers that landmark or route. You can view the full day-by-day tour page or request a custom quote customized for your travel dates and group size.",
+        "de": "Ja. Jeder Abschnitt in unseren Blogbeiträgen verweist direkt auf die passende Privatreise von Sunday Atlas Travel. Sie können den vollständigen Reiseverlauf einsehen oder ein persönliches Angebot für Ihre Wunschdaten anfordern.",
+        "fr": "Oui. Chaque section de nos articles renvoie directement au circuit privé Sunday Atlas Travel correspondant. Vous pouvez consulter le programme complet jour par jour ou demander un devis personnalisé pour vos dates.",
+        "ja": "はい。各記事のセクション内に、該当するSunday Atlas Travelのプライベートツアーへのリンクを設けています。日別の詳細スケジュールをご確認のうえ、ご希望の日程・人数に合わせたお見積もりをご依頼いただけます。",
+        "es": "Sí. Cada sección de nuestros artículos enlaza directamente con el tour privado de Sunday Atlas Travel que recorre ese lugar. Puede consultar el itinerario completo día a día o solicitar un presupuesto personalizado."
+      }
+    },
+    {
+      "q": {
+        "en": "Can we combine places from different blog posts into one custom trip?",
+        "de": "Können wir Orte aus verschiedenen Blogbeiträgen zu einer individuellen Reise kombinieren?",
+        "fr": "Pouvons-nous combiner des étapes de différents articles en un seul circuit privé ?",
+        "ja": "複数の記事で紹介している観光地を組み合わせて1つの旅行にできますか？",
+        "es": "¿Podemos combinar lugares de diferentes artículos en un solo tour privado?"
+      },
+      "a": {
+        "en": "Absolutely. Many travelers combine a Silk Road route in Uzbekistan with alpine lakes around Almaty, or pair Armenia and Azerbaijan in the South Caucasus. Mention the places you want to combine in your inquiry and we will build a single written quote.",
+        "de": "Selbstverständlich. Viele Reisende kombinieren die Seidenstraße in Usbekistan mit den Bergseen rund um Almaty oder verbinden Armenien und Aserbaidschan im Südkaukasus. Nennen Sie uns Ihre Wunschorte in der Anfrage und wir erstellen ein gemeinsames Angebot.",
+        "fr": "Absolument. De nombreux voyageurs combinent la Route de la soie en Ouzbékistan avec les lacs alpins d’Almaty, ou associent l’Arménie et l’Azerbaïdjan. Indiquez les étapes souhaitées dans votre demande et nous préparerons un devis unique.",
+        "ja": "もちろんです。ウズベキスタンのシルクロード都市とアルマトイ近郊の湖・渓谷を組み合わせたり、アルメニアとアゼルバイジャンを周遊したりするプランも人気です。ご希望の訪問地をお知らせいただければ、1つの個別お見積もりを作成いたします。",
+        "es": "Por supuesto. Muchos viajeros combinan la Ruta de la Seda en Uzbekistán con los lagos alpinos de Almaty, o unen Armenia y Azerbaiyán en el Cáucaso Sur. Indique los lugares que desea unir en su consulta y prepararemos un presupuesto único."
+      }
+    }
+  ],
+  "sections": []
+}

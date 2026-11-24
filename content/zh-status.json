@@ -1,0 +1,277 @@
+{
+  "items": {
+    "pages/contact": {
+      "source": "f8bc03c43190428d",
+      "translatedAt": "2026-11-02T15:35:10.736Z",
+      "models": []
+    },
+    "pages/privacy": {
+      "source": "f8bc03c43190428d",
+      "translatedAt": "2026-11-02T15:35:14.531Z",
+      "models": []
+    },
+    "pages/terms": {
+      "source": "f8bc03c43190428d",
+      "translatedAt": "2026-11-02T15:35:18.008Z",
+      "models": []
+    },
+    "pages/about": {
+      "source": "b16a2d91fc20ff74",
+      "translatedAt": "2026-11-02T15:35:33.487Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "pages/destinations": {
+      "source": "4012e6bb45149030",
+      "translatedAt": "2026-11-02T15:35:48.485Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "pages/faq": {
+      "source": "0fc2a6d89ae23dab",
+      "translatedAt": "2026-11-02T15:35:57.459Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "pages/home": {
+      "source": "35ba5899df0f17e6",
+      "translatedAt": "2026-11-02T15:37:45.941Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "pages/how-it-works": {
+      "source": "a039645d421e5c66",
+      "translatedAt": "2026-11-02T15:36:16.556Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "pages/packages": {
+      "source": "f03277e8e4234569",
+      "translatedAt": "2026-11-02T15:36:38.429Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/kazakhstan": {
+      "source": "8c8557b57ee2942f",
+      "translatedAt": "2026-11-02T15:37:59.664Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/uzbekistan": {
+      "source": "25f2ece683bb7dca",
+      "translatedAt": "2026-11-02T15:56:03.967Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/poland": {
+      "source": "09e5d28437d71176",
+      "translatedAt": "2026-11-03T01:13:57.009Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/kyrgyzstan": {
+      "source": "ac39fa7b484fe6e8",
+      "translatedAt": "2026-11-03T08:44:44.383Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/armenia": {
+      "source": "cf0ec9a57f6d000a",
+      "translatedAt": "2026-11-03T08:45:03.921Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/azerbaijan": {
+      "source": "300324198771ca64",
+      "translatedAt": "2026-11-03T11:16:32.206Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/tajikistan": {
+      "source": "3abc43cb0279abda",
+      "translatedAt": "2026-11-03T21:37:06.986Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/china": {
+      "source": "562959cca09cb27d",
+      "translatedAt": "2026-11-03T21:37:18.349Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "destinations/turkmenistan": {
+      "source": "6231c1fc85adf19b",
+      "translatedAt": "2026-11-04T01:36:57.934Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/ala-archa-burana-tower-day-trip": {
+      "source": "1ae101ef6b614f76",
+      "translatedAt": "2026-11-04T18:32:58.624Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/armenia-cultural-discovery-5-days": {
+      "source": "b7d68c812405557c",
+      "translatedAt": "2026-11-04T18:33:24.672Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/armenia-legends-4-days": {
+      "source": "882765fba70605a7",
+      "translatedAt": "2026-11-04T22:37:16.864Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/azerbaijan-explorer-4-days": {
+      "source": "77c0415f504d12eb",
+      "translatedAt": "2026-11-05T01:43:56.795Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/azerbaijan-journey-5-days": {
+      "source": "946b7914d17496d2",
+      "translatedAt": "2026-11-05T10:30:07.609Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/bogdanovich-glacier-day-hike": {
+      "source": "f8d4cf27264d92c7",
+      "translatedAt": "2026-11-05T10:30:49.712Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/charyn-kolsai-kaindy-2-days": {
+      "source": "6768e8ed93e6f523",
+      "translatedAt": "2026-11-05T18:34:26.962Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/chimgan-mountains-charvak-lake-day-trip": {
+      "source": "b3c1ca0f0052a687",
+      "translatedAt": "2026-11-05T18:34:40.760Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/darvaza-gas-crater-day-trip-from-ashgabat": {
+      "source": "a4a46e809475f88b",
+      "translatedAt": "2026-11-05T23:37:45.010Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/garni-geghard-lake-sevan-day-trip": {
+      "source": "ca6173a6f5456b3c",
+      "translatedAt": "2026-11-06T19:39:08.262Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/gobustan-mud-volcanoes-absheron-day-trip": {
+      "source": "d72d5655e4359a80",
+      "translatedAt": "2026-11-06T19:39:21.392Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/harbin-ice-festival-city-highlights-day-tour": {
+      "source": "63ae8b50ffdd21b3",
+      "translatedAt": "2026-11-06T23:06:36.152Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/harbin-snow-town-changbai-mountain-7-days": {
+      "source": "dc7cf91864af0b4e",
+      "translatedAt": "2026-11-07T08:10:28.297Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/iskanderkul-lake-fann-mountains-day-trip": {
+      "source": "0c924fec7d25ac5c",
+      "translatedAt": "2026-11-07T08:10:39.013Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/krakow-jura-outdoor-7-days": {
+      "source": "7a4fc07a0535eaaf",
+      "translatedAt": "2026-11-07T15:33:37.957Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/krakow-zakopane-winter-7-days": {
+      "source": "f485a55f9b17971f",
+      "translatedAt": "2026-11-07T22:14:38.542Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/learn-to-ski-poland-beskid-mountains-9-days": {
+      "source": "b298ec5b74943230",
+      "translatedAt": "2026-11-07T22:14:49.840Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/poland-christmas-markets-poznan-wroclaw-karpacz-9-days": {
+      "source": "d2a45a6288f9f8ca",
+      "translatedAt": "2026-11-08T02:45:41.392Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/samarkand-day-tour-by-afrosiyob-train": {
+      "source": "a5da44bd23c45359",
+      "translatedAt": "2026-11-08T06:36:45.497Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/tashkent-city-chimgan-mountains-5-days": {
+      "source": "871378a33069283d",
+      "translatedAt": "2026-11-08T09:34:52.970Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    },
+    "packages/turgen-gorge-assy-plateau-2-days": {
+      "source": "0caea10787d82e55",
+      "translatedAt": "2026-11-08T13:50:12.970Z",
+      "models": [
+        "nvidia/nemotron-3.5-super-vl-120b-a12b"
+      ]
+    }
+  },
+  "failures": {
+    "packages/3-stans-discovery-14-days": 3,
+    "packages/five-stans-long-road-22-days": 3,
+    "packages/four-stans-odyssey-18-days": 3,
+    "packages/krakow-katowice-beskids-active-winter-9-days": 3
+  }
+}

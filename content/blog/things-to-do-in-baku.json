@@ -1,0 +1,1310 @@
+{
+  "slug": "things-to-do-in-baku",
+  "published": true,
+  "featured": false,
+  "category": "top-places",
+  "destination": "azerbaijan",
+  "countries": [],
+  "publishedAt": "2026-11-01T07:31:48+04:00",
+  "updatedAt": "2026-11-18T08:55:41+04:00",
+  "readingTimeMinutes": 13,
+  "relatedPackages": [
+    "azerbaijan-journey-5-days",
+    "azerbaijan-explorer-4-days",
+    "gobustan-mud-volcanoes-absheron-day-trip"
+  ],
+  "title": {
+    "en": "Things to Do in Baku: Old City to Flame Towers (2027)",
+    "de": "Baku Sehenswürdigkeiten: Altstadt bis Flame Towers (2027)",
+    "fr": "Que faire à Bakou : vieille ville et Flame Towers (2027)",
+    "ja": "バクーで楽しむこと：旧市街からフレイムタワーズまで（2027）",
+    "es": "Cosas que hacer en Bakú: Ciudad Vieja y Flame Towers (2027)"
+  },
+  "subtitle": {
+    "en": "Top sights, best months to visit, and private tours covering the capital and Absheron Peninsula",
+    "de": "Top-Sehenswürdigkeiten, beste Reisemonate und Privattouren durch die Hauptstadt und die Halbinsel Abscheron",
+    "fr": "Les principaux sites, les meilleures périodes pour visiter, et des circuits privés couvrant la capitale et la péninsule d'Absheron",
+    "ja": "首都とアブシェロン半島を巡るおすすめの観光スポット、ベストシーズン、プライベートツアー",
+    "es": "Los mejores lugares, las mejores épocas para visitar y tours privados que cubren la capital y la península de Absherón"
+  },
+  "summary": {
+    "en": "Discover Baku's UNESCO Old City, modern Flame Towers, Caspian Boulevard, and Heydar Aliyev Center with practical timing and tour options for 2027.",
+    "de": "Bakus UNESCO-Altstadt, die modernen Flame Towers, die Kaspische Promenade und das Heydar-Aliyev-Zentrum mit praktischen Zeitangaben und Touroptionen für 2027.",
+    "fr": "Découvrez la Vieille Ville classée à l'UNESCO de Bakou, les Flame Towers modernes, le boulevard caspien et le centre Heydar Aliyev avec des conseils pratiques sur les horaires et les options de circuits pour 2027.",
+    "ja": "ユネスコ世界遺産の旧市街、現代的なフレイムタワーズ、カスピ海沿いのプロムナード、ヘイダル・アリエフ・センターをご紹介。2027年旅行に向けた実用的な所要時間とツアーオプションを掲載しています。",
+    "es": "Descubre la Ciudad Vieja de Bakú, Patrimonio de la Humanidad por la UNESCO, las modernas Torres de Llamas, el Bulevar del Caspio y el Centro Heydar Aliyev con información práctica sobre horarios y opciones de tour para 2027."
+  },
+  "intro": {
+    "en": "April to June and September to November are the best months for Baku, with pleasant Caspian breezes and comfortable walking temperatures. A 4-day private tour covers the UNESCO Old City, Heydar Aliyev Center, and Absheron fire sites, while a 5-day option adds Gabala's mountain scenery. The Gobustan day trip runs year-round for rock art and mud volcanoes. This post details the top experiences, logistics, and how to fit them into a short stay.",
+    "de": "April bis Juni und September bis November sind die besten Monate für Baku, mit angenehmer Brise vom Kaspischen Meer und guten Temperaturen zum Spazieren. Eine 4-tägige Privattour umfasst die UNESCO-Altstadt, das Heydar-Aliyev-Zentrum und die Feuerorte auf Abscheron, eine 5-tägige Variante ergänzt die Berglandschaft von Gabala. Der Tagesausflug nach Gobustan zu Felsbildern und Schlammvulkanen ist ganzjährig möglich. Dieser Beitrag zeigt die wichtigsten Erlebnisse, die Logistik und wie Sie alles in einen kurzen Aufenthalt einbauen.",
+    "fr": "Avril à juin et septembre à novembre sont les meilleures périodes pour visiter Bakou, avec des brises caspiennes agréables et des températures idéales pour marcher. Un circuit privé de 4 jours couvre la Vieille Ville classée à l'UNESCO, le centre Heydar Aliyev et les sites du feu d'Absheron, tandis qu'une option de 5 jours ajoute les paysages montagneux de Gabala. L'excursion d'une journée à Gobustan fonctionne toute l'année pour l'art rupestre et les volcans de boue. Cet article détaille les meilleures expériences, la logistique et comment les intégrer dans un court séjour.",
+    "ja": "4月から6月、9月から11月がバクー訪問のベストシーズンです。心地よいカスピ海の風と快適な歩行温度が楽しめます。4日間のプライベートツアーではユネスコ旧市街、ヘイダル・アリエフ・センター、アブシェロン半島の火の聖地を巡り、5日間のオプションではガバラの山岳景観が加わります。ゴブスタン日帰りツアーは年間を通じて運行し、岩絵と泥火山を訪れます。本記事では、トップ体験、ロジスティクス、短期滞在への組み込み方を詳しく解説します。",
+    "es": "De abril a junio y de septiembre a noviembre son los mejores meses para visitar Bakú, con agradables brisas del Caspio y temperaturas cómodas para caminar. Un tour privado de 4 días cubre la Ciudad Vieja de la UNESCO, el Centro Heydar Aliyev y los sitios de fuego de Absherón, mientras que la opción de 5 días añade el paisaje montañoso de Gabala. La excursión de un día a Gobustan se realiza durante todo el año para ver arte rupestre y volcanes de lodo. Este artículo detalla las mejores experiencias, la logística y cómo organizarlas en una estancia corta."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793503844/sunday-atlas/blog/things-to-do-in-baku/baku-commons-200672139.jpg",
+    "width": 1920,
+    "height": 1280,
+    "alt": {
+      "en": "The golden dome of Heydar Mosque in Baku, Azerbaijan under a clear blue sky.",
+      "de": "Die goldene Kuppel der Heydar-Moschee in Baku, Aserbaidschan unter einem klaren blauen Himmel.",
+      "fr": "Le dôme doré de la mosquée Heydar à Bakou, en Azerbaïdjan, sous un ciel bleu clair.",
+      "ja": "アゼルバイジャン、バクーのヘイダル・モスクの黄金のドーム。澄んだ青空の下。",
+      "es": "La cúpula dorada de la mezquita Heydar en Bakú, Azerbaiyán, bajo un cielo azul despejado."
+    },
+    "credit": {
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dome_of_Taza_Pir_Mosque,_Baku,_Azerbaijan.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "old-city-unesco",
+      "rankNumber": 1,
+      "placeName": {
+        "en": "Old City",
+        "de": "Old City",
+        "fr": "Vieille Ville",
+        "ja": "旧市街",
+        "es": "Ciudad Vieja"
+      },
+      "heading": {
+        "en": "1. UNESCO Old City (Icherisheher) and Maiden Tower",
+        "de": "1. UNESCO Old City (Icherisheher) and Maiden Tower",
+        "fr": "1. Vieille Ville (Icherisheher) classée à l'UNESCO et tour de la Vierge",
+        "ja": "1. ユネスコ旧市街（イチェリシェヘル）と乙女の塔",
+        "es": "1. Ciudad Vieja (Icherisheher) y Torre de la Doncella"
+      },
+      "paragraphs": {
+        "en": [
+          "The UNESCO Old City (Icherisheher) is a compact walled quarter in central Baku where a half-day guided walk covers the 12th-century Maiden Tower and the limestone Palace of the Shirvanshahs. The site sits at Caspian sea level and the circuit takes about three hours on foot with a guide. This visit is included on Day 2 of our 4-day Baku tour that runs from April to June and September to November. Early morning starts avoid the midday heat and the cruise-ship crowds that gather near the Double Gates. Comfortable shoes are essential for the uneven cobblestones and the narrow stairways inside the tower.",
+          "The Maiden Tower rises 29 meters and its spiral staircase leads to a rooftop panorama over the Caspian and the modern Flame Towers across the bay. Inside, a small museum explains the tower’s debated origins as a defensive keep, a Zoroastrian temple or an astronomical observatory. The Palace of the Shirvanshahs complex includes the divankhana, the royal mosque and the mausoleum, all built from local limestone in the 15th century. Guides point out the carved portal inscriptions and the underground bathhouse that once served the court. Photography is allowed in the courtyards but flash is restricted inside the tower chambers.",
+          "The Old City walls form a rough rectangle about 500 meters by 300 meters so the entire heritage zone can be crossed in 15 minutes on foot. Most visitors enter through the Double Gates on the western side near the Metro station Icherisheher on the Red Line. The area has cafes, carpet shops and the miniature book museum but the guided portion stays focused on the two UNESCO monuments. After the tour, the guide can recommend a lunch spot near the Palace gates before the afternoon program continues to the Heydar Aliyev Center. The walk back to most central Baku hotels takes under 20 minutes.",
+          "Spring and autumn bring daytime temperatures between 18 and 25 Celsius, ideal for climbing the tower stairs and exploring the palace courtyards without overheating. Summer afternoons can exceed 30 Celsius and the stone surfaces radiate heat, so a hat and water bottle are advised. Winter days are shorter and the tower closes earlier, around 17:00, while the palace complex stays open until 18:00. The ASAN e-Visa for most nationalities is typically issued within three working days and allows a 30-day stay that covers this tour comfortably. Our private driver meets guests at the hotel lobby each morning for the short transfer to the Old City entrance."
+        ],
+        "de": [
+          "Die UNESCO-Altstadt (Icherisheher) ist ein kompakter, ummauerter Stadtteil im Zentrum Bakus, wo ein halbtägiger geführter Spaziergang den 12. Jahrhundert alten Jungfernturm und den Palast der Schirwanschahs aus Kalkstein umfasst. Die Stätte liegt auf Meereshöhe des Kaspischen Meeres, und der Rundgang dauert zu Fuß mit einem Guide etwa drei Stunden. Dieser Besuch ist am Tag 2 unserer 4-tägigen Baku-Reise enthalten, die von April bis Juni und von September bis November stattfindet. Frühmorgendliche Starts vermeiden die Mittagshitze und die Kreuzfahrtschiff-Gruppen, die sich an den Doppeltoren versammeln. Bequeme Schuhe sind wegen der unebenen Kopfsteinpflaster und der engen Treppen im Turm unerlässlich.",
+          "Der Maiden Tower ragt 29 Meter hoch, und seine Wendeltreppe führt zu einer Dachterrasse mit Panoramablick über das Kaspische Meer und die modernen Flame Towers auf der anderen Seite der Bucht. Im Inneren erklärt ein kleines Museum die umstrittenen Ursprünge des Turms als Verteidigungsbastion, zoroastrischer Tempel oder astronomische Observatorium. Der Komplex des Palasts der Schirwanschahs umfasst die Divankhana, die königliche Moschee und das Mausoleum, die alle im 15. Jahrhundert aus einheimischem Kalkstein erbaut wurden. Guides weisen auf die eingravierten Portalinschriften und das unterirdische Bad hin, das einst dem Hof diente. Fotografieren ist in den Innenhöfen erlaubt, Blitzlicht ist jedoch in den Turmkammern eingeschränkt.",
+          "Die Altstadtmauern bilden ein ungefähres Rechteck von etwa 500 mal 300 Metern, sodass die gesamte Denkmalzone in 15 Minuten zu Fuß durchquert werden kann. Die meisten Besucher betreten das Gebiet durch die Double Gates auf der Westseite in der Nähe der U-Bahn-Station Icherisheher an der Roten Linie. Die Gegend bietet Cafés, Teppichläden und das Miniaturbuchmuseum, doch der geführte Teil konzentriert sich auf die beiden UNESCO-Denkmäler. Nach der Tour kann der Guide ein Mittagslokal in der Nähe der Palasttore empfehlen, bevor das Nachmittagsprogramm zum Heydar Aliyev Center weitergeht. Der Rückweg zu den meisten zentralen Hotels in Baku dauert weniger als 20 Minuten.",
+          "Frühling und Herbst bringen Tagestemperaturen zwischen 18 und 25 Grad Celsius, ideal zum Besteigen der Turmtreppe und Erkunden der Palasthöfe ohne Überhitzung. Sommernachmittage können über 30 Grad Celsius steigen, und die Steinflächen strahlen Hitze ab, daher werden ein Hut und eine Wasserflasche empfohlen. Wintertage sind kürzer, und der Turm schließt früher, gegen 17:00 Uhr, während der Palastkomplex bis 18:00 Uhr geöffnet bleibt. Das ASAN e-Visum für die meisten Nationalitäten wird in der Regel innerhalb von drei Werktagen ausgestellt und erlaubt einen 30-tägigen Aufenthalt, der diese Reise bequem abdeckt. Unser privater Fahrer holt die Gäste jeden Morgen in der Hotelhalle ab für den kurzen Transfer zum Eingang der Altstadt."
+        ],
+        "fr": [
+          "La Vieille Ville classée à l'UNESCO (Icherisheher) est un quartier compact et fortifié au centre de Bakou où une visite guidée d'une demi-journée couvre la tour de la Vierge du XIIe siècle et le palais de pierre calcaire des Chirvanchahs. Le site se situe au niveau de la mer Caspienne et le circuit dure environ trois heures à pied avec un guide. Cette visite est incluse le jour 2 de notre circuit de 4 jours à Bakou qui se déroule d'avril à juin et de septembre à novembre. Les départs tôt le matin évitent la chaleur de midi et les foules de croisiéristes qui se rassemblent près des Portes doubles. Des chaussures confortables sont indispensables pour les pavés irréguliers et les escaliers étroits à l'intérieur de la tour.",
+          "La tour de la Vierge s'élève à 29 mètres et son escalier en colimaçon mène à un panorama sur la Caspienne et les Flame Towers modernes de l'autre côté de la baie. À l'intérieur, un petit musée explique les origines débattues de la tour en tant que donjon défensif, temple zoroastrien ou observatoire astronomique. Le complexe du palais des Chirvanchahs comprend le divankhana, la mosquée royale et le mausolée, tous construits en calcaire local au XVe siècle. Les guides signalent les inscriptions sculptées sur le portail et le bain souterrain qui servait autrefois la cour. La photographie est autorisée dans les cours, mais le flash est interdit à l'intérieur des chambres de la tour.",
+          "Les murailles de la Vieille Ville forment un rectangle approximatif de 500 mètres sur 300 mètres, de sorte que toute la zone patrimoniale peut être traversée en 15 minutes à pied. La plupart des visiteurs entrent par les Portes doubles sur le côté ouest, près de la station de métro Icherisheher sur la ligne rouge. Le quartier compte des cafés, des boutiques de tapis et le musée du livre miniature, mais la partie guidée reste concentrée sur les deux monuments classés à l'UNESCO. Après la visite, le guide peut recommander un endroit pour déjeuner près des portes du palais avant que le programme de l'après-midi ne se poursuive vers le centre Heydar Aliyev. Le retour à pied vers la plupart des hôtels du centre de Bakou prend moins de 20 minutes.",
+          "Le printemps et l'automne apportent des températures diurnes comprises entre 18 et 25 degrés Celsius, idéales pour monter les escaliers de la tour et explorer les cours du palais sans avoir trop chaud. Les après-midi d'été peuvent dépasser 30 degrés Celsius et les surfaces en pierre rayonnent la chaleur, donc un chapeau et une gourde sont conseillés. Les journées d'hiver sont plus courtes et la tour ferme plus tôt, vers 17h00, tandis que le complexe du palais reste ouvert jusqu'à 18h00. Le visa électronique ASAN pour la plupart des nationalités est généralement délivré sous trois jours ouvrables et permet un séjour de 30 jours qui couvre ce circuit confortablement. Notre chauffeur privé accueille les clients dans le hall de l'hôtel chaque matin pour le court transfert jusqu'à l'entrée de la Vieille Ville."
+        ],
+        "ja": [
+          "ユネスコ旧市街（イチェリシェヘル）は、バクー中心部にあるコンパクトな城壁で囲まれた地区です。半日のガイド付きウォークで、12世紀の乙女の塔と石灰岩のシルヴァンシャー宮殿を巡ります。カスピ海の海抜に位置し、ガイド付きの周回コースは徒歩で約3時間かかります。この訪問は、4月から6月、9月から11月に運行する当社の4日間バクーツアーの2日目に含まれています。早朝スタートで、正午の暑さとダブル・ゲーツ付近に集まるクルーズ船の観光客を避けられます。不整地のコブレストーンと塔内の狭い階段のため、歩きやすい靴が必須です。",
+          "乙女の塔は高さ29メートルで、螺旋階段を登るとカスピ海と湾の向こう側にあるモダンなフレイム・タワーズのパノラマが広がります。内部には小さな博物館があり、塔の起源について防御用の要塞、ゾロアスター教の神殿、天文台としての説が議論されています。シルヴァンシャー宮殿の複合施設には、ディヴァンカーナ、王室モスク、霊廟が含まれ、すべて15世紀に地元の石灰岩で建てられました。ガイドは彫刻されたポータルの碑文や、かつて宮廷に仕えていた地下浴場を指摘します。中庭での撮影は許可されていますが、塔内の部屋ではフラッシュ撮影が制限されています。",
+          "旧市街の城壁は約500メートル×300メートルの粗い長方形を形成しており、遺産地区全体を徒歩15分で横断できます。ほとんどの訪問者は西側のダブル・ゲーツから入場し、レッドラインのイチェリシェヘル地下鉄駅の近くです。この地区にはカフェ、絨毯店、ミニチュア本博物館がありますが、ガイド付き部分は2つのユネスコ記念碑に集中します。ツアー後、ガイドは宮殿の門近くの昼食スポットを提案し、午後のプログラムはヘイダル・アリエフ・センターへと続きます。バクー中心部のほとんどのホテルへの徒歩での戻りは20分未満です。",
+          "春と秋は日中の気温が18〜25度で、塔の階段を登ったり宮殿の中庭を探索したりするのに理想的で、暑さを気にする必要がありません。夏の午後は30度を超え、石の表面が熱を放射するため、帽子と水筒が推奨されます。冬は日が短く、塔は約17時に閉館し、宮殿複合施設は18時まで開いています。ASAN e-Visaはほとんどの国籍の方に対して通常3営業日以内に発行され、30日間の滞在を許可するため、このツアーを快適にカバーできます。当社のプライベートドライバーが毎朝ホテルのロビーでゲストをお迎えし、旧市街の入口まで短い送迎を行います。"
+        ],
+        "es": [
+          "La Ciudad Vieja (Icherisheher) de la UNESCO es un barrio amurallado y compacto en el centro de Bakú donde un recorrido guiado de medio día cubre la Torre de la Doncella del siglo XII y el palacio de los Shirvanshahs de piedra caliza. El sitio se encuentra al nivel del mar Caspio y el circuito dura unas tres horas a pie con un guía. Esta visita está incluida en el día 2 de nuestro tour de 4 días por Bakú, que se realiza de abril a junio y de septiembre a noviembre. Salir temprano por la mañana evita el calor del mediodía y las multitudes de cruceristas que se reúnen cerca de las Puertas Dobles. El calzado cómodo es esencial para los adoquines irregulares y las estrechas escaleras dentro de la torre.",
+          "La Torre de la Doncella se eleva 29 metros y su escalera de caracol conduce a una vista panorámica del Caspio y las modernas Torres de Llamas al otro lado de la bahía. En su interior, un pequeño museo explica los orígenes debatidos de la torre como fortaleza defensiva, templo zoroástrico u observatorio astronómico. El complejo del palacio de los Shirvanshahs incluye el divankhana, la mezquita real y el mausoleo, todos construidos con piedra caliza local en el siglo XV. Los guías señalan las inscripciones talladas en el portal y el baño subterráneo que servía a la corte. Está permitido tomar fotografías en los patios, pero el uso de flash está restringido dentro de las cámaras de la torre.",
+          "Las murallas de la Ciudad Vieja forman un rectángulo aproximado de 500 metros por 300 metros, por lo que toda la zona patrimonial se puede cruzar en 15 minutos a pie. La mayoría de los visitantes entran por las Puertas Dobles, en el lado occidental, cerca de la estación de metro Icherisheher de la Línea Roja. El área tiene cafeterías, tiendas de alfombras y el museo del libro en miniatura, pero la parte guiada se centra en los dos monumentos de la UNESCO. Después del tour, el guía puede recomendar un lugar para almorzar cerca de las puertas del palacio antes de que continúe el programa de la tarde hacia el Centro Heydar Aliyev. El regreso a la mayoría de los hoteles del centro de Bakú toma menos de 20 minutos.",
+          "La primavera y el otoño traen temperaturas diurnas entre 18 y 25 grados Celsius, ideales para subir las escaleras de la torre y explorar los patios del palacio sin pasar calor. Las tardes de verano pueden superar los 30 grados Celsius y las superficies de piedra irradian calor, por lo que se recomienda un sombrero y una botella de agua. Los días de invierno son más cortos y la torre cierra más temprano, alrededor de las 17:00, mientras que el complejo del palacio permanece abierto hasta las 18:00. La e-Visa ASAN para la mayoría de las nacionalidades se emite normalmente en tres días hábiles y permite una estancia de 30 días que cubre este tour cómodamente. Nuestro conductor privado recibe a los huéspedes en el vestíbulo del hotel cada mañana para el corto traslado a la entrada de la Ciudad Vieja."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "12th-century Maiden Tower rooftop views over the Caspian",
+          "Palace of the Shirvanshahs limestone complex and royal mosque",
+          "Half-day guided walk included on Day 2 of the 4-day tour"
+        ],
+        "de": [
+          "Ausblicke vom Dach des 12. Jahrhunderts alten Jungfrauenturms über das Kaspische Meer",
+          "Palast der Schirwanschahs, Kalkstein-Komplex und königliche Moschee",
+          "Halbtägige geführte Wanderung am Tag 2 der 4-tägigen Tour inklusive"
+        ],
+        "fr": [
+          "Vues sur la Caspienne depuis le toit de la Tour de la Jeune Fille, du XIIe siècle",
+          "Complexe de calcaire du Palais des Chirvanchahs et mosquée royale",
+          "Visite guidée d'une demi-journée incluse le jour 2 du circuit de 4 jours"
+        ],
+        "ja": [
+          "12世紀の乙女の塔屋上からカスピ海を一望",
+          "シルヴァンシャー宮殿の石灰岩建築群と王室モスク",
+          "4日間ツアー2日目に含まれる半日ガイド付きウォーク"
+        ],
+        "es": [
+          "Vistas al Caspio desde la azotea de la Torre de la Doncella, del siglo XII",
+          "Complejo de piedra caliza del Palacio de los Shirvanshahs y mezquita real",
+          "Visita guiada de medio día incluida el Día 2 del tour de 4 días"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Best months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure période",
+            "ja": "ベストシーズン",
+            "es": "Meses recomendados"
+          },
+          "value": {
+            "en": "April to June, September to November",
+            "de": "April bis Juni, September bis November",
+            "fr": "Avril à juin, septembre à novembre",
+            "ja": "4月から6月、9月から11月",
+            "es": "De abril a junio, de septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Tour day",
+            "de": "Reisetag",
+            "fr": "Jour du circuit",
+            "ja": "ツアー日",
+            "es": "Día del tour"
+          },
+          "value": {
+            "en": "Day 2 of 4-day private tour",
+            "de": "Tag 2 der 4-tägigen Privatreise",
+            "fr": "Jour 2 du circuit privé de 4 jours",
+            "ja": "4日間プライベートツアー2日目",
+            "es": "Día 2 del tour privado de 4 días"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "4 Days / 3 Nights",
+            "de": "4 Tage / 3 Nächte",
+            "fr": "4 jours / 3 nuits",
+            "ja": "4日間 / 3泊",
+            "es": "4 días / 3 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $726 USD / person",
+            "de": "Ab $726 USD / Person",
+            "fr": "À partir de $726 USD / personne",
+            "ja": "$726 USD〜 / 1名",
+            "es": "Desde $726 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925523/sunday-atlas/j0ld3twup8wdmhghf4by.jpg",
+        "width": 1000,
+        "height": 558,
+        "alt": {
+          "en": "Azerbaijan landscape and landmarks on our tour, photo 1",
+          "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 1",
+          "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 1",
+          "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真1）",
+          "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 1"
+        },
+        "caption": {
+          "en": "Old City",
+          "de": "Old City",
+          "fr": "Vieille Ville",
+          "ja": "旧市街",
+          "es": "Ciudad Vieja"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-explorer-4-days"
+    },
+    {
+      "id": "heydar-aliyev-center",
+      "rankNumber": 2,
+      "placeName": {
+        "en": "Heydar Aliyev Center",
+        "de": "Heydar Aliyev Center",
+        "fr": "Centre Heydar Aliyev",
+        "ja": "ヘイダル・アリエフ・センター",
+        "es": "Centro Heydar Aliyev"
+      },
+      "heading": {
+        "en": "2. Heydar Aliyev Center by Zaha Hadid",
+        "de": "2. Heydar Aliyev Center von Zaha Hadid",
+        "fr": "2. Centre Heydar Aliyev par Zaha Hadid",
+        "ja": "2. ザハ・ハディド設計のヘイダル・アリエフ・センター",
+        "es": "2. Centro Heydar Aliyev de Zaha Hadid"
+      },
+      "paragraphs": {
+        "en": [
+          "The Heydar Aliyev Center sits about 8 km from the Old City, a 20-minute drive along Heydar Aliyev Avenue, and its fluid white shell rises without sharp angles across a 10-hectare park. Inside, the main hall reaches 25 meters at its highest curve and houses rotating exhibitions on Azerbaijani carpets, contemporary art and national history. The building stays open daily from 10:00 to 18:00 except Mondays, and April to June plus September to November bring comfortable temperatures for walking the outdoor ramps. A private guided stop here is included on Day 2 of both the 4-day and 5-day Baku itineraries, with an English-speaking driver handling the transfer. Allow at least 90 minutes to see the permanent collection and the temporary galleries.",
+          "The center’s design by Zaha Hadid won the Design Museum’s Design of the Year award in 2014, and its seamless concrete skin uses a space-frame system that eliminates interior columns. Visitors enter through a low canopy that opens into a continuous ramp spiraling up to the second-floor exhibition level, making the route fully accessible. Photography is permitted in most halls without flash, and the on-site cafe serves coffee and light snacks from 10:30 to 17:30. The surrounding park includes shaded benches and a shallow reflecting pool that mirrors the white facade in late afternoon light. Evening visits in summer show the building lit by a programmed LED sequence that changes color every 30 minutes.",
+          "From the center it is a 15-minute drive north to the Flame Towers or a 10-minute drive south back to the Caspian Sea Boulevard, so the stop fits neatly between Old City morning walks and Highland Park sunset views. The 4-day explorer tour schedules the center after the Palace of the Shirvanshahs and before the Absheron Peninsula fire sites on Day 2, keeping total driving that day under three hours. Spring months bring blooming tulip beds along the approach road, while autumn offers clear skies for architectural photography. The driver waits on site, so luggage can stay in the vehicle if you continue to the next stop. Tickets are pre-arranged, so there is no queue at the entrance.",
+          "The center also contains a 1,000-seat auditorium that hosts the Baku Jazz Festival each October and occasional contemporary dance performances; check the official schedule if your dates align. A small gift shop near the exit sells catalogues, silk scarves and miniature models of the building. Restrooms are located on both exhibition levels and include baby-changing facilities. Free Wi-Fi covers the lobby and cafe area, useful for downloading the audio guide QR code before you start. The entire complex is wheelchair friendly, with elevators serving every floor and tactile paving along the main pathways."
+        ],
+        "de": [
+          "Das Heydar Aliyev Center liegt etwa 8 km von der Altstadt entfernt, eine 20-minütige Fahrt entlang der Heydar-Aliyev-Allee, und seine fließende weiße Schale erhebt sich ohne scharfe Winkel über einen 10 Hektar großen Park. Im Inneren erreicht die Haupthalle an ihrer höchsten Kurve 25 Meter und beherbergt wechselnde Ausstellungen zu aserbaidschanischen Teppichen, zeitgenössischer Kunst und nationaler Geschichte. Das Gebäude ist täglich von 10:00 bis 18:00 Uhr geöffnet, außer montags, und die Monate April bis Juni sowie September bis November bringen angenehme Temperaturen für Spaziergänge auf den Außenterrassen. Ein privater geführter Stopp hier ist am Tag 2 sowohl der 4-tägigen als auch der 5-tägigen Baku-Reiseroute inklusive, wobei ein englischsprachiger Fahrer den Transfer übernimmt. Planen Sie mindestens 90 Minuten ein, um die ständige Sammlung und die temporären Galerien zu besichtigen.",
+          "Das Design des Centers von Zaha Hadid gewann 2014 den Design of the Year Award des Design Museum, und seine nahtlose Betonhaut nutzt ein Raumfachtragwerk, das Innenstützen überflüssig macht. Besucher betreten das Gebäude durch ein niedriges Vordach, das sich in eine kontinuierliche Rampe öffnet, die spiralförmig zur Ausstellungsfläche im zweiten Stock hinaufführt, sodass die Route vollständig barrierefrei ist. Fotografieren ist in den meisten Säulen ohne Blitz erlaubt, und das hauseigene Café serviert Kaffee und leichte Snacks von 10:30 bis 17:30 Uhr. Der umliegende Park umfasst schattige Bänke und ein flaches Spiegelbecken, das die weiße Fassade im späten Nachmittagslicht spiegelt. Abendbesuche im Sommer zeigen das Gebäude, das von einer programmierten LED-Sequenz beleuchtet wird, die alle 30 Minuten die Farbe wechselt.",
+          "Vom Center aus sind es eine 15-minütige Fahrt nach Norden zu den Flame Towers oder eine 10-minütige Fahrt nach Süden zurück zum Kaspischen Meer Boulevard, sodass der Stopp nahtlos zwischen Altstadt-Spaziergängen am Morgen und Sonnenuntergangsblicken vom Highland Park liegt. Die 4-tägige Explorer-Tour plant das Center nach dem Palast der Schirwanschahs und vor den Feuerstätten der Absheron-Halbinsel am Tag 2, wobei die Gesamtfahrzeit an diesem Tag unter drei Stunden bleibt. Im Frühjahr säumen blühende Tulpenbeete die Zufahrtsstraße, während der Herbst klare Himmel für Architekturfotografie bietet. Der Fahrer wartet vor Ort, sodass das Gepäck im Fahrzeug bleiben kann, wenn Sie zum nächsten Stopp weiterfahren. Die Tickets sind vorab arrangiert, sodass es keinen Einlass an der Warteschlange gibt.",
+          "Das Center beherbergt zudem einen 1.000-Sitzer-Auditorium, das jedes Jahr im Oktober das Baku Jazz Festival und gelegentliche zeitgenössische Tanzvorführungen ausrichtet; prüfen Sie den offiziellen Zeitplan, falls Ihre Reisedaten übereinstimmen. Ein kleiner Geschenkeladen nahe dem Ausgang verkauft Kataloge, Seidenschals und Miniaturmodelle des Gebäudes. Toiletten befinden sich auf beiden Ausstellungsebenen und umfassen Wickelmöglichkeiten. Kostenloses WLAN deckt die Lobby- und Café-Bereich ab, nützlich zum Herunterladen des Audio-Guide-QR-Codes, bevor Sie beginnen. Das gesamte Komplex ist rollstuhlgerecht, mit Aufzügen, die jedes Stockwerk bedienen, und taktilen Bodenbelägen entlang der Hauptwege."
+        ],
+        "fr": [
+          "Le Centre Heydar Aliyev se trouve à environ 8 km de la Vieille Ville, soit 20 minutes de route le long de l'avenue Heydar Aliyev. Sa coque blanche et fluide s'élève sans angles vifs sur un parc de 10 hectares. À l'intérieur, le hall principal atteint 25 mètres à sa courbe la plus haute et abrite des expositions rotatives sur les tapis azerbaïdjanais, l'art contemporain et l'histoire nationale. Le bâtiment est ouvert tous les jours de 10:00 à 18:00, sauf le lundi, et les mois d'avril à juin ainsi que de septembre à novembre offrent des températures agréables pour parcourir les rampes extérieures. Une visite privée guidée est incluse le jour 2 des itinéraires de 4 et 5 jours à Bakou, avec un chauffeur anglophone pour le transfert. Prévoyez au moins 90 minutes pour découvrir la collection permanente et les galeries temporaires.",
+          "Le design du centre par Zaha Hadid a remporté le prix Design of the Year du Design Museum en 2014, et sa peau de béton sans joint utilise un système de charpente spatiale qui élimine les colonnes intérieures. Les visiteurs entrent sous un auvent bas qui s'ouvre sur une rampe continue menant au niveau d'exposition du deuxième étage, rendant le parcours entièrement accessible. La photographie est autorisée dans la plupart des salles sans flash, et le café sur place sert café et collations légères de 10:30 à 17:30. Le parc environnant comprend des bancs ombragés et un bassin peu profond qui reflète la façade blanche en fin d'après-midi. Les visites en soirée en été montrent le bâtiment illuminé par une séquence LED programmée qui change de couleur toutes les 30 minutes.",
+          "Depuis le centre, il faut 15 minutes en voiture pour rejoindre les Flame Towers au nord, ou 10 minutes pour revenir au sud sur le boulevard de la mer Caspienne, ce qui permet d'insérer facilement l'arrêt entre les promenades matinales dans la Vieille Ville et les vues du coucher de soleil depuis le parc Highland. Le circuit de 4 jours programme le centre après le Palais des Chirvanchahs et avant les sites du feu de la péninsule d'Absheron le jour 2, limitant le temps de conduite total à moins de trois heures. Les mois de printemps apportent des plates-bandes de tulipes en fleurs le long de la route d'accès, tandis que l'automne offre des ciels dégagés pour la photographie architecturale. Le chauffeur attend sur place, donc les bagages peuvent rester dans le véhicule si vous continuez vers l'arrêt suivant. Les billets sont pré-réservés, donc pas de file d'attente à l'entrée.",
+          "Le centre abrite également un auditorium de 1 000 places qui accueille le festival de jazz de Bakou chaque octobre et des performances occasionnelles de danse contemporaine ; consultez le programme officiel si vos dates coïncident. Une petite boutique de souvenirs près de la sortie vend des catalogues, des écharpes en soie et des maquettes miniatures du bâtiment. Les toilettes se trouvent sur les deux niveaux d'exposition et incluent des tables à langer. Le Wi-Fi gratuit couvre le hall et le café, pratique pour télécharger le code QR de l'audioguide avant de commencer. L'ensemble du complexe est accessible aux fauteuils roulants, avec des ascenseurs desservant chaque étage et un pavé tactile le long des voies principales."
+        ],
+        "ja": [
+          "ヘイダル・アリエフ・センターは旧市街から約8km、ヘイダル・アリエフ大通りを車で20分の場所にあり、鋭角のない流線形の白い外殻が10ヘクタールの公園に広がっています。内部のメインホールは最高点で25メートルに達し、アゼルバイジャンの絨毯、現代美術、国の歴史に関する回転展示が開催されています。建物は月曜を除き毎日10:00から18:00まで開館しており、4月から6月、9月から11月は屋外スロープを散策するのに快適な気候です。プライベートガイド付きの立ち寄りは、4日間および5日間のバクー旅程の2日目に含まれており、英語を話すドライバーが送迎を担当します。常設コレクションと特別ギャラリーをご覧いただくには、少なくとも90分をお取りください。",
+          "ザハ・ハディドによるセンターのデザインは2014年のデザイン博物館「デザイン・オブ・ザ・イヤー」賞を受賞し、シームレスなコンクリートの外皮は空間フレームシステムを採用し、内部の柱を排除しています。訪問者は低い天蓋から入り、2階の展示フロアへと続く連続するスロープを螺旋状に上るため、ルートは完全にバリアフリーです。ほとんどのホールではフラッシュなしでの撮影が許可されており、構内のカフェでは10:30から17:30までコーヒーと軽食を提供しています。周囲の公園には日陰のベンチと浅い反射プールがあり、午後遅くの光に白いファサードが映ります。夏の夕方の訪問では、30分ごとに色が変わるプログラムされたLEDシーケンスで建物がライトアップされます。",
+          "センターからはフレームタワーまで車で北へ15分、カスピ海大通りまで南へ10分で、旧市街の朝のウォークとハイランドパークの夕景の間にスムーズに組み込めます。4日間の探検ツアーでは、2日目にシルヴァンシャー宮殿の後、アブシェロン半島の火の遺跡の前にセンターを訪問し、その日の総走行時間を3時間未満に抑えています。春にはアプローチ道路沿いにチューリップの花壇が咲き、秋には建築写真に適した澄んだ空が広がります。ドライバーは現地で待機するため、次の停留所へ向かう場合は荷物を車両に残しておけます。チケットは事前手配済みで、入場時に列に並ぶ必要はありません。",
+          "センターにはまた、毎年10月にバクー・ジャズ・フェスティバルや時折の現代ダンス公演を開催する1,000席の講堂もあり、日程が合う場合は公式スケジュールをご確認ください。出口近くの小さなギフトショップではカタログ、シルクのスカーフ、建物のミニチュアモデルを販売しています。トイレは両方の展示フロアにあり、おむつ交換設備も備えています。ロビーとカフェエリアでは無料Wi-Fiを利用でき、オーディオガイドのQRコードをダウンロードするのに便利です。複合施設全体が車椅子対応で、すべてのフロアにエレベーターがあり、主要な通路には点字ブロックが敷かれています。"
+        ],
+        "es": [
+          "El Centro Heydar Aliyev se encuentra a unos 8 km de la Ciudad Vieja, a 20 minutos en coche por la Avenida Heydar Aliyev, y su fluida cáscara blanca se eleva sin ángulos pronunciados a través de un parque de 10 hectáreas. En el interior, el salón principal alcanza los 25 metros en su curva más alta y alberga exposiciones rotativas sobre alfombras azerbaiyanas, arte contemporáneo e historia nacional. El edificio permanece abierto todos los días de 10:00 a 18:00, excepto los lunes, y de abril a junio, así como de septiembre a noviembre, las temperaturas son agradables para caminar por las rampas exteriores. Una visita guiada privada aquí está incluida el Día 2 de ambos itinerarios de Bakú, el de 4 días y el de 5 días, con un conductor de habla inglesa encargado del traslado. Permita al menos 90 minutos para ver la colección permanente y las galerías temporales.",
+          "El diseño del centro de Zaha Hadid ganó el premio Diseño del Año del Design Museum en 2014, y su piel de concreto sin costuras utiliza un sistema de armazón espacial que elimina las columnas interiores. Los visitantes entran a través de un dosel bajo que se abre en una rampa continua que aspira en espiral hasta el nivel de exposición del segundo piso, haciendo que la ruta sea totalmente accesible. La fotografía está permitida en la mayoría de las salas sin flash, y el café del lugar sirve café y bocadillos ligeros de 10:30 a 17:30. El parque circundante incluye bancos sombreados y una piscina reflectante poco profunda que refleja la fachada blanca en la luz del atardecer. Las visitas nocturnas en verano muestran el edificio iluminado por una secuencia LED programada que cambia de color cada 30 minutos.",
+          "Desde el centro hay 15 minutos en coche hacia el norte hasta las Torres Flame o 10 minutos en coche hacia el sur de regreso al Bulevar del Mar Caspio, por lo que la parada encaja perfectamente entre las caminatas matutinas por la Ciudad Vieja y las vistas al atardecer desde Highland Park. El tour de 4 días para exploradores programa el centro después del Palacio de los Shirvanshahs y antes de los sitios de fuego de la Península de Absheron el Día 2, manteniendo el tiempo total de conducción ese día por debajo de tres horas. Los meses de primavera traen camas de tulipanes en flor a lo largo del camino de acceso, mientras que el otoño ofrece cielos despejados para la fotografía arquitectónica. El conductor espera en el sitio, por lo que el equipaje puede permanecer en el vehículo si continúa a la siguiente parada. Los boletos están pre-arrangados, por lo que no hay fila en la entrada.",
+          "El centro también contiene un auditorio de 1,000 asientos que alberga el Festival de Jazz de Bakú cada octubre y ocasionales presentaciones de danza contemporánea; consulte el horario oficial si sus fechas coinciden. Una pequeña tienda de regalos cerca de la salida vende catálogos, bufandas de seda y modelos en miniatura del edificio. Los baños están ubicados en ambos niveles de exposición e incluyen instalaciones para cambiar pañales. El Wi-Fi gratuito cubre el vestíbulo y el área del café, útil para descargar el código QR de la guía de audio antes de comenzar. Todo el complejo es accesible para sillas de ruedas, con ascensores que sirven cada piso y pavimento táctil a lo largo de los caminos principales."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Flowing white architecture by Zaha Hadid",
+          "Rotating exhibitions on carpets and contemporary art",
+          "Included on Day 2 of both 4-day and 5-day tours"
+        ],
+        "de": [
+          "Fließende weiße Architektur von Zaha Hadid",
+          "Wechselnde Ausstellungen zu Teppichen und zeitgenössischer Kunst",
+          "Inklusive am Tag 2 sowohl der 4-tägigen als auch der 5-tägigen Touren"
+        ],
+        "fr": [
+          "Architecture blanche fluide par Zaha Hadid",
+          "Expositions rotatives sur les tapis et l'art contemporain",
+          "Inclus le jour 2 des circuits de 4 et 5 jours"
+        ],
+        "ja": [
+          "ザハ・ハディドによる流れるような白い建築",
+          "絨毯と現代美術の回転展示",
+          "4日間および5日間のツアー2日目に含まれる"
+        ],
+        "es": [
+          "Arquitectura blanca fluida de Zaha Hadid",
+          "Exposiciones rotativas sobre alfombras y arte contemporáneo",
+          "Incluido el Día 2 de ambos tours, el de 4 días y el de 5 días"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance from Old City",
+            "de": "Entfernung von der Altstadt",
+            "fr": "Distance depuis la Vieille Ville",
+            "ja": "旧市街からの距離",
+            "es": "Distancia desde la Ciudad Vieja"
+          },
+          "value": {
+            "en": "about 8 km, 20-minute drive",
+            "de": "etwa 8 km, 20-minütige Fahrt",
+            "fr": "environ 8 km, 20 minutes de route",
+            "ja": "約8km、車で20分",
+            "es": "unos 8 km, 20 minutos en coche"
+          }
+        },
+        {
+          "label": {
+            "en": "Opening hours",
+            "de": "Öffnungszeiten",
+            "fr": "Horaires d'ouverture",
+            "ja": "開館時間",
+            "es": "Horario de apertura"
+          },
+          "value": {
+            "en": "daily 10:00 to 18:00, closed Mondays",
+            "de": "täglich 10:00 bis 18:00 Uhr, geschlossen montags",
+            "fr": "tous les jours de 10:00 à 18:00, fermé le lundi",
+            "ja": "毎日10:00から18:00、月曜休館",
+            "es": "diario de 10:00 a 18:00, cerrado los lunes"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "4 Days / 3 Nights",
+            "de": "4 Tage / 3 Nächte",
+            "fr": "4 jours / 3 nuits",
+            "ja": "4日間 / 3泊",
+            "es": "4 días / 3 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $726 USD / person",
+            "de": "Ab $726 USD / Person",
+            "fr": "À partir de $726 USD / personne",
+            "ja": "$726 USD〜 / 1名",
+            "es": "Desde $726 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793503866/sunday-atlas/blog/things-to-do-in-baku/heydar-aliyev-center-commons-90737157.jpg",
+        "width": 1920,
+        "height": 1440,
+        "alt": {
+          "en": "Heydar Aliyev Center in Azerbaijan with people doing yoga on the lawn.",
+          "de": "Heydar-Aliyev-Zentrum in Aserbaidschan mit Menschen, die auf dem Rasen Yoga machen.",
+          "fr": "Le centre Heydar Aliyev en Azerbaïdjan avec des personnes faisant du yoga sur la pelouse.",
+          "ja": "アゼルバイジャン、ヘイダル・アリエフ・センター。芝生の上でヨガをする人々。",
+          "es": "Centro Heydar Aliyev en Azerbaiyán con personas haciendo yoga en el césped."
+        },
+        "credit": {
+          "author": "Nigar2nigarnigar",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_Center,_Yoga_Day.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Heydar Aliyev Center",
+          "de": "Heydar Aliyev Center",
+          "fr": "Centre Heydar Aliyev",
+          "ja": "ヘイダル・アリエフ・センター",
+          "es": "Centro Heydar Aliyev"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-explorer-4-days"
+    },
+    {
+      "id": "flame-towers-highland-park",
+      "rankNumber": 3,
+      "placeName": {
+        "en": "Flame Towers",
+        "de": "Flame Towers",
+        "fr": "Flame Towers",
+        "ja": "フレイムタワーズ",
+        "es": "Flame Towers"
+      },
+      "heading": {
+        "en": "3. Flame Towers and Highland Park Panorama",
+        "de": "3. Flame Towers und Highland Park Panorama",
+        "fr": "3. Flame Towers et Highland Park Panorama",
+        "ja": "3. フレイムタワーズとハイランドパークのパノラマ",
+        "es": "3. Flame Towers y Highland Park Panorama"
+      },
+      "paragraphs": {
+        "en": [
+          "The funicular climbs about 100 metres from the Caspian Sea Boulevard to Highland Park in roughly three minutes, operating from early morning until late evening year-round. From the upper station you look straight across Baku Bay to the three Flame Towers, which rise to 190 metres and begin their LED light show at dusk. The park sits on a ridge that also frames the Old City walls and the Carpet Museum roof, giving a compact panorama of the capital's old and new quarters. April to June and September to November offer the clearest air for sunset photography, while summer evenings stay warm enough to linger after dark. The ride is included on Day 2 of our Azerbaijan: The 4-Day Explorer Tour, so no separate ticket is needed.",
+          "Highland Park's main terrace is paved and wheelchair-accessible, with benches spaced every few metres along the railing. A short flight of steps leads to a secondary viewpoint that aligns the Flame Towers directly behind the Maiden Tower silhouette. The funicular lower station sits about 300 metres west of the Carpet Museum, an easy five-minute walk from most central hotels. During the winter months the funicular runs on a reduced schedule, so check the posted timetable if you visit between December and March. Evening winds off the Caspian can feel cool even in May, so a light jacket is practical.",
+          "The Flame Towers' illumination sequence changes with the seasons and on national holidays, cycling through the national flag colours, fire motifs and abstract patterns. Each tower houses a hotel, offices and apartments, but the exterior lighting is best appreciated from the park's western balustrade. Photographers often set up tripods along the railing 20 minutes before sunset to capture the transition from daylight to the light show. The funicular cars depart every five to ten minutes, so queues rarely exceed a single cycle even on busy weekends. Allow about 45 minutes for the round trip plus time on the terrace.",
+          "On Day 3 of the 4-Day Explorer Tour the morning is free, making it simple to return to Highland Park for a daytime cityscape or a second sunset session. The funicular operates on the same schedule, and the walk from the hotel to the lower station remains about five minutes. Clear spring mornings occasionally reveal the Greater Caucasus peaks on the horizon, roughly 60 kilometres away. If you prefer not to ride the funicular, a paved road climbs the hill in about 15 minutes on foot from the boulevard. The park closes at midnight, with the last descent a few minutes earlier."
+        ],
+        "de": [
+          "Die Standseilbahn überwindet etwa 100 Meter vom Caspian Sea Boulevard bis zum Highland Park in rund drei Minuten und verkehrt ganzjährig von früh morgens bis spät abends. Von der oberen Station blickt man direkt über die Bucht von Baku auf die drei Flame Towers, die 190 Meter hoch sind und bei Einbruch der Dämmerung ihre LED-Lichtshow beginnen. Der Park liegt auf einem Kamm, der auch die Mauern der Altstadt und das Dach des Teppichmuseums einrahmt und so ein kompaktes Panorama der alten und neuen Viertel der Hauptstadt bietet. Von April bis Juni und von September bis November ist die Luft am klarsten für Sonnenuntergangsfotos, während Sommerabende warm genug sind, um nach Einbruch der Dunkelheit zu verweilen. Die Fahrt ist am Tag 2 unserer Azerbaijan: The 4-Day Explorer Tour enthalten, sodass kein separates Ticket benötigt wird.",
+          "Die Hauptterrasse des Highland Park ist gepflastert und rollstuhlgerecht, mit Bänken, die alle paar Meter entlang des Geländers aufgestellt sind. Eine kurze Treppe führt zu einem sekundären Aussichtspunkt, der die Flame Towers direkt hinter der Silhouette des Jungfernturms ausrichtet. Die untere Station der Standseilbahn liegt etwa 300 Meter westlich des Teppichmuseums, einen einfachen fünfminütigen Fußweg von den meisten zentralen Hotels entfernt. Während der Wintermonate verkehrt die Standseilbahn nach einem reduzierten Fahrplan, daher sollten Sie den veröffentlichten Fahrplan prüfen, wenn Sie zwischen Dezember und März kommen. Abendwinde vom Kaspischen Meer können sich selbst im Mai kühl anfühlen, daher ist eine leichte Jacke praktisch.",
+          "Die Beleuchtungssequenz der Flame Towers wechselt mit den Jahreszeiten und an nationalen Feiertagen und durchläuft die Nationalfarben, Feuermotive und abstrakte Muster. Jeder Turm beherbergt ein Hotel, Büros und Apartments, doch die Außenbeleuchtung ist am besten von der westlichen Brüstung des Parks aus zu bewundern. Fotografen bauen ihre Stative oft 20 Minuten vor Sonnenuntergang entlang des Geländers auf, um den Übergang vom Tageslicht zur Lichtshow festzuhalten. Die Standseilbahnwagen fahren alle fünf bis zehn Minuten ab, sodass Warteschlangen selbst an geschäftigen Wochenenden selten länger als ein Durchgang dauern. Planen Sie etwa 45 Minuten für die Hin- und Rückfahrt plus Zeit auf der Terrasse ein.",
+          "Am Tag 3 der 4-Day Explorer Tour ist der Vormittag frei, was es einfach macht, zum Highland Park zurückzukehren für eine Tagesstadtansicht oder eine zweite Sonnenuntergangssession. Die Standseilbahn verkehrt nach demselben Fahrplan, und der Fußweg vom Hotel zur unteren Station bleibt etwa fünf Minuten. Klare Frühlingsmorgen enthüllen gelegentlich die Gipfel des Großen Kaukasus am Horizont, etwa 60 Kilometer entfernt. Wenn Sie nicht mit der Standseilbahn fahren möchten, führt eine asphaltierte Straße in etwa 15 Minuten zu Fuß vom Boulevard den Hügel hinauf. Der Park schließt um Mitternacht, die letzte Abfahrt erfolgt wenige Minuten früher."
+        ],
+        "fr": [
+          "Le funiculaire grimpe d'environ 100 mètres depuis le boulevard de la mer Caspienne jusqu'à Highland Park en environ trois minutes, et fonctionne du matin jusqu'au soir tard, toute l'année. Depuis la station supérieure, vous avez une vue directe sur la baie de Bakou et les trois Flame Towers, qui s'élèvent à 190 mètres et commencent leur spectacle de LED à la tombée de la nuit. Le parc est perché sur une crête qui encadre également les remparts de la Vieille Ville et le toit du musée du Tapis, offrant un panorama compact des quartiers anciens et modernes de la capitale. D'avril à juin et de septembre à novembre, l'air est plus clair pour la photographie au coucher du soleil, tandis que les soirées d'été restent assez chaudes pour s'attarder après la tombée de la nuit. La montée est incluse le jour 2 de notre circuit Azerbaïdjan : L'Explorateur de 4 jours, aucun billet séparé n'est donc nécessaire.",
+          "La terrasse principale de Highland Park est pavée et accessible aux fauteuils roulants, avec des bancs espacés tous les quelques mètres le long de la rambarde. Une courte volée de marches mène à un point de vue secondaire qui aligne les Flame Towers directement derrière la silhouette de la Tour de la Vierge. La station inférieure du funiculaire se trouve à environ 300 mètres à l'ouest du musée du Tapis, soit une marche facile de cinq minutes depuis la plupart des hôtels centraux. Durant les mois d'hiver, le funiculaire fonctionne selon un horaire réduit, alors consultez l'horaire affiché si vous visitez entre décembre et mars. Les vents du soir venant de la mer Caspienne peuvent être frais même en mai, une veste légère est donc pratique.",
+          "La séquence d'illumination des Flame Towers change selon les saisons et les jours fériés nationaux, alternant entre les couleurs du drapeau national, les motifs de feu et les motifs abstraits. Chaque tour abrite un hôtel, des bureaux et des appartements, mais l'éclairage extérieur est mieux apprécié depuis la balustrade ouest du parc. Les photographes installent souvent leurs trépieds le long de la rambarde 20 minutes avant le coucher du soleil pour capturer la transition de la lumière du jour au spectacle de lumières. Les voitures du funiculaire partent toutes les cinq à dix minutes, donc les files d'attente dépassent rarement un seul cycle, même les week-ends chargés. Prévoyez environ 45 minutes pour l'aller-retour, plus le temps passé sur la terrasse.",
+          "Le jour 3 du circuit Explorateur de 4 jours, la matinée est libre, ce qui rend simple le retour à Highland Park pour une vue urbaine de jour ou une deuxième session au coucher du soleil. Le funiculaire fonctionne selon le même horaire, et la marche depuis l'hôtel jusqu'à la station inférieure reste d'environ cinq minutes. Les matins clairs du printemps révèlent parfois les sommets du Grand Caucase à l'horizon, à environ 60 kilomètres. Si vous préférez ne pas prendre le funiculaire, une route pavée monte la colline en environ 15 minutes à pied depuis le boulevard. Le parc ferme à minuit, avec la dernière descente quelques minutes plus tôt."
+        ],
+        "ja": [
+          "ケーブルカーは、カスピ海大通りからハイランドパークまで約100メートルを約3分で登り、早朝から夜遅くまで年間を通じて運行しています。上り駅からはバクー湾を挟んで3つのフレイムタワーズが一望でき、高さ190メートル、夕暮れとともにLEDライトショーが始まります。公園は尾根の上にあり、旧市街の城壁やカーペット博物館の屋根も見渡せ、首都の旧市街と新市街をコンパクトに眺めることができます。4月から6月、9月から11月は夕日撮影に最適な澄んだ空気が広がり、夏の夜は日没後も暖かくゆっくり過ごせます。この乗車は「アゼルバイジャン：4日間エクスプローラーツアー」の2日目に含まれているため、別途チケットは必要ありません。",
+          "ハイランドパークのメインテラスは舗装されて車椅子でも利用でき、手すりに沿って数メートルごとにベンチが設置されています。短い階段を上がると、フレイムタワーズが乙女の塔のシルエットの真後ろに重なる二次展望台に出られます。ケーブルカーの下り駅はカーペット博物館から西へ約300メートル、中心部のホテルの多くから徒歩5分ほどです。冬季は減便運行となるため、12月から3月の訪問時は掲示された時刻表をご確認ください。カスピ海からの夕風は5月でも肌寒く感じられることがあるので、軽い上着があると便利です。",
+          "フレイムタワーズのイルミネーションは季節や国民の祝日によって変化し、国旗の色、火のモチーフ、抽象模様を巡ります。各タワーにはホテル、オフィス、アパートメントが入っていますが、外観のライトアップは公園西側の手すりから眺めるのが最適です。写真家は日没の20分前から手すり沿いに三脚を設置し、昼間からライトショーへの移り変わりを撮影することがよくあります。ケーブルカーは5分から10分ごとに出発するため、混雑する週末でも待ち時間は1サイクルを超えることはほとんどありません。往復とテラスでの滞在時間を合わせて約45分を見込んでください。",
+          "4日間エクスプローラーツアーの3日目は午前中が自由時間なので、ハイランドパークに戻って日中の街並みや2度目の夕日を楽しむのも簡単です。ケーブルカーは同じダイヤで運行し、ホテルから下り駅までの徒歩時間は約5分のままです。春の澄んだ朝には、地平線に約60キロ離れた大コーカサス山脈の峰々が見えることもあります。ケーブルカーに乗りたくない場合は、大通りから舗装された道を約15分で丘を登ることもできます。公園は深夜0時に閉園し、最終下車は数分前です。"
+        ],
+        "es": [
+          "El funicular asciende unos 100 metros desde el Paseo del Mar Caspio hasta Highland Park en aproximadamente tres minutos, funcionando desde primera hora de la mañana hasta última de la tarde durante todo el año. Desde la estación superior se contempla directamente la bahía de Bakú y las tres Flame Towers, que se elevan hasta los 190 metros y comienzan su espectáculo de luces LED al anochecer. El parque se asienta sobre una cresta que también enmarca las murallas de la Ciudad Vieja y el tejado del Museo de la Alfombra, ofreciendo un panorama compacto de los barrios antiguo y nuevo de la capital. De abril a junio y de septiembre a noviembre se disfruta del aire más despejado para la fotografía al atardecer, mientras que las noches de verano se mantienen lo suficientemente cálidas para quedarse después del anochecer. El trayecto está incluido en el Día 2 de nuestro tour Azerbaijan: The 4-Day Explorer Tour, por lo que no se necesita un billete separado.",
+          "La terraza principal de Highland Park está pavimentada y es accesible en silla de ruedas, con bancos espaciados cada pocos metros a lo largo de la barandilla. Un breve tramo de escalones conduce a un mirador secundario que alinea las Flame Towers directamente detrás de la silueta de la Torre de la Doncella. La estación inferior del funicular se encuentra a unos 300 metros al oeste del Museo de la Alfombra, a un fácil paseo de cinco minutos desde la mayoría de los hoteles céntricos. Durante los meses de invierno, el funicular funciona con un horario reducido, así que consulte el horario publicado si visita entre diciembre y marzo. Los vientos vespertinos del Caspio pueden sentirse frescos incluso en mayo, por lo que una chaqueta ligera es práctica.",
+          "La secuencia de iluminación de las Flame Towers cambia con las estaciones y en los días festivos nacionales, alternando entre los colores de la bandera nacional, motivos de fuego y patrones abstractos. Cada torre alberga un hotel, oficinas y apartamentos, pero la iluminación exterior se aprecia mejor desde la balaustrada occidental del parque. Los fotógrafos suelen instalar trípodes a lo largo de la barandilla 20 minutos antes del atardecer para capturar la transición de la luz diurna al espectáculo de luces. Los vagones del funicular salen cada cinco a diez minutos, por lo que las colas rara vez superan un solo ciclo incluso en los fines de semana más concurridos. Permita unos 45 minutos para el viaje de ida y vuelta, más el tiempo en la terraza.",
+          "El Día 3 del tour de 4 días, la mañana es libre, lo que facilita regresar a Highland Park para una vista diurna de la ciudad o una segunda sesión al atardecer. El funicular opera con el mismo horario, y el paseo desde el hotel hasta la estación inferior sigue siendo de unos cinco minutos. Las claras mañanas de primavera ocasionalmente revelan los picos del Gran Cáucaso en el horizonte, a unos 60 kilómetros de distancia. Si prefiere no tomar el funicular, una carretera pavimentada asciende la colina en unos 15 minutos a pie desde el paseo marítimo. El parque cierra a medianoche, con el último descenso unos minutos antes."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Funicular ride to Highland Park in three minutes",
+          "Flame Towers LED show starts at dusk daily",
+          "Panorama covers Old City, Caspian Sea and towers"
+        ],
+        "de": [
+          "Standseilbahnfahrt zum Highland Park in drei Minuten",
+          "Flame Towers LED-Show beginnt täglich bei Dämmerung",
+          "Panorama umfasst Altstadt, Kaspisches Meer und Türme"
+        ],
+        "fr": [
+          "Trajet en funiculaire jusqu'à Highland Park en trois minutes",
+          "Le spectacle LED des Flame Towers commence à la tombée de la nuit chaque jour",
+          "Panorama couvrant la Vieille Ville, la mer Caspienne et les tours"
+        ],
+        "ja": [
+          "ハイランドパークへのケーブルカー乗車、所要3分",
+          "フレイムタワーズのLEDショーは毎日夕暮れに開始",
+          "旧市街、カスピ海、タワーズを一望するパノラマ"
+        ],
+        "es": [
+          "Viaje en funicular a Highland Park en tres minutos",
+          "El espectáculo de luces LED de las Flame Towers comienza al anochecer a diario",
+          "El panorama cubre la Ciudad Vieja, el mar Caspio y las torres"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Funicular climb",
+            "de": "Standseilbahnfahrt",
+            "fr": "Montée en funiculaire",
+            "ja": "ケーブルカー登坂",
+            "es": "Ascenso en funicular"
+          },
+          "value": {
+            "en": "about 100 metres in three minutes",
+            "de": "etwa 100 Meter in drei Minuten",
+            "fr": "environ 100 mètres en trois minutes",
+            "ja": "約100メートルを3分で",
+            "es": "unos 100 metros en tres minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Flame Towers height",
+            "de": "Höhe der Flame Towers",
+            "fr": "Hauteur des Flame Towers",
+            "ja": "フレイムタワーズの高さ",
+            "es": "Altura de las Flame Towers"
+          },
+          "value": {
+            "en": "190 metres",
+            "de": "190 Meter",
+            "fr": "190 mètres",
+            "ja": "190メートル",
+            "es": "190 metros"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "4 Days / 3 Nights",
+            "de": "4 Tage / 3 Nächte",
+            "fr": "4 jours / 3 nuits",
+            "ja": "4日間 / 3泊",
+            "es": "4 días / 3 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $726 USD / person",
+            "de": "Ab $726 USD / Person",
+            "fr": "À partir de $726 USD / personne",
+            "ja": "$726 USD〜 / 1名",
+            "es": "Desde $726 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793503869/sunday-atlas/blog/things-to-do-in-baku/flame-towers-commons-52208031.jpg",
+        "width": 1920,
+        "height": 449,
+        "alt": {
+          "en": "Flame Towers in Baku, Azerbaijan viewed from a hillside overlook.",
+          "de": "Flame Towers in Baku, Aserbaidschan, gesehen von einem Hügelaussichtspunkt.",
+          "fr": "Les Flame Towers à Bakou, en Azerbaïdjan, vues depuis un belvédère sur la colline.",
+          "ja": "アゼルバイジャン、バクーのフレイム・タワーズ。丘の見晴らし地点から望む。",
+          "es": "Torres Flame en Bakú, Azerbaiyán, vistas desde un mirador en la ladera."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_de_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_101-106_PAN.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Flame Towers",
+          "de": "Flame Towers",
+          "fr": "Flame Towers",
+          "ja": "フレイムタワーズ",
+          "es": "Flame Towers"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-explorer-4-days"
+    },
+    {
+      "id": "caspian-boulevard-little-venice",
+      "rankNumber": 4,
+      "placeName": {
+        "en": "Baku Boulevard",
+        "de": "Baku Boulevard",
+        "fr": "Boulevard de Bakou",
+        "ja": "バクー大通り",
+        "es": "Baku Boulevard"
+      },
+      "heading": {
+        "en": "4. Caspian Sea Boulevard and Little Venice",
+        "de": "4. Caspian Sea Boulevard und Little Venice",
+        "fr": "4. Boulevard de la mer Caspienne et Little Venice",
+        "ja": "4. カスピ海大通りとリトルヴェニス",
+        "es": "4. Paseo del Mar Caspio y Little Venice"
+      },
+      "paragraphs": {
+        "en": [
+          "The Caspian Sea Boulevard stretches about 3.5 km along the waterfront and is best enjoyed in the cooler evening hours from April to June or September to November. On Day 1 of the 5-day tour, the private driver drops guests at the western end near the Carpet Museum for a self-paced walk toward Little Venice. The Azerbaijan Carpet Museum, shaped like a rolled carpet, displays more than 600 pieces and opens daily except Mondays from 10:00 to 18:00. A short gondola-style boat ride through the Little Venice canals takes about 15 minutes and runs from May to October, weather permitting. The boulevard is flat, well-lit, and lined with cafes, making it practical for a relaxed stroll after a day of sightseeing.",
+          "On Day 4 of the 5-day tour, the schedule is free, so travellers can return to the boulevard for a longer visit or rent a bicycle from one of the docking stations spaced every few hundred metres. The full length from the Carpet Museum to the far end near the Flag Square is about 3.5 km and takes roughly 45 minutes to walk at a gentle pace. Early morning around 07:00 offers the lightest crowds and the calmest water for photographs of the Flame Towers across the bay. Public restrooms and drinking fountains are located near the main entrances at both ends of the promenade. A light jacket is useful year-round because the Caspian breeze can feel cool even in summer.",
+          "The Carpet Museum building itself sits on a raised platform about 50 metres from the water, with a small plaza that hosts occasional open-air exhibitions in spring and autumn. Inside, the permanent collection includes pile carpets, flatweaves, and embroidery from the 17th century to the present, with labels in Azerbaijani and English. Admission is paid on site, and the last entry is 30 minutes before closing. The Little Venice boat jetty is a two-minute walk east of the museum along the paved promenade. Boats depart every 20 minutes during the operating season, and each gondola seats up to four passengers.",
+          "For travellers staying at the 4-star city hotel used on the 5-day tour, the boulevard is a 10-minute drive or a 25-minute walk along Neftchilar Avenue. The hotel concierge can arrange a private evening transfer back after dinner at one of the waterfront restaurants, which typically serve until 23:00. The area is patrolled by tourism police and has CCTV coverage along the main stretch. In winter, from December to February, the boat rides stop and the boulevard can be windy, so the indoor museum becomes the main draw. The promenade remains open 24 hours for walking."
+        ],
+        "de": [
+          "Der Caspian Sea Boulevard erstreckt sich über etwa 3,5 km entlang der Uferpromenade und ist am besten in den kühleren Abendstunden von April bis Juni oder September bis November zu genießen. Am Tag 1 der 5-tägigen Tour setzt der private Fahrer die Gäste am westlichen Ende in der Nähe des Teppichmuseums ab für einen selbstgesteuerten Spaziergang nach Little Venice. Das Azerbaijan Carpet Museum, geformt wie ein aufgerollter Teppich, zeigt mehr als 600 Stücke und hat täglich außer montags von 10:00 bis 18:00 Uhr geöffnet. Eine kurze gondelähnliche Bootsfahrt durch die Kanäle von Little Venice dauert etwa 15 Minuten und findet von Mai bis Oktober statt, wetterabhängig. Der Boulevard ist flach, gut beleuchtet und mit Cafés gesäumt, was ihn praktisch für einen entspannten Spaziergang nach einem Tag voller Besichtigungen macht.",
+          "Am Tag 4 der 5-tägigen Tour steht der Tag zur freien Verfügung, sodass Reisende den Boulevard für einen längeren Besuch zurückkehren oder ein Fahrrad an einer der Stationen mieten können, die alle paar hundert Meter verteilt sind. Die gesamte Strecke vom Teppichmuseum bis zum Ende in der Nähe des Flaggenplatzes beträgt etwa 3,5 km und ist in rund 45 Minuten in gemächlichem Tempo zu Fuß zurückzulegen. Gegen 07:00 Uhr morgens sind die Menschenmengen am geringsten und das Wasser am ruhigsten für Fotografien der Flame Towers über die Bucht. Öffentliche Toiletten und Trinkwasserbrunnen befinden sich in den Nähe der Haupteingänge an beiden Enden der Promenade. Eine leichte Jacke ist das ganze Jahr über nützlich, da die Kaspische Brise auch im Sommer kühl wirken kann.",
+          "Das Gebäude des Teppichmuseums selbst steht auf einer erhöhten Plattform etwa 50 Meter vom Wasser entfernt, mit einem kleinen Platz, der gelegentlich Freiluftausstellungen im Frühling und Herbst beherbergt. Die ständige Sammlung umfasst Florteppiche, Flachgewebe und Stickereien vom 17. Jahrhundert bis zur Gegenwart, mit Beschriftungen in Aserbaidschanisch und Englisch. Der Eintritt wird vor Ort bezahlt, und der letzte Einlass ist 30 Minuten vor Schließung. Die Bootsanlegestelle Little Venice ist einen zweiminütigen Fußweg östlich des Museums entlang der gepflasterten Promenade entfernt. Boote fahren während der Saison alle 20 Minuten ab, und jedes Gondelboot bietet Platz für bis zu vier Personen.",
+          "Für Reisende, die im auf der 5-tägigen Tour genutzten 4-Sterne-Stadthotel wohnen, ist der Boulevard eine 10-minütige Autofahrt oder ein 25-minütiger Spaziergang entlang der Neftchilar Avenue entfernt. Der Hotelconcierge kann einen privaten Abendtransfer nach dem Abendessen in einem der Restaurants am Wasser arrangieren, die in der Regel bis 23:00 Uhr geöffnet haben. Das Gebiet wird von der Touristenpolizei patrouilliert und verfügt entlang der Hauptstrecke über Videoüberwachung. Im Winter, von Dezember bis Februar, stellen die Bootsfahrten ein und der Boulevard kann windig sein, sodass das Indoor-Museum die Hauptattraktion wird. Die Promenade bleibt 24 Stunden am Tag für Spaziergänge geöffnet."
+        ],
+        "fr": [
+          "Le boulevard de la mer Caspienne s'étend sur environ 3,5 km le long du front de mer et se savoure idéalement aux heures plus fraîches du soir, d'avril à juin ou de septembre à novembre. Le jour 1 du circuit de 5 jours, notre chauffeur privé dépose les voyageurs à l'extrémité ouest, près du musée du Tapis, pour une promenade à leur rythme vers Little Venice. Le musée du Tapis d'Azerbaïdjan, en forme de tapis roulé, expose plus de 600 pièces et ouvre tous les jours sauf le lundi, de 10:00 à 18:00. Une courte promenade en bateau style gondole à travers les canaux de Little Venice dure environ 15 minutes et fonctionne de mai à octobre, selon les conditions météorologiques. Le boulevard est plat, bien éclairé et bordé de cafés, ce qui le rend pratique pour une promenade détendue après une journée de visites.",
+          "Le jour 4 du circuit de 5 jours est libre, vous pouvez donc retourner sur le boulevard pour une visite plus longue ou louer un vélo à l’une des stations de vélos en libre-service espacées de quelques centaines de mètres. La longueur totale, du musée du Tapis jusqu’à l’extrémité près de la place du Drapeau, est d’environ 3,5 km et se parcourt en environ 45 minutes à allure tranquille. Vers 07:00, tôt le matin, vous profiterez de la plus faible affluence et de l’eau la plus calme pour photographier les Flame Towers depuis la baie. Des toilettes publiques et des fontaines à boire se trouvent près des entrées principales aux deux extrémités de la promenade. Une veste légère est utile en toute saison, car la brise de la mer Caspienne peut être fraîche même en été.",
+          "Le bâtiment du musée du Tapis lui-même est installé sur une plateforme surélevée à environ 50 mètres de l’eau, avec une petite place qui accueille des expositions en plein air occasionnelles au printemps et en automne. La collection permanente comprend des tapis à poils, des tapis plats et des broderies du 17e siècle à nos jours, avec des étiquettes en azéri et en anglais. L’entrée est payante sur place, et le dernier accès a lieu 30 minutes avant la fermeture. Le jetée de Little Venice se trouve à deux minutes à pied à l’est du musée le long de la promenade pavée. Les bateaux partent toutes les 20 minutes pendant la saison d’exploitation, et chaque gondole peut accueillir jusqu’à quatre passagers.",
+          "Pour les voyageurs séjournant à l’hôtel 4 étoiles utilisé sur le circuit de 5 jours, le boulevard est à 10 minutes en voiture ou 25 minutes à pied le long de l’avenue Neftchilar. Le concierge de l’hôtel peut organiser un transfert privé pour le retour après le dîner dans l’un des restaurants en bord de mer, qui servent généralement jusqu’à 23:00. La zone est patrouillée par la police touristique et bénéficie d’une vidéosurveillance sur le tronçon principal. En hiver, de décembre à février, les balades en bateau s’arrêtent et le boulevard peut être venteux, faisant du musée intérieur l’attraction principale. La promenade reste ouverte 24 heures sur 24 pour la marche."
+        ],
+        "ja": [
+          "カスピ海大通りは水辺に沿って約3.5キロメートルに広がり、4月から6月、9月から11月の涼しい夕方の時間帯に楽しむのが最適です。5日間ツアーの1日目、専用ドライバーがゲストをカーペット博物館近くの西端まで送迎し、そこからリトルヴェニスまで自分のペースで散策します。巻き絨毯の形をしたアゼルバイジャン・カーペット博物館は600点以上を展示し、月曜を除く毎日10:00から18:00まで開館しています。リトルヴェニスの運河をゴンドラ風のボートで巡る短い乗船は約15分で、5月から10月まで天候に応じて運行しています。大通りは平坦で照明が行き届き、カフェが立ち並んでいるため、観光の後のリラックスした散歩に最適です。",
+          "5日間ツアーの4日目は自由スケジュールですので、旅行者はブールバードに戻って長時間滞在したり、数百メートルおきに設置されたドッキングステーションから自転車をレンタルしたりできます。カーペット博物館からフラッグスクエア近くの端までの全長は約3.5kmで、ゆったりとしたペースで歩くと約45分かかります。早朝の07:00頃は混雑が最も少なく、湾の向こうにそびえるフレイムタワーズを撮影するのに最も穏やかな水面が楽しめます。公衆トイレと飲料水の噴水は、プロムナードの両端にあるメインエントランス付近にあります。カスピ海のそよ風は夏でも涼しく感じられるため、一年を通じて軽いジャケットがあると便利です。",
+          "カーペット博物館の建物自体は、水面から約50メートルの高台に位置し、春と秋に時折野外展示が開催される小さな広場があります。館内の常設コレクションには、17世紀から現代までのパイルカーペット、フラットウィーブ、刺繍が含まれ、ラベルはアゼルバイジャン語と英語で記載されています。入場料は現地でお支払いいただき、最終入場は閉館30分前までです。リトルヴェニスのボートジェッティは、博物館から舗装されたプロムナードに沿って東へ徒歩2分の場所にあります。運航シーズン中は20分ごとにボートが出航し、各ゴンドラは最大4名まで乗船可能です。",
+          "5日間ツアーで利用する4つ星のシティホテルにご宿泊のお客様は、ネフチラー通りに沿って車で10分、または徒歩25分でブールバードにアクセスできます。ホテルのコンシェルジュが、ウォーターフロントのレストランでの夕食後のプライベートな夜間送迎を手配できます。レストランは通常23:00まで営業しています。このエリアは観光警察がパトロールし、メインストリートにはCCTVが設置されています。12月から2月の冬季はボート乗船が中止され、ブールバードは風が強くなるため、屋内の博物館が主な見どころとなります。プロムナードは24時間歩行に開放されています。"
+        ],
+        "es": [
+          "El Paseo del Mar Caspio se extiende unos 3,5 km a lo largo del frente marítimo y se disfruta mejor en las horas más frescas de la tarde, de abril a junio o de septiembre a noviembre. El Día 1 del tour de 5 días, el conductor privado deja a los viajeros en el extremo occidental, cerca del Museo de la Alfombra, para un paseo a su propio ritmo hacia Little Venice. El Museo de la Alfombra de Azerbaiyán, con forma de alfombra enrollada, exhibe más de 600 piezas y abre todos los días excepto los lunes de 10:00 a 18:00. Un breve paseo en barco estilo góndola por los canales de Little Venice dura unos 15 minutos y funciona de mayo a octubre, según las condiciones meteorológicas. El paseo es plano, está bien iluminado y está lleno de cafeterías, lo que lo hace práctico para un paseo relajado después de un día de visitas.",
+          "El Día 4 del tour de 5 días es libre, por lo que los viajeros pueden regresar al bulevar para una visita más larga o alquilar una bicicleta en una de las estaciones de acopio espaciadas cada pocos cientos de metros. El recorrido completo desde el Museo de la Alfombra hasta el extremo cercano a la Plaza de la Bandera tiene unos 3,5 km y se tarda aproximadamente 45 minutos en recorrerlo a paso tranquilo. A primera hora, alrededor de las 07:00, hay menos gente y el agua está más tranquila para fotografiar las Flame Towers desde la bahía. Hay baños públicos y fuentes de agua potable cerca de las entradas principales en ambos extremos del paseo marítimo. Una chaqueta ligera es útil durante todo el año, ya que la brisa del Caspio puede sentirse fresca incluso en verano.",
+          "El edificio del Museo de la Alfombra se encuentra sobre una plataforma elevada a unos 50 metros del agua, con una pequeña plaza que acoge exposiciones al aire libre ocasionales en primavera y otoño. Dentro, la colección permanente incluye alfombras de pelo, tejidos planos y bordados del siglo 17 hasta la actualidad, con etiquetas en azerí e inglés. La entrada se paga en el lugar, y el último ingreso es 30 minutos antes del cierre. El embarcadero de Little Venice está a dos minutos caminando hacia el este del museo por el paseo marítimo pavimentado. Los botes salen cada 20 minutos durante la temporada de operación, y cada góndola tiene capacidad para hasta cuatro pasajeros.",
+          "Para los viajeros que se alojan en el hotel de ciudad de 4 estrellas utilizado en el tour de 5 días, el bulevar está a 10 minutos en coche o a 25 minutos caminando por la Avenida Neftchilar. El conserje del hotel puede organizar un traslado privado de regreso después de cenar en uno de los restaurantes frente al agua, que normalmente sirven hasta las 23:00. El área es patrullada por la policía de turismo y tiene cobertura de CCTV a lo largo del tramo principal. En invierno, de diciembre a febrero, los paseos en barco se detienen y el bulevar puede ser ventoso, por lo que el museo interior se convierte en el principal atractivo. El paseo marítimo permanece abierto las 24 horas para caminar."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "3.5 km waterfront promenade with Carpet Museum and Little Venice canals",
+          "15-minute gondola ride through canals from May to October",
+          "Free Day 4 on the 5-day tour allows flexible return visits"
+        ],
+        "de": [
+          "3,5 km lange Uferpromenade mit Teppichmuseum und Little-Venice-Kanälen",
+          "15-minütige Gondelfahrt durch die Kanäle von Mai bis Oktober",
+          "Freier Tag 4 auf der 5-tägigen Tour ermöglicht flexible Rückbesuche"
+        ],
+        "fr": [
+          "Promenade en bord de mer de 3,5 km avec le musée du Tapis et les canaux de Little Venice",
+          "Promenade en gondole de 15 minutes à travers les canaux de mai à octobre",
+          "Journée libre le jour 4 du circuit de 5 jours pour des visites de retour flexibles"
+        ],
+        "ja": [
+          "カーペット博物館とリトルヴェニス運河を備えた3.5kmのウォーターフロントプロムナード",
+          "5月から10月までの運河を巡る15分間のゴンドラクルーズ",
+          "5日間ツアーの4日目は自由日で、柔軟に再訪が可能"
+        ],
+        "es": [
+          "Paseo marítimo de 3,5 km con el Museo de la Alfombra y los canales de Little Venice",
+          "Paseo en góndola de 15 minutos por los canales de mayo a octubre",
+          "Día 4 libre en el tour de 5 días permite visitas de regreso flexibles"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Boulevard length",
+            "de": "Länge des Boulevards",
+            "fr": "Longueur du boulevard",
+            "ja": "ブールバードの長さ",
+            "es": "Longitud del bulevar"
+          },
+          "value": {
+            "en": "about 3.5 km",
+            "de": "etwa 3,5 km",
+            "fr": "environ 3,5 km",
+            "ja": "約3.5km",
+            "es": "unos 3,5 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Boat ride season",
+            "de": "Saison der Bootsfahrten",
+            "fr": "Saison des balades en bateau",
+            "ja": "ボート乗船シーズン",
+            "es": "Temporada de paseos en barco"
+          },
+          "value": {
+            "en": "May to October",
+            "de": "Mai bis Oktober",
+            "fr": "Mai à octobre",
+            "ja": "5月から10月",
+            "es": "De mayo a octubre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $781 USD / person",
+            "de": "Ab $781 USD / Person",
+            "fr": "À partir de $781 USD / personne",
+            "ja": "$781 USD〜 / 1名",
+            "es": "Desde $781 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793503871/sunday-atlas/blog/things-to-do-in-baku/baku-boulevard-commons-59390894.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "A green and cream tourist train on Baku Boulevard, Azerbaijan.",
+          "de": "Ein grüner und cremefarbener Touristenzug auf dem Baku Boulevard, Aserbaidschan.",
+          "fr": "Un train touristique vert et crème sur le boulevard de Bakou, en Azerbaïdjan.",
+          "ja": "アゼルバイジャン、バクー・ブルバードを走る緑とクリーム色の観光列車。",
+          "es": "Un tren turístico verde y crema en el Bulevar de Bakú, Azerbaiyán."
+        },
+        "credit": {
+          "author": "AlixSaz",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baku,_Seaside_Park,_Train_for_excursion.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Baku Boulevard",
+          "de": "Baku Boulevard",
+          "fr": "Boulevard de Bakou",
+          "ja": "バクー大通り",
+          "es": "Baku Boulevard"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-journey-5-days"
+    },
+    {
+      "id": "absheron-fire-sites",
+      "rankNumber": 5,
+      "placeName": {
+        "en": "Absheron Peninsula",
+        "de": "Absheron-Halbinsel",
+        "fr": "Péninsule d’Absheron",
+        "ja": "アブシェロン半島",
+        "es": "Península de Absheron"
+      },
+      "heading": {
+        "en": "5. Absheron Peninsula: Yanar Dag and Ateshgah Fire Temple",
+        "de": "5. Absheron-Halbinsel: Yanar Dag und Ateshgah-Feuer-Tempel",
+        "fr": "5. Péninsule d’Absheron : Yanar Dag et temple du feu d’Ateshgah",
+        "ja": "5. アブシェロン半島：ヤナルダグとアテシュガー火の神殿",
+        "es": "5. Península de Absheron: Yanar Dag y el Templo del Fuego de Ateshgah"
+      },
+      "paragraphs": {
+        "en": [
+          "The Absheron Peninsula lies about 25 km northeast of Baku and takes roughly 45 minutes to reach by car from the city center. Yanar Dag burns continuously from natural gas seeping through sandstone, with flames reaching up to three meters high along a 10-meter stretch of hillside. The site is visible year-round but is most striking after sunset when the fire contrasts with the dark sky. Ateshgah Fire Temple, built in the 17th century over a natural gas vent, served Hindu and Zoroastrian pilgrims until the flames weakened in the late 19th century. Both locations are visited on Day 2 of our 4-day and 5-day Baku tours.",
+          "At Yanar Dag a small visitor pavilion provides shelter and information panels explaining the geology behind the eternal flames. The temple complex at Ateshgah includes a central altar pavilion, surrounding cells for ascetics, and a courtyard where ritual fires were once maintained. Gas supply to the temple is now piped to keep the ceremonial flame alive for visitors. The peninsula is exposed to Caspian winds, so a windproof layer is advisable from October through March. Morning visits avoid the stronger afternoon breezes that can blow smoke across the viewing areas.",
+          "Our private driver collects guests from their Baku hotel around 09:00 for the half-day circuit that covers both fire sites and returns by early afternoon. The route follows the coastal highway past industrial zones before turning inland toward the temple at Surakhany. Total driving time for the round trip is about two hours, leaving ample time for photography and walking the temple grounds. The excursion operates from April to June and September to November when temperatures range between 15 and 25 degrees Celsius. Summer heat can exceed 35 degrees, making midday exposure uncomfortable on the open hillside.",
+          "Travelers with a free day in Baku can add this half-day trip to either the 4-day or 5-day itinerary without changing hotel nights. The Absheron visit pairs well with a morning in the UNESCO Old City, allowing a full Day 2 that moves from medieval alleys to geological wonders. No special permits are required beyond the standard ASAN e-Visa arranged before arrival. Comfortable walking shoes are recommended for the uneven stone paths inside the temple compound."
+        ],
+        "de": [
+          "Die Absheron-Halbinsel liegt etwa 25 km nordöstlich von Baku und ist in rund 45 Minuten mit dem Auto vom Stadtzentrum aus zu erreichen. Yanar Dag brennt ununterbrochen, da natürliches Gas durch Sandstein austritt, mit Flammen, die entlang einer 10 Meter langen Hügelstrecke bis zu drei Meter hoch schlagen. Die Stätte ist das ganze Jahr über sichtbar, wirkt aber am eindrucksvollsten nach Sonnenuntergang, wenn das Feuer mit dem dunklen Himmel kontrastiert. Der Ateshgah-Feuer-Tempel, im 17. Jahrhundert über einem natürlichen Gasausstoß erbaut, diente Hindu- und Zoroastrier-Pilgern, bis die Flammen im späten 19. Jahrhundert schwächer wurden. Beide Orte werden am Tag 2 unserer 4-tägigen und 5-tägigen Baku-Touren besucht.",
+          "In Yanar Dag bietet ein kleiner Besucherpavillon Schutz und Informationstafeln, die die Geologie hinter den ewigen Flammen erklären. Der Tempelkomplex von Ateshgah umfasst einen zentralen Altar-Pavillon, umliegende Zellen für Asketen und einen Innenhof, in dem einst Ritualfeuer unterhalten wurden. Die Gasversorgung des Tempels wird nun über Rohrleitungen bereitgestellt, um die Zeremonialflamme für Besucher am Leben zu erhalten. Die Halbinsel ist Kaspischen Winden ausgesetzt, sodass eine winddichte Schicht von Oktober bis März ratsam ist. Morgenbesuche vermeiden die stärkeren Nachmittagsbrisen, die Rauch über die Aussichtsbereiche wehen können.",
+          "Unser privater Fahrer holt die Gäste gegen 09:00 Uhr von ihrem Hotel in Baku ab für die halbtägige Rundfahrt, die beide Feuerstätten abdeckt und am frühen Nachmittag zurückkehrt. Die Route folgt der Küstenstraße an Industriegebieten vorbei, bevor sie landeinwärts zum Tempel in Surakhany abbiegt. Die gesamte Fahrzeit für die Hin- und Rückfahrt beträgt etwa zwei Stunden, was reichlich Zeit für Fotografien und Spaziergänge auf dem Tempelgelände lässt. Der Ausflug findet von April bis Juni und von September bis November statt, wenn die Temperaturen zwischen 15 und 25 Grad Celsius liegen. Die Sommerhitze kann 35 Grad übersteigen, was die Mittagshitze auf der offenen Hügelseite unangenehm macht.",
+          "Reisende mit einem freien Tag in Baku können diesen halbtägigen Ausflug zu den 4-tägigen oder 5-tägigen Reiserouten hinzufügen, ohne die Hotelübernachtungen zu ändern. Der Absheron-Besuch ergänzt sich ideal mit einem Vormittag in der UNESCO-Altstadt und ermöglicht so einen vollen Tag 2, der von mittelalterlichen Gassen zu geologischen Wundern führt. Außer dem vor der Ankunft arrangierten ASAN e-Visum sind keine besonderen Genehmigungen erforderlich. Bequeme Wanderschuhe werden für die unebenen Steinwege im Tempelkomplex empfohlen."
+        ],
+        "fr": [
+          "La péninsule d’Absheron se trouve à environ 25 km au nord-est de Bakou et se rejoint en environ 45 minutes en voiture depuis le centre-ville. Yanar Dag brûle en continu à partir du gaz naturel s’infiltrant à travers le grès, avec des flammes atteignant jusqu’à trois mètres de haut sur une étendue de 10 mètres de colline. Le site est visible toute l’année, mais il est le plus saisissant après le coucher du soleil, lorsque le feu contraste avec le ciel sombre. Le temple du feu d’Ateshgah, construit au 17e siècle au-dessus d’une évent de gaz naturel, a servi les pèlerins hindous et zoroastriens jusqu’à ce que les flammes s’affaiblissent à la fin du 19e siècle. Les deux sites sont visités le jour 2 de nos circuits de 4 et 5 jours à Bakou.",
+          "À Yanar Dag, un petit pavillon d’accueil offre un abri et des panneaux d’information expliquant la géologie derrière les flammes éternelles. Le complexe du temple d’Ateshgah comprend un pavillon d’autel central, des cellules environnantes pour les ascètes, et une cour où des feux rituels étaient autrefois entretenus. L’approvisionnement en gaz du temple est désormais acheminé par canalisation pour maintenir la flamme cérémonielle vivante pour les visiteurs. La péninsule est exposée aux vents de la mer Caspienne, donc une couche coupe-vent est conseillée d’octobre à mars. Les visites matinales évitent les brises plus fortes de l’après-midi qui peuvent souffler la fumée sur les zones de visualisation.",
+          "Notre chauffeur privé récupère les clients à leur hôtel à Bakou vers 09:00 pour le circuit d’une demi-journée couvrant les deux sites du feu et retournant en début d’après-midi. L’itinéraire suit l’autoroute côtière en passant par des zones industrielles avant de tourner vers l’intérieur des terres en direction du temple de Surakhany. Le temps de conduite total pour l’aller-retour est d’environ deux heures, laissant amplement le temps pour la photographie et la promenade dans les jardins du temple. L’excursion fonctionne d’avril à juin et de septembre à novembre, lorsque les températures varient entre 15 et 25 degrés Celsius. La chaleur estivale peut dépasser 35 degrés, rendant l’exposition de midi inconfortable sur la colline ouverte.",
+          "Les voyageurs disposant d'une journée libre à Bakou peuvent ajouter cette excursion d'une demi-journée à l'itinéraire de 4 ou 5 jours sans modifier les nuits d'hôtel. La visite de l'Absheron se marie parfaitement avec une matinée dans la vieille ville classée à l'UNESCO, offrant une journée 2 complète qui mène des ruelles médiévales aux merveilles géologiques. Aucun permis spécial n'est requis au-delà du visa électronique ASAN standard organisé avant l'arrivée. Des chaussures de marche confortables sont recommandées pour les sentiers de pierre irréguliers à l'intérieur de l'enceinte du temple."
+        ],
+        "ja": [
+          "アブシェロン半島はバクー市中心部から北東へ約25km、車で約45分の場所にあります。ヤナルダグは砂岩を通って自然ガスが噴出し、丘の中腹に10メートルにわたって高さ3メートルまでの炎が絶え間なく燃え続けています。この場所は一年中見学可能ですが、日没後に暗い空と炎が対照的に映える姿が最も印象的です。17世紀に天然ガスの噴出口の上に建てられたアテシュガー火の神殿は、19世紀後半に炎が弱まるまでヒンドゥー教徒とゾロアスター教徒の巡礼者に利用されていました。両方の場所は、当社の4日間および5日間バクーツアーの2日目に訪問します。",
+          "ヤナルダグには小さなビジターパビリオンがあり、避難所と永遠の炎の背後にある地質学を解説する情報パネルが設置されています。アテシュガーの神殿複合施設には、中央の祭壇パビリオン、修行者のための周囲の小部屋、かつて儀式の火が維持されていた中庭が含まれています。神殿へのガス供給は現在、訪問者のために儀式の炎を維持するためにパイプで供給されています。半島はカスピ海の風にさらされるため、10月から3月までは防風のレイヤーがあると安心です。午前中の訪問は、観覧エリアに煙が吹き込むことがある午後の強い風を避けられます。",
+          "当社のプライベートドライバーが、バクーのホテルから午前09:00頃にゲストをお迎えし、両方の火のスポットを巡る半日コースを早午後に戻ります。ルートは沿岸の高速道路を工業地帯のそばを通り、スラハニの神殿へと内陸へと向かいます。往復の総所要時間は約2時間で、写真撮影や神殿敷地の散策に十分な時間があります。このエクスカーションは、気温が15度から25度の間になる4月から6月、および9月から11月に運航します。夏の暑さは35度を超えることがあり、開けた丘の中腹での正午の滞在は不快になる可能性があります。",
+          "バクーに空き日がある旅行者は、ホテルの宿泊数を変更せず、4日間または5日間の日程にこの半日ツアーを追加できます。アブシェロン訪問はユネスコ旧市街での午前中と相性が良く、中世の路地から地質学的な驚異へと移動する充実した2日目になります。到着前に手配する標準的なASAN e-Visa以外に特別な許可は必要ありません。寺院敷地内の不均質な石畳の道を歩くには、歩きやすい靴をお勧めします。"
+        ],
+        "es": [
+          "La península de Absheron se encuentra a unos 25 km al noreste de Bakú y se tarda aproximadamente 45 minutos en llegar en coche desde el centro de la ciudad. Yanar Dag arde continuamente por el gas natural que se filtra a través de la arenisca, con llamas que alcanzan hasta tres metros de altura a lo largo de un tramo de 10 metros de ladera. El sitio es visible durante todo el año, pero es más impresionante después del atardecer, cuando el fuego contrasta con el cielo oscuro. El Templo del Fuego de Ateshgah, construido en el siglo 17 sobre un respiradero de gas natural, sirvió a peregrinos hindúes y zoroástricos hasta que las llamas se debilitaron a finales del siglo 19. Ambos lugares se visitan el Día 2 de nuestros tours de 4 y 5 días por Bakú.",
+          "En Yanar Dag, un pequeño pabellón de visitantes ofrece refugio y paneles informativos que explican la geología detrás de las llamas eternas. El complejo del templo en Ateshgah incluye un pabellón de altar central, celdas circundantes para ascetas y un patio donde antes se mantenían fuegos rituales. El suministro de gas al templo ahora se canaliza por tuberías para mantener viva la llama ceremonial para los visitantes. La península está expuesta a los vientos del Caspio, por lo que es recomendable una capa cortavientos de octubre a marzo. Las visitas por la mañana evitan las brisas más fuertes de la tarde que pueden soplar humo sobre las áreas de observación.",
+          "Nuestro conductor privado recoge a los huéspedes de su hotel en Bakú alrededor de las 09:00 para el circuito de medio día que cubre ambos sitios de fuego y regresa a primera hora de la tarde. La ruta sigue la carretera costera pasando por zonas industriales antes de girar tierra adentro hacia el templo en Surakhany. El tiempo total de conducción para el viaje de ida y vuelta es de aproximadamente dos horas, dejando tiempo suficiente para fotografiar y caminar por los terrenos del templo. La excursión opera de abril a junio y de septiembre a noviembre, cuando las temperaturas oscilan entre 15 y 25 grados Celsius. El calor del verano puede superar los 35 grados, haciendo que la exposición al mediodía sea incómoda en la ladera abierta.",
+          "Los viajeros con un día libre en Bakú pueden añadir esta excursión de medio día al itinerario de 4 o 5 días sin cambiar las noches de hotel. La visita a Absherón combina bien con una mañana en la Ciudad Vieja declarada Patrimonio de la Humanidad por la UNESCO, lo que permite un Día 2 completo que va de callejones medievales a maravillas geológicas. No se requieren permisos especiales más allá de la e-visa ASAN estándar gestionada antes de la llegada. Se recomiendan zapatos cómodos para caminar por los senderos de piedra irregulares dentro del recinto del templo."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Eternal flames at Yanar Dag year-round",
+          "17th-century Ateshgah Fire Temple complex",
+          "Half-day private trip from Baku"
+        ],
+        "de": [
+          "Ewige Flammen am Yanar Dag das ganze Jahr über",
+          "Komplex des Ateshgah-Feuertempels aus dem 17. Jahrhundert",
+          "Halbtägige Privatreise ab Baku"
+        ],
+        "fr": [
+          "Flammes éternelles à Yanar Dag toute l'année",
+          "Complexe du temple du feu d'Ateshgah du 17e siècle",
+          "Excursion privée d'une demi-journée au départ de Bakou"
+        ],
+        "ja": [
+          "ヤナルダグの一年中燃え続ける永遠の炎",
+          "17世紀のアテシュガー火の神殿複合施設",
+          "バクー発の半日プライベートツアー"
+        ],
+        "es": [
+          "Llamas eternas en Yanar Dag durante todo el año",
+          "Complejo del Templo del Fuego Ateshgah del siglo 17",
+          "Excursión privada de medio día desde Bakú"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time",
+            "de": "Fahrzeit",
+            "fr": "Temps de trajet",
+            "ja": "移動時間",
+            "es": "Tiempo de viaje"
+          },
+          "value": {
+            "en": "about 45 minutes each way",
+            "de": "ca. 45 Minuten pro Strecke",
+            "fr": "environ 45 minutes chaque sens",
+            "ja": "片道約45分",
+            "es": "unos 45 minutos por trayecto"
+          }
+        },
+        {
+          "label": {
+            "en": "Tour day",
+            "de": "Reisetag",
+            "fr": "Jour de visite",
+            "ja": "ツアー日",
+            "es": "Día del tour"
+          },
+          "value": {
+            "en": "Day 2 on 4-day and 5-day tours",
+            "de": "Tag 2 bei 4-tägigen und 5-tägigen Touren",
+            "fr": "Jour 2 sur les circuits de 4 et 5 jours",
+            "ja": "4日間および5日間ツアーの2日目",
+            "es": "Día 2 en los tours de 4 y 5 días"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "4 Days / 3 Nights",
+            "de": "4 Tage / 3 Nächte",
+            "fr": "4 jours / 3 nuits",
+            "ja": "4日間 / 3泊",
+            "es": "4 días / 3 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $726 USD / person",
+            "de": "Ab $726 USD / Person",
+            "fr": "À partir de $726 USD / personne",
+            "ja": "$726 USD〜 / 1名",
+            "es": "Desde $726 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793503875/sunday-atlas/blog/things-to-do-in-baku/absheron-peninsula-commons-103864295.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Satellite view of the Absheron Peninsula in Azerbaijan extending into the Caspian Sea.",
+          "de": "Satellitenansicht der Absheron-Halbinsel in Aserbaidschan, die ins Kaspische Meer hineinragt.",
+          "fr": "Vue satellite de la péninsule d'Absheron en Azerbaïdjan s'avançant dans la mer Caspienne.",
+          "ja": "カスピ海に突き出るアブシェロン半島、アゼルバイジャンの衛星画像。",
+          "es": "Vista satelital de la península de Absherón en Azerbaiyán que se adentra en el mar Caspio."
+        },
+        "credit": {
+          "author": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS057-E-36_-_View_of_the_Absheron_Peninsula_in_Azerbaijan.jpg",
+          "provider": "commons",
+          "required": false
+        },
+        "caption": {
+          "en": "Absheron Peninsula",
+          "de": "Absheron-Halbinsel",
+          "fr": "Péninsule d’Absheron",
+          "ja": "アブシェロン半島",
+          "es": "Península de Absheron"
+        }
+      },
+      "embeddedPackageSlug": "azerbaijan-explorer-4-days"
+    },
+    {
+      "id": "gobustan-mud-volcanoes",
+      "rankNumber": 6,
+      "placeName": {
+        "en": "Gobustan",
+        "de": "Gobustan",
+        "fr": "Gobustan",
+        "ja": "ゴブスタン",
+        "es": "Gobustán"
+      },
+      "heading": {
+        "en": "6. Gobustan Rock Art and Mud Volcanoes Day Trip",
+        "de": "6. Gobustan-Felskunst und Schlammvulkane Tagesausflug",
+        "fr": "6. Excursion d'une journée à Gobustan : art rupestre et volcans de boue",
+        "ja": "6. ゴブスタン岩絵と泥火山日帰りツアー",
+        "es": "6. Excursión de un día al arte rupestre de Gobustan y los volcanes de lodo"
+      },
+      "paragraphs": {
+        "en": [
+          "The Gobustan Rock Art and Mud Volcanoes day trip runs year-round as a private tour from Baku, covering about 130 km round-trip in roughly 8 hours. The first stop is the Bibi-Heybat Mosque, rebuilt in the 1990s on the Caspian shore about 15 km south of the city center. From there the route continues another 50 km southwest to the UNESCO-listed Gobustan petroglyph reserve, where more than 6,000 rock engravings date from 40,000 years ago to the Middle Ages. A short off-road drive reaches the bubbling mud volcanoes that dot the semi-desert plateau above the sea. The return leg adds the Ateshgah Fire Temple at Surakhani and the natural gas flare of Yanardag on the Absheron Peninsula.",
+          "April to June and September to November offer the most comfortable temperatures for walking the open-air petroglyph galleries and the volcano field, which sits near sea level but feels exposed to wind. Summer afternoons can exceed 35 °C on the Absheron plain, so an early hotel pick-up around 9 am helps avoid peak heat. Winter days are shorter and the mud volcano area can be slippery after rain, yet the sites remain accessible with a four-wheel-drive vehicle. The private driver-guide adjusts the pace and order of stops to match daylight hours and weather.",
+          "The tour includes private hotel pick-up and drop-off in Baku, an air-conditioned vehicle for the full day, an English-speaking driver-guide, and bottled water. Entry tickets to the Gobustan museum and the Ateshgah complex are purchased on site. Comfortable closed shoes are recommended for the uneven volcanic terrain and the rocky paths among the petroglyphs. A light wind jacket is useful year-round on the Caspian coastal sections.",
+          "Sunday Atlas Travel operates this itinerary as a 1-day private tour with the sequence Baku – Bibi-Heybat – Gobustan – Mud Volcanoes – Ateshgah – Yanardag – Baku. The driving portions total about 3 hours spread across the day, leaving ample time for guided walks at each UNESCO and cultural site. The program runs in every month, making it a reliable option regardless of season."
+        ],
+        "de": [
+          "Der Tagesausflug zu den Gobustan-Felszeichnungen und Schlammvulkanen findet das ganze Jahr über als Privattour ab Baku statt und umfasst etwa 130 km Hin- und Rückfahrt in rund 8 Stunden. Der erste Stopp ist die Bibi-Heybat-Moschee, die in den 1990er Jahren am Kaspischen Meer etwa 15 km südlich des Stadtzentrums wiederaufgebaut wurde. Von dort führt die Route weitere 50 km südwestlich zum UNESCO-listeten Gobustan-Felsritzungsreservat, wo mehr als 6.000 Felsgravuren aus der Zeit von vor 40.000 Jahren bis zum Mittelalter stammen. Eine kurze Offroad-Fahrt führt zu den brodelnden Schlammvulkanen, die das Halbwüstenplateau über dem Meer übersäen. Der Rückweg beinhaltet den Ateshgah-Feuertempel in Surakhani und die natürliche Gasflamme von Yanardag auf der Absheron-Halbinsel.",
+          "April bis Juni und September bis November bieten die angenehmsten Temperaturen für Spaziergänge durch die Freiluft-Felsritzungsgalerien und das Vulkangebiet, das sich zwar in Meereshöhe befindet, aber windanfällig ist. Sommernachmittage können auf der Absheron-Ebene 35 °C übersteigen, daher hilft eine frühe Hotelabholung gegen 9 Uhr, um die größte Hitze zu vermeiden. Wintertage sind kürzer und das Schlammvulkangebiet kann nach Regen rutschig sein, doch die Stätten bleiben mit einem Allradfahrzeug zugänglich. Der private Fahrer-Guide passt das Tempo und die Reihenfolge der Stopps an die Tageslichtstunden und das Wetter an.",
+          "Die Tour beinhaltet die private Hotelabholung und -rückgabe in Baku, ein klimatisiertes Fahrzeug für den ganzen Tag, einen englischsprachigen Fahrer-Guide und abgefülltes Wasser. Eintrittskarten für das Gobustan-Museum und den Ateshgah-Komplex werden vor Ort gekauft. Bequeme geschlossene Schuhe werden für das unebene vulkanische Gelände und die felsigen Wege zwischen den Felsritzungen empfohlen. Eine leichte Windjacke ist das ganze Jahr über auf den kaspischen Küstenabschnitte nützlich.",
+          "Sunday Atlas Travel betreibt diese Reiseroute als 1-tägige Privattour mit der Abfolge Baku – Bibi-Heybat – Gobustan – Schlammvulkane – Ateshgah – Yanardag – Baku. Die Fahrzeiten belaufen sich insgesamt auf etwa 3 Stunden über den Tag verteilt, was reichlich Zeit für geführte Spaziergänge an jeder UNESCO- und Kulturstätte lässt. Das Programm läuft jeden Monat und ist somit eine zuverlässige Option unabhängig von der Jahreszeit."
+        ],
+        "fr": [
+          "L'excursion d'une journée à Gobustan : art rupestre et volcans de boue fonctionne toute l'année en tant que visite privée au départ de Bakou, couvrant environ 130 km aller-retour en environ 8 heures. Le premier arrêt est la mosquée Bibi-Heybat, reconstruite dans les années 1990 sur la côte de la Caspienne à environ 15 km au sud du centre-ville. De là, l'itinéraire se poursuit sur 50 km supplémentaires vers le sud-ouest jusqu'à la réserve de pétroglyphes de Gobustan, classée à l'UNESCO, où plus de 6 000 gravures rupestres datent de 40 000 ans jusqu'au Moyen Âge. Une courte excursion hors route mène aux volcans de boue bouillonnants qui parsèment le plateau semi-désertique au-dessus de la mer. Le trajet de retour inclut le temple du feu d'Ateshgah à Surakhani et la flamme naturelle de gaz de Yanardag sur la péninsule d'Absheron.",
+          "D'avril à juin et de septembre à novembre offrent les températures les plus confortables pour parcourir les galeries de pétroglyphes en plein air et le champ de volcans, qui se trouve près du niveau de la mer mais semble exposé au vent. Les après-midi d'été peuvent dépasser 35 °C sur la plaine d'Absheron, donc une prise en charge à l'hôtel tôt le matin vers 9 h permet d'éviter la chaleur maximale. Les journées d'hiver sont plus courtes et la zone des volcans de boue peut être glissante après la pluie, mais les sites restent accessibles avec un véhicule à quatre roues motrices. Le chauffeur-guide privé ajuste le rythme et l'ordre des arrêts en fonction des heures de clarté et de la météo.",
+          "La visite inclut la prise en charge et le retour privés à l'hôtel à Bakou, un véhicule climatisé pour la journée complète, un chauffeur-guide anglophone et de l'eau en bouteille. Les billets d'entrée pour le musée de Gobustan et le complexe d'Ateshgah sont achetés sur place. Des chaussures fermées confortables sont recommandées pour le terrain volcanique irrégulier et les sentiers rocheux parmi les pétroglyphes. Une veste coupe-vent légère est utile toute l'année sur les sections côtières de la Caspienne.",
+          "Sunday Atlas Travel propose cet itinéraire sous la forme d'une excursion privée d'1 jour, dans l'ordre Bakou – Bibi-Heybat – Gobustan – Volcans de boue – Ateshgah – Yanardag – Bakou. Les trajets en voiture totalisent environ 3 heures réparties sur la journée, laissant amplement de temps pour des visites guidées à chaque site UNESCO et culturel. Le programme fonctionne tous les mois, ce qui en fait une option fiable quelle que soit la saison."
+        ],
+        "ja": [
+          "ゴブスタン岩絵と泥火山日帰りツアーは年間を通じてバクー発のプライベートツアーとして運行し、往復約130km、所要時間は約8時間です。最初の停車地は、市街中心部からカスピ海沿いに約15km南に位置し、1990年代に再建されたビビヘイバト・モスクです。そこからさらに南西へ約50km進み、ユネスコ登録のゴブスタン岩絵保護区へ向かいます。そこには4万年前から中世まで遡る6,000点以上の岩彫りがあります。短いオフロードドライブで、海上の半砂漠台地に点在する泡立つ泥火山へ到達します。帰路ではスラハニのアテシュガー火の神殿とアブシェロン半島のヤナルダグ天然ガスの噴出を訪れます。",
+          "4月から6月、9月から11月は、野外の岩絵ギャラリーや火山地帯を歩くのに最も快適な気温です。火山地帯は海抜近くに位置しますが、風にさらされやすい環境です。夏の午後はアブシェロン平野で35℃を超えることがあるため、午前9時頃の早めのホテルピックアップで暑さのピークを避けることができます。冬は日が短く、雨後は泥火山エリアが滑りやすくなりますが、四輪駆動車両でサイトへのアクセスは可能です。プライベートドライバーガイドが、日照時間と天候に合わせてペースと停車順序を調整します。",
+          "ツアーにはバクーでのプライベートホテルピックアップとドロップオフ、終日のエアコン付き車両、英語を話すドライバーガイド、ボトルウォーターが含まれます。ゴブスタン博物館とアテシュガー複合施設の入場券は現地で購入します。不均質な火山地形や岩絵の間の岩場の道を歩くには、快適な閉じた靴をお勧めします。カスピ海沿岸区間では一年中、軽い防風ジャケットが便利です。",
+          "Sunday Atlas Travelはこの行程をバクー－ビビヘイバト－ゴブスタン－泥火山－アテシュガー－ヤナルダグ－バクーの順序で運行する1日間のプライベートツアーとして提供しています。移動部分は一日を通して合計約3時間で、各ユネスコおよび文化遺産でのガイド付きウォークに十分な時間を確保しています。プログラムは毎月運行されるため、季節を問わず信頼できる選択肢となります。"
+        ],
+        "es": [
+          "La excursión de un día al arte rupestre de Gobustan y los volcanes de lodo se realiza durante todo el año como tour privado desde Bakú, cubriendo unos 130 km de ida y vuelta en aproximadamente 8 horas. La primera parada es la mezquita Bibi-Heybat, reconstruida en los años 1990 en la orilla del Caspio a unos 15 km al sur del centro de la ciudad. Desde allí, la ruta continúa otros 50 km hacia el suroeste hasta la reserva de petroglifos de Gobustán, declarada Patrimonio de la Humanidad por la UNESCO, donde más de 6,000 grabados rupestres datan desde hace 40,000 años hasta la Edad Media. Un breve trayecto todoterreno llega a los burbujeantes volcanes de lodo que salpican la meseta semiárida sobre el mar. El tramo de regreso añade el Templo del Fuego Ateshgah en Surajaní y la llama de gas natural de Yanardag en la península de Absherón.",
+          "De abril a junio y de septiembre a noviembre ofrecen las temperaturas más agradables para recorrer las galerías al aire libre de petroglifos y el campo de volcanes, que se encuentra cerca del nivel del mar pero se siente expuesto al viento. Las tardes de verano pueden superar los 35 °C en la llanura de Absherón, por lo que una recogida temprana en el hotel alrededor de las 9 am ayuda a evitar el calor máximo. Los días de invierno son más cortos y el área de volcanes de lodo puede estar resbaladiza después de la lluvia, pero los sitios siguen siendo accesibles con un vehículo de tracción en las cuatro ruedas. Nuestro conductor-guía privado ajusta el ritmo y el orden de las paradas según las horas de luz y el clima.",
+          "El tour incluye recogida y regreso privado al hotel en Bakú, un vehículo con aire acondicionado durante todo el día, un conductor-guía de habla inglesa y agua embotellada. Las entradas al museo de Gobustán y al complejo de Ateshgah se compran en el sitio. Se recomiendan zapatos cerrados y cómodos para el terreno volcánico irregular y los senderos rocosos entre los petroglifos. Una chaqueta ligera contra el viento es útil durante todo el año en las secciones costeras del Caspio.",
+          "Sunday Atlas Travel opera este itinerario como un tour privado de 1 día con la secuencia Bakú – Bibi-Heybat – Gobustán – Volcanes de lodo – Ateshgah – Yanardag – Bakú. Los tramos de conducción suman unas 3 horas distribuidas a lo largo del día, dejando tiempo suficiente para caminatas guiadas en cada sitio cultural y declarado Patrimonio de la Humanidad por la UNESCO. El programa se realiza en todos los meses, lo que lo convierte en una opción confiable sin importar la temporada."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "UNESCO petroglyphs spanning 40,000 years",
+          "Active mud volcanoes near the Caspian Sea",
+          "Fire Temple and Burning Mountain finale"
+        ],
+        "de": [
+          "UNESCO-Felsritzungen über 40.000 Jahre",
+          "Aktive Schlammvulkane am Kaspischen Meer",
+          "Feuertempel und Brennender Berg als Finale"
+        ],
+        "fr": [
+          "Pétroglyphes de l'UNESCO couvrant 40 000 ans",
+          "Volcans de boue actifs près de la mer Caspienne",
+          "Finale Temple du feu et Montagne brûlante"
+        ],
+        "ja": [
+          "4万年にわたるユネスコ岩絵",
+          "カスピ海近くの活動的な泥火山",
+          "火の神殿と燃える山のフィナーレ"
+        ],
+        "es": [
+          "Petroglifos de la UNESCO que abarcan 40,000 años",
+          "Volcanes de lodo activos cerca del mar Caspio",
+          "Gran finale del Templo del Fuego y la Montaña Ardiente"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Tourdauer",
+            "fr": "Durée de la visite",
+            "ja": "ツアー所要時間",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "1-day private tour",
+            "de": "1-tägige Privattour",
+            "fr": "Visite privée d'1 jour",
+            "ja": "1日間のプライベートツアー",
+            "es": "Tour privado de 1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Season",
+            "de": "Reisezeit",
+            "fr": "Saison",
+            "ja": "シーズン",
+            "es": "Temporada"
+          },
+          "value": {
+            "en": "Year-round",
+            "de": "Ganzjährig",
+            "fr": "Toute l'année",
+            "ja": "通年",
+            "es": "Todo el año"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $115 USD / person",
+            "de": "Ab $115 USD / Person",
+            "fr": "À partir de $115 USD / personne",
+            "ja": "$115 USD〜 / 1名",
+            "es": "Desde $115 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793503877/sunday-atlas/blog/things-to-do-in-baku/gobustan-commons-162287743.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Rock surface with circular holes at Gobustan, Azerbaijan.",
+          "de": "Felsoberfläche mit runden Löchern in Gobustan, Aserbaidschan.",
+          "fr": "Surface rocheuse avec des trous circulaires à Gobustan, en Azerbaïdjan.",
+          "ja": "アゼルバイジャン、ゴブスタンの岩肌にある円形の穴。",
+          "es": "Superficie rocosa con agujeros circulares en Gobustán, Azerbaiyán."
+        },
+        "credit": {
+          "author": "Bernard Gagnon",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cup_marks,_Gobustan.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Gobustan",
+          "de": "Gobustan",
+          "fr": "Gobustan",
+          "ja": "ゴブスタン",
+          "es": "Gobustán"
+        }
+      },
+      "embeddedPackageSlug": "gobustan-mud-volcanoes-absheron-day-trip"
+    },
+    {
+      "id": "this-season",
+      "seasonKey": "2026-11",
+      "placeName": {
+        "en": "November 2026",
+        "de": "November 2026",
+        "fr": "Novembre 2026",
+        "ja": "2026年11月",
+        "es": "Noviembre de 2026"
+      },
+      "heading": {
+        "en": "Baku in November 2026: Late Autumn Weather and What to Expect",
+        "de": "Baku im November 2026: Spätherbstliches Wetter und was Sie erwartet",
+        "fr": "Baku en novembre 2026 : météo de fin d'automne et ce qu'il faut savoir",
+        "ja": "2026年11月のバクー：晩秋の天気と見どころ",
+        "es": "Baku en noviembre de 2026: clima de finales de otoño y qué esperar"
+      },
+      "paragraphs": {
+        "en": [
+          "November in Baku brings daytime highs around 12-15°C and nights dropping to 5-8°C, with the Caspian wind making it feel cooler. Rain showers become more frequent, averaging 6-8 wet days across the month, while daylight shrinks to about 9.5 hours by late November. The Old City museums, Heydar Aliyev Center, Carpet Museum, and Flame Towers observation deck all stay open on their regular schedules. Mountain passes to Gabala and the Tufandag cable car remain operational, though the higher slopes may see the first snow dustings.",
+          "Crowds thin noticeably after the October shoulder season, so queues at Maiden Tower and the Palace of the Shirvanshahs are short. Yanar Dag and Ateshgah Fire Temple on the Absheron Peninsula are fully accessible year-round. Gobustan petroglyphs and mud volcanoes run daily in all weather with the day-trip tour. Pack a windproof jacket, warm layers, a compact umbrella, and sturdy waterproof shoes for wet cobblestones and muddy volcano trails."
+        ],
+        "de": [
+          "Im November liegen die Tageshöchstwerte in Baku bei etwa 12–15 °C, nachts sinken die Temperaturen auf 5–8 °C, wobei der Kaspische Wind es kühler erscheinen lässt. Regenschauer werden häufiger, mit durchschnittlich 6–8 Regentagen im Monat, während die Tageslichtdauer bis Ende November auf etwa 9,5 Stunden sinkt. Die Museen der Altstadt, das Heydar Aliyev Center, das Teppichmuseum und die Aussichtsplattform der Flame Towers haben zu ihren regulären Öffnungszeiten geöffnet. Die Bergpässe nach Gabala und die Tufandag-Seilbahn bleiben in Betrieb, wobei die höheren Hänge die ersten Schneestaubungen sehen können.",
+          "Die Besucherzahlen lichten sich spürbar nach der Oktober-Nebensaison, sodass die Schlangen am Jungfrauenturm und am Palast der Schirwanschahs kurz sind. Yanar Dag und der Ateschgah-Feuer-Tempel auf der Absheron-Halbinsel sind ganzjährig zugänglich. Die Gobustan-Felszeichnungen und Schlammvulkane laufen täglich bei jedem Wetter mit der Tagesausflugstour. Packen Sie eine winddichte Jacke, warme Schichten, einen kompakten Regenschirm und feste wasserdichte Schuhe für nasse Kopfsteinpflaster und schlammige Vulkanspfade ein."
+        ],
+        "fr": [
+          "Novembre à Bakou apporte des maximales diurnes autour de 12-15 °C et des nuits descendant à 5-8 °C, le vent de la Caspienne rendant la sensation plus fraîche. Les averses deviennent plus fréquentes, avec une moyenne de 6-8 jours de pluie sur le mois, tandis que la lumière du jour se réduit à environ 9,5 heures fin novembre. Les musées de la Vieille Ville, le centre Heydar Aliyev, le musée du Tapis et le belvédère des Flame Towers restent ouverts selon leurs horaires habituels. Les cols de montagne vers Gabala et le téléphérique de Tufandag restent opérationnels, bien que les pentes supérieures puissent connaître les premières chutes de neige.",
+          "Les foules diminuent sensiblement après la saison intermédiaire d'octobre, donc les files d'attente à la Tour de la Jeune Fille et au palais des Chirvanchahs sont courtes. Yanar Dag et le temple du feu d'Ateshgah sur la péninsule d'Absheron sont accessibles toute l'année. Les pétroglyphes de Gobustan et les volcans de boue fonctionnent quotidiennement par tous les temps avec l'excursion d'une journée. Emportez une veste coupe-vent, des vêtements chauds, un parapluie compact et des chaussures imperméables solides pour les pavés mouillés et les sentiers boueux des volcans."
+        ],
+        "ja": [
+          "バクーの11月は、日中の最高気温が12～15℃、夜間は5～8℃まで下がり、カスピ海の風でさらに肌寒く感じられます。雨の日が増え、月間で平均6～8日の降雨日があり、日照時間は11月下旬までに約9.5時間に短縮されます。旧市街の博物館、ヘイダル・アリエフ・センター、絨毯博物館、フレームタワーズ展望台はいずれも通常通り営業しています。ガバラへの山岳道路とトゥファンダグ・ケーブルカーは運行を続けており、標高の高い斜面では初雪が見られることもあります。",
+          "10月の肩シーズンを過ぎると観光客が明らかに減り、乙女の塔やシルヴァンシャー宮殿の待ち時間は短くなります。アプシェロン半島のヤナル・ダグやアテシュガー火の神殿は年間を通じて見学可能です。ゴブスタンの岩絵と泥火山は、日帰りツアーで毎日運行されています。防風ジャケット、暖かい重ね着、コンパクトな傘、頑丈な防水シューズをご用意ください。濡れた石畳や泥の火山道に対応できます。"
+        ],
+        "es": [
+          "Noviembre en Baku trae máximas diurnas de unos 12-15 °C y noches que bajan a 5-8 °C, con el viento del mar Caspio que hace que se sienta más fresco. Las lluvias se vuelven más frecuentes, con un promedio de 6-8 días de lluvia al mes, mientras que la luz del día se reduce a unas 9,5 horas a finales de noviembre. Los museos de la Ciudad Vieja, el Centro Heydar Aliyev, el Museo de Alfombras y la plataforma de observación de las Flame Towers permanecen abiertos con sus horarios habituales. Los pasos de montaña hacia Gabala y el teleférico de Tufandag siguen operativos, aunque las laderas más altas pueden recibir las primeras nevadas.",
+          "Las multitudes disminuyen notablemente después de la temporada baja de octubre, por lo que las colas en la Torre de la Doncella y el Palacio de los Shirvanshahs son cortas. Yanar Dag y el Templo del Fuego de Ateshgah en la península de Absheron son accesibles durante todo el año. Los petroglifos de Gobustan y los volcanes de lodo funcionan a diario en cualquier clima con la excursión de un día. Lleva una chaqueta cortavientos, ropa de abrigo, un paraguas compacto y zapatos impermeables resistentes para los adoquines mojados y los senderos embarrados de los volcanes."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Daytime 12-15°C, nights 5-8°C, 9.5 hours daylight",
+          "All city museums and Absheron fire sites open daily",
+          "Tufandag cable car running, higher slopes may have snow",
+          "Low crowds, short queues at UNESCO Old City sites"
+        ],
+        "de": [
+          "Tagsüber 12–15 °C, nachts 5–8 °C, 9,5 Stunden Tageslicht",
+          "Alle Stadtmuseen und Absheron-Feuerstätten täglich geöffnet",
+          "Tufandag-Seilbahn in Betrieb, höhere Hänge können Schnee haben",
+          "Geringe Besucherzahlen, kurze Schlangen an den UNESCO-Stätten der Altstadt"
+        ],
+        "fr": [
+          "Diurne 12-15 °C, nuits 5-8 °C, 9,5 heures de lumière du jour",
+          "Tous les musées de la ville et les sites du feu d'Absheron ouverts quotidiennement",
+          "Téléphérique de Tufandag en fonctionnement, les pentes supérieures peuvent avoir de la neige",
+          "Basse affluence, files d'attente courtes aux sites de l'UNESCO de la Vieille Ville"
+        ],
+        "ja": [
+          "日中12～15℃、夜間5～8℃、日照時間9.5時間",
+          "市内の博物館とアプシェロンの火の聖地は毎日営業",
+          "トゥファンダグ・ケーブルカー運行中、標高の高い斜面に雪の可能性あり",
+          "観光客が少なく、ユネスコ旧市街の名所での待ち時間が短い"
+        ],
+        "es": [
+          "Diurno 12-15 °C, noches 5-8 °C, 9,5 horas de luz diurna",
+          "Todos los museos de la ciudad y los sitios del fuego de Absheron abiertos a diario",
+          "Teleférico de Tufandag en funcionamiento, las laderas más altas pueden tener nieve",
+          "Poca afluencia, colas cortas en los sitios de la Ciudad Vieja declarados Patrimonio de la Humanidad por la UNESCO"
+        ]
+      },
+      "keyFacts": []
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What are the best months to visit Baku for sightseeing?",
+        "de": "Welche Monate sind am besten für eine Besichtigungstour durch Baku geeignet?",
+        "fr": "Quels sont les meilleurs mois pour visiter Bakou pour faire du tourisme ?",
+        "ja": "バクー観光に最適な時期はいつですか？",
+        "es": "¿Cuáles son los mejores meses para visitar Bakú con fines turísticos?"
+      },
+      "a": {
+        "en": "April to June and September to November offer pleasant Caspian breezes and comfortable temperatures for walking the Old City, Boulevard, and Highland Park without summer heat or winter chill.",
+        "de": "April bis Juni und September bis November bieten angenehme Kaspische Brisen und komfortable Temperaturen, um die Altstadt, den Boulevard und den Highland Park zu erkunden – ohne Sommerhitze oder winterliche Kälte.",
+        "fr": "D'avril à juin et de septembre à novembre, les brises de la mer Caspienne et les températures agréables sont idéales pour parcourir la Vieille Ville, le Boulevard et le parc Highland Park sans la chaleur estivale ni le froid hivernal.",
+        "ja": "EU、英国、米国、日本、オーストラリアのパスポート保有者のほとんどは、evisa.gov.azでオンラインでASAN e-Visaを申請できます。通常3営業日以内に発行され、30日間の滞在が可能です。",
+        "es": "De abril a junio y de septiembre a noviembre ofrecen agradables brisas del Caspio y temperaturas cómodas para recorrer la Ciudad Vieja, el Bulevar y el Parque de la Montaña sin el calor del verano ni el frío del invierno."
+      }
+    },
+    {
+      "q": {
+        "en": "How many days do I need to see Baku's main attractions?",
+        "de": "Wie viele Tage benötige ich, um Bakus Hauptsehenswürdigkeiten zu besichtigen?",
+        "fr": "Combien de jours me faut-il pour voir les principales attractions de Bakou ?",
+        "ja": "バクーの主要観光スポットを巡るのに必要な日数は？",
+        "es": "¿Cuántos días necesito para ver las principales atracciones de Bakú?"
+      },
+      "a": {
+        "en": "Three full days cover the Old City, Heydar Aliyev Center, Flame Towers, Boulevard, and the Absheron fire sites. A 4-day private tour includes these with a free day for museums or shopping.",
+        "de": "Drei ganze Tage reichen für die Altstadt, das Heydar Aliyev Center, die Flame Towers, den Boulevard und die Feuerstätten von Absheron aus. Eine 4-tägige private Tour umfasst diese Highlights plus einen freien Tag für Museen oder Shopping.",
+        "fr": "Trois jours complets suffisent pour découvrir la Vieille Ville, le centre Heydar Aliyev, les Flame Towers, le Boulevard et les sites du feu d'Absheron. Une visite privée de 4 jours inclut ces sites avec une journée libre pour les musées ou le shopping.",
+        "ja": "旧市街、ヘイダル・アリエフ・センター、フレームタワーズ、ブールバード、アブシェロン半島の火の聖地を巡るには、丸3日間が目安です。4日間のプライベートツアーではこれらに加え、博物館やショッピングのための自由日も含まれます。",
+        "es": "Tres días completos cubren la Ciudad Vieja, el Centro Heydar Aliyev, las Torres Flame, el Bulevar y los sitios del fuego de Absheron. Un tour privado de 4 días incluye estos lugares con un día libre para museos o compras."
+      }
+    },
+    {
+      "q": {
+        "en": "Can I visit Yanar Dag and Ateshgah on the same day as Gobustan?",
+        "de": "Kann ich Yanar Dag und Ateshgah am selben Tag wie Gobustan besuchen?",
+        "fr": "Puis-je visiter Yanar Dag et Ateshgah le même jour que Gobustan ?",
+        "ja": "ヤナルダグとアテシュガーをゴブスタンと同じ日に訪れられますか？",
+        "es": "¿Puedo visitar Yanar Dag y Ateshgah el mismo día que Gobustán?"
+      },
+      "a": {
+        "en": "Yes, our private Gobustan day trip combines the mud volcanoes and petroglyphs with Bibi-Heybat Mosque, Ateshgah Fire Temple, and Yanar Dag in a single 10-hour loop from Baku.",
+        "de": "Ja, unsere private Gobustan-Tagestour verbindet die Schlammvulkane und Felszeichnungen mit der Bibi-Heybat-Moschee, dem Ateshgah-Feuerheiligtum und Yanar Dag in einer einzigen 10-stündigen Rundtour ab Baku.",
+        "fr": "Oui, notre excursion privée d'une journée à Gobustan combine les volcans de boue et les pétroglyphes avec la mosquée Bibi-Heybat, le temple du feu d'Ateshgah et Yanar Dag dans une boucle de 10 heures au départ de Bakou.",
+        "ja": "はい、当社のプライベートゴブスタン日帰りツアーでは、泥火山と岩絵に加え、ビビヘイバト・モスク、アテシュガー火の神殿、ヤナルダグをバクー発着の10時間の1日周遊コースで巡ります。",
+        "es": "Sí, nuestro viaje privado de un día a Gobustán combina los volcanes de lodo y los petroglifos con la Mezquita Bibi-Heybat, el Templo del Fuego Ateshgah y Yanar Dag en un solo circuito de 10 horas desde Bakú."
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need a visa for Azerbaijan and how do I get it?",
+        "de": "Benötige ich ein Visum für Aserbaidschan und wie erhalte ich es?",
+        "fr": "Ai-je besoin d'un visa pour l'Azerbaïdjan et comment l'obtenir ?",
+        "ja": "アゼルバイジャンへのビザは必要ですか？取得方法は？",
+        "es": "¿Necesito visa para Azerbaiyán y cómo la obtengo?"
+      },
+      "a": {
+        "en": "Most EU, UK, US, Japanese, and Australian passport holders can apply online for an ASAN e-Visa at evisa.gov.az, typically issued within 3 working days for a 30-day stay.",
+        "de": "Die meisten Inhaber von EU-, UK-, US-, japanischen und australischen Pässen können online ein ASAN e-Visum unter evisa.gov.az beantragen, das in der Regel innerhalb von 3 Werktagen für einen 30-tägigen Aufenthalt ausgestellt wird.",
+        "fr": "La plupart des détenteurs de passeports de l'UE, du Royaume-Uni, des États-Unis, du Japon et d'Australie peuvent demander un e-Visa ASAN en ligne sur evisa.gov.az, généralement délivré sous 3 jours ouvrés pour un séjour de 30 jours.",
+        "ja": "EU、英国、米国、日本、オーストラリアのパスポート保有者のほとんどは、evisa.gov.azでオンラインでASAN e-Visaを申請でき、通常3営業日以内に発行され、30日間の滞在が可能です。",
+        "es": "La mayoría de los titulares de pasaportes de la UE, Reino Unido, Estados Unidos, Japón y Australia pueden solicitar en línea una e-Visa ASAN en evisa.gov.az, generalmente emitida en 3 días laborables para una estancia de 30 días."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Things to Do in Baku: Old City to Flame Towers (2027)",
+      "meta_description": "Things to do in Baku: the UNESCO Old City, Heydar Aliyev Center, Flame Towers, the Caspian Boulevard and Absheron fire sites. See the top 6 here.",
+      "focus_keyword": "things to do in Baku",
+      "keywords": [
+        "things to do in Baku",
+        "Baku Old City tour",
+        "Heydar Aliyev Center visit",
+        "Flame Towers Baku",
+        "Baku Caspian Boulevard",
+        "Azerbaijan private tour",
+        "Absheron Peninsula day trip",
+        "Gobustan mud volcanoes tour"
+      ]
+    },
+    "de": {
+      "seo_title": "Baku Sehenswürdigkeiten: Altstadt bis Flame Towers (2027)",
+      "meta_description": "Baku Sehenswürdigkeiten: UNESCO-Altstadt, Heydar-Aliyev-Zentrum, Flame Towers, Kaspische Promenade und Feuerorte auf Abscheron. Die Top 6.",
+      "focus_keyword": "things to do in Baku",
+      "keywords": [
+        "things to do in Baku",
+        "Baku Old City tour",
+        "Heydar Aliyev Center visit",
+        "Flame Towers Baku",
+        "Baku Caspian Boulevard",
+        "Azerbaijan private tour",
+        "Absheron Peninsula day trip",
+        "Gobustan mud volcanoes tour"
+      ]
+    },
+    "fr": {
+      "seo_title": "Que faire à Bakou : vieille ville et Flame Towers (2027)",
+      "meta_description": "Que faire à Bakou : vieille ville UNESCO, centre Heydar Aliyev, Flame Towers, boulevard de la Caspienne et sites de feu d'Abcheron. Les 6 incontournables.",
+      "focus_keyword": "que faire à Bakou",
+      "keywords": [
+        "que faire à Bakou",
+        "circuit dans la Vieille Ville de Bakou",
+        "visite du centre Heydar Aliyev",
+        "Flame Towers Bakou",
+        "boulevard caspien de Bakou",
+        "circuit privé en Azerbaïdjan",
+        "excursion d'une journée sur la péninsule d'Absheron",
+        "circuit des volcans de boue de Gobustan"
+      ]
+    },
+    "ja": {
+      "seo_title": "バクーで楽しむこと：旧市街からフレイムタワーズまで（2027）",
+      "meta_description": "バクーで楽しむこと。世界遺産の旧市街、ヘイダル・アリエフ・センター、フレイムタワーズ、カスピ海沿いの大通り、アブシェロンの火の名所。トップ6はこちら。",
+      "focus_keyword": "バクーで楽しむこと",
+      "keywords": [
+        "バクーで楽しむこと",
+        "バクー旧市街ツアー",
+        "ヘイダル・アリエフ・センター訪問",
+        "バクーのフレイムタワーズ",
+        "バクー カスピ海プロムナード",
+        "アゼルバイジャン プライベートツアー",
+        "アブシェロン半島 日帰りツアー",
+        "ゴブスタン 泥火山 ツアー"
+      ]
+    },
+    "es": {
+      "seo_title": "Cosas que hacer en Bakú: Ciudad Vieja y Flame Towers (2027)",
+      "meta_description": "Cosas que hacer en Bakú: la Ciudad Vieja UNESCO, el Centro Heydar Aliyev, las Flame Towers, el bulevar del Caspio y los sitios de fuego de Absherón.",
+      "focus_keyword": "cosas que hacer en Bakú",
+      "keywords": [
+        "cosas que hacer en Bakú",
+        "tour por la Ciudad Vieja de Bakú",
+        "visita al Centro Heydar Aliyev",
+        "Torres de Llamas Bakú",
+        "Bulevar del Caspio Bakú",
+        "tour privado por Azerbaiyán",
+        "excursión de un día a la península de Absherón",
+        "tour a los volcanes de lodo de Gobustan"
+      ]
+    }
+  },
+  "contentHash": "b4852ff0301279ad",
+  "refreshLog": [
+    {
+      "at": "2026-11-02T22:54:53+04:00",
+      "reason": "content edited outside the pipeline"
+    },
+    {
+      "at": "2026-11-18T08:55:41+04:00",
+      "reason": "seasonal section 2026-11"
+    }
+  ]
+}

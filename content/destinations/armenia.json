@@ -1,0 +1,394 @@
+{
+  "slug": "armenia",
+  "name": {
+    "en": "Armenia",
+    "de": "Armenien",
+    "fr": "Arménie",
+    "ja": "アルメニア",
+    "es": "Armenia",
+    "zh": "亚美尼亚"
+  },
+  "region": {
+    "en": "Caucasus",
+    "de": "Kaukasus",
+    "fr": "Caucase",
+    "ja": "コーカサス",
+    "es": "Cáucaso",
+    "zh": "高加索"
+  },
+  "summary": {
+    "en": "Pink-tuff boulevards in Yerevan, cliff-carved monasteries in Garni and Noravank, high-altitude Lake Sevan, and 6,000-year-old wine caves beneath Mount Ararat.",
+    "de": "Rosafarbene Tuffstein-Boulevards in Jerewan, in den Fels gehauene Klöster in Garni und Norawank, der hochgelegene Sewansee und 6.000 Jahre alte Weinhöhlen unter dem Ararat.",
+    "fr": "Les boulevards de tuf rose d’Erevan, les monastères rupestres de Garni et Noravank, le lac Sevan en haute altitude et des grottes viticoles vieilles de 6 000 ans face au mont Ararat.",
+    "ja": "ピンク色の凝灰岩が彩るエレバンの街並み、ガルニやノラヴァンクの断崖に刻まれた修道院、高地のセヴァン湖、そしてアララト山の麓に眠る6,000年前のワイン洞窟。",
+    "es": "Bulevares de toba rosada en Ereván, monasterios excavados en la roca en Garni y Noravank, el lago Seván a gran altitud y cuevas vinícolas de 6.000 años bajo el monte Ararat.",
+    "zh": "埃里温的粉色凝灰岩大道，加尔尼和诺拉万克的悬崖雕刻修道院，高海拔塞万湖，以及亚拉腊山下6,000年的酒窖。"
+  },
+  "bestSeasons": {
+    "en": [
+      "April to June & September to November (mild spring wildflowers and golden autumn harvest in the vineyards; July–August is warm in Yerevan and cool around Lake Sevan and Dilijan)"
+    ],
+    "de": [
+      "April bis Juni & September bis November (milder Frühling mit Wildblumen und goldene Weinlese im Herbst; Juli–August ist warm in Jerewan und angenehm kühl am Sewansee und in Dilidschan)"
+    ],
+    "fr": [
+      "Avril à juin et septembre à novembre (printemps doux fleuri et vendanges dorées d’automne ; juillet-août est chaud à Erevan mais frais autour du lac Sevan et de Dilidjan)"
+    ],
+    "ja": [
+      "4月〜6月および9月〜11月（高山植物が咲く穏やかな春と、ブドウ畑が黄金色に染まる秋の収穫期。7〜8月はエレバンでは暖かいものの、セヴァン湖やディリジャンなどの高原は涼しく快適です）"
+    ],
+    "es": [
+      "Abril a junio y septiembre a noviembre (primavera suave con flores silvestres y vendimia dorada en otoño; julio y agosto son cálidos en Ereván y frescos en el lago Seván y Diliján)"
+    ],
+    "zh": [
+      "4月至6月及9月至11月（温和的春季野花和葡萄园的金色秋季收获；7月至8月埃里温温暖，塞万湖和第利詹凉爽）"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Yerevan’s pink-tuff Cascade Complex, Republic Square, and open-air Vernissage art market",
+      "First-century Greco-Roman Garni Temple and the basalt organ pipes of the Symphony of Stones",
+      "UNESCO-listed Geghard Monastery, carved directly into the cliffs of the Azat River gorge",
+      "Khor Virap Monastery against the snow-capped silhouette of Mount Ararat, plus Areni-1 Cave and vineyards",
+      "Noravank’s two-storey stone church framed by sheer brick-red canyon walls",
+      "High-altitude Lake Sevan, Sevanavank Peninsula, and the forested mountain valleys of Dilijan and Tsaghkadzor"
+    ],
+    "de": [
+      "Jerewans rosafarbene Kaskade aus Tuffstein, der Platz der Republik und der Kunstmarkt Vernissage unter freiem Himmel",
+      "Der griechisch-römische Garni-Tempel aus dem 1. Jahrhundert und die Basaltorgeln der „Symphonie der Steine“",
+      "Das zum UNESCO-Welterbe gehörende Kloster Geghard, direkt in die Felswände der Asat-Schlucht geschlagen",
+      "Das Kloster Chor Wirap vor der schneebedeckten Kulisse des Ararat sowie die Höhle Areni-1 und historische Weingüter",
+      "Die zweistöckige Steinkirche von Norawank, eingerahmt von steilen ziegelroten Schluchtwänden",
+      "Der hochgelegene Sewansee, die Halbinsel Sewanawank und die bewaldeten Bergtäler von Dilidschan und Zaghkadsor"
+    ],
+    "fr": [
+      "Le complexe de la Cascade en tuf rose d’Erevan, la place de la République et le marché d’art en plein air Vernissage",
+      "Le temple gréco-romain de Garni du Ier siècle et les orgues basaltiques de la Symphonie des Pierres",
+      "Le monastère de Guéghard classé à l’UNESCO, taillé à même les falaises des gorges de l’Azat",
+      "Le monastère de Khor Virap face à la silhouette enneigée du mont Ararat, ainsi que la grotte d’Areni-1 et ses vignobles",
+      "L’église en pierre à deux étages de Noravank, encadrée de falaises rouge brique vertigineuses",
+      "Le lac Sevan en haute altitude, la péninsule de Sevanavank et les vallées montagneuses boisées de Dilidjan et Tsaghkadzor"
+    ],
+    "ja": [
+      "ピンク色の凝灰岩で造られたエレバンのカスケード記念碑、共和国広場、青空アート市場ヴェルニサージュ",
+      "1世紀のグレコ・ローマン様式ガルニ神殿と、柱状節理が連なる「石の交響曲」",
+      "アザト川渓谷の断崖に直接彫り込まれたユネスコ世界遺産ゲガルド修道院",
+      "雪を頂くアララト山を望むホル・ヴィラップ修道院と、アレニ洞窟および歴史あるワイナリー",
+      "赤褐色の切り立った渓谷に佇む13世紀のノラヴァンク修道院",
+      "高地湖セヴァン湖とセヴァナヴァンク修道院、そしてディリジャンとツァフカゾールの緑豊かな渓谷"
+    ],
+    "es": [
+      "El complejo de la Cascada en toba rosada de Ereván, la Plaza de la República y el mercado de arte al aire libre Vernissage",
+      "El templo grecorromano de Garni del siglo I y las columnas basálticas de la Sinfonía de las Piedras",
+      "El monasterio de Geghard, Patrimonio de la UNESCO, excavado en los acantilados de la garganta del río Azat",
+      "El monasterio de Khor Virap frente a la silueta nevada del monte Ararat, además de la cueva de Areni-1 y sus viñedos",
+      "La iglesia de piedra de dos plantas de Noravank, enmarcada por cañones de roca roja",
+      "El lago Seván a gran altitud, la península de Sevanavank y los valles boscosos de Diliján y Tsaghkadzor"
+    ],
+    "zh": [
+      "埃里温的粉色凝灰岩喀斯喀特综合体、共和国广场和露天维尔尼萨日艺术市场",
+      "一世纪的格列科-罗马加尔尼神庙和交响石的玄武岩管风琴",
+      "联合国教科文组织列入名录的盖格哈德修道院，直接雕刻在阿扎特河峡谷的悬崖上",
+      "背靠雪顶亚拉腊山剪影的霍尔维拉普修道院，以及阿雷尼-1洞穴和葡萄园",
+      "被陡峭砖红色峡谷墙壁环绕的诺拉万克两层石教堂",
+      "高海拔塞万湖、塞万万克半岛，以及第利詹和察赫卡佐尔的森林山谷"
+    ]
+  },
+  "visaNote": {
+    "en": "Passport holders from the EU, Schengen Area, United States, United Kingdom, UAE, and Japan enjoy visa-free entry to Armenia for up to 180 days per year; most other nationalities can obtain an official Armenian e-Visa online in 3 business days.",
+    "de": "Staatsangehörige der EU, des Schengen-Raums, der USA, Großbritanniens, der VAE und Japans reisen bis zu 180 Tage pro Jahr visumfrei nach Armenien ein; die meisten anderen Nationalitäten erhalten in 3 Werktagen online ein offizielles E-Visum.",
+    "fr": "Les ressortissants de l’UE, de l’espace Schengen, des États-Unis, du Royaume-Uni, des Émirats arabes unis et du Japon sont exemptés de visa pour l’Arménie jusqu’à 180 jours par an ; la plupart des autres nationalités obtiennent un e-visa officiel en 3 jours ouvrés.",
+    "ja": "日本、EU・シェンゲン圏、米国、英国、UAEのパスポート所持者は年間最大180日間ビザなしでアルメニアに入国可能です。その他の多くの国籍の方もオンラインの公式eビザを約3営業日で取得できます。",
+    "es": "Los ciudadanos de la UE, el espacio Schengen, Estados Unidos, Reino Unido, EAU y Japón entran sin visado a Armenia hasta 180 días al año; la mayoría de las demás nacionalidades obtienen un visado electrónico oficial en 3 días hábiles.",
+    "zh": "欧盟、申根区、美国、英国、阿联酋和日本护照持有人可免签进入亚美尼亚，每年最多停留180天；大多数其他国籍可在线办理亚美尼亚电子签证，3个工作日出签。"
+  },
+  "heroGradient": [
+    "#5A1E1B",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925534/sunday-atlas/hjymck2lkqo96lsegffp.jpg",
+    "width": 1600,
+    "height": 1067,
+    "alt": {
+      "en": "Panoramic view over Yerevan and the Cascade Complex toward Mount Ararat in Armenia",
+      "de": "Panoramablick über Jerewan und die Kaskade in Richtung des Berges Ararat in Armenien",
+      "fr": "Vue panoramique sur Erevan et le complexe de la Cascade face au mont Ararat en Arménie",
+      "ja": "アルメニア・エレバンのカスケード記念碑とアララト山を望むパノラマ風景",
+      "es": "Vista panorámica de Ereván y el complejo de la Cascada hacia el monte Ararat en Armenia",
+      "zh": "亚美尼亚埃里温及喀斯喀特综合体全景，远眺亚拉腊山"
+    }
+  },
+  "sample": false,
+  "published": true,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925537/sunday-atlas/w5pzobmjgja0sbdw4iry.jpg",
+        "width": 1600,
+        "height": 894
+      },
+      "alt": {
+        "en": "Ancient Armenian stone church overlooking dramatic highland gorge",
+        "de": "Historische armenische Steinkirche über einer dramatischen Hochlandschlucht",
+        "fr": "Ancienne église arménienne en pierre surplombant une gorge des hauts plateaux",
+        "ja": "険しい渓谷を見下ろすアルメニアの古い石造教会",
+        "es": "Antigua iglesia armenia de piedra sobre un dramático desfiladero en las tierras altas",
+        "zh": "俯瞰壮丽高地峡谷的古老亚美尼亚石教堂"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925946/sunday-atlas/ekovys1rjet09lxzzqef.jpg",
+        "width": 1600,
+        "height": 1060
+      },
+      "alt": {
+        "en": "Medieval Armenian monastery framed by rugged Caucasus mountain peaks",
+        "de": "Mittelalterliches armenisches Kloster vor schroffen Gipfeln des Kaukasus",
+        "fr": "Monastère arménien médiéval encadré par les sommets escarpés du Caucase",
+        "ja": "コーカサスの険しい山々に囲まれた中世アルメニアの修道院",
+        "es": "Monasterio medieval armenio enmarcado por las escarpadas cumbres del Cáucaso",
+        "zh": "被崎岖高加索山峰环绕的中世纪亚美尼亚修道院"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925945/sunday-atlas/prwgi1qo6ibjuv9d3xza.jpg",
+        "width": 1600,
+        "height": 849
+      },
+      "alt": {
+        "en": "Sevanavank Monastery above the deep blue waters of Lake Sevan, Armenia",
+        "de": "Kloster Sewanawank über dem tiefblauen Wasser des Sewansees in Armenien",
+        "fr": "Monastère de Sevanavank dominant les eaux bleu profond du lac Sevan en Arménie",
+        "ja": "アルメニア・セヴァン湖の紺碧の湖面を見下ろすセヴァナヴァンク修道院",
+        "es": "Monasterio de Sevanavank sobre las aguas azul profundo del lago Seván en Armenia",
+        "zh": "亚美尼亚塞万湖深蓝水面上的塞万万克修道院"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925944/sunday-atlas/cwbfkdcibwdgx2dunvxr.jpg",
+        "width": 1600,
+        "height": 839
+      },
+      "alt": {
+        "en": "Green mountain valleys and forested slopes around Dilijan in northern Armenia",
+        "de": "Grüne Bergtäler und bewaldete Hänge rund um Dilidschan im Norden Armeniens",
+        "fr": "Vallées montagneuses verdoyantes et pentes boisées autour de Dilidjan dans le nord de l’Arménie",
+        "ja": "アルメニア北部ディリジャン周辺の緑豊かな渓谷と森林",
+        "es": "Verdes valles de montaña y laderas boscosas alrededor de Diliján en el norte de Armenia",
+        "zh": "亚美尼亚北部第利詹周围的绿色山谷和森林山坡"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925945/sunday-atlas/fn19bs6wdaezqv0a4ifm.jpg",
+        "width": 1600,
+        "height": 1059
+      },
+      "alt": {
+        "en": "Red rock cliffs and historic stone architecture in southern Armenia",
+        "de": "Rote Felsklippen und historische Steinarchitektur im Süden Armeniens",
+        "fr": "Falaises de roche rouge et architecture en pierre historique dans le sud de l’Arménie",
+        "ja": "アルメニア南部の赤い岩壁と歴史的な石造建築",
+        "es": "Acantilados de roca roja y arquitectura histórica de piedra en el sur de Armenia",
+        "zh": "亚美尼亚南部的红色岩石悬崖和历史悠久的石质建筑"
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Armenia Private Tours & Yerevan Day Trips [2027] | From $110 USD",
+      "meta_description": "Compare 3 private Armenia tours from Yerevan (From $110 USD): 1-day Garni Temple, Geghard & Lake Sevan trip, plus 4-day & 5-day Khor Virap, Areni & Dilijan tours.",
+      "focus_keyword": "armenia tours",
+      "noindex": false,
+      "keywords": [
+        "armenia tours",
+        "armenia tour packages",
+        "yerevan day trips",
+        "garni geghard lake sevan tour",
+        "khor virap noravank tour"
+      ]
+    },
+    "de": {
+      "seo_title": "Armenien Rundreisen & Jerewan Tagestouren [2027] | Ab $110 USD",
+      "meta_description": "3 private Armenien-Touren ab Jerewan (ab $110 USD): Tagestour nach Garni, Geghard & Sewansee sowie 4- und 5-tägige Rundreisen nach Chor Virap, Areni & Dilidschan.",
+      "focus_keyword": "armenien rundreise",
+      "noindex": false,
+      "keywords": [
+        "armenien rundreise",
+        "armenien reisen",
+        "jerewan tagestouren",
+        "garni geghard sewansee ausflug",
+        "chor virap tour"
+      ]
+    },
+    "fr": {
+      "seo_title": "Circuits Arménie & Excursions depuis Erevan [2027] | Dès $110 USD",
+      "meta_description": "3 circuits privés en Arménie depuis Erevan (dès $110 USD) : excursion d’un jour à Garni, Geghard et lac Sevan, et circuits de 4 et 5 jours (Khor Virap, Dilijan).",
+      "focus_keyword": "circuit arménie",
+      "noindex": false,
+      "keywords": [
+        "circuit arménie",
+        "voyage arménie",
+        "excursion erevan",
+        "garni geghard lac sevan",
+        "khor virap noravank"
+      ]
+    },
+    "ja": {
+      "seo_title": "アルメニア現地ツアー＆エレバン日帰り旅行 [2027] | 全3コース $110〜",
+      "meta_description": "エレバン発のアルメニア・プライベートツアー全3コース（$110〜）：ガルニ神殿・ゲガルド修道院・セヴァン湖日帰りツアーと、ホル・ヴィラップやディリジャンを巡る4〜5日間ツアー。",
+      "focus_keyword": "アルメニア ツアー",
+      "noindex": false,
+      "keywords": [
+        "アルメニア ツアー",
+        "エレバン 日帰りツアー",
+        "ガルニ神殿 ゲガルド修道院 ツアー",
+        "アルメニア 観光",
+        "ホルヴィラップ ツアー"
+      ]
+    },
+    "es": {
+      "seo_title": "Tours Privados en Armenia y Excursiones Ereván [2027] | Desde $110",
+      "meta_description": "Compare 3 tours privados en Armenia desde Ereván (desde $110 USD): excursión de 1 día a Garni, Geghard y el lago Sevan, y circuitos de 4 y 5 días por Khor Virap.",
+      "focus_keyword": "tours armenia",
+      "noindex": false,
+      "keywords": [
+        "tours armenia",
+        "viajes a armenia",
+        "excursiones desde ereván",
+        "garni geghard lago sevan",
+        "khor virap tour"
+      ]
+    },
+    "zh": {
+      "seo_title": "亚美尼亚私人游 & 埃里温一日游 [2027] | 从 $110 USD 起",
+      "meta_description": "比较 3 个从埃里温出发的亚美尼亚私人游（从 $110 USD 起）：1 天加尔尼神庙、格哈德修道院与塞凡湖之旅，以及 4 天和 5 天霍尔维拉普、阿雷尼与狄利詹之旅。",
+      "focus_keyword": "亚美尼亚私人旅游",
+      "keywords": [
+        "亚美尼亚私人旅游",
+        "亚美尼亚一日游",
+        "埃里温旅游",
+        "加尔尼神庙",
+        "盖哈德修道院",
+        "塞凡湖旅游",
+        "科尔维拉普修道院",
+        "亚美尼亚4日游",
+        "亚美尼亚5日游",
+        "亚美尼亚旅游团"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "intro": {
+    "en": "Armenia rewards travellers who like compact distances paired with deep history. Because the country radiates outward from the Ararat plain, you can unpack once at a central four-star hotel in Yerevan and spend each day exploring a completely different landscape — without packing and repacking bags every morning.\n\nTo the east, the Azat River gorge holds the first-century Greco-Roman colonnade of Garni Temple, basalt columns known as the Symphony of Stones, and the cave chapels of Geghard Monastery. To the north, the road climbs past the ropeway at Tsaghkadzor to Lake Sevan at 1,900 metres above sea level before dropping into the forested hills of Dilijan and 13th-century Haghartsin. Heading south across the Ararat valley brings you to Khor Virap against the snow-capped wall of Mount Ararat, clay-amphora wine tastings in Areni, and the red-rock canyon of Noravank.",
+    "de": "Armenien belohnt Reisende, die kurze Distanzen und tiefe Geschichte schätzen. Da sich das Land sternförmig von der Ararat-Ebene aus erschließt, beziehen Sie einmal Ihr zentrales Vier-Sterne-Hotel in Jerewan und entdecken jeden Tag eine völlig neue Landschaft – ohne jeden Morgen die Koffer neu zu packen.\n\nÖstlich der Hauptstadt birgt die Asat-Schlucht den griechisch-römischen Garni-Tempel aus dem 1. Jahrhundert, die Basaltorgeln der „Symphonie der Steine“ und die Felskapellen des Klosters Geghard. Nach Norden führt die Straße über die Seilbahn von Zaghkadsor zum Sewansee auf 1.900 Metern Höhe und weiter in die bewaldeten Berge von Dilidschan zum Kloster Haghartsin aus dem 13. Jahrhundert. Im Süden erwarten Sie das Kloster Chor Wirap direkt vor dem schneebedeckten Ararat, Weinverkostungen in Areni und die rote Felsschlucht von Norawank.",
+    "fr": "L’Arménie séduit les voyageurs qui apprécient les courtes distances associées à une histoire millénaire. Comme les routes rayonnent depuis la plaine de l’Ararat, vous vous installez une seule fois dans un hôtel quatre étoiles du centre d’Erevan et partez chaque jour vers un paysage différent, sans refaire vos valises chaque matin.\n\nÀ l’est, les gorges de l’Azat abritent la colonnade gréco-romaine du temple de Garni, les orgues basaltiques de la Symphonie des Pierres et les chapelles rupestres du monastère de Guéghard. Au nord, la route monte vers le téléphérique de Tsaghkadzor et le lac Sevan à 1 900 mètres d’altitude, avant de plonger dans les forêts de Dilidjan et le monastère de Haghartsin. Au sud, à travers la vallée de l’Ararat, vous rejoignez Khor Virap face au sommet enneigé de l’Ararat, les caves viticoles d’Areni et le canyon de roche rouge de Noravank.",
+    "ja": "アルメニアは、コンパクトな移動距離の中に何千年もの歴史と多彩な絶景が凝縮された国です。首都エレバンを中心に各地へ日帰りでアクセスできるため、市内の快適な4つ星ホテルに連泊しながら、毎朝荷造りをする手間なく毎日異なる風景へと出かけられます。\n\n東へ向かえば、アザト川渓谷に立つ1世紀のグレコ・ローマン様式ガルニ神殿、柱状節理の「石の交響曲」、岩山を彫り抜いた世界遺産ゲガルド修道院が待っています。北へ登ればツァフカゾールのロープウェイと標高1,900メートルのセヴァン湖、さらに「アルメニアのスイス」と称されるディリジャンの深い森と13世紀のハガルツィン修道院へ。南のアララト平原を越えれば、霊峰アララトを間近に望むホル・ヴィラップ修道院、世界最古級のワイン産地アレニでの試飲、そして赤い断崖に囲まれたノラヴァンク修道院を訪ねることができます。",
+    "es": "Armenia recompensa a quienes buscan distancias cortas combinadas con una historia milenaria. Como las rutas parten desde la llanura del Ararat, puedes instalarte una sola vez en un hotel de cuatro estrellas en el centro de Ereván y dedicar cada día a un paisaje distinto, sin hacer y deshacer maletas cada mañana.\n\nHacia el este, la garganta del río Azat alberga la columnata grecorromana del templo de Garni, las formaciones basálticas de la Sinfonía de las Piedras y las capillas rupestres del monasterio de Geghard. Hacia el norte, la carretera sube hasta el teleférico de Tsaghkadzor y el lago Seván a 1.900 metros de altitud antes de adentrarse en los bosques de Diliján y el monasterio de Haghartsin. Al sur, cruzando el valle del Ararat, aguardan Khor Virap frente a la cumbre nevada del monte Ararat, las bodegas de Areni y el cañón de roca roja de Noravank.",
+    "zh": "亚美尼亚适合喜欢短距离与深厚历史相结合的旅行者。由于该国从亚拉腊平原向四周辐射，您可以在埃里温中央的一家四星级酒店住下，每天探索完全不同的风景，无需每天早上收拾行李再出发。\n\n向东，阿扎特河峡谷拥有加尔尼神庙的一世纪格列科-罗马柱廊、被称为“交响石”的玄武岩柱，以及盖格哈德修道院的洞穴教堂。向北，道路经过察赫卡佐尔的缆车，抵达海拔1,900米的塞万湖，然后进入第利詹的森林山丘和13世纪的哈加尔钦。穿过亚拉腊谷地向南，您将来到背靠雪顶亚拉腊山的霍尔维拉普修道院，在阿雷尼品尝陶罐葡萄酒，并游览诺拉万克的红色岩石峡谷。"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "Should I choose the 4-day or the 5-day Armenia tour?",
+        "de": "Sollte ich die 4-tägige oder die 5-tägige Armenien-Reise wählen?",
+        "fr": "Faut-il choisir le circuit de 4 jours ou de 5 jours en Arménie ?",
+        "ja": "アルメニアツアーは4日間と5日間のどちらを選ぶべきですか？",
+        "es": "¿Debo elegir el tour de 4 días o el de 5 días por Armenia?",
+        "zh": "我应该选择4天还是5天的亚美尼亚之旅？"
+      },
+      "a": {
+        "en": "Both tours stay at a central 4-star hotel in Yerevan and cover Yerevan, Garni Temple, Geghard Monastery, Tsaghkadzor, Lake Sevan, Khor Virap, Areni, and Noravank. The 5-day Cultural Discovery separates Garni & Geghard (Day 2) from Lake Sevan & Tsaghkadzor (Day 3) and adds the forested mountain town of Dilijan, Parz Lake, and 13th-century Haghartsin Monastery at a more relaxed pace.",
+        "de": "Beide Reisen übernachten in einem zentralen 4-Sterne-Hotel in Jerewan und besuchen Jerewan, den Garni-Tempel, das Kloster Geghard, Zaghkadsor, den Sewansee, Chor Wirap, Areni und Norawank. Die 5-tägige Kulturreise trennt Garni & Geghard (Tag 2) vom Sewansee & Zaghkadsor (Tag 3) und ergänzt das bewaldete Bergstädtchen Dilidschan, den Parz-See und das Kloster Haghartsin aus dem 13. Jahrhundert in entspannterem Tempo.",
+        "fr": "Les deux circuits logent dans un hôtel 4 étoiles central à Erevan et visitent Erevan, le temple de Garni, le monastère de Guéghard, Tsaghkadzor, le lac Sevan, Khor Virap, Areni et Noravank. Le circuit de 5 jours sépare Garni et Guéghard (jour 2) du lac Sevan et Tsaghkadzor (jour 3) et ajoute la vallée boisée de Dilidjan, le lac Parz et le monastère de Haghartsin à un rythme plus détendu.",
+        "ja": "どちらのコースもエレバン中心部の4つ星ホテルに滞在し、エレバン市内、ガルニ神殿、ゲガルド修道院、ツァフカゾール、セヴァン湖、ホル・ヴィラップ、アレニ、ノラヴァンクを網羅します。5日間コースではガルニ＆ゲガルド（2日目）とセヴァン湖＆ツァフカゾール（3日目）を別日程に分け、さらに森林の保養地ディリジャン、パルズ湖、13世紀のハガルツィン修道院をゆとりあるペースで巡ります。",
+        "es": "Ambos circuitos se alojan en un hotel de 4 estrellas en Ereván e incluyen Ereván, el templo de Garni, el monasterio de Geghard, Tsaghkadzor, el lago Seván, Khor Virap, Areni y Noravank. El tour de 5 días separa Garni y Geghard (día 2) del lago Seván y Tsaghkadzor (día 3) y añade los bosques de Diliján, el lago Parz y el monasterio de Haghartsin a un ritmo más pausado.",
+        "zh": "两个行程均在埃里温市中心的4星级酒店住宿，涵盖埃里温、加尔尼神庙、格赫ard修道院、察赫卡佐尔、塞万湖、霍尔维拉普、阿雷尼和诺拉万克。5天文化探索之行将加尔尼与格赫ard（第2天）与塞万湖和察赫卡佐尔（第3天）分开，并以更悠闲的节奏增加了森林山城第利然、帕尔兹湖和13世纪哈格阿尔辛修道院。"
+      }
+    },
+    {
+      "q": {
+        "en": "Do I change hotels during the Armenia itinerary?",
+        "de": "Wechselt man während der Armenien-Reise das Hotel?",
+        "fr": "Change-t-on d’hôtel pendant le circuit en Arménie ?",
+        "ja": "アルメニア滞在中にホテルの移動はありますか？",
+        "es": "¿Se cambia de hotel durante el itinerario por Armenia?",
+        "zh": "亚美尼亚行程中需要换酒店吗？"
+      },
+      "a": {
+        "en": "No. Yerevan sits within 1 to 2.5 hours’ scenic drive of Garni, Geghard, Lake Sevan, Dilijan, Khor Virap, and Noravank, so you stay at the same 4-star hotel in Yerevan every night and travel light on private day excursions.",
+        "de": "Nein. Da Garni, Geghard, der Sewansee, Dilidschan, Chor Wirap und Norawank jeweils nur 1 bis 2,5 Fahrstunden von Jerewan entfernt liegen, übernachten Sie jede Nacht im selben 4-Sterne-Hotel in Jerewan und unternehmen private Tagesausflüge ohne Kofferpacken.",
+        "fr": "Non. Erevan se trouve à entre 1 h et 2 h 30 de route panoramique de Garni, Guéghard, du lac Sevan, de Dilidjan, de Khor Virap et de Noravank ; vous dormez donc chaque soir dans le même hôtel 4 étoiles à Erevan.",
+        "ja": "いいえ、ホテルの移動はありません。ガルニ、ゲガルド、セヴァン湖、ディリジャン、ホル・ヴィラップ、ノラヴァンクはいずれもエレバンから専用車で片道1時間〜2時間半圏内にあるため、毎晩エレバンの同じ4つ星ホテルに連泊し、身軽に日帰り観光をお楽しみいただけます。",
+        "es": "No. Ereván se encuentra a entre 1 y 2,5 horas por carretera panorámica de Garni, Geghard, el lago Seván, Diliján, Khor Virap y Noravank, por lo que te alojas todas las noches en el mismo hotel de 4 estrellas en Ereván.",
+        "zh": "不。埃里温距离加尔尼、格赫尔德、塞万湖、第利詹、霍尔维拉普和诺拉万克的风景驱车时间在1到2.5小时之间，因此您每晚都在埃里温同一家4星级酒店住宿，私人一日游行程轻装出行。"
+      }
+    },
+    {
+      "q": {
+        "en": "Are entrance tickets and the Areni wine tasting included?",
+        "de": "Sind Eintrittsgelder und die Weinverkostung in Areni im Preis enthalten?",
+        "fr": "Les billets d’entrée et la dégustation de vin à Areni sont-ils inclus ?",
+        "ja": "観光地の入場料やアレニでのワイン試飲は料金に含まれていますか？",
+        "es": "¿Están incluidas las entradas y la cata de vinos en Areni?",
+        "zh": "门票和阿雷尼品酒是否包含？"
+      },
+      "a": {
+        "en": "Yes. Both Armenia tours include all monument and museum entrance fees listed in the itinerary, the Tsaghkadzor ropeway ride, the Areni-1 Cave visit, and a guided tour and tasting at an Areni winery.",
+        "de": "Ja. Beide Armenien-Reisen beinhalten sämtliche im Reiseverlauf genannten Eintrittsgelder für Klöster und Museen, die Seilbahnfahrt in Zaghkadsor, den Besuch der Höhle Areni-1 sowie eine Führung mit Weinverkostung in einem Weingut in Areni.",
+        "fr": "Oui. Les deux circuits en Arménie comprennent tous les droits d’entrée mentionnés au programme, la montée en téléphérique à Tsaghkadzor, la visite de la grotte d’Areni-1 ainsi qu’une visite avec dégustation dans un domaine viticole d’Areni.",
+        "ja": "はい。アルメニアの両ツアーとも、日程表に記載されたすべての修道院・博物館の入場料、ツァフカゾールのロープウェイ乗車券、アレニ洞窟の入場、およびアレニのワイナリー見学と試飲が含まれています。",
+        "es": "Sí. Ambos tours por Armenia incluyen todas las entradas a monumentos y museos indicadas en el itinerario, el teleférico de Tsaghkadzor, la visita a la cueva de Areni-1 y un recorrido con degustación en una bodega de Areni.",
+        "zh": "包含。两个亚美尼亚旅程都包括行程中列出的所有纪念碑和博物馆门票、察赫卡佐尔缆车乘车、阿雷尼-1洞穴参观，以及在阿雷尼酒庄的导览和品酒。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Armenia tours: Yerevan, Lake Sevan & Ancient Monasteries",
+      "de": "Armenien Reisen: Jerewan, Sewansee & Felsenklöster",
+      "fr": "Voyages en Arménie : Erevan, lac Sevan et monastères rupestres",
+      "ja": "アルメニア旅行：エレバン・セヴァン湖・古代修道院を巡る旅",
+      "es": "Viajes a Armenia: Ereván, lago Seván y monasterios antiguos",
+      "zh": "亚美尼亚之旅：埃里温、塞万湖与古老修道院"
+    },
+    "overview": {
+      "en": "Where to go on an Armenia tour",
+      "de": "Wohin auf einer Armenien-Reise",
+      "fr": "Où aller lors d’un voyage en Arménie",
+      "ja": "アルメニア旅行の見どころ",
+      "es": "Qué ver en un viaje a Armenia",
+      "zh": "亚美尼亚之旅：去哪里"
+    },
+    "Gallery": {
+      "en": "Photos from Armenia",
+      "de": "Fotos aus Armenien",
+      "fr": "Photos d’Arménie",
+      "ja": "アルメニアの写真",
+      "es": "Fotos de Armenia",
+      "zh": "亚美尼亚照片"
+    },
+    "itineraries": {
+      "en": "Armenia tour itineraries",
+      "de": "Armenien-Reiserouten",
+      "fr": "Itinéraires de voyage en Arménie",
+      "ja": "アルメニアのツアープラン",
+      "es": "Itinerarios de viaje por Armenia",
+      "zh": "亚美尼亚旅游行程"
+    },
+    "faq": {
+      "en": "Armenia travel FAQs",
+      "de": "Häufige Fragen zu Armenien-Reisen",
+      "fr": "Questions fréquentes sur un voyage en Arménie",
+      "ja": "アルメニア旅行のよくある質問",
+      "es": "Preguntas frecuentes sobre viajar a Armenia",
+      "zh": "亚美尼亚旅游常见问题"
+    }
+  }
+}

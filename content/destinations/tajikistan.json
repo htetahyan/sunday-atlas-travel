@@ -1,0 +1,420 @@
+{
+  "slug": "tajikistan",
+  "name": {
+    "en": "Tajikistan",
+    "de": "Tadschikistan",
+    "fr": "Tadjikistan",
+    "ja": "タジキスタン",
+    "es": "Tayikistán",
+    "zh": "塔吉克斯坦"
+  },
+  "region": {
+    "en": "Central Asia",
+    "de": "Zentralasien",
+    "fr": "Asie centrale",
+    "ja": "中央アジア",
+    "es": "Asia central",
+    "zh": "中亚"
+  },
+  "summary": {
+    "en": "Khujand, Istaravshan, Penjikent, the Fan Mountains and Dushanbe: the mountain crossing on our Four Stans and 5 Stans tours.",
+    "de": "Tadschikistan Rundreise mit Chudschand, Istarawschan, Pendschikent, dem Fan-Gebirge und Duschanbe: die Bergüberquerung unserer Four-Stans- und 5-Stans-Reisen.",
+    "fr": "Un voyage au Tadjikistan par Khodjent, Istaravchan, Pendjikent, les monts Fann et Douchanbé : la traversée montagnarde de nos circuits Four Stans et 5 Stans.",
+    "ja": "ホジェンド、イスタラフシャン、ペンジケント、ファン山脈、ドゥシャンベ。フォー・スタンズと5スタンのツアーで越える山の国です。",
+    "es": "Juyand, Istaravshan, Penjikent, los montes Fan y Dusambé: el paso de montaña de nuestros viajes Four Stans y 5 Stans.",
+    "zh": "霍杰德、伊斯塔拉夫尚、潘杰肯特、范山和杜尚贝：这是我们 Four Stans 和 5 Stans 之旅的山路穿越。"
+  },
+  "bestSeasons": {
+    "en": [
+      "Late spring to early autumn is the usual season for the Fan Mountains, the Seven Lakes and Iskanderkul",
+      "Mountain roads can close in winter"
+    ],
+    "de": [
+      "Spätfrühling bis Frühherbst ist die übliche Zeit für das Fan-Gebirge, die Sieben Seen und den Iskanderkul",
+      "Bergstraßen können im Winter gesperrt sein"
+    ],
+    "fr": [
+      "De la fin du printemps au début de l’automne, la saison habituelle pour les monts Fann, les Sept Lacs et l’Iskanderkoul",
+      "Les routes de montagne peuvent fermer en hiver"
+    ],
+    "ja": [
+      "ファン山脈、七つの湖、イスカンデルクル湖は、晩春から初秋が一般的なシーズンです",
+      "冬は山道が閉鎖されることがあります"
+    ],
+    "es": [
+      "De finales de primavera a principios de otoño, la temporada habitual para los montes Fan, los Siete Lagos y el Iskanderkul",
+      "Las carreteras de montaña pueden cerrarse en invierno"
+    ],
+    "zh": [
+      "晚春到初秋通常是范山、七湖和伊斯坎德尔湖的旅游季节",
+      "冬季山路可能会封闭"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Khujand: Panjshanbe Bazaar, the museum and the fortress walls",
+      "Istaravshan and the Kuk-Gumbaz Mosque",
+      "Penjikent and the Sarazm ruins (UNESCO)",
+      "The Seven Lakes of Marguzor in the Fan Mountains",
+      "Dushanbe, the Hissar Fortress and Iskanderkul Lake (5 Stans tour)"
+    ],
+    "de": [
+      "Chudschand: Pandschschanbe-Basar, Museum und Festungsmauern",
+      "Istarawschan und die Kok-Gumbaz-Moschee",
+      "Pendschikent und die Ruinen von Sarazm (UNESCO)",
+      "Die Sieben Seen von Marguzor im Fan-Gebirge",
+      "Duschanbe, die Festung Hissor und der Iskanderkul-See (5-Stans-Reise)"
+    ],
+    "fr": [
+      "Khodjent : bazar Panchanbe, musée et remparts",
+      "Istaravchan et la mosquée Kok-Goumbaz",
+      "Pendjikent et les ruines de Sarazm (UNESCO)",
+      "Les Sept Lacs de Marguzor dans les monts Fann",
+      "Douchanbé, la forteresse de Hissor et le lac Iskanderkoul (circuit 5 Stans)"
+    ],
+    "ja": [
+      "ホジェンド：パンジシャンベ・バザール、博物館、城壁",
+      "イスタラフシャンとクク・グンバズ・モスク",
+      "ペンジケントとサラズム遺跡（ユネスコ世界遺産）",
+      "ファン山脈のマルグゾルの七つの湖",
+      "ドゥシャンベ、ヒッサール要塞、イスカンデルクル湖（5スタンのツアー）"
+    ],
+    "es": [
+      "Juyand: bazar Panjshanbe, museo y murallas",
+      "Istaravshan y la mezquita Kuk-Gumbaz",
+      "Penjikent y las ruinas de Sarazm (UNESCO)",
+      "Los Siete Lagos de Marguzor en los montes Fan",
+      "Dusambé, la fortaleza de Hissar y el lago Iskanderkul (viaje 5 Stans)"
+    ],
+    "zh": [
+      "霍杰德：潘杰尚贝集市、博物馆和要塞城墙",
+      "伊斯塔拉夫尚和库克-古巴兹清真寺",
+      "潘杰肯特和萨拉兹姆遗址（联合国教科文组织）",
+      "范山的马尔古佐尔七湖",
+      "杜尚贝、希萨尔要塞和伊斯坎德尔湖（5 Stans 之旅）"
+    ]
+  },
+  "visaNote": {
+    "en": "Entry rules depend on your passport and can change, so please check the official government sources before you book. Our tours enter Tajikistan by land at Oybek or by air at Dushanbe.",
+    "de": "Die Einreisebestimmungen hängen von Ihrem Pass ab und können sich ändern; bitte prüfen Sie vor der Buchung die offiziellen Quellen. Unsere Reisen kommen auf dem Landweg bei Oybek oder per Flug in Duschanbe nach Tadschikistan.",
+    "fr": "Les conditions d’entrée dépendent de votre passeport et peuvent changer ; vérifiez les sources officielles avant de réserver. Nos circuits entrent au Tadjikistan par la route à Oybek ou par avion à Douchanbé.",
+    "ja": "入国条件はお持ちのパスポートによって異なり、変更されることもあります。ご予約前に公式の情報をご確認ください。私たちのツアーは、陸路でオイベクから、または空路でドゥシャンベからタジキスタンに入ります。",
+    "es": "Los requisitos de entrada dependen de su pasaporte y pueden cambiar; consulte las fuentes oficiales antes de reservar. Nuestros viajes entran en Tayikistán por tierra en Oybek o en avión por Dusambé.",
+    "zh": "入境规则取决于您的护照，且可能会发生变化，请在预订前查阅官方政府信息。我们的旅游团从奥伊别克陆路进入塔吉克斯坦，或乘飞机抵达杜尚贝。"
+  },
+  "heroGradient": [
+    "#3E6B4F",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400041/sunday-atlas/the-ismoili-somoni-monument-in-dushanbe-tajilistan-9375987_rrlxnl.jpg",
+    "width": 1920,
+    "height": 2560,
+    "alt": {
+      "en": "Ismoili Somoni Monument in Dushanbe, Tajikistan",
+      "de": "Ismoil-Somoni-Denkmal in Duschanbe, Tadschikistan",
+      "fr": "Monument Ismoïl Somoni à Douchanbé, Tadjikistan",
+      "ja": "ドゥシャンベのイスモイル・ソモニ像（タジキスタン）",
+      "es": "Monumento a Ismoil Somoni en Dusambé, Tayikistán",
+      "zh": "杜尚贝，塔吉克斯坦，伊斯莫伊尔·索莫尼纪念碑"
+    }
+  },
+  "sample": false,
+  "published": true,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400041/sunday-atlas/the-ismoili-somoni-monument-in-dushanbe-tajilistan-9375987_rrlxnl.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Ismoili Somoni Monument in Dushanbe, Tajikistan",
+        "de": "Ismoil-Somoni-Denkmal in Duschanbe, Tadschikistan",
+        "fr": "Monument Ismoïl Somoni à Douchanbé, Tadjikistan",
+        "ja": "ドゥシャンベのイスモイル・ソモニ像（タジキスタン）",
+        "es": "Monumento a Ismoil Somoni en Dusambé, Tayikistán",
+        "zh": "杜尚贝，塔吉克斯坦，伊斯莫伊尔·索莫尼纪念碑"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400041/sunday-atlas/traditional-building-and-botanical-garden-9376018_uqqfla.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Botanical Garden in Dushanbe, Tajikistan",
+        "de": "Botanischer Garten in Duschanbe, Tadschikistan",
+        "fr": "Jardin botanique de Douchanbé, Tadjikistan",
+        "ja": "ドゥシャンベの植物園（タジキスタン）",
+        "es": "Jardín Botánico de Dusambé, Tayikistán",
+        "zh": "杜尚贝，塔吉克斯坦，植物园"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400037/sunday-atlas/scenic-view-of-fann-mountains-lake-in-tajikistan-39662460_keryrm.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Mountain lake in the Fann Mountains, Sughd region, Tajikistan",
+        "de": "Bergsee im Fan-Gebirge, Region Sughd, Tadschikistan",
+        "fr": "Lac de montagne dans les monts Fann, région de Sughd, Tadjikistan",
+        "ja": "タジキスタン、ソグド州ファン山脈の山の湖",
+        "es": "Lago de montaña en los montes Fan, región de Sughd, Tayikistán",
+        "zh": "塔吉克斯坦苏格德州范山的山间湖泊"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400035/sunday-atlas/scenic-view-of-fann-mountains-in-tajikistan-39590492_axt9ta.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Peaks of the Fann Mountains, Tajikistan",
+        "de": "Gipfel des Fan-Gebirges, Tadschikistan",
+        "fr": "Sommets des monts Fann, Tadjikistan",
+        "ja": "タジキスタン、ファン山脈の峰々",
+        "es": "Cumbres de los montes Fan, Tayikistán",
+        "zh": "塔吉克斯坦范山山峰"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400027/sunday-atlas/mountains-and-hills-towering-over-a-lake-19813021_smzigr.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Alpine lake below mountains in Sughd Province, Tajikistan",
+        "de": "Bergsee unter Gipfeln in der Provinz Sughd, Tadschikistan",
+        "fr": "Lac alpin au pied des montagnes, province de Sughd, Tadjikistan",
+        "ja": "タジキスタン、ソグド州の山あいの湖",
+        "es": "Lago alpino bajo las montañas en la provincia de Sughd, Tayikistán",
+        "zh": "塔吉克斯坦苏格德州山下高山湖泊"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400036/sunday-atlas/scenic-view-of-traditional-tajikistan-village-39590508_xgstfm.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Traditional village in the Fann Mountains, Tajikistan",
+        "de": "Traditionelles Dorf im Fan-Gebirge, Tadschikistan",
+        "fr": "Village traditionnel des monts Fann, Tadjikistan",
+        "ja": "タジキスタン、ファン山脈の伝統的な村",
+        "es": "Pueblo tradicional en los montes Fan, Tayikistán",
+        "zh": "塔吉克斯坦范山传统村庄"
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Tajikistan Tours & Fann Mountains Trips [2027] | From $145 USD",
+      "meta_description": "Private Tajikistan tours & Dushanbe 4x4 day trips (From $145 USD): Iskanderkul Lake, Seven Lakes (Haft Kul) in the Fann Mountains, Penjikent, Sarazm & Khujand.",
+      "focus_keyword": "tajikistan tours",
+      "keywords": [
+        "tajikistan tours",
+        "iskanderkul lake day trip",
+        "fann mountains tour",
+        "seven lakes tajikistan tour",
+        "dushanbe day trips",
+        "pamir fann mountains guide"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Tadschikistan Rundreisen & Fan-Gebirge Touren [2027] | Ab $145",
+      "meta_description": "Private Tadschikistan-Touren & 4x4-Ausflüge ab Duschanbe (ab $145 USD): Iskanderkul-See, Sieben Seen im Fan-Gebirge, Pendschikent, Sarasm & Chudschand.",
+      "focus_keyword": "tadschikistan reisen",
+      "keywords": [
+        "tadschikistan reisen",
+        "iskanderkul tagestour",
+        "fan gebirge reise",
+        "sieben seen tadschikistan",
+        "duschanbe ausflüge"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuits Tadjikistan & Monts Fann [2027] | Tours 4x4 dès $145",
+      "meta_description": "Circuits privés au Tadjikistan et excursions 4x4 depuis Douchanbé (dès $145 USD) : lac Iskanderkoul, Sept Lacs des monts Fann, Pendjikent, Sarazm et Khodjent.",
+      "focus_keyword": "circuit tadjikistan",
+      "keywords": [
+        "circuit tadjikistan",
+        "excursion lac iskanderkoul",
+        "monts fann tadjikistan",
+        "sept lacs tadjikistan",
+        "voyage tadjikistan"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "タジキスタン現地ツアー＆ファン山脈日帰り旅行 [2027] | $145〜",
+      "meta_description": "タジキスタンのプライベートツアー＆ドゥシャンベ発4WD日帰り旅行（$145〜）：イスカンデルクル湖、ファン山脈のセブンレイクス（7つの湖）、ペンジケント、サラズム遺跡。",
+      "focus_keyword": "タジキスタン ツアー",
+      "keywords": [
+        "タジキスタン ツアー",
+        "イスカンデルクル湖 日帰り",
+        "ファン山脈 ツアー",
+        "タジキスタン 七つの湖",
+        "ドゥシャンベ 観光"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tours en Tayikistán y Montes Fann [2027] | Rutas 4x4 Desde $145",
+      "meta_description": "Tours privados en Tayikistán y excursiones 4x4 desde Dusambé (desde $145 USD): lago Iskanderkul, Siete Lagos de los montes Fann, Penjikent, Sarazm y Juyand.",
+      "focus_keyword": "tours tayikistán",
+      "keywords": [
+        "tours tayikistán",
+        "excursión lago iskanderkul",
+        "montes fann tayikistán",
+        "siete lagos tayikistán",
+        "viajes a tayikistán"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "塔吉克斯坦旅游 & 凡山之旅 [2027] | 从 $145 美元起",
+      "meta_description": "私人塔吉克斯坦旅游 & 杜尚别 4x4 一日游（从 $145 美元起）：伊斯坎德库尔湖、七湖（Haft Kul）在凡山，彭杰肯特、萨拉兹姆和胡杰德。",
+      "focus_keyword": "塔吉克斯坦旅游",
+      "keywords": [
+        "塔吉克斯坦旅游",
+        "塔吉克斯坦旅游团",
+        "杜尚别四驱车一日游",
+        "伊斯坎德尔库勒湖旅游",
+        "法纳山脉七湖旅游",
+        "彭杰肯特旅游",
+        "萨拉兹姆旅游",
+        "胡杰德旅游",
+        "塔吉克斯坦私人旅游",
+        "2027年塔吉克斯坦旅游"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "intro": {
+    "en": "On two of our tours, a Tajikistan tour is the mountain link between Kyrgyzstan and Uzbekistan. The Four Stans Odyssey crosses at Oybek to Khujand, with its bazaar and fortress walls, continues to Istaravshan, a city with more than 2,500 years of history, and on to Penjikent and the Sarazm ruins, a UNESCO World Heritage Site more than 5,500 years old. From there we visit six of the Seven Lakes of Marguzor in the Fan Mountains. The Long Road Through the 5 Stans flies into Dushanbe for the National Museum, the Hissar Fortress and a drive past Iskanderkul Lake.",
+    "de": "Tadschikistan ist auf zwei unserer Reisen die Bergverbindung zwischen Kirgistan und Usbekistan. Die Four Stans Odyssey überquert bei Oybek die Grenze nach Chudschand mit Basar und Festungsmauern, fährt weiter nach Istarawschan, einer Stadt mit mehr als 2.500 Jahren Geschichte, und nach Pendschikent zu den Ruinen von Sarazm, UNESCO-Welterbe und mehr als 5.500 Jahre alt. Von dort besuchen wir sechs der Sieben Seen von Marguzor im Fan-Gebirge. Der lange Weg durch die 5 Stans fliegt nach Duschanbe zum Nationalmuseum und zur Festung Hissor und fährt am Iskanderkul-See vorbei.",
+    "fr": "Sur deux de nos circuits, le voyage au Tadjikistan est le passage montagnard entre le Kirghizistan et l’Ouzbékistan. La Four Stans Odyssey franchit la frontière à Oybek vers Khodjent, son bazar et ses remparts, continue vers Istaravchan, ville de plus de 2 500 ans d’histoire, puis Pendjikent et les ruines de Sarazm, inscrites au patrimoine mondial de l’UNESCO et vieilles de plus de 5 500 ans. De là, nous visitons six des Sept Lacs de Marguzor dans les monts Fann. La longue route à travers les 5 Stans arrive en avion à Douchanbé pour le Musée national, la forteresse de Hissor et la route du lac Iskanderkoul.",
+    "ja": "2つのツアーで、タジキスタンツアーはキルギスとウズベキスタンを結ぶ山の道です。フォー・スタンズ・オデッセイはオイベクで国境を越え、バザールと城壁のあるホジェンドへ。2,500年以上の歴史をもつイスタラフシャンを経てペンジケントへ向かい、5,500年以上前のユネスコ世界遺産サラズム遺跡を訪ねます。そこからファン山脈にあるマルグゾルの七つの湖のうち6つを巡ります。「5つのスタンを巡る長い道」は空路でドゥシャンベに入り、国立博物館とヒッサール要塞を訪れ、イスカンデルクル湖を通ります。",
+    "es": "En dos de nuestros viajes, el viaje a Tayikistán es el paso de montaña entre Kirguistán y Uzbekistán. La Four Stans Odyssey cruza por Oybek hacia Juyand, con su bazar y sus murallas, sigue a Istaravshan, ciudad con más de 2.500 años de historia, y a Penjikent y las ruinas de Sarazm, Patrimonio de la Humanidad de la UNESCO con más de 5.500 años. Desde allí visitamos seis de los Siete Lagos de Marguzor en los montes Fan. El largo camino por los 5 Stans llega en avión a Dusambé para ver el Museo Nacional y la fortaleza de Hissar, y pasa por el lago Iskanderkul.",
+    "zh": "在我们的两条旅游线路中，塔吉克斯坦之旅是连接吉尔吉斯斯坦和乌兹别克斯坦的山路环节。Four Stans Odyssey 在奥伊别克边境口岸进入霍杰德，参观其集市和要塞城墙，继续前往拥有 2,500 多年历史的伊斯塔拉夫尚，再前往潘杰肯特和萨拉兹姆遗址，这是一个拥有 5,500 多年历史的联合国教科文组织世界遗产。随后我们参观范山马尔古佐尔七湖中的六个湖泊。The Long Road Through the 5 Stans 飞抵杜尚贝，参观国家博物馆、希萨尔要塞，并驱车途经伊斯坎德尔湖。"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "Which tours include Tajikistan?",
+        "de": "Welche Reisen führen durch Tadschikistan?",
+        "fr": "Quels circuits passent par le Tadjikistan ?",
+        "ja": "タジキスタンを訪れるツアーはどれですか？",
+        "es": "¿Qué viajes pasan por Tayikistán?",
+        "zh": "哪些旅游线路包含塔吉克斯坦？"
+      },
+      "a": {
+        "en": "The Four Stans Odyssey (Khujand, Istaravshan, Penjikent and the Seven Lakes) and the Long Road Through the 5 Stans (Dushanbe, Hissar, Iskanderkul, Penjikent and Khujand).",
+        "de": "Four Stans Odyssey (Chudschand, Istarawschan, Pendschikent und die Sieben Seen) und Der lange Weg durch die 5 Stans (Duschanbe, Hissor, Iskanderkul, Pendschikent und Chudschand).",
+        "fr": "Four Stans Odyssey (Khodjent, Istaravchan, Pendjikent et les Sept Lacs) et La longue route à travers les 5 Stans (Douchanbé, Hissor, Iskanderkoul, Pendjikent et Khodjent).",
+        "ja": "フォー・スタンズ・オデッセイ（ホジェンド、イスタラフシャン、ペンジケント、七つの湖）と、「5つのスタンを巡る長い道」（ドゥシャンベ、ヒッサール、イスカンデルクル湖、ペンジケント、ホジェンド）です。",
+        "es": "Four Stans Odyssey (Juyand, Istaravshan, Penjikent y los Siete Lagos) y El largo camino por los 5 Stans (Dusambé, Hissar, Iskanderkul, Penjikent y Juyand).",
+        "zh": "Four Stans Odyssey（霍杰德、伊斯塔拉夫尚、潘杰肯特和七湖）以及 The Long Road Through the 5 Stans（杜尚贝、希萨尔、伊斯坎德尔湖、潘杰肯特和霍杰德）。"
+      }
+    },
+    {
+      "q": {
+        "en": "How do we cross the borders?",
+        "de": "Wie überqueren wir die Grenzen?",
+        "fr": "Comment passe-t-on les frontières ?",
+        "ja": "国境はどう越えますか？",
+        "es": "¿Cómo cruzamos las fronteras?",
+        "zh": "我们如何跨越边境？"
+      },
+      "a": {
+        "en": "On the Four Stans Odyssey we drive in from Tashkent at the Oybek border and leave at Jartepa on the way to Samarkand. On the 5 Stans tour we fly from Almaty to Dushanbe and drive out through Khujand and Oybek to Tashkent.",
+        "de": "Auf der Four Stans Odyssey fahren wir von Taschkent über den Grenzübergang Oybek ein und bei Dschartepa auf dem Weg nach Samarkand wieder aus. Auf der 5-Stans-Reise fliegen wir von Almaty nach Duschanbe und fahren über Chudschand und Oybek nach Taschkent.",
+        "fr": "Sur la Four Stans Odyssey, nous entrons depuis Tachkent par la frontière d’Oybek et ressortons à Djartepa vers Samarcande. Sur le circuit 5 Stans, nous volons d’Almaty à Douchanbé et repartons par Khodjent et Oybek vers Tachkent.",
+        "ja": "フォー・スタンズ・オデッセイではタシケントからオイベク国境で入国し、ジャルテパからサマルカンドへ出国します。5スタンのツアーではアルマトイからドゥシャンベへ飛び、ホジェンドとオイベクを経てタシケントへ向かいます。",
+        "es": "En la Four Stans Odyssey entramos desde Taskent por la frontera de Oybek y salimos por Jartepa hacia Samarcanda. En el viaje 5 Stans volamos de Almaty a Dusambé y salimos por Juyand y Oybek hacia Taskent.",
+        "zh": "在 Four Stans Odyssey 线路上，我们从塔什干驱车进入奥伊别克边境，并在前往撒马尔罕的途中从贾尔特帕出境。在 5 Stans 之旅中，我们从阿拉木图飞往杜尚贝，并从霍杰德和奥伊别克驱车前往塔什干出境。"
+      }
+    },
+    {
+      "q": {
+        "en": "Where do we stay in Tajikistan?",
+        "de": "Wo übernachten wir in Tadschikistan?",
+        "fr": "Où dort-on au Tadjikistan ?",
+        "ja": "タジキスタンではどこに泊まりますか？",
+        "es": "¿Dónde nos alojamos en Tayikistán?",
+        "zh": "我们在塔吉克斯坦住哪里？"
+      },
+      "a": {
+        "en": "Khujand Deluxe Hotel 4* or similar in Khujand, Panjakent Plaza Hotel or similar in Penjikent, and in Dushanbe Atlas Hotel B&B 3* or Atlas Hotel 4*, or similar.",
+        "de": "Im Khujand Deluxe Hotel 4* oder ähnlich in Chudschand, im Panjakent Plaza Hotel oder ähnlich in Pendschikent und in Duschanbe im Atlas Hotel B&B 3* oder Atlas Hotel 4* oder ähnlich.",
+        "fr": "Au Khujand Deluxe Hotel 4* ou similaire à Khodjent, au Panjakent Plaza Hotel ou similaire à Pendjikent et, à Douchanbé, à l’Atlas Hotel B&B 3* ou à l’Atlas Hotel 4*, ou similaire.",
+        "ja": "ホジェンドではホジェンド・デラックス・ホテル4つ星または同等クラス、ペンジケントではパンジャケント・プラザ・ホテルまたは同等クラス、ドゥシャンベではアトラス・ホテルB&B 3つ星またはアトラス・ホテル4つ星、または同等クラスです。",
+        "es": "En el Khujand Deluxe Hotel 4* o similar en Juyand, en el Panjakent Plaza Hotel o similar en Penjikent y, en Dusambé, en el Atlas Hotel B&B 3* o el Atlas Hotel 4*, o similar.",
+        "zh": "霍杰德的霍杰德豪华酒店 4* 或同级，潘杰肯特的潘杰肯特广场酒店或同级，以及杜尚贝的阿特拉斯酒店 B&B 3* 或阿特拉斯酒店 4*，或同级。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Tajikistan tours: Penjikent, the Fan Mountains and Dushanbe",
+      "de": "Tadschikistan Rundreise: Pendschikent, Fan-Gebirge und Duschanbe",
+      "fr": "Voyage au Tadjikistan : Pendjikent, monts Fann et Douchanbé",
+      "ja": "タジキスタン ツアー：ペンジケント、ファン山脈、ドゥシャンベ",
+      "es": "Viaje a Tayikistán: Penjikent, los montes Fan y Dusambé",
+      "zh": "塔吉克斯坦旅游：彭杰肯特、凡山和杜尚别"
+    },
+    "seasons": {
+      "en": "Best time to visit Tajikistan",
+      "de": "Tadschikistan Reisezeit: wann reisen?",
+      "fr": "Quand partir au Tadjikistan",
+      "ja": "タジキスタン旅行のベストシーズン",
+      "es": "Viaje a Tayikistán: mejor época para viajar",
+      "zh": "最佳游览塔吉克斯坦时间"
+    },
+    "highlights": {
+      "en": "Tajikistan tourist attractions on our tours",
+      "de": "Tadschikistan Highlights unserer Reisen",
+      "fr": "Circuit Tadjikistan : les temps forts",
+      "ja": "ツアーで訪れるタジキスタンの見どころ",
+      "es": "Viaje a Tayikistán: qué ver en nuestros viajes",
+      "zh": "我们旅游线路中的塔吉克斯坦旅游景点"
+    },
+    "faq": {
+      "en": "Tajikistan travel: common questions",
+      "de": "Tadschikistan Reise: häufige Fragen",
+      "fr": "Voyage au Tadjikistan : questions fréquentes",
+      "ja": "タジキスタン旅行：よくある質問",
+      "es": "Viaje a Tayikistán: preguntas frecuentes",
+      "zh": "塔吉克斯坦旅游：常见问题"
+    },
+    "packages": {
+      "en": "Tajikistan tours",
+      "de": "Tadschikistan Reisen",
+      "fr": "Circuit au Tadjikistan : nos voyages",
+      "ja": "タジキスタンを巡るツアー",
+      "es": "Viajes a Tayikistán",
+      "zh": "塔吉克斯坦旅游"
+    }
+  }
+}

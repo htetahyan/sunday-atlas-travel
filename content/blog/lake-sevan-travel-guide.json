@@ -1,0 +1,1238 @@
+{
+  "slug": "lake-sevan-travel-guide",
+  "published": true,
+  "featured": false,
+  "category": "day-trips",
+  "destination": "armenia",
+  "countries": [],
+  "publishedAt": "2026-10-31T13:31:42+04:00",
+  "updatedAt": "2026-11-16T07:37:59+04:00",
+  "readingTimeMinutes": 13,
+  "relatedPackages": [
+    "garni-geghard-lake-sevan-day-trip",
+    "armenia-cultural-discovery-5-days",
+    "armenia-legends-4-days"
+  ],
+  "title": {
+    "en": "Lake Sevan, Armenia: Sevanavank, Beaches & Seasons (2027)",
+    "de": "Sewansee, Armenien: Sewanawank, Strände & Saisons (2027)",
+    "fr": "Lac Sevan, Arménie : Sevanavank, plages et saisons (2027)",
+    "ja": "セヴァン湖（アルメニア）：セヴァナヴァンク・ビーチ・季節（2027）",
+    "es": "Lago Seván, Armenia: Sevanavank, playas y estaciones (2027)"
+  },
+  "subtitle": {
+    "en": "Practical advice for visiting Armenia's high-altitude lake and the forested Dilijan corridor",
+    "de": "Praktische Tipps für den Besuch von Armeniens Hochgebirgssee und der bewaldeten Dilijan-Region",
+    "fr": "Conseils pratiques pour visiter le lac de haute altitude d'Arménie et le corridor forestier de Dilijan",
+    "ja": "アルメニアの高地に位置する湖と、森林に覆われたディリジャン回廊を訪れるための実用的なアドバイス",
+    "es": "Consejos prácticos para visitar el lago de gran altitud de Armenia y el corredor forestal de Dilijan"
+  },
+  "summary": {
+    "en": "Covers Sevanavank peninsula, seasonal swimming, day-trip logistics from Yerevan, and how to combine Lake Sevan with Dilijan and Tsaghkadzor.",
+    "de": "Behandelt die Halbinsel Sevanavank, saisonales Baden, Tagesausflüge von Jerewan und wie man den Lake Sevan mit Dilijan und Tsaghkadzor kombiniert.",
+    "fr": "Couvre la péninsule de Sevanavank, la baignade saisonnière, la logistique des excursions d'une journée depuis Erevan, et comment combiner le lac Sevan avec Dilijan et Tsaghkadzor.",
+    "ja": "セヴァナヴァンク半島、季節ごとの水泳、エレバンからの日帰り旅行の手配、そして湖セヴァンとディリジャン、ツァフカジョルドを組み合わせる方法について解説します。",
+    "es": "Cubre la península de Sevanavank, la natación estacional, la logística de excursiones de un día desde Ereván y cómo combinar el lago Sevan con Dilijan y Tsaghkadzor."
+  },
+  "intro": {
+    "en": "Lake Sevan sits at 1,900 meters and is Armenia's largest body of water. The Sevanavank peninsula holds two medieval churches with wide views across the blue surface. Summer brings cool water and pebble beaches; spring and autumn offer mild hiking weather and fewer crowds. A paved road circles the lake, linking the peninsula with the resort town of Tsaghkadzor and the forested valleys of Dilijan National Park. This post explains when to go, how to reach the main sites, what to expect at the beaches, and how to structure a day trip or a longer stay using private transport from Yerevan.",
+    "de": "Der Lake Sevan liegt auf 1.900 Metern und ist Armeniens größtes Gewässer. Die Halbinsel Sevanavank beherbergt zwei mittelalterliche Kirchen mit weitem Blick über die blaue Oberfläche. Der Sommer bringt kühles Wasser und Kieselstrände; Frühling und Herbst bieten mildes Wanderwetter und weniger Besucher. Eine asphaltierte Straße umrundet den See und verbindet die Halbinsel mit dem Ferienort Tsaghkadzor und den bewaldeten Tälern des Dilijan-Nationalparks. Dieser Beitrag erklärt, wann man am besten reist, wie man die wichtigsten Orte erreicht, was einen an den Stränden erwartet und wie man einen Tagesausflug oder einen längeren Aufenthalt mit privatem Transport von Jerewan aus plant.",
+    "fr": "Le lac Sevan se trouve à 1 900 mètres d'altitude et est le plus grand plan d'eau d'Arménie. La péninsule de Sevanavank abrite deux églises médiévales offrant une large vue sur la surface bleue. L'été apporte une eau fraîche et des plages de galets ; le printemps et l'automne offrent un climat doux pour la randonnée et moins de monde. Une route pavée fait le tour du lac, reliant la péninsule à la station balnéaire de Tsaghkadzor et aux vallées boisées du parc national de Dilijan. Cet article explique quand partir, comment rejoindre les principaux sites, à quoi s'attendre sur les plages, et comment organiser une excursion d'une journée ou un séjour plus long avec un transport privé depuis Erevan.",
+    "ja": "湖セヴァンは標高1,900メートルに位置し、アルメニア最大の水域です。セヴァナヴァンク半島には、青い水面を一望できる2つの中世の教会があります。夏は冷たい水と小石のビーチが楽しめ、春と秋はハイキングに適した穏やかな気候で、混雑も少ないです。湖を一周する舗装道路が半島とリゾートタウンのツァフカジョルド、そしてディリジャン国立公園の森林地帯を結んでいます。この記事では、訪問時期、主要スポットへのアクセス方法、ビーチでの過ごし方、そしてエレバンからのプライベート輸送を利用した日帰り旅行や長期滞在のプランニング方法について解説します。",
+    "es": "El lago Sevan se encuentra a 1,900 metros y es el cuerpo de agua más grande de Armenia. La península de Sevanavank alberga dos iglesias medievales con amplias vistas sobre la superficie azul. El verano trae agua fresca y playas de guijarros; la primavera y el otoño ofrecen un clima templado para hacer senderismo y menos multitudes. Una carretera pavimentada rodea el lago, conectando la península con la ciudad turística de Tsaghkadzor y los valles boscosos del Parque Nacional de Dilijan. Este artículo explica cuándo ir, cómo llegar a los principales sitios, qué esperar en las playas y cómo estructurar una excursión de un día o una estancia más larga usando transporte privado desde Ereván."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793439062/sunday-atlas/blog/lake-sevan-travel-guide/lake-sevan-commons-201476617.jpg",
+    "width": 1920,
+    "height": 1336,
+    "alt": {
+      "en": "Sevanavank monastery on Lake Sevan, Armenia, under a blue sky.",
+      "de": "Sevanavank-Kloster am Lake Sevan in Armenien unter blauem Himmel.",
+      "fr": "Le monastère de Sevanavank sur le lac Sevan, en Arménie, sous un ciel bleu.",
+      "ja": "アルメニア、セヴァン湖のセヴァナヴァンク修道院、青空の下。",
+      "es": "El monasterio de Sevanavank en el lago Sevan, Armenia, bajo un cielo azul."
+    },
+    "credit": {
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sourp_Astvatsatsin_(also_Saint_Araqelots_church),_Sevanank_complex.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "sevanavank-peninsula",
+      "placeName": {
+        "en": "Sevanavank",
+        "de": "Sevanavank",
+        "fr": "Sevanavank",
+        "ja": "セヴァナヴァンク",
+        "es": "Sevanavank"
+      },
+      "heading": {
+        "en": "Sevanavank Peninsula and Monastery",
+        "de": "Halbinsel Sevanavank und Kloster",
+        "fr": "Péninsule et monastère de Sevanavank",
+        "ja": "セヴァナヴァンク半島と修道院",
+        "es": "Península y Monasterio de Sevanavank"
+      },
+      "paragraphs": {
+        "en": [
+          "The Sevanavank peninsula juts into the northwestern corner of Lake Sevan, about 65 kilometers north of Yerevan and roughly a 75-minute drive on the M4 highway. From the main parking area a paved staircase of roughly 200 steps climbs the gentle slope to the monastery complex, taking most visitors five to ten minutes at a relaxed pace. Two medieval churches dominate the summit: Surp Arakelots, the larger 9th-century structure with its weathered basalt dome, and the smaller Surp Astvatsatsin tucked beside it. Both interiors are dim and cool, preserving fragments of original khachkar carvings and a handful of faded frescoes. The peninsula setting means you can walk the full perimeter in fifteen minutes, with the water lapping just meters from the church walls on three sides.",
+          "Panoramic views from the ridge stretch across the entire 940-square-kilometer lake, framing the Geghama Mountains to the west and the Vardenis Range to the east. Early morning light paints the water a pale turquoise, while late afternoon sun catches the basalt stones of the churches in a warm amber glow. In spring the surrounding meadows burst with wild iris and poppy, and autumn turns the slopes gold and russet by late September. Summer weekends draw local families, so the staircase and church interiors can feel crowded between 11 am and 3 pm. Winter snow often dusts the domes from December through March, and the access road stays open, though the steps become slippery after a freeze.",
+          "Wear sturdy shoes with good grip; the stone steps are uneven and polished smooth by decades of foot traffic. Bring a windproof layer even in summer — the peninsula catches steady breezes off the water that drop the felt temperature several degrees below the lakeside parking lot. A small kiosk near the entrance sells bottled water and packaged snacks, but there are no cafés or restrooms at the summit, so plan accordingly. Photography is permitted inside both churches without flash, and drone flights are allowed outside the immediate courtyard if you respect other visitors. The site has no ticket booth or opening hours; it functions as an active monastery, so services may limit access to the main nave on Sunday mornings and major feast days.",
+          "Our Garni Temple, Geghard Monastery & Lake Sevan Day Trip from Yerevan includes a guided stop at Sevanavank, with the driver waiting at the base while you explore at your own pace. The private vehicle eliminates the need to coordinate marshrutka timetables or negotiate taxi returns, especially valuable if you want to linger for sunset over the lake. The tour runs year-round, and the guide can adjust the morning departure to hit the peninsula in the quieter early light. Bottled water is provided in the car, and the Garni Temple entrance fee is covered, leaving only personal expenses for the day."
+        ],
+        "de": [
+          "Die Halbinsel Sevanavank ragt in die nordwestliche Ecke des Lake Sevan hinein, etwa 65 Kilometer nördlich von Jerewan und ungefähr eine 75-minütige Fahrt auf der M4. Vom Hauptparkplatz führt eine asphaltierte Treppe mit rund 200 Stufen den sanften Hang hinauf zum Klosterkomplex, was die meisten Besucher in fünf bis zehn Minuten in gemächlichem Tempo bewältigen. Zwei mittelalterliche Kirchen dominieren den Gipfel: Surp Arakelots, das größere Bauwerk aus dem 9. Jahrhundert mit seiner verwitterten Basaltkuppel, und die kleinere Surp Astvatsatsin daneben. Beide Innenräume sind dunkel und kühl und bewahren Fragmente ursprünglicher Chatschkar-Gravuren sowie einige verblasste Fresken. Die Lage auf der Halbinsel erlaubt es, den gesamten Umfang in fünfzehn Minuten zu umrunden, wobei das Wasser auf drei Seiten nur wenige Meter von den Kirchenmauern entfernt anschlägt.",
+          "Panoramablicke vom Kamm erstrecken sich über den gesamten 940 Quadratkilometer großen See und rahmen die Geghama-Berge im Westen und die Vardenis-Kette im Osten ein. Das Morgenlicht taucht das Wasser in ein blasses Türkis, während die späte Nachmittagssonne die Basaltsteine der Kirchen in ein warmes Amberlicht taucht. Im Frühling erblühen die umliegenden Wiesen mit Schwertlilien und Mohn, und der Herbst färbt die Hänge Ende September gold und rostbraun. Sommerwochenenden ziehen lokale Familien an, sodass die Treppe und die Kircheninnenräume zwischen 11 und 15 Uhr überfüllt wirken können. Winterlicher Schnee bedeckt die Kuppeln oft von Dezember bis März, und die Zufahrtsstraße bleibt offen, obwohl die Stufen nach einem Frost rutschig werden.",
+          "Tragen Sie festes Schuhwerk mit gutem Halt; die Steinstufen sind uneben und durch jahrzehntelangen Fußverkehr glatt poliert. Bringen Sie auch im Sommer eine winddichte Schicht mit – die Halbinsel fängt stetige Brisen vom Wasser ab, die die gefühlte Temperatur mehrere Grad unter der des Parkplatzes am Seeufer senken. Ein kleiner Kiosk am Eingang verkauft Flaschenwasser und verpackte Snacks, aber es gibt keine Cafés oder Toiletten auf dem Gipfel, also planen Sie entsprechend. Fotografieren ist in beiden Kirchen ohne Blitz erlaubt, und Drohnenflüge sind außerhalb des unmittelbaren Innenhofs gestattet, sofern Sie andere Besucher respektieren. Die Stelle hat keine Kasse oder Öffnungszeiten; sie fungiert als aktives Kloster, sodass Gottesdienste den Zugang zum Hauptschiff an Sonntagmorgen und wichtigen Festtagen einschränken können.",
+          "Unser Tagesausflug von Jerewan zum Garni-Tempel, zum Kloster Geghard und zum Lake Sevan beinhaltet einen geführten Stopp in Sevanavank, während der Fahrer unten wartet, während Sie in Ihrem eigenen Tempo erkunden. Das private Fahrzeug erspart die Abstimmung von Marschrutka-Fahrplänen oder das Aushandeln von Taxirückfahrten – besonders wertvoll, wenn Sie den Sonnenuntergang über dem See genießen möchten. Die Tour findet ganzjährig statt, und der Guide kann die morgendliche Abfahrt so anpassen, dass Sie die Halbinsel im ruhigen frühen Licht erreichen. Flaschenwasser wird im Auto bereitgestellt, und die Eintrittsgebühr für den Garni-Tempel ist enthalten; nur persönliche Ausgaben für den Tag bleiben übrig."
+        ],
+        "fr": [
+          "La péninsule de Sevanavank s'avance dans le coin nord-ouest du lac Sevan, à environ 65 kilomètres au nord d'Erevan et à environ 75 minutes de route sur l'autoroute M4. Depuis l'aire de stationnement principale, un escalier pavé d'environ 200 marches gravit la pente douce jusqu'au complexe monastique, ce qui prend à la plupart des visiteurs cinq à dix minutes à un rythme détendu. Deux églises médiévales dominent le sommet : Surp Arakelots, la plus grande structure du IXe siècle avec son dôme de basalte patiné, et la plus petite Surp Astvatsatsin nichée à côté. Les deux intérieurs sont sombres et frais, conservant des fragments de gravures khachkar originales et quelques fresques fanées. Le cadre de la péninsule permet de faire le tour complet en quinze minutes, l'eau clapotant à quelques mètres des murs des églises sur trois côtés.",
+          "Les vues panoramiques depuis la crête s'étendent sur l'ensemble du lac de 940 kilomètres carrés, encadrant les monts Geghama à l'ouest et la chaîne de Vardenis à l'est. La lumière du matin tôt peint l'eau d'un turquoise pâle, tandis que le soleil de fin d'après-midi fait ressortir les pierres de basalte des églises dans une lueur ambrée chaude. Au printemps, les prairies environnantes explosent d'iris et de coquelicots sauvages, et l'automne teinte les pentes d'or et de rouille à la fin septembre. Les week-ends d'été attirent les familles locales, de sorte que l'escalier et l'intérieur des églises peuvent être bondés entre 11 h et 15 h. La neige d'hiver recouvre souvent les dômes de décembre à mars, et la route d'accès reste ouverte, bien que les marches deviennent glissantes après un gel.",
+          "Portez des chaussures solides avec une bonne adhérence ; les marches de pierre sont inégales et polies par des décennies de trafic piétonnier. Apportez une couche coupe-vent même en été — la péninsule capte des brises constantes venant de l'eau qui font baisser la température ressentie de plusieurs degrés en dessous du parking au bord du lac. Un petit kiosque près de l'entrée vend de l'eau en bouteille et des collations emballées, mais il n'y a ni cafés ni toilettes au sommet, alors prévoyez en conséquence. La photographie est autorisée à l'intérieur des deux églises sans flash, et les vols de drone sont autorisés en dehors de la cour immédiate si vous respectez les autres visiteurs. Le site n'a ni guichet ni heures d'ouverture ; il fonctionne comme un monastère actif, donc les offices peuvent limiter l'accès à la nef principale le dimanche matin et les grandes fêtes religieuses.",
+          "Notre excursion d'une journée au temple de Garni, au monastère de Geghard et au lac Sevan au départ d'Erevan inclut une visite guidée de Sevanavank, le chauffeur vous attendant au pied pendant que vous explorez à votre rythme. Le véhicule privé évite de devoir coordonner les horaires des marshrutkas ou négocier des retours en taxi, particulièrement utile si vous souhaitez vous attarder pour admirer le coucher de soleil sur le lac. L'excursion fonctionne toute l'année, et le guide peut ajuster le départ matinal pour atteindre la péninsule dans la lumière plus calme du petit matin. De l'eau en bouteille est fournie dans la voiture, et le droit d'entrée au temple de Garni est couvert, ne laissant que les dépenses personnelles pour la journée."
+        ],
+        "ja": [
+          "セヴァナヴァンク半島は湖セヴァンの北西の端に突き出ており、エレバンから北へ約65キロメートル、M4ハイウェイを車で約75分です。メインの駐車場から、緩やかな斜面を登る約200段の舗装された階段が修道院群へと続き、ほとんどの訪問者がゆったりとしたペースで5分から10分で登頂します。頂上を支配するのは2つの中世の教会、より大きな9世紀の建造物であるスルプ・アラケロツと、その隣に佇む小さなスルプ・アスタツァツィンです。どちらの内部も薄暗く涼しく、オリジナルのハチャカル彫刻の断片と、いくつかの色あせたフレスコ画が保存されています。半島という立地のため、周囲を15分で一周でき、3方向では教会の壁から数メートルのところまで水が寄せています。",
+          "尾根からのパノラマビューは、940平方キロメートルに及ぶ湖全体を一望でき、西にはゲガマ山脈、東にはヴァルデニス山脈を望みます。早朝の光は水面を淡いターコイズブルーに染め、午後遅くの日差しは教会の玄武岩の石を温かい琥珀色に照らし出します。春には周囲の牧草地にアヤメやポピーが咲き乱れ、秋には9月下旬までに斜面が黄金色と赤褐色に染まります。夏の週末は地元の家族連れで賑わい、午前11時から午後3時頃までは階段や教会内部が混雑することがあります。冬は12月から3月までドームに雪が積もることが多く、アクセス道路は開通していますが、凍結後は階段が滑りやすくなります。",
+          "グリップの良い丈夫な靴を履いてください。石段は不均一で、長年の歩行者によって滑らかに磨かれています。夏でも防風性のあるレイヤーを持参してください。半島は水面からの安定した風にさらされ、体感温度は湖畔の駐車場より数度低くなります。入り口付近の小さなキオスクではボトルウォーターや包装済みのスナックが販売されていますが、頂上にカフェやトイレはないため、あらかじめ計画を立ててください。両教会内での撮影はフラッシュなしで許可されており、他の訪問者を尊重する限り、中庭のすぐ外でのドローン飛行も認められています。チケット売り場や開館時間はなく、活動中の修道院として機能しているため、日曜の朝や主要な祝日にはメインの聖堂へのアクセスが制限される場合があります。",
+          "当社のガルニ寺院、ゲガルド修道院、セヴァン湖日帰りツアー（エレバン発）には、セヴァナヴァンクへのガイド付き立ち寄りが含まれており、ドライバーは麓で待機し、お客様はご自身のペースで探索いただけます。専用車両により、マシュルートカの時刻表を調整したり、タクシーの帰りを交渉したりする必要がなく、特に湖上の夕日をゆっくり楽しみたい場合に便利です。ツアーは年間を通じて運行しており、ガイドが朝の出発時間を調整して、より静かな早朝の光の中で半島を訪れることができます。車内にはボトルウォーターをご用意し、ガルニ寺院の入場料は含まれており、当日の個人的な費用のみが必要です。"
+        ],
+        "es": [
+          "La península de Sevanavank se adentra en la esquina noroeste del lago Sevan, a unos 65 kilómetros al norte de Ereván y a aproximadamente 75 minutos en coche por la carretera M4. Desde el aparcamiento principal, una escalinata pavimentada de unos 200 escalones asciende por la suave pendiente hasta el complejo monástico, llevando a la mayoría de los visitantes entre cinco y diez minutos a un ritmo relajado. Dos iglesias medievales dominan la cima: Surp Arakelots, la estructura más grande del siglo IX con su cúpula de basalto desgastada, y la más pequeña Surp Astvatsatsin, situada junto a ella. Ambos interiores son oscuros y frescos, conservando fragmentos de tallas originales de jachkar y algunos frescos descoloridos. El entorno de la península permite recorrer todo el perímetro en quince minutos, con el agua lamiendo a pocos metros de los muros de las iglesias por tres lados.",
+          "Las vistas panorámicas desde la cresta se extienden a lo largo de todo el lago de 940 kilómetros cuadrados, enmarcando los montes Geghama al oeste y la cordillera de Vardenis al este. La luz de la mañana temprana tiñe el agua de un turquesa pálido, mientras que el sol de la tarde ilumina las piedras de basalto de las iglesias con un cálido resplandor ámbar. En primavera, los prados circundantes estallan con lirios y amapolas silvestres, y el otoño tiñe las laderas de oro y rojizo a finales de septiembre. Los fines de semana de verano atraen a familias locales, por lo que la escalinata y los interiores de las iglesias pueden sentirse abarrotados entre las 11 am y las 3 pm. La nieve invernal suele cubrir las cúpulas de diciembre a marzo, y el camino de acceso permanece abierto, aunque los escalones se vuelven resbaladizos después de una helada.",
+          "Usa calzado resistente con buen agarre; los escalones de piedra son irregulares y están pulidos por décadas de tráfico peatonal. Lleva una capa cortavientos incluso en verano, ya que la península recibe brisas constantes del agua que bajan la temperatura sentida varios grados por debajo del aparcamiento junto al lago. Un pequeño quiosco cerca de la entrada vende agua embotellada y bocadillos envasados, pero no hay cafeterías ni baños en la cima, así que planifica en consecuencia. Está permitido fotografiar dentro de ambas iglesias sin flash, y los vuelos de drones están permitidos fuera del patio inmediato si respetas a los demás visitantes. El sitio no tiene taquilla ni horario de apertura; funciona como un monasterio activo, por lo que los servicios pueden limitar el acceso a la nave principal los domingos por la mañana y en las principales fiestas religiosas.",
+          "Nuestra excursión de un día al Templo de Garni, el Monasterio de Geghard y el Lago Sevan desde Ereván incluye una visita guiada a Sevanavank, con el conductor esperándote en la base mientras exploras a tu ritmo. El vehículo privado elimina la necesidad de coordinar horarios de marshrutka o negociar el regreso en taxi, especialmente valioso si quieres quedarte a ver el atardecer sobre el lago. El tour funciona todo el año, y el guía puede ajustar la salida matutina para llegar a la península en la luz más tranquila de la mañana temprano. Se proporciona agua embotellada en el coche, y la entrada al Templo de Garni está cubierta, quedando solo los gastos personales para el día."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Two 9th-century churches on a lake peninsula",
+          "200-step climb rewards with 360-degree views",
+          "Active monastery — respect Sunday services"
+        ],
+        "de": [
+          "Zwei Kirchen aus dem 9. Jahrhundert auf einer Halbinsel am See",
+          "200-Stufen-Anstieg belohnt mit 360-Grad-Ausblick",
+          "Aktives Kloster – Sonntagsgottesdienste respektieren"
+        ],
+        "fr": [
+          "Deux églises du 9e siècle sur une péninsule lacustre",
+          "Une montée de 200 marches récompense avec des vues à 360 degrés",
+          "Monastère actif — respecter les offices du dimanche"
+        ],
+        "ja": [
+          "湖の半島にある2つの9世紀の教会",
+          "200段の登りがもたらす360度の眺望",
+          "現役の修道院 — 日曜の礼拝にご注意ください"
+        ],
+        "es": [
+          "Dos iglesias del siglo 9 en una península lacustre",
+          "Subida de 200 escalones con vistas de 360 grados",
+          "Monasterio activo — respetar los servicios dominicales"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance from Yerevan",
+            "de": "Entfernung von Jerewan",
+            "fr": "Distance depuis Erevan",
+            "ja": "エレバンからの距離",
+            "es": "Distancia desde Ereván"
+          },
+          "value": {
+            "en": "65 km, ~75 min drive",
+            "de": "65 km, ca. 75-minütige Fahrt",
+            "fr": "65 km, ~75 min de route",
+            "ja": "65 km、約75分のドライブ",
+            "es": "65 km, ~75 min en coche"
+          }
+        },
+        {
+          "label": {
+            "en": "Best photo light",
+            "de": "Bestes Licht für Fotos",
+            "fr": "Meilleure lumière pour les photos",
+            "ja": "ベストな撮影光",
+            "es": "Mejor luz para fotos"
+          },
+          "value": {
+            "en": "Early morning or late afternoon",
+            "de": "Früher Morgen oder später Nachmittag",
+            "fr": "Tôt le matin ou en fin d'après-midi",
+            "ja": "早朝または午後遅く",
+            "es": "Temprano por la mañana o al atardecer"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $110 USD / person",
+            "de": "Ab $110 USD / Person",
+            "fr": "À partir de $110 USD / personne",
+            "ja": "$110 USD〜 / 1名",
+            "es": "Desde $110 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793439077/sunday-atlas/blog/lake-sevan-travel-guide/sevanavank-commons-52485031.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Sevanavank monastery on Lake Sevan, Armenia, with mountains behind.",
+          "de": "Sevanavank-Kloster am Lake Sevan in Armenien mit Bergen im Hintergrund.",
+          "fr": "Le monastère de Sevanavank sur le lac Sevan, en Arménie, avec les montagnes en arrière-plan.",
+          "ja": "アルメニア、セヴァン湖のセヴァナヴァンク修道院、背後に山々。",
+          "es": "El monasterio de Sevanavank en el lago Sevan, Armenia, con montañas detrás."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_Sevanavank,_Armenia,_2016-10-02,_DD_106.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Sevanavank",
+          "de": "Sevanavank",
+          "fr": "Sevanavank",
+          "ja": "セヴァナヴァンク",
+          "es": "Sevanavank"
+        }
+      },
+      "embeddedPackageSlug": "garni-geghard-lake-sevan-day-trip"
+    },
+    {
+      "id": "beaches-swimming-season",
+      "placeName": {
+        "en": "Lake Sevan beaches",
+        "de": "Strände am Lake Sevan",
+        "fr": "Plages du lac Sevan",
+        "ja": "セヴァン湖のビーチ",
+        "es": "Playas del Lago Sevan"
+      },
+      "heading": {
+        "en": "Beaches, Swimming and Water Temperature",
+        "de": "Strände, Schwimmen und Wassertemperatur",
+        "fr": "Plages, baignade et température de l'eau",
+        "ja": "ビーチ、水泳、水温",
+        "es": "Playas, Natación y Temperatura del Agua"
+      },
+      "paragraphs": {
+        "en": [
+          "The shoreline around Lake Sevan is mostly pebble and coarse sand, with the clearest water found along the eastern and southern stretches near the villages of Shoghakat and Tsovagyugh. In July and August the surface temperature reaches 18 to 20 degrees Celsius, comfortable for a quick swim but still brisk compared with lower-altitude lakes. Most developed beach areas have simple wooden changing cabins and cold outdoor showers, though towels and sun loungers are rarely provided. Early morning is the calmest time for swimming before the afternoon wind builds small whitecaps across the open water. Weekends in high summer draw local families, so arriving before ten o’clock secures a decent spot and easier parking.",
+          "The peninsula beaches below Sevanavank are the most convenient if you are already visiting the monastery, with a short gravel path leading down from the main parking area. Water depth drops off quickly here, so non-swimmers should stay close to the shore or use the roped-off shallow zone near the western tip. Vendors along the access road sell grilled fish, lavash and cold drinks, but there are no lifeguards on duty at any public beach. Toilets are basic pit latrines; carry your own paper and hand sanitizer. Late June can still feel chilly in the water, while mid-September often remains pleasant for a final dip before the season ends.",
+          "For a quieter experience, drive ten minutes south to the Artanish Peninsula, where the shoreline is less crowded and the pebbles are smaller underfoot. A rough track leads to several informal pull-outs with no facilities at all, so bring everything you need including a pop-up changing tent if you prefer privacy. The water here is marginally warmer in sheltered coves because the peninsula blocks the prevailing wind. Camping is tolerated in a few designated zones, but open fires are prohibited and rangers patrol on summer weekends. Mobile coverage is patchy beyond the main highway, so download offline maps before you leave the paved road.",
+          "If you plan a full beach day, pack a windbreak, high-SPF sunscreen and plenty of water, as the altitude of 1,900 meters intensifies UV exposure even on cloudy days. A light fleece is useful for the walk back to the car once the sun drops behind the Geghama mountains. Changing facilities are only available at the main peninsula and at the private resort beach near Tsovagyugh, which charges a day-use fee for access to showers and a small café. Public transport does not reach the quieter coves, so a rental car or hired driver is essential for flexibility. Always take your rubbish with you; bins are scarce and the lake ecosystem is fragile."
+        ],
+        "de": [
+          "Die Uferlinie rund um den Lake Sevan besteht größtenteils aus Kies und grobem Sand, wobei das klarste Wasser entlang der östlichen und südlichen Abschnitte in der Nähe der Dörfer Shoghakat und Tsovagyugh zu finden ist. Im Juli und August erreicht die Oberflächentemperatur 18 bis 20 Grad Celsius, angenehm für ein schnelles Bad, aber dennoch frisch im Vergleich zu Seen in niedrigeren Lagen. Die meisten entwickelten Strandbereiche verfügen über einfache Holzumkleidekabinen und kalte Außenduschen, Handtücher und Liegestühle werden jedoch selten bereitgestellt. Der frühe Morgen ist die ruhigste Zeit zum Schwimmen, bevor der Nachmittagswind kleine Weißkämme über das offene Wasser treibt. An Wochenenden im Hochsommer kommen viele lokale Familien, daher sichert eine Ankunft vor zehn Uhr einen guten Platz und einfacheres Parken.",
+          "Die Strände auf der Halbinsel unterhalb von Sevanavank sind am bequemsten, wenn Sie bereits das Kloster besuchen, mit einem kurzen Kiesweg, der vom Hauptparkplatz hinunterführt. Die Wassertiefe nimmt hier schnell ab, sodass Nichtschwimmer nahe am Ufer bleiben oder die abgesperrte flache Zone an der Westspitze nutzen sollten. Händler entlang der Zufahrtsstraße verkaufen gegrillten Fisch, Lavash und kalte Getränke, aber an keinem öffentlichen Strand sind Rettungsschwimmer im Dienst. Die Toiletten sind einfache Grubenlatrinen; bringen Sie eigenes Toilettenpapier und Händedesinfektionsmittel mit. Ende Juni kann das Wasser noch kühl sein, während Mitte September oft noch angenehm für ein letztes Bad vor Saisonende ist.",
+          "Für ein ruhigeres Erlebnis fahren Sie zehn Minuten südlich zur Artanish-Halbinsel, wo die Küstenlinie weniger überlaufen ist und die Kiesel unter den Füßen kleiner sind. Eine unbefestigte Straße führt zu mehreren informellen Parkbuchten ohne jegliche Einrichtungen, also bringen Sie alles mit, was Sie benötigen, einschließlich eines Pop-up-Umzeltes, wenn Sie Privatsphäre bevorzugen. Das Wasser ist in geschützten Buchten marginal wärmer, weil die Halbinsel den vorherrschenden Wind blockiert. Camping ist in einigen ausgewiesenen Zonen geduldet, aber offene Feuer sind verboten und Ranger patrouillieren an Sommerwochenenden. Der Mobilfunkempfang ist jenseits der Hauptstraße lückenhaft, laden Sie daher Offline-Karten herunter, bevor Sie die asphaltierte Straße verlassen.",
+          "Wenn Sie einen ganzen Tag am Strand planen, packen Sie einen Windschutz, Sonnencreme mit hohem Lichtschutzfaktor und reichlich Wasser ein, da die Höhe von 1.900 Metern die UV-Strahlung selbst an bewölkten Tagen intensiviert. Ein leichter Fleece ist nützlich für den Rückweg zum Auto, sobald die Sonne hinter den Geghama-Bergen untergeht. Umkleidemöglichkeiten gibt es nur auf der Haupthalbinsel und am privaten Strand des Resorts in der Nähe von Tsovagyugh, der eine Tagesgebühr für den Zugang zu Duschen und einem kleinen Café erhebt. Öffentliche Verkehrsmittel erreichen die ruhigeren Buchten nicht, daher ist ein Mietwagen oder ein angestellter Fahrer für Flexibilität unerlässlich. Nehmen Sie Ihren Müll immer mit; Mülleimer sind rar und das Ökosystem des Sees ist empfindlich."
+        ],
+        "fr": [
+          "Le rivage autour du lac Sevan est principalement composé de galets et de sable grossier, avec l'eau la plus claire le long des tronçons est et sud près des villages de Shoghakat et Tsovagyugh. En juillet et août, la température de surface atteint 18 à 20 degrés Celsius, confortable pour une baignade rapide mais encore fraîche comparée aux lacs de basse altitude. La plupart des plages aménagées disposent de simples cabines de change en bois et de douches extérieures froides, bien que les serviettes et les transats soient rarement fournis. Le matin tôt est le moment le plus calme pour se baigner avant que le vent de l'après-midi ne soulève de petits moutons sur l'eau libre. Les week-ends en haute saison attirent les familles locales, donc arriver avant dix heures permet d'obtenir une place convenable et un stationnement plus facile.",
+          "Les plages de la péninsule en contrebas de Sevanavank sont les plus pratiques si vous visitez déjà le monastère, avec un court chemin de gravier menant depuis le parking principal. La profondeur de l'eau diminue rapidement ici, donc les non-nageurs doivent rester près du rivage ou utiliser la zone peu profonde délimitée par des cordes près de l'extrémité ouest. Des vendeurs le long de la route d'accès vendent du poisson grillé, du lavash et des boissons froides, mais il n'y a aucun sauveteur en service sur aucune plage publique. Les toilettes sont des latrines de base ; apportez votre propre papier et du gel hydroalcoolique. Fin juin, l'eau peut encore sembler fraîche, tandis que mi-septembre reste souvent agréable pour une dernière baignade avant la fin de la saison.",
+          "Pour une expérience plus calme, conduisez dix minutes au sud jusqu'à la péninsule d'Artanish, où le rivage est moins fréquenté et les galets sont plus petits sous les pieds. Une piste accidentée mène à plusieurs aires de stationnement informelles sans aucune installation, alors apportez tout ce dont vous avez besoin, y compris une tente de change pop-up si vous préférez l'intimité. L'eau y est légèrement plus chaude dans les criques abritées car la péninsule bloque le vent dominant. Le camping est toléré dans quelques zones désignées, mais les feux ouverts sont interdits et les gardes forestiers patrouillent les week-ends d'été. La couverture mobile est irrégulière au-delà de l'autoroute principale, alors téléchargez des cartes hors ligne avant de quitter la route goudronnée.",
+          "Si vous prévoyez une journée complète à la plage, emportez un brise-vent, de la crème solaire à haut indice de protection et beaucoup d'eau, car l'altitude de 1 900 mètres intensifie l'exposition aux UV même par temps nuageux. Une polaire légère est utile pour le retour à la voiture une fois que le soleil se couche derrière les montagnes de Geghama. Les installations de change ne sont disponibles que sur la péninsule principale et à la plage privée du complexe près de Tsovagyugh, qui facture des frais d'utilisation journaliers pour l'accès aux douches et à un petit café. Les transports en commun ne desservent pas les criques plus calmes, donc une voiture de location ou un chauffeur privé est essentiel pour la flexibilité. Emportez toujours vos déchets avec vous ; les poubelles sont rares et l'écosystème du lac est fragile."
+        ],
+        "ja": [
+          "セヴァン湖の岸辺は主に小石と粗い砂で、最も透明度の高い水は東部と南部のシュォガカト村とツォヴァギュフ村付近に見られます。7月と8月の水面温度は18〜20度 Celsiusに達し、短時間の水泳には快適ですが、低地の湖に比べるとまだ冷たく感じられます。ほとんどの整備されたビーチエリアには簡素な木製の更衣小屋と屋外の冷水シャワーがありますが、タオルや日よけチェアが提供されることはほとんどありません。早朝は午後の風が開けた水面に小さな白波を立てる前の、最も穏やかな水泳時間です。ハイシーズンの週末は地元の家族で賑わうため、10時前に到着すると良い場所と駐車場を確保しやすくなります。",
+          "セヴァナヴァンク下の半島のビーチは、修道院を訪れる場合に最も便利で、メインの駐車場から短い砂利道が下りています。水深はすぐに深くなるため、泳げない方は岸近くに留まるか、西端近くのロープで区切られた浅いエリアをご利用ください。アクセス道路沿いの屋台では焼き魚、ラヴァシュ、冷たい飲み物が販売されていますが、どの公共ビーチにもライフガードは常駐していません。トイレは簡易な穴式トイレで、トイレットペーパーとハンドサニタイザーはご自身でご持参ください。6月下旬はまだ水が冷たく感じられることがあり、9月中旬はシーズン終了前の最後の水泳に適した快適な水温が続くことが多いです。",
+          "より静かな体験をお求めなら、車で10分南にあるアルタニシュ半島へ。岸辺は混雑が少なく、足元の小石も小さめです。荒れた道がいくつかの非公式の路肩へと続いており、設備は何もないため、必要なものはすべてご持参ください。プライバシーを重視される場合はポップアップ更衣テントもおすすめです。半島が主風を遮るため、入り江の水はわずかに暖かいです。キャンプはいくつかの指定エリアで許容されていますが、焚き火は禁止され、ハイシーズンの週末にはレンジャーがパトロールしています。幹線道路を離れると携帯電話の電波は不安定なので、舗装路を出る前にオフラインマップをダウンロードしてください。",
+          "丸一日ビーチで過ごす予定なら、ウィンドブレーク、高SPFの日焼け止め、十分な水をご持参ください。標高1,900メートルでは、曇りの日でも紫外線が強まります。ゲガマ山脈の背後に太陽が沈んだ後の車までの歩きには、軽いフリースが便利です。更衣施設はメインの半島と、ツォヴァギュフ近くのプライベートリゾートビーチのみで利用でき、シャワーと小さなカフェの利用には日帰り料金がかかります。公共交通機関は静かな入り江まで運行していないため、柔軟性を確保するにはレンタカーまたは専属ドライバーが不可欠です。ゴミは必ずお持ち帰りください。ゴミ箱は少なく、湖の生態系は繊細です。"
+        ],
+        "es": [
+          "La orilla del Lago Sevan es en su mayoría de guijarros y arena gruesa, con el agua más clara en los tramos orientales y meridionales cerca de las aldeas de Shoghakat y Tsovagyugh. En julio y agosto la temperatura superficial alcanza los 18 a 20 grados Celsius, cómoda para un baño rápido pero aún fresca en comparación con lagos de menor altitud. La mayoría de las zonas de playa desarrolladas tienen sencillas cabañas de madera para cambiarse y duchas al aire libre con agua fría, aunque rara vez se proporcionan toallas y hamacas. La mañana temprano es el momento más tranquilo para nadar antes de que el viento de la tarde levante pequeñas crestas blancas en el agua abierta. Los fines de semana en pleno verano atraen a familias locales, así que llegar antes de las diez asegura un lugar decente y aparcamiento más fácil.",
+          "Las playas de la península bajo Sevanavank son las más convenientes si ya estás visitando el monasterio, con un corto camino de grava que baja desde el aparcamiento principal. La profundidad del agua aumenta rápidamente aquí, así que los no nadadores deben permanecer cerca de la orilla o usar la zona poco profunda con cuerda cerca del extremo occidental. Los vendedores a lo largo del camino de acceso venden pescado a la parrilla, lavash y bebidas frías, pero no hay socorristas de servicio en ninguna playa pública. Los baños son letrinas básicas; lleva tu propio papel y desinfectante de manos. A finales de junio el agua aún puede sentirse fría, mientras que a mediados de septiembre a menudo sigue siendo agradable para un último baño antes de que termine la temporada.",
+          "Para una experiencia más tranquila, conduce diez minutos al sur hasta la Península de Artanish, donde la orilla está menos concurrida y los guijarros son más pequeños bajo los pies. Una pista accidentada lleva a varios aparcamientos informales sin instalaciones en absoluto, así que trae todo lo que necesites, incluyendo una tienda de campaña emergente para cambiarte si prefieres privacidad. El agua aquí es marginalmente más cálida en calas resguardadas porque la península bloquea el viento predominante. El camping está tolerado en algunas zonas designadas, pero las fogatas están prohibidas y los guardabosques patrullan los fines de semana de verano. La cobertura móvil es irregular más allá de la carretera principal, así que descarga mapas sin conexión antes de salir del pavimento.",
+          "Si planeas un día completo de playa, lleva un cortavientos, protector solar de alto SPF y mucha agua, ya que la altitud de 1,900 metros intensifica la exposición a los rayos UV incluso en días nublados. Un forro polar ligero es útil para el regreso al coche una vez que el sol se oculta tras las montañas Geghama. Las instalaciones para cambiarse solo están disponibles en la península principal y en la playa del complejo privado cerca de Tsovagyugh, que cobra una tarifa de uso diario para acceder a duchas y un pequeño café. El transporte público no llega a las calas más tranquilas, así que un coche de alquiler o un conductor contratado es esencial para la flexibilidad. Siempre lleva tu basura contigo; los contenedores son escasos y el ecosistema del lago es frágil."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Pebble beaches, 18–20 °C water in July–August",
+          "Changing cabins only at main peninsula and Tsovagyugh resort",
+          "Artanish Peninsula for quieter coves and warmer sheltered water"
+        ],
+        "de": [
+          "Kiesstrände, 18–20 °C Wassertemperatur im Juli–August",
+          "Umkleidekabinen nur auf der Haupthalbinsel und im Tsovagyugh-Resort",
+          "Artanish-Halbinsel für ruhigere Buchten und wärmeres, geschütztes Wasser"
+        ],
+        "fr": [
+          "Plages de galets, eau à 18–20 °C en juillet–août",
+          "Cabines de change uniquement sur la péninsule principale et au complexe de Tsovagyugh",
+          "Péninsule d'Artanish pour des criques plus calmes et une eau plus chaude et abritée"
+        ],
+        "ja": [
+          "小石のビーチ、7月〜8月の水温18〜20 °C",
+          "更衣小屋はメイン半島とツォヴァギュフリゾートのみ",
+          "アルタニシュ半島 — 静かな入り江と暖かい避風の水"
+        ],
+        "es": [
+          "Playas de guijarros, agua de 18–20 °C en julio–agosto",
+          "Cabañas para cambiarse solo en la península principal y el complejo de Tsovagyugh",
+          "Península de Artanish para calas más tranquilas y agua más cálida resguardada"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Water temperature peak",
+            "de": "Höchstwert der Wassertemperatur",
+            "fr": "Température maximale de l'eau",
+            "ja": "水温のピーク",
+            "es": "Temperatura máxima del agua"
+          },
+          "value": {
+            "en": "18–20 °C in July–August",
+            "de": "18–20 °C im Juli–August",
+            "fr": "18–20 °C en juillet–août",
+            "ja": "7月〜8月の18〜20 °C",
+            "es": "18–20 °C en julio–agosto"
+          }
+        },
+        {
+          "label": {
+            "en": "Facilities",
+            "de": "Einrichtungen",
+            "fr": "Installations",
+            "ja": "設備",
+            "es": "Instalaciones"
+          },
+          "value": {
+            "en": "Changing cabins, cold showers, pit toilets at main beaches",
+            "de": "Umkleidekabinen, kalte Duschen, Trockentoiletten an den Hauptstränden",
+            "fr": "Changement de cabines, douches froides, toilettes sèches sur les plages principales",
+            "ja": "更衣室、冷水シャワー、主要ビーチの簡易トイレ",
+            "es": "Cambio de cabañas, duchas frías y letrinas de foso en las playas principales"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793439085/sunday-atlas/blog/lake-sevan-travel-guide/lake-sevan-beaches-commons-47850252.jpg",
+        "width": 1920,
+        "height": 1281,
+        "alt": {
+          "en": "A pebbly beach at Lake Sevan, Armenia, with a small pier and blue sky.",
+          "de": "Ein kiesiger Strand am Lake Sevan in Armenien mit einem kleinen Steg und blauem Himmel.",
+          "fr": "Une plage de galets au lac Sevan, en Arménie, avec une petite jetée et un ciel bleu.",
+          "ja": "アルメニア、セヴァン湖の小石のビーチ、小さな桟橋と青空。",
+          "es": "Una playa de guijarros en el lago Sevan, Armenia, con un pequeño embarcadero y cielo azul."
+        },
+        "credit": {
+          "author": "Marcin Konsek",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_Prowincja_Gegharkunik,_Jezioro_Sewan_widziane_z_p%C3%B3%C5%82wyspu_Sewan_(06).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Lake Sevan beaches",
+          "de": "Strände am Lake Sevan",
+          "fr": "Plages du lac Sevan",
+          "ja": "セヴァン湖のビーチ",
+          "es": "Playas del Lago Sevan"
+        }
+      }
+    },
+    {
+      "id": "seasons-weather",
+      "placeName": {
+        "en": "Lake Sevan",
+        "de": "Lake Sevan",
+        "fr": "Lac Sevan",
+        "ja": "セバン湖",
+        "es": "Lago Sevan"
+      },
+      "heading": {
+        "en": "Best Seasons to Visit Lake Sevan",
+        "de": "Beste Reisezeit für den Lake Sevan",
+        "fr": "Meilleures saisons pour visiter le lac Sevan",
+        "ja": "セバン湖を訪れるベストシーズン",
+        "es": "Las mejores épocas para visitar el lago Sevan"
+      },
+      "paragraphs": {
+        "en": [
+          "Spring arrives at Lake Sevan in April when the surrounding meadows burst into wildflowers and the water temperature remains too cold for swimming but perfect for photography. Daytime highs reach 12 to 18 degrees Celsius, and the 60-kilometer drive from Yerevan takes about 90 minutes on the M4 highway. Summer months bring Yerevan heat above 30 degrees while the lake sits at 1,900 meters elevation, keeping air temperatures around 22 degrees and drawing local families to the pebble beaches. July and August see the clearest water visibility for underwater shots of the endemic Sevan trout.",
+          "Autumn transforms the shoreline vineyards into gold and crimson from late September through October, coinciding with the Areni harvest festivals 45 kilometers south. Morning mist often hangs over the peninsula until 10 AM, creating layered landscape compositions with Sevanavank monastery silhouettes. Winter access remains open year-round on the main road, though the peninsula road can ice over after snowfall; temperatures drop to minus 10 degrees at night but midday sun allows comfortable walking.",
+          "Our 5-day Armenia Cultural Discovery tour runs April through June and September through November, timing the Lake Sevan visit for optimal light and comfortable hiking on the peninsula trails. The private itinerary includes a morning stop at Sevanavank before continuing to Dilijan and Haghartsin monastery through forested valleys. Summer departures are possible but midday heat in Yerevan makes the city touring more strenuous. Winter operations pause due to reduced daylight hours and icy mountain passes beyond the lake.",
+          "For independent travelers, the most reliable approach combines an early morning marshrutka from Yerevan's Kilikia station with a late afternoon return, maximizing the 6-hour window for peninsula exploration and beach time. Pack layers regardless of season — wind off the water cuts through summer warmth and spring sunshine alike. The peninsula parking area fills by 11 AM on summer weekends, so arriving before 9 AM secures space and the best light on the monastery's western facade."
+        ],
+        "de": [
+          "Der Frühling kommt im April an den Lake Sevan, wenn die umliegenden Wiesen in Wildblumen ausbrechen und die Wassertemperatur zum Schwimmen noch zu kalt, aber perfekt für Fotografie ist. Die Tageshöchstwerte liegen bei 12 bis 18 Grad Celsius, und die 60-kilometer-Fahrt von Jerewan dauert etwa 90 Minuten auf der M4-Autobahn. Die Sommermonate bringen Jerewaner Hitze über 30 Grad, während der See auf 1.900 Metern Höhe liegt, die Lufttemperaturen bei etwa 22 Grad hält und lokale Familien zu den Kiesstränden zieht. Im Juli und August ist die Unterwassersicht am klarsten für Aufnahmen der endemischen Sevan-Forelle.",
+          "Der Herbst verwandelt die Uferweinberge von Ende September bis Oktober in Gold und Karmesinrot, was mit den Areni-Erntefesten 45 Kilometer südlich zusammenfällt. Morgens liegt oft Nebel über der Halbinsel bis 10 Uhr, was geschichtete Landschaftskompositionen mit Silhouetten des Klosters Sevanavank schafft. Die Winterzugang bleibt ganzjährig auf der Hauptstraße offen, obwohl die Halbinselstraße nach Schneefall vereisen kann; die Temperaturen fallen nachts auf minus 10 Grad, aber die Mittagssonne ermöglicht angenehmes Gehen.",
+          "Unsere 5-tägige Armenien-Kultur-Entdeckungsreise läuft von April bis Juni und von September bis November, wobei der Lake-Sevan-Besuch für optimales Licht und komfortables Wandern auf den Halbinselpfaden getimt wird. Die private Reiseroute beinhaltet einen Morgenstopp in Sevanavank, bevor es weiter nach Dilijan und zum Kloster Haghartsin durch bewaldete Täler geht. Sommerabfahrten sind möglich, aber die Mittagshitze in Jerewan macht die Stadtrundfahrten anstrengender. Die Winteroperationen ruhen aufgrund der reduzierten Tageslichtstunden und vereister Bergpässe jenseits des Sees.",
+          "Für individuelle Reisende ist der zuverlässigste Ansatz eine Kombination aus einer frühen Morgenmarshrutka vom Kilikia-Bahnhof in Jerewan mit einer späten Nachmittagsrückkehr, um das 6-stündige Zeitfenster für die Halbinsel-Exploration und Strandzeit zu maximieren. Packen Sie unabhängig von der Jahreszeit Schichten ein – der Wind vom Wasser schneidet durch sommerliche Wärme und Frühlingsonne gleichermaßen. Der Parkplatz auf der Halbinsel füllt sich an Sommerwochenenden bis 11 Uhr, sodass eine Ankunft vor 9 Uhr Platz und das beste Licht auf der Westfassade des Klosters sichert."
+        ],
+        "fr": [
+          "Le printemps arrive au lac Sevan en avril, lorsque les prairies environnantes s'épanouissent de fleurs sauvages et que la température de l'eau reste trop froide pour la baignade mais idéale pour la photographie. Les maximales diurnes atteignent 12 à 18 degrés Celsius, et la route de 60 kilomètres depuis Erevan dure environ 90 minutes sur l'autoroute M4. Les mois d'été apportent la chaleur d'Erevan au-dessus de 30 degrés tandis que le lac, à 1 900 mètres d'altitude, maintient les températures de l'air autour de 22 degrés et attire les familles locales sur les plages de galets. Juillet et août offrent la meilleure visibilité sous-marine pour photographier la truite endémique du Sevan.",
+          "L'automne transforme les vignobles du rivage en or et cramoisi de fin septembre à octobre, coïncidant avec les festivals de la vendange d'Areni à 45 kilomètres au sud. Un brouillard matinal plane souvent sur la péninsule jusqu'à 10 heures, créant des compositions paysagères en couches avec les silhouettes du monastère de Sevanavank. L'accès hivernal reste ouvert toute l'année sur la route principale, bien que la route de la péninsule puisse verglacer après une chute de neige ; les températures descendent à moins 10 degrés la nuit, mais le soleil de midi permet de marcher confortablement.",
+          "Notre circuit Découverte culturelle de l'Arménie de 5 jours se déroule d'avril à juin et de septembre à novembre, programmant la visite du lac Sevan pour une lumière optimale et une randonnée confortable sur les sentiers de la péninsule. L'itinéraire privé inclut un arrêt matinal à Sevanavank avant de poursuivre vers Dilijan et le monastère de Haghartsin à travers des vallées boisées. Les départs estivaux sont possibles, mais la chaleur de midi à Erevan rend les visites de la ville plus éprouvantes. Les opérations hivernales sont suspendues en raison de la réduction des heures de lumière et des cols de montagne glacés au-delà du lac.",
+          "Pour les voyageurs indépendants, l'approche la plus fiable combine un marshrutka matinal depuis la gare de Kilikia à Erevan avec un retour en fin d'après-midi, maximisant la fenêtre de 6 heures pour l'exploration de la péninsule et le temps à la plage. Emportez des couches quelle que soit la saison — le vent venu de l'eau traverse la chaleur estivale et le soleil printanier. Le parking de la péninsule se remplit à 11 heures les week-ends d'été, donc arriver avant 9 heures garantit une place et la meilleure lumière sur la façade ouest du monastère."
+        ],
+        "ja": [
+          "春は4月にセバン湖に訪れ、周囲の草原が野生の花で彩られ、水温は泳ぐには冷たすぎるものの写真撮影には最適です。日中の最高気温は12〜18度セ氏で、エレバンからの60キロメートルのドライブはM4ハイウェイで約90分かかります。夏の間、エレバンの気温は30度セ氏を超えますが、標高1,900メートルの湖畔では気温が約22度セ氏に保たれ、地元の家族が小石のビーチに集まります。7月と8月は、固有種のセバンマスの水中撮影に最適な水の透明度を誇ります。",
+          "秋は9月下旬から10月にかけて、湖岸のブドウ園が黄金と深紅に染まり、45キロメートル南のアレニ収穫祭と時を同じくします。朝の霧が半島に立ち込めることが多く、10時まで続くことで、セヴァナヴァンク修道院のシルエットを重ねた層のある風景写真が撮れます。冬は主要道路が年間を通じて通行可能ですが、半島への道路は降雪後に凍結することがあります。夜間の気温はマイナス10度セ氏まで下がりますが、昼間の日差しで快適に散策できます。",
+          "当社の5日間アルメニア文化探訪ツアーは4月から6月、9月から11月にかけて運行し、セバン湖訪問を最適な光と半島トレイルでの快適なハイキングに合わせています。プライベートな日程には、セヴァナヴァンクへの午前中の立ち寄りに続き、森林の谷間を通ってディリジャンとハガルツィン修道院へ向かう内容が含まれます。夏の出発も可能ですが、エレバンの昼間の暑さで市内観光がより過酷になります。冬は日照時間の短縮と湖を越えた山道の凍結により運休となります。",
+          "個人旅行者には、エレバンのキリキア駅から早朝のマシュルートカに乗り、午後遅くに戻る方法が最も確実で、半島探索とビーチタイムのための6時間の時間枠を最大限に活用できます。季節を問わず重ね着をご用意ください。水からの風は夏の暖かさや春の日差しをも打ち消します。半島の駐車場は夏の週末に11時までに満車になるため、9時前に到着すれば駐車スペースと修道院西側ファサードのベストライトを確保できます。"
+        ],
+        "es": [
+          "La primavera llega al lago Sevan en abril, cuando los prados circundantes estallan en flores silvestres y la temperatura del agua sigue siendo demasiado fría para nadar, pero perfecta para la fotografía. Las máximas diurnas alcanzan los 12 a 18 grados Celsius, y el trayecto de 60 kilómetros desde Ereván dura unos 90 minutos por la carretera M4. Los meses de verano traen el calor de Ereván por encima de los 30 grados, mientras que el lago, a 1.900 metros de altitud, mantiene el aire alrededor de los 22 grados y atrae a las familias locales a las playas de guijarros. Julio y agosto ofrecen la mejor visibilidad del agua para tomas submarinas de la trucha de Sevan, endémica de la zona.",
+          "El otoño transforma los viñedos de la orilla en tonos dorados y carmesí de finales de septiembre a octubre, coincidiendo con los festivales de la cosecha de Areni, a 45 kilómetros al sur. La niebla matinal suele cernirse sobre la península hasta las 10 de la mañana, creando composiciones paisajísticas en capas con las siluetas del monasterio de Sevanavank. El acceso en invierno permanece abierto todo el año por la carretera principal, aunque el camino de la península puede helarse tras las nevadas; las temperaturas bajan a menos 10 grados por la noche, pero el sol del mediodía permite caminar cómodamente.",
+          "Nuestro tour Armenia Cultural Discovery de 5 días se realiza de abril a junio y de septiembre a noviembre, programando la visita al lago Sevan para aprovechar la luz óptima y hacer senderismo cómodo por los senderos de la península. El itinerario privado incluye una parada matutina en Sevanavank antes de continuar hacia Dilijan y el monasterio de Haghartsin a través de valles boscosos. Las salidas de verano son posibles, pero el calor del mediodía en Ereván hace que el recorrido por la ciudad sea más agotador. Las operaciones en invierno se suspenden debido a la reducción de las horas de luz y a los pasos de montaña helados más allá del lago.",
+          "Para los viajeros independientes, el enfoque más fiable combina un marshrutka temprano desde la estación Kilikia de Ereván con un regreso por la tarde, maximizando la ventana de 6 horas para explorar la península y disfrutar de la playa. Lleve capas independientemente de la temporada: el viento del agua atraviesa tanto el calor del verano como el sol primaveral. El aparcamiento de la península se llena a las 11 de la mañana los fines de semana de verano, así que llegar antes de las 9 de la mañana asegura espacio y la mejor luz en la fachada occidental del monasterio."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Spring wildflowers peak mid-April to May",
+          "Summer water reaches 18 degrees Celsius",
+          "Autumn vineyards glow gold through October"
+        ],
+        "de": [
+          "Frühlingsblüten Höhepunkt Mitte April bis Mai",
+          "Sommerwasser erreicht 18 Grad Celsius",
+          "Herbstweinberge leuchten Gold bis Oktober"
+        ],
+        "fr": [
+          "Les fleurs sauvages du printemps culminent de mi-avril à mai",
+          "L'eau de l'été atteint 18 degrés Celsius",
+          "Les vignobles d'automne brillent d'or jusqu'en octobre"
+        ],
+        "ja": [
+          "春の野生の花は4月中旬から5月にピーク",
+          "夏の水温は18度セ氏に達する",
+          "秋のブドウ園は10月まで黄金に輝く"
+        ],
+        "es": [
+          "Las flores silvestres alcanzan su punto máximo de mediados de abril a mayo",
+          "El agua del verano alcanza los 18 grados Celsius",
+          "Los viñedos de otoño brillan en dorado hasta octubre"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Best months",
+            "de": "Beste Monate",
+            "fr": "Meilleurs mois",
+            "ja": "ベストシーズン",
+            "es": "Meses recomendados"
+          },
+          "value": {
+            "en": "April to June, September to November",
+            "de": "April bis Juni, September bis November",
+            "fr": "Avril à juin, septembre à novembre",
+            "ja": "4月から6月、9月から11月",
+            "es": "De abril a junio, de septiembre a noviembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Yerevan drive time",
+            "de": "Fahrzeit von Jerewan",
+            "fr": "Temps de trajet depuis Erevan",
+            "ja": "エレバンまでのドライブ時間",
+            "es": "Tiempo de viaje desde Ereván"
+          },
+          "value": {
+            "en": "90 minutes via M4 highway",
+            "de": "90 Minuten über die M4-Autobahn",
+            "fr": "90 minutes via l'autoroute M4",
+            "ja": "M4ハイウェイ経由で90分",
+            "es": "90 minutos por la carretera M4"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "5 Days / 4 Nights",
+            "de": "5 Tage / 4 Nächte",
+            "fr": "5 jours / 4 nuits",
+            "ja": "5日間 / 4泊",
+            "es": "5 días / 4 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $1080 USD / person",
+            "de": "Ab $1080 USD / Person",
+            "fr": "À partir de $1080 USD / personne",
+            "ja": "$1080 USD〜 / 1名",
+            "es": "Desde $1080 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793439086/sunday-atlas/blog/lake-sevan-travel-guide/lake-sevan-commons-47850065.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Lake Sevan in Armenia viewed from a rocky, tree-dotted shoreline under a cloudy sky.",
+          "de": "Der Lake Sevan in Armenien, gesehen von einem felsigen, baumbestandenen Ufer unter bewölktem Himmel.",
+          "fr": "Le lac Sevan en Arménie, vu depuis une rive rocheuse parsemée d'arbres sous un ciel nuageux.",
+          "ja": "アルメニア、セヴァン湖、雲の広がる空の下、岩場で木々が点在する岸辺から望む。",
+          "es": "El lago Sevan en Armenia visto desde una orilla rocosa y salpicada de árboles bajo un cielo nublado."
+        },
+        "credit": {
+          "author": "Marcin Konsek",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_Prowincja_Gegharkunik,_Hajrawank,_Widok_na_jezioro_Sewan_spod_klasztoru_Hajrawank_(07).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Lake Sevan",
+          "de": "Lake Sevan",
+          "fr": "Lac Sevan",
+          "ja": "セバン湖",
+          "es": "Lago Sevan"
+        }
+      },
+      "embeddedPackageSlug": "armenia-cultural-discovery-5-days"
+    },
+    {
+      "id": "dilijan-tsaghkadzor-link",
+      "placeName": {
+        "en": "Dilijan and Tsaghkadzor",
+        "de": "Dilijan und Tsaghkadzor",
+        "fr": "Dilijan et Tsaghkadzor",
+        "ja": "ディリジャンとツァフカジツァル",
+        "es": "Dilijan y Tsaghkadzor"
+      },
+      "heading": {
+        "en": "Connecting Lake Sevan with Dilijan and Tsaghkadzor",
+        "de": "Lake Sevan mit Dilijan und Tsaghkadzor verbinden",
+        "fr": "Relier le lac Sevan à Dilijan et Tsaghkadzor",
+        "ja": "セバン湖とディリジャン、ツァフカジツァルを結ぶ旅",
+        "es": "Conectando el lago Sevan con Dilijan y Tsaghkadzor"
+      },
+      "paragraphs": {
+        "en": [
+          "The paved road from Lake Sevan to Dilijan climbs over the Selim Pass at about 2,410 meters, covering roughly 65 kilometers in 1 hour 20 minutes under normal conditions. Summer traffic can add 20 minutes near the peninsula, while winter snow occasionally closes the pass between December and March. From Dilijan to Tsaghkadzor the route drops through forested valleys for 45 kilometers, taking about 1 hour 10 minutes. Our drivers usually leave Sevan by 9 am to reach Dilijan National Park before the midday tour buses arrive.",
+          "Inside Dilijan National Park the main stops are Haghartsin Monastery, set in a deep oak and beech gorge, and Goshavank, reached by a short spur road that adds 15 minutes each way. Both sites sit at 1,100–1,200 meters, so temperatures stay 5–8 degrees cooler than Yerevan in July. The park’s marked trails range from 30-minute lakeside loops to half-day ridge hikes; sturdy shoes are recommended because paths turn muddy after rain. Mobile coverage is reliable at the monasteries but fades on higher trails.",
+          "Tsaghkadzor sits at 1,750 meters on the slopes of Mount Teghenis, linked to Dilijan by the M4 highway that follows the Pambak River. The drive offers views of ski lifts operating from December to March and wildflower meadows from late May to early July. A cable car runs year-round to the summit at 2,819 meters, providing a 15-minute ride with panoramic views of the Ararat Valley on clear days. Kecharis Monastery, a 11th-century complex, sits a five-minute walk from the town center and makes a convenient final stop before heading back to Yerevan.",
+          "For a continuous loop from Yerevan, allow 10–11 hours including stops: Yerevan to Sevan (60 km, 1 hour), Sevan to Dilijan via Selim Pass (65 km, 1 hour 20 minutes), Dilijan to Tsaghkadzor (45 km, 1 hour 10 minutes), and Tsaghkadzor back to Yerevan (55 km, 1 hour 15 minutes). Spring and autumn weekdays deliver the lightest traffic and the most comfortable temperatures for walking the monastery grounds. Carry water and a wind layer; the pass can be windy even when the lake shore feels warm."
+        ],
+        "de": [
+          "Die asphaltierte Straße vom Lake Sevan nach Dilijan steigt über den Selim-Pass auf etwa 2.410 Meter, legt etwa 65 Kilometer in 1 Stunde 20 Minuten unter normalen Bedingungen zurück. Sommerlicher Verkehr kann 20 Minuten in der Nähe der Halbinsel hinzufügen, während Winterschnee den Pass gelegentlich zwischen Dezember und März schließt. Von Dilijan nach Tsaghkadzor führt die Route durch bewaldete Täler für 45 Kilometer und dauert etwa 1 Stunde 10 Minuten. Unsere Fahrer verlassen Sevan normalerweise um 9 Uhr, um den Dilijan-Nationalpark vor der Ankunft der Mittags-Reisebusse zu erreichen.",
+          "Im Dilijan-Nationalpark sind die Hauptstopps das Kloster Haghartsin, das in einer tiefen Eichen- und Buchenschlucht liegt, und Goshavank, das über eine kurze Stichstraße erreicht wird, die 15 Minuten pro Weg hinzufügt. Beide Stätten liegen auf 1.100–1.200 Metern, sodass die Temperaturen im Juli 5–8 Grad kühler sind als in Jerewan. Die markierten Wanderwege des Parks reichen von 30-minütigen Seerundwegen bis zu halbtägigen Gratwanderungen; festes Schuhwerk wird empfohlen, da die Wege nach Regen schlammig werden. Der Mobilfunkempfang ist in den Klöstern zuverlässig, lässt aber auf höheren Wegen nach.",
+          "Tsaghkadzor liegt auf 1.750 Metern an den Hängen des Berges Teghenis und ist über die M4 mit Dilijan verbunden, die dem Pambak-Fluss folgt. Die Fahrt bietet Ausblicke auf Skilifte, die von Dezember bis März in Betrieb sind, und auf Wildblumenwiesen von Ende Mai bis Anfang Juli. Eine Seilbahn fährt ganzjährig auf den Gipfel auf 2.819 Metern und bietet eine 15-minütige Fahrt mit Panoramablick auf das Ararattal an klaren Tagen. Das Kloster Kecharis, ein Komplex aus dem 11. Jahrhundert, liegt einen fünfminütigen Spaziergang vom Stadtzentrum entfernt und ist ein praktischer letzter Stopp, bevor Sie zurück nach Jerewan fahren.",
+          "Für eine durchgehende Rundtour ab Jerewan sollten Sie 10–11 Stunden inklusive Stopps einplanen: Jerewan nach Sevan (60 km, 1 Stunde), Sevan nach Dilijan über den Selim-Pass (65 km, 1 Stunde 20 Minuten), Dilijan nach Tsaghkadzor (45 km, 1 Stunde 10 Minuten) und Tsaghkadzor zurück nach Jerewan (55 km, 1 Stunde 15 Minuten). Frühjahrs- und Herbsttage unter der Woche bieten den leichtesten Verkehr und die angenehmsten Temperaturen für einen Spaziergang über das Klostergelände. Nehmen Sie Wasser und eine winddichte Jacke mit; der Pass kann windig sein, selbst wenn es am Seeufer warm ist."
+        ],
+        "fr": [
+          "La route goudronnée du lac Sevan à Dilijan grimpe par le col de Selim à environ 2 410 mètres, couvrant environ 65 kilomètres en 1 heure 20 minutes dans des conditions normales. Le trafic estival peut ajouter 20 minutes près de la péninsule, tandis que la neige hivernale ferme occasionnellement le col entre décembre et mars. De Dilijan à Tsaghkadzor, la route descend à travers des vallées boisées sur 45 kilomètres, prenant environ 1 heure 10 minutes. Nos chauffeurs quittent généralement Sevan à 9 heures pour atteindre le parc national de Dilijan avant l'arrivée des cars de tourisme de midi.",
+          "À l'intérieur du parc national de Dilijan, les principaux arrêts sont le monastère de Haghartsin, niché dans une gorge profonde de chênes et de hêtres, et Goshavank, accessible par une courte route d'accès qui ajoute 15 minutes chaque sens. Les deux sites se situent à 1 100–1 200 mètres, donc les températures restent 5 à 8 degrés plus fraîches qu'à Erevan en juillet. Les sentiers balisés du parc vont de boucles lacustres de 30 minutes à des randonnées de crête d'une demi-journée ; des chaussures robustes sont recommandées car les chemins deviennent boueux après la pluie. La couverture mobile est fiable aux monastères mais s'estompe sur les sentiers plus élevés.",
+          "Tsaghkadzor se trouve à 1 750 mètres sur les pentes du mont Teghenis, reliée à Dilijan par la route M4 qui longe la rivière Pambak. La route offre des vues sur les remontées mécaniques en activité de décembre à mars et sur les prairies de fleurs sauvages de fin mai à début juillet. Un téléphérique fonctionne toute l'année jusqu'au sommet à 2 819 mètres, offrant un trajet de 15 minutes avec une vue panoramique sur la vallée de l'Ararat par temps clair. Le monastère de Kecharis, un complexe du 11e siècle, se trouve à cinq minutes à pied du centre-ville et constitue un arrêt final pratique avant de retourner à Erevan.",
+          "Pour une boucle continue depuis Erevan, prévoyez 10 à 11 heures, arrêts compris : Erevan à Sevan (60 km, 1 heure), Sevan à Dilijan via le col de Selim (65 km, 1 heure 20 minutes), Dilijan à Tsaghkadzor (45 km, 1 heure 10 minutes), et Tsaghkadzor à Erevan (55 km, 1 heure 15 minutes). Les jours de semaine au printemps et en automne offrent le trafic le plus léger et les températures les plus confortables pour parcourir les terrains du monastère. Emportez de l'eau et une couche coupe-vent ; le col peut être venteux même lorsque la rive du lac est chaude."
+        ],
+        "ja": [
+          "セバン湖からディリジャンへの舗装道路は、標高約2,410メートルのセリム峠を越え、通常の状態で約65キロメートルを1時間20分で走行します。夏の交通渋滞により半島付近で20分追加されることがあり、冬は12月から3月にかけて降雪で峠が閉鎖される場合があります。ディリジャンからツァフカジツァルまでは、森林の谷間を下るルートで45キロメートル、約1時間10分かかります。当社のドライバーは通常、午前9時にセバン湖を出発し、正午の観光バスが到着する前にディリジャン国立公園に到着します。",
+          "ディリジャン国立公園内の主な見どころは、深いオークとブナの渓谷に位置するハガルツィン修道院と、短い支線道路でアクセスするゴシャヴァンクで、片道15分追加されます。両方の場所は標高1,100〜1,200メートルに位置し、7月のエレバンよりも気温が5〜8度セ氏低く保たれます。公園の標識付きトレイルは、30分の湖畔ループから半日の尾根ハイキングまであり、雨後は道が泥濘になるため、丈夫な靴が推奨されます。修道院では携帯電話の電波は安定していますが、高いトレイルでは弱まります。",
+          "ツァフカジョルは標高1,750メートルのテゲニス山の斜面に位置し、M4ハイウェイでディリジャンと結ばれています。この道路はパンバク川に沿って走り、12月から3月まで稼働するスキーリフトや、5月下旬から7月上旬にかけての野花の草原の景色を楽しめます。ケーブルカーは通年運行で標高2,819メートルの山頂まで結び、晴天時にはアララト渓谷のパノラマビューを望む15分の旅を提供します。11世紀の複合施設であるケチャリス修道院は町の中心部から徒歩5分の場所にあり、エレバンへ戻る前の便利な最終スポットとなります。",
+          "エレバンからの連続ループをご希望の場合、停車を含めて10〜11時間をご覧ください：エレバンからセヴァンまで（60km、1時間）、セリム峠経由でセヴァンからディリジャンまで（65km、1時間20分）、ディリジャンからツァフカジョルまで（45km、1時間10分）、ツァフカジョルからエレバンへ戻るまで（55km、1時間15分）。春と秋の平日は交通量が最も少なく、修道院の敷地を散策するのに最も快適な気温です。水と防風着をご持参ください。湖畔が暖かく感じられても、峠は風が強いことがあります。"
+        ],
+        "es": [
+          "La carretera pavimentada desde el lago Sevan hasta Dilijan asciende por el paso de Selim, a unos 2.410 metros, recorriendo unos 65 kilómetros en 1 hora y 20 minutos en condiciones normales. El tráfico de verano puede añadir 20 minutos cerca de la península, mientras que la nieve invernal cierra ocasionalmente el paso entre diciembre y marzo. De Dilijan a Tsaghkadzor, la ruta desciende por valles boscosos durante 45 kilómetros, tardando aproximadamente 1 hora y 10 minutos. Nuestros conductores suelen salir de Sevan a las 9 de la mañana para llegar al Parque Nacional de Dilijan antes de que lleguen los autobuses de excursión del mediodía.",
+          "Dentro del Parque Nacional de Dilijan, las paradas principales son el monasterio de Haghartsin, ubicado en una profunda garganta de robles y hayas, y Goshavank, al que se llega por un camino secundario que añade 15 minutos en cada sentido. Ambos sitios se encuentran a 1.100-1.200 metros, por lo que las temperaturas se mantienen 5-8 grados más frescas que en Ereván en julio. Los senderos señalizados del parque van desde circuitos de 30 minutos junto al lago hasta caminatas de medio día por crestas; se recomiendan zapatos resistentes porque los caminos se vuelven embarrados después de la lluvia. La cobertura móvil es fiable en los monasterios, pero se desvanece en los senderos más altos.",
+          "Tsaghkadzor se encuentra a 1,750 metros en las laderas del monte Teghenis, vinculada a Dilijan por la carretera M4 que sigue el río Pambak. El trayecto ofrece vistas de telesillas en funcionamiento de diciembre a marzo y prados de flores silvestres de finales de mayo a principios de julio. Un teleférico funciona todo el año hasta la cima a 2,819 metros, con un trayecto de 15 minutos y vistas panorámicas del valle de Ararat en días despejados. El monasterio de Kecharis, un complejo del siglo 11, está a cinco minutos a pie del centro del pueblo y constituye una parada conveniente antes de regresar a Ereván.",
+          "Para un circuito continuo desde Ereván, calcula 10–11 horas incluyendo paradas: Ereván a Sevan (60 km, 1 hora), Sevan a Dilijan a través del paso de Selim (65 km, 1 hora 20 minutos), Dilijan a Tsaghkadzor (45 km, 1 hora 10 minutos), y Tsaghkadzor de regreso a Ereván (55 km, 1 hora 15 minutos). Los días laborables de primavera y otoño ofrecen el tráfico más ligero y las temperaturas más agradables para caminar por los terrenos del monasterio. Lleva agua y una capa cortavientos; el paso puede estar ventoso incluso cuando la orilla del lago se siente cálida."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Selim Pass summit at 2,410 meters",
+          "Haghartsin Monastery in forested gorge",
+          "Tsaghkadzor cable car to Mount Teghenis"
+        ],
+        "de": [
+          "Gipfel des Selim-Passes auf 2.410 Metern",
+          "Kloster Haghartsin in bewaldeter Schlucht",
+          "Seilbahn Tsaghkadzor zum Berg Teghenis"
+        ],
+        "fr": [
+          "Sommet du col de Selim à 2 410 mètres",
+          "Monastère de Haghartsin dans une gorge boisée",
+          "Téléphérique de Tsaghkadzor vers le mont Teghenis"
+        ],
+        "ja": [
+          "セリム峠頂上 標高2,410メートル",
+          "森林の渓谷に位置するハガルツィン修道院",
+          "テゲニス山へのツァフカジョルケーブルカー"
+        ],
+        "es": [
+          "Cima del paso de Selim a 2,410 metros",
+          "Monasterio de Haghartsin en un desfiladero boscoso",
+          "Teleférico de Tsaghkadzor al monte Teghenis"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time Sevan to Dilijan",
+            "de": "Fahrzeit Sevan nach Dilijan",
+            "fr": "Temps de trajet de Sevan à Dilijan",
+            "ja": "セヴァンからディリジャンまでのドライブ時間",
+            "es": "Tiempo de conducción de Sevan a Dilijan"
+          },
+          "value": {
+            "en": "1 hour 20 minutes",
+            "de": "1 Stunde 20 Minuten",
+            "fr": "1 heure 20 minutes",
+            "ja": "1時間20分",
+            "es": "1 hora 20 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Drive time Dilijan to Tsaghkadzor",
+            "de": "Fahrzeit Dilijan nach Tsaghkadzor",
+            "fr": "Temps de trajet de Dilijan à Tsaghkadzor",
+            "ja": "ディリジャンからツァフカジョルまでのドライブ時間",
+            "es": "Tiempo de conducción de Dilijan a Tsaghkadzor"
+          },
+          "value": {
+            "en": "1 hour 10 minutes",
+            "de": "1 Stunde 10 Minuten",
+            "fr": "1 heure 10 minutes",
+            "ja": "1時間10分",
+            "es": "1 hora 10 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "4 Days / 3 Nights",
+            "de": "4 Tage / 3 Nächte",
+            "fr": "4 jours / 3 nuits",
+            "ja": "4日間 / 3泊",
+            "es": "4 días / 3 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $972 USD / person",
+            "de": "Ab $972 USD / Person",
+            "fr": "À partir de $972 USD / personne",
+            "ja": "$972 USD〜 / 1名",
+            "es": "Desde $972 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925945/sunday-atlas/vqxospoazuq3zzq1wjz3.jpg",
+        "width": 1600,
+        "height": 724,
+        "alt": {
+          "en": "Armenia landscape and landmarks on our tour, photo 1",
+          "de": "Landschaft und Sehenswürdigkeiten in Armenien auf unserer Reise, Foto 1",
+          "fr": "Paysages et monuments en Arménie lors de notre circuit, photo 1",
+          "ja": "当社ツアーで訪れるアルメニアの風景と名所（写真1）",
+          "es": "Paisajes y monumentos de Armenia en nuestro tour, foto 1"
+        },
+        "caption": {
+          "en": "Dilijan and Tsaghkadzor",
+          "de": "Dilijan und Tsaghkadzor",
+          "fr": "Dilijan et Tsaghkadzor",
+          "ja": "ディリジャンとツァフカジツァル",
+          "es": "Dilijan y Tsaghkadzor"
+        }
+      },
+      "embeddedPackageSlug": "armenia-legends-4-days"
+    },
+    {
+      "id": "day-trip-logistics",
+      "placeName": {
+        "en": "Yerevan to Lake Sevan",
+        "de": "Jerewan zum See Sewan",
+        "fr": "Erevan au lac Sevan",
+        "ja": "エレバンからセヴァン湖へ",
+        "es": "De Ereván al lago Sevan"
+      },
+      "heading": {
+        "en": "Day Trip Logistics from Yerevan",
+        "de": "Tagesausflug-Logistik ab Jerewan",
+        "fr": "Logistique des excursions d'une journée depuis Erevan",
+        "ja": "エレバンからの日帰り旅行 ロジスティクス",
+        "es": "Logística de excursiones de un día desde Ereván"
+      },
+      "paragraphs": {
+        "en": [
+          "A private vehicle covers the 65-kilometer run from central Yerevan to the Charents Arch in about 50 minutes on the M4 highway, making the viewpoint a natural first stop before the road climbs toward Garni. From the arch you catch the classic framed silhouette of Mount Ararat across the Ararat Plain, a sight that is sharpest in the clear air of April, May, September and October. The onward drive to Garni Temple adds another 15 minutes through the Azat River gorge, where the basalt organ pipes of the Symphony of Stones line the valley floor. After exploring the first-century Greco-Roman temple and the cliff-carved chambers of Geghard Monastery, the route continues north across the Selim Pass area to Lake Sevan, reaching Sevanavank Peninsula roughly two and a half hours after leaving Yerevan.",
+          "Combining Garni, Geghard and Lake Sevan in a single loop works best when you depart Yerevan by 8:00 AM, allowing three hours at the temple and monastery complex before the midday crowds thicken at Geghard. The return leg from Sevanavank follows the eastern shore road past Noratus Cemetery, then cuts back to the M4 for a direct run of about 70 kilometers and 90 minutes to your hotel. Summer weekends add 30 to 45 minutes of traffic around the lake’s northern beaches, so a weekday departure keeps the day closer to ten hours door-to-door. Winter snow on the Selim Pass can close the high road between December and March, in which case the driver stays on the lower Hrazdan corridor and the loop stretches by roughly 40 minutes.",
+          "Our Garni Temple, Geghard Monastery & Lake Sevan Day Trip from Yerevan follows this exact clockwise loop with private hotel pick-up, an English-speaking guide and bottled water provided throughout the day. The itinerary builds in flexible time at each site so you can linger at the Symphony of Stones or walk the full peninsula trail to the second Sevanavank church without rushing. Entrance to Garni Temple is included, while Geghard and Sevanavank remain free to enter. The vehicle is a late-model sedan or SUV with winter tires fitted from November through March, and the driver knows alternate routes if weather or roadworks affect the pass.",
+          "For travelers who prefer to self-drive, the M4 is well signed in Armenian and Latin script, fuel stations sit at Abovyan and Sevan town, and cell coverage holds across the entire circuit. Parking at Garni and Geghard fills by 11:00 AM in July and August, so an earlier start or a late-afternoon arrival after the tour buses leave yields easier access. Restrooms at the Geghard complex are located near the main gate, while Sevanavank has facilities at the peninsula base and a small café serving lake fish and lavash. Carry a wind layer even in summer; the peninsula sits at 1,900 meters and the breeze off the water drops the felt temperature several degrees below Yerevan."
+        ],
+        "de": [
+          "Ein privates Fahrzeug legt die 65-Kilometer-Strecke vom Zentrum Jerewans zum Charents-Arch in etwa 50 Minuten auf der M4 zurück, wodurch der Aussichtspunkt ein natürlicher erster Stopp ist, bevor die Straße in Richtung Garni ansteigt. Vom Arch aus erhaschen Sie die klassische gerahmte Silhouette des Berges Ararat über der Araratebene, ein Anblick, der in der klaren Luft von April, Mai, September und Oktober am schärfsten ist. Die Weiterfahrt zum Tempel von Garni dauert weitere 15 Minuten durch die Schlucht des Azat-Flusses, wo die basaltigen Orgelpfeifen der Symphonie der Steine den Talboden säumen. Nachdem Sie den erstklassigen griechisch-römischen Tempel und die in die Klippen gehauenen Kammern des Klosters Geghard erkundet haben, setzt sich die Route nordwärts über das Gebiet des Selim-Passes zum See Sewan fort und erreicht die Halbinsel Sewanawank etwa zweieinhalb Stunden nach der Abfahrt von Jerewan.",
+          "Die Kombination von Garni, Geghard und dem See Sewan in einer einzigen Rundtour funktioniert am besten, wenn Sie Jerewan um 8:00 Uhr verlassen, sodass Sie drei Stunden am Tempel- und Klosterkomplex verbringen können, bevor sich die Mittagsmengen in Geghard verdichten. Der Rückweg von Sewanawank folgt der Ostuferstraße am Friedhof von Noratus vorbei und führt dann zurück zur M4 für eine direkte Strecke von etwa 70 Kilometern und 90 Minuten zu Ihrem Hotel. Sommerwochenenden fügen 30 bis 45 Minuten Verkehr rund um die nördlichen Strände des Sees hinzu, sodass eine Abreise unter der Woche den Tag näher an zehn Stunden von Tür zu Tür hält. Winterschnee auf dem Selim-Pass kann die Hochstraße zwischen Dezember und März sperren, in diesem Fall bleibt der Fahrer auf dem unteren Hrazdan-Korridor und die Runde verlängert sich um etwa 40 Minuten.",
+          "Unser Tagesausflug Garni-Tempel, Kloster Geghard & See Sewan ab Jerewan folgt dieser exakten Uhrzeigersinn-Runde mit privater Hotelabholung, einem englischsprachigen Guide und während des gesamten Tages bereitgestelltem Wasser in Flaschen. Der Reiseplan baut flexible Zeit an jedem Ort ein, sodass Sie an den Orgelpfeifen der Symphonie der Steine verweilen oder den gesamten Halbinselpfad zur zweiten Sewanawank-Kirche gehen können, ohne zu hetzen. Der Eintritt zum Tempel von Garni ist inklusive, während Geghard und Sewanawank kostenlos zu betreten sind. Das Fahrzeug ist eine aktuelle Limousine oder ein SUV mit Winterreifen von November bis März, und der Fahrer kennt alternative Routen, falls Wetter oder Straßenarbeiten den Pass beeinträchtigen.",
+          "Für Reisende, die selbst fahren möchten, ist die M4 auf Armenisch und in lateinischer Schrift gut beschildert, Tankstellen befinden sich in Abovyan und in der Stadt Sevan, und der Mobilfunkempfang hält auf der gesamten Strecke. Die Parkplätze in Garni und Geghard sind ab 11:00 Uhr im Juli und August voll, daher bietet ein früher Start oder eine späte Nachmittagsankunft, nachdem die Reisebusse abgefahren sind, einen leichteren Zugang. Die Toiletten im Komplex von Geghard befinden sich in der Nähe des Haupttors, während Sevanavank Einrichtungen am Fuße der Halbinsel und ein kleines Café mit Fisch aus dem See und Lavash bietet. Nehmen Sie auch im Sommer eine winddichte Jacke mit; die Halbinsel liegt auf 1.900 Metern und die Brise vom Wasser senkt das gefühlte Temperaturgefühl mehrere Grad unter dem von Jerewan."
+        ],
+        "fr": [
+          "Un véhicule privé parcourt les 65 kilomètres du centre d'Erevan à l'arche de Charents en environ 50 minutes sur l'autoroute M4, faisant de ce point de vue un premier arrêt naturel avant que la route ne grimpe vers Garni. Depuis l'arche, vous apercevez la silhouette classique encadrée du mont Ararat à travers la plaine de l'Ararat, une vue la plus nette par l'air clair d'avril, mai, septembre et octobre. La route continue vers le temple de Garni, ajoutant 15 minutes supplémentaires à travers la gorge de l'Azat, où les orgues de basalte de la Symphonie des Pierres bordent le fond de la vallée. Après avoir exploré le temple gréco-romain du premier siècle et les chambres taillées dans la falaise du monastère de Geghard, l'itinéraire se poursuit vers le nord à travers la région du col de Selim jusqu'au lac Sevan, atteignant la péninsule de Sevanavank environ deux heures et demie après avoir quitté Erevan.",
+          "Combiner Garni, Geghard et le lac Sevan dans une seule boucle fonctionne mieux lorsque vous quittez Erevan à 8 h 00, laissant trois heures au complexe du temple et du monastère avant que les foules de midi ne s'épaississent à Geghard. Le trajet de retour depuis Sevanavank suit la route de la rive est en passant par le cimetière de Noratus, puis rejoint la M4 pour un trajet direct d'environ 70 kilomètres et 90 minutes jusqu'à votre hôtel. Les week-ends d'été ajoutent 30 à 45 minutes de trafic autour des plages nord du lac, donc un départ en semaine maintient la journée proche de dix heures porte à porte. La neige hivernale sur le col de Selim peut fermer la route haute entre décembre et mars, auquel cas le chauffeur reste sur le corridor inférieur de Hrazdan et la boucle s'allonge d'environ 40 minutes.",
+          "Notre excursion d'une journée Garni Temple, Geghard Monastery & Lake Sevan depuis Erevan suit cette boucle horaire exacte avec prise en charge privée à l'hôtel, un guide anglophone et de l'eau en bouteille fournie tout au long de la journée. L'itinéraire prévoit du temps flexible sur chaque site afin que vous puissiez vous attarder à la Symphonie des Pierres ou parcourir tout le sentier de la péninsule jusqu'à la deuxième église de Sevanavank sans vous presser. L'entrée au temple de Garni est incluse, tandis que Geghard et Sevanavank restent gratuits. Le véhicule est une berline ou un SUV de dernière génération équipé de pneus hiver de novembre à mars, et le chauffeur connaît des itinéraires alternatifs si la météo ou les travaux affectent le col.",
+          "Pour les voyageurs qui préfèrent conduire eux-mêmes, la M4 est bien signalée en arménien et en alphabet latin, les stations-service se trouvent à Abovyan et à Sevan, et la couverture téléphonique est assurée sur l'ensemble du circuit. Le stationnement à Garni et à Geghard est complet dès 11h00 en juillet et août, donc un départ matinal ou une arrivée en fin d'après-midi, après le départ des bus touristiques, facilite l'accès. Les toilettes du complexe de Geghard se situent près de la porte principale, tandis que Sevanavank dispose d'installations à la base de la péninsule et d'un petit café servant du poisson du lac et du lavash. Emportez une veste coupe-vent même en été ; la péninsule se trouve à 1 900 mètres d'altitude et la brise venant de l'eau abaisse la température ressentie de plusieurs degrés par rapport à Erevan."
+        ],
+        "ja": [
+          "専用車両で中央エレバンからチャレンツァアーチまでの65キロメートルを約50分で走行し、M4ハイウェイを進みます。この展望台は、ガルニへと続く道が登り始める前の自然な最初の停車地点です。アーチからは、アララト平原を隔てたアララト山の古典的な額縁に収まったシルエットを望むことができます。この眺めは4月、5月、9月、10月の澄んだ空気の中で最も鮮明です。ガルニ神殿へのさらなるドライブは、アザト川渓谷を通ってさらに15分かかります。渓谷底には「石の交響曲」として知られる玄武岩のオルガンパイプが並んでいます。1世紀のグレコローマン神殿とゲガルド修道院の崖に彫られた部屋を探索した後、ルートはセリム峠地域を北へ進み、セヴァン湖へと続き、エレバンを出発してから約2時間半でセヴァナヴァンク半島に到着します。",
+          "ガルニ、ゲガルド、セヴァン湖を1つのループで組み合わせる場合は、エレバンを午前8時までに出発するのが最適です。これにより、神殿と修道院の複合施設で3時間を過ごし、ゲガルドの混雑が昼間にピークを迎える前に見学できます。セヴァナヴァンクからの帰路は東岸道路をノルタス墓地まで進み、その後M4に合流してホテルまで約70キロメートル、90分の直接走行となります。夏の週末は湖の北部ビーチ周辺で30分から45分の交通渋滞が発生するため、平日の出発がドアツードアで約10時間に近い1日を維持します。冬にはセリム峠に雪が積もり、12月から3月まで高地道路が閉鎖される場合があります。その場合、ドライバーは下流のフラズダン回廊を走行し、ループは約40分延長されます。",
+          "当社の「エレバン発ガルニ神殿、ゲガルド修道院、セヴァン湖日帰りツアー」は、この正確な時計回りループをたどり、プライベートホテルピックアップ、英語を話すガイド、そして一日中ボトルウォーターを提供します。この行程は各スポットに柔軟な時間を組み込んでおり、石の交響科に長く滞在したり、セヴァナヴァンク半島のトレイルを2番目の教会まで歩いたりすることも、急ぐことなく可能です。ガルニ神殿への入場は含まれており、ゲガルドとセヴァナヴァンクは無料で入場できます。車両は11月から3月まで冬用タイヤを装備した最新型のセダンまたはSUVであり、ドライバーは天候や道路工事で峠に影響が出た場合の代替ルートを熟知しています。",
+          "自家運転をご希望の方には、M4号線がアルメニア語とラテン文字で案内されており、アボヴャンとセバンの町にガソリンスタンドがあり、ルート全域で携帯電話の電波が届きます。ガルニとゲゲルドの駐車場は7月と8月の午前11時までに満車になるため、早めの出発か、ツアーバスが出発した後の午後遅くの到着がおすすめです。ゲゲルド複合施設のトイレは正門付近にあり、セヴァナヴァンクは半島の麓に施設があり、湖魚とラヴァシュを提供する小さなカフェもあります。夏でもウィンドブレーカーをご持参ください。半島は標高1,900メートルに位置し、水面からの風で体感温度がエレバンより数度低くなります。"
+        ],
+        "es": [
+          "Un vehículo privado recorre los 65 kilómetros desde el centro de Ereván hasta el arco de Charents en unos 50 minutos por la carretera M4, convirtiendo el mirador en una parada natural antes de que el camino suba hacia Garni. Desde el arco se aprecia la clásica silueta enmarcada del monte Ararat a través de la llanura de Ararat, una vista más nítida en el aire despejado de abril, mayo, septiembre y octubre. El trayecto adicional hasta el templo de Garni añade otros 15 minutos a través del desfiladero del río Azat, donde los tubos de basalto de la Sinfonía de Piedras bordean el fondo del valle. Tras explorar el templo grecorromano del primer siglo y las cámaras talladas en la roca del monasterio de Geghard, la ruta continúa hacia el norte a través del área del paso de Selim hasta el lago Sevan, llegando a la península de Sevanavank unas dos horas y media después de salir de Ereván.",
+          "Combinar Garni, Geghard y el lago Sevan en un solo circuito funciona mejor si sales de Ereván a las 8:00 AM, permitiendo tres horas en el complejo del templo y el monasterio antes de que las multitudes del mediodía se espesen en Geghard. El tramo de regreso desde Sevanavank sigue la carretera de la orilla oriental pasando por el cementerio de Noratus, luego regresa a la M4 para un trayecto directo de unos 70 kilómetros y 90 minutos hasta tu hotel. Los fines de semana de verano añaden 30 a 45 minutos de tráfico alrededor de las playas del norte del lago, por lo que una salida entre semana mantiene el día cerca de diez horas de puerta a puerta. La nieve invernal en el paso de Selim puede cerrar la carretera de altura entre diciembre y marzo, en cuyo caso el conductor se mantiene en el corredor bajo de Hrazdan y el circuito se alarga unos 40 minutos.",
+          "Nuestra excursión de un día al templo de Garni, monasterio de Geghard y lago Sevan desde Ereván sigue este mismo circuito horario con recogida privada en el hotel, un guía de habla inglesa y agua embotellada proporcionada durante todo el día. El itinerario incluye tiempo flexible en cada sitio para que puedas detenerte en la Sinfonía de Piedras o recorrer el sendero completo de la península hasta la segunda iglesia de Sevanavank sin prisas. La entrada al templo de Garni está incluida, mientras que Geghard y Sevanavank son de acceso gratuito. El vehículo es un sedán o SUV de modelo reciente con neumáticos de invierno instalados de noviembre a marzo, y el conductor conoce rutas alternativas si el clima o las obras afectan el paso.",
+          "Para quienes prefieren conducir por su cuenta, la M4 está bien señalizada en armenio y alfabeto latino, hay estaciones de servicio en Abovyan y en la ciudad de Sevan, y la cobertura de celular se mantiene en todo el circuito. El aparcamiento en Garni y Geghard se llena a las 11:00 AM en julio y agosto, así que empezar temprano o llegar al final de la tarde, después de que se vayan los autobuses de excursión, facilita el acceso. Los baños del complejo de Geghard están cerca de la entrada principal, mientras que Sevanavank tiene instalaciones en la base de la península y un pequeño café que sirve pescado del lago y lavash. Lleve una capa cortavientos incluso en verano; la península está a 1,900 metros y la brisa del agua baja la sensación térmica varios grados por debajo de Ereván."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Charents Arch frames Ararat at dawn light",
+          "Single loop links Garni, Geghard, Sevanavank",
+          "Weekday start avoids summer beach traffic"
+        ],
+        "de": [
+          "Charents-Arch umrahmt den Ararat im Morgenlicht",
+          "Einzelne Schleife verbindet Garni, Geghard und Sevanavank",
+          "Wochentags-Start vermeidet sommerlichen Strandverkehr"
+        ],
+        "fr": [
+          "L'arche de Charents encadre l'Ararat à l'aube",
+          "Boucle unique reliant Garni, Geghard et Sevanavank",
+          "Départ en semaine pour éviter le trafic estival vers les plages"
+        ],
+        "ja": [
+          "夜明けの光に輝くアララト山をチャレンツァーチャンが額縁のように切り取る",
+          "ガルニ、ゲゲルド、セヴァナヴァンクを結ぶ単一ループ",
+          "平日出発で夏のビーチ渋滞を回避"
+        ],
+        "es": [
+          "El arco de Charents enmarca el Ararat con la luz del amanecer",
+          "Un solo circuito une Garni, Geghard y Sevanavank",
+          "Salir entre semana evita el tráfico playero de verano"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time Yerevan to Charents Arch",
+            "de": "Fahrzeit von Jerewan zum Charents-Arch",
+            "fr": "Temps de trajet d'Erevan à l'arche de Charents",
+            "ja": "エレバンからチャレンツァーチャンまでのドライブ時間",
+            "es": "Tiempo de conducción de Ereván al arco de Charents"
+          },
+          "value": {
+            "en": "50 minutes",
+            "de": "50 Minuten",
+            "fr": "50 minutes",
+            "ja": "50分",
+            "es": "50 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Full loop duration door-to-door",
+            "de": "Gesamtdauer der Rundreise von Tür zu Tür",
+            "fr": "Durée totale de la boucle porte-à-porte",
+            "ja": "玄関先から玄関先までのフルループ所要時間",
+            "es": "Duración completa del circuito puerta a puerta"
+          },
+          "value": {
+            "en": "10 hours typical",
+            "de": "10 Stunden typisch",
+            "fr": "10 heures en moyenne",
+            "ja": "通常10時間",
+            "es": "10 horas aproximadamente"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $110 USD / person",
+            "de": "Ab $110 USD / Person",
+            "fr": "À partir de $110 USD / personne",
+            "ja": "$110 USD〜 / 1名",
+            "es": "Desde $110 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793439092/sunday-atlas/blog/lake-sevan-travel-guide/yerevan-to-lake-sevan-commons-2151864.jpg",
+        "width": 1920,
+        "height": 1440,
+        "alt": {
+          "en": "Snow-capped mountains rise above Lake Sevan under a clear blue sky.",
+          "de": "Schneebedeckte Berge erheben sich über dem Lake Sevan unter klarem, blauem Himmel.",
+          "fr": "Des montagnes enneigées s'élèvent au-dessus du lac Sevan sous un ciel bleu clair.",
+          "ja": "アルメニア、セヴァン湖の上にそびえる雪を頂いた山々、澄んだ青空。",
+          "es": "Montañas nevadas se elevan sobre el lago Sevan bajo un cielo azul despejado."
+        },
+        "credit": {
+          "author": "Yakovlev Sergey",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Sevan._View_from_Yerevan-Tbilisi_highway.jpg",
+          "provider": "commons",
+          "required": false
+        },
+        "caption": {
+          "en": "Yerevan to Lake Sevan",
+          "de": "Jerewan zum See Sewan",
+          "fr": "Erevan au lac Sevan",
+          "ja": "エレバンからセヴァン湖へ",
+          "es": "De Ereván al lago Sevan"
+        }
+      },
+      "embeddedPackageSlug": "garni-geghard-lake-sevan-day-trip"
+    },
+    {
+      "id": "practical-tips",
+      "placeName": {
+        "en": "Lake Sevan",
+        "de": "Lake Sevan",
+        "fr": "Lac Sevan",
+        "ja": "セヴァン湖",
+        "es": "Lago Sevan"
+      },
+      "heading": {
+        "en": "Practical Tips for a Smooth Visit",
+        "de": "Praktische Tipps für einen reibungslosen Besuch",
+        "fr": "Conseils pratiques pour une visite sans encombre",
+        "ja": "スムーズな訪問のための実用的なヒント",
+        "es": "Consejos prácticos para una visita sin contratiempos"
+      },
+      "paragraphs": {
+        "en": [
+          "Lake Sevan sits at 1,900 meters above sea level, so the air is thinner and UV radiation is stronger than in Yerevan. Drink water steadily throughout the day even if you do not feel thirsty, and carry a reusable bottle you can refill at cafés near the peninsula. A broad-brim hat, sunglasses, and SPF 30+ sunscreen are essential from late morning through mid-afternoon, especially on the open water where reflection doubles exposure.",
+          "Most public and private beaches around the lake operate on a cash-only basis for sun loungers, umbrellas, and pedal-boat rentals. Armenian dram in small denominations (1,000 and 2,000 notes) speeds up transactions and avoids awkward change shortages at seasonal kiosks. ATMs are reliable in Sevan town, five kilometers from the peninsula, but scarce right at the shoreline.",
+          "Sevanavank Monastery remains an active religious site, so shoulders and knees must be covered for both men and women. Lightweight linen shirts or a scarf packed in a day bag satisfy the dress code without adding bulk in summer heat. Photography is permitted inside the churches, but flash and tripods are discouraged during services, which occur most mornings and on Sunday liturgies.",
+          "Weather shifts quickly at this altitude; a clear 25°C morning can turn into a windy 15°C afternoon with sudden showers. Pack a compact windbreaker or fleece layer that fits in a backpack, and wear closed-toe shoes with grip for the rocky paths leading down to the water. Mobile coverage is solid on the peninsula but drops in the coves, so download offline maps before leaving Yerevan."
+        ],
+        "de": [
+          "Lake Sevan liegt auf 1.900 Metern über dem Meeresspiegel, daher ist die Luft dünner und die UV-Strahlung stärker als in Jerewan. Trinken Sie über den Tag verteilt stetig Wasser, auch wenn Sie keinen Durst verspüren, und tragen Sie eine wiederverwendbare Flasche mit, die Sie in Cafés in der Nähe der Halbinsel auffüllen können. Ein breitkrempiger Hut, eine Sonnenbrille und Sonnencreme mit LSF 30+ sind von spätem Vormittag bis zum Nachmittag unerlässlich, besonders auf dem offenen Wasser, wo die Reflexion die Belastung verdoppelt.",
+          "Die meisten öffentlichen und privaten Strände rund um den See arbeiten für Sonnenliegen, Sonnenschirme und Tretbootverleih nur mit Bargeld. Armenische Dram in kleinen Stückzahlen (1.000- und 2.000-Noten) beschleunigen Transaktionen und vermeiden unangenehme Wechselgeldmängel an saisonalen Kiosken. Geldautomaten sind in der Stadt Sevan, fünf Kilometer von der Halbinsel entfernt, zuverlässig, aber direkt am Ufer selten.",
+          "Das Kloster Sevanavank bleibt ein aktiver religiöser Ort, daher müssen Schultern und Knie für Männer und Frauen bedeckt sein. Leichte Leinenhemden oder ein Tuch in der Tagesdecke erfüllen die Kleidervorschriften, ohne im Sommerhitze aufzutragen. Fotografieren ist in den Kirchen erlaubt, aber Blitz und Stative werden während der Gottesdienste nicht empfohlen, die an den meisten Morgen und an den Sonntagsliturgien stattfinden.",
+          "Das Wetter wechselt in dieser Höhe schnell; ein klarer 25°C-Morgen kann sich in einen windigen 15°C-Nachmittag mit plötzlichen Schauern verwandeln. Packen Sie eine kompakte Windjacke oder einen Fleece-Layer, die in einen Rucksack passt, und tragen Sie geschlossene Schuhe mit Profil für die felsigen Wege hinunter zum Wasser. Die Mobilfunkabdeckung ist auf der Halbinsel solide, nimmt aber in den Buchten ab, daher laden Sie Offline-Karten herunter, bevor Sie Jerewan verlassen."
+        ],
+        "fr": [
+          "Le lac Sevan se situe à 1 900 mètres d'altitude, l'air y est donc plus raréfié et les rayons UV plus intenses qu'à Erevan. Buvez de l'eau régulièrement tout au long de la journée, même si vous n'avez pas soif, et emportez une bouteille réutilisable que vous pourrez remplir dans les cafés près de la péninsule. Un chapeau à larges bords, des lunettes de soleil et une crème solaire SPF 30+ sont indispensables de la fin de la matinée au milieu de l'après-midi, surtout sur l'eau où la réverbération double l'exposition.",
+          "La plupart des plages publiques et privées autour du lac fonctionnent uniquement en espèces pour les transats, les parasols et les locations de pédalos. Les billets de petits coupures en dram arménien (1 000 et 2 000 drams) accélèrent les transactions et évitent les problèmes de monnaie manquante aux kiosques saisonniers. Les distributeurs automatiques sont fiables à Sevan, à cinq kilomètres de la péninsule, mais rares directement au bord de l'eau.",
+          "Le monastère de Sevanavank reste un lieu de culte actif, donc les épaules et les genoux doivent être couverts pour les hommes comme pour les femmes. Des chemises légères en lin ou un foulard glissé dans un sac à dos permettent de respecter le code vestimentaire sans ajouter d'encombrement par forte chaleur. La photographie est autorisée à l'intérieur des églises, mais le flash et les trépieds sont déconseillés pendant les offices, qui ont lieu la plupart des matins et lors des liturgies dominicales.",
+          "Le temps change rapidement à cette altitude ; une matinée claire à 25 °C peut se transformer en après-midi venteux à 15 °C avec des averses soudaines. Emportez un coupe-vent compact ou une couche polaire qui tient dans un sac à dos, et portez des chaussures fermées avec adhérence pour les sentiers rocheux menant à l'eau. La couverture mobile est bonne sur la péninsule mais diminue dans les criques, alors téléchargez des cartes hors ligne avant de quitter Erevan."
+        ],
+        "ja": [
+          "セヴァン湖は海抜1,900メートルに位置するため、空気は薄く、紫外線はエレバンよりも強くなっています。喉の渇きを感じなくても、一日を通してこまめに水分を摂り、半島近くのカフェで補充できる再利用可能なボトルをご持参ください。つばの広い帽子、サングラス、SPF30以上の日焼け止めは、午前中から午後にかけて必須です。特に水面での反射により曝露量が倍増する開けた水域では注意が必要です。",
+          "湖周辺のほとんどの公共・民間ビーチでは、日光浴用チェア、パラソル、ペダルボートのレンタルが現金のみの取り扱いです。アルメニア・ドラムの小額紙幣（1,000ドラムと2,000ドラム紙幣）を用意すると、季節のキオスクでのお釣り不足を避け、スムーズに取引できます。セバンの町（半島から5キロメートル）には信頼できるATMがありますが、湖岸付近では少なくなっています。",
+          "セヴァナヴァンク修道院は現在も活動する宗教施設であるため、男女ともに肩と膝を覆う服装が必要です。軽量のリネンシャツや、日帰りバッグに入れておけるスカーフを持参すれば、夏の暑さの中でかさばることなくドレスコードを満たせます。教会内での撮影は許可されていますが、フラッシュや三脚は、ほとんどの朝と日曜日の聖礼拝に行われる礼拝中は推奨されません。",
+          "この標高では天候が急変します。晴れて25度の朝が、風の強い15度の午後と突然のにわか雨に変わることもあります。コンパクトなウィンドブレーカーまたはフリースのレイヤーをバックパックに入れ、岩場の水辺への道にはグリップのある閉じたつま先の靴を履いてください。半島では携帯電話の電波は安定していますが、入り江では途切れるため、エレバンを出発する前にオフラインマップをダウンロードしておいてください。"
+        ],
+        "es": [
+          "El lago Sevan está a 1,900 metros sobre el nivel del mar, por lo que el aire es más rarefeito y la radiación UV es más intensa que en Ereván. Beba agua con regularidad durante todo el día, incluso si no tiene sed, y lleve una botella reutilizable que pueda rellenar en los cafés cerca de la península. Un sombrero de ala ancha, gafas de sol y protector solar SPF 30+ son esenciales desde finales de la mañana hasta media tarde, especialmente en el agua abierta, donde el reflejo duplica la exposición.",
+          "La mayoría de las playas públicas y privadas alrededor del lago funcionan solo con efectivo para el alquiler de hamacas, sombrillas y botes de pedales. Llevar drams armenios en denominaciones pequeñas (billetes de 1,000 y 2,000) agiliza las transacciones y evita problemas de cambio en los quioscos estacionales. Los cajeros automáticos son fiables en la ciudad de Sevan, a cinco kilómetros de la península, pero escasean justo en la orilla.",
+          "El monasterio de Sevanavank sigue siendo un sitio religioso activo, por lo que hombres y mujeres deben cubrir hombros y rodillas. Camisas ligeras de lino o un pañuelo en la mochila de día cumplen con el código de vestimenta sin añadir volumen en el calor del verano. Se permite tomar fotografías dentro de las iglesias, pero se desaconseja el uso de flash y trípodes durante los servicios, que se celebran la mayoría de las mañanas y en las liturgias dominicales.",
+          "El clima cambia rápidamente a esta altitud; una mañana despejada de 25°C puede convertirse en una tarde ventosa de 15°C con lluvias repentinas. Lleve un cortavientos o un forro polar compacto que quepa en la mochila y use zapatos cerrados con suela antideslizante para los senderos rocosos que bajan al agua. La cobertura móvil es buena en la península, pero disminuye en las ensenadas, así que descargue mapas sin conexión antes de salir de Ereván."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Hydrate early and often at 1,900 meters altitude",
+          "Carry small dram notes for beach chairs and rentals",
+          "Cover shoulders and knees for monastery entry"
+        ],
+        "de": [
+          "Früh und oft in 1.900 Metern Höhe trinken",
+          "Kleine Dram-Noten für Strandliegen und Mieten mitführen",
+          "Schultern und Knie für den Klosterbesuch bedecken"
+        ],
+        "fr": [
+          "Hydratez-vous tôt et souvent à 1 900 mètres d'altitude",
+          "Emportez des petits billets de dram pour les chaises de plage et les locations",
+          "Couvrez épaules et genoux pour entrer au monastère"
+        ],
+        "ja": [
+          "標高1,900メートルでは早めに、そしてこまめに水分補給を",
+          "ビーチチェアやレンタル用に小額のドラム紙幣を携帯",
+          "修道院入場時は肩と膝を覆う服装を"
+        ],
+        "es": [
+          "Hidrátese temprano y seguido a 1,900 metros de altitud",
+          "Lleve billetes pequeños de dram para sillas de playa y alquileres",
+          "Cubra hombros y rodillas para entrar al monasterio"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Lake elevation",
+            "de": "Seehöhe",
+            "fr": "Altitude du lac",
+            "ja": "湖の標高",
+            "es": "Altitud del lago"
+          },
+          "value": {
+            "en": "1,900 meters",
+            "de": "1.900 Meter",
+            "fr": "1 900 mètres",
+            "ja": "1,900メートル",
+            "es": "1,900 metros"
+          }
+        },
+        {
+          "label": {
+            "en": "Cash currency",
+            "de": "Bargeld-Währung",
+            "fr": "Monnaie en espèces",
+            "ja": "現金通貨",
+            "es": "Moneda en efectivo"
+          },
+          "value": {
+            "en": "Armenian dram",
+            "de": "Armenischer Dram",
+            "fr": "dram arménien",
+            "ja": "アルメニア・ドラム",
+            "es": "dram armenio"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793439096/sunday-atlas/blog/lake-sevan-travel-guide/lake-sevan-commons-109985385.jpg",
+        "width": 1920,
+        "height": 1194,
+        "alt": {
+          "en": "Sevanavank monastery on the shore of Lake Sevan, Armenia.",
+          "de": "Sevanavank-Kloster am Ufer des Lake Sevan in Armenien.",
+          "fr": "Le monastère de Sevanavank sur la rive du lac Sevan, en Arménie.",
+          "ja": "アルメニア、セヴァン湖畔のセヴァナヴァンク修道院。",
+          "es": "El monasterio de Sevanavank en la orilla del lago Sevan, Armenia."
+        },
+        "credit": {
+          "author": "Armenak Margarian",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Araqelots_church_of_Sevanavank_2021-05-30.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Lake Sevan",
+          "de": "Lake Sevan",
+          "fr": "Lac Sevan",
+          "ja": "セヴァン湖",
+          "es": "Lago Sevan"
+        }
+      }
+    },
+    {
+      "id": "this-season",
+      "seasonKey": "2026-11",
+      "placeName": {
+        "en": "November 2026",
+        "de": "November 2026",
+        "fr": "Novembre 2026",
+        "ja": "2026年11月",
+        "es": "Noviembre de 2026"
+      },
+      "heading": {
+        "en": "Lake Sevan in November 2026: Late Autumn Conditions",
+        "de": "Lake Sevan im November 2026: Spätherbstliche Bedingungen",
+        "fr": "Lac Sevan en novembre 2026 : conditions de fin d'automne",
+        "ja": "2026年11月のセヴァン湖：晩秋のコンディション",
+        "es": "Lago Sevan en noviembre de 2026: Condiciones de finales de otoño"
+      },
+      "paragraphs": {
+        "en": [
+          "November brings late autumn to Lake Sevan with daytime highs around 8°C and nights often dropping below freezing. The lake surface stays ice-free but water temperatures hover near 5°C, making swimming impossible. Daylight shrinks to about 9.5 hours by month's end, with sunrise after 8 AM and sunset before 5:30 PM. Sevanavank Monastery on the peninsula remains accessible year-round, though the stone paths can be slippery with morning frost. Most lakeside cafes and beach facilities close by early November, leaving only a few year-round restaurants in Sevan town.",
+          "Crowds are minimal compared to summer, with mainly local visitors and occasional tour groups at midday. The mountain pass to Dilijan stays open but can see early snowfall requiring winter tires after mid-month. Tsaghkadzor's ski lifts typically begin testing operations in late November, though the season properly starts in December. Our 1-day Garni, Geghard and Lake Sevan tour runs year-round with heated vehicles, while the 5-day Cultural Discovery and 4-day Legends tours operate through November as their final autumn departures. Pack insulated layers, a windproof jacket, warm hat, gloves, and waterproof boots with good traction for icy monastery steps."
+        ],
+        "de": [
+          "Der November bringt spätherbstliches Wetter an den Lake Sevan mit Tageshöchstwerten um 8 °C und Nächten, die oft unter den Gefrierpunkt fallen. Die Wasseroberfläche bleibt eisfrei, doch die Wassertemperaturen liegen bei etwa 5 °C, sodass Baden unmöglich ist. Die Tageslichtzeit verkürzt sich bis Monatsende auf etwa 9,5 Stunden, mit Sonnenaufgang nach 8 Uhr und Sonnenuntergang vor 17:30 Uhr. Das Kloster Sevanavank auf der Halbinsel ist ganzjährig zugänglich, die Steinwege können jedoch durch Morgenfrost rutschig sein. Die meisten Seecafés und Strandanlagen schließen Anfang November, sodass nur noch wenige ganzjährig geöffnete Restaurants in der Stadt Sevan zur Verfügung stehen.",
+          "Die Besucherzahlen sind im Vergleich zum Sommer gering, hauptsächlich sind lokale Gäste und gelegentlich Reisegruppen mittags unterwegs. Der Bergpass nach Dilijan bleibt geöffnet, kann jedoch ab Mitte des Monats frühen Schneefall erleben, für den Winterreifen erforderlich sind. Die Skilifte in Tsaghkadzor nehmen in der Regel Ende November den Testbetrieb auf, die eigentliche Saison beginnt erst im Dezember. Unsere 1-tägige Tour Garni, Geghard und Lake Sevan findet ganzjährig mit beheizten Fahrzeugen statt, während die 5-tägige Tour Cultural Discovery und die 4-tägige Tour Legends ihre letzten Herbstabfahrten im November anbieten. Packen Sie isolierende Kleidung, eine winddichte Jacke, eine warme Mütze, Handschuhe und wasserdichte Stiefel mit gutem Halt für die vereisten Klosterstufen ein."
+        ],
+        "fr": [
+          "Novembre apporte la fin de l'automne au lac Sevan, avec des maximales diurnes autour de 8 °C et des nuits souvent en dessous de zéro. La surface du lac reste libre de glace, mais les températures de l'eau tournent autour de 5 °C, rendant la baignade impossible. La lumière du jour se réduit à environ 9,5 heures à la fin du mois, avec un lever du soleil après 8 h et un coucher avant 17 h 30. Le monastère de Sevanavank sur la péninsule reste accessible toute l'année, bien que les chemins de pierre puissent être glissants avec le gel matinal. La plupart des cafés et des installations de plage au bord du lac ferment début novembre, ne laissant que quelques restaurants ouverts toute l'année dans la ville de Sevan.",
+          "Les foules sont réduites par rapport à l'été, avec principalement des visiteurs locaux et des groupes de touristes occasionnels à midi. Le col de montagne menant à Dilijan reste ouvert, mais peut connaître des chutes de neige précoces nécessitant des pneus neige après la mi-mois. Les remontées mécaniques de Tsaghkadzor commencent généralement leurs essais en fin novembre, bien que la saison ne débute réellement qu'en décembre. Notre circuit d'1 jour Garni, Geghard et le lac Sevan fonctionne toute l'année avec des véhicules chauffés, tandis que les circuits de 5 jours Cultural Discovery et de 4 jours Legends opèrent jusqu'en novembre pour leurs derniers départs d'automne. Prévoyez des couches isolantes, une veste coupe-vent, un bonnet chaud, des gants et des bottes imperméables avec une bonne adhérence pour les marches glacées des monastères."
+        ],
+        "ja": [
+          "11月はセヴァン湖に晩秋をもたらし、日中の最高気温は約8℃、夜はしばしば氷点下まで下がります。湖面は凍結しませんが、水温は約5℃に留まり、水泳は不可能です。日照時間は月末までに約9.5時間に短縮され、日の出は8時以降、日没は5時30分以前となります。セヴァナヴァンク修道院は半島にあり、年間を通じてアクセス可能ですが、石畳の小道は朝の霜で滑りやすくなっています。ほとんどの湖畔のカフェやビーチ施設は11月上旬までに閉鎖され、セヴァンの町には年間を通じて営業するレストランが数軒残るのみです。",
+          "夏と比べて混雑は最小限で、主に地元の訪問者と、昼間に時折訪れるツアーグループのみです。ディリジャンへの山道は開通していますが、中旬以降は初雪のため冬用タイヤが必要になる場合があります。ツァフカジョルのスキーリフトは通常、11月下旬に試運転を開始しますが、シーズン本格始動は12月です。ガルニ、ゲゲルド、セヴァン湖を巡る1日ツアーは年間を通じて暖房付き車両で運行し、5日間のカルチャーディスカバリーと4日間のレジェンズツアーは11月を最終秋出発として運行します。断熱レイヤー、防風ジャケット、暖かい帽子、手袋、氷の修道院の階段に適したグリップ力のある防水ブーツをご準備ください。"
+        ],
+        "es": [
+          "Noviembre trae el final del otoño al lago Sevan, con máximas diurnas de unos 8 °C y noches que a menudo bajan bajo cero. La superficie del lago permanece libre de hielo, pero las temperaturas del agua rondan los 5 °C, lo que hace imposible nadar. La luz del día se reduce a unas 9,5 horas a finales de mes, con amanecer después de las 8:00 y atardecer antes de las 5:30. El monasterio de Sevanavank, en la península, sigue siendo accesible todo el año, aunque los senderos de piedra pueden estar resbaladizos por la escarcha matutina. La mayoría de los cafés y las instalaciones de playa junto al lago cierran a principios de noviembre, quedando solo unos pocos restaurantes abiertos todo el año en la ciudad de Sevan.",
+          "Las multitudes son mínimas en comparación con el verano, con visitantes principalmente locales y grupos turísticos ocasionales al mediodía. El paso de montaña hacia Dilijan permanece abierto, pero puede registrar nevadas tempranas que requieren neumáticos de invierno después de la quincena. Los telesillas de Tsaghkadzor suelen comenzar las pruebas operativas a finales de noviembre, aunque la temporada propiamente dicha comienza en diciembre. Nuestro tour de 1 día a Garni, Geghard y el lago Sevan funciona todo el año con vehículos calefaccionados, mientras que los tours de 5 días Cultural Discovery y 4 días Legends operan durante noviembre como sus últimas salidas de otoño. Lleve capas aislantes, una chaqueta cortavientos, gorro, guantes y botas impermeables con buen agarre para los escalones helados del monasterio."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Daytime highs near 8°C, nights below freezing",
+          "9.5 hours of daylight by late November",
+          "Sevanavank open year-round, beaches closed",
+          "Mountain passes open but may need winter tires"
+        ],
+        "de": [
+          "Tageshöchstwerte nahe 8 °C, Nächte unter dem Gefrierpunkt",
+          "9,5 Stunden Tageslicht Ende November",
+          "Sevanavank ganzjährig geöffnet, Strände geschlossen",
+          "Bergpässe offen, Winterreifen möglicherweise erforderlich"
+        ],
+        "fr": [
+          "Maximales diurnes près de 8 °C, nuits en dessous de zéro",
+          "9,5 heures de lumière du jour fin novembre",
+          "Sevanavank ouvert toute l'année, plages fermées",
+          "Cols de montagne ouverts mais peuvent nécessiter des pneus neige"
+        ],
+        "ja": [
+          "日中の最高気温は約8℃、夜は氷点下",
+          "11月下旬の日照時間は約9.5時間",
+          "セヴァナヴァンクは年間を通じて営業、ビーチは閉鎖",
+          "山道は開通しているが冬用タイヤが必要な場合あり"
+        ],
+        "es": [
+          "Máximas diurnas cercanas a 8 °C, noches bajo cero",
+          "9,5 horas de luz diurna a finales de noviembre",
+          "Sevanavank abierto todo el año, playas cerradas",
+          "Paso de montaña abierto, pero puede requerir neumáticos de invierno"
+        ]
+      },
+      "keyFacts": []
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Can you swim in Lake Sevan in October?",
+        "de": "Kann man im Oktober im Sewansee schwimmen?",
+        "fr": "Peut-on se baigner dans le lac Sevan en octobre ?",
+        "ja": "10月にセヴァン湖で泳げますか？",
+        "es": "¿Se puede nadar en el lago Sevan en octubre?"
+      },
+      "a": {
+        "en": "Water temperatures in October drop to around 12–14°C, so swimming is only for the hardy. Most visitors come for the peninsula views, light hiking, and the quiet autumn atmosphere rather than beach time.",
+        "de": "Die Wassertemperaturen sinken im Oktober auf etwa 12–14 °C, sodass das Schwimmen nur für Hartgesottene geeignet ist. Die meisten Besucher kommen wegen der Halbinselblicke, leichten Wanderungen und der ruhigen Herbstatmosphäre, nicht wegen des Badeurlaubs.",
+        "fr": "Les températures de l'eau chutent à environ 12–14 °C en octobre, donc la baignade n'est réservée qu'aux plus courageux. La plupart des visiteurs viennent pour les vues sur la péninsule, les randonnées légères et la paisible atmosphère automnale plutôt que pour la plage.",
+        "ja": "10月の水温は12〜14℃程度まで下がるため、泳げるのは寒さに強い方のみです。ほとんどの訪問者は、半島の眺めや軽いハイキング、静かな秋の雰囲気を楽しむために訪れ、ビーチでの時間を求めることはほとんどありません。",
+        "es": "Las temperaturas del agua en octubre bajan a unos 12–14 °C, así que nadar es solo para los más valientes. La mayoría de los visitantes vienen por las vistas de la península, el senderismo ligero y la tranquila atmósfera otoñal, más que por ir a la playa."
+      }
+    },
+    {
+      "q": {
+        "en": "How long does it take to drive from Yerevan to Sevanavank?",
+        "de": "Wie lange dauert die Fahrt von Jerewan nach Sewanawank?",
+        "fr": "Combien de temps faut-il pour conduire d'Erevan à Sevanavank ?",
+        "ja": "エレバンからセヴァナヴァンクまで車でどれくらいかかりますか？",
+        "es": "¿Cuánto se tarda en conducir de Ereván a Sevanavank?"
+      },
+      "a": {
+        "en": "The drive from central Yerevan to the Sevanavank parking area takes about 60 to 70 minutes on the M4 highway. Adding the Charents Arch viewpoint and a stop at Garni Temple extends the outbound journey to roughly two and a half hours.",
+        "de": "Die Fahrt vom Zentrum Jerewans zum Parkplatz von Sewanawank dauert auf der M4 etwa 60 bis 70 Minuten. Mit dem Charents-Arch-Aussichtspunkt und einem Stopp am Garni-Tempel verlängert sich die Hinreise auf etwa zweieinhalb Stunden.",
+        "fr": "Le trajet depuis le centre d'Erevan jusqu'au parking de Sevanavank dure environ 60 à 70 minutes sur l'autoroute M4. En ajoutant l'arche de Charents et un arrêt au temple de Garni, le trajet aller dure environ deux heures et demie.",
+        "ja": "エレバン中心部からセヴァナヴァンク駐車場までは、M4高速道路を経由して約60〜70分です。チャレンツァーチ展望台とガルニ神殿への立ち寄りを加えると、片道の所要時間は約2時間半になります。",
+        "es": "El trayecto desde el centro de Ereván hasta el aparcamiento de Sevanavank dura unos 60 a 70 minutos por la carretera M4. Añadir el mirador del Arco de Charents y una parada en el Templo de Garni alarga el viaje de ida a unas dos horas y media."
+      }
+    },
+    {
+      "q": {
+        "en": "Is there public transport to the Sevanavank peninsula?",
+        "de": "Gibt es öffentliche Verkehrsmittel zur Sewanawank-Halbinsel?",
+        "fr": "Y a-t-il des transports en commun pour se rendre à la péninsule de Sevanavank ?",
+        "ja": "セヴァナヴァンク半島への公共交通機関はありますか？",
+        "es": "¿Hay transporte público hasta la península de Sevanavank?"
+      },
+      "a": {
+        "en": "Marshrutkas run from Yerevan's Kilikia bus station to Sevan town, but they do not reach the peninsula. From Sevan town you need a taxi for the final 5 km. A private vehicle or guided tour is the only practical way to visit Sevanavank and the beaches in one day.",
+        "de": "Marshrutkas fahren vom Kilikia-Busbahnhof in Jerewan nach Sewan, erreichen aber nicht die Halbinsel. Von Sewan aus benötigen Sie ein Taxi für die letzten 5 km. Ein privates Fahrzeug oder eine geführte Tour ist die einzige praktikable Möglichkeit, Sewanawank und die Strände an einem Tag zu besuchen.",
+        "fr": "Des marshrutkas partent de la gare routière de Kilikia à Erevan pour Sevan, mais elles ne desservent pas la péninsule. Depuis Sevan, il faut prendre un taxi pour les 5 km restants. Un véhicule privé ou une visite guidée est le seul moyen pratique de visiter Sevanavank et les plages en une journée.",
+        "ja": "キリキアバスターミナルからセヴァン町行きのマシュルートカは運行していますが、半島までは行きません。セヴァン町からは最終5kmをタクシーで移動する必要があります。セヴァナヴァンクとビーチを1日で回るには、自家用車またはガイド付きツアーが唯一の現実的な方法です。",
+        "es": "Las marshrutkas salen de la estación de autobuses Kilikia de Ereván con destino a la ciudad de Sevan, pero no llegan hasta la península. Desde la ciudad de Sevan se necesita un taxi para los últimos 5 km. Un vehículo privado o un tour guiado es la única forma práctica de visitar Sevanavank y las playas en un solo día."
+      }
+    },
+    {
+      "q": {
+        "en": "What should I wear when visiting Sevanavank monastery?",
+        "de": "Was sollte ich beim Besuch des Klosters Sewanawank tragen?",
+        "fr": "Que dois-je porter pour visiter le monastère de Sevanavank ?",
+        "ja": "セヴァナヴァンク修道院を訪れる際の服装は？",
+        "es": "¿Qué debo llevar al visitar el monasterio de Sevanavank?"
+      },
+      "a": {
+        "en": "Both men and women should cover shoulders and knees. Women may need a headscarf inside the churches. Comfortable shoes are recommended for the short uphill walk from the parking lot to the churches on the peninsula.",
+        "de": "Sowohl Männer als auch Frauen sollten Schultern und Knie bedecken. Frauen benötigen möglicherweise ein Kopftuch in den Kirchen. Bequeme Schuhe werden für den kurzen Aufstieg vom Parkplatz zu den Kirchen auf der Halbinsel empfohlen.",
+        "fr": "Les hommes et les femmes doivent couvrir leurs épaules et leurs genoux. Les femmes peuvent avoir besoin d'un foulard pour se couvrir la tête à l'intérieur des églises. Des chaussures confortables sont recommandées pour la courte montée depuis le parking jusqu'aux églises sur la péninsule.",
+        "ja": "男女とも肩と膝を覆う服装が必要です。女性は教会内で頭スカーフが必要になる場合があります。駐車場から半島の教会までの短い上り坂を歩くため、歩きやすい靴をお勧めします。",
+        "es": "Tanto hombres como mujeres deben cubrir hombros y rodillas. Las mujeres pueden necesitar un pañuelo para la cabeza dentro de las iglesias. Se recomiendan zapatos cómodos para la corta caminata cuesta arriba desde el aparcamiento hasta las iglesias de la península."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Lake Sevan, Armenia: Sevanavank, Beaches & Seasons (2027)",
+      "meta_description": "Lake Sevan on a day trip from Yerevan: Sevanavank monastery, beaches and water temperature, the best seasons and how to pair it with Dilijan. Plan it here.",
+      "focus_keyword": "Lake Sevan travel guide",
+      "keywords": [
+        "Lake Sevan travel guide",
+        "Sevanavank monastery visit",
+        "Lake Sevan beaches swimming",
+        "best time to visit Lake Sevan",
+        "Lake Sevan day trip from Yerevan",
+        "Dilijan National Park from Sevan",
+        "Armenia high altitude lake tips",
+        "Sevanavank peninsula history"
+      ]
+    },
+    "de": {
+      "seo_title": "Sewansee, Armenien: Sewanawank, Strände & Saisons (2027)",
+      "meta_description": "Sewansee als Tagesausflug ab Jerewan: Kloster Sewanawank, Strände und Wassertemperatur, beste Saison und Kombination mit Dilidschan.",
+      "focus_keyword": "Lake Sevan travel guide",
+      "keywords": [
+        "Lake Sevan travel guide",
+        "Sevanavank monastery visit",
+        "Lake Sevan beaches swimming",
+        "best time to visit Lake Sevan",
+        "Lake Sevan day trip from Yerevan",
+        "Dilijan National Park from Sevan",
+        "Armenia high altitude lake tips",
+        "Sevanavank peninsula history"
+      ]
+    },
+    "fr": {
+      "seo_title": "Lac Sevan, Arménie : Sevanavank, plages et saisons (2027)",
+      "meta_description": "Le lac Sevan en excursion depuis Erevan : monastère de Sevanavank, plages et température de l'eau, saisons et combinaison avec Dilijan.",
+      "focus_keyword": "guide de voyage du lac Sevan",
+      "keywords": [
+        "guide de voyage du lac Sevan",
+        "visite du monastère de Sevanavank",
+        "plages et baignade au lac Sevan",
+        "meilleure période pour visiter le lac Sevan",
+        "excursion d'une journée au lac Sevan depuis Erevan",
+        "parc national de Dilijan depuis Sevan",
+        "conseils pour le lac de haute altitude en Arménie",
+        "histoire de la péninsule de Sevanavank"
+      ]
+    },
+    "ja": {
+      "seo_title": "セヴァン湖（アルメニア）：セヴァナヴァンク・ビーチ・季節（2027）",
+      "meta_description": "エレバンから日帰りで行くセヴァン湖。セヴァナヴァンク修道院、ビーチと水温、ベストシーズン、ディリジャンとの組み合わせ方。",
+      "focus_keyword": "セヴァン湖 旅行ガイド",
+      "keywords": [
+        "セヴァン湖 旅行ガイド",
+        "セヴァナヴァンク修道院訪問",
+        "セヴァン湖ビーチでの水泳",
+        "セヴァン湖訪問のベストシーズン",
+        "エレバンからセヴァン湖への日帰り旅行",
+        "セヴァンからディリジャン国立公園へ",
+        "アルメニアの高地湖訪問のヒント",
+        "セヴァナヴァンク半島の歴史"
+      ]
+    },
+    "es": {
+      "seo_title": "Lago Seván, Armenia: Sevanavank, playas y estaciones (2027)",
+      "meta_description": "El lago Seván en excursión desde Ereván: monasterio de Sevanavank, playas y temperatura del agua, mejores estaciones y cómo combinarlo con Dilijan.",
+      "focus_keyword": "guía de viaje del lago Sevan",
+      "keywords": [
+        "guía de viaje del lago Sevan",
+        "visita al monasterio de Sevanavank",
+        "playas del lago Sevan natación",
+        "mejor época para visitar el lago Sevan",
+        "excursión de un día al lago Sevan desde Ereván",
+        "Parque Nacional de Dilijan desde Sevan",
+        "consejos para el lago de gran altitud de Armenia",
+        "historia de la península de Sevanavank"
+      ]
+    }
+  },
+  "contentHash": "eb910e560d623eac",
+  "refreshLog": [
+    {
+      "at": "2026-11-02T22:54:53+04:00",
+      "reason": "content edited outside the pipeline"
+    },
+    {
+      "at": "2026-11-16T07:37:59+04:00",
+      "reason": "seasonal section 2026-11"
+    }
+  ]
+}

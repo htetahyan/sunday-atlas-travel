@@ -1,0 +1,1401 @@
+{
+  "slug": "poland-itinerary-14-days",
+  "published": true,
+  "featured": false,
+  "category": "destination-guide",
+  "destination": "poland",
+  "countries": [],
+  "publishedAt": "2026-11-08T20:28:58+04:00",
+  "updatedAt": "2026-11-08T20:28:58+04:00",
+  "readingTimeMinutes": 16,
+  "relatedPackages": [
+    "krakow-katowice-beskids-active-winter-9-days",
+    "learn-to-ski-poland-beskid-mountains-9-days",
+    "poland-christmas-markets-poznan-wroclaw-karpacz-9-days",
+    "krakow-jura-outdoor-7-days"
+  ],
+  "title": {
+    "en": "Poland Itinerary 14 Days: Kraków, Beskids & Poznań (2027)",
+    "de": "Polen-Reiseplan 14 Tage: Krakau, Beskiden & Posen (2027)",
+    "fr": "Itinéraire Pologne 14 jours : Cracovie, Beskides et Poznań (2027)",
+    "ja": "ポーランド14日間周遊プラン：クラクフ、ベスキディ、ポズナン（2027年）",
+    "es": "Itinerario de 14 días por Polonia: Cracovia, Beskides y Poznań (2027)"
+  },
+  "subtitle": {
+    "en": "Day-by-day route with drive times, overnight towns and matching Sunday Atlas tours",
+    "de": "Tagesweise Route mit Fahrzeiten, Übernachtungsorten und passenden Sunday Atlas Reisen",
+    "fr": "Itinéraire jour après jour avec temps de trajet, villes étapes et circuits Sunday Atlas correspondants",
+    "ja": "14日間の日程、移動時間、宿泊地、サンデー・アトラス・トラベルのツアーを組み合わせたルート",
+    "es": "Ruta día a día con tiempos de conducción, pueblos donde pernoctar y tours de Sunday Atlas Travel"
+  },
+  "summary": {
+    "en": "A 14-day plan linking southern mountains, western Christmas markets and the Polish Jura with realistic travel times and tour options.",
+    "de": "Ein 14-tägiger Plan, der südliche Berge, westliche Weihnachtsmärkte und das polnische Jura mit realistischen Reisezeiten und Touroptionen verbindet.",
+    "fr": "Un plan de 14 jours reliant les montagnes du sud, les marchés de Noël de l'ouest et le Jura polonais, avec des temps de trajet réalistes et des options de circuits.",
+    "ja": "南部の山岳地帯、西部のクリスマスマーケット、ポーランド・ジュラを結ぶ14日間のプラン。現実的な移動時間とツアーオプションを掲載しています。",
+    "es": "Un plan de 14 días que une montañas del sur, mercados navideños del oeste y el Jura polaco con tiempos de viaje realistas y opciones de tour."
+  },
+  "intro": {
+    "en": "This Poland itinerary 14 days links Kraków, the Beskid Mountains, Poznań, Wrocław, Karpacz and the Polish Jura in a single loop with overnight stops and drive times of two to four hours. The route works best from late November to March for Christmas markets and snow, or spring to autumn for hiking and cycling in the Jura. It combines three Sunday Atlas private tours that each run nine or seven days, so you can book them back-to-back or pick the sections that fit your dates.",
+    "de": "Dieser Polen-Reiseplan 14 Tage verbindet Krakau, die Beskiden, Posen, Breslau, Karpacz und das polnische Jura in einer einzigen Rundreise mit Übernachtungsstopps und Fahrzeiten von zwei bis vier Stunden. Die Route eignet sich am besten von Ende November bis März für Weihnachtsmärkte und Schnee oder Frühjahr bis Herbst für Wandern und Radfahren im Jura. Sie kombiniert drei private Sunday Atlas Reisen, die jeweils neun oder sieben Tage dauern, sodass Sie sie hintereinander buchen oder die Abschnitte auswählen können, die zu Ihren Daten passen.",
+    "fr": "Cet itinéraire en Pologne de 14 jours relie Cracovie, les monts Beskides, Poznań, Wrocław, Karpacz et le Jura polonais en une seule boucle avec étapes et temps de trajet de deux à quatre heures. Le circuit fonctionne idéalement de fin novembre à mars pour les marchés de Noël et la neige, ou du printemps à l'automne pour la randonnée et le vélo dans le Jura. Il combine trois circuits privés Sunday Atlas de neuf ou sept jours, que vous pouvez réserver consécutivement ou choisir les sections qui correspondent à vos dates.",
+    "ja": "このポーランド14日間周遊プランは、クラクフ、ベスキディ山脈、ポズナン、ヴロツワフ、カルパツ、ポーランド・ジュラを1つのループにまとめ、宿泊地と2〜4時間の移動時間を設定しています。クリスマスマーケットと雪を楽しむなら11月下旬から3月、ハイキングやサイクリングを楽しむなら春から秋がおすすめです。サンデー・アトラス・トラベルのプライベートツアー3つ（それぞれ9日間または7日間）を組み合わせたもので、連続して予約することも、日程に合わせて区間を選ぶことも可能です。",
+    "es": "Este itinerario de 14 días por Polonia une Cracovia, los montes Beskides, Poznań, Breslavia, Karpacz y el Jura polaco en un solo circuito con paradas nocturnas y tiempos de conducción de dos a cuatro horas. La ruta funciona mejor de finales de noviembre a marzo para mercados navideños y nieve, o de primavera a otoño para senderismo y ciclismo en el Jura. Combina tres tours privados de Sunday Atlas Travel que duran nueve o siete días, por lo que puedes reservarlos uno tras otro o elegir las secciones que se ajusten a tus fechas."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794155276/sunday-atlas/blog/poland-itinerary-14-days/poland-commons-177508875.jpg",
+    "width": 1920,
+    "height": 1273,
+    "alt": {
+      "en": "A calm lake reflects forested hills and a cloudy sky in Poland.",
+      "de": "Ein ruhiger See spiegelt bewaldete Hügel und einen bewölkten Himmel in Polen wider.",
+      "fr": "Un lac calme reflète les collines boisées et un ciel nuageux en Pologne.",
+      "ja": "ポーランドの穏やかな湖が、森に覆われた丘と曇り空を映し出しています。",
+      "es": "Un lago tranquilo refleja colinas boscosas y un cielo nublado en Polonia."
+    },
+    "credit": {
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tropsztyn_Castle_overlooking_Czch%C3%B3w_Lake,_Wytrzyszczka,_Lesser_Poland_Voivodeship,_20251025_0803_5046.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "days-1-3-krakow",
+      "placeName": {
+        "en": "Kraków",
+        "de": "Krakau",
+        "fr": "Cracovie",
+        "ja": "クラクフ",
+        "es": "Cracovia"
+      },
+      "heading": {
+        "en": "Days 1-3: Kraków – Wawel, Kazimierz and Main Square",
+        "de": "Tage 1-3: Krakau – Wawel, Kazimierz und Hauptmarkt",
+        "fr": "Jours 1-3 : Cracovie – Wawel, Kazimierz et la Grand-Place",
+        "ja": "1〜3日目：クラクフ – ヴァヴェル、カジミェシュ、メイン・スクエア",
+        "es": "Días 1-3: Cracovia – Wawel, Kazimierz y Plaza del Mercado"
+      },
+      "paragraphs": {
+        "en": [
+          "Spend three nights in Kraków arriving on Day 1 of the 9-day winter tour with private airport transfer to your 4-star or 5-star hotel. Day 2 covers Wawel Castle on the hill above the Vistula, St Mary's Basilica with its hourly trumpet call and the Kazimierz district where synagogues and cafés line Szeroka Street. Day 3 is kept free for a half-day trip to Wieliczka Salt Mine about 14 km southeast or the Auschwitz-Birkenau Memorial roughly 65 km west, both reachable in under 90 minutes by private car. The Christmas market on the Main Square runs from late November through December with wooden stalls selling grilled oscypek and mulled wine. Temperatures in January often sit below freezing so pack warm layers and sturdy boots for cobblestones.",
+          "Wawel Castle complex opens daily from 9:30 am with the State Rooms and Crown Treasury among the first tickets to sell out in peak winter weeks. St Mary's Basilica interior visits pause during Mass so plan for mid-morning or late afternoon slots to see the Veit Stoss altarpiece. Kazimierz walking routes connect the Old Synagogue, Remuh Cemetery and the former ghetto wall on Lwowska Street within a 2 km loop. The Main Square underground museum (Rynek Underground) shows medieval foundations 4 metres below the pavement and requires a timed entry booked at least one day ahead. Private transfers between sites are included in the tour so you avoid navigating Kraków's limited parking zones.",
+          "For the free day Wieliczka Salt Mine descends 135 metres underground through 3 km of chambers and chapels carved from rock salt; the tourist route takes about 2.5 hours with a guide. Auschwitz-Birkenau lies 65 km from Kraków and the standard guided visit lasts 3.5 hours covering both Auschwitz I and Birkenau sites; advance booking is mandatory and the tour operator arranges entry times. If you stay in Kraków the thermal baths at Park Wodny or Termy Krakowskie offer indoor pools at 32-36°C, a practical option when daytime highs stay below 0°C. Late November to December brings the shortest daylight with sunset around 3:30 pm so start excursions early.",
+          "The 9-day Active Winter tour uses Day 1 for arrival, Day 2 for the guided Kraków highlights and Day 3 at your own pace before moving to Katowice on Day 4. Your hotel stays in the Old Town or Kazimierz put Wawel, the Main Square and Kazimierz within a 15-minute walk. A local SIM card with data is provided on arrival so you can check opening hours and book last-minute Wieliczka or Auschwitz slots. The online concierge assists with restaurant reservations for pierogi or zapiekanka in Kazimierz before you travel. Departure on Day 9 includes a private transfer back to Kraków Balice airport about 30 minutes from the city centre."
+        ],
+        "de": [
+          "Verbringen Sie drei Nächte in Krakau mit Ankunft am Tag 1 der 9-tägigen Winterreise inklusive privatem Flughafentransfer zu Ihrem 4-Sterne- oder 5-Sterne-Hotel. Tag 2 umfasst die Wawel-Burg auf dem Hügel oberhalb der Weichsel, die Marienkirche mit ihrem stündlichen Trompetenruf und das Kazimierz-Viertel, in dem Synagogen und Cafés die Szeroka-Straße säumen. Tag 3 bleibt frei für einen halbtägigen Ausflug zur Salzgrube Wieliczka etwa 14 km südöstlich oder zum Auschwitz-Birkenau-Mahnmal rund 65 km westlich, beide in unter 90 Minuten mit dem Privatwagen erreichbar. Der Weihnachtsmarkt auf dem Hauptmarkt läuft von Ende November bis Dezember mit Holzbuden, die gegrillten Oscypek und Glühwein verkaufen. Die Temperaturen im Januar liegen oft unter dem Gefrierpunkt, also packen Sie warme Schichten und feste Schuhe für Kopfsteinpflaster ein.",
+          "Der Wawel-Burgkomplex öffnet täglich um 9:30 Uhr, wobei die Staatsgemächer und die Schatzkammer zu den ersten Tickets gehören, die in den Hauptwochen des Winters ausverkauft sind. Besichtigungen im Inneren der Marienkirche ruhen während der Messe, also planen Sie Vormittags- oder Nachmittagszeitfenster ein, um den Veit-Stoß-Altar zu sehen. Kazimierz-Wanderwege verbinden die Alte Synagoge, den Remuh-Friedhof und die ehemalige Ghetto-Mauer an der Lwowska-Straße innerhalb einer 2-km-Schleife. Das Untergrundmuseum des Hauptmarkts (Rynek Underground) zeigt mittelalterliche Fundamente 4 Meter unter dem Pflaster und erfordert eine zeitgebundene Eintrittskarte, die mindestens einen Tag im Voraus gebucht werden muss. Private Transfers zwischen den Orten sind in der Reise enthalten, sodass Sie sich nicht mit den begrenzten Parkzonen Krakaus auseinandersetzen müssen.",
+          "Für den freien Tag steigt die Salzgrube Wieliczka 135 Meter unter die Erde hinab durch 3 km Kammern und Kapellen, die aus Gesteinssalz gehauen wurden; die Touristenroute dauert etwa 2,5 Stunden mit einem Guide. Auschwitz-Birkenau liegt 65 km von Krakau entfernt, und der standardmäßige geführte Besuch dauert 3,5 Stunden und umfasst sowohl die Stätten Auschwitz I als auch Birkenau; eine Vorabreservierung ist obligatorisch, und die Reise organisiert die Eintrittszeiten. Wenn Sie in Krakau übernachten, bieten die Thermalbäder von Park Wodny oder Termy Krakowskie Innenpools bei 32-36 °C, eine praktische Option, wenn die Tageshöchstwerte unter 0 °C bleiben. Ende November bis Dezember bringt die kürzeste Tageslichtdauer mit Sonnenuntergang gegen 15:30 Uhr, also beginnen Sie Ausflüge früh.",
+          "Die 9-tägige Active Winter Reise nutzt Tag 1 für die Anreise, Tag 2 für die geführten Krakau-Highlights und Tag 3 in Ihrem eigenen Tempo, bevor Sie am Tag 4 nach Katowice weiterreisen. Ihre Hotelaufenthalte in der Altstadt oder in Kazimierz bringen Wawel, den Hauptmarkt und Kazimierz in einen 15-minütigen Fußweg. Eine lokale SIM-Karte mit Daten wird bei der Ankunft bereitgestellt, damit Sie Öffnungszeiten prüfen und Last-Minute-Slots für Wieliczka oder Auschwitz buchen können. Der Online-Konzierge unterstützt bei Restaurantreservierungen für Pierogi oder Zapiekanka in Kazimierz, bevor Sie reisen. Die Abreise am Tag 9 umfasst einen privaten Transfer zurück zum Flughafen Krakau Balice, etwa 30 Minuten vom Stadtzentrum entfernt."
+        ],
+        "fr": [
+          "Passez trois nuits à Cracovie en arrivant le Jour 1 du circuit hivernal de 9 jours avec transfert privé depuis l'aéroport jusqu'à votre hôtel 4* ou 5*. Le Jour 2 couvre le château de Wawel sur la colline au-dessus de la Vistule, la basilique Sainte-Marie avec son appel de trompette horaire et le quartier Kazimierz où synagogues et cafés bordent la rue Szeroka. Le Jour 3 est laissé libre pour une excursion d'une demi-journée à la mine de sel de Wieliczka, à environ 14 km au sud-est, ou au Mémorial d'Auschwitz-Birkenau, à environ 65 km à l'ouest, tous deux accessibles en moins de 90 minutes en voiture privée. Le marché de Noël sur la Grand-Place se tient de fin novembre à décembre avec des chalets en bois vendant de l'oscypek grillé et du vin chaud. Les températures en janvier sont souvent inférieures à zéro, alors emportez des vêtements chauds et des chaussures solides pour les pavés.",
+          "Le complexe du château de Wawel ouvre tous les jours à 9h30, les appartements d'État et le Trésor royal étant parmi les premiers billets à s'épuiser pendant les semaines d'hiver. Les visites intérieures de la basilique Sainte-Marie s'interrompent pendant la messe, alors prévoyez un créneau en milieu de matinée ou en fin d'après-midi pour voir le retable de Veit Stoss. Les itinéraires de marche à Kazimierz relient la Vieille Synagogue, le cimetière de Remuh et l'ancien mur du ghetto sur la rue Lwowska dans une boucle de 2 km. Le musée souterrain de la Grand-Place (Rynek Underground) présente les fondations médiévales à 4 mètres sous le pavé et nécessite une entrée avec créneau horaire réservée au moins un jour à l'avance. Les transferts privés entre les sites sont inclus dans le circuit, vous évitant ainsi de naviguer dans les zones de stationnement limitées de Cracovie.",
+          "Pour la journée libre, la mine de sel de Wieliczka descend à 135 mètres sous terre à travers 3 km de chambres et chapelles taillées dans le sel gemme ; la route touristique dure environ 2,5 heures avec un guide. Auschwitz-Birkenau se trouve à 65 km de Cracovie et la visite guidée standard dure 3,5 heures couvrant les sites d'Auschwitz I et de Birkenau ; la réservation à l'avance est obligatoire et le circuit organise les créneaux d'entrée. Si vous séjournez à Cracovie, les thermes de Park Wodny ou Termy Krakowskie proposent des piscines intérieures à 32-36°C, une option pratique lorsque les maximales diurnes restent sous 0°C. De fin novembre à décembre apporte les jours les plus courts avec le coucher du soleil vers 15h30, alors commencez les excursions tôt.",
+          "Le circuit Active Winter de 9 jours utilise le Jour 1 pour l'arrivée, le Jour 2 pour les points forts guidés de Cracovie et le Jour 3 à votre rythme avant de se rendre à Katowice le Jour 4. Votre hôtel dans la Vieille Ville ou à Kazimierz place Wawel, la Grand-Place et Kazimierz à moins de 15 minutes à pied. Une carte SIM locale avec données est fournie à l'arrivée pour que vous puissiez consulter les horaires d'ouverture et réserver des créneaux de dernière minute pour Wieliczka ou Auschwitz. Le concierge en ligne vous aide pour les réservations de restaurants pour des pierogi ou des zapiekanka à Kazimierz avant votre voyage. Le départ le Jour 9 inclut un transfert privé vers l'aéroport de Cracovie-Balice, à environ 30 minutes du centre-ville."
+        ],
+        "ja": [
+          "1日目に到着し、クラクフに3泊します。冬の9日間ツアーに含まれるプライベート空港送迎で、4つ星または5つ星のホテルへ向かいます。2日目は、ヴィスワ川を見下ろす丘の上にあるヴァヴェル城、毎時トランペットの演奏が聞こえる聖マリア大聖堂、シナゴーグとカフェが並ぶシェロカ通りのカジミェシュ地区を巡ります。3日目は自由日として、南東約14kmのヴィエリチカ塩坑、または西約65kmのアウシュヴィッツ＝ビルケナウ強制収容所博物館への半日旅行をお楽しみいただけます。どちらもプライベートカーで90分以内で到着します。メイン・スクエアのクリスマスマーケットは11月下旬から12月まで開催され、木造の屋台でグリルしたオシペクチーズやホットワインが販売されています。1月の気温は氷点下になることが多いため、暖かい重ね着と、石畳に適した丈夫なブーツをご用意ください。",
+          "ヴァヴェル城の複合施設は毎日午前9時30分に開館し、国賓の間や王冠宝庫のチケットは冬の繁忙期に最初に売り切れます。聖マリア大聖堂の内部見学はミサの時間中は中断されるため、フォイト・ストスの祭壇をご覧になりたい場合は午前中または午後遅くの時間帯をご計画ください。カジミェシュの散策ルートは、旧シナゴーグ、レムー墓地、ルウォフスカ通りの元ゲットーの壁を結ぶ約2kmのループです。メイン・スクエア地下博物館（リネク地下博物館）は舗道から4メートル下の中世の基礎部分を展示しており、少なくとも1日前までに時間指定の予約が必要です。ツアーにプライベート送迎が含まれているため、クラクフの限定駐車区間を気にする必要はありません。",
+          "自由日には、ヴィエリチカ塩坑で地下135メートル、岩塩で彫られた3kmの部屋と礼拝堂を探索します。ガイド付きの観光ルートは約2.5時間です。アウシュヴィッツ＝ビルケナウはクラクフから65km離れており、標準的なガイド付き見学はアウシュヴィッツIとビルケナウの両サイトを巡る3.5時間です。事前予約が必須であり、ツアーの手配で入場時間を調整します。クラクフに滞在する場合は、パークウォドニーまたはテルミー・クラコフスキエの温浴施設で32〜36℃の屋内プールを利用でき、日中の最高気温が0℃を下回る日に便利です。11月下旬から12月は日照時間が最も短く、日没は午後3時30分頃となるため、遠足は早めに出発することをおすすめします。",
+          "9日間のアクティブ・ウィンター・ツアーでは、1日目に到着、2日目にクラクフのハイライトをガイド付きで巡り、3日目はご自身のペースで過ごした後、4日目にカトヴィツェへ移動します。ホテルは旧市街またはカジミェシュ地区にあり、ヴァヴェル、メイン・スクエア、カジミェシュまで徒歩15分圏内です。到着時にデータ通信付きのローカルSIMカードを提供し、営業時間の確認やヴィエリチカ、アウシュヴィッツの直前予約が可能です。オンラインコンシェルジュが、カジミェシュでのピエロギやザピエカンカのレストラン予約をお手伝いします。9日目の出発日には、市内中心部から約30分のクラクフ・バリツェ空港へのプライベート送迎が含まれています。"
+        ],
+        "es": [
+          "Pasa tres noches en Cracovia llegando el Día 1 del tour de invierno de 9 días con traslado privado al aeropuerto hasta tu hotel de 4* o 5*. El Día 2 cubre el Castillo de Wawel en la colina sobre el Vístula, la Basílica de Santa María con su llamada de trompeta cada hora y el distrito de Kazimierz, donde sinagogas y cafeterías bordean la calle Szeroka. El Día 3 se mantiene libre para una excursión de medio día a la Mina de Sal de Wieliczka, a unos 14 km al sureste, o al Memorial de Auschwitz-Birkenau, a unos 65 km al oeste, ambos alcanzables en menos de 90 minutos en coche privado. El mercado navideño en la Plaza del Mercado funciona de finales de noviembre a diciembre con puestos de madera que venden oscypek a la parrilla y vino caliente. Las temperaturas en enero suelen estar bajo cero, así que lleva ropa de abrigo en capas y botas resistentes para los adoquines.",
+          "El complejo del Castillo de Wawel abre todos los días a las 9:30 am, y las Salas de Estado y el Tesoro de la Corona están entre las primeras entradas en agotarse en las semanas de invierno más concurridas. Las visitas al interior de la Basílica de Santa María se interrumpen durante la misa, así que planifica franjas de media mañana o última hora de la tarde para ver el retablo de Veit Stoss. Las rutas a pie por Kazimierz conectan la Sinagoga Vieja, el Cementerio de Remuh y el antiguo muro del gueto en la calle Lwowska en un circuito de 2 km. El museo subterráneo de la Plaza del Mercado (Rynek Underground) muestra cimientos medievales a 4 metros bajo el pavimento y requiere una entrada con hora reservada al menos un día antes. Los traslados privados entre sitios están incluidos en el tour, así que evitas navegar por las zonas de aparcamiento limitado de Cracovia.",
+          "Para el día libre, la Mina de Sal de Wieliczka desciende 135 metros bajo tierra a través de 3 km de cámaras y capillas talladas en sal de roca; la ruta turística dura unas 2.5 horas con guía. Auschwitz-Birkenau está a 65 km de Cracovia y la visita guiada estándar dura 3.5 horas cubriendo ambos sitios, Auschwitz I y Birkenau; la reserva con antelación es obligatoria y el operador del tour organiza los horarios de entrada. Si te quedas en Cracovia, los baños termales de Park Wodny o Termy Krakowskie ofrecen piscinas interiores a 32-36°C, una opción práctica cuando las máximas diurnas se mantienen bajo 0°C. De finales de noviembre a diciembre hay las horas de luz más cortas, con la puesta de sol alrededor de las 3:30 pm, así que empieza las excursiones temprano.",
+          "El tour Active Winter de 9 días usa el Día 1 para la llegada, el Día 2 para los puntos destacados de Cracovia con guía y el Día 3 a tu propio ritmo antes de mudarse a Katowice el Día 4. Tu hotel se queda en la Ciudad Vieja o Kazimierz, dejando Wawel, la Plaza del Mercado y Kazimierz a 15 minutos a pie. Se proporciona una tarjeta SIM local con datos a la llegada para que puedas consultar horarios de apertura y reservar entradas de última hora para Wieliczka o Auschwitz. El conserje en línea ayuda con reservas de restaurantes para pierogi o zapiekanka en Kazimierz antes de viajar. La salida el Día 9 incluye un traslado privado de regreso al aeropuerto de Cracovia Balice, a unos 30 minutos del centro de la ciudad."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Wawel Castle hilltop above Vistula River",
+          "St Mary's hourly trumpet call from tower",
+          "Kazimierz synagogues and Szeroka Street cafés"
+        ],
+        "de": [
+          "Wawel-Burg auf dem Hügel über der Weichsel",
+          "Stundenglockenläuten der Marienkirche vom Turm",
+          "Synagogen in Kazimierz und Cafés an der Szeroka-Straße"
+        ],
+        "fr": [
+          "Château de Wawel surplombant la Vistule",
+          "Appel de trompette toutes les heures depuis la tour de l'église Sainte-Marie",
+          "Synagogues de Kazimierz et cafés de la rue Szeroka"
+        ],
+        "ja": [
+          "ヴィスワ川を見下ろすヴァヴェル城の丘",
+          "塔から響く聖マリア教会の毎時トランペット演奏",
+          "カジミェシュ地区のシナゴーグとシェロカ通りのカフェ"
+        ],
+        "es": [
+          "Castillo de Wawel en la colina sobre el río Vístula",
+          "Llamada de trompeta cada hora desde la torre de Santa María",
+          "Sinagogas de Kazimierz y cafeterías de la calle Szeroka"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour days covered",
+            "de": "Reisetage",
+            "fr": "Jours de visite couverts",
+            "ja": "ツアーで訪れる日数",
+            "es": "Días del tour cubiertos"
+          },
+          "value": {
+            "en": "Days 1-3 of 9-day tour",
+            "de": "Tage 1–3 der 9-tägigen Reise",
+            "fr": "Jours 1 à 3 du circuit de 9 jours",
+            "ja": "9日間ツアーの1日目〜3日目",
+            "es": "Días 1-3 del tour de 9 días"
+          }
+        },
+        {
+          "label": {
+            "en": "Christmas market season",
+            "de": "Weihnachtsmarkt-Saison",
+            "fr": "Saison du marché de Noël",
+            "ja": "クリスマスマーケットシーズン",
+            "es": "Temporada de mercados navideños"
+          },
+          "value": {
+            "en": "Late November through December",
+            "de": "Spätes November bis Dezember",
+            "fr": "Fin novembre à décembre",
+            "ja": "11月下旬から12月まで",
+            "es": "Finales de noviembre hasta diciembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "9 Days / 8 Nights",
+            "de": "9 Tage / 8 Nächte",
+            "fr": "9 jours / 8 nuits",
+            "ja": "9日間 / 8泊",
+            "es": "9 días / 8 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794155294/sunday-atlas/blog/poland-itinerary-14-days/krakow-commons-180714165.jpg",
+        "width": 1920,
+        "height": 1439,
+        "alt": {
+          "en": "A narrow street in Kraków, Poland, lined with historic buildings.",
+          "de": "Eine schmale Straße in Krakau, Polen, gesäumt von historischen Gebäuden.",
+          "fr": "Une rue étroite à Cracovie, en Pologne, bordée de bâtiments historiques.",
+          "ja": "ポーランド、クラクフの狭い通り。歴史的な建物が立ち並んでいます。",
+          "es": "Una calle estrecha en Cracovia, Polonia, bordeada de edificios históricos."
+        },
+        "credit": {
+          "author": "Igor123121",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Czapskich_street,_view_to_N,_bird%27s_eye_view_2025,_Krak%C3%B3w,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Kraków",
+          "de": "Krakau",
+          "fr": "Cracovie",
+          "ja": "クラクフ",
+          "es": "Cracovia"
+        }
+      },
+      "embeddedPackageSlug": "krakow-katowice-beskids-active-winter-9-days"
+    },
+    {
+      "id": "day-4-krakow-to-katowice",
+      "placeName": {
+        "en": "Katowice",
+        "de": "Katowice",
+        "fr": "Katowice",
+        "ja": "カトヴィツェ",
+        "es": "Katowice"
+      },
+      "heading": {
+        "en": "Day 4: Kraków to Katowice – Nikiszowiec Miners' Estate",
+        "de": "Tag 4: Krakau nach Katowice – Bergarbeiter-Siedlung Nikiszowiec",
+        "fr": "Jour 4 : Cracovie à Katowice – Domaine minier de Nikiszowiec",
+        "ja": "4日目：クラクフからカトヴィツェへ – ニキシウォイツェ鉱夫居住区",
+        "es": "Día 4: De Cracovia a Katowice – Barrio minero de Nikiszowiec"
+      },
+      "paragraphs": {
+        "en": [
+          "The drive from Kraków to Katowice covers about 80 km and takes roughly 1.5 hours on the A4 motorway, making it a short transfer on Day 4 of the 14-day itinerary. Departure after breakfast puts you in Katowice by mid-morning with time to settle before the afternoon walk. The route stays on the main highway through the Silesian uplands, so traffic is usually light outside peak commuter hours. Winter conditions from late November to March can add 20 minutes if snow is falling, so allow a small buffer. The transfer is private and door-to-door, with luggage handled by the driver.",
+          "Nikiszowiec is a preserved miners' settlement built between 1908 and 1919 for the Giesche coal mine workforce, laid out in nine rectangular blocks around internal courtyards. The red-brick familoki housing blocks, communal bakeries and the Church of St Anne remain largely unchanged since the early 20th century. A guided walk of about two hours covers the main square, the former laundry building and the workers' club, with explanations of daily life in the industrial era. The district is pedestrian-friendly and flat, so comfortable walking shoes are sufficient. Late afternoon light works well for photography of the brick façades and arched passageways.",
+          "Overnight in Katowice places you in a modern city centre with a range of 4-star and 5-star hotels within walking distance of the Spodek arena and the Silesian Museum. Evening options include the revitalised Katowice Culture Zone, where the former coal mine site now hosts concert halls and rooftop bars. Dinner can be arranged in the Nikiszowiec area itself at a restaurant serving Silesian specialities such as rolada and kluski. The stay is a single night before the morning transfer to the Beskid Mountains on Day 5. Check-in after 3 pm and check-out by 11 am are standard.",
+          "The Active Winter in Poland tour follows the same Day 4 routing, combining the Nikiszowiec visit with three nights in Kraków and three nights at a Beskid ski resort. That 9-day private trip runs from late November, when Kraków's Christmas market opens, through March while snow covers the Beskid slopes. The Katowice overnight is identical, with a private transfer from Kraków and a guided walk through the miners' estate. The longer 14-day itinerary continues west to Poznań and Wrocław after the Beskids, while the 9-day version returns to Kraków for departure."
+        ],
+        "de": [
+          "Die Fahrt von Krakau nach Katowice beträgt etwa 80 km und dauert auf der A4-Autobahn rund 1,5 Stunden, was sie zu einem kurzen Transfer am Tag 4 der 14-tägigen Reise macht. Die Abreise nach dem Frühstück bringt Sie am Vormittag in Katowice, sodass Sie Zeit haben, sich vor dem Nachmittagsspaziergang einzurichten. Die Strecke bleibt auf der Hauptstraße durch das Schlesische Hochland, sodass der Verkehr außerhalb der Hauptverkehrszeiten meist leicht ist. Winterbedingungen von Ende November bis März können 20 Minuten hinzufügen, wenn Schnee fällt, also planen Sie einen kleinen Puffer ein. Der Transfer ist privat und von Tür zu Tür, mit Gepäckhandhabung durch den Fahrer.",
+          "Nikiszowiec ist eine erhaltene Bergarbeitersiedlung, die zwischen 1908 und 1919 für die Belegschaft der Giesche-Kohle mine errichtet wurde, angelegt in neun rechteckigen Blöcken um Innenhöfe. Die roten Backstein-Familoki-Wohnblocks, gemeinschaftliche Bäckereien und die St.-Annen-Kirche sind weitgehend unverändert seit dem frühen 20. Jahrhundert. Ein geführter Spaziergang von etwa zwei Stunden deckt den Hauptplatz, das ehemalige Waschhaus und den Arbeiterclub ab, mit Erklärungen zum Alltag im Industriezeitalter. Der Stadtteil ist fußgängerfreundlich und flach, sodass bequeme Wanderschuhe ausreichen. Das späte Nachmittagslicht eignet sich gut für Fotografien der Backsteinfassaden und gewölbten Durchgänge.",
+          "Eine Übernachtung in Katowice bringt Sie in ein modernes Stadtzentrum mit einer Auswahl an 4-Sterne- und 5-Sterne-Hotels in Gehweite zur Spodek-Arena und zum Schlesischen Museum. Abendoptionen umfassen die revitalisierte Katowice-Kulturzone, wo das ehemalige Kohlebergwerksgelände nun Konzerthäuser und Rooftop-Bars beherbergt. Das Abendessen kann im Nikiszowiec-Gebiet selbst in einem Restaurant mit schlesischen Spezialitäten wie Rolada und Kluski arrangiert werden. Der Aufenthalt ist eine einzige Nacht vor dem Morgen-Transfer in die Beskiden am Tag 5. Check-in nach 15 Uhr und Check-out bis 11 Uhr sind Standard.",
+          "Die Tour Aktiv Winter in Polen folgt derselben Route am Tag 4, kombiniert den Nikiszowiec-Besuch mit drei Nächten in Krakau und drei Nächten in einem Skigebiet in den Beskiden. Diese 9-tägige private Reise läuft von Ende November, wenn der Weihnachtsmarkt in Krakau öffnet, bis März, während Schnee die Hänge der Beskiden bedeckt. Die Übernachtung in Katowice ist identisch, mit einem privaten Transfer von Krakau und einem geführten Spaziergang durch die Bergarbeitersiedlung. Die längere 14-tägige Route setzt sich nach den Beskiden nach Westen nach Poznań und Wrocław fort, während die 9-tägige Version nach Krakau zur Abreise zurückkehrt."
+        ],
+        "fr": [
+          "Le trajet de Cracovie à Katowice couvre environ 80 km et dure environ 1,5 heure sur l'autoroute A4, ce qui en fait un court transfert le jour 4 de l'itinéraire de 14 jours. Un départ après le petit-déjeuner vous amène à Katowice vers la mi-journée, avec le temps de vous installer avant la promenade de l'après-midi. L'itinéraire reste sur l'autoroute principale à travers les hauts plateaux silésiens, donc le trafic est généralement léger en dehors des heures de pointe. Les conditions hivernales de fin novembre à mars peuvent ajouter 20 minutes en cas de neige, prévoyez donc une petite marge. Le transfert est privé et porte-à-porte, les bagages étant pris en charge par le chauffeur.",
+          "Nikiszowiec est une cité minière préservée construite entre 1908 et 1919 pour la main-d'œuvre de la mine de charbon Giesche, organisée en neuf îlots rectangulaires autour de cours intérieures. Les blocs d'habitation en brique rouge familoki, les boulangeries communautaires et l'église Sainte-Anne sont restés largement inchangés depuis le début du XXe siècle. Une visite guidée d'environ deux heures couvre la place principale, l'ancienne buanderie et le club des travailleurs, avec des explications sur la vie quotidienne à l'époque industrielle. Le quartier est piétonnier et plat, des chaussures de marche confortables suffisent. La lumière de fin d'après-midi est idéale pour photographier les façades en brique et les passages voûtés.",
+          "Une nuit à Katowice vous place dans un centre-ville moderne avec une gamme d'hôtels 4* et 5* à distance de marche de l'arène Spodek et du musée de Silésie. Les options du soir incluent la zone culturelle revitalisée de Katowice, où l'ancien site minier accueille désormais des salles de concert et des bars sur les toits. Le dîner peut être organisé dans le quartier de Nikiszowiec lui-même, dans un restaurant servant des spécialités silésiennes telles que le rolada et les kluski. Le séjour est d'une seule nuit avant le transfert matinal vers les montagnes des Beskides le jour 5. L'enregistrement se fait après 15 h et le départ avant 11 h sont standards.",
+          "Le circuit Hiver actif en Pologne suit le même itinéraire du jour 4, combinant la visite de Nikiszowiec avec trois nuits à Cracovie et trois nuits dans une station de ski des Beskides. Ce voyage privé de 9 jours s'étend de fin novembre, lorsque le marché de Noël de Cracovie ouvre, jusqu'en mars, tandis que la neige recouvre les pistes des Beskides. La nuit à Katowice est identique, avec un transfert privé depuis Cracovie et une visite guidée du domaine minier. L'itinéraire plus long de 14 jours continue vers l'ouest à Poznań et Wrocław après les Beskides, tandis que la version de 9 jours retourne à Cracovie pour le départ."
+        ],
+        "ja": [
+          "クラクフからカトヴィツェまでのドライブは約80km、A4高速道路を経由して約1.5時間かかり、14日間の行程における4日目の短い移動となります。朝食後に出発すれば午前中にカトヴィツェに到着し、午後の散歩前に落ち着く時間があります。ルートはシレシア高地を通る幹線道路を走るため、通勤ラッシュ以外は通常交通量が少なくなっています。11月下旬から3月までの冬季は、雪が降ると20分ほど時間がかかる場合があるため、わずかな余裕を持っておくことをお勧めします。移動はプライベートのドアツードアで、ドライバーが荷物を扱います。",
+          "ニキシウォイツェは、1908年から1919年にかけてギシェ炭鉱の労働者のために建設された保存状態の良い鉱夫居住区で、中庭を囲む9つの長方形の区画に区画されています。赤レンガのファミロキ集合住宅、共同パン屋、聖アンナ教会は20世紀初頭からほとんど変わっていません。約2時間のガイド付きウォークでは、メイン広場、かつての洗濯場、労働者クラブを巡り、産業時代の日常生活について説明します。地区は歩行者に優しく平坦なので、歩きやすい靴があれば十分です。午後遅くの光は、レンガのファサードやアーチ状の通路の撮影に適しています。",
+          "カトヴィツェでの一泊は、スポデクアリーナやシレシア博物館まで徒歩圏内の4つ星・5つ星ホテルが揃うモダンな市中心部に位置します。夜の選択肢としては、かつての炭鉱跡地がコンサートホールやルーフトップバーを擁する再生されたカトヴィツェ文化ゾーンがあります。夕食はニキシウォイツェ地区のレストランで手配でき、ロラーダやクルスキなどのシレシア料理を提供しています。この滞在は、5日目にベスキド山地へ移動する前の一泊です。チェックインは午後3時以降、チェックアウトは午前11時までが標準です。",
+          "ポーランドのアクティブウィンターツアーも同じ4日目のルートをたどり、ニキシウォイツェ訪問とクラクフでの3泊、ベスキドスキー場での3泊を組み合わせています。この9日間のプライベートツアーは、クラクフのクリスマスマーケットがオープンする11月下旬から、ベスキドの斜面に雪が積もる3月まで運行されます。カトヴィツェでの一泊は同じで、クラクフからのプライベート移動と鉱夫居住区のガイド付きウォークが含まれます。より長い14日間の行程はベスキドの後、ポズナンとヴロツワフへ西へ続き、9日間のバージョンはクラクフに戻って出発となります。"
+        ],
+        "es": [
+          "El trayecto de Cracovia a Katowice recorre unos 80 km y dura aproximadamente 1,5 horas por la autopista A4, lo que lo convierte en un traslado corto del Día 4 del itinerario de 14 días. La salida después del desayuno te lleva a Katowice a media mañana, con tiempo para instalarte antes del recorrido por la tarde. La ruta se mantiene en la carretera principal a través de las tierras altas de Silesia, por lo que el tráfico suele ser ligero fuera de las horas punta. Las condiciones invernales de finales de noviembre a marzo pueden añadir 20 minutos si nieva, así que permite un pequeño margen. El traslado es privado y puerta a puerta, con el equipaje gestionado por el conductor.",
+          "Nikiszowiec es un asentamiento minero preservado construido entre 1908 y 1919 para la fuerza laboral de la mina de carbón Giesche, dispuesto en nueve bloques rectangulares alrededor de patios interiores. Los bloques de viviendas de ladrillo rojo familoki, las panaderías comunitarias y la Iglesia de Santa Ana permanecen prácticamente sin cambios desde principios del siglo XX. Un recorrido guiado de unas dos horas cubre la plaza principal, el antiguo edificio de lavandería y el club de trabajadores, con explicaciones sobre la vida cotidiana en la era industrial. El distrito es peatonal y llano, por lo que son suficientes zapatos cómodos para caminar. La luz del final de la tarde funciona bien para fotografiar las fachadas de ladrillo y los pasajes arqueados.",
+          "Pasar la noche en Katowice te sitúa en un centro urbano moderno con una variedad de hoteles de 4 y 5 estrellas a poca distancia a pie de la arena Spodek y el Museo de Silesia. Las opciones nocturnas incluyen la Zona Cultural de Katowice revitalizada, donde el antiguo sitio minero ahora alberga salas de conciertos y bares en la azotea. La cena se puede organizar en el propio área de Nikiszowiec en un restaurante que sirve especialidades silesias como rolada y kluski. La estancia es de una sola noche antes del traslado matutino a los montes Beskid el Día 5. El check-in después de las 3 pm y el check-out antes de las 11 am son estándar.",
+          "El tour Active Winter in Poland sigue el mismo recorrido del Día 4, combinando la visita a Nikiszowiec con tres noches en Cracovia y tres noches en un complejo de esquí en los Beskids. Ese viaje privado de 9 días se realiza desde finales de noviembre, cuando abre el mercado navideño de Cracovia, hasta marzo mientras la nieve cubre las pistas de los Beskids. La noche en Katowice es idéntica, con un traslado privado desde Cracovia y un recorrido guiado por el barrio minero. El itinerario más largo de 14 días continúa hacia el oeste a Poznań y Wrocław después de los Beskids, mientras que la versión de 9 días regresa a Cracovia para la salida."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "80 km drive, 1.5 hours on A4 motorway",
+          "Nikiszowiec miners' estate, 1908-1919 red-brick familoki blocks",
+          "Single night in Katowice before Beskid Mountains transfer"
+        ],
+        "de": [
+          "80 km Fahrt, 1,5 Stunden auf der A4-Autobahn",
+          "Bergarbeiter-Siedlung Nikiszowiec, rote Backstein-Familoki-Blöcke 1908–1919",
+          "Einzelne Nacht in Katowice vor dem Transfer in die Beskiden"
+        ],
+        "fr": [
+          "Trajet de 80 km, 1,5 heure sur l'autoroute A4",
+          "Domaine minier de Nikiszowiec, blocs familoki en brique rouge de 1908-1919",
+          "Nuit unique à Katowice avant le transfert vers les montagnes des Beskides"
+        ],
+        "ja": [
+          "80kmのドライブ、A4高速道路で約1.5時間",
+          "ニキシウォイツェ鉱夫居住区、1908-1919年の赤レンガファミロキ棟",
+          "ベスキド山地への移動前のカトヴィツェでの一泊"
+        ],
+        "es": [
+          "Trayecto de 80 km, 1,5 horas en la autopista A4",
+          "Barrio minero de Nikiszowiec, bloques familoki de ladrillo rojo de 1908-1919",
+          "Una sola noche en Katowice antes del traslado a los montes Beskid"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive",
+            "de": "Fahrt",
+            "fr": "Trajet",
+            "ja": "ドライブ",
+            "es": "Trayecto"
+          },
+          "value": {
+            "en": "80 km, about 1.5 hours",
+            "de": "80 km, etwa 1,5 Stunden",
+            "fr": "80 km, environ 1,5 heure",
+            "ja": "80km、約1.5時間",
+            "es": "80 km, aproximadamente 1,5 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Tour day",
+            "de": "Reisetag",
+            "fr": "Jour de circuit",
+            "ja": "ツアー日",
+            "es": "Día del tour"
+          },
+          "value": {
+            "en": "Day 4 of 14-day itinerary",
+            "de": "Tag 4 der 14-tägigen Route",
+            "fr": "Jour 4 de l'itinéraire de 14 jours",
+            "ja": "14日間行程の4日目",
+            "es": "Día 4 del itinerario de 14 días"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "9 Days / 8 Nights",
+            "de": "9 Tage / 8 Nächte",
+            "fr": "9 jours / 8 nuits",
+            "ja": "9日間 / 8泊",
+            "es": "9 días / 8 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794155301/sunday-atlas/blog/poland-itinerary-14-days/katowice-commons-151535427.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Giant outdoor chessboard in Katowice, Poland, with colorful tourist trains nearby.",
+          "de": "Riesiges Outdoor-Schachbrett in Kattowitz, Polen, mit bunten Touristenzügen in der Nähe.",
+          "fr": "Échiquier géant en plein air à Katowice, en Pologne, avec des trains touristiques colorés à proximité.",
+          "ja": "ポーランド、カトヴィツェの巨大な屋外チェスボード。近くにはカラフルな観光列車があります。",
+          "es": "Tablero de ajedrez gigante al aire libre en Katowice, Polonia, con trenes turísticos coloridos cerca."
+        },
+        "credit": {
+          "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:At_Katowice_2024_027.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Katowice",
+          "de": "Katowice",
+          "fr": "Katowice",
+          "ja": "カトヴィツェ",
+          "es": "Katowice"
+        }
+      },
+      "embeddedPackageSlug": "krakow-katowice-beskids-active-winter-9-days"
+    },
+    {
+      "id": "days-5-7-beskid-mountains",
+      "placeName": {
+        "en": "Beskid Mountains",
+        "de": "Beskiden",
+        "fr": "Monts des Beskides",
+        "ja": "ベスキド山地",
+        "es": "Montañas Beskid"
+      },
+      "heading": {
+        "en": "Days 5-7: Beskid Mountains – Szczyrk, Wisła or Ustroń",
+        "de": "Tage 5–7: Beskiden – Szczyrk, Wisła oder Ustroń",
+        "fr": "Jours 5-7 : Monts des Beskides – Szczyrk, Wisła ou Ustroń",
+        "ja": "5日目〜7日目：ベスキド山地 – シチルク、ヴィスワ、ウストロニ",
+        "es": "Días 5-7: Montañas Beskid – Szczyrk, Wisła o Ustroń"
+      },
+      "paragraphs": {
+        "en": [
+          "The drive from Katowice to the Beskid resort covers about 70 km and takes roughly 1.5 hours on the S1 and DK1, arriving in Szczyrk, Wisła or Ustroń for a three-night stay. The route climbs gradually from the Silesian lowlands into the Beskid Śląski foothills, passing through Bielsko-Biała before the final ascent to the chosen resort village. Road conditions are generally good in winter, though snow tires or chains are advisable from December through February when overnight temperatures often drop below freezing. Our private transfer departs Katowice after breakfast on Day 5 of the 9-day Active Winter tour, reaching the hotel by mid-morning so guests can settle in before lunch. The three resorts sit at valley elevations between 350 m and 500 m, with lift access rising to roughly 1,200 m on the main ski areas.",
+          "Day 6 is set aside for a beginner ski lesson on the resort’s gentle slopes followed by snow tubing in the afternoon, both included in the 9-day Active Winter tour schedule. The lesson runs for about two hours in the morning with a certified instructor on wide, groomed nursery runs served by a magic carpet or slow chairlift. Equipment rental — skis, boots, poles and helmet — is arranged in advance and fitted at the hotel or base lodge before the session starts. After a midday break, the snow tubing park opens on a dedicated lane with a conveyor lift, allowing multiple runs without hiking back up. Evening temperatures in the valley typically hover around -5 °C to -10 °C in January, keeping the artificial snow base firm and fast.",
+          "Day 7 shifts to a spa day in Ustroń or Wisła, where thermal pools and saunas operate year-round and are especially appealing from December through March when snow covers the surrounding ridges. Ustroń’s main wellness complex draws mineral water from depths of 1,000 m at temperatures near 30 °C, feeding indoor and outdoor pools, steam rooms and a range of massage treatments. Wisła offers a comparable facility with saline pools, a graduation tower for inhalation therapy and panoramic saunas overlooking the Vistula valley. Guests can book a half-day or full-day pass through our concierge, with towels, robes and locker access included. The spa visit is timed for the afternoon so morning hours remain free for a short walk along the river promenade or a visit to the Adam Małysz ski jump museum in Wisła.",
+          "The Beskids sit lower than the Tatras, with summit elevations around 1,200 m, so lift-served skiing typically runs from late November to March depending on snowfall and resort snowmaking capacity. Szczyrk’s main area on Skrzyczne reaches 1,257 m and operates up to 25 km of pistes when fully open, while Wisła and Ustroń each offer 10 km to 15 km of marked runs served by modern chairlifts and gondolas. Snowmaking covers 80 percent to 90 percent of the main slopes, allowing the season to start as early as late November in cold years and extend into March when natural snow holds at higher elevations. Day 8 of the tour returns the same 70 km route to Katowice for the onward connection to Kraków, a drive of about 1.5 hours in normal traffic. The transfer departs after a relaxed breakfast, arriving in Kraków by early afternoon for the final night of the 9-day itinerary."
+        ],
+        "de": [
+          "Die Fahrt von Katowice in das Beskiden-Resort beträgt etwa 70 km und dauert auf der S1 und DK1 rund 1,5 Stunden, mit Ankunft in Szczyrk, Wisła oder Ustroń für einen dreitägigen Aufenthalt. Die Strecke steigt allmählich vom schlesischen Tiefland in die Vorberge des Beskid Śląski auf, führt durch Bielsko-Biała und endet mit dem letzten Anstieg zum gewählten Ferienort. Die Straßenverhältnisse sind im Winter im Allgemeinen gut, obwohl Winterreifen oder Schneeketten von Dezember bis Februar ratsam sind, wenn die Nachttemperaturen oft unter den Gefrierpunkt fallen. Unser privater Transfer verlässt Katowice nach dem Frühstück am Tag 5 der 9-tägigen Active Winter Tour und erreicht das Hotel am Vormittag, sodass die Gäste vor dem Mittagessen einchecken können. Die drei Ferienorte liegen in Tallagen zwischen 350 m und 500 m, wobei der Liftzugang in den Hauptskigebieten auf etwa 1.200 m hinaufführt.",
+          "Tag 6 ist für einen Anfänger-Skikurs auf den sanften Hängen des Resorts reserviert, gefolgt von Rodeln am Nachmittag – beides ist im Programm der 9-tägigen Active Winter Tour enthalten. Der Kurs dauert etwa zwei Stunden am Vormittag mit einem zertifizierten Instructor auf breiten, präparierten Übungspisten, die über einen Förderbandlift oder einen langsamen Sessellift erschlossen werden. Die Ausrüstungsmiete – Skier, Schuhe, Stöcke und Helm – wird im Voraus organisiert und im Hotel oder in der Basis-Lodge angepasst, bevor die Sitzung beginnt. Nach einer Mittagspause öffnet der Rodelpark auf einer eigenen Bahn mit einem Förderbandlift, sodass mehrere Abfahrten möglich sind, ohne wieder hinaufsteigen zu müssen. Die Abendtemperaturen im Tal liegen im Januar typischerweise zwischen -5 °C und -10 °C, wodurch die künstliche Schneebasis fest und schnell bleibt.",
+          "Tag 7 steht im Zeichen eines Spa-Tages in Ustroń oder Wisła, wo Thermalbäder und Saunen ganzjährig geöffnet sind und besonders von Dezember bis März reizvoll sind, wenn Schnee die umliegenden Kämme bedeckt. Das Haupt-Wellnesszentrum in Ustroń fördert Mineralwasser aus einer Tiefe von 1.000 m bei Temperaturen nahe 30 °C und speist damit Innen- und Außenbecken, Dampfbäder und eine Reihe von Massageanwendungen. Wisła bietet eine vergleichbare Einrichtung mit Solebecken, einem Gradierwerk zur Inhalationstherapie und Panoramasaunen mit Blick auf das Weichsel-Tal. Gäste können einen Halbtags- oder Tagespass über unseren Concierge buchen, wobei Handtücher, Bademäntel und Spindzugang enthalten sind. Der Spa-Besuch ist für den Nachmittag geplant, sodass der Vormittag für einen kurzen Spaziergang entlang der Flusspromenade oder einen Besuch des Adam-Małysz-Skisprungmuseums in Wisła frei bleibt.",
+          "Die Beskiden liegen niedriger als die Tatra, mit Gipfelhöhen von etwa 1.200 m, sodass der Lift-Skibetrieb in der Regel von Ende November bis März je nach Schneefall und Beschneiungskapazität der Resorts läuft. Szczyrks Hauptgebiet auf dem Skrzyczne erreicht 1.257 m und betreibt bei voller Öffnung bis zu 25 km Pisten, während Wisła und Ustroń jeweils 10 km bis 15 km markierte Abfahrten bieten, die von modernen Sesselliften und Gondeln erschlossen werden. Die Beschneiung deckt 80 bis 90 Prozent der Hauptabfahrten ab, sodass die Saison in kalten Jahren bereits Ende November beginnen und bis März verlängert werden kann, wenn natürlicher Schnee in höheren Lagen hält. Am Tag 8 der Tour kehrt man auf derselben 70 km langen Strecke nach Katowice zurück für die Weiterverbindung nach Krakau, eine Fahrt von etwa 1,5 Stunden bei normalem Verkehr. Der Transfer startet nach einem entspannten Frühstück und erreicht Krakau am frühen Nachmittag für die letzte Nacht der 9-tägigen Reiseroute."
+        ],
+        "fr": [
+          "Le trajet de Katowice à la station des Beskides couvre environ 70 km et dure environ 1,5 heure sur la S1 et la DK1, avec arrivée à Szczyrk, Wisła ou Ustroń pour un séjour de trois nuits. La route monte progressivement des basses terres silésiennes vers les contreforts des Beskides silésiens, en passant par Bielsko-Biała avant la dernière ascension jusqu'au village de villégiature choisi. Les conditions de circulation sont généralement bonnes en hiver, bien que des pneus neige ou des chaînes soient conseillés de décembre à février, lorsque les températures nocturnes descendent souvent en dessous de zéro. Notre transfert privé quitte Katowice après le petit-déjeuner le jour 5 du circuit Actif Hiver de 9 jours, atteignant l'hôtel vers la mi-matinée afin que les voyageurs puissent s'installer avant le déjeuner. Les trois stations se situent à des altitudes de vallée comprises entre 350 m et 500 m, avec un accès aux remontées mécaniques s'élevant jusqu'à environ 1 200 m sur les principaux domaines skiables.",
+          "Le jour 6 est réservé à une leçon de ski débutant sur les pentes douces de la station, suivie d'une séance de luge sur neige l'après-midi, les deux activités étant incluses dans le programme du circuit Actif Hiver de 9 jours. La leçon dure environ deux heures le matin avec un moniteur certifié sur de larges pistes d'apprentissage damées, desservies par un tapis roulant ou un télésiège lent. La location de matériel — skis, chaussures, bâtons et casque — est organisée à l'avance et ajustée à l'hôtel ou au refuge de base avant le début de la séance. Après une pause de midi, le parc de luge sur neige ouvre sur une piste dédiée avec un tapis roulant, permettant plusieurs descentes sans avoir à remonter à pied. Les températures nocturnes dans la vallée se situent généralement autour de -5 °C à -10 °C en janvier, maintenant la base de neige artificielle ferme et rapide.",
+          "Le jour 7 est consacré à une journée spa à Ustroń ou Wisła, où les piscines thermales et les saunas fonctionnent toute l'année et sont particulièrement appréciés de décembre à mars, lorsque la neige recouvre les crêtes environnantes. Le principal complexe de bien-être d'Ustroń puise une eau minérale à 1 000 m de profondeur, à une température proche de 30 °C, alimentant des piscines intérieures et extérieures, des hammams et une gamme de soins de massage. Wisła propose un établissement comparable avec des piscines salines, une tour de graduation pour l'inhalothérapie et des saunas panoramiques surplombant la vallée de la Vistule. Les voyageurs peuvent réserver un forfait demi-journée ou journée complète via notre conciergerie, avec serviettes, peignoirs et accès aux casiers inclus. La visite du spa est prévue l'après-midi, laissant la matinée libre pour une courte promenade le long de la promenade fluviale ou une visite du musée du tremplin de ski Adam Małysz à Wisła.",
+          "Les Beskides sont plus basses que les Tatras, avec des sommets culminant autour de 1 200 m, de sorte que le ski sur pistes desservies par des remontées mécaniques se pratique généralement de fin novembre à mars, selon les chutes de neige et la capacité d'enneigement artificiel des stations. Le domaine principal de Szczyrk sur le Skrzyczne atteint 1 257 m et exploite jusqu'à 25 km de pistes lorsqu'il est entièrement ouvert, tandis que Wisła et Ustroń proposent chacune 10 km à 15 km de pistes balisées desservies par des télésièges modernes et des télécabines. L'enneigement artificiel couvre 80 % à 90 % des principales pistes, permettant à la saison de commencer dès fin novembre les années froides et de se prolonger jusqu'en mars lorsque la neige naturelle persiste à plus haute altitude. Le jour 8 du circuit emprunte le même trajet de 70 km pour retourner à Katowice en vue de la correspondance vers Cracovie, un trajet d'environ 1,5 heure dans des conditions de circulation normales. Le transfert part après un petit-déjeuner détendu, arrivant à Cracovie en début d'après-midi pour la dernière nuit de l'itinéraire de 9 jours."
+        ],
+        "ja": [
+          "カトヴィツェからベスキドのリゾート地までは約70 km、S1およびDK1を経由して約1.5時間で到着し、シチルク、ヴィスワ、またはウストロニで3連泊します。ルートはシレジア低地からベスキド・シロンスキの丘陵地帯へと徐々に登り、ビェルスコ＝ビャワを経由して選んだリゾート村への最終登坂に至ります。道路状況は概ね良好ですが、12月から2月までは夜間の気温が氷点下になることが多いため、スタッドレスタイヤまたはチェーンの準備をお勧めします。当社のプライベート送迎は、9日間アクティブウィンターツアーの5日目にカトヴィツェを朝食後に出発し、午前中にホテルに到着するので、ゲストは昼食前に落ち着くことができます。3つのリゾートは標高350 m〜500 mの谷間に位置し、主要スキー場のリフトアクセスは約1,200 mまで上がります。",
+          "6日目は、リゾートの緩やかな斜面での初心者向けスキーレッスンと、午後のスノーチュービングに充てられており、どちらも9日間アクティブウィンターツアーのスケジュールに含まれています。レッスンは午前中に約2時間、認定インストラクターが幅広く整地された練習用ゲレンデで指導し、マジックカーペットまたはスローチェアリフトが利用できます。スキー、ブーツ、ストック、ヘルメットのレンタル機材は事前に手配され、セッション開始前にホテルまたはベースロッジでフィッティングされます。正午の休憩後、スノーチュービングパークが専用レーンでオープンし、コンベアリフトにより登り返しなしで複数回滑走できます。谷間の夕方の気温は1月に通常-5 °C〜-10 °C程度で、人工雪のベースを固く滑りやすく保ちます。",
+          "7日目はウストロニまたはヴィスワでのスパデーです。温水プールとサウナは年間を通じて営業しており、12月から3月までの雪に覆われた尾根が広がる時期に特に魅力的です。ウストロニの主要ウェルネス施設は深さ1,000 m、水温約30 °Cの鉱水を汲み上げ、屋内・屋外プール、スチームルーム、さまざまなマッサージトリートメントを供給しています。ヴィスワは同等の施設を提供し、塩水プール、吸入療法用のグラデュエーションタワー、ヴィスワ川谷を見渡すパノラマサウナがあります。ゲストは当社コンシェルジュを通じて半日または1日券を予約でき、タオル、バスローブ、ロッカー利用が含まれます。スパ訪問は午後に予定されており、午前中は川沿いの遊歩道を散歩したり、ヴィスワのアダム・マウシュスキージャンプ博物館を訪れたりする自由時間があります。",
+          "ベスキドはタトラ山脈より低く、山頂標高は約1,200 mなので、リフト利用のスキーシーズンは通常11月下旬から3月まで、降雪量とリゾートの人工造雪能力に依存します。シチルクのメインエリアであるスクジチネは標高1,257 mに達し、フルオープン時には最大25 kmのコースを運営し、ヴィスワとウストロニはそれぞれ10 km〜15 kmの標識付きコースを現代的なチェアリフトとゴンドラで提供しています。人工造雪は主要斜面の80%〜90%をカバーし、寒い年には11月下旬からシーズンを開始し、高地で自然雪が持続する場合は3月まで延長できます。ツアーの8日目は同じ70 kmルートでカトヴィツェに戻り、クラクフへの乗り継ぎとなります。通常の交通状況で約1.5時間のドライブです。送迎はゆったりとした朝食後に出発し、早午後にクラクフに到着し、9日間の行程の最終夜を迎えます。"
+        ],
+        "es": [
+          "El trayecto desde Katowice hasta el complejo turístico de los Beskid recorre unos 70 km y dura aproximadamente 1,5 horas por la S1 y la DK1, llegando a Szczyrk, Wisła o Ustroń para una estancia de tres noches. La ruta asciende gradualmente desde las tierras bajas de Silesia hasta las estribaciones del Beskid Śląski, pasando por Bielsko-Biała antes del ascenso final al pueblo turístico elegido. Las condiciones de la carretera son generalmente buenas en invierno, aunque se recomiendan neumáticos de nieve o cadenas de diciembre a febrero, cuando las temperaturas nocturnas suelen bajar de cero. Nuestro traslado privado sale de Katowice después del desayuno en el Día 5 del tour Active Winter de 9 días, llegando al hotel a media mañana para que los huéspedes se instalen antes del almuerzo. Los tres complejos se encuentran a elevaciones de valle entre 350 m y 500 m, con acceso a remontes que suben hasta unos 1.200 m en las principales áreas de esquí.",
+          "El Día 6 está reservado para una clase de esquí para principiantes en las suaves pistas del complejo, seguida de tubing en la nieve por la tarde, ambas incluidas en el itinerario del tour Active Winter de 9 días. La clase dura unas dos horas por la mañana con un instructor certificado en amplias pistas de iniciación preparadas, servidas por una alfombra mágica o un telesilla lento. El alquiler de equipo —esquíes, botas, bastones y casco— se organiza con antelación y se ajusta en el hotel o el refugio base antes de que comience la sesión. Después de un descanso al mediodía, el parque de tubing abre en un carril dedicado con una cinta transportadora, lo que permite múltiples bajadas sin tener que subir caminando. Las temperaturas nocturnas en el valle suelen rondar los -5 °C a -10 °C en enero, manteniendo la base de nieve artificial firme y rápida.",
+          "El Día 7 se dedica a un día de spa en Ustroń o Wisła, donde las piscinas termales y saunas funcionan todo el año y son especialmente atractivas de diciembre a marzo, cuando la nieve cubre las crestas circundantes. El principal complejo de bienestar de Ustroń extrae agua mineral desde profundidades de 1.000 m a temperaturas cercanas a los 30 °C, alimentando piscinas interiores y exteriores, baños de vapor y una variedad de tratamientos de masaje. Wisła ofrece una instalación comparable con piscinas salinas, una torre de graduación para terapia por inhalación y saunas panorámicas con vistas al valle del Vístula. Los huéspedes pueden reservar un pase de medio día o día completo a través de nuestro conserje, con toallas, batas y acceso a taquillas incluidos. La visita al spa está programada para la tarde, dejando las mañanas libres para un corto paseo por el paseo fluvial o una visita al museo del salto de esquí Adam Małysz en Wisła.",
+          "Los Beskid son más bajos que los Tatras, con elevaciones de cumbre alrededor de 1.200 m, por lo que el esquí con remontes suele funcionar de finales de noviembre a marzo, según las nevadas y la capacidad de producción de nieve de los complejos. El área principal de Szczyrk en Skrzyczne alcanza los 1.257 m y opera hasta 25 km de pistas cuando está completamente abierta, mientras que Wisła y Ustroń ofrecen cada una entre 10 km y 15 km de pistas señalizadas servidas por modernos telesillas y góndolas. La producción de nieve cubre entre el 80 % y el 90 % de las pistas principales, lo que permite que la temporada comience tan temprano como finales de noviembre en años fríos y se extienda hasta marzo cuando la nieve natural se mantiene a mayores elevaciones. El Día 8 del tour regresa por la misma ruta de 70 km a Katowice para la conexión posterior a Kraków, un trayecto de unas 1,5 horas en tráfico normal. El traslado sale después de un desayuno relajado, llegando a Kraków a primera hora de la tarde para la última noche del itinerario de 9 días."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "70 km drive, 1.5 hours from Katowice",
+          "Beginner ski lesson and snow tubing on Day 6",
+          "Spa day in Ustroń or Wisła on Day 7"
+        ],
+        "de": [
+          "70 km Fahrt, 1,5 Stunden von Katowice",
+          "Anfänger-Skikurs und Rodeln am Tag 6",
+          "Spa-Tag in Ustroń oder Wisła am Tag 7"
+        ],
+        "fr": [
+          "Trajet de 70 km, 1,5 heure depuis Katowice",
+          "Leçon de ski débutant et luge sur neige le jour 6",
+          "Journée spa à Ustroń ou Wisła le jour 7"
+        ],
+        "ja": [
+          "カトヴィツェから70 km、1.5時間のドライブ",
+          "6日目の初心者向けスキーレッスンとスノーチュービング",
+          "7日目のウストロニまたはヴィスワでのスパデー"
+        ],
+        "es": [
+          "Trayecto de 70 km, 1,5 horas desde Katowice",
+          "Clase de esquí para principiantes y tubing en la nieve el Día 6",
+          "Día de spa en Ustroń o Wisła el Día 7"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Transfer distance",
+            "de": "Transferstrecke",
+            "fr": "Distance du transfert",
+            "ja": "送迎距離",
+            "es": "Distancia del traslado"
+          },
+          "value": {
+            "en": "about 70 km",
+            "de": "etwa 70 km",
+            "fr": "environ 70 km",
+            "ja": "約70 km",
+            "es": "unos 70 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Ski season",
+            "de": "Skisaison",
+            "fr": "Saison de ski",
+            "ja": "スキーシーズン",
+            "es": "Temporada de esquí"
+          },
+          "value": {
+            "en": "late November to March",
+            "de": "Ende November bis März",
+            "fr": "fin novembre à mars",
+            "ja": "11月下旬から3月",
+            "es": "finales de noviembre a marzo"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "9 Days / 8 Nights",
+            "de": "9 Tage / 8 Nächte",
+            "fr": "9 jours / 8 nuits",
+            "ja": "9日間 / 8泊",
+            "es": "9 días / 8 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794155305/sunday-atlas/blog/poland-itinerary-14-days/beskid-mountains-commons-152995257.jpg",
+        "width": 1920,
+        "height": 1282,
+        "alt": {
+          "en": "A gravel path winds through forested hills under a clear sky in the Beskid Mountains, Poland.",
+          "de": "Ein Kiesweg windet sich durch bewaldete Hügel unter klarem Himmel im Beskidengebirge, Polen.",
+          "fr": "Un chemin de gravier serpente à travers les collines boisées sous un ciel dégagé dans les monts Beskides, en Pologne.",
+          "ja": "ポーランド、ベスキド山地の澄み渡る空の下、森に覆われた丘を曲がりくねって進む砂利道。",
+          "es": "Un camino de grava serpentea entre colinas boscosas bajo un cielo despejado en los montes Beskides, Polonia."
+        },
+        "credit": {
+          "author": "Jakub Hałun",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Przehyba,_Beskid_S%C4%85decki,_20240921_1401_5950.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Beskid Mountains",
+          "de": "Beskiden",
+          "fr": "Monts des Beskides",
+          "ja": "ベスキド山地",
+          "es": "Montañas Beskid"
+        }
+      },
+      "embeddedPackageSlug": "krakow-katowice-beskids-active-winter-9-days"
+    },
+    {
+      "id": "day-8-beskids-to-poznan",
+      "placeName": {
+        "en": "Poznań",
+        "de": "Poznań",
+        "fr": "Poznań",
+        "ja": "ポズナン",
+        "es": "Poznań"
+      },
+      "heading": {
+        "en": "Day 8: Beskid Mountains to Poznań – Long Transfer West",
+        "de": "Tag 8: Beskiden nach Poznań – Weiterer Transfer nach Westen",
+        "fr": "Jour 8 : Monts des Beskides à Poznań – Long transfert vers l'ouest",
+        "ja": "8日目：ベスキド山地からポズナンへ – 西への長距離移動",
+        "es": "Día 8: Montañas Beskid a Poznań – Largo traslado hacia el oeste"
+      },
+      "paragraphs": {
+        "en": [
+          "The drive from the Beskid Mountains to Poznań covers about 460 km and takes roughly 5 hours on the A1 and A2 motorways. You leave the forested ridges of the Silesian Beskids in the morning and cross the Upper Silesian industrial belt before entering the rolling farmland of Greater Poland. The route stays on toll expressways for most of the distance, so allow time for ticket stops or an electronic vignette. Arrival in Poznań is usually mid-afternoon, leaving the rest of the day free. This is the first of three nights based in the city centre.",
+          "Poznań Old Market Square (Stary Rynek) sits a short walk from most central hotels and comes alive in the early evening with outdoor tables and illuminated Renaissance facades. The Town Hall’s mechanical goats appear at noon, but the square is quieter after the daytime crowds leave. Late November to December brings the Christmas market wooden huts, mulled wine stands and a large decorated tree in front of the Town Hall. In other months the square hosts open-air concerts and weekend antique fairs. Evening temperatures in winter often drop below freezing, so a warm coat is essential.",
+          "The transfer day is scheduled as Day 8 of the 14-day itinerary, linking the mountain segment in the south with the western Poland segment. No guided activities are planned on arrival; the time is kept open for a relaxed dinner or an early night before the full Poznań programme starts on Day 9. Luggage moves directly from the Beskids hotel to the Poznań hotel in the same vehicle. Road conditions are generally good year-round, though heavy snow in the Beskids can add 30 to 60 minutes to the first hour of the drive. A rest stop with fuel, coffee and toilets is standard near Częstochowa.",
+          "The Sunday Atlas 9-day Christmas Markets tour follows a similar westbound transfer from Karpacz to Poznań on its Day 8, covering a shorter distance of about 300 km in 3.5 hours. Both itineraries use private vehicles with a driver, so departure time can shift earlier or later to suit the group. Poznań hotels on these tours are 4- or 5-star properties within 500 metres of the Old Market Square. Breakfast is included from the morning after arrival. The city’s main railway station, Poznań Główny, is a 15-minute walk or a short taxi ride from the square for any onward connections."
+        ],
+        "de": [
+          "Die Fahrt von den Beskiden nach Poznań beträgt etwa 460 km und dauert auf den Autobahnen A1 und A2 rund 5 Stunden. Sie verlassen die bewaldeten Kämme des Schlesischen Beskiden am Morgen, durchqueren das oberschlesische Industriegebiet und gelangen in das wellige Ackerland Großpolens. Die Strecke verläuft größtenteils auf mautpflichtigen Schnellstraßen, daher sollten Sie Zeit für Mautstellen oder eine elektronische Vignette einplanen. Die Ankunft in Poznań erfolgt meist am Nachmittag, sodass der Rest des Tages frei bleibt. Dies ist die erste von drei Nächten im Stadtzentrum.",
+          "Der Alte Markt (Stary Rynek) von Poznań liegt nur einen kurzen Spaziergang von den meisten zentralen Hotels entfernt und erwacht am frühen Abend mit Außentischen und beleuchteten Renaissance-Fassaden zum Leben. Die mechanischen Ziegen des Rathauses erscheinen um zwölf Uhr mittags, doch der Platz ist ruhiger, nachdem die Tagesgäste gegangen sind. Von Ende November bis Dezember verwandeln Weihnachtsmarkt-Hütten aus Holz, Glühweinstände und ein großer geschmückter Baum vor dem Rathaus den Platz. In den anderen Monaten finden hier Open-Air-Konzerte und Wochenend-Antikmärkte statt. Die Abendtemperaturen im Winter fallen oft unter den Gefrierpunkt, daher ist ein warmer Mantel unerlässlich.",
+          "Der Transfertag ist als Tag 8 der 14-tägigen Reiseroute geplant und verbindet den südlichen Bergabschnitt mit dem Segment in Westpolen. Bei der Ankunft sind keine geführten Aktivitäten vorgesehen; die Zeit bleibt frei für ein entspanntes Abendessen oder eine frühe Nacht, bevor das vollständige Poznań-Programm am Tag 9 beginnt. Das Gepäck wird im selben Fahrzeug direkt vom Hotel in den Beskiden zum Hotel in Poznań befördert. Die Straßenverhältnisse sind das ganze Jahr über grundsätzlich gut, wobei starker Schnee in den Beskiden die erste Stunde der Fahrt um 30 bis 60 Minuten verzögern kann. Ein Raststopp mit Tankstelle, Kaffee und Toiletten ist in der Nähe von Częstochowa Standard.",
+          "Die 9-tägige Christmas-Markets-Reise von Sunday Atlas folgt am Tag 8 einer ähnlichen Westverbindung von Karpacz nach Poznań und legt dabei etwa 300 km in 3,5 Stunden zurück. Beide Reisen nutzen private Fahrzeuge mit Fahrer, sodass sich die Abfahrtszeit der Gruppe entsprechend früher oder später verschieben kann. Die Hotels in Poznań sind 4- oder 5-Sterne-Häuser innerhalb von 500 Metern vom Alten Markt. Das Frühstück ist ab dem Morgen nach der Ankunft inklusive. Der Hauptbahnhof Poznań Główny liegt 15 Gehminuten oder eine kurze Taxifahrt vom Markt entfernt – ideal für alle Weiterverbindungen."
+        ],
+        "fr": [
+          "Le trajet depuis les monts Beskides jusqu'à Poznań couvre environ 460 km et dure environ 5 heures sur les autoroutes A1 et A2. Vous quittez les crêtes boisées des Beskides silésiens le matin et traversez la ceinture industrielle de la Haute-Silésie avant d'entrer dans les terres agricoles vallonnées de Grande-Pologne. L'itinéraire emprunte principalement des voies express à péage, prévoyez donc du temps pour les arrêts de péage ou une vignette électronique. L'arrivée à Poznań se fait généralement en milieu d'après-midi, laissant le reste de la journée libre. Il s'agit des trois premières nuits passées dans le centre-ville.",
+          "La vieille place du marché de Poznań (Stary Rynek) se trouve à quelques pas de la plupart des hôtels centraux et s'anime en début de soirée avec ses terrasses extérieures et ses façades Renaissance illuminées. Les chèvres mécaniques de l'hôtel de ville apparaissent à midi, mais la place est plus calme après le départ des foules diurnes. De fin novembre à décembre, le marché de Noël installe ses chalets en bois, ses stands de vin chaud et un grand arbre décoré devant l'hôtel de ville. Le reste de l'année, la place accueille des concerts en plein air et des brocantes le week-end. En hiver, les températures du soir descendent souvent en dessous de zéro, un manteau chaud est donc indispensable.",
+          "Cette journée de transfert est prévue le jour 8 de l'itinéraire de 14 jours, reliant le segment montagneux du sud au segment de l'ouest de la Pologne. Aucune activité guidée n'est prévue à l'arrivée ; le temps est laissé libre pour un dîner détendu ou une nuit précoce avant que le programme complet de Poznań ne commence le jour 9. Les bagages sont transportés directement de l'hôtel des Beskides à l'hôtel de Poznań dans le même véhicule. Les conditions routières sont généralement bonnes toute l'année, bien que les fortes chutes de neige dans les Beskides puissent ajouter 30 à 60 minutes à la première heure de route. Un arrêt repos avec carburant, café et toilettes est prévu près de Częstochowa.",
+          "Le circuit de 9 jours « Marchés de Noël » de Sunday Atlas suit un transfert vers l'ouest similaire de Karpacz à Poznań le jour 8, couvrant une distance plus courte d'environ 300 km en 3,5 heures. Les deux itinéraires utilisent des véhicules privés avec chauffeur, de sorte que l'heure de départ peut être avancée ou retardée pour s'adapter au groupe. Les hôtels de Poznań pour ces circuits sont des établissements 4 ou 5 étoiles situés à moins de 500 mètres de la vieille place du marché. Le petit-déjeuner est inclus à partir du lendemain de l'arrivée. La gare principale de Poznań, Poznań Główny, se trouve à 15 minutes à pied ou à une courte course en taxi de la place pour toute correspondance."
+        ],
+        "ja": [
+          "ベスキド山地からポズナンまでのドライブは約460キロメートル、A1およびA2の高速道路を経由して所要時間は約5時間です。朝にシレシアン・ベスキドの森に覆われた尾根を出発し、上シレジアの工業地帯を横断して、大ポーランドの起伏のある農地へと入ります。ルートの大部分は有料の高速道路を走行するため、チケット購入の停車や電子ビネットの時間を考慮してください。ポズナンへの到着は通常午後半ばで、残りの1日は自由です。市内中心部に拠点を置く3泊のうちの最初の夜となります。",
+          "ポズナン旧市場広場（スタリ・リネク）は中心部のホテルのほとんどから徒歩圏内にあり、早い夕方には屋外テラスと照らされたルネサンス様式のファサードで賑わいます。市庁舎の機械仕掛けのヤギは正午に登場しますが、昼間の観光客が去った後は広場は静かになります。11月下旬から12月には、クリスマスマーケットの木造小屋、ホットワインのスタンド、市庁舎前の大きな飾り付けされたクリスマスツリーが登場します。それ以外の月は、野外コンサートや週末の骨董市が開催されます。冬の夕方の気温はしばしば氷点下になるため、暖かいコートが必須です。",
+          "移動日は14日間の日程の8日目に設定されており、南部の山岳エリアと西ポーランドのエリアを結びます。到着日にガイド付きのアクティビティは予定されておらず、9日目から始まるポズナンの本格的なプログラムに備えて、ゆったりとした夕食や早めの就寝のために時間を空けています。荷物はベスキドのホテルからポズナンのホテルまで同じ車両で直接移動します。道路状況は年間を通じて概ね良好ですが、ベスキドでの大雪により最初の1時間に30分から60分が追加される場合があります。チェンストホワ近くの、燃料、コーヒー、トイレがある休憩所への立ち寄りが標準です。",
+          "サンデー・アトラス・トラベルの9日間クリスマスマーケットツアーは、カルパチからポズナンへの同様の西行き移動を8日目に行い、約300キロメートル、3.5時間という短い距離をカバーします。どちらの日程もドライバー付きの専用車両を使用しているため、出発時間はグループに合わせて早めたり遅めたりすることができます。これらのツアーのポズナンのホテルは、旧市場広場から500メートル以内の4つ星または5つ星の施設です。到着日の翌朝から朝食が含まれます。ポズナン・グウォウニー駅は広場から徒歩15分、または短いタクシーでの移動で、 onward connections（乗り継ぎ）が可能です。"
+        ],
+        "es": [
+          "El trayecto desde los montes Beskid hasta Poznań recorre unos 460 km y dura aproximadamente 5 horas por las autopistas A1 y A2. Se sale por la mañana de las crestas boscosas de los Beskides Silesios, se cruza el cinturón industrial de Alta Silesia y se entra en las onduladas tierras de cultivo de Gran Polonia. La ruta discurre por autopistas de peaje durante la mayor parte del trayecto, así que hay que calcular tiempo para las paradas de ticket o una viñeta electrónica. La llegada a Poznań suele ser a media tarde, dejando el resto del día libre. Esta es la primera de tres noches en el centro de la ciudad.",
+          "La Plaza del Mercado Viejo de Poznań (Stary Rynek) está a poca distancia de la mayoría de los hoteles céntricos y cobra vida al anochecer con mesas al aire libre y fachadas renacentistas iluminadas. Las cabras mecánicas del Ayuntamiento aparecen al mediodía, pero la plaza está más tranquila una vez que se van las multitudes diurnas. De finales de noviembre a diciembre, el mercado navideño instala cabañas de madera, puestos de vino caliente y un gran árbol decorado frente al Ayuntamiento. En el resto de meses, la plaza acoge conciertos al aire libre y ferias de antigüedades los fines de semana. Las temperaturas nocturnas en invierno suelen bajar de cero, así que un abrigo cálido es imprescindible.",
+          "El día de traslado está programado como Día 8 del itinerario de 14 días, conectando el segmento de montaña del sur con el segmento del oeste de Polonia. No hay actividades guiadas previstas a la llegada; el tiempo se mantiene libre para una cena relajada o una noche temprana antes de que comience el programa completo de Poznań el Día 9. El equipaje se traslada directamente del hotel en los Beskides al hotel de Poznań en el mismo vehículo. Las condiciones de la carretera son generalmente buenas durante todo el año, aunque las fuertes nevadas en los Beskides pueden añadir entre 30 y 60 minutos a la primera hora de trayecto. Una parada de descanso con combustible, café y baños es estándar cerca de Częstochowa.",
+          "El recorrido de 9 días por los Mercados Navideños de Sunday Atlas realiza un traslado hacia el oeste similar de Karpacz a Poznań en su Día 8, cubriendo una distancia más corta de unos 300 km en 3,5 horas. Ambos itinerarios utilizan vehículos privados con conductor, por lo que la hora de salida puede adelantarse o retrasarse para adaptarse al grupo. Los hoteles de Poznań en estos recorridos son propiedades de 4 o 5 estrellas a menos de 500 metros de la Plaza del Mercado Viejo. El desayuno está incluido desde la mañana siguiente a la llegada. La estación principal de tren de la ciudad, Poznań Główny, está a 15 minutos a pie o en un corto trayecto en taxi desde la plaza para cualquier conexión posterior."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "460 km drive, about 5 hours northwest",
+          "First of three nights in Poznań centre",
+          "Evening free on Old Market Square"
+        ],
+        "de": [
+          "460 km Fahrt, etwa 5 Stunden nordwestlich",
+          "Erste von drei Nächten im Zentrum von Poznań",
+          "Freier Abend auf dem Alten Markt"
+        ],
+        "fr": [
+          "460 km de route, environ 5 heures vers le nord-ouest",
+          "Premières des trois nuits dans le centre de Poznań",
+          "Soirée libre sur la vieille place du marché"
+        ],
+        "ja": [
+          "460キロメートルのドライブ、約5時間北西へ",
+          "ポズナン中心部での最初の3泊",
+          "旧市場広場での自由な夕方"
+        ],
+        "es": [
+          "460 km en coche, unas 5 horas hacia el noroeste",
+          "Primera de tres noches en el centro de Poznań",
+          "Tarde libre en la Plaza del Mercado Viejo"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive distance",
+            "de": "Fahrstrecke",
+            "fr": "Distance du trajet",
+            "ja": "ドライブ距離",
+            "es": "Distancia en coche"
+          },
+          "value": {
+            "en": "460 km",
+            "de": "460 km",
+            "fr": "460 km",
+            "ja": "460 km",
+            "es": "460 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Drive time",
+            "de": "Fahrzeit",
+            "fr": "Durée du trajet",
+            "ja": "ドライブ時間",
+            "es": "Tiempo de conducción"
+          },
+          "value": {
+            "en": "5 hours",
+            "de": "5 Stunden",
+            "fr": "5 heures",
+            "ja": "5時間",
+            "es": "5 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "9 Days / 8 Nights",
+            "de": "9 Tage / 8 Nächte",
+            "fr": "9 jours / 8 nuits",
+            "ja": "9日間 / 8泊",
+            "es": "9 días / 8 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794155312/sunday-atlas/blog/poland-itinerary-14-days/poznan-commons-175863840.jpg",
+        "width": 1920,
+        "height": 1064,
+        "alt": {
+          "en": "Poznań Opera House with red roof and towers under cloudy sky.",
+          "de": "Opernhaus von Posen mit rotem Dach und Türmen unter bewölktem Himmel.",
+          "fr": "Opéra de Poznań avec toit rouge et tours sous un ciel nuageux.",
+          "ja": "赤い屋根と塔を持つポズナンオペラハウス。曇り空の下にそびえています。",
+          "es": "Ópera de Poznań con techo rojo y torres bajo un cielo nublado."
+        },
+        "credit": {
+          "author": "Igor123121",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collegium_Minus,_1_Wieniawskiego_Street,_Pozna%C5%84,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Poznań",
+          "de": "Poznań",
+          "fr": "Poznań",
+          "ja": "ポズナン",
+          "es": "Poznań"
+        }
+      },
+      "embeddedPackageSlug": "poland-christmas-markets-poznan-wroclaw-karpacz-9-days"
+    },
+    {
+      "id": "days-9-10-poznan-christmas-market",
+      "placeName": {
+        "en": "Poznań",
+        "de": "Poznań",
+        "fr": "Poznań",
+        "ja": "ポズナン",
+        "es": "Poznań"
+      },
+      "heading": {
+        "en": "Days 9-10: Poznań – Christmas Market, Croissant and Potato Workshops",
+        "de": "Tage 9–10: Poznań – Weihnachtsmarkt, Hörnchen- und Kartoffel-Workshops",
+        "fr": "Jours 9-10 : Poznań – Marché de Noël, atelier de croissants et atelier de pommes de terre",
+        "ja": "9日目〜10日目：ポズナン – クリスマスマーケット、クロワッサン、ジャガイモワークショップ",
+        "es": "Días 9-10: Poznań – Mercado navideño, talleres de rogale y talleres de patata"
+      },
+      "paragraphs": {
+        "en": [
+          "Days 9 and 10 fall in late November to December when the Poznań Christmas market fills the Old Market Square with wooden stalls and mulled wine stands. The market runs daily from late November until 23 December, typically opening around 10:00 and closing after 20:00. A St Martin’s croissant workshop lasts about two hours and teaches the protected regional recipe that dates back to the 19th century. The potato workshop runs for roughly three hours and covers traditional dishes such as pyzy and placki ziemniaczane. An evening drive through the illuminated city centre takes about 45 minutes and shows the market, the Town Hall and the Imperial Castle lit up after dark.",
+          "The transfer from the Beskid Mountains to Poznań on Day 8 covers about 460 km and takes around six hours by private vehicle with a stop in Katowice. Poznań itself sits at roughly 80 metres above sea level, so winter temperatures often hover near freezing and light snow is common in December. The Old Market Square is a five-minute walk from most central hotels, making it easy to return for a warm drink between activities. Workshops are held indoors in heated venues, so they run regardless of weather. Booking the croissant session for the morning leaves the afternoon free for the market.",
+          "Our 9-day Poland Christmas Markets tour spends three nights in Poznań and includes both workshops plus the night drive on Day 3 of that itinerary. The tour operates only during the Christmas market season from late November to December. Private transfers connect Poznań with Wrocław and Karpacz later in the trip. An online concierge and a local SIM card with data are provided for the duration. The tour ends with a final night back in Poznań before departure.",
+          "Pack warm layers, a windproof coat and sturdy boots with good grip for icy cobbles around the market square. Daylight in late December lasts only about eight hours, with sunset near 15:30, so plan market visits for midday. The croissant workshop requires advance reservation because group size is limited to about 12 participants. The potato workshop can accommodate dietary restrictions if notified at least 48 hours ahead. Keep some small Polish złoty in coins for market stalls that do not accept cards."
+        ],
+        "de": [
+          "Die Tage 9 und 10 liegen im Spätnovember bis Dezember, wenn der Weihnachtsmarkt in Poznań den Alten Markt mit Holzbuden und Glühweinständen füllt. Der Markt hat täglich von Spätnovember bis zum 23. Dezember geöffnet, meist ab etwa 10:00 Uhr und schließt nach 20:00 Uhr. Ein Workshop für Martinshörnchen dauert etwa zwei Stunden und vermittelt das geschützte regionale Rezept, das bis ins 19. Jahrhundert zurückreicht. Der Kartoffel-Workshop dauert rund drei Stunden und behandelt traditionelle Gerichte wie Pyzy und Placki ziemniaczane. Eine abendliche Fahrt durch die beleuchtete Innenstadt dauert etwa 45 Minuten und zeigt den Markt, das Rathaus und das Kaiserpalast bei Nacht illuminiert.",
+          "Der Transfer von den Beskiden nach Poznań am Tag 8 umfasst etwa 460 km und dauert mit dem privaten Fahrzeug rund sechs Stunden mit einem Stopp in Katowice. Poznań selbst liegt auf etwa 80 Metern über dem Meeresspiegel, sodass die Wintertemperaturen oft um den Gefrierpunkt liegen und leichter Schnee im Dezember üblich ist. Der Alte Markt ist einen fünfminütigen Fußweg von den meisten zentralen Hotels entfernt, sodass es einfach ist, zwischen den Aktivitäten für ein warmes Getränk zurückzukehren. Die Workshops finden in beheizten Innenräumen statt, sodass sie unabhängig vom Wetter stattfinden. Die Buchung der Hörnchen-Session für den Vormittag lässt den Nachmittag für den Markt frei.",
+          "Unsere 9-tägige Polen-Weihnachtsmärkte-Reise verbringt drei Nächte in Poznań und beinhaltet beide Workshops sowie die Nachtfahrt am Tag 3 dieser Reiseroute. Die Reise findet nur in der Weihnachtsmarktsaison von Ende November bis Dezember statt. Private Transfers verbinden Poznań später auf der Reise mit Wrocław und Karpacz. Ein Online-Koncierge und eine lokale SIM-Karte mit Daten werden für die Dauer bereitgestellt. Die Reise endet mit einer letzten Nacht zurück in Poznań vor der Abreise.",
+          "Packen Sie warme Lagen, eine winddichte Jacke und robuste Stiefel mit gutem Halt für vereiste Kopfsteinpflaster rund um den Marktplatz. Das Tageslicht im späten Dezember dauert nur etwa acht Stunden, mit Sonnenuntergang gegen 15:30 Uhr, also planen Sie Marktbesuche für den Mittag. Das Croissant-Workshop erfordert eine Vorausreservierung, da die Gruppengröße auf etwa 12 Teilnehmer begrenzt ist. Das Kartoffel-Workshop kann diätetische Einschränkungen berücksichtigen, wenn mindestens 48 Stunden im Voraus Bescheid gegeben wird. Behalten Sie einige kleine polnische Złoty in Münzen für Marktstände, die keine Karten akzeptieren."
+        ],
+        "fr": [
+          "Les jours 9 et 10 tombent entre fin novembre et décembre, lorsque le marché de Noël de Poznań remplit la vieille place du marché de chalets en bois et de stands de vin chaud. Le marché fonctionne tous les jours de fin novembre jusqu'au 23 décembre, ouvrant généralement vers 10h00 et fermant après 20h00. Un atelier de croissants de la Saint-Martin dure environ deux heures et enseigne la recette régionale protégée datant du 19e siècle. L'atelier de pommes de terre dure environ trois heures et couvre des plats traditionnels tels que les pyzy et les placki ziemniaczane. Une balade en soirée à travers le centre-ville illuminé dure environ 45 minutes et montre le marché, l'hôtel de ville et le château impérial éclairés après la tombée de la nuit.",
+          "Le transfert des monts Beskides à Poznań le jour 8 couvre environ 460 km et dure environ six heures en véhicule privé avec un arrêt à Katowice. Poznań se situe à environ 80 mètres d'altitude, donc les températures hivernales tournent souvent autour du point de congélation et de légères chutes de neige sont fréquentes en décembre. La vieille place du marché se trouve à cinq minutes à pied de la plupart des hôtels centraux, ce qui permet de revenir facilement pour une boisson chaude entre les activités. Les ateliers se déroulent à l'intérieur dans des lieux chauffés, ils ont donc lieu quelles que soient les conditions météorologiques. Réserver la session de croissants le matin laisse l'après-midi libre pour le marché.",
+          "Notre circuit de 9 jours sur les marchés de Noël en Pologne inclut trois nuits à Poznań, les deux ateliers ainsi que la balade nocturne du jour 3 de cet itinéraire. Le circuit fonctionne uniquement pendant la saison des marchés de Noël, de fin novembre à décembre. Des transferts privés relient Poznań à Wrocław et Karpacz plus tard dans le voyage. Un concierge en ligne et une carte SIM locale avec données sont fournis pour toute la durée. Le circuit se termine par une dernière nuit à Poznań avant le départ.",
+          "Prévoyez des vêtements chauds en couches, un manteau coupe-vent et des bottes solides avec une bonne adhérence pour les pavés glacés autour de la place du marché. La lumière du jour en fin décembre ne dure qu'environ huit heures, avec le coucher du soleil vers 15h30, alors prévoyez vos visites de marchés à midi. L'atelier de croissants nécessite une réservation à l'avance car le groupe est limité à environ 12 participants. L'atelier de pommes de terre peut s'adapter aux restrictions alimentaires si vous nous prévenez au moins 48 heures à l'avance. Gardez quelques petites pièces de monnaie en złoty polonais pour les étals de marché qui n'acceptent pas les cartes."
+        ],
+        "ja": [
+          "9日目と10日目は11月下旬から12月にかけてで、ポズナンのクリスマスマーケットが旧市場広場に木造の屋台やホットワインスタンドを並べます。マーケットは11月下旬から12月23日まで毎日開催され、通常10:00頃に開場し、20:00以降に閉場します。聖マルティンのクロワッサンワークショップは約2時間で、19世紀に遡る保護された地域のレシピを教えます。ジャガイモワークショップは約3時間で、ピジーやプラツキ・ジエムニャチャネなどの伝統料理を扱います。照らされた市内中心部を巡る夕方のドライブは約45分で、暗くなった後のマーケット、市庁舎、帝国城を照らされた姿で見ることができます。",
+          "8日目のベスキド山地からポズナンへの移動は約460キロメートル、カトヴィツェでの停車を含めて専用車両で約6時間かかります。ポズナン自体は海抜約80メートルに位置し、冬の気温はしばしば氷点付近で、12月には軽い雪がよく降ります。旧市場広場は中心部のホテルのほとんどから徒歩5分で、活動の間に温かい飲み物を飲みに戻るのに便利です。ワークショップは暖房のある屋内会場で開催されるため、天候に関係なく実施されます。クロワッサンセッションを午前中に予約すれば、午後はマーケットを楽しむ時間が確保できます。",
+          "当社のポーランド・クリスマスマーケット9日間ツアーは、ポズナンに3泊滞在し、3日目にナイトドライブと両方のワークショップを含みます。ツアーはクリスマスマーケットシーズン、11月下旬から12月にかけてのみ運行します。プライベート送迎でポズナンからヴロツワフ、カルパツへと移動します。オンラインコンシェルジュとデータ通信付きの現地SIMカードを期間中提供します。ツアーはポズナンでの最終泊を経て出発となります。",
+          "暖かい重ね着、防風コート、滑りにくい頑丈なブーツをご用意ください。マーケット広場の氷の張った石畳を歩くためです。12月下旬の日照時間は約8時間、日没は15:30頃なので、マーケット訪問は正午頃に計画してください。クロワッサンワークショップは参加人数が約12名に制限されているため、事前予約が必要です。ジャガイモワークショップは、48時間前までにご連絡いただければ食事制限に対応可能です。カードが使えない市場の露店用に、ポーランド・ズウォティの小銭をいくつかお持ちください。"
+        ],
+        "es": [
+          "Los días 9 y 10 ocurren a finales de noviembre y en diciembre, cuando el mercado navideño de Poznań llena la Plaza del Mercado Viejo con puestos de madera y puestos de vino caliente. El mercado abre todos los días desde finales de noviembre hasta el 23 de diciembre, normalmente a las 10:00 y cierra después de las 20:00. Un taller de croissant de San Martín dura unas dos horas y enseña la receta regional protegida que data del siglo XIX. El taller de patatas dura unas tres horas y cubre platos tradicionales como pyzy y placki ziemniaczane. Un recorrido nocturno en coche por el centro iluminado dura unos 45 minutos y muestra el mercado, el Ayuntamiento y el Castillo Imperial iluminados al anochecer.",
+          "El traslado de los montes Beskid a Poznań el día 8 cubre unos 460 km y toma alrededor de seis horas en vehículo privado con una parada en Katowice. Poznań se encuentra a unos 80 metros sobre el nivel del mar, por lo que las temperaturas invernales suelen rondar el punto de congelación y es común la nieve ligera en diciembre. La Plaza del Mercado Viejo está a cinco minutos a pie de la mayoría de los hoteles céntricos, lo que facilita regresar para tomar una bebida caliente entre actividades. Los talleres se realizan en interiores en lugares climatizados, por lo que se llevan a cabo sin importar el clima. Reservar la sesión de croissant por la mañana deja la tarde libre para el mercado.",
+          "Nuestro tour de 9 días por los mercados navideños de Polonia pasa tres noches en Poznań e incluye ambos talleres además del recorrido nocturno del Día 3 de ese itinerario. El tour opera solo durante la temporada de mercados navideños, de finales de noviembre a diciembre. Los traslados privados conectan Poznań con Wrocław y Karpacz más adelante en el viaje. Se proporciona un conserje en línea y una tarjeta SIM local con datos durante toda la duración. El tour termina con una última noche de regreso en Poznań antes de la salida.",
+          "Empaca capas abrigadas, un abrigo cortavientos y botas resistentes con buen agarre para los adoquines helados alrededor de la plaza del mercado. La luz del día a finales de diciembre dura solo unas ocho horas, con la puesta de sol cerca de las 15:30, así que planifica las visitas al mercado al mediodía. El taller de croissants requiere reserva previa porque el tamaño del grupo es limitado a unos 12 participantes. El taller de papas puede adaptarse a restricciones dietéticas si se notifica con al menos 48 horas de antelación. Lleva algunos zlotys polacos en monedas para los puestos del mercado que no aceptan tarjetas."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Poznań Christmas market late November to 23 December",
+          "St Martin’s croissant workshop protected recipe",
+          "Potato workshop traditional pyzy and placki"
+        ],
+        "de": [
+          "Poznań Weihnachtsmarkt Ende November bis 23. Dezember",
+          "St. Martin’s Croissant-Workshop geschütztes Rezept",
+          "Kartoffel-Workshop traditionelle Pyzy und Placki"
+        ],
+        "fr": [
+          "Marché de Noël de Poznań, de fin novembre au 23 décembre",
+          "Atelier de croissants de la Saint-Martin, recette protégée",
+          "Atelier de pommes de terre, pyzy et placki traditionnels"
+        ],
+        "ja": [
+          "ポズナン・クリスマスマーケット 11月下旬から12月23日まで",
+          "聖マルティンのクロワッサンワークショップ 保護レシピ",
+          "ジャガイモワークショップ 伝統的なピィとプラツキ"
+        ],
+        "es": [
+          "Mercado navideño de Poznań, de finales de noviembre al 23 de diciembre",
+          "Taller de croissants de San Martín, receta protegida",
+          "Taller de papas, pyzy y placki tradicionales"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Market season",
+            "de": "Marktsaison",
+            "fr": "Saison du marché",
+            "ja": "マーケットシーズン",
+            "es": "Temporada de mercado"
+          },
+          "value": {
+            "en": "Late November to 23 December",
+            "de": "Ende November bis 23. Dezember",
+            "fr": "De fin novembre au 23 décembre",
+            "ja": "11月下旬から12月23日まで",
+            "es": "De finales de noviembre al 23 de diciembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Transfer from Beskids",
+            "de": "Transfer aus den Beskiden",
+            "fr": "Transfert depuis les Beskides",
+            "ja": "ベスキディからの送迎",
+            "es": "Traslado desde los Beskides"
+          },
+          "value": {
+            "en": "About 460 km, six hours",
+            "de": "Etwa 460 km, sechs Stunden",
+            "fr": "Environ 460 km, six heures",
+            "ja": "約460km、6時間",
+            "es": "Unos 460 km, seis horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "9 Days / 8 Nights",
+            "de": "9 Tage / 8 Nächte",
+            "fr": "9 jours / 8 nuits",
+            "ja": "9日間 / 8泊",
+            "es": "9 días / 8 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794155315/sunday-atlas/blog/poland-itinerary-14-days/poznan-commons-35701434.jpg",
+        "width": 1920,
+        "height": 1460,
+        "alt": {
+          "en": "The ornate Baroque interior of Poznań Cathedral in Poland.",
+          "de": "Der prächtige barocke Innenraum der Kathedrale von Posen in Polen.",
+          "fr": "L'intérieur baroque orné de la cathédrale de Poznań en Pologne.",
+          "ja": "ポーランド、ポズナン大聖堂の装飾豊かなバロック様式の内部。",
+          "es": "El ornamentado interior barroco de la Catedral de Poznań en Polonia."
+        },
+        "credit": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Poznań",
+          "de": "Poznań",
+          "fr": "Poznań",
+          "ja": "ポズナン",
+          "es": "Poznań"
+        }
+      },
+      "embeddedPackageSlug": "poland-christmas-markets-poznan-wroclaw-karpacz-9-days"
+    },
+    {
+      "id": "day-11-poznan-to-wroclaw",
+      "placeName": {
+        "en": "Wrocław",
+        "de": "Wrocław",
+        "fr": "Wrocław",
+        "ja": "ヴロツワフ",
+        "es": "Wrocław"
+      },
+      "heading": {
+        "en": "Day 11: Poznań to Wrocław – Market Square and Gnomes",
+        "de": "Tag 11: Poznań nach Wrocław – Marktplatz und Zwerge",
+        "fr": "Jour 11 : Poznań à Wrocław – Place du marché et nains de jardin",
+        "ja": "11日目：ポズナンからヴロツワフへ – マーケット広場と小人たち",
+        "es": "Día 11: Poznań a Wrocław – Plaza del Mercado y duendes"
+      },
+      "paragraphs": {
+        "en": [
+          "The drive from Poznań to Wrocław covers about 180 km and takes roughly 2 hours on the A2 and A8 motorways, making it a comfortable morning transfer on Day 11 of a Poland itinerary 14 days plan. Departing Poznań by 9:00 AM puts you in Wrocław before noon, leaving the full afternoon for the Market Square and its surrounding streets. The Market Square (Rynek) is one of the largest medieval squares in Europe, measuring 205 by 175 metres, with the Gothic Old Town Hall at its centre. Late November to December brings the Christmas market here, while spring and autumn offer milder crowds for the gnome trail. Parking is easiest in the underground garages near Plac Dominikański, a short walk from the square.",
+          "Wrocław’s gnome trail started in 2001 with a single figure and now includes more than 600 small bronze statues scattered across the Old Town and islands, each tied to a local story or sponsor. A printed map from the tourist office on the Market Square helps locate the main clusters around the Old Town Hall, St Elizabeth’s Church and the University Quarter. Allow about 2 hours to follow the central route at a relaxed pace, pausing for coffee in one of the cellar cafés under the square. The gnomes are visible year-round, but winter snow and summer festivals change the backdrop noticeably. Comfortable shoes are recommended for the cobblestones and frequent kerbs.",
+          "The Market Hall (Hala Targowa) on Plac Nankiera opened in 1908 and retains its original steel-and-glass roof, housing stalls with Silesian sausages, smoked cheeses, pickles and fresh pierogi. It operates Monday to Saturday, typically 7:00 AM to 6:00 PM, with shorter Sunday hours in the Christmas market season. A visit fits well between the Market Square walk and an early dinner, taking 45 to 60 minutes to browse and sample. Vendors often speak basic English and German, and cash in złoty is still preferred at smaller stalls. The hall is a 5-minute walk north of the Old Town Hall through the Salt Square (Plac Solny).",
+          "Overnight in Wrocław places you within reach of the Oder river islands, the Centennial Hall complex and the Panorama of the Battle of Racławice for Day 12 before heading toward the Karkonosze mountains. The city has a wide range of 4-star and 5-star hotels in the Old Town, on Ostrów Tumski and near the main station, all used on the Poland Christmas Markets: Poznań, Wrocław & Karpacz in 9 Days tour. Booking a room with Market Square views simplifies evening returns after the Christmas market closes around 9:00 PM in December. Late November to December is the peak season, so confirm accommodation at least three months ahead. A local SIM card with data helps navigate the gnome map and check real-time tram departures."
+        ],
+        "de": [
+          "Die Fahrt von Poznań nach Wrocław umfasst etwa 180 km und dauert ungefähr 2 Stunden auf den Autobahnen A2 und A8, was sie zu einem komfortablen Morgen-Transfer am Tag 11 eines 14-tägigen Polen-Reiseplans macht. Die Abreise von Poznań um 9:00 Uhr bringt Sie vor Mittag nach Wrocław, sodass der gesamte Nachmittag für den Marktplatz und seine umliegenden Straßen bleibt. Der Marktplatz (Rynek) ist einer der größten mittelalterlichen Plätze Europas, misst 205 mal 175 Meter, mit dem gotischen Alten Rathaus in der Mitte. Spätes November bis Dezember bringt den Weihnachtsmarkt hierher, während Frühling und Herbst mildere Menschenmengen für die Zwergen-Tour bieten. Parken ist am einfachsten in den Tiefgaragen in der Nähe von Plac Dominikański, einen kurzen Spaziergang vom Platz entfernt.",
+          "Wrocławs Zwergenpfad begann 2001 mit einer einzigen Figur und umfasst nun mehr als 600 kleine Bronzestatuen, die über die Altstadt und die Inseln verstreut sind, jede mit einer lokalen Geschichte oder einem Sponsor verbunden. Eine gedruckte Karte vom Touristenbüro auf dem Marktplatz hilft, die Hauptcluster rund um das Alte Rathaus, die St. Elisabeth-Kirche und das Universitätsviertel zu finden. Rechnen Sie mit etwa 2 Stunden, um die zentrale Route in entspanntem Tempo zu folgen, mit Pausen für Kaffee in einem der Kellercafés unter dem Platz. Die Zwerge sind ganzjährig sichtbar, aber Winterschnee und Sommerfestivals verändern die Kulisse merklich. Bequeme Schuhe werden für das Kopfsteinpflaster und die häufigen Bordsteine empfohlen.",
+          "Die Markthalle (Hala Targowa) auf dem Plac Nankiera öffnete 1908 und bewahrt ihr ursprüngliches Stahl-und-Glas-Dach, das Stände mit schlesischen Würstchen, geräucherten Käsesorten, eingelegtem Gemüse und frischen Pierogi beherbergt. Sie hat Montag bis Samstag geöffnet, typisch 7:00 bis 18:00 Uhr, mit verkürzten Sonntagszeiten in der Weihnachtsmarktsaison. Ein Besuch passt gut zwischen dem Marktplatz-Spaziergang und einem frühen Abendessen, wobei 45 bis 60 Minuten zum Stöbern und Probieren eingeplant werden sollten. Verkäufer sprechen oft grundlegendes Englisch und Deutsch, und Bargeld in Złoty wird an kleineren Ständen immer noch bevorzugt. Die Halle ist einen 5-minütigen Spaziergang nördlich des Alten Rathauses durch den Salzplatz (Plac Solny).",
+          "Eine Übernachtung in Wrocław bringt Sie in Reichweite der Oder-Inseln, des Jahrhunderthallen-Komplexes und des Panoramas der Schlacht von Racławice für Tag 12, bevor Sie in Richtung des Riesengebirges aufbrechen. Die Stadt bietet eine große Auswahl an 4-Sterne- und 5-Sterne-Hotels in der Altstadt, auf dem Ostrów Tumski und in der Nähe des Hauptbahnhofs, die alle auf der Polen-Weihnachtsmärkte: Poznań, Wrocław & Karpacz in 9 Tagen-Reise genutzt werden. Die Buchung eines Zimmers mit Blick auf den Marktplatz erleichtert die abendlichen Rückkehrten, nachdem der Weihnachtsmarkt im Dezember gegen 21:00 Uhr schließt. Spätes November bis Dezember ist die Hauptsaison, daher bestätigen Sie die Unterkunft mindestens drei Monate im Voraus. Eine lokale SIM-Karte mit Daten hilft bei der Navigation auf der Zwergenkarte und beim Überprüfen der Echtzeit-Straßenbahnabfahrten."
+        ],
+        "fr": [
+          "Le trajet de Poznań à Wrocław couvre environ 180 km et prend environ 2 heures sur les autoroutes A2 et A8, ce qui en fait un transfert matinal confortable le jour 11 d'un itinéraire de 14 jours en Pologne. En quittant Poznań à 9h00, vous arrivez à Wrocław avant midi, laissant tout l'après-midi pour la place du marché et ses rues environnantes. La place du marché (Rynek) est l'une des plus grandes places médiévales d'Europe, mesurant 205 sur 175 mètres, avec l'hôtel de ville gothique en son centre. De fin novembre à décembre, le marché de Noël s'y installe, tandis que le printemps et l'automne offrent des foules plus clairsemées pour le sentier des nains. Le stationnement est le plus facile dans les parkings souterrains près de Plac Dominikański, à quelques minutes à pied de la place.",
+          "Le sentier des nains de Wrocław a commencé en 2001 avec une seule figurine et compte aujourd'hui plus de 600 petites statues de bronze dispersées dans la vieille ville et sur les îles, chacune liée à une histoire ou un sponsor local. Une carte imprimée de l'office de tourisme sur la place du marché permet de localiser les principaux groupes autour de l'hôtel de ville, de l'église Sainte-Élisabeth et du quartier universitaire. Prévoyez environ 2 heures pour suivre l'itinéraire central à un rythme détendu, en faisant une pause café dans l'un des cafés en cave sous la place. Les nains sont visibles toute l'année, mais la neige hivernale et les festivals estivaux changent sensiblement le décor. Des chaussures confortables sont recommandées pour les pavés et les trottoirs fréquents.",
+          "La halle aux marchés (Hala Targowa) sur Plac Nankiera a ouvert en 1908 et conserve son toit d'origine en acier et verre, abritant des étals avec des saucisses de Silésie, des fromages fumés, des cornichons et des pierogi frais. Elle est ouverte du lundi au samedi, généralement de 7h00 à 18h00, avec des horaires réduits le dimanche pendant la saison du marché de Noël. Une visite s'intègre bien entre la promenade sur la place du marché et un dîner tôt, prenant 45 à 60 minutes pour parcourir et goûter. Les vendeurs parlent souvent l'anglais et l'allemand de base, et l'argent liquide en złoty est encore préféré aux petits étals. La halle se trouve à 5 minutes à pied au nord de l'hôtel de ville, via la place du Sel (Plac Solny).",
+          "Passer la nuit à Wrocław vous place à portée des îles de l'Oder, du complexe du Centennial Hall et du Panorama de la bataille de Racławice pour le jour 12 avant de vous diriger vers les monts Karkonosze. La ville propose un large éventail d'hôtels 4* et 5* dans la vieille ville, sur Ostrów Tumski et près de la gare principale, tous utilisés sur le circuit Pologne marchés de Noël : Poznań, Wrocław & Karpacz en 9 jours. Réserver une chambre avec vue sur la place du marché simplifie les retours le soir après la fermeture du marché de Noël vers 21h00 en décembre. De fin novembre à décembre est la haute saison, alors confirmez votre hébergement au moins trois mois à l'avance. Une carte SIM locale avec données aide à naviguer sur la carte des nains et à consulter les départs de tram en temps réel."
+        ],
+        "ja": [
+          "ポズナンからヴロツワフまでのドライブは約180km、A2およびA8高速道路を経由して約2時間かかり、ポーランド14日間プランの11日目の快適な午前中の移動となります。ポズナンを9:00 AMまでに出発すれば、正午前にヴロツワフに到着し、午後をマーケット広場とその周辺の通りで過ごせます。マーケット広場（リネク）はヨーロッパ最大級の中世広場の一つで、縦205メートル、横175メートル、中央にはゴシック様式の旧市庁舎があります。11月下旬から12月はクリスマスマーケットが開催され、春と秋は小人のトレイルを楽しむのに混雑が少ない時期です。駐車場はプラツ・ドミニカンスキ近くの地下ガレージが便利で、広場まで徒歩圏内です。",
+          "ヴロツワフの小人トレイルは2001年に1体の像から始まり、現在は旧市街と島々に600体以上の小さなブロンズ像が点在し、それぞれが地元の物語やスポンサーに結びついています。マーケット広場の観光案内所で配布している印刷マップで、旧市庁舎、聖エリザベス教会、大学地区周辺の主な集まりを見つけられます。中央ルートをゆっくりと辿るのに約2時間を要し、広場下の地下カフェでコーヒーを楽しむ時間も含みます。小人は一年中見られますが、冬の雪や夏のフェスティバルで景観が大きく変わります。石畳と頻繁な段差があるため、歩きやすい靴をお勧めします。",
+          "プラツ・ナンキエラにあるマーケットホール（ハラ・タルゴワ）は1908年に開場し、オリジナルのスチールアンドガラスの屋根を保持しています。シレジアソーセージ、スモークチーズ、ピクルス、新鮮なピエロギを扱う露店が入っています。月曜から土曜まで営業し、通常は7:00 AMから6:00 PMまで、クリスマスマーケットシーズンは日曜日の営業時間が短縮されます。マーケット広場の散策と早い夕食の間に訪れるのに適しており、見学と試食に45分から60分かかります。販売者は多くが基本的な英語とドイツ語を話し、小さな露店ではズウォティでの現金支払いがまだ好まれます。ホールは旧市庁舎から北へ徒歩5分、ソルニ広場（プラツ・ソルニ）を通ります。",
+          "ヴロツワフに宿泊すれば、オデル川の島々、センチュennialホール複合施設、ラツワヴィツェの戦いのパノラマへの12日目へのアクセスが容易です。市内には旧市街、オストロフ・トゥムシ、メイン駅近くに4つ星および5つ星のホテルが幅広くあり、ポーランド・クリスマスマーケット：ポズナン、ヴロツワフ＆カルパツ9日間ツアーで利用しています。マーケット広場ビューの部屋を予約すれば、12月にクリスマスマーケットが21:00頃に閉場した後の夜の戻りが簡単です。11月下旬から12月は繁忙期なので、宿泊施設は少なくとも3ヶ月前までに確認してください。データ通信付きの現地SIMカードがあれば、小人のマップを確認したり、リアルタイムのトラム出発時刻をチェックしたりするのに役立ちます。"
+        ],
+        "es": [
+          "El trayecto de Poznań a Wrocław cubre unos 180 km y toma aproximadamente 2 horas por las autopistas A2 y A8, lo que lo convierte en un traslado matutino cómodo en el Día 11 de un plan de itinerario de 14 días por Polonia. Saliendo de Poznań a las 9:00 AM, llegarás a Wrocław antes del mediodía, dejando toda la tarde para la Plaza del Mercado y sus calles circundantes. La Plaza del Mercado (Rynek) es una de las plazas medievales más grandes de Europa, con 205 por 175 metros, con el Gótico Ayuntamiento del Viejo en su centro. De finales de noviembre a diciembre, el mercado navideño se celebra aquí, mientras que la primavera y el otoño ofrecen multitudes más reducidas para la ruta de los duendes. El estacionamiento es más fácil en los garajes subterráneos cerca de Plac Dominikański, a poca distancia a pie de la plaza.",
+          "La ruta de los duendes de Wrocław comenzó en 2001 con una sola figura y ahora incluye más de 600 pequeñas estatuas de bronce esparcidas por el Viejo y las islas, cada una vinculada a una historia local o un patrocinador. Un mapa impreso de la oficina de turismo en la Plaza del Mercado ayuda a localizar los grupos principales alrededor del Ayuntamiento del Viejo, la Iglesia de Santa Isabel y el Barrio Universitario. Permite unas 2 horas para seguir la ruta central a un ritmo relajado, haciendo una pausa para tomar café en uno de los cafés subterráneos bajo la plaza. Los duendes son visibles durante todo el año, pero la nieve invernal y los festivales de verano cambian el telón de fondo notablemente. Se recomiendan zapatos cómodos para los adoquines y los bordillos frecuentes.",
+          "El Mercado Cubierto (Hala Targowa) en Plac Nankiera abrió en 1908 y conserva su techo original de acero y vidrio, albergando puestos con salchichas silesias, quesos ahumados, encurtidos y pierogi frescos. Funciona de lunes a sábado, típicamente de 7:00 AM a 6:00 PM, con horarios más cortos los domingos en la temporada de mercado navideño. Una visita encaja bien entre el recorrido por la Plaza del Mercado y una cena temprana, tomando de 45 a 60 minutos para navegar y probar. Los vendedores a menudo hablan inglés y alemán básicos, y el efectivo en zlotys sigue siendo preferido en los puestos más pequeños. El mercado está a 5 minutos caminando al norte del Ayuntamiento del Viejo a través de la Plaza de la Sal (Plac Solny).",
+          "Pasar la noche en Wrocław te coloca al alcance de las islas del río Oder, el complejo del Salón del Centenario y el Panorama de la Batalla de Racławice para el Día 12 antes de dirigirte hacia las montañas Karkonosze. La ciudad tiene una amplia gama de hoteles de 4* y 5* en el Viejo, en Ostrów Tumski y cerca de la estación principal, todos utilizados en el tour Polonia Mercados Navideños: Poznań, Wrocław y Karpacz en 9 Días. Reservar una habitación con vistas a la Plaza del Mercado simplifica los retornos nocturnos después de que el mercado navideño cierra alrededor de las 9:00 PM en diciembre. De finales de noviembre a diciembre es la temporada alta, así que confirma el alojamiento con al menos tres meses de antelación. Una tarjeta SIM local con datos ayuda a navegar el mapa de los duendes y consultar salidas de tranvía en tiempo real."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "180 km drive, about 2 hours from Poznań",
+          "Market Square 205 by 175 metres with gnome trail",
+          "Market Hall open Monday to Saturday 7 AM to 6 PM"
+        ],
+        "de": [
+          "180 km Fahrt, etwa 2 Stunden von Poznań",
+          "Marktplatz 205 mal 175 Meter mit Zwergenpfad",
+          "Markthalle geöffnet Montag bis Samstag 7 bis 18 Uhr"
+        ],
+        "fr": [
+          "180 km de route, environ 2 heures depuis Poznań",
+          "Place du marché de 205 sur 175 mètres avec le sentier des nains",
+          "Marché couvert ouvert du lundi au samedi de 7 h à 18 h"
+        ],
+        "ja": [
+          "ポズナンから180 km、車で約2時間",
+          "幅205メートル、奥行き175メートルの市場広場、ノームのトレイルあり",
+          "市場ホールは月曜から土曜、午前7時から午後6時まで営業"
+        ],
+        "es": [
+          "180 km en coche, unas 2 horas desde Poznań",
+          "Plaza del Mercado de 205 por 175 metros con ruta de gnomos",
+          "Mercado Cubierto abierto de lunes a sábado de 7:00 a 18:00"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive",
+            "de": "Fahrt",
+            "fr": "Route",
+            "ja": "ドライブ",
+            "es": "Trayecto"
+          },
+          "value": {
+            "en": "180 km, about 2 hours",
+            "de": "180 km, etwa 2 Stunden",
+            "fr": "180 km, environ 2 heures",
+            "ja": "180 km、約2時間",
+            "es": "180 km, unas 2 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Market Hall hours",
+            "de": "Öffnungszeiten Markthalle",
+            "fr": "Horaires du marché couvert",
+            "ja": "市場ホール営業時間",
+            "es": "Horario del Mercado Cubierto"
+          },
+          "value": {
+            "en": "Mon–Sat 7:00–18:00",
+            "de": "Mo–Sa 7:00–18:00",
+            "fr": "Lun–Sam 7:00–18:00",
+            "ja": "月曜〜土曜 7:00〜18:00",
+            "es": "Lun–Sáb 7:00–18:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "9 Days / 8 Nights",
+            "de": "9 Tage / 8 Nächte",
+            "fr": "9 jours / 8 nuits",
+            "ja": "9日間 / 8泊",
+            "es": "9 días / 8 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794155322/sunday-atlas/blog/poland-itinerary-14-days/wroc-aw-commons-94585934.jpg",
+        "width": 1920,
+        "height": 1343,
+        "alt": {
+          "en": "Illuminated University of Wrocław building reflected in the Oder River at night.",
+          "de": "Das beleuchtete Gebäude der Universität Breslau spiegelt sich nachts in der Oder wider.",
+          "fr": "Bâtiment illuminé de l'Université de Wrocław reflété dans l'Oder la nuit.",
+          "ja": "夜のオーデル川に映る、照明でライトアップされたヴロツワフ大学の建物。",
+          "es": "El edificio iluminado de la Universidad de Wrocław reflejado en el río Óder por la noche."
+        },
+        "credit": {
+          "author": "Marek Śliwecki",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wroc%C5%82aw_MuzeumNarodowe.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Wrocław",
+          "de": "Wrocław",
+          "fr": "Wrocław",
+          "ja": "ヴロツワフ",
+          "es": "Wrocław"
+        }
+      },
+      "embeddedPackageSlug": "poland-christmas-markets-poznan-wroclaw-karpacz-9-days"
+    },
+    {
+      "id": "days-12-13-wroclaw-to-karpacz",
+      "placeName": {
+        "en": "Karpacz",
+        "de": "Karpacz",
+        "fr": "Karpacz",
+        "ja": "カーパツ",
+        "es": "Karpacz"
+      },
+      "heading": {
+        "en": "Days 12-13: Wrocław to Karpacz – Vang Church and Karkonosze National Park",
+        "de": "Tage 12–13: Wrocław nach Karpacz – Vang-Kirche und Karkonosze-Nationalpark",
+        "fr": "Jours 12-13 : Wrocław à Karpacz – Église de Vang et parc national des Karkonosze",
+        "ja": "12日目〜13日目：ヴロツワフからカーパツへ – ヴァング教会とカルコノシェ国立公園",
+        "es": "Días 12-13: Wrocław a Karpacz – Iglesia de Vang y Parque Nacional de los Karkonosze"
+      },
+      "paragraphs": {
+        "en": [
+          "The drive from Wrocław to Karpacz covers about 120 km and takes around 2 hours through the rolling foothills of the Karkonosze Mountains, arriving in a town that sits at roughly 480 to 880 meters above sea level. This section of the Poland itinerary 14 days plan allocates two full nights in Karpacz, giving time to explore without rushing. Late November to December brings the Christmas market season, when the town square fills with wooden stalls and the scent of mulled wine and grilled oscypek cheese. From December to March, reliable snow cover supports cross-country skiing on groomed trails that start near the town centre and lead into Karkonosze National Park. Spring through autumn opens the same trails for hiking and mountain biking, with the cable car to Kopa summit running from May to October.",
+          "Vang Church, a 12th-century Norwegian stave church relocated to Karpacz in the 1840s, stands without nails on a wooded slope above the town and opens daily for visitors except during Sunday services. The interior retains original dragon-head carvings and runic inscriptions, and a guided visit takes about 30 minutes; photography is allowed inside without flash. A short walk or local bus ride from the church reaches the Wang Temple museum, which explains the building’s journey from Vang in Norway to its current site. Entry tickets are purchased at the small kiosk beside the church, and the site is busiest between 11:00 and 14:00 during the Christmas market weeks. Visiting early in the morning or late afternoon avoids the largest groups and offers better light for photographs of the shingle roof.",
+          "Karkonosze National Park protects the highest part of the Sudetes, with Śnieżka summit reaching 1,603 meters and marking the border with the Czech Republic. Well-marked trails from Karpacz lead to the Samotnia mountain hut beside Mały Staw glacial lake, a round trip of about 8 km that takes 3 to 4 hours at a moderate pace. The park’s main entrance at the Wang Church area charges a small conservation fee, payable by card or cash, and is open year-round, though higher trails above 1,200 meters may close from November to April due to ice and avalanche risk. The cable car to Kopa (1,377 m) runs from May to October and on weekends in winter if conditions allow, cutting the ascent to the summit ridge to about 20 minutes. Carry layers, water and a headlamp, as mountain weather changes quickly even in summer.",
+          "Accommodation in Karpacz ranges from family-run guesthouses near the Vang Church to larger spa hotels with indoor pools at the foot of the ski lifts, and booking two to three months ahead is advisable for the Christmas market period. Most properties include a hearty Polish breakfast with cold cuts, cheese, bread and hot tea, and many offer ski storage and boot dryers from December to March. Evening dining options centre on the market square, where restaurants serve regional specialities such as kwaśnica soup and pierogi with wild mushrooms, typically finishing service by 21:00. A local bus connects the town centre, Vang Church and the cable car base station every 30 minutes in season, and taxis are available but limited after 22:00. The Sunday Atlas 9-day Christmas market tour uses this same Karpacz base for two nights, pairing the park visit with a free morning for optional sledging or a thermal spa session."
+        ],
+        "de": [
+          "Die Fahrt von Wrocław nach Karpacz umfasst etwa 120 km und dauert rund 2 Stunden durch die sanften Vorberge des Riesengebirges, bis man in einer Stadt ankommt, die auf etwa 480 bis 880 Metern über dem Meeresspiegel liegt. Dieser Abschnitt des Polen-Reiseplans für 14 Tage sieht zwei volle Nächte in Karpacz vor, sodass man in Ruhe erkunden kann. Von Ende November bis Dezember herrscht Weihnachtsmarkt-Saison, wenn der Stadtplatz mit Holzbuden gefüllt ist und der Duft von Glühwein und gegrilltem Oscypek-Käse in der Luft liegt. Von Dezember bis März sorgt eine zuverlässige Schneedecke für Langlauf auf präparierten Loipen, die nahe dem Stadtzentrum beginnen und in den Karkonosze-Nationalpark führen. Von Frühling bis Herbst öffnen dieselben Wege für Wandern und Mountainbiken, mit der Seilbahn auf den Gipfel Kopa, die von Mai bis Oktober fährt.",
+          "Die Vang-Kirche, eine norwegische Stabkirche aus dem 12. Jahrhundert, die in den 1840er Jahren nach Karpacz verlegt wurde, steht ohne Nägel auf einem bewaldeten Hang oberhalb der Stadt und ist täglich für Besucher geöffnet, außer während der Sonntagsgottesdienste. Im Inneren sind ursprüngliche Drachenkopf-Schnitzereien und Runeninschriften erhalten, und eine Führung dauert etwa 30 Minuten; Fotografieren ist im Inneren ohne Blitz erlaubt. Ein kurzer Spaziergang oder eine lokale Busfahrt von der Kirche führt zum Wang-Tempel-Museum, das den Weg des Gebäudes von Vang in Norwegen zu seinem heutigen Standort erklärt. Eintrittskarten werden am kleinen Kiosk neben der Kirche gekauft, und die Stätte ist in den Weihnachtsmarktwochen zwischen 11:00 und 14:00 am stärksten besucht. Ein Besuch am frühen Morgen oder am späten Nachmittag vermeidet die größten Gruppen und bietet besseres Licht für Fotografien des Schindeldachs.",
+          "Der Karkonosze-Nationalpark schützt den höchsten Teil der Sudeten, wobei der Gipfel Śnieżka mit 1.603 Metern die Grenze zu Tschechien markiert. Gut markierte Wege von Karpacz führen zur Samotnia-Berghütte am Mały Staw-Gletschersee, eine Rundwanderung von etwa 8 km, die in gemächlichem Tempo 3 bis 4 Stunden dauert. Der Haupteingang des Parks im Bereich der Vang-Kirche erhebt eine kleine Naturschutzgebühr, zahlbar per Karte oder Bargeld, und ist ganzjährig geöffnet, obwohl höhere Wege oberhalb von 1.200 Metern von November bis April aufgrund von Eis- und Lawinengefahr gesperrt sein können. Die Seilbahn nach Kopa (1.377 m) fährt von Mai bis Oktober und an Wochenenden im Winter, wenn die Bedingungen es zulassen, und verkürzt den Aufstieg zum Gipfelkamm auf etwa 20 Minuten. Nehmen Sie warme Kleidung, Wasser und eine Stirnlampe mit, da sich das Bergwetter schnell ändert, selbst im Sommer.",
+          "Die Unterkünfte in Karpacz reichen von familiengeführten Pensionen in der Nähe der Vang-Kirche bis hin zu größeren Kurhotels mit Innenpools am Fuße der Skilifte, und eine Buchung zwei bis drei Monate im Voraus ist für die Weihnachtsmarktzeit ratsam. Die meisten Unterkünfte bieten ein herzhaftes polnisches Frühstück mit Aufschnitt, Käse, Brot und heißem Tee, und viele bieten Skiabstellraum und Skischuhtrockner von Dezember bis März an. Die Abendessen konzentrieren sich auf den Marktplatz, wo Restaurants regionale Spezialitäten wie Kwaśnica-Suppe und Pierogi mit Pilzen servieren, wobei der Service in der Regel um 21:00 endet. Ein lokaler Bus verbindet das Stadtzentrum, die Vang-Kirche und die Talstation der Seilbahn alle 30 Minuten in der Saison, und Taxis sind verfügbar, aber nach 22:00 begrenzt. Die 9-tägige Weihnachtsmarkt-Tour von Sunday Atlas Travel nutzt dieselbe Karpacz-Basis für zwei Nächte und verbindet den Parkbesuch mit einem freien Morgen für optionales Rodeln oder einen Thermalbad-Besuch."
+        ],
+        "fr": [
+          "La route de Wrocław à Karpacz couvre environ 120 km et prend environ 2 heures à travers les contreforts ondoyants des monts Karkonosze, arrivant dans une ville située à environ 480 à 880 mètres d'altitude. Cette section de l'itinéraire Pologne 14 jours alloue deux nuits complètes à Karpacz, laissant le temps d'explorer sans se presser. De fin novembre à décembre, la saison des marchés de Noël bat son plein, quand la place du marché se remplit de chalets en bois et des senteurs de vin chaud et d'oscypek grillé. De décembre à mars, un enneigement fiable permet le ski de fond sur des pistes damées qui partent près du centre-ville et mènent dans le parc national des Karkonosze. Du printemps à l'automne, ces mêmes sentiers s'ouvrent à la randonnée et au VTT, avec le téléphérique du sommet de Kopa fonctionnant de mai à octobre.",
+          "L'église de Vang, une église en bois debout norvégienne du XIIe siècle déplacée à Karpacz dans les années 1840, se dresse sans clous sur une pente boisée au-dessus de la ville et ouvre ses portes aux visiteurs tous les jours, sauf pendant les offices du dimanche. L'intérieur conserve des sculptures de têtes de dragon d'origine et des inscriptions runiques, et une visite guidée dure environ 30 minutes ; la photographie est autorisée à l'intérieur sans flash. Une courte promenade ou un trajet en bus local depuis l'église mène au musée du temple Wang, qui explique le voyage du bâtiment depuis Vang en Norvège jusqu'à son site actuel. Les billets d'entrée s'achètent au petit kiosque à côté de l'église, et le site est le plus fréquenté entre 11 h et 14 h pendant les semaines de marché de Noël. Visiter tôt le matin ou en fin d'après-midi permet d'éviter les plus grands groupes et offre une meilleure lumière pour photographier le toit en bardeaux.",
+          "Le parc national des Karkonosze protège la partie la plus haute des Sudètes, avec le sommet de Śnieżka atteignant 1 603 mètres et marquant la frontière avec la République tchèque. Des sentiers bien balisés depuis Karpacz mènent au refuge de montagne de Samotnia au bord du lac glaciaire Mały Staw, une boucle d'environ 8 km qui prend 3 à 4 heures à un rythme modéré. L'entrée principale du parc, dans le secteur de l'église de Vang, facture un petit droit de conservation, payable par carte ou en espèces, et est ouverte toute l'année, bien que les sentiers situés au-dessus de 1 200 mètres puissent fermer de novembre à avril en raison du risque de glace et d'avalanche. Le téléphérique de Kopa (1 377 m) fonctionne de mai à octobre et les week-ends en hiver si les conditions le permettent, réduisant l'ascension jusqu'à la crête sommitale à environ 20 minutes. Emportez des vêtements chauds, de l'eau et une lampe frontale, car le temps en montagne change rapidement, même en été.",
+          "L'hébergement à Karpacz va des maisons d'hôtes familiales près de l'église de Vang aux grands hôtels spa avec piscines couvertes au pied des remontées mécaniques, et réserver deux à trois mois à l'est conseillé pour la période du marché de Noël. La plupart des établissements incluent un copieux petit-déjeuner polonais avec charcuterie, fromage, pain et thé chaud, et beaucoup proposent un local à skis et des sèche-chaussures de décembre à mars. Les options de restauration du soir se concentrent sur la place du marché, où les restaurants servent des spécialités régionales telles que la soupe kwaśnica et les pierogi aux champignons sauvages, terminant généralement le service à 21 h. Un bus local relie le centre-ville, l'église de Vang et la station de base du téléphérique toutes les 30 minutes en saison, et des taxis sont disponibles mais limités après 22 h. Le circuit de Noël de 9 jours de Sunday Atlas Travel utilise cette même base de Karpacz pour deux nuits, associant la visite du parc à une matinée libre pour une luge optionnelle ou une séance de spa thermal."
+        ],
+        "ja": [
+          "ヴロツワフからカーパツまでのドライブは約120 km、所要時間は約2時間。カルコノシェ山地の起伏のある丘陵地帯を抜け、標高約480〜880メートルの町に到着します。ポーランド14日間の旅程では、カーパツに2泊を割り当て、ゆっくりと観光を楽しめます。11月下旬から12月はクリスマスマーケットシーズンで、町の広場には木造の屋台が並び、ホットワインやグリルしたオシピエクチーズの香りが漂います。12月から3月までは、積雪が安定し、町の中心付近から始まりカルコノシェ国立公園へと続く整備されたクロスカントリースキーコースが楽しめます。春から秋にかけては、同じトレイルでハイキングやマウンテンバイクが楽しめ、コパ山頂へのケーブルカーは5月から10月まで運行しています。",
+          "ヴァング教会は、12世紀のノルウェーのスタヴ教会で、1840年代にカーパツに移築されました。釘を使わずに建てられ、町の上の木々に覆われた斜面に立っており、日曜の礼拝中を除き毎日見学できます。内部にはオリジナルの竜頭の彫刻やルーン文字の碑文が残っており、ガイド付き見学は約30分です。フラッシュを使わなければ館内での撮影も可能です。教会から徒歩または地元のバスで短い距離にあるワング寺院博物館では、ノルウェーのヴァングから現在の場所へと建物が移された経緯について解説しています。入場券は教会脇の小さなキオスクで購入でき、クリスマスマーケット週間の11:00〜14:00は最も混雑します。早朝または午後遅くに訪れると、大勢のグループを避けられ、シングル屋根の写真もより美しく撮影できます。",
+          "カルコノシェ国立公園はスデテス山地の最高峰を保護しており、標高1,603メートルのシニェシュカ山頂はチェコ共和国との国境をなしています。カーパツからのよく整備されたトレイルは、マウィ・スタウ氷河湖のほとりにあるサモトニャ山小屋へと続き、往復約8 km、標準的なペースで3〜4時間かかります。公園のメインエントランスはヴァング教会エリアにあり、少額の保全料金が必要で、カードまたは現金で支払い可能です。通年オープンですが、標高1,200メートル以上の高いトレイルは11月から4月まで氷や雪崩のリスクにより閉鎖される場合があります。コパ（1,377 m）へのケーブルカーは5月から10月まで、また冬季は週末に条件が許せば運行し、山頂尾根までの登りを約20分に短縮します。夏でも山の天候は急変するため、重ね着、水、ヘッドランプを携帯してください。",
+          "カーパツの宿泊施設は、ヴァング教会近くの家族経営のペンションから、スキーリフトのふもとにある屋内プール付きの大型スパホテルまでさまざまです。クリスマスマーケット期間中は2〜3ヶ月前の予約が推奨されます。ほとんどの施設では、ハム、チーズ、パン、ホットティーを含むボリュームたっぷりのポーランド朝食が提供され、12月から3月まではスキー保管やブーツ乾燥機を備えた施設も多くあります。夕食の選択肢は市場広場を中心に、クラスニツァスープや野生のキノコのピエロギなどの地域の特産料理を提供するレストランがあり、通常21:00までにサービスを終了します。シーズン中は地元のバスが町の中心、ヴァング教会、ケーブルカーのベースステーションを30分ごとに結び、タクシーも利用可能ですが22:00以降は限られています。Sunday Atlas 9日間のクリスマスマーケットツアーでは、同じカーパツ拠点を2泊利用し、公園訪問とオプションのそり遊びまたは温水スパセッションのための自由な朝を組み合わせています。"
+        ],
+        "es": [
+          "El trayecto desde Wrocław hasta Karpacz recorre unos 120 km y dura alrededor de 2 horas a través de las onduladas estribaciones de los montes Karkonosze, llegando a una localidad situada a unos 480 a 880 metros sobre el nivel del mar. Esta sección del itinerario de Polonia de 14 días asigna dos noches completas en Karpacz, permitiendo explorar sin prisas. De finales de noviembre a diciembre llega la temporada de mercados navideños, cuando la plaza del pueblo se llena de puestos de madera y el aroma del vino caliente y el queso oscypek a la parrilla. De diciembre a marzo, la nieve fiable permite esquí de fondo en pistas preparadas que parten cerca del centro del pueblo y conducen al Parque Nacional de los Karkonosze. De primavera a otoño, los mismos senderos se abren para senderismo y mountain bike, con el teleférico a la cima de Kopa funcionando de mayo a octubre.",
+          "La Iglesia de Vang, una iglesia de madera noruega del siglo XII reubicada en Karpacz en la década de 1840, se alza sin clavos en una ladera boscosa sobre el pueblo y abre diariamente para visitantes excepto durante los servicios dominicales. El interior conserva tallas originales de cabezas de dragón e inscripciones rúnicas, y una visita guiada dura unos 30 minutos; se permite fotografiar en el interior sin flash. Un corto paseo o un autobús local desde la iglesia llega al museo del Templo Wang, que explica el viaje del edificio desde Vang en Noruega hasta su ubicación actual. Las entradas se compran en el pequeño quiosco junto a la iglesia, y el sitio está más concurrido entre las 11:00 y las 14:00 durante las semanas de mercado navideño. Visitar temprano por la mañana o al atardecer evita los grupos más grandes y ofrece mejor luz para fotografiar el techo de tejas de madera.",
+          "El Parque Nacional de los Karkonosze protege la parte más alta de los Sudetes, con el pico Śnieżka alcanzando los 1,603 metros y marcando la frontera con la República Checa. Senderos bien señalizados desde Karpacz llevan al refugio de montaña Samotnia junto al lago glaciar Mały Staw, una ida y vuelta de unos 8 km que toma de 3 a 4 horas a paso moderado. La entrada principal del parque en el área de la Iglesia de Vang cobra una pequeña tarifa de conservación, pagable con tarjeta o efectivo, y está abierta todo el año, aunque los senderos superiores a los 1,200 metros pueden cerrar de noviembre a abril debido al hielo y al riesgo de aludes. El teleférico a Kopa (1,377 m) funciona de mayo a octubre y los fines de semana en invierno si las condiciones lo permiten, reduciendo el ascenso a la cresta de la cima a unos 20 minutos. Lleve ropa en capas, agua y una linterna frontal, ya que el clima de montaña cambia rápidamente incluso en verano.",
+          "El alojamiento en Karpacz va desde casas de huéspedes familiares cerca de la Iglesia de Vang hasta hoteles spa más grandes con piscinas cubiertas al pie de los remontes, y reservar con dos o tres meses de antelación es recomendable para el período de mercado navideño. La mayoría de los establecimientos incluyen un abundante desayuno polaco con embutidos, queso, pan y té caliente, y muchos ofrecen guardaesquíes y secadores de botas de diciembre a marzo. Las opciones de cena se centran en la plaza del mercado, donde los restaurantes sirven especialidades regionales como la sopa kwaśnica y pierogi con champiñones silvestres, terminando generalmente el servicio a las 21:00. Un autobús local conecta el centro del pueblo, la Iglesia de Vang y la estación base del teleférico cada 30 minutos en temporada, y hay taxis disponibles pero limitados después de las 22:00. El tour navideño de 9 días de Sunday Atlas Travel utiliza esta misma base en Karpacz durante dos noches, combinando la visita al parque con una mañana libre para trineo opcional o una sesión en un spa termal."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Vang Church, a nail-free Norwegian stave church",
+          "Śnieżka summit at 1,603 meters on the Czech border",
+          "Samotnia hut by Mały Staw glacial lake"
+        ],
+        "de": [
+          "Vang-Kirche, eine nagelfreie norwegische Stabkirche",
+          "Gipfel Śnieżka auf 1.603 Metern an der tschechischen Grenze",
+          "Samotnia-Hütte am Mały Staw-Gletschersee"
+        ],
+        "fr": [
+          "Église de Vang, une église en bois debout norvégienne sans clous",
+          "Sommet de Śnieżka à 1 603 mètres à la frontière tchèque",
+          "Refuge de Samotnia au bord du lac glaciaire Mały Staw"
+        ],
+        "ja": [
+          "釘を使わないノルウェーのスタヴ教会、ヴァング教会",
+          "チェコ国境に位置する標高1,603メートルのシニェシュカ山頂",
+          "マウィ・スタウ氷河湖のほとりのサモトニャ山小屋"
+        ],
+        "es": [
+          "Iglesia de Vang, una iglesia de madera noruega sin clavos",
+          "Pico Śnieżka a 1,603 metros en la frontera checa",
+          "Refugio Samotnia junto al lago glaciar Mały Staw"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive Wrocław–Karpacz",
+            "de": "Fahrt Wrocław–Karpacz",
+            "fr": "Route Wrocław–Karpacz",
+            "ja": "ヴロツワフ〜カーパツ ドライブ",
+            "es": "Trayecto Wrocław–Karpacz"
+          },
+          "value": {
+            "en": "120 km, about 2 hours",
+            "de": "120 km, etwa 2 Stunden",
+            "fr": "120 km, environ 2 heures",
+            "ja": "120 km、約2時間",
+            "es": "120 km, unas 2 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Karpacz altitude range",
+            "de": "Höhenbereich Karpacz",
+            "fr": "Altitude de Karpacz",
+            "ja": "カーパツの標高範囲",
+            "es": "Rango de altitud de Karpacz"
+          },
+          "value": {
+            "en": "480–880 m above sea level",
+            "de": "480–880 m über dem Meeresspiegel",
+            "fr": "480–880 m au-dessus du niveau de la mer",
+            "ja": "海抜480〜880メートル",
+            "es": "480–880 m sobre el nivel del mar"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "9 Days / 8 Nights",
+            "de": "9 Tage / 8 Nächte",
+            "fr": "9 jours / 8 nuits",
+            "ja": "9日間 / 8泊",
+            "es": "9 días / 8 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794155326/sunday-atlas/blog/poland-itinerary-14-days/karpacz-commons-52610131.jpg",
+        "width": 1920,
+        "height": 1277,
+        "alt": {
+          "en": "Wooden church and stone tower in Karpacz, Poland under blue sky.",
+          "de": "Holzkirche und steinerner Turm in Karpacz, Polen unter blauem Himmel.",
+          "fr": "Église en bois et tour de pierre à Karpacz, en Pologne, sous un ciel bleu.",
+          "ja": "ポーランド、カルパツの木造教会と石造りの塔。青空の下にあります。",
+          "es": "Iglesia de madera y torre de piedra en Karpacz, Polonia bajo un cielo azul."
+        },
+        "credit": {
+          "author": "Scotch Mist",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karpacz_43.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Karpacz",
+          "de": "Karpacz",
+          "fr": "Karpacz",
+          "ja": "カーパツ",
+          "es": "Karpacz"
+        }
+      },
+      "embeddedPackageSlug": "poland-christmas-markets-poznan-wroclaw-karpacz-9-days"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How many days do you need in Poland?",
+        "de": "Wie viele Tage benötigen Sie in Polen?",
+        "fr": "Combien de jours faut-il pour visiter la Pologne ?",
+        "ja": "ポーランドに何日必要ですか？",
+        "es": "¿Cuántos días necesitas en Polonia?"
+      },
+      "a": {
+        "en": "You need at least 10 days to cover Kraków, the Beskids and western Poland comfortably, and 14 days lets you add the Polish Jura and Karpacz without long daily drives. A 9-day tour covers one region in depth; two tours back-to-back give 18 days for a full north-south loop.",
+        "de": "Sie benötigen mindestens 10 Tage, um Krakau, die Beskiden und Westpolen bequem zu bereisen, und 14 Tage ermöglichen es Ihnen, die polnische Jura und Karpacz hinzuzufügen, ohne lange Tagesfahrten. Eine 9-tägige Tour deckt eine Region in der Tiefe ab; zwei Touren hintereinander ergeben 18 Tage für eine vollständige Nord-Süd-Rundreise.",
+        "fr": "Prévoyez au moins 10 jours pour découvrir confortablement Cracovie, les Beskides et l'ouest de la Pologne, et 14 jours pour ajouter le Jura polonais et Karpacz sans longs trajets quotidiens. Un circuit de 9 jours permet d'explorer une région en profondeur ; deux circuits consécutifs offrent 18 jours pour une boucle complète du nord au sud.",
+        "ja": "クラクフ、ベスキディ、西ポーランドを快適に回るには最低10日、ポーランド・ジュラとカルパツを加えても長い移動を避けたいなら14日が必要です。9日間のツアーでは1つの地域をじっくり巡り、2つのツアーを連続して参加すれば、南北を横断する18日間のフルループが完成します。",
+        "es": "Necesitas al menos 10 días para recorrer cómodamente Cracovia, los Beskides y el oeste de Polonia, y 14 días te permiten añadir el Jura polaco y Karpacz sin largos trayectos diarios. Un tour de 9 días cubre una región en profundidad; dos tours consecutivos ofrecen 18 días para un circuito completo de norte a sur."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the best month for a Poland itinerary 14 days?",
+        "de": "Welcher Monat ist der beste für eine 14-tägige Polen-Reiseroute?",
+        "fr": "Quel est le meilleur mois pour un itinéraire de 14 jours en Pologne ?",
+        "ja": "ポーランド14日間の旅程に最適な月はいつですか？",
+        "es": "¿Cuál es el mejor mes para un itinerario de 14 días por Polonia?"
+      },
+      "a": {
+        "en": "Late November to December is best for Christmas markets in Kraków, Poznań and Wrocław; December to March adds reliable snow in the Beskids and Karkonosze for skiing and thermal spas; May to September suits hiking, cycling and climbing in the Polish Jura.",
+        "de": "Ende November bis Dezember ist am besten für Weihnachtsmärkte in Krakau, Posen und Breslau; Dezember bis März bringt zuverlässigen Schnee in den Beskiden und im Riesengebirge für Skifahren und Thermalbäder; Mai bis September eignet sich für Wandern, Radfahren und Klettern in der polnischen Jura.",
+        "fr": "De fin novembre à décembre pour les marchés de Noël à Cracovie, Poznań et Wrocław ; de décembre à mars pour la neige fiable dans les Beskides et les Karkonosze, idéale pour le ski et les stations thermales ; de mai à septembre pour la randonnée, le vélo et l'escalade dans le Jura polonais.",
+        "ja": "クラクフ、ポズナン、ヴロツワフのクリスマスマーケットは11月下旬から12月が最適です。12月から3月はベスキディとカルコノーシェで確かな雪が降り、スキーや温泉スパを楽しめます。5月から9月はポーランド・ジュラでのハイキング、サイクリング、クライミングに適しています。",
+        "es": "De finales de noviembre a diciembre es lo mejor para los mercados navideños en Cracovia, Poznań y Breslavia; de diciembre a marzo añade nieve fiable en los Beskides y los Karkonosze para esquiar y disfrutar de balnearios termales; de mayo a septiembre es ideal para hacer senderismo, ciclismo y escalada en el Jura polaco."
+      }
+    },
+    {
+      "q": {
+        "en": "Can I travel this route by train instead of driving?",
+        "de": "Kann ich diese Route mit dem Zug statt mit dem Auto bereisen?",
+        "fr": "Puis-je parcourir cet itinéraire en train au lieu de conduire ?",
+        "ja": "このルートを車ではなく電車で移動できますか？",
+        "es": "¿Puedo recorrer esta ruta en tren en lugar de conducir?"
+      },
+      "a": {
+        "en": "Trains connect Kraków, Katowice, Poznań and Wrocław in 2-3 hours each, but reaching the Beskid resorts, Karpacz and the Jura villages requires a bus or taxi from the nearest station, adding 30-60 minutes per transfer. Private transfers save time on the mountain legs.",
+        "de": "Züge verbinden Krakau, Kattowitz, Posen und Breslau in jeweils 2-3 Stunden, aber um die Beskiden-Orte, Karpacz und die Dörfer der Jura zu erreichen, benötigen Sie einen Bus oder ein Taxi vom nächsten Bahnhof, was 30-60 Minuten pro Transfer hinzufügt. Private Transfers sparen Zeit auf den Bergstrecken.",
+        "fr": "Les trains relient Cracovie, Katowice, Poznań et Wrocław en 2 à 3 heures chacun, mais rejoindre les stations des Beskides, Karpacz et les villages du Jura nécessite un bus ou un taxi depuis la gare la plus proche, ajoutant 30 à 60 minutes par transfert. Les transferts privés permettent de gagner du temps sur les étapes de montagne.",
+        "ja": "クラクフ、カトヴィツェ、ポズナン、ヴロツワフは列車で2〜3時間で結ばれますが、ベスキディのリゾート地、カルパチ、ジュラの村々へは最寄り駅からバスまたはタクシーが必要で、1回の乗り換えに30〜60分追加されます。プライベート送迎を利用すると山岳区間の時間を節約できます。",
+        "es": "Los trenes conectan Cracovia, Katowice, Poznań y Breslavia en 2-3 horas cada uno, pero llegar a los centros turísticos de los Beskides, Karpacz y los pueblos del Jura requiere un autobús o un taxi desde la estación más cercana, lo que añade 30-60 minutos por trayecto. Los traslados privados ahorran tiempo en los tramos de montaña."
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need a visa for Poland?",
+        "de": "Benötige ich ein Visum für Polen?",
+        "fr": "Ai-je besoin d'un visa pour la Pologne ?",
+        "ja": "ポーランドへのビザは必要ですか？",
+        "es": "¿Necesito visado para Polonia?"
+      },
+      "a": {
+        "en": "Poland is in the Schengen Area. Many passport holders can stay up to 90 days in any 180 without a visa; others need a Schengen visa before travel. Check current rules for your passport well before booking; we can provide a hotel confirmation letter if your application requires one.",
+        "de": "Polen gehört zum Schengen-Raum. Viele Inhaber von Reisepässen können bis zu 90 Tage in jedem 180-Tage-Zeitraum ohne Visum bleiben; andere benötigen ein Schengen-Visum vor der Reise. Überprüfen Sie die aktuellen Regeln für Ihren Reisepass gut vor der Buchung; wir können eine Hotelbestätigung ausstellen, falls Ihre Antragstellung eine erfordert.",
+        "fr": "La Pologne fait partie de l'espace Schengen. De nombreux détenteurs de passeport peuvent séjourner jusqu'à 90 jours sur une période de 180 jours sans visa ; d'autres ont besoin d'un visa Schengen avant le voyage. Vérifiez les règles en vigueur pour votre passeport bien avant de réserver ; nous pouvons fournir une lettre de confirmation d'hôtel si votre demande l'exige.",
+        "ja": "ポーランドはシェンゲン圏に属しています。多くのパスポート保持者はビザなしで180日間のうち最大90日間滞在できますが、その他の方は渡航前にシェンゲンビザが必要です。予約の十分前にご自身のパスポートに関する最新の規則をご確認ください。申請にホテル確認書が必要な場合は、当社で発行いたします。",
+        "es": "Polonia pertenece al espacio Schengen. Muchos titulares de pasaporte pueden permanecer hasta 90 días en cualquier período de 180 sin visado; otros necesitan un visado Schengen antes de viajar. Consulta las normas actuales para tu pasaporte con suficiente antelación a la reserva; podemos proporcionar una carta de confirmación del hotel si tu solicitud lo requiere."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Poland Itinerary 14 Days: Kraków, Beskids & Poznań (2027)",
+      "meta_description": "Poland itinerary 14 days with day-by-day route, drive times, overnight towns and best months. Covers Kraków, Beskids, Poznań, Wrocław, Karpacz and the.",
+      "focus_keyword": "poland itinerary 14 days",
+      "keywords": [
+        "poland itinerary 14 days",
+        "2 weeks in poland itinerary",
+        "poland travel itinerary 14 days",
+        "poland itinerary 2 weeks",
+        "14 days in poland",
+        "two weeks in poland",
+        "how many days in poland",
+        "poland winter itinerary"
+      ]
+    },
+    "de": {
+      "seo_title": "Polen-Reiseplan 14 Tage: Krakau, Beskiden & Posen (2027)",
+      "meta_description": "Polen-Reiseplan 14 Tage mit tagesweiser Route, Fahrzeiten, Übernachtungsorten und besten Reisezeiten. Deckt Krakau, Beskiden, Posen, Breslau, Karpacz und das polnische Jura ab.",
+      "focus_keyword": "polen reiseplan 14 tage",
+      "keywords": [
+        "polen reiseplan 14 tage",
+        "2 wochen polen reiseplan",
+        "polen reiseroute 14 tage",
+        "polen reiseplan 2 wochen",
+        "14 tage in polen",
+        "zwei wochen in polen",
+        "wie viele tage in polen",
+        "polen winter reiseplan"
+      ]
+    },
+    "fr": {
+      "seo_title": "Itinéraire Pologne 14 jours : Cracovie, Beskides et Poznań (2027)",
+      "meta_description": "Itinéraire en Pologne de 14 jours avec itinéraire jour après jour, temps de trajet, villes étapes et meilleures périodes. Couvre Cracovie, les Beskides, Poznań, Wrocław, Karpacz et le Jura polonais.",
+      "focus_keyword": "itinéraire Pologne 14 jours",
+      "keywords": [
+        "itinéraire Pologne 14 jours",
+        "2 semaines en Pologne itinéraire",
+        "itinéraire voyage Pologne 14 jours",
+        "itinéraire Pologne 2 semaines",
+        "14 jours en Pologne",
+        "deux semaines en Pologne",
+        "combien de jours en Pologne",
+        "itinéraire hiver Pologne"
+      ]
+    },
+    "ja": {
+      "seo_title": "ポーランド14日間周遊プラン：クラクフ、ベスキディ、ポズナン（2027年）",
+      "meta_description": "ポーランド14日間の日程、移動時間、宿泊地、ベストシーズンを日ごとに解説。クラクフ、ベスキディ、ポズナン、ヴロツワフ、カルパツ、ポーランド・ジュラをカバー。",
+      "focus_keyword": "ポーランド 14日間の旅程",
+      "keywords": [
+        "ポーランド 14日間の旅程",
+        "ポーランド2週間の旅程",
+        "ポーランド旅行 14日間の旅程",
+        "ポーランド 2週間の旅程",
+        "ポーランド14日間",
+        "ポーランド二週間",
+        "ポーランド何日必要",
+        "ポーランド冬の旅程"
+      ]
+    },
+    "es": {
+      "seo_title": "Itinerario de 14 días por Polonia: Cracovia, Beskides y Poznań (2027)",
+      "meta_description": "Itinerario de 14 días por Polonia con ruta día a día, tiempos de conducción, pueblos donde pernoctar y mejores meses. Cubre Cracovia, Beskides, Poznań, Breslavia, Karpacz y el.",
+      "focus_keyword": "itinerario de 14 días por polonia",
+      "keywords": [
+        "itinerario de 14 días por polonia",
+        "2 semanas en polonia itinerario",
+        "itinerario de viaje por polonia 14 días",
+        "itinerario de polonia 2 semanas",
+        "14 días en polonia",
+        "dos semanas en polonia",
+        "cuántos días en polonia",
+        "itinerario de invierno en polonia"
+      ]
+    }
+  },
+  "contentHash": "7291001537519e63"
+}

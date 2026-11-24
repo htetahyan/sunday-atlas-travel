@@ -1,0 +1,1190 @@
+{
+  "slug": "almaty-itinerary-4-days",
+  "published": true,
+  "featured": false,
+  "category": "destination-guide",
+  "destination": "kazakhstan",
+  "countries": [],
+  "publishedAt": "2026-11-05T19:50:39+04:00",
+  "updatedAt": "2026-11-05T19:50:39+04:00",
+  "readingTimeMinutes": 12,
+  "relatedPackages": [
+    "bogdanovich-glacier-day-hike",
+    "turgen-gorge-assy-plateau-2-days",
+    "charyn-kolsai-kaindy-2-days",
+    "3-stans-discovery-14-days"
+  ],
+  "title": {
+    "en": "Almaty Itinerary 4 Days: City, Medeo & Charyn Canyon (2027)",
+    "de": "Almaty-Reiseplan 4 Tage: Stadt, Medeo und Charyn-Canyon (2027)",
+    "fr": "Itinéraire Almaty 4 jours : ville, Medeo et canyon de Charyn (2027)",
+    "ja": "アルマトイ 4日間プラン：市内観光、メデオ、チャリンキャニオン（2027年）",
+    "es": "Itinerario de 4 días en Almaty: ciudad, Medeo y Cañón de Charyn (2027)"
+  },
+  "subtitle": {
+    "en": "Day-by-day route with drive times, where to stay and the best months to visit",
+    "de": "Tagesweise Route mit Fahrzeiten, Unterkünften und der besten Reisezeit",
+    "fr": "Parcours jour par jour avec temps de route, hébergements et meilleures périodes",
+    "ja": "日ごとのルート、所要時間、宿泊先、ベストシーズン",
+    "es": "Ruta día a día con tiempos de conducción, dónde alojarse y los mejores meses para viajar"
+  },
+  "summary": {
+    "en": "A practical 4-day plan covering Almaty highlights, a mountain cable car, Charyn Canyon and the Kolsay Lakes, built from our Kazakhstan tours.",
+    "de": "Ein praktischer 4-Tage-Plan mit den Almaty-Highlights, einer Bergseilbahn, dem Charyn-Canyon und den Kolsay-Seen, basierend auf unseren Kasachstan-Reisen.",
+    "fr": "Un plan pratique de 4 jours couvrant les incontournables d'Almaty, un téléphérique de montagne, le canyon de Charyn et les lacs Kolsay, élaboré à partir de nos circuits au Kazakhstan.",
+    "ja": "アルマトイのハイライト、山岳ロープウェイ、チャリンキャニオン、コルサイ湖を巡る実用的な4日間プラン。当社のカザフスタンツアーに基づいています。",
+    "es": "Un plan práctico de 4 días que cubre los puntos destacados de Almaty, un teleférico de montaña, el Cañón de Charyn y los lagos Kolsay, creado a partir de nuestros tours por Kazajistán."
+  },
+  "intro": {
+    "en": "An Almaty itinerary 4 days covers the city centre, Medeo and Shymbulak at 3,200 metres, Charyn Canyon's Valley of Castles and the first Kolsai lake with an overnight in Saty village. Late May to early October is the reliable season for the mountain roads. This post gives a day-by-day route with realistic drive times, where you sleep each night and which of our tours matches each leg.",
+    "de": "Ein Almaty-Reiseplan über 4 Tage umfasst das Stadtzentrum, Medeo und Shymbulak auf 3.200 Metern, das Tal der Burgen im Charyn-Canyon und den ersten Kolsai-See mit einer Übernachtung im Dorf Saty. Von Ende Mai bis Anfang Oktober sind die Bergstraßen zuverlässig befahrbar. Dieser Beitrag bietet eine tagesweise Route mit realistischen Fahrzeiten, wo Sie jede Nacht übernachten und welche unserer Reisen zu welchem Abschnitt passt.",
+    "fr": "Un itinéraire Almaty 4 jours couvre le centre-ville, Medeo et Shymbulak à 3 200 mètres, la vallée des Châteaux du canyon de Charyn et le premier lac Kolsaï avec une nuit au village de Saty. De fin mai à début octobre est la saison fiable pour les routes de montagne. Cet article donne un parcours jour par jour avec des temps de route réalistes, où vous dormez chaque nuit et lequel de nos circuits correspond à chaque étape.",
+    "ja": "アルマトイ 4日間プランは、市街地、標高3,200メートルのメデオとシュンブルク、チャリンキャニオンのキャッスルバレー、そしてサティ村での一泊を伴うコルサイ湖第一湖を網羅しています。山岳道路が安定するのは5月下旬から10月上旬です。この記事では、日ごとのルート、現実的な所要時間、毎晩の宿泊先、そして各区間に合った当社のツアーをご紹介します。",
+    "es": "Un itinerario de 4 días en Almaty cubre el centro de la ciudad, Medeo y Shymbulak a 3.200 metros, el Valle de los Castillos del Cañón de Charyn y el primer lago Kolsai con una noche en el pueblo de Saty. De finales de mayo a principios de octubre es la temporada fiable para las carreteras de montaña. Este artículo ofrece una ruta día a día con tiempos de conducción realistas, dónde dormir cada noche y cuál de nuestros tours se corresponde con cada tramo."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793893647/sunday-atlas/blog/almaty-itinerary-4-days/almaty-commons-120497443.jpg",
+    "width": 1920,
+    "height": 1280,
+    "alt": {
+      "en": "A rocky river flows through a mountain valley in Almaty, Kazakhstan.",
+      "de": "Ein felsiger Fluss fließt durch ein Bergtal in Almaty, Kasachstan.",
+      "fr": "Une rivière rocheuse traverse une vallée de montagne à Almaty, au Kazakhstan.",
+      "ja": "カザフスタン、アルマトイの山間の谷を流れる岩だらけの川。",
+      "es": "Un río rocoso fluye a través de un valle de montaña en Almaty, Kazajistán."
+    },
+    "credit": {
+      "author": "Асылхан Абдрахманов",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D1%83_%D0%9C%D0%AE%D0%94_%D0%B8_%D0%BD%D0%B0_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D0%9A%D0%BE%D0%BB%D0%B5%D1%81%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B8%D0%B7_%D1%86%D0%B8%D1%80%D0%BA%D0%B0_%D0%9B%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0_%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2,_%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D1%8C%D1%8F_%D0%9B%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%A2%D0%B0%D0%BB%D0%B3%D0%B0%D1%80%D0%B0.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "day-1-almaty-city-medeo-shymbulak",
+      "placeName": {
+        "en": "Almaty",
+        "de": "Almaty",
+        "fr": "Almaty",
+        "ja": "アルマトイ",
+        "es": "Almaty"
+      },
+      "heading": {
+        "en": "Day 1: Almaty city centre, Medeo and Shymbulak",
+        "de": "Tag 1: Almaty Stadtzentrum, Medeo und Shymbulak",
+        "fr": "Jour 1 : centre-ville d'Almaty, Medeo et Shymbulak",
+        "ja": "Day 1：アルマトイ市街地、メデオ、シュンブルク",
+        "es": "Día 1: Centro de Almaty, Medeo y Shymbulak"
+      },
+      "paragraphs": {
+        "en": [
+          "Start Day 1 in Almaty city centre with a walk through Green Bazaar, then continue to Panfilov Park to see Zenkov Cathedral, one of the world's tallest wooden buildings. A short drive of about 15 kilometres brings you to Medeo at 1,691 metres, home to the famous high-altitude skating rink. From Medeo the cable car climbs to Shymbulak at 3,200 metres in roughly 20 minutes, operating year-round. Late spring to early autumn offers clear views of the Zailiyskiy Alatau peaks, while winter turns the area into a ski resort. Allow at least three hours for the cable car round trip and time at the top station.",
+          "The cable car system runs in two sections, Medeo to the middle station and onward to Shymbulak, with cabins departing every few minutes during the regular season from early June to mid-September. At 3,200 metres the air is noticeably thinner, so move slowly and stay hydrated. A marked trail leads from the upper station toward Talgar Pass for those wanting a short acclimatisation walk. The same lift infrastructure is used for our Bogdanovich Glacier day hike, which continues on foot from the pass to the glacier tongue at 3,600 metres. Return to Almaty by late afternoon via the same cable car and road.",
+          "Green Bazaar and Panfilov Park are within walking distance of each other in the central district, making a morning stroll practical before the drive to Medeo. The road from central Almaty to Medeo takes about 30 minutes in normal traffic, but allow 45 minutes on weekends when local visitors head to the mountains. Parking at the Medeo base station fills quickly in July and August, so an early departure around 9 am is advisable. The cable car operates in light rain but closes in high wind or lightning, conditions more common in April and October.",
+          "Evening options in Almaty include a meal near the bazaar area or a short taxi ride to Kok-Tobe Hill for city lights, reached by a separate cable car from the centre. The Day 1 programme matches the first day of our four-day Almaty itinerary and can also be booked as a standalone city and mountain combination. Overnight in Almaty prepares you for the early start to Charyn Canyon on Day 2, a drive of about 200 kilometres. No specialised gear is needed for the city and Shymbulak portion beyond layered clothing and sun protection."
+        ],
+        "de": [
+          "Beginnen Sie Tag 1 im Almatyer Stadtzentrum mit einem Spaziergang über den Grünen Basar, dann geht es weiter in den Panfilow-Park zur Zenkow-Kathedrale, einem der höchsten Holzbauten der Welt. Eine kurze Fahrt von etwa 15 Kilometern bringt Sie nach Medeo auf 1.691 Metern, Heimat der berühmten Hochgebirgs-Eisbahn. Von Medeo steigt die Seilbahn in etwa 20 Minuten nach Shymbulak auf 3.200 Meter hinauf, ganzjährig in Betrieb. Von Ende Mai bis Anfang Oktober bietet sich klare Sicht auf die Gipfel des Zailiyskiy Alatau, während der Winter die Region in ein Skigebiet verwandelt. Planen Sie mindestens drei Stunden für die Seilbahnfahrt hin und zurück sowie für den Aufenthalt an der Bergstation ein.",
+          "Das Seilbahnsystem verläuft in zwei Abschnitten, von Medeo zur Mittelstation und weiter nach Shymbulak, wobei die Kabinen in der regulären Saison von Anfang Juni bis Mitte September alle paar Minuten abfahren. Auf 3.200 Metern ist die Luft merklich dünner, bewegen Sie sich daher langsam und trinken Sie ausreichend. Ein markierter Weg führt von der oberen Station zum Talgar-Pass für alle, die einen kurzen Akklimatisierungsspaziergang unternehmen möchten. Dieselbe Liftinfrastruktur wird für unsere Tageswanderung zum Bogdanowitsch-Gletscher genutzt, die zu Fuß vom Pass bis zur Gletscherzunge auf 3.600 Metern führt. Rückkehr nach Almaty am späten Nachmittag über dieselbe Seilbahn und dieselbe Straße.",
+          "Grüner Basar und Panfilow-Park liegen im zentralen Bezirk in Gehweite voneinander, sodass ein morgendlicher Spaziergang vor der Fahrt nach Medeo praktisch ist. Die Straße vom Zentrum Almatys nach Medeo dauert bei normalem Verkehr etwa 30 Minuten, an Wochenenden, wenn Einheimische in die Berge fahren, sollten Sie 45 Minuten einplanen. Der Parkplatz an der Talstation von Medeo füllt sich im Juli und August schnell, daher ist eine frühe Abfahrt gegen 9 Uhr ratsam. Die Seilbahn fährt bei leichtem Regen, schließt jedoch bei starkem Wind oder Gewitter, Bedingungen, die im April und Oktober häufiger vorkommen.",
+          "Abendoptionen in Almaty umfassen eine Mahlzeit in der Nähe des Basarviertels oder eine kurze Taxifahrt zum Kok-Tobe-Hügel für die Stadtlichter, erreichbar mit einer separaten Seilbahn vom Zentrum aus. Das Programm für Tag 1 entspricht dem ersten Tag unserer viertägigen Almaty-Reise und kann auch als eigenständige Kombination aus Stadt und Bergen gebucht werden. Eine Übernachtung in Almaty bereitet Sie auf den frühen Start zum Charyn-Canyon am Tag 2 vor, eine Fahrt von etwa 200 Kilometern. Für den Stadt- und Shymbulak-Teil ist keine spezielle Ausrüstung nötig, außer mehrlagiger Kleidung und Sonnenschutz."
+        ],
+        "fr": [
+          "Commencez le jour 1 dans le centre-ville d'Almaty par une promenade au Bazar Vert, puis continuez vers le parc Panfilov pour voir la cathédrale Zenkov, l'un des plus hauts bâtiments en bois au monde. Un court trajet d'environ 15 kilomètres vous mène à Medeo à 1 691 mètres, qui abrite la célèbre patinoire de haute altitude. Depuis Medeo, le téléphérique grimpe à Shymbulak à 3 200 mètres en environ 20 minutes, fonctionnant toute l'année. De la fin du printemps au début de l'automne, on profite de vues dégagées sur les sommets du Zailiyskiy Alatau, tandis que l'hiver transforme la zone en station de ski. Prévoyez au moins trois heures pour l'aller-retour en téléphérique et le temps au sommet.",
+          "Le système de téléphérique fonctionne en deux tronçons, Medeo vers la station intermédiaire puis vers Shymbulak, avec des cabines partant toutes les quelques minutes pendant la saison régulière de début juin à mi-septembre. À 3 200 mètres, l'air est nettement plus raréfié, alors avancez lentement et restez hydraté. Un sentier balisé part de la station supérieure vers le col de Talgar pour ceux qui souhaitent une courte marche d'acclimatation. La même infrastructure de remontée est utilisée pour notre randonnée d'une journée au glacier Bogdanovich, qui se poursuit à pied depuis le col jusqu'à la langue glaciaire à 3 600 mètres. Retour à Almaty en fin d'après-midi par le même téléphérique et la même route.",
+          "Le Bazar Vert et le parc Panfilov sont à distance de marche l'un de l'autre dans le quartier central, ce qui rend une promenade matinale pratique avant le trajet vers Medeo. La route du centre d'Almaty à Medeo prend environ 30 minutes dans le trafic normal, mais prévoyez 45 minutes les week-ends quand les visiteurs locaux se rendent en montagne. Le parking à la station de base de Medeo se remplit rapidement en juillet et août, donc un départ matinal vers 9 h est conseillé. Le téléphérique fonctionne sous la pluie légère mais ferme par vent fort ou orage, conditions plus fréquentes en avril et octobre.",
+          "Les options du soir à Almaty incluent un repas près du quartier du bazar ou un court trajet en taxi vers la colline Kok-Tobe pour les lumières de la ville, accessible par un téléphérique séparé depuis le centre. Le programme du jour 1 correspond au premier jour de notre itinéraire Almaty de quatre jours et peut aussi être réservé comme une combinaison ville et montagne indépendante. Nuit à Almaty pour préparer le départ matinal vers le canyon de Charyn le jour 2, un trajet d'environ 200 kilomètres. Aucun équipement spécialisé n'est nécessaire pour la partie ville et Shymbulak au-delà de vêtements en couches et de protection solaire."
+        ],
+        "ja": [
+          "Day 1はアルマトイ市街地からスタート。グリーンバザールを散策した後、パンフィロフ公園へ向かい、世界有数の高さを誇る木造建築ゼンコフ大聖堂をご覧ください。車で約15キロメートルの短いドライブで、標高1,691メートルのメデオへ。ここは有名な高地スケートリンクのある場所です。メデオからロープウェイで約20分で標高3,200メートルのシュンブルクへ到着し、通年運行しています。5月下旬から10月上旬はザイリスキイ・アラタウ山脈の峰々がはっきりと望め、冬にはスキーリゾートに変わります。ロープウェイの往復と山頂での滞在には、少なくとも3時間をお取りください。",
+          "ロープウェイはメデオから中間駅、さらにシュンブルクへと2区間で運行し、通常シーズン（6月上旬から9月中旬頃まで）は数分おきにゴンドラが出発します。標高3,200メートルでは空気が著しく薄いため、ゆっくりと動き、こまめに水分補給をしてください。上部駅からタルガル峠へ向かう遊歩道が整備されており、短い高地順応ウォークを楽しめます。同じリフト設備は、当社のボグダノヴィチ氷河日帰りハイキングにも使用されており、峠から徒歩で氷河の端（標高3,600メートル）まで続きます。同じロープウェイと道路でアルマトイに戻り、午後遅くまでにホテルへ戻ります。",
+          "グリーンバザールとパンフィロフ公園は中心街で徒歩圏内にあり、メデオへのドライブに先立つ午前中の散歩に便利です。中心部からメデオまでの道路は通常の交通状況で約30分ですが、週末は地元の訪問者が山へ向かうため45分を見込んでください。メデオ基地駅の駐車場は7月と8月にすぐに埋まりますので、午前9時頃の早めの出発をお勧めします。ロープウェイは小雨の中でも運行しますが、強風や落雷の際は運休となり、これらの条件は4月と10月に多く見られます。",
+          "アルマトイの夜の選択肢には、バザール周辺での食事や、中心部から別のロープウェイでアクセスできるコクトベ丘への短いタクシー移動があり、市内の夜景を楽しめます。Day 1のプログラムは当社の4日間アルマトイプランの初日に該当し、市内と山を組み合わせた単体プランとしても予約可能です。アルマトイでの一泊により、Day 2のチャリンキャニオンへの早朝出発に備えます（片道約200キロメートルのドライブ）。市内とシュンブルクの部分に必要な特別な装備はなく、重ね着と日焼け対策だけで十分です。"
+        ],
+        "es": [
+          "Comienza el Día 1 en el centro de Almaty con un paseo por el Bazar Verde, luego continúa al Parque Panfilov para ver la Catedral de Zenkov, uno de los edificios de madera más altos del mundo. Un corto trayecto de unos 15 kilómetros te lleva a Medeo a 1.691 metros, sede de la famosa pista de patinaje de gran altitud. Desde Medeo, el teleférico sube a Shymbulak a 3.200 metros en aproximadamente 20 minutos, operando todo el año. De finales de primavera a principios de otoño ofrece vistas despejadas de los picos del Zailiyskiy Alatau, mientras que el invierno convierte la zona en una estación de esquí. Reserva al menos tres horas para el viaje de ida y vuelta en teleférico y tiempo en la estación superior.",
+          "El sistema de teleférico funciona en dos tramos, de Medeo a la estación intermedia y de allí a Shymbulak, con cabinas que salen cada pocos minutos durante la temporada regular, de principios de junio a mediados de septiembre. A 3.200 metros el aire es notablemente más fino, así que muévete despacio y mantente hidratado. Un sendero señalizado parte de la estación superior hacia el Paso Talgar para quienes deseen una corta caminata de aclimatación. La misma infraestructura de remontes se usa en nuestra excursión diaria al Glaciar Bogdanovich, que continúa a pie desde el paso hasta la lengua del glaciar a 3.600 metros. Regreso a Almaty a última hora de la tarde por el mismo teleférico y carretera.",
+          "El Bazar Verde y el Parque Panfilov están a poca distancia el uno del otro en el distrito central, lo que hace práctico un paseo matutino antes del viaje a Medeo. La carretera del centro de Almaty a Medeo tarda unos 30 minutos en tráfico normal, pero calcula 45 minutos los fines de semana, cuando los visitantes locales se dirigen a la montaña. El aparcamiento en la base de Medeo se llena rápido en julio y agosto, por lo que es aconsejable salir temprano, alrededor de las 9 h. El teleférico opera con lluvia ligera pero cierra con viento fuerte o tormentas, condiciones más frecuentes en abril y octubre.",
+          "Las opciones nocturnas en Almaty incluyen una cena cerca de la zona del bazar o un corto trayecto en taxi a la Colina Kok-Tobe para ver las luces de la ciudad, accesible mediante un teleférico independiente desde el centro. El programa del Día 1 coincide con el primer día de nuestro itinerario de cuatro días en Almaty y también puede reservarse como combinación independiente de ciudad y montaña. Noche en Almaty para preparar la salida temprana al Cañón de Charyn el Día 2, un trayecto de unos 200 kilómetros. No se necesita equipo especializado para la parte de ciudad y Shymbulak más allá de ropa por capas y protección solar."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Green Bazaar, Zenkov Cathedral, Medeo cable car to 3,200 m",
+          "Cable car runs year-round, best views June to September",
+          "30-minute drive from centre to Medeo base station"
+        ],
+        "de": [
+          "Grüner Basar, Kathedrale Zenkow, Medeo-Seilbahn auf 3.200 m",
+          "Die Seilbahn verkehrt ganzjährig, beste Aussichten von Juni bis September",
+          "30-minütige Fahrt vom Zentrum zur Talstation Medeo"
+        ],
+        "fr": [
+          "Bazar Vert, cathédrale Zenkov, téléphérique de Medeo jusqu'à 3 200 m",
+          "Le téléphérique fonctionne toute l'année, meilleures vues de juin à septembre",
+          "30 minutes de route du centre jusqu'à la station de base de Medeo"
+        ],
+        "ja": [
+          "グリーンバザール、ゼンコフ大聖堂、メデオケーブルカーで標高3,200 mへ",
+          "ケーブルカーは年間を通じて運行。ベストビューは6月から9月",
+          "中心部からメデオ基地駅まで車で30分"
+        ],
+        "es": [
+          "Bazar Verde, Catedral Zenkov, teleférico a Medeo hasta 3.200 m",
+          "El teleférico funciona todo el año, mejores vistas de junio a septiembre",
+          "30 minutos en coche desde el centro a la estación base de Medeo"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time Almaty to Medeo",
+            "de": "Fahrzeit Almaty nach Medeo",
+            "fr": "Temps de trajet Almaty à Medeo",
+            "ja": "アルマトイからメデオまでの所要時間",
+            "es": "Tiempo en coche Almaty a Medeo"
+          },
+          "value": {
+            "en": "About 30 minutes",
+            "de": "Etwa 30 Minuten",
+            "fr": "Environ 30 minutes",
+            "ja": "約30分",
+            "es": "Unos 30 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Cable car altitude gain",
+            "de": "Höhenunterschied Seilbahn",
+            "fr": "Dénivelé du téléphérique",
+            "ja": "ケーブルカーの標高差",
+            "es": "Desnivel del teleférico"
+          },
+          "value": {
+            "en": "1,691 m to 3,200 m",
+            "de": "1.691 m bis 3.200 m",
+            "fr": "De 1 691 m à 3 200 m",
+            "ja": "1,691 mから3,200 m",
+            "es": "1.691 m a 3.200 m"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $104 USD / person",
+            "de": "Ab $104 USD / Person",
+            "fr": "À partir de $104 USD / personne",
+            "ja": "$104 USD〜 / 1名",
+            "es": "Desde $104 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793893667/sunday-atlas/blog/almaty-itinerary-4-days/almaty-commons-147949371.jpg",
+        "width": 1920,
+        "height": 1440,
+        "alt": {
+          "en": "A residential street in Almaty, Kazakhstan with parked cars and apartment buildings.",
+          "de": "Eine Wohnstraße in Almaty, Kasachstan mit geparkten Autos und Apartmentgebäuden.",
+          "fr": "Une rue résidentielle à Almaty, au Kazakhstan, avec des voitures stationnées et des immeubles d'appartements.",
+          "ja": "カザフスタン、アルマトイの住宅街。駐車された車とアパートメントビルが並ぶ通り。",
+          "es": "Una calle residencial en Almaty, Kazajistán con coches aparcados y edificios de apartamentos."
+        },
+        "credit": {
+          "author": "Matti Blume",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alley,_Almaly,_Almaty_(P1180142).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Almaty",
+          "de": "Almaty",
+          "fr": "Almaty",
+          "ja": "アルマトイ",
+          "es": "Almaty"
+        }
+      },
+      "embeddedPackageSlug": "bogdanovich-glacier-day-hike"
+    },
+    {
+      "id": "day-2-charyn-canyon-kolsai-lake-saty",
+      "placeName": {
+        "en": "Charyn Canyon",
+        "de": "Charyn-Canyon",
+        "fr": "Canyon de Charyn",
+        "ja": "チャリンキャニオン",
+        "es": "Cañón Charyn"
+      },
+      "heading": {
+        "en": "Day 2: Charyn Canyon Valley of Castles to Kolsai Lake and Saty",
+        "de": "Tag 2: Charyn-Canyon Valley of Castles bis Kolsai-See und Saty",
+        "fr": "Jour 2 : Canyon de Charyn, vallée des Châteaux, lac Kolsai et Saty",
+        "ja": "2日目：チャリンキャニオン バレー・オブ・キャッスルからコルサイ湖とサティへ",
+        "es": "Día 2: Valle de los Castillos del Cañón Charyn al lago Kolsai y Saty"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 2 covers about 210 km from Almaty to Charyn Canyon, a drive of roughly 3 hours on paved roads through the steppe. The Valley of Castles trail runs for about 2 km along the canyon floor and takes 1 to 2 hours at a steady pace. Late spring to early autumn is the normal season; winter snow closes the upper trails. After the hike the route continues another 110 km, about 2 hours, to the first Kolsai lake at 1,800 metres. Overnight is in Saty village in a guest house with private shower and WC.",
+          "The Charyn Canyon section is part of our Charyn Canyon, Kolsai & Kaindy Lakes, 2 days private tour that runs from spring to autumn. The tour includes an English-speaking guide for the canyon walk and the lake visit, plus park entry permits. Lunch on day 1 is provided en route, and dinner and breakfast are served at the Saty guest house. Drinking water is supplied throughout both days.",
+          "The drive from the canyon to Kolsai follows the Shelek–Kegen road, which climbs gradually into the Tien Shan foothills. Road conditions are generally good on the main highway but the final stretch to the lake can be rough after rain. A 4x4 vehicle is used for the Kaindy Lake transfer on the following day. Altitude at the first Kolsai lake is about 1,800 metres, so light layers are advised even in summer.",
+          "Saty village sits at roughly 1,750 metres and has basic guest houses with shared double rooms and en-suite facilities. Mobile coverage is limited in the canyon and around the lakes; a local SIM bought in Almaty works best. The tour returns to Almaty on day 3 after visiting Kaindy Lake and its sunken spruce forest. Total driving on day 2 is about 320 km and 5 hours combined."
+        ],
+        "de": [
+          "Tag 2 umfasst etwa 210 km von Almaty zum Charyn-Canyon, eine Fahrt von rund 3 Stunden auf asphaltierten Straßen durch die Steppe. Der Weg Valley of Castles verläuft etwa 2 km entlang des Canyonbodens und dauert in gleichmäßigem Tempo 1 bis 2 Stunden. Die übliche Reisezeit ist von Ende Frühjahr bis Anfang Herbst; im Winter sperrt Schnee die oberen Wanderwege. Nach der Wanderung führt die Strecke weitere 110 km, etwa 2 Stunden, zum ersten Kolsai-See auf 1.800 Metern. Die Übernachtung erfolgt im Dorf Saty in einem Gästehaus mit privater Dusche und WC.",
+          "Der Abschnitt Charyn-Canyon ist Teil unserer privaten 2-tägigen Tour Charyn-Canyon, Kolsai & Kaindy Lakes, die von Frühjahr bis Herbst angeboten wird. Die Tour beinhaltet einen englischsprachigen Guide für den Canyon-Spaziergang und den See-Besuch sowie die Parkgebühren. Das Mittagessen am Tag 1 wird unterwegs serviert, Abendessen und Frühstück werden im Gästehaus in Saty angeboten. Trinkwasser wird während beider Tage bereitgestellt.",
+          "Die Fahrt vom Canyon zum Kolsai-See folgt der Straße Shelek–Kegen, die allmählich in die Ausläufer des Tien Shan ansteigt. Die Straßenverhältnisse sind auf der Hauptstraße im Allgemeinen gut, aber der letzte Abschnitt zum See kann nach Regen uneben sein. Für den Transfer zum Kaindy-See am folgenden Tag wird ein Geländewagen verwendet. Die Höhe am ersten Kolsai-See beträgt etwa 1.800 Meter, daher sind leichte Lagen auch im Sommer ratsam.",
+          "Das Dorf Saty liegt auf etwa 1.750 Metern und verfügt über einfache Gästehäuser mit gemeinsamen Doppelzimmern und eigenen Sanitäranlagen. Der Mobilfunkempfang ist im Canyon und um die Seen begrenzt; eine vor Ort in Almaty gekaufte SIM-Karte funktioniert am besten. Die Tour kehrt am Tag 3 nach Almaty zurück, nachdem der Kaindy-See und sein versunkener Fichtenwald besichtigt wurden. Die Gesamtfahrzeit am Tag 2 beträgt etwa 320 km und 5 Stunden zusammen."
+        ],
+        "fr": [
+          "Le jour 2 couvre environ 210 km d'Almaty au canyon de Charyn, soit environ 3 heures de route sur routes goudronnées à travers la steppe. Le sentier de la vallée des Châteaux s'étend sur environ 2 km le long du fond du canyon et se parcourt en 1 à 2 heures à un rythme régulier. La saison normale s'étend de la fin du printemps au début de l'automne ; la neige hivernale ferme les sentiers supérieurs. Après la randonnée, l'itinéraire se poursuit sur 110 km supplémentaires, soit environ 2 heures, jusqu'au premier lac Kolsai à 1 800 mètres. La nuit se passe dans le village de Saty, dans une maison d'hôtes avec douche et WC privés.",
+          "La section du canyon de Charyn fait partie de notre circuit privé de 2 jours Canyon de Charyn, lacs Kolsai et Kaindy, qui se déroule du printemps à l'automne. Le circuit inclut un guide anglophone pour la randonnée dans le canyon et la visite du lac, ainsi que les permis d'entrée dans le parc. Le déjeuner du jour 1 est fourni en cours de route, et le dîner et le petit-déjeuner sont servis à la maison d'hôtes de Saty. De l'eau potable est fournie tout au long des deux jours.",
+          "La route du canyon au lac Kolsai suit la route Shelek–Kegen, qui monte progressivement vers les contreforts du Tien Shan. L'état des routes est généralement bon sur l'autoroute principale, mais le dernier tronçon jusqu'au lac peut être difficile après la pluie. Un véhicule 4x4 est utilisé pour le transfert vers le lac Kaindy le jour suivant. L'altitude au premier lac Kolsai est d'environ 1 800 mètres, donc des vêtements légers en couches sont conseillés même en été.",
+          "Le village de Saty se situe à environ 1 750 mètres et dispose de maisons d'hôtes simples avec chambres doubles partagées et salles de bain attenantes. La couverture mobile est limitée dans le canyon et autour des lacs ; une carte SIM locale achetée à Almaty fonctionne le mieux. Le circuit retourne à Almaty le jour 3 après avoir visité le lac Kaindy et sa forêt de sapins submergée. Le temps de conduite total du jour 2 est d'environ 320 km et 5 heures combinées."
+        ],
+        "ja": [
+          "2日目はアルマトイからチャリンキャニオンまで約210 km、舗装路をステップ地帯を抜けて約3時間のドライブです。バレー・オブ・キャッスルのトレイルはキャニオンの底に沿って約2 km続き、一定のペースで1〜2時間かかります。通常シーズンは晩春から初秋までで、冬は積雪により上部のトレイルが閉鎖されます。ハイキングの後、さらに約110 km、約2時間で標高1,800メートルのコルサイ湖第一湖へと向かいます。宿泊はサティ村のゲストハウスで、専用シャワーとトイレ付きです。",
+          "チャリンキャニオン区間は、春から秋まで運行する当社の「チャリンキャニオン、コルサイ湖とカインディ湖、2日間プライベートツアー」の一部です。ツアーにはキャニオンウォークと湖訪問のための英語ガイド、公園入場許可証が含まれます。1日目の昼食は途中で提供され、夕食と朝食はサティのゲストハウスで提供されます。両日を通じて飲料水が用意されています。",
+          "キャニオンからコルサイへのドライブはシェレク＝ケゲン道路をたどり、天山山麓へと徐々に登っていきます。主要幹線道路の路面状況は概ね良好ですが、湖への最終区間は雨後は荒れていることがあります。翌日はカインディ湖への移動に4WD車を使用します。最初のコルサイ湖の標高は約1,800メートルなので、夏でも軽い重ね着をお勧めします。",
+          "サティ村は標高約1,750メートルに位置し、共用のダブルルームとバス・トイレ付きの基本的なゲストハウスがあります。キャニオンや湖周辺では携帯電話の電波が限られており、アルマトイで購入した現地SIMカードが最適です。ツアーは3日目にカインディ湖とその沈んだトウヒの森を訪れた後、アルマトイに戻ります。2日目の総走行距離は約320 km、合計約5時間です。"
+        ],
+        "es": [
+          "El día 2 recorre unos 210 km desde Almaty al Cañón Charyn, un trayecto de aproximadamente 3 horas por asfalto a través de la estepa. El sendero del Valle de los Castillos discurre unos 2 km por el fondo del cañón y lleva de 1 a 2 horas a ritmo constante. La temporada normal va de finales de primavera a principios de otoño; la nieve invernal cierra los senderos superiores. Tras la caminata, la ruta continúa otros 110 km, unas 2 horas, hasta el primer lago Kolsai a 1.800 metros. El alojamiento es en el pueblo de Saty, en una casa de huéspedes con ducha y WC privados.",
+          "La sección del Cañón Charyn forma parte de nuestro tour privado Cañón Charyn, Lagos Kolsai y Kaindy, 2 días, que opera de primavera a otoño. El tour incluye guía de habla inglesa para la caminata por el cañón y la visita al lago, además de los permisos de entrada al parque. El almuerzo del día 1 se sirve en ruta, y la cena y el desayuno en la casa de huéspedes de Saty. Agua potable disponible durante los dos días.",
+          "El trayecto del cañón a Kolsai sigue la carretera Shelek–Kegen, que asciende gradualmente a los pies del Tian Shan. El estado de la vía es generalmente bueno en la carretera principal, pero el tramo final al lago puede estar en mal estado tras la lluvia. Se utiliza un vehículo 4x4 para el traslado al lago Kaindy al día siguiente. La altitud del primer lago Kolsai es de unos 1.800 metros, por lo que se recomiendan capas ligeras incluso en verano.",
+          "El pueblo de Saty está a unos 1.750 metros y cuenta con casas de huéspedes básicas con habitaciones dobles compartidas y baño privado. La cobertura móvil es limitada en el cañón y alrededor de los lagos; una SIM local comprada en Almaty funciona mejor. El tour regresa a Almaty el día 3 tras visitar el lago Kaindy y su bosque sumergido de píceas. El total de conducción del día 2 es de unos 320 km y 5 horas combinadas."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Valley of Castles 2 km hike",
+          "First Kolsai lake at 1,800 metres",
+          "Overnight in Saty guest house"
+        ],
+        "de": [
+          "Wanderung Valley of Castles 2 km",
+          "Erster Kolsai-See auf 1.800 Metern",
+          "Übernachtung im Gästehaus in Saty"
+        ],
+        "fr": [
+          "Randonnée de 2 km dans la vallée des Châteaux",
+          "Premier lac Kolsai à 1 800 mètres",
+          "Nuit dans une maison d'hôtes à Saty"
+        ],
+        "ja": [
+          "バレー・オブ・キャッスル 2 kmハイキング",
+          "コルサイ湖第一湖 標高1,800メートル",
+          "サティのゲストハウスに宿泊"
+        ],
+        "es": [
+          "Caminata 2 km Valle de los Castillos",
+          "Primer lago Kolsai a 1.800 metros",
+          "Noche en casa de huéspedes de Saty"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive Almaty to Charyn",
+            "de": "Fahrt Almaty nach Charyn",
+            "fr": "Trajet Almaty à Charyn",
+            "ja": "アルマトイからチャリンキャニオンまでのドライブ",
+            "es": "Coche Almaty a Charyn"
+          },
+          "value": {
+            "en": "about 210 km, 3 hours",
+            "de": "etwa 210 km, 3 Stunden",
+            "fr": "environ 210 km, 3 heures",
+            "ja": "約210 km、3時間",
+            "es": "unos 210 km, 3 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Charyn to Kolsai",
+            "de": "Charyn nach Kolsai",
+            "fr": "Charyn à Kolsai",
+            "ja": "チャリンキャニオンからコルサイまで",
+            "es": "Charyn a Kolsai"
+          },
+          "value": {
+            "en": "about 110 km, 2 hours",
+            "de": "etwa 110 km, 2 Stunden",
+            "fr": "environ 110 km, 2 heures",
+            "ja": "約110 km、2時間",
+            "es": "unos 110 km, 2 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "2 Days / 1 Nights",
+            "de": "2 Tage / 1 Nächte",
+            "fr": "2 jours / 1 nuits",
+            "ja": "2日間 / 1泊",
+            "es": "2 días / 1 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $468 USD / person",
+            "de": "Ab $468 USD / Person",
+            "fr": "À partir de $468 USD / personne",
+            "ja": "$468 USD〜 / 1名",
+            "es": "Desde $468 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793893670/sunday-atlas/blog/almaty-itinerary-4-days/charyn-canyon-commons-143020517.jpg",
+        "width": 1920,
+        "height": 1078,
+        "alt": {
+          "en": "Charyn Canyon in Kazakhstan with layered rock formations under a cloudy sky.",
+          "de": "Der Charyn-Canyon in Kasachstan mit geschichteten Felsformationen unter einem bewölkten Himmel.",
+          "fr": "Le canyon de Charyn au Kazakhstan, avec ses formations rocheuses stratifiées sous un ciel nuageux.",
+          "ja": "カザフスタン、チャリンキャニオン。雲の広がる空の下、層状の岩層が広がる。",
+          "es": "Cañón de Charyn en Kazajistán con formaciones rocosas estratificadas bajo un cielo nublado."
+        },
+        "credit": {
+          "author": "Bgag",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charyn_Canyon,_Kazakhstan_01.jpg",
+          "provider": "commons",
+          "required": false
+        },
+        "caption": {
+          "en": "Charyn Canyon",
+          "de": "Charyn-Canyon",
+          "fr": "Canyon de Charyn",
+          "ja": "チャリンキャニオン",
+          "es": "Cañón Charyn"
+        }
+      },
+      "embeddedPackageSlug": "charyn-kolsai-kaindy-2-days"
+    },
+    {
+      "id": "day-3-kaindy-lake-return-to-almaty",
+      "placeName": {
+        "en": "Kaindy Lake",
+        "de": "Kaindy Lake",
+        "fr": "Lac Kaindy",
+        "ja": "カインディ湖",
+        "es": "Lago Kaindy"
+      },
+      "heading": {
+        "en": "Day 3: Kaindy Lake sunken forest and return to Almaty",
+        "de": "Tag 3: Kaindy Lake versunkener Wald und Rückkehr nach Almaty",
+        "fr": "Jour 3 : forêt engloutie du lac Kaindy et retour à Almaty",
+        "ja": "Day 3: カインディ湖の沈没林とアルマトイへの帰路",
+        "es": "Día 3: Bosque sumergido del lago Kaindy y regreso a Almaty"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 3 begins with a 4x4 shuttle from Saty to Kaindy Lake at about 2,000 metres altitude, a short drive of roughly 30 minutes on a rough mountain track. The lake formed after a 1911 earthquake triggered a landslide that blocked the valley and submerged a spruce forest. You walk the shoreline to see the pale trunks rising from the turquoise water, a view that is clearest from June through September. After the visit you start the return drive to Almaty, covering about 300 km in roughly five to six hours depending on road conditions. The route follows the Kegen highway back through the steppe foothills to the city.",
+          "The 4x4 transfer to Kaindy is included because the final stretch is impassable for standard vehicles, especially after rain. Our guide meets you at the Saty guest house after breakfast and handles the park permit for the Kaindy reserve. You spend about two hours at the lake, enough time for the shoreline walk and photographs of the sunken trees. Lunch is a packed meal or a stop at a roadside café on the return leg. The drive back enters Almaty in the late afternoon, leaving the evening free.",
+          "Late spring to early autumn is the reliable season for this lake; winter snow closes the access track and the 4x4 shuttles do not run. If you travel in May or early June, bring layers for cool mornings at 2,000 metres and a waterproof jacket for sudden showers. The altitude is moderate but the track can be bumpy, so travellers with back issues should advise the guide in advance. Mobile signal is patchy along the Kegen road, so download offline maps before departure.",
+          "This day matches the second day of our Charyn Canyon, Kolsai & Kaindy Lakes, 2 days private tour, which runs from spring to autumn and includes the 4x4 shuttle, park permits, guide, meals and the return transfer to Almaty. The tour picks up in Almaty on Day 1, visits Charyn Canyon and Kolsai Lake, overnight in Saty, then covers Kaindy Lake and the return drive on Day 2. Travellers following this four-day plan simply join the same Day 2 logistics after their own Day 1 and Day 2 activities."
+        ],
+        "de": [
+          "Tag 3 beginnt mit einem 4x4-Shuttle von Saty zum Kaindy Lake auf etwa 2.000 Metern Höhe, eine kurze Fahrt von rund 30 Minuten auf einer rauen Bergpiste. Der See entstand nach einem Erdbeben im Jahr 1911, das einen Erdrutsch auslöste, der das Tal blockierte und einen Fichtenwald überschwemmte. Sie gehen am Ufer entlang, um die blassen Stämme zu sehen, die aus dem türkisfarbenen Wasser ragen – ein Anblick, der von Juni bis September am klarsten ist. Nach dem Besuch beginnt die Rückfahrt nach Almaty, bei der etwa 300 km in rund fünf bis sechs Stunden zurückgelegt werden, je nach Straßenverhältnissen. Die Route folgt der Kegen-Highway zurück durch die Steppenausläufer zur Stadt.",
+          "Der 4x4-Transfer nach Kaindy ist inbegriffen, weil das letzte Stück für Standardfahrzeuge unpassierbar ist, besonders nach Regen. Unser Guide trifft Sie nach dem Frühstück im Saty-Gästehaus und kümmert sich um die Parkgenehmigung für das Kaindy-Reservat. Sie verbringen etwa zwei Stunden am See, genug Zeit für den Uferweg und Fotos der versunkenen Bäume. Das Mittagessen ist ein Lunchpaket oder ein Stopp in einem Straßencafé auf dem Rückweg. Die Rückfahrt erreicht Almaty am späten Nachmittag und lässt den Abend frei.",
+          "Spätes Frühjahr bis früher Herbst ist die zuverlässige Jahreszeit für diesen See; im Winter schließt Schnee die Zufahrtspiste und die 4x4-Shuttles fahren nicht. Wenn Sie im Mai oder Anfang Juni reisen, bringen Sie Schichten für kühle Morgen auf 2.000 Metern mit und eine Regenjacke für plötzliche Schauer. Die Höhe ist moderat, aber die Piste kann holprig sein, daher sollten Reisende mit Rückenproblemen den Guide im Voraus informieren. Der Mobilfunkempfang ist entlang der Kegen-Straße lückenhaft, laden Sie daher Offline-Karten vor der Abreise herunter.",
+          "Dieser Tag entspricht dem zweiten Tag unserer Charyn Canyon, Kolsai & Kaindy Lakes, 2 days private tour, die von Frühjahr bis Herbst läuft und den 4x4-Shuttle, Parkgenehmigungen, Guide, Mahlzeiten und den Rücktransfer nach Almaty umfasst. Die Tour startet am Tag 1 in Almaty, besucht den Charyn-Canyon und den Kolsai Lake, übernachtet in Saty und deckt dann den Kaindy Lake und die Rückfahrt am Tag 2 ab. Reisende, die diesem Vier-Tage-Plan folgen, stoßen einfach auf dieselbe Logistik am Tag 2 nach ihren eigenen Aktivitäten am Tag 1 und Tag 2."
+        ],
+        "fr": [
+          "Le jour 3 commence par une navette 4x4 de Saty au lac Kaindy, à environ 2 000 mètres d'altitude, un court trajet d'environ 30 minutes sur une piste de montagne accidentée. Le lac s'est formé après qu'un tremblement de terre en 1911 a déclenché un glissement de terrain qui a bloqué la vallée et submergé une forêt d'épicéas. Vous longez le rivage pour voir les troncs pâles émerger des eaux turquoise, une vue la plus nette de juin à septembre. Après la visite, vous entamez le trajet retour vers Almaty, parcourant environ 300 km en cinq à six heures selon l'état de la route. L'itinéraire suit l'autoroute de Kegen à travers les contreforts steppiques jusqu'à la ville.",
+          "Le transfert en 4x4 jusqu'à Kaindy est inclus car le dernier tronçon est impraticable pour les véhicules standards, surtout après la pluie. Notre guide vous retrouve à la maison d'hôtes de Saty après le petit-déjeuner et s'occupe du permis pour la réserve de Kaindy. Vous passez environ deux heures au lac, le temps de faire la promenade au bord de l'eau et de photographier les arbres submergés. Le déjeuner est un repas préparé ou un arrêt dans un café routier sur le trajet retour. La route revient à Almaty en fin d'après-midi, laissant la soirée libre.",
+          "De la fin du printemps au début de l'automne est la saison fiable pour ce lac ; la neige hivernale ferme la piste d'accès et les navettes 4x4 ne circulent pas. Si vous voyagez en mai ou début juin, apportez des vêtements chauds pour les matins frais à 2 000 mètres et une veste imperméable pour les averses soudaines. L'altitude est modérée mais la piste peut être cahoteuse, donc les voyageurs ayant des problèmes de dos doivent en informer le guide à l'avance. La couverture mobile est irrégulière le long de la route de Kegen, alors téléchargez des cartes hors ligne avant le départ.",
+          "Cette journée correspond au deuxième jour de notre circuit privé de 2 jours Charyn Canyon, Kolsai & Kaindy Lakes, qui se déroule du printemps à l'automne et inclut la navette 4x4, les permis de parc, le guide, les repas et le transfert retour à Almaty. Le circuit prend en charge à Almaty le jour 1, visite le canyon de Charyn et le lac Kolsai, passe la nuit à Saty, puis couvre le lac Kaindy et le trajet retour le jour 2. Les voyageurs suivant ce plan de quatre jours rejoignent simplement la même logistique du jour 2 après leurs propres activités des jours 1 et 2."
+        ],
+        "ja": [
+          "3日目は、サティから標高約2,000メートルのカインディ湖まで4WDシャトルで向かいます。荒れた山道を約30分走る短いドライブです。湖は1911年の地震で引き起こされた地滑りが谷をせき止め、トウヒの森を水没させたことで形成されました。湖岸を歩き、エメラルドグリーンの水面からそびえる淡い幹をご覧ください。この景色は6月から9月にかけて最も美しく見えます。見学後、アルマトイへの帰路につきます。道路状況によりますが、約300kmを5〜6時間で走行します。ルートはケゲン高速道路を経て、ステップの丘陵地帯を抜けて市内へと戻ります。",
+          "カインディへの4WD送迎は料金に含まれています。最終区間は標準車両では通行不能であり、特に雨後は困難です。当社のガイドが朝食後にサティのゲストハウスでお出迎えし、カインディ保護区の公園許可証の手続きを代行します。湖では約2時間を過ごし、湖岸散策と沈没した木々の写真撮影の時間を確保します。昼食は持参弁当か、帰路の道端カフェでの立ち寄りとなります。アルマトイへの帰路は午後遅くに市内に到着し、夜は自由時間です。",
+          "晩春から初秋にかけてがこの湖を訪れる信頼できるシーズンです。冬は雪でアクセス道路が閉鎖され、4WDシャトルも運行しません。5月または6月初旬にご旅行の場合は、標高2,000メートルの涼しい朝に備えて重ね着と、急な夕立に備えた防水ジャケットをご持参ください。標高は中程度ですが、道は凸凹しているため、腰に不安のある方は事前にガイドにお知らせください。ケゲン道路沿いは携帯電話の電波が不安定なので、出発前にオフラインマップをダウンロードしておくことをお勧めします。",
+          "この日は、当社の「チャリンキャニオン、コルサイ湖、カインディ湖 2日間プライベートツアー」の2日目に相当します。このツアーは春から秋にかけて運行し、4WDシャトル、公園許可証、ガイド、食事、アルマトイへの帰路送迎が含まれています。1日目にアルマトイを出発し、チャリンキャニオンとコルサイ湖を訪れ、サティに宿泊。2日目にカインディ湖と帰路をカバーします。4日間プランをご利用の方は、ご自身の1日目と2日目のアクティビティの後、同じ2日目のロジスティクスにご参加いただけます。"
+        ],
+        "es": [
+          "El día 3 comienza con un traslado en 4x4 desde Saty hasta el lago Kaindy, a unos 2.000 metros de altitud, un trayecto corto de aproximadamente 30 minutos por una pista de montaña accidentada. El lago se formó tras un terremoto en 1911 que provocó un deslizamiento de tierra que bloqueó el valle y sumergió un bosque de abetos. Camina por la orilla para ver los troncos pálidos que emergen del agua turquesa, una vista más clara de junio a septiembre. Después de la visita, inicias el viaje de regreso a Almaty, recorriendo unos 300 km en aproximadamente cinco o seis horas, según las condiciones de la carretera. La ruta sigue la carretera de Kegen de vuelta a través de las estribaciones de la estepa hasta la ciudad.",
+          "El traslado en 4x4 a Kaindy está incluido porque el tramo final es intransitable para vehículos estándar, especialmente después de la lluvia. Nuestro guía te encuentra en la casa de huéspedes de Saty después del desayuno y gestiona el permiso del parque para la reserva de Kaindy. Pasas unas dos horas en el lago, tiempo suficiente para el paseo por la orilla y las fotografías de los árboles sumergidos. El almuerzo es una comida empacada o una parada en un café de carretera en el tramo de regreso. El viaje de regreso llega a Almaty a última hora de la tarde, dejando la noche libre.",
+          "De finales de primavera a principios de otoño es la temporada confiable para este lago; la nieve invernal cierra el camino de acceso y los traslados en 4x4 no operan. Si viajas en mayo o principios de junio, trae ropa de abrigo para las mañanas frescas a 2.000 metros y una chaqueta impermeable para lluvias repentinas. La altitud es moderada, pero la pista puede ser irregular, por lo que los viajeros con problemas de espalda deben informar al guía con antelación. La señal de móvil es irregular a lo largo de la carretera de Kegen, así que descarga mapas sin conexión antes de la salida.",
+          "Este día coincide con el segundo día de nuestro tour privado de 2 días por el Cañón de Charyn, los lagos Kolsai y Kaindy, que se realiza de primavera a otoño e incluye el traslado en 4x4, los permisos del parque, el guía, las comidas y el traslado de regreso a Almaty. El tour sale de Almaty el Día 1, visita el Cañón de Charyn y el lago Kolsai, pernocta en Saty, y luego cubre el lago Kaindy y el viaje de regreso el Día 2. Los viajeros que sigan este plan de cuatro días simplemente se unen a la misma logística del Día 2 después de sus propias actividades del Día 1 y el Día 2."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "4x4 shuttle to 2,000 m sunken forest",
+          "300 km return drive to Almaty",
+          "Best months June to September"
+        ],
+        "de": [
+          "4x4-Shuttle zum 2.000 m versunkenen Wald",
+          "300 km Rückfahrt nach Almaty",
+          "Beste Monate Juni bis September"
+        ],
+        "fr": [
+          "Navette 4x4 vers la forêt engloutie à 2 000 m",
+          "Trajet retour de 300 km vers Almaty",
+          "Meilleurs mois : juin à septembre"
+        ],
+        "ja": [
+          "標高2,000メートルの沈没林への4WDシャトル",
+          "アルマトイまでの300キロの帰路ドライブ",
+          "ベストシーズン 6月から9月"
+        ],
+        "es": [
+          "Traslado en 4x4 al bosque sumergido a 2.000 m",
+          "Viaje de regreso de 300 km a Almaty",
+          "Los mejores meses: de junio a septiembre"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Lake altitude",
+            "de": "Seehöhe",
+            "fr": "Altitude du lac",
+            "ja": "湖の標高",
+            "es": "Altitud del lago"
+          },
+          "value": {
+            "en": "about 2,000 metres",
+            "de": "etwa 2.000 Meter",
+            "fr": "environ 2 000 mètres",
+            "ja": "約2,000メートル",
+            "es": "unos 2.000 metros"
+          }
+        },
+        {
+          "label": {
+            "en": "Return drive",
+            "de": "Rückfahrt",
+            "fr": "Trajet retour",
+            "ja": "帰路ドライブ",
+            "es": "Viaje de regreso"
+          },
+          "value": {
+            "en": "about 300 km, 5-6 hours",
+            "de": "etwa 300 km, 5–6 Stunden",
+            "fr": "environ 300 km, 5-6 heures",
+            "ja": "約300キロ、5〜6時間",
+            "es": "unos 300 km, 5-6 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "2 Days / 1 Nights",
+            "de": "2 Tage / 1 Nächte",
+            "fr": "2 jours / 1 nuits",
+            "ja": "2日間 / 1泊",
+            "es": "2 días / 1 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $468 USD / person",
+            "de": "Ab $468 USD / Person",
+            "fr": "À partir de $468 USD / personne",
+            "ja": "$468 USD〜 / 1名",
+            "es": "Desde $468 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793893684/sunday-atlas/blog/almaty-itinerary-4-days/kaindy-lake-commons-149695547.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Kaindy Lake in Kazakhstan with submerged tree trunks rising from turquoise water.",
+          "de": "Der Kaindy-See in Kasachstan mit untergetauchten Baumstämmen, die aus türkisem Wasser ragen.",
+          "fr": "Le lac Kaindy au Kazakhstan, avec des troncs d'arbres submergés émergeant d'une eau turquoise.",
+          "ja": "カザフスタン、カインディ湖。ターコイズブルーの水面から立ち上がる水没した木の幹。",
+          "es": "Lago Kaindy en Kazajistán con troncos de árboles sumergidos que emergen de aguas turquesas."
+        },
+        "credit": {
+          "author": "RS128",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B7.%D0%9A%D0%90%D0%98%D0%9D%D0%94%D0%AB.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Kaindy Lake",
+          "de": "Kaindy Lake",
+          "fr": "Lac Kaindy",
+          "ja": "カインディ湖",
+          "es": "Lago Kaindy"
+        }
+      },
+      "embeddedPackageSlug": "charyn-kolsai-kaindy-2-days"
+    },
+    {
+      "id": "day-4-turgen-gorge-assy-plateau",
+      "placeName": {
+        "en": "Turgen Gorge",
+        "de": "Turgen Gorge",
+        "fr": "Turgen Gorge",
+        "ja": "トゥルゲン渓谷",
+        "es": "Turgen Gorge"
+      },
+      "heading": {
+        "en": "Day 4: Turgen Gorge waterfall hike and Assy Plateau off-road day",
+        "de": "Tag 4: Turgen Gorge Wasserfall-Wanderung und Assy Plateau Offroad-Tag",
+        "fr": "Jour 4 : randonnée à la cascade de Turgen Gorge et journée tout-terrain sur le plateau d'Assy",
+        "ja": "Day 4: トゥルゲン渓谷の滝ハイキングとアッシ高原オフロードデー",
+        "es": "Día 4: Senderismo a la cascada de Turgen Gorge y día todoterreno en la meseta de Assy"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 4 starts with a 90 km drive east from Almaty to Turgen Gorge, taking about two hours on paved roads before the trailhead. The guided hike to Kairak waterfall covers roughly 6 km round trip through spruce forest and gains about 300 metres of elevation, usually completed in three to four hours at a moderate pace. Late June through September offers reliable trail conditions and full water flow, while early October adds autumn colour but cooler mornings. Sturdy hiking boots, a wind layer and at least two litres of water per person are recommended for the exposed sections near the falls. Our guide carries a first-aid kit and handles the Ile-Alatau National Park permit included in the tour.",
+          "After the hike the group transfers to our glamping camp in Turgen Gorge for a short rest and a hot lunch before the afternoon off-road segment begins. The camp sits at approximately 1,800 metres and provides furnished double tents with beds, mattresses, pillows, sleeping bags and linen, plus shared showers and toilets. The drive from the camp onto the Assy Plateau climbs steep dirt switchbacks in a 4x4, gaining 1,200 metres over roughly 35 km and taking about two hours each way. Summer-only access from late June to early September is typical because snow blocks the high passes outside this window. The off-road day on the plateau runs from mid-morning to late afternoon with several short walks between viewpoints.",
+          "The Assy Plateau sits at about 3,000 metres and stretches across rolling alpine meadows dotted with ancient burial mounds and a modern solar observatory. Clear days reveal a panorama of the Zailiyskiy Alatau peaks to the south and the steppe extending north toward Lake Balkhash. Weather changes quickly at this altitude, so a warm hat, gloves and a waterproof shell are essential even in July. The guide adjusts the route based on ground conditions and group pace, typically covering 15 to 20 km of off-road tracks during the full day. Lunch is a packed picnic eaten on the plateau before the return descent to the camp.",
+          "The final descent from the Assy Plateau to Almaty follows the same off-road track back to the paved highway, then continues 90 km west to the city, arriving in the early evening after roughly three hours of driving. Dinner on Day 4 is not included, giving flexibility to choose a restaurant in Almaty after drop-off at your hotel. The two-day Turgen Gorge and Assy Plateau tour operates as a private departure with an English-speaking guide, 4x4 transport, park permits, one night at the glamping camp, two lunches, one dinner and one breakfast. Booking several weeks ahead is advised for the short summer season when the high plateau is accessible."
+        ],
+        "de": [
+          "Tag 4 beginnt mit einer 90 km langen Fahrt östlich von Almaty zur Turgen Gorge, die etwa zwei Stunden auf asphaltierten Straßen bis zum Wanderstart dauert. Die geführte Wanderung zum Kairak-Wasserfall umfasst etwa 6 km Hin- und Rückweg durch Fichtenwald und überwindet etwa 300 Höhenmeter, gewöhnlich in drei bis vier Stunden in gemächlichem Tempo. Spätes Juni bis September bietet zuverlässige Wegbedingungen und vollen Wasserfluss, während der frühe Oktober Herbstfarben, aber kühlere Morgen bringt. Feste Wanderschuhe, eine Windschicht und mindestens zwei Liter Wasser pro Person werden für die exponierten Abschnitte nahe der Fälle empfohlen. Unser Guide trägt ein Erste-Hilfe-Set und kümmert sich um die Genehmigung des Ile-Alatau-Nationalparks, die in der Tour enthalten ist.",
+          "Nach der Wanderung transferiert die Gruppe zu unserem Glamping-Camp in der Turgen Gorge für eine kurze Pause und ein warmes Mittagessen, bevor der Offroad-Abschnitt am Nachmittag beginnt. Das Camp liegt auf etwa 1.800 Metern und bietet möblierte Doppelzelte mit Betten, Matratzen, Kissen, Schlafsäcken und Bettwäsche sowie gemeinsame Duschen und Toiletten. Die Fahrt vom Camp auf das Assy-Plateau erklimmt steile Schotter-Serpentinen in einem 4x4, überwindet 1.200 Höhenmeter auf etwa 35 km und dauert etwa zwei Stunden pro Richtung. Sommerzugang von Ende Juni bis Anfang September ist typisch, weil Schnee die hohen Pässe außerhalb dieses Zeitraums blockiert. Der Offroad-Tag auf dem Plateau läuft von Vormittag bis späten Nachmittag mit mehreren kurzen Spaziergängen zwischen Aussichtspunkten.",
+          "Das Assy-Plateau liegt auf etwa 3.000 Metern und erstreckt sich über wellige alpine Wiesen, die von alten Grabhügeln und einer modernen Sonnenobservatorium durchzogen sind. An klaren Tagen eröffnet sich ein Panorama der Zailiyskiy Alatau-Gipfel im Süden und der Steppe, die sich nördlich bis zum Lake Balkhash erstreckt. Das Wetter wechselt in dieser Höhe schnell, daher sind ein warmer Hut, Handschuhe und eine wasserdichte Jacke selbst im Juli unverzichtbar. Unser Guide passt die Route an die Bodenverhältnisse und das Gruppentempo an und legt dabei in der Regel 15 bis 20 km an Offroad-Strecken während des gesamten Tages zurück. Das Mittagessen ist ein Picknick zum Mitnehmen, das auf dem Plateau eingenommen wird, bevor der Rückweg zum Camp führt.",
+          "Die letzte Abfahrt vom Assy-Plateau nach Almaty folgt derselben Offroad-Strecke zurück zur asphaltierten Straße und führt dann 90 km westlich in die Stadt, wo man am frühen Abend nach etwa drei Stunden Fahrt ankommt. Das Abendessen am Tag 4 ist nicht inbegriffen, sodass Sie nach der Ankunft an Ihrem Hotel flexibel ein Restaurant in Almaty wählen können. Die zweitägige Tour durch die Turgen-Schlucht und das Assy-Plateau wird als private Abreise mit einem englischsprachigen Guide, 4x4-Transport, Parkgebühren, einer Nacht im Glamping-Camp, zwei Mittagessen, einem Abendessen und einem Frühstück angeboten. Eine Buchung mehrere Wochen im Voraus wird empfohlen für die kurze Sommersaison, wenn das Hochplateau zugänglich ist."
+        ],
+        "fr": [
+          "Le jour 4 commence par un trajet de 90 km vers l'est depuis Almaty jusqu'à Turgen Gorge, prenant environ deux heures sur des routes goudronnées avant le point de départ de la randonnée. La randonnée guidée jusqu'à la cascade Kairak couvre environ 6 km aller-retour à travers une forêt d'épicéas et gagne environ 300 mètres de dénivelé, généralement complétée en trois à quatre heures à un rythme modéré. De fin juin à septembre offre des conditions de sentier fiables et un débit d'eau complet, tandis que début octobre ajoute des couleurs automnales mais des matins plus frais. Des chaussures de randonnée robustes, une couche coupe-vent et au moins deux litres d'eau par personne sont recommandés pour les sections exposées près des chutes. Notre guide transporte une trousse de premiers secours et s'occupe du permis du parc national d'Ile-Alatau inclus dans le circuit.",
+          "Après la randonnée, le groupe se rend à notre camp de glamping dans Turgen Gorge pour un court repos et un déjeuner chaud avant que le segment tout-terrain de l'après-midi ne commence. Le camp se situe à environ 1 800 mètres et propose des tentes doubles meublées avec lits, matelas, oreillers, sacs de couchage et linge de lit, ainsi que des douches et toilettes partagées. La route du camp jusqu'au plateau d'Assy grimpe des lacets de terre raides en 4x4, gagnant 1 200 mètres sur environ 35 km et prenant environ deux heures chaque sens. L'accès estival uniquement de fin juin à début septembre est typique car la neige bloque les hauts cols en dehors de cette période. La journée tout-terrain sur le plateau se déroule de mi-matinée à fin d'après-midi avec plusieurs courtes marches entre les points de vue.",
+          "Le plateau d'Assy se situe à environ 3 000 mètres et s'étend sur des prairies alpines ondulées parsemées de tumulus anciens et d'un observatoire solaire moderne. Les jours dégagés offrent un panorama sur les pics du Zailiyskiy Alatau au sud et sur la steppe s'étirant vers le nord jusqu'au lac Balkhash. Le temps change rapidement à cette altitude, un bonnet, des gants et une veste imperméable sont donc indispensables, même en juillet. Notre guide adapte l'itinéraire selon l'état du terrain et le rythme du groupe, parcourant généralement 15 à 20 km de pistes hors route durant la journée complète. Le déjeuner est un pique-nique pris sur le plateau avant la descente retour vers le camp.",
+          "La descente finale du plateau d'Assy jusqu'à Almaty emprunte la même piste hors route jusqu'à la route goudronnée, puis se poursuit sur 90 km vers l'ouest jusqu'à la ville, avec une arrivée en début de soirée après environ trois heures de route. Le dîner du jour 4 n'est pas inclus, vous laissant la liberté de choisir un restaurant à Almaty après votre dépose à l'hôtel. La visite de deux jours du gorge de Turgen et du plateau d'Assy fonctionne comme un départ privé avec un guide anglophone, un transport en 4x4, les permis de parc, une nuit au camp de glamping, deux déjeuners, un dîner et un petit-déjeuner. Il est conseillé de réserver plusieurs semaines à l'avance pour la courte saison estivale, lorsque le haut plateau est accessible."
+        ],
+        "ja": [
+          "4日目は、アルマトイから東へ約90キロを走りトゥルゲン渓谷へ向かいます。舗装路を約2時間走行した後、トレイルヘッドに到着します。ガイド付きハイキングでカイラク滝まで往復約6キロをトウヒの森の中を進み、約300メートルの標高差を登ります。通常、ゆったりとしたペースで3〜4時間で完了します。6月下旬から9月まではトレイルの状態と水量が安定しており、10月初旬は紅葉が楽しめますが、朝は冷え込みます。滝付近の露出した区間に備え、丈夫なハイキングブーツ、ウィンドレイヤー、1人あたり最低2リットルの水をご持参ください。当社のガイドが救急キットを携行し、ツアーに含まれているイレ＝アラタウ国立公園の許可証の手続きを代行します。",
+          "ハイキング後、グループはトゥルゲン渓谷にある当社のグランピングキャンプへ移動し、短い休憩と温かい昼食をとった後、午後のオフロードセグメントが始まります。キャンプは標高約1,800メートルに位置し、ベッド、マットレス、枕、寝袋、リネンを備えた家具付きのダブルテント、そして共用のシャワーとトイレを提供しています。キャンプからアッシ高原へのドライブは、4WDで急な土のスイッチバックを登り、約35キロで1,200メートルの標高差を、片道約2時間で走行します。夏季のみのアクセスが一般的で、通常は6月下旬から9月初旬まで、それ以外の期間は雪で高峠が封鎖されます。高原でのオフロードデーは午前中から午後遅くまで行われ、いくつかの展望台間で短い散歩を挟みます。",
+          "アッシ高原は標高約3,000メートルに位置し、古代の墳墓群と近代的な太陽観測所が点在するなだらかな高山草原が広がっています。晴れた日には、南にザイリイスキー・アラタウ山脈の峰々、北にバルハシ湖に向かって続くステップの大パノラマが望めます。この標高では天候が急変するため、7月でも暖かい帽子、手袋、防水シェルは必須です。ガイドは地面の状況とグループのペースに合わせてルートを調整し、通常は終日で15〜20キロメートルのオフロードを走行します。昼食は高原で食べるピクニック弁当で、その後キャンプへ下山します。",
+          "アッシ高原からアルマトイへの最終下山は、同じオフロードを舗装道路まで戻り、そこから西へ90キロメートル、約3時間のドライブで早夕方に市内到着です。4日目の夕食は含まれておらず、ホテル到着後にアルマトイでレストランを自由に選べます。トゥルゲン渓谷とアッシ高原の2日間ツアーは、英語ガイド、4x4車両、公園許可証、グランピングキャンプ1泊、昼食2回、夕食1回、朝食1回を含むプライベートツアーとして催行されます。高原がアクセス可能な短い夏季シーズンは数週間前の予約をおすすめします。"
+        ],
+        "es": [
+          "El día 4 comienza con un trayecto de 90 km hacia el este desde Almaty hasta Turgen Gorge, que dura unas dos horas por carreteras pavimentadas hasta el punto de inicio del sendero. La caminata guiada hasta la cascada Kairak recorre unos 6 km de ida y vuelta a través de un bosque de abetos y gana unos 300 metros de elevación, generalmente completada en tres o cuatro horas a un ritmo moderado. De finales de junio a septiembre ofrece condiciones de sendero confiables y caudal completo, mientras que principios de octubre añade colores otoñales pero mañanas más frescas. Se recomiendan botas de senderismo resistentes, una capa cortavientos y al menos dos litros de agua por persona para las secciones expuestas cerca de las cataratas. Nuestro guía lleva un botiquín de primeros auxilios y gestiona el permiso del Parque Nacional Ile-Alatau incluido en el tour.",
+          "Después de la caminata, el grupo se traslada a nuestro campamento de glamping en Turgen Gorge para un breve descanso y un almuerzo caliente antes de que comience el segmento todoterreno por la tarde. El campamento se encuentra a aproximadamente 1.800 metros y ofrece tiendas dobles amuebladas con camas, colchones, almohadas, sacos de dormir y ropa de cama, además de duchas y baños compartidos. El trayecto desde el campamento hasta la meseta de Assy sube por empinadas curvas de tierra en un 4x4, ganando 1.200 metros en unos 35 km y tardando unas dos horas en cada sentido. El acceso solo en verano, de finales de junio a principios de septiembre, es típico porque la nieve bloquea los pasos de montaña fuera de este período. El día todoterreno en la meseta se realiza desde media mañana hasta última hora de la tarde con varias caminatas cortas entre miradores.",
+          "La meseta de Assy se encuentra a unos 3.000 metros de altitud y se extiende por ondulados prados alpinos salpicados de antiguos túmulos funerarios y un moderno observatorio solar. En días despejados se revela un panorama de los picos del Zailiyskiy Alatau al sur y la estepa que se extiende hacia el norte hasta el lago Balkhash. El tiempo cambia rápidamente a esta altitud, por lo que un gorro cálido, guantes y una chaqueta impermeable son esenciales incluso en julio. Nuestro guía ajusta la ruta según las condiciones del terreno y el ritmo del grupo, cubriendo típicamente entre 15 y 20 km de pistas todoterreno durante el día completo. El almuerzo es un picnic que se come en la meseta antes del descenso de regreso al campamento.",
+          "El descenso final desde la meseta de Assy hasta Almaty sigue la misma pista todoterreno de vuelta a la carretera asfaltada, y luego continúa 90 km al oeste hasta la ciudad, llegando a primera hora de la tarde tras unas tres horas de conducción. La cena del día 4 no está incluida, lo que da flexibilidad para elegir un restaurante en Almaty tras el traslado a tu hotel. La excursión de dos días por la garganta de Turgen y la meseta de Assy opera como una salida privada con guía de habla inglesa, transporte 4x4, permisos del parque, una noche en nuestro campamento de glamping, dos almuerzos, una cena y un desayuno. Se recomienda reservar con varias semanas de antelación para la corta temporada de verano, cuando la meseta alta es accesible."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "6 km hike to Kairak waterfall in spruce forest",
+          "Full 4x4 day on Assy Plateau at 3,000 metres",
+          "Glamping camp with furnished tents and shared facilities"
+        ],
+        "de": [
+          "6 km Wanderung zum Kairak-Wasserfall im Fichtenwald",
+          "Ganztägiger 4x4-Ausflug auf das Assy-Plateau auf 3.000 Metern",
+          "Glamping-Camp mit möblierten Zelten und gemeinsamen Sanitäranlagen"
+        ],
+        "fr": [
+          "Randonnée de 6 km jusqu'à la cascade Kairak dans une forêt d'épicéas",
+          "Journée complète en 4x4 sur le plateau d'Assy à 3 000 mètres",
+          "Camp de glamping avec tentes aménagées et installations partagées"
+        ],
+        "ja": [
+          "トウヒの森を抜けカイラク滝まで6キロメートルのハイキング",
+          "標高3,000メートルのアッシ高原で終日4x4ドライブ",
+          "家具付きテントと共用設備を備えたグランピングキャンプ"
+        ],
+        "es": [
+          "Caminata de 6 km a la cascada Kairak en bosque de píceas",
+          "Día completo en 4x4 por la meseta de Assy a 3.000 metros",
+          "Campamento de glamping con tiendas amuebladas e instalaciones compartidas"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive Almaty to Turgen Gorge",
+            "de": "Fahrt von Almaty zur Turgen-Schlucht",
+            "fr": "Route d'Almaty au gorge de Turgen",
+            "ja": "アルマトイからトゥルゲン渓谷へドライブ",
+            "es": "Traslado Almaty a garganta de Turgen"
+          },
+          "value": {
+            "en": "about 2 hours, 90 km",
+            "de": "etwa 2 Stunden, 90 km",
+            "fr": "environ 2 heures, 90 km",
+            "ja": "約2時間、90キロメートル",
+            "es": "unas 2 horas, 90 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Assy Plateau altitude",
+            "de": "Höhe des Assy-Plateaus",
+            "fr": "Altitude du plateau d'Assy",
+            "ja": "アッシ高原の標高",
+            "es": "Altitud de la meseta de Assy"
+          },
+          "value": {
+            "en": "about 3,000 metres",
+            "de": "etwa 3.000 Meter",
+            "fr": "environ 3 000 mètres",
+            "ja": "約3,000メートル",
+            "es": "unos 3.000 metros"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "2 Days / 1 Nights",
+            "de": "2 Tage / 1 Nächte",
+            "fr": "2 jours / 1 nuits",
+            "ja": "2日間 / 1泊",
+            "es": "2 días / 1 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $364 USD / person",
+            "de": "Ab $364 USD / Person",
+            "fr": "À partir de $364 USD / personne",
+            "ja": "$364 USD〜 / 1名",
+            "es": "Desde $364 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793893702/sunday-atlas/blog/almaty-itinerary-4-days/turgen-gorge-commons-193995962.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Thistles growing against a rocky cliff in Turgen Gorge, Kazakhstan.",
+          "de": "Disteln, die vor einer felsigen Klippe im Turgen-Gebirge in Kasachstan wachsen.",
+          "fr": "Des chardons poussant contre une falaise rocheuse dans le gorge de Turgen, au Kazakhstan.",
+          "ja": "カザフスタン、トゥルゲン峡谷の岩壁に生えるアザミ。",
+          "es": "Cardos creciendo contra un acantilado rocoso en el desfiladero de Turgen, Kazajistán."
+        },
+        "credit": {
+          "author": "Nikolai Bulykin",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5,_%D1%87%D0%B5%D1%80%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D1%85_%D0%BA%D0%BE%D0%BB%D1%8E%D1%87%D0%B8%D0%B9.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Turgen Gorge",
+          "de": "Turgen Gorge",
+          "fr": "Turgen Gorge",
+          "ja": "トゥルゲン渓谷",
+          "es": "Turgen Gorge"
+        }
+      },
+      "embeddedPackageSlug": "turgen-gorge-assy-plateau-2-days"
+    },
+    {
+      "id": "getting-around-almaty-region",
+      "placeName": {
+        "en": "Almaty region",
+        "de": "Region Almaty",
+        "fr": "Région d'Almaty",
+        "ja": "アルマトイ地域",
+        "es": "Región de Almaty"
+      },
+      "heading": {
+        "en": "Getting between places: drive times and transport",
+        "de": "Unterwegs: Fahrzeiten und Transport",
+        "fr": "Se déplacer d'un endroit à l'autre : temps de trajet et transports",
+        "ja": "場所間の移動：ドライブ時間と交通手段",
+        "es": "Desplazamientos entre lugares: tiempos de conducción y transporte"
+      },
+      "paragraphs": {
+        "en": [
+          "Almaty to Medeo covers 15 km and takes about 30 minutes by car or taxi, making it an easy half-day trip from the city centre. The road climbs to 1,691 metres where the Medeo skating rink sits, and the Shymbulak cable car continues to 3,200 metres for alpine views. In winter the route serves skiers, while summer visitors use it for hiking access. Public buses run regularly from Almaty, but a private vehicle gives more flexibility for the mountain stops. Allow extra time on weekends when local traffic builds up.",
+          "The drive from Almaty to Charyn Canyon spans about 210 km and takes roughly 3 hours on paved highways through steppe landscapes. The Valley of Castles section is the main walking area, with marked trails along the canyon floor. Spring and autumn offer comfortable temperatures for hiking, while summer midday heat can be intense. The road is suitable for standard vehicles, though the final stretch to the canyon entrance has some rough patches. Overnight stays near the canyon let you catch early morning light.",
+          "From Charyn Canyon to Kolsai Lake the distance is 110 km and takes about 2 hours, passing through the Kegen border zone en route to Saty village. The road climbs steadily into the Tien Shan foothills, reaching around 1,800 metres at the first Kolsai Lake. A 4x4 shuttle from Saty to Kaindy Lake covers the last 45 minutes on a rough mountain track that standard cars cannot manage. The sunken forest at Kaindy sits at 2,000 metres and is best visited between June and September when the track is clear.",
+          "The return from Kaindy Lake to Almaty covers about 300 km and requires roughly 4.5 hours of driving, mostly on main roads once you descend from the mountains. An alternative route via Turgen Gorge adds 90 km and 1.5 hours from Almaty, with a waterfall hike and access to the Assy Plateau by 4x4. The plateau sits above 2,500 metres and is only passable from late June to early October. Winter snow closes the high passes, so plan the mountain lakes portion for summer months only."
+        ],
+        "de": [
+          "Von Almaty nach Medeo sind es 15 km und etwa 30 Minuten mit dem Auto oder Taxi, was einen einfachen Halbtagesausflug vom Stadtzentrum aus ermöglicht. Die Straße steigt auf 1.691 Meter an, wo sich die Medeo-Eisbahn befindet, und die Shymbulak-Seilbahn führt weiter hinauf auf 3.200 Meter für alpine Ausblicke. Im Winter dient die Route Skifahrern, während Sommergäste sie für Wanderungen nutzen. Öffentliche Busse verkehren regelmäßig von Almaty, aber ein privates Fahrzeug bietet mehr Flexibilität für die Bergstopps. An Wochenenden sollten Sie aufgrund des lokalen Verkehrs zusätzliche Zeit einplanen.",
+          "Die Fahrt von Almaty zum Charyn-Canyon umfasst etwa 210 km und dauert ungefähr 3 Stunden auf asphaltierten Highways durch Steppenlandschaften. Das Valley of Castles ist das Hauptwandergebiet mit markierten Wegen entlang des Canyonbodens. Frühling und Herbst bieten angenehme Temperaturen zum Wandern, während die Sommerhitze am Mittag intensiv sein kann. Die Straße ist für Standardfahrzeuge geeignet, obwohl der letzte Abschnitt zum Canyoneingang einige unebene Stellen aufweist. Übernachtungen in der Nähe des Canyons ermöglichen es, das frühe Morgenlicht einzufangen.",
+          "Vom Charyn-Canyon zum Kolsai-See sind es 110 km und etwa 2 Stunden, vorbei an der Kegen-Grenzzone auf dem Weg zum Dorf Saty. Die Straße steigt stetig in die Ausläufer des Tien Shan an und erreicht etwa 1.800 Meter am ersten Kolsai-See. Ein 4x4-Shuttle von Saty zum Kaindy-See legt die letzten 45 Minuten auf einer rauen Bergpiste zurück, die Standardfahrzeuge nicht bewältigen können. Der versunkene Wald von Kaindy liegt auf 2.000 Metern und ist am besten zwischen Juni und September zu besuchen, wenn die Piste befahrbar ist.",
+          "Die Rückfahrt vom Kaindy-See nach Almaty umfasst etwa 300 km und erfordert ungefähr 4,5 Stunden Fahrt, hauptsächlich auf Hauptstraßen, sobald man von den Bergen herabsteigt. Eine alternative Route durch die Turgen-Schlucht fügt 90 km und 1,5 Stunden von Almaty hinzu, mit einer Wasserfallwanderung und Zugang zum Assy-Plateau per 4x4. Das Plateau liegt über 2.500 Metern und ist nur von Ende Juni bis Anfang Oktober passierbar. Winterlicher Schnee sperrt die hohen Pässe, daher sollten Sie den Teil mit den Bergseen nur in den Sommermonaten planen."
+        ],
+        "fr": [
+          "Le trajet d'Almaty à Medeo couvre 15 km et prend environ 30 minutes en voiture ou en taxi, ce qui en fait une excursion facile d'une demi-journée depuis le centre-ville. La route monte à 1 691 mètres où se trouve la patinoire de Medeo, et le téléphérique de Shymbulak continue jusqu'à 3 200 mètres pour des vues alpines. En hiver, la route sert aux skieurs, tandis que les visiteurs estivaux l'utilisent pour accéder aux sentiers de randonnée. Des bus publics circulent régulièrement depuis Almaty, mais un véhicule privé offre plus de flexibilité pour les arrêts en montagne. Prévoyez du temps supplémentaire le week-end lorsque le trafic local s'intensifie.",
+          "La route d'Almaty au canyon de Charyn s'étend sur environ 210 km et prend environ 3 heures sur des autoroutes goudronnées à travers les paysages de steppe. La section de la Vallée des Châteaux est la principale zone de marche, avec des sentiers balisés le long du fond du canyon. Le printemps et l'automne offrent des températures confortables pour la randonnée, tandis que la chaleur estivale de midi peut être intense. La route convient aux véhicules standards, bien que le dernier tronçon jusqu'à l'entrée du canyon présente quelques passages difficiles. Les séjours de nuit près du canyon vous permettent de profiter de la lumière matinale.",
+          "Du canyon de Charyn au lac Kolsai, la distance est de 110 km et prend environ 2 heures, en traversant la zone frontalière de Kegen en direction du village de Saty. La route monte régulièrement dans les contreforts du Tien Shan, atteignant environ 1 800 mètres au premier lac Kolsai. Une navette 4x4 de Saty au lac Kaindy couvre les 45 dernières minutes sur une piste de montagne difficile que les voitures standards ne peuvent pas emprunter. La forêt immergée de Kaindy se trouve à 2 000 mètres et se visite idéalement entre juin et septembre, lorsque la piste est praticable.",
+          "Le retour du lac Kaindy à Almaty couvre environ 300 km et nécessite environ 4,5 heures de conduite, principalement sur les routes principales une fois descendus des montagnes. Un itinéraire alternatif via le gorge de Turgen ajoute 90 km et 1,5 heure depuis Almaty, avec une randonnée jusqu'à une cascade et un accès au plateau d'Assy en 4x4. Le plateau se situe au-dessus de 2 500 mètres et n'est praticable que de fin juin à début octobre. La neige hivernale ferme les hauts cols, donc prévoyez la partie lacs de montagne uniquement pendant les mois d'été."
+        ],
+        "ja": [
+          "アルマトイからメデオまでは15キロメートル、車やタクシーで約30分と、市中心部から気軽に半日で行けます。道は標高1,691メートルのメデオ・スケートリンクまで登り、さらにシムブラク・ケーブルカーで3,200メートルまで上がれば高山の絶景が広がります。冬はスキーヤー、夏はハイカーが利用します。アルマトイから定期バスも出ていますが、プライベート車両なら山間の立ち寄りにより柔軟に対応できます。週末は地元の渋滞が発生するため、余裕を持って時間を見ておきましょう。",
+          "アルマトイからチャリン渓谷までは約210キロメートル、ステップ地帯を抜ける舗装道路で約3時間です。メインのウォーキングエリアは「城の谷」と呼ばれる区間で、渓谷底に沿った遊歩道が整備されています。春と秋はハイキングに快適な気温ですが、夏の正午は暑さが厳しくなります。渓谷入口手前の最後の区間に多少の荒れた箇所があるものの、普通車でも走行可能です。渓谷近くに宿泊すれば、早朝の美しい光を楽しめます。",
+          "チャリン渓谷からコルサイ湖までは110キロメートル、約2時間で、ケゲン国境地帯を経由してサティ村へ向かいます。道は徐々に天山山脈の麓へ登り、第1コルサイ湖付近で標高約1,800メートルに達します。サティからカインディ湖へは4x4シャトルで約45分、普通車では走れない荒れた山道を進みます。標高2,000メートルに沈んだ森があるカインディ湖は、トラックが通行可能になる6月から9月がベストシーズンです。",
+          "カインディ湖からアルマトイへの帰路は約300キロメートル、山を下りてからは主に幹線道路で約4.5時間かかります。別ルートとしてトゥルゲン渓谷経由もあり、アルマトイから90キロメートル・1.5時間追加で、滝ハイキングと4x4でのアッシ高原アクセスが可能です。高原は標高2,500メートル以上にあり、通行可能なのは6月下旬から10月上旬のみです。冬季は積雪で高山パスが閉鎖されるため、山岳湖エリアは夏季のみ計画してください。"
+        ],
+        "es": [
+          "Almaty a Medeo son 15 km y se tarda unos 30 minutos en coche o taxi, lo que lo convierte en una excursión fácil de medio día desde el centro de la ciudad. La carretera sube a 1.691 metros, donde se encuentra la pista de patinaje de Medeo, y el teleférico de Shymbulak continúa hasta los 3.200 metros para disfrutar de vistas alpinas. En invierno la ruta sirve a esquiadores, mientras que en verano los visitantes la usan para acceder a senderos. Los autobuses públicos circulan regularmente desde Almaty, pero un vehículo privado da más flexibilidad para las paradas en la montaña. Prevé tiempo extra los fines de semana, cuando se acumula el tráfico local.",
+          "El trayecto de Almaty al cañón de Charyn abarca unos 210 km y lleva aproximadamente 3 horas por autopistas asfaltadas a través de paisajes de estepa. La sección del Valle de los Castillos es la principal zona de senderismo, con senderos marcados a lo largo del fondo del cañón. La primavera y el otoño ofrecen temperaturas agradables para caminar, mientras que el calor del mediodía en verano puede ser intenso. La carretera es apta para vehículos estándar, aunque el tramo final hasta la entrada del cañón tiene algunos baches. Alojarse cerca del cañón permite aprovechar la luz de la mañana temprano.",
+          "Desde el cañón de Charyn al lago Kolsai la distancia es de 110 km y se tarda unas 2 horas, atravesando la zona fronteriza de Kegen en ruta al pueblo de Saty. La carretera asciende progresivamente hacia los contrafuertes del Tian Shan, alcanzando unos 1.800 metros en el primer lago Kolsai. Un traslado en 4x4 desde Saty al lago Kaindy cubre los últimos 45 minutos por una pista de montaña accidentada que los coches normales no pueden transitar. El bosque sumergido de Kaindy se encuentra a 2.000 metros y se visita mejor entre junio y septiembre, cuando la pista está despejada.",
+          "El regreso del lago Kaindy a Almaty cubre unos 300 km y requiere aproximadamente 4,5 horas de conducción, mayormente por carreteras principales una vez se desciende de las montañas. Una ruta alternativa vía la garganta de Turgen añade 90 km y 1,5 horas desde Almaty, con una caminata a una cascada y acceso a la meseta de Assy en 4x4. La meseta está por encima de 2.500 metros y solo es transitable de finales de junio a principios de octubre. La nieve invernal cierra los pasos altos, así que planifica la parte de los lagos de montaña solo para los meses de verano."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "15 km city to Medeo in 30 minutes",
+          "210 km Almaty to Charyn Canyon in 3 hours",
+          "4x4 shuttle required for Kaindy Lake access"
+        ],
+        "de": [
+          "15 km von der Stadt nach Medeo in 30 Minuten",
+          "210 km von Almaty zum Charyn-Canyon in 3 Stunden",
+          "4x4-Shuttle erforderlich für den Zugang zum Kaindy-See"
+        ],
+        "fr": [
+          "15 km du centre-ville à Medeo en 30 minutes",
+          "210 km d'Almaty au canyon de Charyn en 3 heures",
+          "Navette 4x4 requise pour l'accès au lac Kaindy"
+        ],
+        "ja": [
+          "市内からメデオまで15キロメートル、30分",
+          "アルマトイからチャリン渓谷まで210キロメートル、3時間",
+          "カインディ湖へは4x4シャトルが必要"
+        ],
+        "es": [
+          "15 km de la ciudad a Medeo en 30 minutos",
+          "210 km de Almaty al cañón de Charyn en 3 horas",
+          "Se requiere traslado en 4x4 para acceder al lago Kaindy"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Almaty to Medeo",
+            "de": "Almaty nach Medeo",
+            "fr": "Almaty à Medeo",
+            "ja": "アルマトイからメデオ",
+            "es": "Almaty a Medeo"
+          },
+          "value": {
+            "en": "15 km, 30 minutes",
+            "de": "15 km, 30 Minuten",
+            "fr": "15 km, 30 minutes",
+            "ja": "15キロメートル、30分",
+            "es": "15 km, 30 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Charyn to Kolsai",
+            "de": "Charyn nach Kolsai",
+            "fr": "Charyn à Kolsaï",
+            "ja": "チャリンからコルサイへ",
+            "es": "Charyn a Kolsai"
+          },
+          "value": {
+            "en": "110 km, 2 hours",
+            "de": "110 km, 2 Stunden",
+            "fr": "110 km, 2 heures",
+            "ja": "110 km、2時間",
+            "es": "110 km, 2 horas"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793893713/sunday-atlas/blog/almaty-itinerary-4-days/almaty-region-commons-120497448.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "A braided river flows through a snow-capped mountain valley in the Almaty region, Kazakhstan.",
+          "de": "Ein verzweigter Fluss fließt durch ein schneebedecktes Bergtal in der Region Almaty, Kasachstan.",
+          "fr": "Une rivière tressée traverse une vallée de montagne enneigée dans la région d'Almaty, au Kazakhstan.",
+          "ja": "カザフスタン、アルマトイ州の山間の谷を流れる、雪を頂いた山々を背景にした分流の多い川。",
+          "es": "Un río trenzado fluye a través de un valle de montaña nevado en la región de Almaty, Kazajistán."
+        },
+        "credit": {
+          "author": "Асылхан Абдрахманов",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%83%D1%8E_%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D1%83,_%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D1%8C%D1%8F_%D0%9B%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%A2%D0%B0%D0%BB%D0%B3%D0%B0%D1%80%D0%B0.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Almaty region",
+          "de": "Region Almaty",
+          "fr": "Région d'Almaty",
+          "ja": "アルマトイ地域",
+          "es": "Región de Almaty"
+        }
+      }
+    },
+    {
+      "id": "which-tour-matches-this-route",
+      "placeName": {
+        "en": "Kazakhstan",
+        "de": "Kasachstan",
+        "fr": "Kazakhstan",
+        "ja": "カザフスタン",
+        "es": "Kazajistán"
+      },
+      "heading": {
+        "en": "Which Sunday Atlas tour matches this route",
+        "de": "Welche Sunday Atlas Tour passt zu dieser Route",
+        "fr": "Quel voyage Sunday Atlas correspond à cet itinéraire",
+        "ja": "このルートに合うSunday Atlasのツアー",
+        "es": "Qué tour de Sunday Atlas se ajusta a esta ruta"
+      },
+      "paragraphs": {
+        "en": [
+          "The 2-day Turgen Gorge & Assy Plateau tour covers Day 4 of this itinerary with a 90 km drive from Almaty to the gorge in about 2 hours, a guided hike of roughly 5 km round-trip to Kairak waterfall, and an overnight at a glamping camp in large furnished tents at roughly 2,000 m. The camp provides shared showers and toilets, and meals include two lunches, one dinner and one breakfast with drinking water. Day 2 is a full off-road 4x4 day on the Assy Plateau at about 3,000 m, crossing alpine meadows and visiting the Assy-Turgen observatory area before the return drive to Almaty in the late afternoon. Entry fees and permits for Ile-Alatau National Park and the Assy reserve are included. The tour runs in summer only, typically June through September, when the high plateau roads are clear of snow.",
+          "The 2-day Charyn, Kolsai & Kaindy tour covers Days 2–3, starting with a 215 km drive to Charyn Canyon in about 3 hours, a walk of about 3 km through the Valley of Castles, then continuing 110 km to Saty village in roughly 2 hours for Kolsai Lake and the sunken forest of Kaindy Lake at about 2,000 m. Day 2 includes a hike along the lower Kolsai shore of roughly 6 km round-trip and a short drive to Kaindy for the submerged spruce trunks visible in clear water. Day 3 returns the 300 km to Almaty in about 4.5 hours with stops for photos and lunch. The tour operates in summer only, typically June through September, when the mountain roads to the lakes are passable.",
+          "On Day 1 the Bogdanovich Glacier day hike can replace the Shymbulak cable car for fit hikers; the glacier approach starts near Medeo at 1,690 m and reaches the ice tongue around 3,200 m in a full day on summer trails. The round-trip distance is about 14 km with 1,500 m of elevation gain, requiring sturdy boots, layers for wind at the glacier, and an early start from Almaty. The cable car alternative rises from Medeo to Shymbulak at 2,200 m and on to Talgar Pass at 3,200 m in about 30 minutes of ride time. Both options include the Medeo skating rink at 1,690 m and Panfilov Park with Zenkov Cathedral in the city centre. The glacier hike is only feasible in summer, typically July through September, when the trail is free of deep snow.",
+          "All three tours run in summer only, typically June through September, when mountain passes are clear and the off-road day on the Assy Plateau at about 3,000 m is accessible by 4x4. The Charyn, Kolsai & Kaindy tour also requires the Kegen land border road to be open for the full loop, which is reliable in the same season. Winter suits the Shymbulak ski area from December to March, but the Kolsay and Kaindy roads are a summer trip only. Visa rules depend on your passport and can change, so check official government sources before booking. Our tours enter Kazakhstan by air at Almaty or by land at Kegen from Kyrgyzstan."
+        ],
+        "de": [
+          "Die 2-tägige Tour Turgen-Schlucht und Assy-Plateau deckt Tag 4 dieser Reiseroute ab mit einer 90 km langen Fahrt von Almaty zur Schlucht in etwa 2 Stunden, einer geführten Wanderung von rund 5 km hin und zurück zum Kairak-Wasserfall und einer Übernachtung in unserem Glamping-Camp in großen möblierten Zelten auf etwa 2.000 m. Das Camp bietet gemeinsame Duschen und Toiletten, und die Mahlzeiten umfassen zwei Mittagessen, ein Abendessen und ein Frühstück mit Trinkwasser. Tag 2 ist ein ganztägiger Offroad-4x4-Tag auf dem Assy-Plateau auf etwa 3.000 m, durch alpine Wiesen und vorbei am Gebiet des Assy-Turgen-Observatoriums, bevor die Rückfahrt nach Almaty am späten Nachmittag erfolgt. Eintrittsgebühren und Genehmigungen für den Nationalpark Ile-Alatau und das Assy-Reservat sind inbegriffen. Die Tour findet nur im Sommer statt, typisch Juni bis September, wenn die Hochplateau-Straßen schneefrei sind.",
+          "Die 2-tägige Tour Charyn, Kolsai und Kaindy deckt die Tage 2–3 ab, beginnend mit einer 215 km langen Fahrt zum Charyn-Canyon in etwa 3 Stunden, einem Spaziergang von etwa 3 km durch das Tal der Burgen, dann weiter 110 km zum Dorf Saty in rund 2 Stunden für den Kolsai-See und den versunkenen Wald des Kaindy-Sees auf etwa 2.000 m. Tag 2 umfasst eine Wanderung am unteren Ufer des Kolsai-Sees von rund 6 km hin und zurück sowie eine kurze Fahrt nach Kaindy zu den untergetauchten Fichtenstämmen, die im klaren Wasser sichtbar sind. Tag 3 führt die 300 km zurück nach Almaty in etwa 4,5 Stunden mit Stopps für Fotos und Mittagessen. Die Tour findet nur im Sommer statt, typisch Juni bis September, wenn die Bergstraßen zu den Seen befahrbar sind.",
+          "Am Tag 1 kann die Tageswanderung zum Bogdanovich-Gletscher die Shymbulak-Seilbahn für fitte Wanderer ersetzen; der Gletscherzugang beginnt nahe Medeo auf 1.690 m und erreicht die Gletscherzunge auf etwa 3.200 m an einem ganzen Tag auf Sommerwegen. Die Rundstrecke beträgt etwa 14 km mit 1.500 m Höhenunterschied und erfordert feste Schuhe, Schichten für Wind am Gletscher und einen frühen Start von Almaty aus. Die Seilbahn-Alternative steigt von Medeo nach Shymbulak auf 2.200 m und weiter zum Talgar-Pass auf 3.200 m in etwa 30 Minuten Fahrtzeit. Beide Optionen beinhalten die Medeo-Eisbahn auf 1.690 m und den Panfilov-Park mit der Zenkov-Kathedrale im Stadtzentrum. Die Gletscherwanderung ist nur im Sommer machbar, typisch Juli bis September, wenn der Pfad frei von tiefem Schnee ist.",
+          "Alle drei Touren finden nur im Sommer statt, typisch Juni bis September, wenn die Pässe schneefrei sind und der Offroad-Tag auf dem Assy-Plateau auf etwa 3.000 m mit dem 4x4 erreichbar ist. Die Tour Charyn, Kolsai und Kaindy erfordert zudem, dass die Landgrenze Kegen für die gesamte Runde geöffnet ist, was in derselben Jahreszeit zuverlässig ist. Der Winter eignet sich für das Skigebiet Shymbulak von Dezember bis März, aber die Straßen nach Kolsai und Kaindy sind eine reine Sommerreise. Die Visabestimmungen hängen von Ihrem Reisepass ab und können sich ändern, daher prüfen Sie offizielle Regierungsquellen vor der Buchung. Unsere Reisen führen nach Kasachstan per Luftweg nach Almaty oder per Landweg an Kegen von Kirgisistan aus ein."
+        ],
+        "fr": [
+          "Le voyage de 2 jours Gorge de Turgen et plateau d'Assy couvre le jour 4 de cet itinéraire avec un trajet de 90 km d'Almaty jusqu'à la gorge en environ 2 heures, une randonnée guidée d'environ 5 km aller-retour jusqu'à la cascade Kairak, et une nuit dans notre camp de glamping sous de grandes tentes aménagées à environ 2 000 m d'altitude. Le camp propose des douches et des toilettes partagées, et les repas comprennent deux déjeuners, un dîner et un petit-déjeuner avec de l'eau potable. Le jour 2 est une journée complète en 4x4 tout-terrain sur le plateau d'Assy à environ 3 000 m, traversant des prairies alpines et visitant la zone de l'observatoire d'Assy-Turgen avant le retour à Almaty en fin d'après-midi. Les droits d'entrée et les permis pour le parc national d'Ile-Alatau et la réserve d'Assy sont inclus. Le voyage fonctionne uniquement en été, généralement de juin à septembre, lorsque les routes du haut plateau sont dégagées de la neige.",
+          "Le voyage de 2 jours Charyn, Kolsaï et Kaïnedy couvre les jours 2 et 3, commençant par un trajet de 215 km jusqu'au canyon de Charyn en environ 3 heures, une marche d'environ 3 km à travers la Vallée des Châteaux, puis continuation sur 110 km jusqu'au village de Saty en environ 2 heures pour le lac Kolsaï et la forêt engloutie du lac Kaïnedy à environ 2 000 m. Le jour 2 comprend une randonnée le long de la rive inférieure du Kolsaï d'environ 6 km aller-retour et un court trajet jusqu'à Kaïnedy pour voir les troncs d'épicéas submergés visibles dans l'eau claire. Le jour 3 retourne les 300 km jusqu'à Almaty en environ 4,5 heures avec des arrêts pour les photos et le déjeuner. Le voyage fonctionne uniquement en été, généralement de juin à septembre, lorsque les routes de montagne menant aux lacs sont praticables.",
+          "Le jour 1, la randonnée d'une journée au glacier Bogdanovich peut remplacer le téléphérique de Chymbulak pour les randonneurs en bonne condition physique ; l'approche du glacier commence près de Medeo à 1 690 m et atteint la langue de glace autour de 3 200 m lors d'une journée complète sur les sentiers estivaux. La distance aller-retour est d'environ 14 km avec 1 500 m de dénivelé positif, nécessitant des chaussures de marche robustes, des couches pour le vent au glacier, et un départ matinal depuis Almaty. L'alternative du téléphérique monte de Medeo à Chymbulak à 2 200 m et jusqu'au col de Talgar à 3 200 m en environ 30 minutes de trajet. Les deux options incluent la patinoire de Medeo à 1 690 m et le parc Panfilov avec la cathédrale Zenkov dans le centre-ville. La randonnée sur le glacier n'est réalisable qu'en été, généralement de juillet à septembre, lorsque le sentier est libre de neige profonde.",
+          "Les trois voyages fonctionnent uniquement en été, généralement de juin à septembre, lorsque les cols de montagne sont dégagés et que la journée tout-terrain sur le plateau d'Assy à environ 3 000 m est accessible en 4x4. Le voyage Charyn, Kolsaï et Kaïnedy nécessite également que la route frontalière de Kegen soit ouverte pour la boucle complète, ce qui est fiable pendant la même saison. L'hiver convient à la station de ski de Chymbulak de décembre à mars, mais les routes de Kolsaï et Kaïnedy sont un voyage estival uniquement. Les règles de visa dépendent de votre passeport et peuvent changer, alors vérifiez auprès des sources gouvernementales officielles avant de réserver. Nos voyages entrent au Kazakhstan par avion à Almaty ou par voie terrestre à Kegen depuis le Kirghizistan."
+        ],
+        "ja": [
+          "2日間のトゥルゲン渓谷＆アッシ高原ツアーは、この日程の4日目をカバーします。アルマトイから渓谷まで約90 kmを約2時間でドライブし、カイラク滝まで往復約5 kmのガイド付きハイキングを行い、標高約2,000 mの場所にある大型家具付きテントのグランピングキャンプに宿泊します。キャンプには共同シャワーとトイレがあり、食事は昼食2回、夕食1回、朝食1回、飲料水が含まれます。2日目は標高約3,000 mのアッシ高原で終日4x4オフロード走行を行い、高山草原を横断し、アッシ・トゥルゲン天文台エリアを訪れた後、午後遅くにアルマトイへ戻ります。イレ・アラタウ国立公園とアッシ保護区の入場料と許可証が含まれます。このツアーは夏季のみ、通常6月から9月まで催行され、高原の道路が雪から解放される時期です。",
+          "2日間のチャリン、コルサイ＆カインディツアーは、2日目～3日目をカバーします。チャリン渓谷まで約215 kmを約3時間でドライブし、キャッスルバレーを約3 km歩いた後、さらに約110 kmを約2時間でサティ村まで移動し、標高約2,000 mのコルサイ湖とカインディ湖の水没林を訪れます。2日目には下コルサイ湖畔を往復約6 kmハイキングし、短いドライブでカインディ湖へ行き、透明な水中に沈んだトウヒの幹を観察します。3日目には約300 kmを約4.5時間かけてアルマトイへ戻り、写真撮影と昼食のために立ち寄ります。このツアーは夏季のみ、通常6月から9月まで催行され、湖への山岳道路が通行可能な時期です。",
+          "1日目には、ボグダノビッチ氷河日帰りハイキングでシムブラクケーブルカーを置き換えることができます。体力に自信のあるハイカー向けで、氷河へのアプローチはメデオ付近の標高1,690 mから始まり、夏季のトレイルで氷河末端の標高約3,200 mまで終日かけて到達します。往復距離は約14 km、標高差約1,500 mで、頑丈なブーツ、氷河での風対策のレイヤリング、アルマトイからの早朝出発が必要です。ケーブルカーの代替案は、メデオからシムブラク（標高2,200 m）を経てタルガル峠（標高3,200 m）まで約30分の乗車時間で上昇します。どちらのオプションも、標高1,690 mのメデオスケートリンクと、市中心部のパンフィロフ公園とゼンコフ大聖堂を含みます。氷河ハイキングは夏季のみ、通常7月から9月まで、トレイルが深い雪から解放される時期にのみ実施可能です。",
+          "3つのツアーすべてが夏季のみ、通常6月から9月まで催行され、山岳峠がクリアになり、標高約3,000 mのアッシ高原でのオフロード走行が4x4で可能になる時期です。チャリン、コルサイ＆カインディツアーも、ケゲン国境道路が全行程で開通している必要があり、同じシーズンに確実に通行できます。冬季は12月から3月までシムブラクスキー場に適していますが、コルサイとカインディへの道路は夏季限定です。ビザ規則はパスポートによって異なり変更される可能性があるため、予約前に公式政府情報源で確認してください。当社のツアーは、アルマトイへの航空便またはキルギスからのケゲン陸路でカザフスタンに入国します。"
+        ],
+        "es": [
+          "El tour de 2 días por el desfiladero de Turgen y la meseta de Assy cubre el día 4 de este itinerario con un trayecto de 90 km desde Almaty hasta el desfiladero en unas 2 horas, una caminata guiada de unos 5 km ida y vuelta hasta la cascada Kairak, y una noche en nuestro campamento de glamping con grandes tiendas amuebladas a unos 2.000 m. El campamento ofrece duchas y aseos compartidos, y las comidas incluyen dos almuerzos, una cena y un desayuno con agua potable. El día 2 es una jornada completa en 4x4 por la meseta de Assy a unos 3.000 m, cruzando prados alpinos y visitando la zona del observatorio Assy-Turgen antes del regreso a Almaty por la tarde. Las entradas y permisos para el Parque Nacional Ile-Alatau y la reserva de Assy están incluidos. El tour opera solo en verano, normalmente de junio a septiembre, cuando las carreteras de la meseta alta están libres de nieve.",
+          "El tour de 2 días por Charyn, Kolsai y Kaindy cubre los días 2-3, comenzando con un trayecto de 215 km hasta el Cañón de Charyn en unas 3 horas, una caminata de unos 3 km por el Valle de los Castillos, y continuando 110 km hasta el pueblo de Saty en unas 2 horas para el lago Kolsai y el bosque sumergido del lago Kaindy a unos 2.000 m. El día 2 incluye una caminata por la orilla baja de Kolsai de unos 6 km ida y vuelta y un corto trayecto a Kaindy para ver los troncos de pícea sumergidos visibles en el agua clara. El día 3 regresa los 300 km a Almaty en unas 4,5 horas con paradas para fotos y almuerzo. El tour opera solo en verano, normalmente de junio a septiembre, cuando las carreteras de montaña a los lagos son transitables.",
+          "El día 1 la caminata diurna al glaciar Bogdanovich puede sustituir al teleférico de Shymbulak para excursionistas en forma; el acceso al glaciar comienza cerca de Medeo a 1.690 m y llega a la lengua de hielo alrededor de 3.200 m en una jornada completa por senderos de verano. La distancia de ida y vuelta es de unos 14 km con 1.500 m de desnivel positivo, requiriendo botas robustas, capas para el viento en el glaciar y una salida temprana desde Almaty. La alternativa del teleférico sube de Medeo a Shymbulak a 2.200 m y hasta el puerto de Talgar a 3.200 m en unos 30 minutos de trayecto. Ambas opciones incluyen la pista de patinaje de Medeo a 1.690 m y el Parque Panfilov con la Catedral Zenkov en el centro de la ciudad. La caminata al glaciar solo es factible en verano, normalmente de julio a septiembre, cuando el sendero está libre de nieve profunda.",
+          "Los tres tours operan solo en verano, normalmente de junio a septiembre, cuando los puertos de montaña están despejados y la jornada off-road en la meseta de Assy a unos 3.000 m es accesible en 4x4. El tour Charyn, Kolsai y Kaindy también requiere que la carretera fronteriza de Kegen esté abierta para el circuito completo, lo cual es fiable en la misma temporada. El invierno es adecuado para la zona de esquí de Shymbulak de diciembre a marzo, pero las carreteras a Kolsai y Kaindy son solo un viaje de verano. Las normas de visado dependen de tu pasaporte y pueden cambiar, así que consulta fuentes oficiales del gobierno antes de reservar. Nuestros tours entran a Kazajistán por aire en Almaty o por tierra en Kegen desde Kirguistán."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Turgen Gorge waterfall hike and glamping night",
+          "Charyn Valley of Castles plus Kolsai and Kaindy lakes",
+          "Bogdanovich Glacier hike alternative to cable car"
+        ],
+        "de": [
+          "Wasserfallwanderung in der Turgen-Schlucht und Glamping-Nacht",
+          "Tal der Burgen in Charyn sowie die Seen Kolsai und Kaindy",
+          "Bogdanovich-Gletscher-Wanderung als Alternative zur Seilbahn"
+        ],
+        "fr": [
+          "Randonnée à la cascade de la gorge de Turgen et nuit en glamping",
+          "Vallée des Châteaux de Charyn plus les lacs Kolsaï et Kaïnedy",
+          "Alternative de randonnée au glacier Bogdanovich au téléphérique"
+        ],
+        "ja": [
+          "トゥルゲン渓谷の滝ハイキングとグランピング宿泊",
+          "チャリン・キャッスルバレーとコルサイ・カインディ湖",
+          "ボグダノビッチ氷河ハイキング（ケーブルカーの代替）"
+        ],
+        "es": [
+          "Caminata a la cascada del desfiladero de Turgen y noche de glamping",
+          "Valle de los Castillos de Charyn más lagos Kolsai y Kaindy",
+          "Caminata al glaciar Bogdanovich como alternativa al teleférico"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Tourlänge",
+            "fr": "Durée du voyage",
+            "ja": "ツアー期間",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "2 days each, private",
+            "de": "2 Tage jeweils, privat",
+            "fr": "2 jours chacun, privé",
+            "ja": "各2日間、プライベート",
+            "es": "2 días cada uno, privado"
+          }
+        },
+        {
+          "label": {
+            "en": "Season",
+            "de": "Saison",
+            "fr": "Saison",
+            "ja": "シーズン",
+            "es": "Temporada"
+          },
+          "value": {
+            "en": "Summer only, June to September",
+            "de": "Nur Sommer, Juni bis September",
+            "fr": "Été uniquement, de juin à septembre",
+            "ja": "夏季のみ、6月から9月",
+            "es": "Solo verano, de junio a septiembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "2 Days / 1 Nights",
+            "de": "2 Tage / 1 Nächte",
+            "fr": "2 jours / 1 nuits",
+            "ja": "2日間 / 1泊",
+            "es": "2 días / 1 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $364 USD / person",
+            "de": "Ab $364 USD / Person",
+            "fr": "À partir de $364 USD / personne",
+            "ja": "$364 USD〜 / 1名",
+            "es": "Desde $364 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410516/sunday-atlas/yurts-by-the-turgen-river-kazakhstan-38116264_hhpzgh.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": {
+          "en": "Yurts by the Turgen river in Turgen Gorge, Almaty Region, on the way to the Assy Plateau",
+          "de": "Jurten am Turgen-Fluss in der Turgen-Schlucht, Almaty-Region, auf dem Weg zum Assy-Plateau",
+          "fr": "Yourtes au bord de la rivière Turgen dans la gorge de Turgen, région d'Almaty, en route vers le plateau d'Assy",
+          "ja": "アルマトイ州のトゥルゲン渓谷、アッシ高原への途中にあるトゥルゲン川沿いのユルト",
+          "es": "Yurtas junto al río Turgen en el cañón de Turgen, región de Almaty, de camino al plato Assy"
+        },
+        "caption": {
+          "en": "Kazakhstan",
+          "de": "Kasachstan",
+          "fr": "Kazakhstan",
+          "ja": "カザフスタン",
+          "es": "Kazajistán"
+        }
+      },
+      "embeddedPackageSlug": "turgen-gorge-assy-plateau-2-days"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How many days are enough for Almaty?",
+        "de": "Wie viele Tage reichen für Almaty?",
+        "fr": "Combien de jours sont suffisants pour Almaty ?",
+        "ja": "アルマトイには何日必要ですか？",
+        "es": "¿Cuántos días son suficientes para Almaty?"
+      },
+      "a": {
+        "en": "Four days lets you see the city, ride the Medeo cable car, visit Charyn Canyon and both Kolsai and Kaindy lakes. Three days covers the city and one mountain trip. Five to seven days adds the Assy Plateau or a cross-border leg to Kyrgyzstan.",
+        "de": "Vier Tage reichen, um die Stadt zu sehen, die Medeo-Seilbahn zu nutzen, den Charyn-Canyon zu besuchen sowie die Seen Kolsai und Kaindy. Drei Tage decken die Stadt und einen Bergausflug ab. Fünf bis sieben Tage fügen das Assy-Plateau oder eine Grenzüberquerung nach Kirgisistan hinzu.",
+        "fr": "Quatre jours vous permettent de voir la ville, de prendre le téléphérique de Medeo, de visiter le canyon de Charyn et les lacs Kolsaï et Kaïnedy. Trois jours couvrent la ville et une excursion en montagne. Cinq à sept jours ajoutent le plateau d'Assy ou une étape transfrontalière vers le Kirghizistan.",
+        "ja": "4日間あれば、市内観光、メデオケーブルカー、チャリン渓谷、コルサイ湖とカインディ湖の両方を訪れられます。3日間なら市内と1つの山岳旅行をカバーできます。5～7日間あれば、アッシ高原やキルギスへの国境越えも追加可能です。",
+        "es": "Cuatro días te permiten ver la ciudad, subir en el teleférico de Medeo, visitar el Cañón de Charyn y ambos lagos Kolsai y Kaindy. Tres días cubren la ciudad y una excursión de montaña. De cinco a siete días añaden la meseta de Assy o una etapa transfronteriza a Kirguistán."
+      }
+    },
+    {
+      "q": {
+        "en": "What to do in Almaty in winter?",
+        "de": "Was kann man im Winter in Almaty unternehmen?",
+        "fr": "Que faire à Almaty en hiver ?",
+        "ja": "冬のアルマトイで何をする？",
+        "es": "Qué hacer en Almaty en invierno"
+      },
+      "a": {
+        "en": "Winter suits the Shymbulak ski area reached by the Medeo cable car. The Charyn Canyon road stays open, but Kolsai and Kaindy lakes are usually snowbound from November to April.",
+        "de": "Der Winter eignet sich für das Skigebiet Shymbulak, erreichbar mit der Medeo-Seilbahn. Die Straße zum Charyn-Canyon bleibt offen, aber die Seen Kolsai und Kaindy sind in der Regel von November bis April schneebedeckt.",
+        "fr": "L'hiver convient à la station de ski de Chymbulak accessible par le téléphérique de Medeo. La route du canyon de Charyn reste ouverte, mais les lacs Kolsaï et Kaïnedy sont généralement sous la neige de novembre à avril.",
+        "ja": "冬季は、メデオケーブルカーでアクセスできるシムブラクスキー場に適しています。チャリン渓谷への道路は通年開通していますが、コルサイ湖とカインディ湖は通常11月から4月まで雪で閉ざされます。",
+        "es": "El invierno es ideal para la zona de esquí de Shymbulak, accesible en el teleférico de Medeo. La carretera al Cañón de Charyn permanece abierta, pero los lagos Kolsai y Kaindy suelen estar cubiertos de nieve de noviembre a abril."
+      }
+    },
+    {
+      "q": {
+        "en": "Is Almaty safe for independent travellers?",
+        "de": "Ist Almaty sicher für unabhängige Reisende?",
+        "fr": "Almaty est-elle sûre pour les voyageurs indépendants ?",
+        "ja": "アルマトイは個人旅行者にとって安全ですか？",
+        "es": "¿Es Almaty seguro para viajeros independientes?"
+      },
+      "a": {
+        "en": "Almaty is generally safe with low violent crime. Use registered taxis or ride-hailing apps at night, keep valuables out of sight and check current government travel advice before you go.",
+        "de": "Almaty gilt allgemein als sicher, die Rate an Gewaltkriminalität ist niedrig. Nutzen Sie nachts lizenzierte Taxis oder Fahrdienst-Apps, bewahren Sie Wertsachen unsichtbar auf und informieren Sie sich vor der Reise über die aktuellen staatlichen Reisehinweise.",
+        "fr": "Almaty est généralement sûre, avec une faible criminalité violente. Utilisez des taxis officiels ou des applications de VTC la nuit, gardez vos objets de valeur hors de vue et consultez les conseils aux voyageurs des autorités gouvernementales avant votre départ.",
+        "ja": "アルマトイは一般的に治安が良く、凶悪犯罪は少ないです。夜間は登録済みのタクシーや配車アプリを利用し、貴重品は見えない場所にしまい、渡航前に最新の政府渡航情報を確認してください。",
+        "es": "Almaty es generalmente segura, con bajos índices de delincuencia violenta. Utiliza taxis oficiales o aplicaciones de transporte por la noche, mantén tus objetos de valor fuera de la vista y consulta las recomendaciones de viaje actuales de tu gobierno antes de partir."
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need a visa for Kazakhstan?",
+        "de": "Benötige ich ein Visum für Kasachstan?",
+        "fr": "Ai-je besoin d'un visa pour le Kazakhstan ?",
+        "ja": "カザフスタンにビザは必要ですか？",
+        "es": "¿Necesito visado para Kazajistán?"
+      },
+      "a": {
+        "en": "Entry rules depend on your passport and can change, so please check the official government sources before you book. Our tours enter Kazakhstan by air at Almaty or by land at Kegen from Kyrgyzstan.",
+        "de": "Die Einreisebestimmungen hängen von Ihrem Reisepass ab und können sich ändern. Bitte prüfen Sie daher vor der Buchung die offiziellen staatlichen Quellen. Unsere Reisen führen per Flug nach Kasachstan, entweder nach Almaty, oder über Land an der Grenze von Kegen aus Kirgisistan.",
+        "fr": "Les conditions d'entrée dépendent de votre passeport et peuvent évoluer, veuillez donc consulter les sources officielles gouvernementales avant de réserver. Nos circuits entrent au Kazakhstan par voie aérienne à Almaty ou par voie terrestre à Kegen depuis le Kirghizistan.",
+        "ja": "入国条件はパスポートによって異なり、変更される可能性があるため、予約前に公式の政府情報をご確認ください。当社のツアーでは、アルマトイへの航空便、またはキルギスからケゲン国境を経由して陸路でカザフスタンに入国します。",
+        "es": "Las normas de entrada dependen de tu pasaporte y pueden cambiar, así que consulta las fuentes oficiales del gobierno antes de reservar. Nuestros tours entran a Kazajistán por aire en Almaty o por tierra en Kegen desde Kirguistán."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Almaty Itinerary 4 Days: City, Medeo & Charyn Canyon (2027)",
+      "meta_description": "Almaty itinerary 4 days with city sights, Medeo cable car, Charyn Canyon and Kolsai Lakes, drive times and best months. See the day-by-day plan.",
+      "focus_keyword": "almaty itinerary 4 days",
+      "keywords": [
+        "almaty itinerary 4 days",
+        "almaty itinerary 5 days",
+        "almaty itinerary 7 days",
+        "almaty itinerary 3 days",
+        "almaty itinerary 2 days",
+        "3 days in almaty",
+        "how many days in almaty",
+        "what to do in almaty"
+      ]
+    },
+    "de": {
+      "seo_title": "Almaty-Reiseplan 4 Tage: Stadt, Medeo und Charyn-Canyon (2027)",
+      "meta_description": "Almaty-Reiseplan 4 Tage mit Stadtbesichtigung, Medeo-Seilbahn, Charyn-Canyon und Kolsay-Seen, Fahrzeiten und beste Reisezeit. Sehen Sie den tagesweisen Plan.",
+      "focus_keyword": "almaty itinerary 4 days",
+      "keywords": [
+        "almaty itinerary 4 days",
+        "almaty itinerary 5 days",
+        "almaty itinerary 7 days",
+        "almaty itinerary 3 days",
+        "almaty itinerary 2 days",
+        "3 days in almaty",
+        "how many days in almaty",
+        "what to do in almaty"
+      ]
+    },
+    "fr": {
+      "seo_title": "Itinéraire Almaty 4 jours : ville, Medeo et canyon de Charyn (2027)",
+      "meta_description": "Itinéraire Almaty 4 jours avec sites urbains, téléphérique de Medeo, canyon de Charyn et lacs Kolsaï, temps de route et meilleurs mois. Découvrez le plan jour par jour.",
+      "focus_keyword": "itinéraire almaty 4 jours",
+      "keywords": [
+        "itinéraire almaty 4 jours",
+        "itinéraire almaty 5 jours",
+        "itinéraire almaty 7 jours",
+        "itinéraire almaty 3 jours",
+        "itinéraire almaty 2 jours",
+        "3 jours à almaty",
+        "combien de jours à almaty",
+        "que faire à almaty"
+      ]
+    },
+    "ja": {
+      "seo_title": "アルマトイ 4日間プラン：市内観光、メデオ、チャリンキャニオン（2027年）",
+      "meta_description": "アルマトイ 4日間プラン。市内観光、メデオ ロープウェイ、チャリンキャニオン、コルサイ湖、所要時間、ベストシーズン。日ごとのプランをご覧ください。",
+      "focus_keyword": "アルマトイ 4日間モデルコース",
+      "keywords": [
+        "アルマトイ 4日間モデルコース",
+        "アルマトイ 5日間モデルコース",
+        "アルマトイ 7日間モデルコース",
+        "アルマトイ 3日間モデルコース",
+        "アルマトイ 2日間モデルコース",
+        "アルマトイ3日間",
+        "アルマトイ滞在は何日が必要か",
+        "アルマトイでやるべきこと"
+      ]
+    },
+    "es": {
+      "seo_title": "Itinerario de 4 días en Almaty: ciudad, Medeo y Cañón de Charyn (2027)",
+      "meta_description": "Itinerario de 4 días en Almaty con visitas urbanas, teleférico de Medeo, Cañón de Charyn y lagos Kolsay, tiempos de conducción y mejores meses. Consulta el plan día a día.",
+      "focus_keyword": "itinerario almaty 4 días",
+      "keywords": [
+        "itinerario almaty 4 días",
+        "itinerario almaty 5 días",
+        "itinerario almaty 7 días",
+        "itinerario almaty 3 días",
+        "itinerario almaty 2 días",
+        "3 días en almaty",
+        "cuántos días en almaty",
+        "qué hacer en almaty"
+      ]
+    }
+  },
+  "contentHash": "3d10e749952850fd"
+}

@@ -1,0 +1,20 @@
+{
+  "_comment": "Blog posts merged into a stronger post. The old post stays in content/blog with published:false and mergedInto, public/_redirects 301s every locale, and the daily blog job treats these slugs as taken (scripts/lib/blog-core.mjs findDuplicateTopic). scripts/sanity-sync-merged-blog.mjs keeps the Sanity copies the same.",
+  "merged": [
+    {
+      "from": "top-4-places-to-visit-in-uzbekistan",
+      "to": "top-10-places-to-visit-in-uzbekistan",
+      "mergedAt": "2026-10-31"
+    },
+    {
+      "from": "top-4-places-to-visit-in-kazakhstan-almaty",
+      "to": "almaty-kazakhstan-travel-guide-lakes-canyons-mountains",
+      "mergedAt": "2026-10-31"
+    },
+    {
+      "from": "uzbekistan-travel-guide-best-time-itinerary-costs",
+      "to": "best-time-to-visit-uzbekistan",
+      "mergedAt": "2026-10-31"
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "slug": "kyrgyzstan-song-kul-ala-archa-travel-guide",
+  "published": true,
+  "featured": false,
+  "category": "destination-guide",
+  "destination": "kyrgyzstan",
+  "countries": [
+    "kyrgyzstan"
+  ],
+  "publishedAt": "2026-10-27",
+  "updatedAt": "2026-11-16T07:37:32+04:00",
+  "readingTimeMinutes": 5,
+  "relatedPackages": [
+    "ala-archa-burana-tower-day-trip",
+    "3-stans-discovery-14-days",
+    "five-stans-long-road-22-days"
+  ],
+  "title": {
+    "en": "Ala-Archa and Burana Tower Day Trip from Bishkek (2027)",
+    "de": "Ala-Artscha & Burana-Turm: Tagesausflug ab Bischkek (2027)",
+    "fr": "Ala-Archa et tour de Burana depuis Bichkek (2027)",
+    "ja": "アラ・アルチャとブラナの塔：ビシュケク発日帰り（2027）",
+    "es": "Ala-Archa y torre Burana: excursión desde Bishkek (2027)"
+  },
+  "subtitle": {
+    "en": "Issyk-Kul, Karakol, Skazka Canyon, eagle hunters and felt makers, and the Tash-Rabat caravanserai: the mountain heart of our Central Asia tours.",
+    "de": "Issyk-Kul, Karakol, der Skazka-Canyon, Adlerjäger und Filzmacherinnen und die Karawanserei Tasch-Rabat: das Bergherz unserer Zentralasien-Reisen.",
+    "fr": "Un circuit au Kirghizistan avec l’Issyk-Koul, Karakol, le canyon Skazka, chasseurs à l’aigle et feutrières, et le caravansérail de Tash-Rabat : le cœur montagnard de nos circuits en Asie centrale.",
+    "ja": "イシク・クル湖、カラコル、スカズカ渓谷、鷲使いとフェルト職人、タシュ・ラバト隊商宿。中央アジアツアーの山の中心です。",
+    "es": "Un viaje a Kirguistán con el Issyk-Kul, Karakol, el cañón Skazka, cazadores con águila y artesanas del fieltro, y el caravasar de Tash-Rabat: el corazón de montaña de nuestros viajes por Asia Central."
+  },
+  "summary": {
+    "en": "A private day from Bishkek: a guided walk in Ala-Archa National Park’s alpine gorge, then the 11th-century Burana Tower and its balbal stone warriors.",
+    "de": "Ein privater Tag ab Bischkek: geführte Wanderung in der Alpenschlucht des Ala-Artscha-Nationalparks, dann der Burana-Turm aus dem 11. Jahrhundert mit seinen Balbal-Steinkriegern.",
+    "fr": "Une journée privée depuis Bichkek : balade guidée dans les gorges alpines du parc national d’Ala-Archa, puis la tour de Burana du XIe siècle et ses guerriers de pierre balbals.",
+    "ja": "ビシュケク発のプライベート日帰り：アラ・アルチャ国立公園の渓谷をガイドと歩き、11世紀のブラナの塔と石人バルバルを訪ねます。",
+    "es": "Un día privado desde Biskek: paseo guiado por la garganta alpina del Parque Nacional Ala-Archa y la torre de Burana del siglo XI con sus guerreros de piedra balbal."
+  },
+  "intro": {
+    "en": "Each of our three tours includes a Kyrgyzstan tour through the mountains. Around Lake Issyk-Kul we see Karakol with its wooden Dungan Mosque and Holy Trinity Cathedral, the red cliffs of Jety-Oguz Gorge and Skazka (Fairytale) Canyon, and meet eagle hunters in Bokonbaevo. In Kochkor, felt makers show how shyrdak carpets are made. Bishkek has the Manas monument and the Changing of the Guard on Ala-Too Square. The Long Road Through the 5 Stans goes further: Ala-Archa Gorge, the Burana Tower, a Kok-Boru demonstration, Naryn and the 15th-century Tash-Rabat caravanserai, and a yurt camp at Tamga.",
+    "de": "Alle drei unserer Reisen enthalten eine Kirgistan Rundreise durch die Berge. Am Issyk-Kul sehen wir Karakol mit der hölzernen Dunganen-Moschee und der Dreifaltigkeitskathedrale, die roten Felsen der Dschety-Oguz-Schlucht und den Skazka-Canyon (Märchen-Canyon) und treffen Adlerjäger in Bokonbaewo. In Kotschkor zeigen Filzmacherinnen, wie Schyrdak-Teppiche entstehen. Bischkek hat das Manas-Denkmal und die Wachablösung auf dem Ala-Too-Platz. Der lange Weg durch die 5 Stans geht weiter: Ala-Artscha-Schlucht, Burana-Turm, eine Kok-Boru-Vorführung, Naryn, die Karawanserei Tasch-Rabat aus dem 15. Jahrhundert und ein Jurtencamp in Tamga.",
+    "fr": "Chacun de nos trois voyages comprend un circuit au Kirghizistan, dans les montagnes. Autour de l’Issyk-Koul, nous voyons Karakol avec sa mosquée doungane en bois et sa cathédrale de la Sainte-Trinité, les falaises rouges des gorges de Djety-Oguz et le canyon Skazka, et rencontrons des chasseurs à l’aigle à Bokonbaevo. À Kotchkor, les feutrières montrent comment naissent les tapis shyrdak. Bichkek a le monument à Manas et la relève de la garde sur la place Ala-Too. La longue route à travers les 5 Stans va plus loin : gorges d’Ala-Artcha, tour de Bourana, démonstration de kok-borou, Naryn, le caravansérail de Tash-Rabat du XVe siècle et un camp de yourtes à Tamga.",
+    "ja": "私たちの3つのツアーにはどれも、山あいを巡るキルギスツアーが含まれます。イシク・クル湖の周辺では、木造のドゥンガン・モスクと聖三位一体大聖堂のあるカラコル、ジェティ・オグズ渓谷の赤い岩壁、スカズカ（おとぎ話）渓谷を訪ね、ボコンバエヴォで鷲使いに会います。コチコルでは、フェルト職人がシルダック絨毯の作り方を見せてくれます。ビシュケクにはマナス像とアラトー広場の衛兵交代があります。「5つのスタンを巡る長い道」ではさらに、アラ・アルチャ渓谷、ブラナの塔、コク・ボルの実演、ナリン、15世紀のタシュ・ラバト隊商宿、タムガのユルトキャンプへ足を延ばします。",
+    "es": "Nuestros tres viajes incluyen un viaje a Kirguistán por sus montañas. Alrededor del Issyk-Kul vemos Karakol, con su mezquita dungana de madera y la catedral de la Santísima Trinidad, los acantilados rojos de la garganta de Jety-Oguz y el cañón Skazka, y conocemos a cazadores con águila en Bokonbaevo. En Kochkor, las artesanas muestran cómo se hacen las alfombras shyrdak. Biskek tiene el monumento a Manás y el cambio de guardia en la plaza Ala-Too. El largo camino por los 5 Stans va más lejos: la garganta de Ala-Archa, la torre de Burana, una demostración de kok-boru, Naryn, el caravasar de Tash-Rabat del siglo XV y un campamento de yurtas en Tamga."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400036/sunday-atlas/historic-wooden-church-in-karakol-kyrgyzstan-39601524_ov1val.jpg",
+    "width": 1600,
+    "height": 1067,
+    "alt": {
+      "en": "Kyrgyzstan Travel Guide (2027): Ala-Archa Gorge, Burana & Alpine Lakes",
+      "de": "Kirgisistan Reiseführer (2027): Ala-Artscha-Schlucht, Burana & Bergseen",
+      "fr": "Guide Kirghizistan (2027) : Gorge d’Ala-Archa, Burana et lacs alpins",
+      "ja": "キルギス旅行完全ガイド（2027）：アラ・アルチャ渓谷、ブラナ塔、高山湖",
+      "es": "Guía de viaje a Kirguistán (2027): Ala-Archa, torre Burana y lagos alpinos"
+    }
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "rankNumber": 1,
+      "placeName": {
+        "en": "Ala-Archa Alpine National Park",
+        "de": "Ala-Archa Alpine National Park",
+        "fr": "Ala-Archa Alpine National Park",
+        "ja": "Ala-Archa Alpine National Park",
+        "es": "Ala-Archa Alpine National Park"
+      },
+      "heading": {
+        "en": "1. Bishkek – Ala-Archa National Park – Tokmok – Burana Tower – Bishkek",
+        "de": "1. Bischkek – Ala-Artscha-Nationalpark – Tokmok – Burana-Turm – Bischkek",
+        "fr": "1. Bichkek – parc national d’Ala-Archa – Tokmok – tour de Burana – Bichkek",
+        "ja": "1. ビシュケク – アラ・アルチャ国立公園 – トクモク – ブラナの塔 – ビシュケク",
+        "es": "1. Biskek – Parque Nacional Ala-Archa – Tokmok – torre de Burana – Biskek"
+      },
+      "paragraphs": {
+        "en": [
+          "We pick you up at your Bishkek hotel and drive about 40 minutes into Ala-Archa National Park. With our guide you walk into the alpine gorge along the river toward the Ak-Sai trail viewpoint, at your own pace. After lunch time in the city, we drive east to Tokmok to see the 11th-century Karakhanid Burana Tower minaret and the field of balbal stone warriors and the small museum beside it, then return to your hotel in Bishkek.",
+          "Two sides of Kyrgyzstan in one day: mountain air south of Bishkek in the morning, Silk Road history in the Chuy Valley in the afternoon."
+        ],
+        "de": [
+          "Wir holen Sie an Ihrem Hotel in Bischkek ab und fahren etwa 40 Minuten in den Ala-Artscha-Nationalpark. Mit unserem Guide wandern Sie in Ihrem Tempo am Fluss entlang in die Alpenschlucht bis zum Aussichtspunkt am Ak-Sai-Weg. Nach einer Mittagspause fahren wir ostwärts nach Tokmok zum karachanidischen Burana-Turm aus dem 11. Jahrhundert, dem Feld der Balbal-Steinkrieger und dem kleinen Museum, und bringen Sie zurück zu Ihrem Hotel.",
+          "Zwei Seiten Kirgistans an einem Tag: morgens Bergluft südlich von Bischkek, nachmittags Seidenstraßen-Geschichte im Tschüi-Tal."
+        ],
+        "fr": [
+          "Nous venons vous chercher à votre hôtel de Bichkek et rejoignons en 40 minutes environ le parc national d’Ala-Archa. Avec notre guide, vous remontez à votre rythme les gorges alpines le long de la rivière jusqu’au point de vue du sentier d’Ak-Saï. Après une pause déjeuner, nous partons vers Tokmok pour le minaret karakhanide de Burana du XIe siècle, le champ de balbals et son petit musée, puis vous ramenons à votre hôtel.",
+          "Deux visages du Kirghizistan en une journée : l’air des montagnes au sud de Bichkek le matin, l’histoire de la route de la soie dans la vallée de Tchouï l’après-midi."
+        ],
+        "ja": [
+          "ビシュケクのホテルでお迎えし、約40分でアラ・アルチャ国立公園へ。ガイドと一緒に川沿いを歩き、アクサイ・トレイルの展望地を目指します（ペースはお好みで）。昼食休憩の後、東のトクモクへ向かい、11世紀カラハン朝のブラナの塔、石人バルバルの並ぶ野外展示と小さな博物館を見学し、ビシュケクのホテルへ戻ります。",
+          "1日でキルギスの2つの顔を：午前はビシュケク南の山の空気、午後はチュイ渓谷のシルクロードの歴史。"
+        ],
+        "es": [
+          "Le recogemos en su hotel de Biskek y en unos 40 minutos llegamos al Parque Nacional Ala-Archa. Con nuestro guía camina a su ritmo por la garganta alpina junto al río hasta el mirador del sendero Ak-Sai. Tras una pausa para almorzar, vamos al este, a Tokmok, para ver el minarete karajánida de Burana del siglo XI, el campo de guerreros balbal y su pequeño museo, y volvemos a su hotel.",
+          "Dos caras de Kirguistán en un día: aire de montaña al sur de Biskek por la mañana e historia de la Ruta de la Seda en el valle de Chuy por la tarde."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Private hotel pick-up and drop-off in Bishkek",
+          "Private vehicle for the whole day",
+          "English-speaking driver-guide"
+        ],
+        "de": [
+          "Privater Hoteltransfer in Bischkek (Abholung und Rückfahrt)",
+          "Privates Fahrzeug für den ganzen Tag",
+          "Englischsprachiger Fahrer-Guide"
+        ],
+        "fr": [
+          "Prise en charge et retour privés à votre hôtel à Bichkek",
+          "Véhicule privé pour toute la journée",
+          "Chauffeur-guide anglophone"
+        ],
+        "ja": [
+          "ビシュケクのホテル送迎（専用）",
+          "終日専用車",
+          "英語を話すドライバー兼ガイド"
+        ],
+        "es": [
+          "Recogida y regreso privados a su hotel en Biskek",
+          "Vehículo privado para todo el día",
+          "Conductor-guía de habla inglesa"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "所要日数",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Day",
+            "fr": "1 Day",
+            "ja": "1 Day",
+            "es": "1 Day"
+          }
+        },
+        {
+          "label": {
+            "en": "Starting Price",
+            "de": "Preis ab",
+            "fr": "Prix dès",
+            "ja": "参考料金",
+            "es": "Precio desde"
+          },
+          "value": {
+            "en": "From $130 USD / person",
+            "de": "From $130 USD / person",
+            "fr": "From $130 USD / person",
+            "ja": "From $130 USD / person",
+            "es": "From $130 USD / person"
+          }
+        },
+        {
+          "label": {
+            "en": "Best Season",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure saison",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "May to October",
+            "de": "Mai bis Oktober",
+            "fr": "De mai à octobre",
+            "ja": "5月〜10月",
+            "es": "De mayo a octubre"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400030/sunday-atlas/winter-landscape-in-karakol-kyrgyzstan-31833313_w1bjoc.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "Ala-Archa Alpine National Park — Kyrgyzstan tour photo",
+          "de": "Ala-Archa Alpine National Park — Kyrgyzstan tour photo",
+          "fr": "Ala-Archa Alpine National Park — Kyrgyzstan tour photo",
+          "ja": "Ala-Archa Alpine National Park — Kyrgyzstan tour photo",
+          "es": "Ala-Archa Alpine National Park — Kyrgyzstan tour photo"
+        },
+        "caption": {
+          "en": "Ala-Archa Alpine National Park · Ala-Archa Alpine Gorge & Silk Road Burana Tower Day Trip from Bishkek",
+          "de": "Ala-Archa Alpine National Park · Ala-Artscha-Schlucht & Burana-Turm an der Seidenstraße: Tagesausflug ab Bischkek",
+          "fr": "Ala-Archa Alpine National Park · Gorges d’Ala-Archa et tour de Burana sur la route de la soie : excursion depuis Bichkek",
+          "ja": "Ala-Archa Alpine National Park · ビシュケク発 アラ・アルチャ渓谷とシルクロードのブラナの塔 日帰りツアー",
+          "es": "Ala-Archa Alpine National Park · Garganta de Ala-Archa y torre de Burana de la Ruta de la Seda: excursión desde Biskek"
+        }
+      },
+      "embeddedPackageSlug": "ala-archa-burana-tower-day-trip"
+    },
+    {
+      "id": "section-2",
+      "rankNumber": 2,
+      "placeName": {
+        "en": "UNESCO Burana Tower & Balbal Stones",
+        "de": "UNESCO Burana Tower & Balbal Stones",
+        "fr": "UNESCO Burana Tower & Balbal Stones",
+        "ja": "UNESCO Burana Tower & Balbal Stones",
+        "es": "UNESCO Burana Tower & Balbal Stones"
+      },
+      "heading": {
+        "en": "2. Almaty – Charyn Canyon – Kolsay Lakes, 440 km by road",
+        "de": "2. Almaty – Scharyn-Canyon – Kolsai-Seen, 440 km auf der Straße",
+        "fr": "2. Almaty – canyon de Charyn – lacs de Kolsay, 440 km par la route",
+        "ja": "2. アルマトイ – チャリン渓谷 – コルサイ湖、陸路440km",
+        "es": "2. Almaty – cañón de Charyn – lagos Kolsay, 440 km por carretera"
+      },
+      "paragraphs": {
+        "en": [
+          "After breakfast we drive east to Charyn Canyon, often called the “little brother” of the Grand Canyon, which runs for more than 150 km. Within two hours we reach the Valley of Castles, where wind and rain have shaped the sandstone into fortress-like cliffs. We walk down for about 40 minutes to the Charyn River between red and orange walls. Lunch is at a café near the canyon, then we continue to the Kolsay Lakes in the northern Tien Shan, arriving in the late afternoon. Home-style dinner and overnight at a guesthouse.",
+          "This 3 Stans tour spends 14 days and 13 nights crossing Kazakhstan, Kyrgyzstan and Uzbekistan in one line. We start in Almaty and drive out to Charyn Canyon and the Kolsay and Kaindy lakes, cross by land into Kyrgyzstan for Karakol, Jety-Oguz, Skazka Canyon, an eagle-hunter demonstration and a felt master class in Kochkor, then fly from Bishkek to Tashkent. The last week follows the Silk Road cities of Uzbekistan: Samarkand, Bukhara and the walled town of Khiva."
+        ],
+        "de": [
+          "Nach dem Frühstück fahren wir nach Osten zum Scharyn-Canyon, oft „kleiner Bruder“ des Grand Canyon genannt, der sich über mehr als 150 km erstreckt. In rund zwei Stunden erreichen wir das Tal der Burgen, wo Wind und Regen den Sandstein zu festungsartigen Klippen geformt haben. Etwa 40 Minuten wandern wir zwischen roten und orangefarbenen Wänden hinunter zum Fluss Scharyn. Mittagessen in einem Café nahe dem Canyon, dann weiter zu den Kolsai-Seen im nördlichen Tian Shan, Ankunft am späten Nachmittag. Hausgemachtes Abendessen und Übernachtung im Gästehaus.",
+          "Diese Rundreise Kasachstan, Kirgistan, Usbekistan dauert 14 Tage und 13 Nächte und führt in einer Linie durch drei Länder. Wir beginnen in Almaty, fahren zum Scharyn-Canyon und zu den Kolsai- und Kaindy-Seen, reisen auf dem Landweg nach Kirgistan zu Karakol, Dschety-Oguz, dem Skazka-Canyon, einer Vorführung der Adlerjäger und einem Filz-Workshop in Kotschkor und fliegen dann von Bischkek nach Taschkent. Die letzte Woche folgt den Seidenstraßenstädten Usbekistans: Samarkand, Buchara und die ummauerte Stadt Chiwa."
+        ],
+        "fr": [
+          "Après le petit-déjeuner, nous roulons vers l’est jusqu’au canyon de Charyn, souvent appelé le « petit frère » du Grand Canyon, long de plus de 150 km. En deux heures environ, nous atteignons la vallée des Châteaux, où le vent et la pluie ont sculpté le grès en falaises aux allures de forteresses. Nous descendons à pied pendant une quarantaine de minutes jusqu’à la rivière Charyn, entre des parois rouges et orangées. Déjeuner dans un café près du canyon, puis route vers les lacs de Kolsay, dans le Tian Shan du Nord, avec une arrivée en fin d’après-midi. Dîner maison et nuit en maison d’hôtes.",
+          "Ce circuit Kazakhstan, Kirghizistan et Ouzbékistan dure 14 jours et 13 nuits et traverse les trois pays d’une seule traite. Nous partons d’Almaty vers le canyon de Charyn et les lacs Kolsay et Kaindy, passons par la route au Kirghizistan pour Karakol, Djety-Oguz, le canyon Skazka, une démonstration de chasseurs à l’aigle et un atelier de feutre à Kotchkor, puis prenons l’avion de Bichkek à Tachkent. La dernière semaine suit les villes ouzbèkes de la Route de la soie : Samarcande, Boukhara et la ville fortifiée de Khiva."
+        ],
+        "ja": [
+          "朝食後、東へ走りチャリン渓谷へ。グランドキャニオンの「弟」とも呼ばれ、全長は150km以上あります。2時間ほどで、風と雨が砂岩を城塞のような断崖に削った「城の谷」に到着。赤やオレンジの岩壁の間を約40分歩いてチャリン川まで下ります。渓谷近くのカフェで昼食をとり、天山山脈北部のコルサイ湖へ。夕方に到着し、ゲストハウスで家庭料理の夕食と宿泊。",
+          "カザフスタン、キルギス、ウズベキスタンの3か国を一筆書きで巡る、13泊14日の中央アジアツアーです。アルマトイを出発してチャリン渓谷、コルサイ湖とカインディ湖へ。陸路でキルギスに入り、カラコル、ジェティ・オグズ、スカズカ渓谷、鷲使いの実演、コチコルのフェルト作り体験を楽しんだあと、ビシュケクからタシケントへ飛びます。最後の1週間はウズベキスタンのシルクロードの町、サマルカンド、ブハラ、城壁の町ヒヴァを訪ねます。"
+        ],
+        "es": [
+          "Después del desayuno vamos hacia el este, al cañón de Charyn, a menudo llamado el «hermano pequeño» del Gran Cañón, que se extiende más de 150 km. En unas dos horas llegamos al Valle de los Castillos, donde el viento y la lluvia han tallado la arenisca en acantilados que parecen fortalezas. Bajamos a pie unos 40 minutos hasta el río Charyn entre paredes rojas y anaranjadas. Comida en un café junto al cañón y seguimos hacia los lagos Kolsay, en el Tian Shan del norte, adonde llegamos al final de la tarde. Cena casera y noche en una casa de huéspedes.",
+          "Este viaje por Kazajistán, Kirguistán y Uzbekistán dura 14 días y 13 noches y cruza los tres países de una sola vez. Empezamos en Almaty y vamos al cañón de Charyn y a los lagos Kolsay y Kaindy, pasamos por tierra a Kirguistán para ver Karakol, Jety-Oguz, el cañón Skazka, una demostración de cazadores con águila y un taller de fieltro en Kochkor, y volamos de Biskek a Taskent. La última semana sigue las ciudades uzbekas de la Ruta de la Seda: Samarcanda, Bujará y la ciudad amurallada de Jiva."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Hotels listed below, or similar properties of the same category, in double or twin rooms with breakfast. Early check-in on Day 1 in Almaty is included; at other hotels check-in is at 14:00 and check-out at 12:00",
+          "Guesthouse night at Kolsay (twin room)",
+          "Meals: daily breakfasts, 3 lunches and 2 dinners as per the programme"
+        ],
+        "de": [
+          "Hotels wie unten aufgeführt oder gleichwertige Häuser derselben Kategorie, im Doppel- oder Zweibettzimmer mit Frühstück. Early Check-in am 1. Tag in Almaty inklusive; in den übrigen Hotels Check-in um 14:00, Check-out um 12:00 Uhr",
+          "Eine Nacht im Gästehaus in Kolsai (Zweibettzimmer)",
+          "Mahlzeiten: täglich Frühstück, 3 Mittagessen und 2 Abendessen laut Programm"
+        ],
+        "fr": [
+          "Hôtels indiqués ci-dessous, ou établissements similaires de même catégorie, en chambre double ou twin avec petit-déjeuner. Early check-in le jour 1 à Almaty inclus ; dans les autres hôtels, arrivée à 14 h et départ à 12 h",
+          "Nuit en maison d’hôtes à Kolsay (chambre twin)",
+          "Repas : petits-déjeuners quotidiens, 3 déjeuners et 2 dîners selon le programme"
+        ],
+        "ja": [
+          "下記ホテルまたは同クラスのホテル（ダブルまたはツイン、朝食付き）。1日目アルマトイのアーリーチェックイン込み。その他のホテルはチェックイン14:00、チェックアウト12:00",
+          "コルサイのゲストハウス泊（ツイン）",
+          "食事：毎日の朝食、昼食3回、夕食2回（行程表のとおり）"
+        ],
+        "es": [
+          "Hoteles indicados abajo, o similares de la misma categoría, en habitación doble o twin con desayuno. Early check-in el día 1 en Almaty incluido; en los demás hoteles la entrada es a las 14:00 y la salida a las 12:00",
+          "Noche en casa de huéspedes en Kolsay (habitación twin)",
+          "Comidas: desayunos diarios, 3 comidas y 2 cenas según el programa"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "所要日数",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "14 Days",
+            "de": "14 Days",
+            "fr": "14 Days",
+            "ja": "14 Days",
+            "es": "14 Days"
+          }
+        },
+        {
+          "label": {
+            "en": "Starting Price",
+            "de": "Preis ab",
+            "fr": "Prix dès",
+            "ja": "参考料金",
+            "es": "Precio desde"
+          },
+          "value": {
+            "en": "From $2643 USD / person",
+            "de": "From $2643 USD / person",
+            "fr": "From $2643 USD / person",
+            "ja": "From $2643 USD / person",
+            "es": "From $2643 USD / person"
+          }
+        },
+        {
+          "label": {
+            "en": "Best Season",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure saison",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "Year-round",
+            "de": "Year-round",
+            "fr": "Year-round",
+            "ja": "Year-round",
+            "es": "Year-round"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400037/sunday-atlas/red-rock-formations-at-jeti-oguz-kyrgyzstan-39694515_zk27cj.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "UNESCO Burana Tower & Balbal Stones — Kyrgyzstan tour photo",
+          "de": "UNESCO Burana Tower & Balbal Stones — Kyrgyzstan tour photo",
+          "fr": "UNESCO Burana Tower & Balbal Stones — Kyrgyzstan tour photo",
+          "ja": "UNESCO Burana Tower & Balbal Stones — Kyrgyzstan tour photo",
+          "es": "UNESCO Burana Tower & Balbal Stones — Kyrgyzstan tour photo"
+        },
+        "caption": {
+          "en": "UNESCO Burana Tower & Balbal Stones · 3 Stans Discovery: Kazakhstan, Kyrgyzstan & Uzbekistan",
+          "de": "UNESCO Burana Tower & Balbal Stones · 3 Stans Discovery: Kasachstan, Kirgistan & Usbekistan",
+          "fr": "UNESCO Burana Tower & Balbal Stones · 3 Stans Discovery : Kazakhstan, Kirghizistan et Ouzbékistan",
+          "ja": "UNESCO Burana Tower & Balbal Stones · 3スタン・ディスカバリー：カザフスタン、キルギス、ウズベキスタン",
+          "es": "UNESCO Burana Tower & Balbal Stones · 3 Stans Discovery: Kazajistán, Kirguistán y Uzbekistán"
+        }
+      },
+      "embeddedPackageSlug": "3-stans-discovery-14-days"
+    },
+    {
+      "id": "section-3",
+      "rankNumber": 3,
+      "placeName": {
+        "en": "Issyk-Kul, Skazka & Jeti-Oguz",
+        "de": "Issyk-Kul, Skazka & Jeti-Oguz",
+        "fr": "Issyk-Kul, Skazka & Jeti-Oguz",
+        "ja": "Issyk-Kul, Skazka & Jeti-Oguz",
+        "es": "Issyk-Kul, Skazka & Jeti-Oguz"
+      },
+      "heading": {
+        "en": "3. Bishkek – Kochkor village – Naryn, 320 km by road",
+        "de": "3. Bischkek – Dorf Kotschkor – Naryn, 320 km auf der Straße",
+        "fr": "3. Bichkek – village de Kotchkor – Naryn, 320 km par la route",
+        "ja": "3. ビシュケク – コチコル村 – ナリン、陸路320km",
+        "es": "3. Biskek – pueblo de Kochkor – Naryn, 320 km por carretera"
+      },
+      "paragraphs": {
+        "en": [
+          "After breakfast we drive toward Naryn through widening highland valleys. In Kochkor, the centre of Kyrgyz felt-making, we join a hands-on master class on making shyrdaks (felt rugs). After lunch we continue into the mountains and arrive by evening in Naryn, at more than 2,000 metres above sea level. Overnight in Naryn.",
+          "The Long Road Through the 5 Stans covers all five Central Asian countries in 22 days and 21 nights. We begin in Kyrgyzstan with Ala-Archa, the Burana Tower, Naryn and the Tash-Rabat caravanserai, a yurt camp on Issyk-Kul and Karakol, then cross to Kazakhstan for Charyn Canyon and Almaty. A flight takes us to Dushanbe, and the road leads past Iskanderkul to Penjikent and Khujand. In Uzbekistan we follow the Silk Road through Tashkent, Samarkand, Bukhara and Khiva, and finish in Turkmenistan at the Darwaza Gas Crater and Ashgabat."
+        ],
+        "de": [
+          "Nach dem Frühstück fahren wir durch immer weitere Hochtäler Richtung Naryn. In Kotschkor, dem Zentrum der kirgisischen Filzkunst, machen wir selbst mit beim Workshop zur Herstellung von Schyrdaks (Filzteppichen). Nach dem Mittagessen geht es weiter in die Berge; am Abend erreichen wir Naryn auf über 2.000 Metern Höhe. Übernachtung in Naryn.",
+          "Der lange Weg durch die 5 Stans ist eine Seidenstraße Reise durch alle fünf Länder Zentralasiens in 22 Tagen und 21 Nächten. Wir beginnen in Kirgistan mit Ala-Artscha, dem Burana-Turm, Naryn und der Karawanserei Tasch-Rabat, einem Jurtencamp am Issyk-Kul und Karakol und reisen dann nach Kasachstan zum Scharyn-Canyon und nach Almaty. Ein Flug bringt uns nach Duschanbe, und die Straße führt am Iskanderkul vorbei nach Pendschikent und Chudschand. In Usbekistan folgen wir der Seidenstraße durch Taschkent, Samarkand, Buchara und Chiwa und enden in Turkmenistan am Gaskrater von Darwasa und in Aschgabat."
+        ],
+        "fr": [
+          "Après le petit-déjeuner, nous roulons vers Naryn par des vallées d’altitude de plus en plus larges. À Kotchkor, centre du feutre kirghize, nous participons à un atelier de fabrication de shyrdaks (tapis de feutre). Après le déjeuner, nous continuons dans les montagnes et arrivons le soir à Naryn, à plus de 2 000 mètres d’altitude. Nuit à Naryn.",
+          "La longue route à travers les 5 Stans est un voyage sur la Route de la soie qui parcourt les cinq pays d’Asie centrale en 22 jours et 21 nuits. Nous commençons au Kirghizistan avec Ala-Artcha, la tour de Bourana, Naryn et le caravansérail de Tash-Rabat, un camp de yourtes au bord de l’Issyk-Koul et Karakol, puis passons au Kazakhstan pour le canyon de Charyn et Almaty. Un vol nous mène à Douchanbé, et la route longe l’Iskanderkoul jusqu’à Pendjikent et Khodjent. En Ouzbékistan, nous suivons la Route de la soie par Tachkent, Samarcande, Boukhara et Khiva, et terminons au Turkménistan, au cratère de gaz de Darvaza et à Achgabat."
+        ],
+        "ja": [
+          "朝食後、次第に広がる高原の谷を抜けてナリンへ。キルギスのフェルト作りの中心地コチコルで、シルダック（フェルト絨毯）作りのワークショップに参加します。昼食後さらに山へ進み、夕方に標高2,000メートルを超えるナリンに到着。ナリン泊。",
+          "「5つのスタンを巡る長い道」は、中央アジア5か国すべてを21泊22日で巡るシルクロードツアーです。キルギスのアラ・アルチャ、ブラナの塔、ナリンとタシュ・ラバト隊商宿、イシク・クル湖畔のユルトキャンプ、カラコルから始まり、カザフスタンへ渡ってチャリン渓谷とアルマトイへ。空路でドゥシャンベに入り、イスカンデルクル湖を経てペンジケント、ホジェンドへ。ウズベキスタンではタシケント、サマルカンド、ブハラ、ヒヴァとシルクロードをたどり、最後はトルクメニスタンのダルヴァザのガスクレーターとアシガバートで旅を終えます。"
+        ],
+        "es": [
+          "Después del desayuno vamos hacia Naryn por valles de altura cada vez más abiertos. En Kochkor, centro del fieltro kirguís, participamos en un taller para hacer shyrdaks (alfombras de fieltro). Después de comer seguimos hacia las montañas y llegamos por la tarde a Naryn, a más de 2.000 metros de altitud. Noche en Naryn.",
+          "El largo camino por los 5 Stans es un viaje por la Ruta de la Seda que recorre los cinco países de Asia Central en 22 días y 21 noches. Empezamos en Kirguistán con Ala-Archa, la torre de Burana, Naryn y el caravasar de Tash-Rabat, un campamento de yurtas en el Issyk-Kul y Karakol, y pasamos a Kazajistán para el cañón de Charyn y Almaty. Un vuelo nos lleva a Dusambé, y la carretera pasa por el Iskanderkul hasta Penjikent y Juyand. En Uzbekistán seguimos la Ruta de la Seda por Taskent, Samarcanda, Bujará y Jiva, y terminamos en Turkmenistán, en el cráter de gas de Darvaza y Asjabad."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Hotels listed below, or similar properties of the same category, in double or twin rooms with breakfast. Early check-in on Day 1 in Bishkek is included; at other hotels check-in is at 14:00 and check-out at 12:00",
+          "Yurt camp in Tamga village (twin yurts with private en-suite bathrooms)",
+          "Yurt camp at Darwaza (3–4 travellers per yurt, shared bathrooms outside the yurt)"
+        ],
+        "de": [
+          "Hotels wie unten aufgeführt oder gleichwertige Häuser derselben Kategorie, im Doppel- oder Zweibettzimmer mit Frühstück. Early Check-in am 1. Tag in Bischkek inklusive; in den übrigen Hotels Check-in um 14:00, Check-out um 12:00 Uhr",
+          "Jurtencamp im Dorf Tamga (Zweibettjurten mit eigenem Bad)",
+          "Jurtencamp in Darwasa (3–4 Reisende pro Jurte, gemeinsame Bäder außerhalb der Jurte)"
+        ],
+        "fr": [
+          "Hôtels indiqués ci-dessous, ou établissements similaires de même catégorie, en chambre double ou twin avec petit-déjeuner. Early check-in le jour 1 à Bichkek inclus ; dans les autres hôtels, arrivée à 14 h et départ à 12 h",
+          "Camp de yourtes au village de Tamga (yourtes twin avec salle de bains privative)",
+          "Camp de yourtes à Darvaza (3–4 voyageurs par yourte, sanitaires partagés à l’extérieur)"
+        ],
+        "ja": [
+          "下記ホテルまたは同クラスのホテル（ダブルまたはツイン、朝食付き）。1日目ビシュケクのアーリーチェックイン込み。その他のホテルはチェックイン14:00、チェックアウト12:00",
+          "タムガ村のユルトキャンプ（専用バスルーム付きツインのユルト）",
+          "ダルヴァザのユルトキャンプ（1ユルト3～4名、ユルト外の共用バスルーム）"
+        ],
+        "es": [
+          "Hoteles indicados abajo, o similares de la misma categoría, en habitación doble o twin con desayuno. Early check-in el día 1 en Biskek incluido; en los demás hoteles la entrada es a las 14:00 y la salida a las 12:00",
+          "Campamento de yurtas en el pueblo de Tamga (yurtas twin con baño privado)",
+          "Campamento de yurtas en Darvaza (3–4 viajeros por yurta, baños compartidos fuera de la yurta)"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "所要日数",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days",
+            "de": "22 Days",
+            "fr": "22 Days",
+            "ja": "22 Days",
+            "es": "22 Days"
+          }
+        },
+        {
+          "label": {
+            "en": "Starting Price",
+            "de": "Preis ab",
+            "fr": "Prix dès",
+            "ja": "参考料金",
+            "es": "Precio desde"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "From $3490 USD / person",
+            "fr": "From $3490 USD / person",
+            "ja": "From $3490 USD / person",
+            "es": "From $3490 USD / person"
+          }
+        },
+        {
+          "label": {
+            "en": "Best Season",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure saison",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "Year-round",
+            "de": "Year-round",
+            "fr": "Year-round",
+            "ja": "Year-round",
+            "es": "Year-round"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400029/sunday-atlas/fairy-tale-canyon-in-kyrgyzstan-24778698_lsz2un.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "Issyk-Kul, Skazka & Jeti-Oguz — Kyrgyzstan tour photo",
+          "de": "Issyk-Kul, Skazka & Jeti-Oguz — Kyrgyzstan tour photo",
+          "fr": "Issyk-Kul, Skazka & Jeti-Oguz — Kyrgyzstan tour photo",
+          "ja": "Issyk-Kul, Skazka & Jeti-Oguz — Kyrgyzstan tour photo",
+          "es": "Issyk-Kul, Skazka & Jeti-Oguz — Kyrgyzstan tour photo"
+        },
+        "caption": {
+          "en": "Issyk-Kul, Skazka & Jeti-Oguz · The Long Road Through the 5 Stans",
+          "de": "Issyk-Kul, Skazka & Jeti-Oguz · Der lange Weg durch die 5 Stans",
+          "fr": "Issyk-Kul, Skazka & Jeti-Oguz · La longue route à travers les 5 Stans",
+          "ja": "Issyk-Kul, Skazka & Jeti-Oguz · 5つのスタンを巡る長い道",
+          "es": "Issyk-Kul, Skazka & Jeti-Oguz · El largo camino por los 5 Stans"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    },
+    {
+      "id": "section-4",
+      "rankNumber": 4,
+      "placeName": {
+        "en": "Nomadic Yurt Pastures & Horse Trails",
+        "de": "Nomadic Yurt Pastures & Horse Trails",
+        "fr": "Nomadic Yurt Pastures & Horse Trails",
+        "ja": "Nomadic Yurt Pastures & Horse Trails",
+        "es": "Nomadic Yurt Pastures & Horse Trails"
+      },
+      "heading": {
+        "en": "4. Bishkek – Ala-Archa National Park – Tokmok – Burana Tower – Bishkek",
+        "de": "4. Bischkek – Ala-Artscha-Nationalpark – Tokmok – Burana-Turm – Bischkek",
+        "fr": "4. Bichkek – parc national d’Ala-Archa – Tokmok – tour de Burana – Bichkek",
+        "ja": "4. ビシュケク – アラ・アルチャ国立公園 – トクモク – ブラナの塔 – ビシュケク",
+        "es": "4. Biskek – Parque Nacional Ala-Archa – Tokmok – torre de Burana – Biskek"
+      },
+      "paragraphs": {
+        "en": [
+          "We pick you up at your Bishkek hotel and drive about 40 minutes into Ala-Archa National Park. With our guide you walk into the alpine gorge along the river toward the Ak-Sai trail viewpoint, at your own pace. After lunch time in the city, we drive east to Tokmok to see the 11th-century Karakhanid Burana Tower minaret and the field of balbal stone warriors and the small museum beside it, then return to your hotel in Bishkek.",
+          "Two sides of Kyrgyzstan in one day: mountain air south of Bishkek in the morning, Silk Road history in the Chuy Valley in the afternoon."
+        ],
+        "de": [
+          "Wir holen Sie an Ihrem Hotel in Bischkek ab und fahren etwa 40 Minuten in den Ala-Artscha-Nationalpark. Mit unserem Guide wandern Sie in Ihrem Tempo am Fluss entlang in die Alpenschlucht bis zum Aussichtspunkt am Ak-Sai-Weg. Nach einer Mittagspause fahren wir ostwärts nach Tokmok zum karachanidischen Burana-Turm aus dem 11. Jahrhundert, dem Feld der Balbal-Steinkrieger und dem kleinen Museum, und bringen Sie zurück zu Ihrem Hotel.",
+          "Zwei Seiten Kirgistans an einem Tag: morgens Bergluft südlich von Bischkek, nachmittags Seidenstraßen-Geschichte im Tschüi-Tal."
+        ],
+        "fr": [
+          "Nous venons vous chercher à votre hôtel de Bichkek et rejoignons en 40 minutes environ le parc national d’Ala-Archa. Avec notre guide, vous remontez à votre rythme les gorges alpines le long de la rivière jusqu’au point de vue du sentier d’Ak-Saï. Après une pause déjeuner, nous partons vers Tokmok pour le minaret karakhanide de Burana du XIe siècle, le champ de balbals et son petit musée, puis vous ramenons à votre hôtel.",
+          "Deux visages du Kirghizistan en une journée : l’air des montagnes au sud de Bichkek le matin, l’histoire de la route de la soie dans la vallée de Tchouï l’après-midi."
+        ],
+        "ja": [
+          "ビシュケクのホテルでお迎えし、約40分でアラ・アルチャ国立公園へ。ガイドと一緒に川沿いを歩き、アクサイ・トレイルの展望地を目指します（ペースはお好みで）。昼食休憩の後、東のトクモクへ向かい、11世紀カラハン朝のブラナの塔、石人バルバルの並ぶ野外展示と小さな博物館を見学し、ビシュケクのホテルへ戻ります。",
+          "1日でキルギスの2つの顔を：午前はビシュケク南の山の空気、午後はチュイ渓谷のシルクロードの歴史。"
+        ],
+        "es": [
+          "Le recogemos en su hotel de Biskek y en unos 40 minutos llegamos al Parque Nacional Ala-Archa. Con nuestro guía camina a su ritmo por la garganta alpina junto al río hasta el mirador del sendero Ak-Sai. Tras una pausa para almorzar, vamos al este, a Tokmok, para ver el minarete karajánida de Burana del siglo XI, el campo de guerreros balbal y su pequeño museo, y volvemos a su hotel.",
+          "Dos caras de Kirguistán en un día: aire de montaña al sur de Biskek por la mañana e historia de la Ruta de la Seda en el valle de Chuy por la tarde."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Private hotel pick-up and drop-off in Bishkek",
+          "Private vehicle for the whole day",
+          "English-speaking driver-guide"
+        ],
+        "de": [
+          "Privater Hoteltransfer in Bischkek (Abholung und Rückfahrt)",
+          "Privates Fahrzeug für den ganzen Tag",
+          "Englischsprachiger Fahrer-Guide"
+        ],
+        "fr": [
+          "Prise en charge et retour privés à votre hôtel à Bichkek",
+          "Véhicule privé pour toute la journée",
+          "Chauffeur-guide anglophone"
+        ],
+        "ja": [
+          "ビシュケクのホテル送迎（専用）",
+          "終日専用車",
+          "英語を話すドライバー兼ガイド"
+        ],
+        "es": [
+          "Recogida y regreso privados a su hotel en Biskek",
+          "Vehículo privado para todo el día",
+          "Conductor-guía de habla inglesa"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "所要日数",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Day",
+            "fr": "1 Day",
+            "ja": "1 Day",
+            "es": "1 Day"
+          }
+        },
+        {
+          "label": {
+            "en": "Starting Price",
+            "de": "Preis ab",
+            "fr": "Prix dès",
+            "ja": "参考料金",
+            "es": "Precio desde"
+          },
+          "value": {
+            "en": "From $130 USD / person",
+            "de": "From $130 USD / person",
+            "fr": "From $130 USD / person",
+            "ja": "From $130 USD / person",
+            "es": "From $130 USD / person"
+          }
+        },
+        {
+          "label": {
+            "en": "Best Season",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure saison",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "May to October",
+            "de": "Mai bis Oktober",
+            "fr": "De mai à octobre",
+            "ja": "5月〜10月",
+            "es": "De mayo a octubre"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400025/sunday-atlas/tash-rabat-in-kyrgyzstan-17533368_xht6ol.jpg",
+        "width": 1600,
+        "height": 1067,
+        "alt": {
+          "en": "Nomadic Yurt Pastures & Horse Trails — Kyrgyzstan tour photo",
+          "de": "Nomadic Yurt Pastures & Horse Trails — Kyrgyzstan tour photo",
+          "fr": "Nomadic Yurt Pastures & Horse Trails — Kyrgyzstan tour photo",
+          "ja": "Nomadic Yurt Pastures & Horse Trails — Kyrgyzstan tour photo",
+          "es": "Nomadic Yurt Pastures & Horse Trails — Kyrgyzstan tour photo"
+        },
+        "caption": {
+          "en": "Nomadic Yurt Pastures & Horse Trails · Ala-Archa Alpine Gorge & Silk Road Burana Tower Day Trip from Bishkek",
+          "de": "Nomadic Yurt Pastures & Horse Trails · Ala-Artscha-Schlucht & Burana-Turm an der Seidenstraße: Tagesausflug ab Bischkek",
+          "fr": "Nomadic Yurt Pastures & Horse Trails · Gorges d’Ala-Archa et tour de Burana sur la route de la soie : excursion depuis Bichkek",
+          "ja": "Nomadic Yurt Pastures & Horse Trails · ビシュケク発 アラ・アルチャ渓谷とシルクロードのブラナの塔 日帰りツアー",
+          "es": "Nomadic Yurt Pastures & Horse Trails · Garganta de Ala-Archa y torre de Burana de la Ruta de la Seda: excursión desde Biskek"
+        }
+      },
+      "embeddedPackageSlug": "ala-archa-burana-tower-day-trip"
+    },
+    {
+      "id": "this-season",
+      "seasonKey": "2026-11",
+      "placeName": {
+        "en": "November 2026",
+        "de": "November 2026",
+        "fr": "Novembre 2026",
+        "ja": "2026年11月",
+        "es": "Noviembre 2026"
+      },
+      "heading": {
+        "en": "November 2026: Ala-Archa and Burana Tower Day Trip Conditions",
+        "de": "November 2026: Ala-Archa und Burana Tower – Tagesausflug Bedingungen",
+        "fr": "Novembre 2026 : Conditions de la journée d'excursion Ala-Archa et Tour de Burana",
+        "ja": "2026年11月：アラアルチャとブラナの塔 日帰りツアーの状況",
+        "es": "Noviembre 2026: Condiciones de la excursión de un día a Ala-Archa y la Torre Burana"
+      },
+      "paragraphs": {
+        "en": [
+          "In early November Bishkek daytime highs reach about 10°C and fall to around 0°C by month’s end, while Ala-Archa at 2,200 m often sits 5–7°C colder with a strong chance of snow on the upper trails. Daylight shrinks to roughly 9.5 hours, so the private day trip departs around 08:00 and returns before dusk. The Burana Tower site near Tokmok stays open year-round, but the Ala-Archa National Park gate may close early or restrict access above the first checkpoint after the first heavy snowfall. Our 1-day private tour runs only from May to October, so November departures are not scheduled.",
+          "Crowds are minimal at both locations, and the mountain road to Ala-Archa remains drivable in a private 4×4 unless a storm brings fresh ice. Pack a warm insulated jacket, hat, gloves, sturdy waterproof boots and layered clothing for the 40 km drive from Bishkek to the gorge. A thermos with a hot drink is useful for the short alpine walk, and sunglasses help with low-angle sun on snow. If you plan independent travel, confirm the park gate status the evening before and allow extra time for the 65 km return leg to Burana Tower."
+        ],
+        "de": [
+          "Zu Beginn des Novembers liegen die Tageshöchstwerte in Bishkek bei etwa 10 °C und fallen bis Monatsende auf rund 0 °C, während Ala-Archa auf 2.200 m oft 5–7 °C kühler ist und auf den oberen Wegen mit einer hohen Wahrscheinlichkeit von Schnee zu rechnen ist. Die Tageslichtzeit schrumpft auf etwa 9,5 Stunden, sodass die private Tagesausfahrt gegen 08:00 Uhr startet und vor Einbruch der Dunkelheit zurückkehrt. Die Burana-Tower-Stätte in der Nähe von Tokmok ist ganzjährig geöffnet, aber das Tor des Ala-Archa-Nationalparks kann früh schließen oder den Zugang oberhalb des ersten Kontrollpunkts nach dem ersten starken Schneefall einschränken. Unsere 1-tägige Privattour läuft nur von Mai bis Oktober, daher sind November-Abfahrten nicht geplant.",
+          "An beiden Orten sind die Menschenmengen minimal, und die Bergstraße nach Ala-Archa ist mit einem privaten 4×4 befahrbar, es sei denn, ein Sturm bringt frisches Eis. Packen Sie eine warme isolierte Jacke, Mütze, Handschuhe, feste wasserdichte Stiefel und mehrlagige Kleidung für die 40 km lange Fahrt von Bishkek in die Schlucht. Eine Thermoskanne mit einem Heißgetränk ist für den kurzen Alpinspaziergang nützlich, und eine Sonnenbrille hilft gegen die tiefstehende Sonne auf dem Schnee. Wenn Sie eine individuelle Reise planen, bestätigen Sie den Parktorgebotsstatus am Abend zuvor und planen Sie zusätzliche Zeit für die 65 km lange Rückfahrt zum Burana Tower ein."
+        ],
+        "fr": [
+          "Les foules sont minimes aux deux endroits, et la route de montagne menant à Ala-Archa reste praticable en 4×4 privé, à moins qu'une tempête n'apporte de la glace fraîche. Emportez une veste chaude isolante, un bonnet, des gants, des bottes imperméables robustes et des vêtements en couches pour le trajet de 40 km de Bishkek jusqu'à la gorge. Un thermos avec une boisson chaude est utile pour la courte promenade alpine, et des lunettes de soleil aident contre le soleil rasant sur la neige. Si vous prévoyez un voyage indépendant, confirmez le statut de la porte du parc la veille et prévoyez du temps supplémentaire pour le trajet de retour de 65 km jusqu'à la tour de Burana."
+        ],
+        "ja": [
+          "11月上旬、ビシュケクの日中の最高気温は約10℃で、月末までに0℃前後まで下がります。標高2,200mのアラアルチャはさらに5〜7℃低く、上部のトレイルには雪が降る可能性が高いです。日照時間は約9.5時間に短縮されるため、プライベート日帰りツアーは午前8時頃に出発し、日没前に戻ります。トクモク近郊のブラナの塔遺跡は年間を通じて開放されていますが、アラアルチャ国立公園の入園ゲートは早期に閉鎖されるか、最初の大雪の後、最初のチェックポイント以上の立ち入りを制限する場合があります。1日間のプライベートツアーは5月から10月までの運行のため、11月の出発は予定されていません。",
+          "両場所とも混雑は少なく、嵐で新たな氷が張らない限り、アラアルチャへの山道はプライベート4×4で走行可能です。ビシュケクから峡谷までの40kmのドライブに備え、暖かい防寒ジャケット、帽子、手袋、丈夫な防水ブーツ、重ね着をご用意ください。短いアルプス散歩には保温ボトルに入れた温かい飲み物が便利で、雪の上の低角度の太陽にはサングラスが役立ちます。個人旅行をご計画の場合は、前夜に公園ゲートの状況を確認し、ブラナの塔までの65kmの帰路に余裕を持ってお時間をご確保ください。"
+        ],
+        "es": [
+          "A principios de noviembre, las máximas diurnas en Bishkek alcanzan unos 10 °C y descienden a cerca de 0 °C a finales de mes, mientras que Ala-Archa, a 2.200 m, suele estar 5–7 °C más fría, con una fuerte probabilidad de nieve en los senderos superiores. La luz del día se reduce a unas 9,5 horas, por lo que la excursión privada de un día sale alrededor de las 08:00 y regresa antes del anochecer. El sitio de la Torre Burana, cerca de Tokmok, permanece abierto todo el año, pero la entrada del Parque Nacional Ala-Archa puede cerrar temprano o restringir el acceso por encima del primer punto de control tras la primera nevada importante. Nuestra excursión privada de 1 día solo opera de mayo a octubre, por lo que no hay salidas programadas en noviembre.",
+          "Las multitudes son mínimas en ambos lugares, y el camino de montaña hacia Ala-Archa sigue siendo transitable en un 4×4 privado a menos que una tormenta traiga hielo nuevo. Lleve una chaqueta aislante abrigada, gorro, guantes, botas impermeables resistentes y ropa en capas para el trayecto de 40 km desde Bishkek hasta el desfiladero. Un termos con una bebida caliente es útil para la corta caminata alpina, y las gafas de sol ayudan con el sol rasante sobre la nieve. Si planea viajar por su cuenta, confirme el estado de la entrada del parque la noche anterior y permita tiempo adicional para el tramo de regreso de 65 km hasta la Torre Burana."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Daytime highs 10°C dropping to 0°C",
+          "Ala-Archa 5–7°C colder than Bishkek",
+          "Daylight about 9.5 hours in November",
+          "Burana Tower open year-round"
+        ],
+        "de": [
+          "Tageshöchstwerte 10 °C, sinkend auf 0 °C",
+          "Ala-Archa 5–7 °C kälter als Bishkek",
+          "Tageslicht etwa 9,5 Stunden im November",
+          "Burana Tower ganzjährig geöffnet"
+        ],
+        "fr": [
+          "Maximales diurnes de 10 °C descendant à 0 °C",
+          "Ala-Archa 5 à 7 °C plus froid que Bishkek",
+          "Lumière du jour d'environ 9,5 heures en novembre",
+          "Tour de Burana ouverte toute l'année"
+        ],
+        "ja": [
+          "日中の最高気温10℃から0℃へ低下",
+          "アラアルチャはビシュケクより5〜7℃低い",
+          "11月の日照時間は約9.5時間",
+          "ブラナの塔は年間を通じて開放"
+        ],
+        "es": [
+          "Máximas diurnas de 10 °C que descienden a 0 °C",
+          "Ala-Archa 5–7 °C más fría que Bishkek",
+          "Luz del día de unas 9,5 horas en noviembre",
+          "La Torre Burana permanece abierta todo el año"
+        ]
+      },
+      "keyFacts": []
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does this day tour cost?",
+        "de": "Was kostet diese Tagestour?",
+        "fr": "Combien coûte cette excursion ?",
+        "ja": "この日帰りツアーの料金は？",
+        "es": "¿Cuánto cuesta este tour?"
+      },
+      "a": {
+        "en": "It is $130 per person for 4 travellers, $145 for 3, $165 for 2 and $280 for one traveller, as a private tour.",
+        "de": "Als private Tour $130 pro Person bei 4 Reisenden, $145 bei 3, $165 bei 2 und $280 für eine Person.",
+        "fr": "En privé : 130 $ par personne à 4, 145 $ à 3, 165 $ à 2 et 280 $ pour un voyageur seul.",
+        "ja": "プライベートツアーで、4名なら1名$130、3名$145、2名$165、1名$280です。",
+        "es": "Como tour privado: $130 por persona para 4, $145 para 3, $165 para 2 y $280 para un viajero."
+      }
+    },
+    {
+      "q": {
+        "en": "Where does the tour start?",
+        "de": "Wo beginnt die Tour?",
+        "fr": "Où commence l’excursion ?",
+        "ja": "出発地はどこですか？",
+        "es": "¿Dónde empieza el tour?"
+      },
+      "a": {
+        "en": "We pick you up at your hotel in Bishkek in the morning and bring you back there in the evening.",
+        "de": "Wir holen Sie morgens an Ihrem Hotel in Bischkek ab und bringen Sie abends zurück.",
+        "fr": "Nous venons vous chercher le matin à votre hôtel à Bichkek et vous y ramenons le soir.",
+        "ja": "朝ビシュケクのホテルへお迎えに上がり、夕方ホテルまでお送りします。",
+        "es": "Le recogemos por la mañana en su hotel de Biskek y le devolvemos allí por la tarde."
+      }
+    },
+    {
+      "q": {
+        "en": "Which tours include Kyrgyzstan?",
+        "de": "Welche Reisen führen durch Kirgistan?",
+        "fr": "Quels circuits passent par le Kirghizistan ?",
+        "ja": "キルギスを訪れるツアーはどれですか？",
+        "es": "¿Qué viajes pasan por Kirguistán?"
+      },
+      "a": {
+        "en": "All three. The 3 Stans Discovery and the Four Stans Odyssey spend four nights here between Karakol, Kochkor and Bishkek. The Long Road Through the 5 Stans starts in Bishkek and adds Naryn, Tash-Rabat and a yurt camp at Tamga.",
+        "de": "Alle drei. 3 Stans Discovery und Four Stans Odyssey verbringen hier vier Nächte zwischen Karakol, Kotschkor und Bischkek. Der lange Weg durch die 5 Stans beginnt in Bischkek und ergänzt Naryn, Tasch-Rabat und ein Jurtencamp in Tamga.",
+        "fr": "Les trois. 3 Stans Discovery et Four Stans Odyssey y passent quatre nuits entre Karakol, Kotchkor et Bichkek. La longue route à travers les 5 Stans commence à Bichkek et ajoute Naryn, Tash-Rabat et un camp de yourtes à Tamga.",
+        "ja": "3つすべてです。3スタン・ディスカバリーとフォー・スタンズ・オデッセイは、カラコル、コチコル、ビシュケクで4泊します。「5つのスタンを巡る長い道」はビシュケクから始まり、ナリン、タシュ・ラバト、タムガのユルトキャンプが加わります。",
+        "es": "Los tres. 3 Stans Discovery y Four Stans Odyssey pasan aquí cuatro noches entre Karakol, Kochkor y Biskek. El largo camino por los 5 Stans empieza en Biskek y añade Naryn, Tash-Rabat y un campamento de yurtas en Tamga."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "title": "Ala-Archa and Burana Tower Day Trip from Bishkek (2027)",
+      "description": "Ala-Archa and Burana Tower in one day from Bishkek: a walk in the alpine gorge, then the 11th-century tower and its balbal stones. See how the day runs.",
+      "keywords": [
+        "kyrgyzstan tours",
+        "bishkek day trips",
+        "ala archa burana tower tour",
+        "issyk kul karakol tour",
+        "kyrgyzstan yurt camp tour",
+        "song kul lake tour"
+      ],
+      "seo_title": "Ala-Archa and Burana Tower Day Trip from Bishkek (2027)",
+      "meta_description": "Ala-Archa and Burana Tower in one day from Bishkek: a walk in the alpine gorge, then the 11th-century tower and its balbal stones. See how the day runs."
+    },
+    "de": {
+      "title": "Ala-Artscha & Burana-Turm: Tagesausflug ab Bischkek (2027)",
+      "description": "Ala-Artscha und Burana-Turm an einem Tag ab Bischkek: Wanderung in der Bergschlucht, dann der Turm aus dem 11. Jahrhundert und die Balbal-Steine.",
+      "keywords": [
+        "kirgistan rundreise",
+        "kirgistan reisen",
+        "ala artscha burana tagestour",
+        "issyk kul reise",
+        "bischkek ausflüge"
+      ],
+      "seo_title": "Ala-Artscha & Burana-Turm: Tagesausflug ab Bischkek (2027)",
+      "meta_description": "Ala-Artscha und Burana-Turm an einem Tag ab Bischkek: Wanderung in der Bergschlucht, dann der Turm aus dem 11. Jahrhundert und die Balbal-Steine."
+    },
+    "fr": {
+      "title": "Ala-Archa et tour de Burana depuis Bichkek (2027)",
+      "description": "Ala-Archa et la tour de Burana en une journée depuis Bichkek : marche dans la gorge alpine, puis la tour du XIe siècle et ses balbals. Le déroulé.",
+      "keywords": [
+        "circuit kirghizistan",
+        "voyage kirghizistan",
+        "excursion ala archa burana",
+        "lac issyk koul tour",
+        "excursion bichkek"
+      ],
+      "seo_title": "Ala-Archa et tour de Burana depuis Bichkek (2027)",
+      "meta_description": "Ala-Archa et la tour de Burana en une journée depuis Bichkek : marche dans la gorge alpine, puis la tour du XIe siècle et ses balbals. Le déroulé."
+    },
+    "ja": {
+      "title": "アラ・アルチャとブラナの塔：ビシュケク発日帰り（2027）",
+      "description": "ビシュケク発、アラ・アルチャ渓谷とブラナの塔を1日で。高山の渓谷を歩き、11世紀の塔と石人バルバルを訪ねます。1日の流れはこちら。",
+      "keywords": [
+        "キルギス ツアー",
+        "ビシュケク 日帰りツアー",
+        "アラアルチャ ブラナの塔",
+        "イシククル湖 ツアー",
+        "キルギス 旅行"
+      ],
+      "seo_title": "アラ・アルチャとブラナの塔：ビシュケク発日帰り（2027）",
+      "meta_description": "ビシュケク発、アラ・アルチャ渓谷とブラナの塔を1日で。高山の渓谷を歩き、11世紀の塔と石人バルバルを訪ねます。1日の流れはこちら。"
+    },
+    "es": {
+      "title": "Ala-Archa y torre Burana: excursión desde Bishkek (2027)",
+      "description": "Ala-Archa y la torre Burana en un día desde Bishkek: paseo por el desfiladero alpino y luego la torre del siglo XI y sus balbales. Mira cómo es el día.",
+      "keywords": [
+        "tours kirguistán",
+        "viajes a kirguistán",
+        "excursión ala archa burana",
+        "lago issyk kul tour",
+        "excursiones desde biskek"
+      ],
+      "seo_title": "Ala-Archa y torre Burana: excursión desde Bishkek (2027)",
+      "meta_description": "Ala-Archa y la torre Burana en un día desde Bishkek: paseo por el desfiladero alpino y luego la torre del siglo XI y sus balbales. Mira cómo es el día."
+    }
+  },
+  "contentHash": "e93038bb6a85fa8d",
+  "refreshLog": [
+    {
+      "at": "2026-10-31T16:40:18+04:00",
+      "reason": "catalog refresh: 2 fact(s)"
+    },
+    {
+      "at": "2026-10-31T16:40:39+04:00",
+      "reason": "content edited outside the pipeline"
+    },
+    {
+      "at": "2026-11-02T22:54:53+04:00",
+      "reason": "content edited outside the pipeline"
+    },
+    {
+      "at": "2026-11-16T07:37:32+04:00",
+      "reason": "seasonal section 2026-11"
+    }
+  ]
+}

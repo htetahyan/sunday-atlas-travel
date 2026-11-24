@@ -1,0 +1,7 @@
+name = "rare-atlas-cms-auth"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[vars]
+ALLOWED_ORIGINS = "https://sundayatlastravel.com,https://www.sundayatlastravel.com,https://preview.rare-atlas-travel.pages.dev,https://rare-atlas-travel.pages.dev,https://sunday-atlas-travel.pages.dev"

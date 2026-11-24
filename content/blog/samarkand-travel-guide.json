@@ -1,0 +1,1162 @@
+{
+  "slug": "samarkand-travel-guide",
+  "published": true,
+  "featured": false,
+  "category": "destination-guide",
+  "destination": "uzbekistan",
+  "countries": [],
+  "publishedAt": "2026-10-30T09:15:36+04:00",
+  "updatedAt": "2026-11-17T09:09:55+04:00",
+  "readingTimeMinutes": 13,
+  "relatedPackages": [
+    "samarkand-day-tour-by-afrosiyob-train",
+    "3-stans-discovery-14-days",
+    "five-stans-long-road-22-days"
+  ],
+  "title": {
+    "en": "Samarkand Travel: Registan, Trains & Where to Stay (2027)",
+    "de": "Samarkand Reise: Registan, Zug & Unterkunft (2027)",
+    "fr": "Voyage à Samarkand : Registan, train et où dormir (2027)",
+    "ja": "サマルカンド旅行：レギスタン・鉄道・滞在エリア（2027）",
+    "es": "Viaje a Samarcanda: Registán, tren y dónde dormir (2027)"
+  },
+  "subtitle": {
+    "en": "Essential planning for Samarkand's Silk Road monuments, transport options and best neighbourhoods to stay",
+    "de": "Wichtiger Planungsführer für Samarkands Seidenstraßen-Denkmäler, Transportmöglichkeiten und die besten Stadtteile zum Übernachten",
+    "fr": "L'essentiel pour planifier les monuments de la Route de la Soie de Samarkand, les options de transport et les meilleurs quartiers où séjourner",
+    "ja": "サマルカンドのシルクロード記念碑、交通手段、おすすめの滞在エリアを網羅した必須の計画情報",
+    "es": "Lo esencial para planificar los monumentos de la Ruta de la Seda de Samarcanda, opciones de transporte y los mejores barrios donde alojarse"
+  },
+  "summary": {
+    "en": "Samarkand travel basics covering Registan Square, Gur-e-Amir, transport from Tashkent, Bukhara and Khiva connections, plus where to stay and seasonal advice.",
+    "de": "Samarkand im Überblick mit Registan-Platz, Gur-e-Amir, Anreise von Taschkent, Verbindungen nach Buchara und Chiwa, plus Unterkunftstipps und saisonale Hinweise.",
+    "fr": "Tout pour préparer Samarkand couvrant la place du Registan, le Gur-e-Amir, les transports depuis Tachkent, les connexions avec Boukhara et Khiva, ainsi que où séjourner et les conseils saisonniers.",
+    "ja": "レギスタン広場、グール・エ・アミール、タシュケントからの交通手段、ブハラとヒヴァへの接続、滞在先、季節ごとのアドバイスを網羅したサマルカンド旅行情報まとめです。",
+    "es": "Todo para viajar a Samarcanda que cubre la Plaza Registán, Gur-e-Amir, transporte desde Taskent, conexiones con Bujará y Jiva, además de dónde alojarse y consejos estacionales."
+  },
+  "intro": {
+    "en": "Samarkand sits at the heart of the Silk Road, where Timurid architecture defines the skyline. This post covers the essential monuments — Registan Square, Gur-e-Amir Mausoleum, Bibi-Khanym Mosque and Shah-i-Zinda necropolis — along with practical details on reaching the city by high-speed train from Tashkent, road connections to Bukhara and Khiva, and the best areas to base yourself. Spring (March to May) and autumn (September to November) offer comfortable temperatures for exploring. Whether you plan a day trip from Tashkent or a longer Silk Road journey through Uzbekistan, you will find the key logistics, seasonal tips and neighbourhood advice to structure your visit efficiently.",
+    "de": "Samarkand liegt im Herzen der Seidenstraße, wo timuridische Architektur die Skyline prägt. Dieser Beitrag behandelt die wichtigsten Denkmäler – den Registan-Platz, das Mausoleum Gur-e-Amir, die Bibi-Khanym-Moschee und die Nekropole Shah-i-Zinda – sowie praktische Details zur Anreise mit dem Hochgeschwindigkeitszug von Taschkent, Straßenverbindungen nach Buchara und Chiwa und die besten Stadtteile als Ausgangspunkt. Frühling (März bis Mai) und Herbst (September bis November) bieten angenehme Temperaturen zum Erkunden. Ob Sie einen Tagesausflug von Taschkent oder eine längere Seidenstraßenreise durch Usbekistan planen – hier finden Sie die wichtigsten Logistikinformationen, saisonale Tipps und Stadtteilhinweise, um Ihren Besuch effizient zu gestalten.",
+    "fr": "Samarkand se trouve au cœur de la Route de la Soie, où l'architecture timouride définit l'horizon. Cet article couvre les monuments essentiels — la place du Registan, le mausolée Gur-e-Amir, la mosquée Bibi-Khanym et la nécropole de Shah-i-Zinda — ainsi que les détails pratiques pour rejoindre la ville en train à grande vitesse depuis Tachkent, les connexions routières vers Boukhara et Khiva, et les meilleurs quartiers pour établir votre base. Le printemps (mars à mai) et l'automne (septembre à novembre) offrent des températures agréables pour explorer. Que vous planifiiez une excursion d'une journée depuis Tachkent ou un plus long voyage sur la Route de la Soie à travers l'Ouzbékistan, vous trouverez les principales informations logistiques, les conseils saisonniers et les recommandations de quartiers pour structurer votre visite efficacement.",
+    "ja": "サマルカンドはシルクロードの中心に位置し、ティムール朝の建築がスカイラインを彩っています。この記事では、レギスタン広場、グール・エ・アミール霊廟、ビビ・ハニムモスク、シャー・ヒ・ズィンダ墓地などの必見の記念碑に加え、タシュケントからの高速列車でのアクセス、ブハラやヒヴァへの道路接続、おすすめの滞在エリアなど、実用的な情報を網羅しています。春（3月から5月）と秋（9月から11月）は観光に快適な気候です。タシュケントからの日帰り旅行を計画する場合も、ウズベキスタンを巡るシルクロードの長期旅行を計画する場合も、効率的に訪問を組み立てるための主要なロジスティクス、季節のヒント、エリア情報が見つかります。",
+    "es": "Samarcanda se encuentra en el corazón de la Ruta de la Seda, donde la arquitectura timúrida define el horizonte. Este artículo cubre los monumentos esenciales —la Plaza Registán, el Mausoleo de Gur-e-Amir, la Mezquita Bibi-Khanym y la necrópolis de Shah-i-Zinda— junto con detalles prácticos para llegar a la ciudad en tren de alta velocidad desde Taskent, conexiones por carretera con Bujará y Jiva, y las mejores zonas para hospedarse. La primavera (de marzo a mayo) y el otoño (de septiembre a noviembre) ofrecen temperaturas agradables para explorar. Ya sea que planees una excursión de un día desde Taskent o un viaje más largo por la Ruta de la Seda a través de Uzbekistán, encontrarás la logística clave, consejos estacionales y recomendaciones de barrios para estructurar tu visita de manera eficiente."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/02-horses-naryn_gzijee.jpg",
+    "width": 1600,
+    "height": 2133,
+    "alt": {
+      "en": "Local horsemen leading and riding horses on a mountain pasture in the Tien Shan, Kyrgyzstan",
+      "de": "Einheimische Reiter mit Pferden auf einer Bergweide im Tian Shan, Kirgistan",
+      "fr": "Cavaliers locaux avec leurs chevaux sur un pâturage de montagne dans le Tian Shan, Kirghizistan",
+      "ja": "キルギス・天山山脈の山の牧草地で馬を引き、馬に乗る現地の騎手たち",
+      "es": "Jinetes locales con sus caballos en un pastizal de montaña del Tian Shan, Kirguistán"
+    }
+  },
+  "sections": [
+    {
+      "id": "history-significance",
+      "placeName": {
+        "en": "Samarkand",
+        "de": "Samarkand",
+        "fr": "Samarkand",
+        "ja": "サマルカンド",
+        "es": "Samarcanda"
+      },
+      "heading": {
+        "en": "History and Significance",
+        "de": "Geschichte und Bedeutung",
+        "fr": "Histoire et Signification",
+        "ja": "歴史と意義",
+        "es": "Historia y significado"
+      },
+      "paragraphs": {
+        "en": [
+          "Samarkand sits at the heart of the ancient Silk Road network, roughly 300 kilometers southwest of Tashkent, where caravans once paused between China and the Mediterranean. Its strategic position in the Zeravshan River valley made it a crossroads for merchants, scholars, and conquerors for over two millennia. Alexander the Great captured the city in 329 BCE, but its defining era arrived under Timur in the 14th century when he made it his imperial capital. Timur and his grandson Ulugh Beg commissioned the monumental madrasas, mosques, and mausoleums that still dominate the skyline today. The surviving Timurid architecture represents a high point of Islamic art, blending Persian, Mongol, and local traditions. Spring and autumn offer the most comfortable temperatures for exploring these open-air complexes.",
+          "The Registan ensemble, three madrasas framing a vast public square, showcases the scale and decorative mastery of the Timurid period. Ulugh Beg Madrasa, completed in 1420, originally functioned as a center for astronomy and mathematics alongside religious study. Sher-Dor and Tilya-Kori madrasas were added in the 17th century, extending the architectural dialogue across generations. Mosaic tilework in turquoise, lapis, and gold covers domes, minarets, and portals, surviving earthquakes and centuries of weather. Gur-e Amir, the dynastic mausoleum, holds the tombs of Timur, his sons, and Ulugh Beg beneath a ribbed azure dome. The interior reveals intricate paper-mache muqarnas and onyx panels that illustrate the wealth of the empire.",
+          "Beyond the main monuments, the Shah-i-Zinda necropolis stretches along a narrow lane where successive rulers and nobles built mausoleums from the 11th to the 19th century. Each portal displays evolving tile techniques, from carved terracotta to fully glazed faience, creating a timeline of Central Asian ceramic art. Bibi-Khanym Mosque, once the Friday mosque of the capital, was partly reconstructed in the 20th century but retains its massive courtyard and entrance pishtaq. The nearby Siab Bazaar operates daily, offering a practical stop for water, fruit, and flatbread before visiting the Afrasiyab Museum, which preserves wall paintings from the pre-Islamic Sogdian city. Walking between these sites covers several kilometers, so wear supportive shoes and carry sun protection.",
+          "Russian imperial expansion reached Samarkand in 1868, adding a colonial quarter with wide boulevards and brick administrative buildings that contrast with the historic core. The railway arrived in 1888, linking the city to Moscow and later to the Trans-Caspian line, which accelerated trade and migration. Soviet-era preservation efforts stabilized major monuments but also cleared residential areas around the Registan to create the open plaza seen today. Independence in 1991 brought renewed investment in restoration, though debates continue over reconstruction methods. Visitors today experience a layered city where ancient foundations, medieval masterpieces, and modern life coexist within walking distance of each other."
+        ],
+        "de": [
+          "Samarkand liegt im Herzen des antiken Seidenstraßennetzes, etwa 300 Kilometer südwestlich von Taschkent, wo Karawanen einst zwischen China und dem Mittelmeer Rast machten. Seine strategische Lage im Tal des Zeravschan machte es über zwei Jahrtausende hinweg zu einem Knotenpunkt für Händler, Gelehrte und Eroberer. Alexander der Große eroberte die Stadt im Jahr 329 v. Chr., doch ihre prägende Epoche begann unter Timur im 14. Jahrhundert, als er sie zu seiner kaiserlichen Hauptstadt machte. Timur und sein Enkel Ulugh Beg ließen die monumentalen Medresen, Moscheen und Mausoleen errichten, die noch heute die Skyline dominieren. Die erhaltene timuridische Architektur stellt einen Höhepunkt der islamischen Kunst dar und vereint persische, mongolische und lokale Traditionen. Frühling und Herbst bieten die angenehmsten Temperaturen zum Erkunden dieser Freiluftkomplexe.",
+          "Das Registan-Ensemble, drei Medresen, die einen riesigen öffentlichen Platz rahmen, zeigt die Ausmaße und dekorative Meisterschaft der timuridischen Periode. Die Ulugh-Beg-Medrese, fertiggestellt 1420, diente ursprünglich als Zentrum für Astronomie und Mathematik neben dem Religionsunterricht. Sher-Dor und Tilya-Kori wurden im 17. Jahrhundert hinzugefügt und setzten den architektonischen Dialog über Generationen fort. Mosaikfliesen in Türkis, Lapislazuli und Gold bedecken Kuppeln, Minarette und Portale und haben Erdbeben und Jahrhunderte der Witterung überstanden. Gur-e-Amir, das dynastische Mausoleum, birgt die Gräber von Timur, seinen Söhnen und Ulugh Beg unter einer gerippten azurblauen Kuppel. Im Inneren zeigen komplizierte Papiermaché-Muqarnas und Onyxpaneele den Reichtum des Reiches.",
+          "Außerhalb der Hauptdenkmäler erstreckt sich die Nekropole Shah-i-Zinda entlang einer schmalen Gasse, in der aufeinanderfolgende Herrscher und Adlige vom 11. bis zum 19. Jahrhundert Mausoleen errichteten. Jedes Portal zeigt sich entwickelnde Fliesentechniken, von geschnitztem Terrakotta bis hin zu vollständig glasiertem Fayence, und schafft so eine Zeitlinie der zentralasiatischen Keramikkunst. Die Bibi-Khanym-Moschee, einst die Freitagsmoschee der Hauptstadt, wurde teilweise im 20. Jahrhundert rekonstruiert, behält aber ihren massiven Innenhof und das monumentale Eingangsportal (Pishtaq) bei. Der nahe gelegene Siab-Basar ist täglich geöffnet und bietet einen praktischen Stopp für Wasser, Obst und Fladenbrot, bevor Sie das Afrasiyab-Museum besuchen, das Wandmalereien aus der vorislamischen sogdischen Stadt bewahrt. Die Wege zwischen den Stätten umfassen mehrere Kilometer, tragen Sie daher bequeme Schuhe und Sonnenschutz.",
+          "Die russische imperialen Expansion erreichte Samarkand 1868 und fügte ein Kolonialviertel mit breiten Boulevards und Backstein-Verwaltungsgebäuden hinzu, die sich vom historischen Kern abheben. Die Eisenbahn kam 1888 und verband die Stadt mit Moskau und später mit der Transkaspischen Linie, was Handel und Migration beschleunigte. Sowjetische Erhaltungsbemühungen stabilisierten die wichtigsten Monumente, räumten jedoch Wohngebiete rund um den Registan, um den offenen Platz zu schaffen, wie wir ihn heute sehen. Die Unabhängigkeit 1991 brachte erneute Investitionen in die Restaurierung, obwohl Debatten über Rekonstruktionsmethoden anhalten. Besucher erleben heute eine geschichtete Stadt, in der alte Fundamente, mittelalterliche Meisterwerke und modernes Leben in Gehweite voneinander koexistieren."
+        ],
+        "fr": [
+          "Samarkand se trouve au cœur de l'ancien réseau de la Route de la Soie, à environ 300 kilomètres au sud-ouest de Tachkent, où les caravanes faisaient autrefois halte entre la Chine et la Méditerranée. Sa position stratégique dans la vallée du fleuve Zeravchan en a fait un carrefour pour les marchands, les savants et les conquérants pendant plus de deux millénaires. Alexandre le Grand s'empara de la ville en 329 avant notre ère, mais son époque définitive arriva sous Timur au 14e siècle, lorsqu'il en fit sa capitale impériale. Timur et son petit-fils Ulugh Beg commandèrent les madrasas, mosquées et mausolées monumentaux qui dominent encore l'horizon aujourd'hui. L'architecture timouride survivante représente un point culminant de l'art islamique, mêlant traditions perses, mongoles et locales. Le printemps et l'automne offrent les températures les plus confortables pour explorer ces complexes en plein air.",
+          "L'ensemble du Registan, trois madrasas encadrant une vaste place publique, illustre l'ampleur et la maîtrise décorative de la période timouride. La madrasa Ulugh Beg, achevée en 1420, fonctionnait à l'origine comme un centre d'astronomie et de mathématiques en plus des études religieuses. Les madrasas Sher-Dor et Tilya-Kori furent ajoutées au 17e siècle, prolongeant le dialogue architectural à travers les générations. Les mosaïques de carreaux en turquoise, lapis-lazuli et or recouvrent dômes, minarets et portails, ayant survécu aux tremblements de terre et aux siècles d'intempéries. Le Gur-e-Amir, le mausolée dynastique, abrite les tombes de Timur, de ses fils et d'Ulugh Beg sous un dôme azuré nervuré. L'intérieur révèle des muqarnas en papier mâché complexes et des panneaux d'onyx qui illustrent la richesse de l'empire.",
+          "Au-delà des monuments principaux, la nécropole de Shah-i-Zinda s'étend le long d'une ruelle étroite où des souverains et des nobles successifs construisirent des mausolée du 11e au 19e siècle. Chaque portail présente des techniques de carreaux évoluant, de la terre cuite sculptée à la faïence entièrement émaillée, créant une chronologie de l'art céramique d'Asie centrale. La mosquée Bibi-Khanym, autrefois la mosquée du vendredi de la capitale, fut partiellement reconstruite au 20e siècle mais conserve sa vaste cour et son pishtaq monumental. Le bazar Siab voisin fonctionne quotidiennement, offrant un arrêt pratique pour l'eau, les fruits et le pain plat avant de visiter le musée d'Afrasiab, qui préserve les peintures murales de la ville sogdienne préislamique. Marcher entre ces sites couvre plusieurs kilomètres, alors portez des chaussures de soutien et emportez une protection solaire.",
+          "L'expansion impériale russe atteignit Samarcande en 1868, ajoutant un quartier colonial aux larges boulevards et aux bâtiments administratifs en brique qui contrastent avec le cœur historique. Le chemin de fer arriva en 1888, reliant la ville à Moscou puis à la ligne Trans-Caspienne, ce qui accéléra le commerce et la migration. Les efforts de préservation de l'époque soviétique stabilisèrent les principaux monuments, mais dégagèrent aussi les zones résidentielles autour du Registan pour créer la place ouverte que l'on voit aujourd'hui. L'indépendance en 1991 apporta un nouvel investissement dans la restauration, bien que les débats se poursuivent sur les méthodes de reconstruction. Les visiteurs découvrent aujourd'hui une ville en couches où les fondations antiques, les chefs-d'œuvre médiévaux et la vie moderne coexistent à distance de marche les uns des autres."
+        ],
+        "ja": [
+          "サマルカンドは古代シルクロード網の要衝に位置し、タシュケントの南西約300キロメートル、かつてキャラバンが中国と地中海の間で休息をとった場所にあります。ゼラフシャン川流域の戦略的な立地により、2千年以上にわたり商人、学者、征服者たちの交差点となりました。アレクサンドロス大王が紀元前329年にこの都市を占領しましたが、その決定的な時代は14世紀、ティムールがここを帝国の首都としたときに訪れます。ティムールとその孫ウルグ・ベクが建てさせた壮大なマドラサ、モスク、霊廟が、今なおスカイラインを支配しています。現存するティムール朝建築はイスラム美術の頂点を示し、ペルシャ、モンゴル、現地の伝統が融合しています。これらの屋外建築群を巡るには、春と秋が最も快適な気温となります。",
+          "レギスタン複合体は、3つのマドラサが広大な公共広場を囲む構成で、ティムール朝時代の規模と装飾の熟達ぶりを示しています。ウルグベグ・マドラサは1420年に完成し、当初から宗教研究に加えて天文学と数学の中心として機能していました。シェル・ドルとティリヤ・カリのマドラサは17世紀に追加され、世代を超えた建築の対話を広げました。ターコイズ、ラピスラズリ、金のモザイクタイルワークがドーム、ミナレット、ポータルを覆い、地震や何世紀にもわたる風雨に耐えてきました。グール・エ・アミールは王朝霊廟であり、リブ付きの紺碧のドームの下にティムール、その息子たち、ウルグベグの墓があります。内部には精巧な紙粘土のムカルナスとオニキスパネルがあり、帝国の富を物語っています。",
+          "主要な記念碑の他に、シャー・ヒ・ズィンダ墓地は狭い小道に沿って広がり、11世紀から19世紀にかけて歴代の統治者や貴族が霊廟を建設しました。各ポータルは、彫刻されたテラコッタから完全に釉薬をかけたファイアンスまで、進化するタイル技術を示し、中央アジアの陶磁器芸術のタイムラインを創り出しています。かつて首都の金曜モスクだったビビ・ハニムモスクは20世紀に一部再建されましたが、その巨大な中庭とピシュタクの入口を今も残しています。近くのシアブ・バザールは毎日営業しており、水、果物、平焼きパンを購入する実用的な立ち寄り先であり、その後、前イスラム期のソグド人の都市の壁画を保存するアフラシヤーブ博物館を訪れることができます。これらのサイトを歩いて回るには数キロメートルを歩くことになるので、サポート性の高い靴を履き、日焼け対策を持参してください。",
+          "ロシア帝国の拡大は1868年にサマルカンドに到達し、歴史的な中心部とは対照的な、幅広い大通りとレンガ造りの行政棟を備えた植民地地区を追加しました。鉄道は1888年に開通し、モスクワと後にトランス・カスピアン線を結び、交易と移住を加速させました。ソビエト時代の保存活動は主要なモニュメントを安定させましたが、レギスタン広場周辺の居住区を整地し、現在見られるオープンプラザを作り出しました。1991年の独立は修復への新たな投資をもたらしましたが、再建方法については議論が続いています。訪問者は今日、古代の基礎、中世の傑作、そして現代の生活が徒歩圏内で共存する、層の重なった都市を体験します。"
+        ],
+        "es": [
+          "Samarcanda se encuentra en el corazón de la antigua red de la Ruta de la Seda, a unos 300 kilómetros al suroeste de Taskent, donde las caravanas solían hacer una pausa entre China y el Mediterráneo. Su posición estratégica en el valle del río Zeravshan la convirtió en un cruce de caminos para mercaderes, eruditos y conquistadores durante más de dos milenios. Alejandro Magno capturó la ciudad en el 329 a. C., pero su época definitoria llegó bajo el mandato de Timur en el siglo XIV, cuando la convirtió en su capital imperial. Timur y su nieto Ulugh Beg encargaron las monumentales madrasas, mezquitas y mausoleos que aún dominan el horizonte actual. La arquitectura timúrida que perdura representa un punto culminante del arte islámico, fusionando tradiciones persas, mongolas y locales. La primavera y el otoño ofrecen las temperaturas más cómodas para explorar estos complejos al aire libre.",
+          "El conjunto del Registán, tres madrasas que enmarcan una vasta plaza pública, muestra la escala y la maestría decorativa del período timúrida. La Madrasa de Ulugh Beg, completada en 1420, funcionó originalmente como un centro de astronomía y matemáticas junto con el estudio religioso. Las madrasas Sher-Dor y Tilya-Kori se añadieron en el siglo XVII, extendiendo el diálogo arquitectónico a través de generaciones. El mosaico de azulejos en turquesa, lapislázuli y oro cubre cúpulas, minaretes y portales, sobreviviendo a terremotos y siglos de intemperie. Gur-e Amir, el mausoleo dinástico, alberga las tumbas de Timur, sus hijos y Ulugh Beg bajo una cúpula azul acanalada. El interior revela intrincados muqarnas de papel maché y paneles de ónice que ilustran la riqueza del imperio.",
+          "Más allá de los principales monumentos, la necrópolis de Shah-i-Zinda se extiende a lo largo de un callejón estrecho donde gobernantes y nobles sucesivos construyeron mausoleos desde el siglo 11 hasta el siglo 19. Cada portal muestra técnicas de azulejería en evolución, desde terracota tallada hasta faiança completamente vidriada, creando una línea de tiempo del arte cerámico de Asia Central. La mezquita Bibi-Khanym, que fue la mezquita del viernes de la capital, fue parcialmente reconstruida en el siglo 20 pero conserva su enorme patio y su pishtaq de entrada. El cercano bazar Siab funciona a diario, ofreciendo una parada práctica para agua, fruta y pan plano antes de visitar el Museo de Afrasiab, que conserva pinturas murales de la ciudad preislámica de Sogdiana. Caminar entre estos sitios cubre varios kilómetros, así que use calzado de soporte y lleve protección solar.",
+          "La expansión imperial rusa llegó a Samarcanda en 1868, añadiendo un barrio colonial con amplios bulevares y edificios administrativos de ladrillo que contrastan con el casco histórico. El ferrocarril llegó en 1888, vinculando la ciudad con Moscú y más tarde con la línea Transcaspiana, lo que aceleró el comercio y la migración. Los esfuerzos de preservación de la era soviética estabilizaron los principales monumentos, pero también despejaron áreas residenciales alrededor del Registán para crear la plaza abierta que se ve hoy. La independencia en 1991 trajo una renovada inversión en restauración, aunque continúan los debates sobre los métodos de reconstrucción. Los visitantes de hoy experimentan una ciudad en capas donde cimientos antiguos, obras maestras medievales y la vida moderna coexisten a poca distancia a pie unos de otros."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Timurid capital with surviving monumental architecture",
+          "Registan square framed by three historic madrasas",
+          "Shah-i-Zinda necropolis shows centuries of tile evolution"
+        ],
+        "de": [
+          "Timuriden-Hauptstadt mit erhaltenen Monumentalbauten",
+          "Registan-Platz, eingerahmt von drei historischen Medresen",
+          "Shah-i-Zinda-Nekropole zeigt Jahrhunderte der Fliesenentwicklung"
+        ],
+        "fr": [
+          "Capitale timouride avec une architecture monumentale préservée",
+          "Place du Registan encadrée par trois médersas historiques",
+          "La nécropole de Shah-i-Zinda montre des siècles d'évolution de la céramique"
+        ],
+        "ja": [
+          "ティムール朝の首都、現存する記念碑的建築",
+          "3つの歴史的マドラサに囲まれたレギスタン広場",
+          "タイルの変遷を示すシャー・イ・ザンダ墓地"
+        ],
+        "es": [
+          "Capital timúrida con arquitectura monumental sobreviviente",
+          "Plaza del Registán enmarcada por tres madrasas históricas",
+          "La necrópolis de Shah-i-Zinda muestra siglos de evolución de azulejos"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Location",
+            "de": "Lage",
+            "fr": "Localisation",
+            "ja": "ロケーション",
+            "es": "Ubicación"
+          },
+          "value": {
+            "en": "Zeravshan River valley, Uzbekistan",
+            "de": "Zeravshan-Tal, Usbekistan",
+            "fr": "Vallée de la rivière Zeravchan, Ouzbékistan",
+            "ja": "ウズベキスタン、ザラフシャン川流域",
+            "es": "Valle del río Zeravshan, Uzbekistán"
+          }
+        },
+        {
+          "label": {
+            "en": "Peak seasons",
+            "de": "Hauptreisezeiten",
+            "fr": "Saisons touristiques",
+            "ja": "ベストシーズン",
+            "es": "Temporadas altas"
+          },
+          "value": {
+            "en": "Spring and autumn",
+            "de": "Frühling und Herbst",
+            "fr": "Printemps et automne",
+            "ja": "春と秋",
+            "es": "Primavera y otoño"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400030/sunday-atlas/majestic-gur-e-amir-mausoleum-in-samarkand-33403700_qgc86d.jpg",
+        "width": 1920,
+        "height": 2560,
+        "alt": {
+          "en": "Ribbed turquoise dome and tiled portal of the Gur-e-Amir Mausoleum in Samarkand, Uzbekistan",
+          "de": "Gerippte türkisfarbene Kuppel und gekacheltes Portal des Gur-Emir-Mausoleums in Samarkand, Usbekistan",
+          "fr": "Coupole nervurée turquoise et portail en céramique du mausolée Gour-Émir à Samarcande, Ouzbékistan",
+          "ja": "サマルカンドのアミール・ティムール廟（グーリ・アミール）の青きドームとタイル装飾の門（ウズベキスタン）",
+          "es": "Cúpula nervada de color turquesa y pórtico de azulejos del mausoleo Gur-e-Amir en Samarcanda, Uzbekistán"
+        },
+        "caption": {
+          "en": "Samarkand",
+          "de": "Samarkand",
+          "fr": "Samarkand",
+          "ja": "サマルカンド",
+          "es": "Samarcanda"
+        }
+      }
+    },
+    {
+      "id": "top-sights",
+      "placeName": {
+        "en": "Registan, Gur-e-Amir, Bibi-Khanym, Shah-i-Zinda",
+        "de": "Registan, Gur-e-Amir, Bibi-Khanym, Shah-i-Zinda",
+        "fr": "Registan, Gur-e-Amir, Bibi-Khanym, Shah-i-Zinda",
+        "ja": "レギスタン、グール・エ・アミール、ビビ・ハニム、シャー・イ・ザンダ",
+        "es": "Registán, Gur-e-Amir, Bibi-Khanym, Shah-i-Zinda"
+      },
+      "heading": {
+        "en": "Top Sights in Samarkand",
+        "de": "Top-Sehenswürdigkeiten in Samarkand",
+        "fr": "Les principaux sites à voir à Samarcande",
+        "ja": "サマルカンドのおすすめ観光スポット",
+        "es": "Principales atractivos en Samarcanda"
+      },
+      "paragraphs": {
+        "en": [
+          "Samarkand's major monuments cluster in four groups that can be covered on foot or with short drives between them. The Registan Square ensemble of three madrasahs sits at the historic center and opens daily from early morning until sunset, with the clearest light for photography in the first two hours after opening. Gur-e-Amir, the Timurid dynastic mausoleum, lies five minutes' walk southwest and is best visited mid-morning when the interior dome light is strongest. Bibi-Khanym Mosque and the adjacent Siyob Bazaar sit another ten minutes northeast, while the Shah-i-Zinda necropolis stretches along the northern edge of the old city, a fifteen-minute walk or short drive from the Registan.",
+          "Opening hours shift seasonally; from March through October most sites open at 8:00 and close at 19:00, while winter hours typically run 9:00 to 17:00. The Afrosiyob high-speed train from Tashkent arrives around 09:30, which aligns well with a Registan-first routing before the midday heat and tour groups peak. We sequence our day tour to hit Gur-e-Amir first at opening, then Registan, followed by Bibi-Khanym and Siyob Bazaar for lunch, and finish at Shah-i-Zinda in late afternoon when the angled light highlights the tilework. Friday prayers can restrict access to Bibi-Khanym's main courtyard between 12:00 and 14:00, so plan accordingly.",
+          "Ticketing is grouped by monument rather than a single city pass, and each entrance requires a separate QR-code scan purchased on site or pre-arranged by your guide. The Registan complex includes all three madrasah interiors and the rooftop viewpoint on the Sher-Dor minaret, which involves a steep, narrow staircase not suitable for visitors with mobility issues. Shah-i-Zinda comprises over twenty mausoleums along a stepped corridor; the lower group near the entrance is fully accessible, while the upper terraces require climbing uneven stone steps. Ulugh Beg Observatory, on the northeastern outskirts, adds a 20-minute drive each way and is included in our full-day itinerary when time permits.",
+          "Practical priorities depend on your arrival window and stamina. If you have only half a day, focus on Registan, Gur-e-Amir, and the lower Shah-i-Zinda, which together convey the Timurid architectural language without excessive walking. Morning light favors the Registan portals and Gur-e-Amir's fluted dome, while late afternoon warms the Shah-i-Zinda's blue majolica. Carry water and sun protection from May through September, when midday temperatures regularly exceed 35°C, and wear shoes suited to polished marble courtyards and sandy paths between monument clusters."
+        ],
+        "de": [
+          "Samarkands wichtige Monumente gruppieren sich in vier Bereichen, die zu Fuß oder mit kurzen Fahrten zwischen ihnen erkundet werden können. Das Registan-Platz-Ensemble aus drei Medresen liegt im historischen Zentrum und öffnet täglich von frühmorgens bis Sonnenuntergang, wobei das klarste Licht für Fotografien in den ersten zwei Stunden nach Öffnung herrscht. Gur-e-Amir, das Timuriden-Dynastiemausoleum, liegt fünf Gehminuten südwestlich und ist am besten am Vormittag zu besuchen, wenn das Innenkuppel-Licht am stärksten ist. Die Bibi-Khanym-Moschee und der benachbarte Siyob-Basar liegen weitere zehn Minuten nordöstlich, während die Shah-i-Zinda-Nekropole am nördlichen Rand der Altstadt entlangzieht, einen fünfzehnminütigen Spaziergang oder eine kurze Fahrt vom Registan entfernt.",
+          "Die Öffnungszeiten verschieben sich saisonal; von März bis Oktober öffnen die meisten Seiten um 8:00 und schließen um 19:00, während die Winterzeiten typischerweise von 9:00 bis 17:00 laufen. Der Hochgeschwindigkeitszug Afrosiyob aus Taschkent kommt gegen 09:30 an, was gut mit einer Registan-ersten Route vor der Mittagshitze und dem Höhepunkt der Reisegruppen übereinstimmt. Wir planen unsere Tagestour so, dass wir zuerst um Öffnung Gur-e-Amir ansteuern, dann den Registan, gefolgt von Bibi-Khanym und dem Siyob-Basar zum Mittagessen, und beenden bei Shah-i-Zinda am späten Nachmittag, wenn das schräge Licht die Fliesenarbeiten hervorhebt. Freitagsgebete können den Zugang zum Hauptinnenhof von Bibi-Khanym zwischen 12:00 und 14:00 einschränken, also planen Sie entsprechend.",
+          "Die Ticketierung erfolgt pro Monument statt eines einzelnen City-Passes, und jeder Eintritt erfordert einen separaten QR-Code-Scan, der vor Ort gekauft oder von unserem Guide vorab arrangiert wird. Der Registan-Komplex umfasst alle drei Medresen-Innenräume und den Dachblick auf dem Sher-Dor-Minarett, der eine steile, schmale Treppe beinhaltet, die nicht für Besucher mit Mobilitätseinschränkungen geeignet ist. Shah-i-Zinda umfasst über zwanzig Mausoleen entlang eines stufenförmigen Korridors; die untere Gruppe nahe dem Eingang ist vollständig barrierefrei, während die oberen Terrassen das Klettern auf unebenen Steinstufen erfordern. Das Ulugh-Beg-Observatorium am nordöstlichen Stadtrand fügt eine 20-minütige Fahrt pro Strecke hinzu und ist in unseren Ganztagesplan aufgenommen, wenn die Zeit es zulässt.",
+          "Praktische Prioritäten hängen von Ihrem Ankunftszeitraum und Ihrer Ausdauer ab. Wenn Sie nur einen halben Tag haben, konzentrieren Sie sich auf Registan, Gur-e-Amir und das untere Shah-i-Zinda, die zusammen die timuridische Architektursprache vermitteln, ohne übermäßiges Gehen. Morgens Licht begünstigt die Registan-Portale und die geriffelte Kuppel von Gur-e-Amir, während der späte Nachmittag die blaue Majolika von Shah-i-Zinda erwärmt. Tragen Sie Wasser und Sonnenschutz von Mai bis September, wenn die Mittagstemperaturen regelmäßig 35°C übersteigen, und tragen Sie Schuhe, die für polierte Marmorkörbe und sandige Pfade zwischen den Monumentenclustern geeignet sind."
+        ],
+        "fr": [
+          "Les principaux monuments de Samarcande se regroupent en quatre ensembles que l'on peut couvrir à pied ou avec de courts trajets entre eux. L'ensemble de la place du Registan, composé de trois médersas, se trouve au cœur historique et ouvre tous les jours du lever du soleil jusqu'au coucher du soleil, avec la meilleure lumière pour la photographie dans les deux premières heures après l'ouverture. Le Gur-e-Amir, mausolée de la dynastie timouride, se trouve à cinq minutes de marche au sud-ouest et se visite idéalement en milieu de matinée, lorsque la lumière intérieure du dôme est la plus forte. La mosquée Bibi-Khanym et le bazar de Siyob adjacent se situent à dix minutes au nord-est, tandis que la nécropole de Shah-i-Zinda s'étend le long du bord nord de la vieille ville, à quinze minutes de marche ou en court trajet depuis le Registan.",
+          "Les horaires d'ouverture varient selon les saisons ; de mars à octobre, la plupart des sites ouvrent à 8:00 et ferment à 19:00, tandis qu'en hiver les horaires sont généralement de 9:00 à 17:00. Le train à grande vitesse Afrosiyob depuis Tachkent arrive vers 09:30, ce qui s'aligne bien avec un itinéraire commençant par le Registan avant que la chaleur de midi et les groupes touristiques n'atteignent leur pic. Nous organisons notre journée de visite pour voir d'abord le Gur-e-Amir à l'ouverture, puis le Registan, suivis de Bibi-Khanym et du bazar de Siyob pour le déjeuner, et nous terminons par Shah-i-Zinda en fin d'après-midi, lorsque la lumière oblique met en valeur les carreaux de céramique. Les prières du vendredi peuvent restreindre l'accès à la cour principale de Bibi-Khanym entre 12:00 et 14:00, prévoyez en conséquence.",
+          "La billetterie est organisée par monument plutôt que par un pass unique pour la ville, et chaque entrée nécessite un scan de code QR distinct, acheté sur place ou pré-arrangé par votre guide. Le complexe du Registan inclut les intérieurs des trois médersas et le point de vue sur le toit du minaret Sher-Dor, qui implique un escalier raide et étroit non adapté aux visiteurs à mobilité réduite. Shah-i-Zinda comprend plus de vingt mausolées le long d'un couloir en gradins ; le groupe inférieur près de l'entrée est entièrement accessible, tandis que les terrasses supérieures nécessitent de gravir des marches de pierre inégales. L'observatoire d'Ulugh Beg, en périphérie nord-est, ajoute un trajet de 20 minutes dans chaque sens et est inclus dans notre itinéraire d'une journée complète lorsque le temps le permet.",
+          "Les priorités pratiques dépendent de votre fenêtre d'arrivée et de votre endurance. Si vous n'avez qu'une demi-journée, concentrez-vous sur le Registan, le Gur-e-Amir et le Shah-i-Zinda inférieur, qui transmettent ensemble le langage architectural timouride sans marche excessive. La lumière matinale favorise les portails du Registan et le dôme cannelé du Gur-e-Amir, tandis que la fin d'après-midi réchauffe la majolique bleue du Shah-i-Zinda. Emportez de l'eau et une protection solaire de mai à septembre, lorsque les températures de midi dépassent régulièrement 35°C, et portez des chaussures adaptées aux cours en marbre poli et aux sentiers sablonneux entre les groupes de monuments."
+        ],
+        "ja": [
+          "サマルカンドの主要なモニュメントは4つのグループに集まっており、徒歩または短い移動で回ることができます。歴史的中心部に位置するレギスタン広場の3つのマドラサ群は、早朝から日没まで開放されており、写真撮影に最適な光は開場後最初の2時間です。ティムール朝王朝の霊廟であるグール・エ・アミールは南西へ徒歩5分の場所にあり、内部ドームの光が最も強い午前中の訪問がおすすめです。ビビ・ハニムモスクと隣接するシヨフ・バザールはさらに北東へ10分、シャー・イ・ザンダ墓地は旧市街の北端に沿って広がり、レギスタンから徒歩15分または短い移動でアクセスできます。",
+          "開場時間は季節により変動します。3月から10月まではほとんどのサイトが8:00に開場し19:00に閉場し、冬季は通常9:00から17:00までです。タシュケントからのアフロシヤブ高速列車は約09:30に到着し、レギスタン優先のルートに適しており、正午の暑さや観光客のピークを避けられます。当社の日帰りツアーでは、開場直後のグール・エ・アミールから始め、レギスタン、ビビ・ハニムとシヨフ・バザールで昼食、そしてタイルワークを斜めの光が照らし出す午後遅くのシャー・イ・ザンダで締めくくるスケジュールを組んでいます。金曜日の祈りにより、ビビ・ハニムの中庭へのアクセスは12:00から14:00まで制限される場合があるため、ご注意ください。",
+          "チケットは単一の都市パスではなくモニュメントごとにグループ化されており、各入場には現地で購入するかガイドが事前に手配したQRコードのスキャンが必要です。レギスタン複合施設には3つのマドラサの内部と、シャー・ドール・ミナレットの屋上展望台が含まれており、急で狭い階段を登る必要があるため、移動に不安のある方には適していません。シャー・イ・ザンダは階段状の回廊に沿って20以上の霊廟からなり、入場付近の下層グループは完全にバリアフリーですが、上層テラスには凸凹の石段を登る必要があります。北東の郊外にあるウルグ・ベク天文台は片道20分のドライブが追加され、時間が許せば当社の1日プランに含まれます。",
+          "実用的な優先事項は到着時間と体力に応じて異なります。半日しかない場合は、レギスタン、グール・エ・アミール、そしてシャー・イ・ザンダの下層エリアに集中してください。これらでティムール朝の建築様式を過度な歩行なしに体感できます。朝の光はレギスタンの玄関とグール・エ・アミールの縞模様のドームに適しており、午後遅くの光はシャー・イ・ザンダの青いマヨリカを温かく照らします。5月から9月までは、正午の気温が35℃を超えることが多いため、水と日焼け対策を携帯し、磨かれた大理石の中庭やモニュメント群の間の砂道に適した靴を履いてください。"
+        ],
+        "es": [
+          "Los principales monumentos de Samarcanda se agrupan en cuatro zonas que se pueden recorrer a pie o con trayectos cortos entre ellas. El conjunto de la Plaza del Registán, con tres madrasas, se ubica en el centro histórico y abre todos los días desde temprano hasta el atardecer, con la luz más clara para fotografía en las primeras dos horas después de la apertura. Gur-e-Amir, el mausoleo dinástico timúrido, está a cinco minutos caminando al suroeste y es mejor visitarlo a media mañana, cuando la luz del interior de la cúpula es más intensa. La mezquita Bibi-Khanym y el bazar Siyob adyacente están a otros diez minutos al noreste, mientras que la necrópolis de Shah-i-Zinda se extiende a lo largo del borde norte de la ciudad vieja, a quince minutos caminando o un trayecto corto desde el Registán.",
+          "Los horarios cambian según la temporada; de marzo a octubre la mayoría de los sitios abren a las 8:00 y cierran a las 19:00, mientras que en invierno el horario suele ser de 9:00 a 17:00. El tren de alta velocidad Afrosiyob desde Taskent llega alrededor de las 09:30, lo que coincide bien con un recorrido que comienza en el Registán antes del calor del mediodía y el pico de grupos turísticos. Secuenciamos nuestro tour de día para visitar Gur-e-Amir primero a la apertura, luego el Registán, seguido de Bibi-Khanym y el bazar Siyob para el almuerzo, y terminar en Shah-i-Zinda al final de la tarde, cuando la luz oblicua resalta los azulejos. Las oraciones del viernes pueden restringir el acceso al patio principal de Bibi-Khanym entre las 12:00 y las 14:00, así que planifiquen en consecuencia.",
+          "La venta de boletos se agrupa por monumento en lugar de un pase único para la ciudad, y cada entrada requiere un escaneo de código QR comprado en el sitio o prearrangado por su guía. El complejo del Registán incluye los interiores de las tres madrasas y el mirador en la azotea del minarete Sher-Dor, que implica una escalera empinada y estrecha no apta para visitantes con problemas de movilidad. Shah-i-Zinda comprende más de veinte mausoleos a lo largo de un corredor escalonado; el grupo inferior cerca de la entrada es totalmente accesible, mientras que las terrazas superiores requieren subir escalones de piedra irregulares. El Observatorio de Ulugh Beg, en las afueras noreste, añade un trayecto de 20 minutos en cada sentido y se incluye en nuestro itinerario de día completo cuando el tiempo lo permite.",
+          "Las prioridades prácticas dependen de su ventana de llegada y su resistencia. Si solo tiene medio día, concéntrese en el Registán, Gur-e-Amir y el Shah-i-Zinda inferior, que juntos transmiten el lenguaje arquitectónico timúrido sin caminatas excesivas. La luz matutina favorece los portales del Registán y la cúpula acanalada de Gur-e-Amir, mientras que el final de la tarde calienta la majólica azul de Shah-i-Zinda. Lleve agua y protección solar de mayo a septiembre, cuando las temperaturas del mediodía superan regularmente los 35°C, y use zapatos adecuados para patios de mármol pulido y senderos arenosos entre los grupos de monumentos."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Registan's three madrasahs frame the iconic square",
+          "Shah-i-Zinda's tiled avenue of mausoleums",
+          "Gur-e-Amir's fluted dome and jade sarcophagus"
+        ],
+        "de": [
+          "Die drei Medresen des Registan rahmen den ikonischen Platz ein",
+          "Die geflieste Allee der Mausoleen von Shah-i-Zinda",
+          "Die geriffelte Kuppel und der jadefarbene Sarkophag von Gur-e-Amir"
+        ],
+        "fr": [
+          "Les trois médersas du Registan encadrent la place emblématique",
+          "L'allée carrelée de mausolées de Shah-i-Zinda",
+          "Le dôme cannelé et le sarcophage de jade du Gur-e-Amir"
+        ],
+        "ja": [
+          "象徴的な広場を囲むレギスタンの3つのマドラサ",
+          "シャー・イ・ザンダのタイル張りの霊廟の並木道",
+          "グール・エ・アミールの縞模様のドームと翡翠の棺"
+        ],
+        "es": [
+          "Las tres madrasas del Registán enmarcan la icónica plaza",
+          "La avenida de azulejos de mausoleos de Shah-i-Zinda",
+          "La cúpula acanalada y el sarcófago de jade de Gur-e-Amir"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Registan hours",
+            "de": "Registan-Öffnungszeiten",
+            "fr": "Horaires du Registan",
+            "ja": "レギスタン開場時間",
+            "es": "Horario del Registán"
+          },
+          "value": {
+            "en": "8:00-19:00 spring/summer, 9:00-17:00 winter",
+            "de": "8:00-19:00 Frühling/Sommer, 9:00-17:00 Winter",
+            "fr": "8:00-19:00 printemps/été, 9:00-17:00 hiver",
+            "ja": "春/夏 8:00-19:00、冬 9:00-17:00",
+            "es": "8:00-19:00 primavera/verano, 9:00-17:00 invierno"
+          }
+        },
+        {
+          "label": {
+            "en": "Train arrival",
+            "de": "Zugankunft",
+            "fr": "Arrivée du train",
+            "ja": "列車到着",
+            "es": "Llegada del tren"
+          },
+          "value": {
+            "en": "Afrosiyob reaches Samarkand ~09:30 from Tashkent",
+            "de": "Afrosiyob erreicht Samarkand gegen 09:30 Uhr von Taschkent",
+            "fr": "Afrosiyob arrive à Samarkand vers 09:30 depuis Tachkent",
+            "ja": "アフロシヤブはタシュケントから約09:30にサマルカンドに到着します",
+            "es": "Afrosiyob llega a Samarcanda alrededor de las 09:30 desde Taskent"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $280 USD / person",
+            "de": "Ab $280 USD / Person",
+            "fr": "À partir de $280 USD / personne",
+            "ja": "$280 USD〜 / 1名",
+            "es": "Desde $280 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400032/sunday-atlas/registan-square-in-samarkand-uzbekistan-35220187_hm4jth.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "The three monumental madrasahs of Registan Square in Samarkand, Uzbekistan",
+          "de": "Die drei monumentalen Medresen am Registan-Platz in Samarkand, Usbekistan",
+          "fr": "Les trois médersas monumentales de la place du Régistan à Samarcande, Ouzbékistan",
+          "ja": "サマルカンドのレギスタン広場に並ぶ3つの壮麗なマドラサ（ウズベキスタン）",
+          "es": "Las tres madrasas monumentales de la plaza del Registán en Samarcanda, Uzbekistán"
+        },
+        "caption": {
+          "en": "Registan, Gur-e-Amir, Bibi-Khanym, Shah-i-Zinda",
+          "de": "Registan, Gur-e-Amir, Bibi-Khanym, Shah-i-Zinda",
+          "fr": "Registan, Gur-e-Amir, Bibi-Khanym, Shah-i-Zinda",
+          "ja": "レギスタン、グール・エ・アミール、ビビ・ハニム、シャー・イ・ザンダ",
+          "es": "Registán, Gur-e-Amir, Bibi-Khanym, Shah-i-Zinda"
+        }
+      },
+      "embeddedPackageSlug": "samarkand-day-tour-by-afrosiyob-train"
+    },
+    {
+      "id": "getting-there",
+      "placeName": {
+        "en": "Tashkent, Bukhara, Khiva",
+        "de": "Taschkent, Buchara, Chiwa",
+        "fr": "Tachkent, Boukhara, Khiva",
+        "ja": "タシュケント、ブハラ、ヒヴァ",
+        "es": "Taskent, Bujará, Jiva"
+      },
+      "heading": {
+        "en": "How to Get to Samarkand",
+        "de": "Wie man nach Samarkand kommt",
+        "fr": "Comment se rendre à Samarkand",
+        "ja": "サマルカンドへの行き方",
+        "es": "Cómo llegar a Samarcanda"
+      },
+      "paragraphs": {
+        "en": [
+          "The Afrosiyob high-speed train links Tashkent and Samarkand in about two hours and fifteen minutes, covering roughly 300 kilometres through cotton fields and low hills. Trains run several times daily, with morning and evening departures that fit most itineraries; booking a few weeks ahead is advisable during spring and autumn. Second class offers comfortable seats and air conditioning, while business class adds wider seats and a meal service. Arrive at the station at least thirty minutes before departure for security checks and platform access.",
+          "Driving from Samarkand to Bukhara takes around four hours on the M37 highway, a 280-kilometre stretch that crosses the edge of the Kyzyl-Kum Desert and passes small roadside tea houses. The onward drive from Bukhara to Khiva is longer, about seven to eight hours over 460 kilometres, with a notable section along the Amu Darya River where sand dunes sometimes drift onto the road. Shared taxis leave from designated stands near the main bazaars when full, but a private vehicle allows stops at the Rabati Malik caravanserai ruins and the Sardoba Malik water cistern. Summer departures before dawn keep the cabin cooler and the light better for photography.",
+          "International travellers entering Uzbekistan by land from Tajikistan usually cross at the Oybek or Fotehobod border posts, both open daily from early morning until evening. Pedestrian corridors separate foot passengers from vehicle lanes, and visa-on-arrival eligibility depends on nationality, so confirm current rules before travel. Currency exchange booths operate at the border, though rates improve in city centres; carry small US dollar notes for immediate expenses. Our 3 Stans Discovery tour uses the evening flight from Bishkek to Tashkent followed by the evening train to Samarkand, avoiding a long overland border day.",
+          "Within Samarkand, the Registan, Gur-e Amir, Bibi-Khanym and Shah-i-Zinda cluster in the historic core, reachable on foot or by short taxi rides from most central hotels. City buses and marshrutkas follow fixed routes but can be crowded; ride-hailing apps work reliably for door-to-door trips. The railway station sits about three kilometres south of the Registan, a ten-minute drive in normal traffic. Spring and autumn mornings are ideal for walking between sites before the midday heat builds."
+        ],
+        "de": [
+          "Der Hochgeschwindigkeitszug Afrosiyob verbindet Taschkent und Samarkand in etwa zwei Stunden und fünfzehn Minuten und legt dabei rund 300 Kilometer durch Baumwollfelder und sanfte Hügel zurück. Die Züge verkehren mehrmals täglich, mit Morgen- und Abendabfahrten, die in die meisten Reisepläne passen; eine Buchung einige Wochen im Voraus wird während des Frühlings und Herbstes empfohlen. Die zweite Klasse bietet bequeme Sitze und Klimaanlage, während die Business Class breitere Sitze und einen Mahlzeitservice bietet. Kommen Sie mindestens dreißig Minuten vor Abfahrt am Bahnhof an, um Sicherheitskontrollen und den Bahnsteigzugang zu erledigen.",
+          "Die Fahrt von Samarkand nach Buchara dauert auf der M37 etwa vier Stunden, eine 280 Kilometer lange Strecke, die den Rand der Kysyl-Kum-Wüste durchquert und an kleinen Teehäusern am Straßenrand vorbeiführt. Die Weiterfahrt von Buchara nach Chiwa ist länger, etwa sieben bis acht Stunden über 460 Kilometer, mit einem bemerkenswerten Abschnitt entlang des Amu-Darja, wo Sanddünen manchmal auf die Straße treiben. Sammeltaxis verlassen ausgewiesene Stände in der Nähe der großen Basare, wenn sie voll sind, aber ein privates Fahrzeug erlaubt Stopps an den Ruinen der Karawanserei Rabati Malik und der Wasserzisterne Sardoba Malik. Sommerabfahrten vor Sonnenaufgang halten den Innenraum kühler und das Licht besser für Fotografie.",
+          "Internationale Reisende, die über Land aus Tadschikistan nach Usbekistan einreisen, überqueren normalerweise an den Grenzübergängen Oybek oder Fotehobod, die täglich von frühmorgens bis abends geöffnet sind. Fußgängerkorridore trennen Fußgänger von Fahrspuren, und die Berechtigung für ein Visum bei der Einreise hängt von der Nationalität ab, daher bestätigen Sie die aktuellen Regeln vor der Reise. Wechselstuben arbeiten an der Grenze, obwohl die Kurse in den Stadtzentren besser sind; tragen Sie kleine US-Dollar-Noten für unmittelbare Ausgaben bei. Unsere 3 Stans Discovery Tour nutzt den Abendflug von Bischkek nach Taschkent gefolgt vom Abendzug nach Samarkand, um einen langen überlandigen Grenzübergangstag zu vermeiden.",
+          "Innerhalb von Samarkand liegen das Registan, Gur-e Amir, Bibi-Khanym und Shah-i-Zinda im historischen Kern und sind zu Fuß oder mit kurzen Taxifahrten von den meisten zentralen Hotels aus erreichbar. Stadtbusse und Marshrutkas folgen festen Routen, können aber überfüllt sein; Fahrdienst-Apps funktionieren zuverlässig für Tür-zu-Tür-Fahrten. Der Bahnhof liegt etwa drei Kilometer südlich des Registan, eine zehnminütige Fahrt bei normalem Verkehr. Frühlings- und Herbstmorgen sind ideal, um zwischen den Stätten zu gehen, bevor die Mittagshitze aufkommt."
+        ],
+        "fr": [
+          "Le train à grande vitesse Afrosiyob relie Tachkent à Samarkand en environ deux heures et quinze minutes, parcourant quelque 300 kilomètres à travers champs de coton et collines basses. Les trains circulent plusieurs fois par jour, avec des départs matinaux et vespéraux adaptés à la plupart des itinéraires ; il est conseillé de réserver quelques semaines à l'avance au printemps et en automne. La seconde classe propose des sièges confortables et la climatisation, tandis que la classe affaires ajoute des sièges plus larges et un service de restauration. Arrivez à la gare au moins trente minutes avant le départ pour les contrôles de sécurité et l'accès au quai.",
+          "La route de Samarkand à Boukhara dure environ quatre heures sur l'autoroute M37, un tronçon de 280 kilomètres qui longe le bord du désert du Kyzyl-Koum et passe devant de petites maisons de thé au bord de la route. La route suivante de Boukhara à Khiva est plus longue, environ sept à huit heures sur 460 kilomètres, avec une portion notable le long du fleuve Amou-Daria où des dunes de sable peuvent parfois déborder sur la chaussée. Les taxis partagés partent des stations désignées près des grands bazars lorsqu'ils sont pleins, mais un véhicule privé permet de s'arrêter aux ruines du caravansérail de Rabati Malik et à la citerne d'eau de Sardoba Malik. Les départs estivaux avant l'aube maintiennent l'habitacle plus frais et offrent une meilleure lumière pour la photographie.",
+          "Les voyageurs internationaux entrant en Ouzbékistan par voie terrestre depuis le Tadjikistan passent généralement aux postes-frontières d'Oybek ou de Fotehobod, tous deux ouverts tous les jours du matin jusqu'au soir. Des couloirs piétons séparent les passagers à pied des voies réservées aux véhicules, et l'éligibilité au visa à l'arrivée dépend de la nationalité, alors confirmez les règles en vigueur avant de voyager. Des bureaux de change opèrent à la frontière, bien que les taux soient plus avantageux en centre-ville ; emportez de petits billets en dollars américains pour les dépenses immédiates. Notre circuit 3 Stans Discovery utilise le vol du soir de Bichkek à Tachkent suivi du train du soir vers Samarkand, évitant ainsi une longue journée de voyage par voie terrestre à la frontière.",
+          "À Samarkand, le Registan, le Gur-e Amir, la Bibi-Khanym et le Shah-i-Zinda se regroupent dans le centre historique, accessibles à pied ou par de courtes courses en taxi depuis la plupart des hôtels centraux. Les bus urbains et les marshrutkas suivent des itinéraires fixes mais peuvent être bondés ; les applications de covoiturage fonctionnent de manière fiable pour les trajets porte-à-porte. La gare ferroviaire se trouve à environ trois kilomètres au sud du Registan, soit dix minutes de route dans des conditions de circulation normales. Les matinées de printemps et d'automne sont idéales pour marcher entre les sites avant que la chaleur de midi ne s'installe."
+        ],
+        "ja": [
+          "アフロシヤブ高速列車はタシュケントとサマルカンドを約2時間15分で結び、綿花畑や低い丘を通りながら約300キロメートルを走行します。1日に数本運行されており、朝と夕方の出発がほとんどの旅程に適しています。春と秋は数週間前からの予約がおすすめです。セカンドクラスは快適な座席とエアコンを備え、ビジネスクラスはさらに広い座席と食事サービスが加わります。セキュリティチェックとプラットフォームへのアクセスのため、出発の少なくとも30分前に駅に到着してください。",
+          "サマルカンドからブハラまでのドライブはM37ハイウェイで約4時間かかり、約280キロメートルの区間はキジルクム砂漠の端を横切り、道端の小さな茶屋を通り過ぎます。ブハラからヒヴァへのさらなるドライブは約460キロメートルで7〜8時間かかり、アムダリヤ川沿いの顕著な区間では砂丘が道路に吹き寄せることがあります。共有タクシーは主要バザール近くの指定された乗り場で満車になると出発しますが、プライベート車両ならラバティ・マリクのキャラバンサライ遺跡やサルドバ・マリク貯水池に立ち寄ることができます。夏の夜明け前の出発は車内を涼しく保ち、写真撮影にも適した光をもたらします。",
+          "タジキスタンから陸路でウズベキスタンに入国する国際旅行者は、通常オイベクまたはフォテホボドの国境検問所を通過します。どちらも早朝から夕方まで毎日開いています。歩行者用通路は徒歩の乗客と車線を分けており、ビザ発給の到着時対応は国籍により異なるため、渡航前に最新の規則を確認してください。国境には両替所がありますが、レートは市街地の方が良い場合があります。当社の「3 スタンズ ディスカバリー」ツアーは、ビシュケクからタシュケントへの夜行便と、その後のサマルカンド行き夜行列車を利用し、長い陸路の国境越えを避けます。",
+          "サマルカンド市内では、レギスタン、グール・アミール、ビビ・ハニム、シャーヒ・ズィンダが歴史的中心部に集まっており、中心部のほとんどのホテルから徒歩または短いタクシー移動でアクセスできます。市バスやマールシュルートカは固定ルートを運行しますが混雑することがあり、配車アプリはドアツードアの移動に信頼できます。鉄道駅はレギスタンから約3キロメートル南にあり、通常の交通状況で10分のドライブです。春と秋の朝は、昼間の暑さが高まる前に各所を歩いて回るのに最適です。"
+        ],
+        "es": [
+          "El tren de alta velocidad Afrosiyob une Taskent y Samarcanda en unas dos horas y quince minutos, recorriendo unos 300 kilómetros a través de campos de algodón y colinas bajas. Los trenes circulan varias veces al día, con salidas por la mañana y por la tarde que se adaptan a la mayoría de los itinerarios; se recomienda reservar con unas semanas de antelación durante la primavera y el otoño. La segunda clase ofrece asientos cómodos y aire acondicionado, mientras que la clase business añade asientos más amplios y servicio de comidas. Llegue a la estación al menos treinta minutos antes de la salida para los controles de seguridad y el acceso al andén.",
+          "Conducir de Samarcanda a Bujará toma alrededor de cuatro horas por la carretera M37, un tramo de 280 kilómetros que cruza el borde del desierto de Kyzyl-Kum y pasa por pequeñas casas de té junto a la carretera. El viaje posterior de Bujará a Jiva es más largo, unas siete u ocho horas por 460 kilómetros, con una sección notable a lo largo del río Amu Darya donde las dunas de arena a veces se acumulan en la carretera. Los taxis compartidos salen de paradas designadas cerca de los bazares principales cuando se llenan, pero un vehículo privado permite paradas en las ruinas del caravasar Rabati Malik y en la cisterna de agua Sardoba Malik. Las salidas de verano antes del amanecer mantienen el habitáculo más fresco y la luz es mejor para la fotografía.",
+          "Los viajeros internacionales que ingresan a Uzbekistán por tierra desde Tayikistán suelen cruzar en los puestos fronterizos de Oybek o Fotehobod, ambos abiertos diariamente desde temprano por la mañana hasta el atardecer. Los corredores peatonales separan a los pasajeros a pie de los carriles de vehículos, y la elegibilidad para la visa a la llegada depende de la nacionalidad, así que confirme las reglas actuales antes de viajar. Las casas de cambio operan en la frontera, aunque las tasas mejoran en los centros urbanos; lleve billetes pequeños de dólares estadounidenses para gastos inmediatos. Nuestro tour 3 Stans Discovery utiliza el vuelo nocturno de Biskek a Taskent seguido del tren nocturno a Samarcanda, evitando un largo día de viaje por tierra en la frontera.",
+          "Dentro de Samarcanda, el Registán, Gur-e Amir, Bibi-Khanym y Shah-i-Zinda se agrupan en el casco histórico, accesibles a pie o en breves trayectos en taxi desde la mayoría de los hoteles céntricos. Los autobuses urbanos y las marshrutkas siguen rutas fijas, pero pueden estar llenos; las aplicaciones de transporte privado funcionan de manera confiable para viajes puerta a puerta. La estación de tren se encuentra a unos tres kilómetros al sur del Registán, un trayecto de diez minutos en tráfico normal. Las mañanas de primavera y otoño son ideales para caminar entre los sitios antes de que se acumule el calor del mediodía."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Afrosiyob train covers 300 km in two hours",
+          "Samarkand to Bukhara drive crosses Kyzyl-Kum edge",
+          "Border crossing at Oybek or Fotehobod from Tajikistan"
+        ],
+        "de": [
+          "Afrosiyob-Zug legt 300 km in zwei Stunden zurück",
+          "Fahrt von Samarkand nach Buchara überquert den Rand der Kysyl-Kum",
+          "Grenzübergang bei Oybek oder Fotehobod von Tadschikistan"
+        ],
+        "fr": [
+          "Le train Afrosiyob parcourt 300 km en deux heures",
+          "La route de Samarkand à Boukhara longe le bord du Kyzyl-Koum",
+          "Passage frontalier à Oybek ou Fotehobod depuis le Tadjikistan"
+        ],
+        "ja": [
+          "アフロシヤブ列車は300キロメートルを2時間で走行",
+          "サマルカンドからブハラへのドライブはキジルクム砂漠の端を横断",
+          "タジキスタンからオイベクまたはフォテホボドでの国境越え"
+        ],
+        "es": [
+          "El tren Afrosiyob recorre 300 km en dos horas",
+          "El trayecto de Samarcanda a Bujará cruza el borde de Kyzyl-Kum",
+          "Cruce fronterizo en Oybek o Fotehobod desde Tayikistán"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Train duration",
+            "de": "Zugdauer",
+            "fr": "Durée du train",
+            "ja": "列車所要時間",
+            "es": "Duración del tren"
+          },
+          "value": {
+            "en": "2 hours 15 minutes",
+            "de": "2 Stunden 15 Minuten",
+            "fr": "2 heures 15 minutes",
+            "ja": "2時間15分",
+            "es": "2 horas 15 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Samarkand to Bukhara distance",
+            "de": "Entfernung Samarkand nach Buchara",
+            "fr": "Distance de Samarkand à Boukhara",
+            "ja": "サマルカンドからブハラまでの距離",
+            "es": "Distancia de Samarcanda a Bujará"
+          },
+          "value": {
+            "en": "280 km",
+            "de": "280 km",
+            "fr": "280 km",
+            "ja": "280 km",
+            "es": "280 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "14 Days / 13 Nights",
+            "de": "14 Tage / 13 Nächte",
+            "fr": "14 jours / 13 nuits",
+            "ja": "14日間 / 13泊",
+            "es": "14 días / 13 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $2643 USD / person",
+            "de": "Ab $2643 USD / Person",
+            "fr": "À partir de $2643 USD / personne",
+            "ja": "$2643 USD〜 / 1名",
+            "es": "Desde $2643 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400023/sunday-atlas/landscape-of-the-charyn-canyon-in-kazakhstan-15792410_a6jkdl.jpg",
+        "width": 1920,
+        "height": 2880,
+        "alt": {
+          "en": "Charyn Canyon in Kazakhstan, red sandstone cliffs and the canyon floor under a blue sky",
+          "de": "Scharyn-Canyon in Kasachstan, rote Sandsteinfelsen unter blauem Himmel",
+          "fr": "Canyon de Charyn au Kazakhstan, falaises de grès rouge sous un ciel bleu",
+          "ja": "カザフスタンのチャリン渓谷、青空の下の赤い砂岩の崖",
+          "es": "Cañón de Charyn en Kazajistán, acantilados de arenisca roja bajo el cielo azul"
+        },
+        "caption": {
+          "en": "Tashkent, Bukhara, Khiva",
+          "de": "Taschkent, Buchara, Chiwa",
+          "fr": "Tachkent, Boukhara, Khiva",
+          "ja": "タシュケント、ブハラ、ヒヴァ",
+          "es": "Taskent, Bujará, Jiva"
+        }
+      },
+      "embeddedPackageSlug": "3-stans-discovery-14-days"
+    },
+    {
+      "id": "where-to-stay",
+      "placeName": {
+        "en": "Registan area, University Boulevard, Old Town",
+        "de": "Registan-Gebiet, Universität-Boulevard, Altstadt",
+        "fr": "Quartier du Registan, Boulevard de l'Université, Vieille Ville",
+        "ja": "レギスタン地区、大学大通り、旧市街",
+        "es": "Zona del Registán, Bulevar de la Universidad, Ciudad Vieja"
+      },
+      "heading": {
+        "en": "Where to Stay in Samarkand",
+        "de": "Wo man in Samarkand übernachtet",
+        "fr": "Où séjourner à Samarkand",
+        "ja": "サマルカンドでの宿泊先",
+        "es": "Dónde alojarse en Samarcanda"
+      },
+      "paragraphs": {
+        "en": [
+          "The Registan area puts you within a five-minute walk of the three madrasahs and the Bibi-Khanym Mosque, making it the most convenient base for early-morning photography and late-evening light shows. Hotels here range from restored merchant houses with interior courtyards to modern four-story properties with rooftop terraces overlooking the illuminated portals. A ten-minute taxi ride south reaches the Gur-e Amir and Shah-i-Zinda complexes, while the Siab Bazaar is a flat fifteen-minute stroll for fresh bread, dried fruit and spices. Evening noise drops noticeably after the sound-and-light programme ends around 22:00, so upper-floor rooms facing away from the square stay quiet.",
+          "The University Boulevard district, running northwest from the Registan, offers wider tree-lined streets, Soviet-era apartment blocks converted to boutique guesthouses and a cluster of family-run cafes serving lagman and shashlik until midnight. Walking distance to the main monuments increases to fifteen or twenty minutes, but the trade-off is lower night-time foot traffic and easier parking if you arrive with a private driver. Several properties here have small gardens where breakfast is served under mulberry trees, a pleasant contrast to the stone courtyards near the square. Taxis to the train station take ten minutes outside rush hour.",
+          "South of the Siab Bazaar, the residential lanes around the Hazrat-Hizr Mosque and the Afrosiab Museum sit on slightly higher ground, catching cooler breezes in late spring. Guesthouses in this zone are typically converted courtyard homes with two or three rooms, shared bathrooms and hosts who can arrange home-cooked plov lessons. The Registan is a twenty-five-minute walk or a three-minute drive, and the archaeological site of ancient Afrosiab is right at the doorstep. Street lighting is sparse, so carry a torch for post-dinner returns.",
+          "Our private tours usually place travellers in the Registan vicinity for the first night to maximise monument access, then shift to a quieter boulevard or residential property for the second night when the group prefers a slower pace. Both approaches work because Samarkand's compact historic core fits inside a two-kilometre radius, and taxis are plentiful and metered. If you arrive on the evening high-speed train from Tashkent, a pre-booked transfer avoids the station taxi scrum and gets you checked in before the 22:00 kitchen cut-off at most smaller guesthouses."
+        ],
+        "de": [
+          "Das Registan-Gebiet bringt Sie innerhalb von fünf Minuten zu Fuß zu den drei Medresen und der Bibi-Khanym-Moschee, was es zur bequemsten Basis für frühe Morgenfotografie und späte Abendlichtshows macht. Hotels hier reichen von restaurierten Kaufmannshäusern mit Innenhöfen bis zu modernen vierstöckigen Gebäuden mit Dachterrassen, die auf die beleuchteten Portale blicken. Eine zehnminütige Taxifahrt nach Süden erreicht die Komplexe von Gur-e Amir und Shah-i-Zinda, während der Siab-Basar einen flachen fünfzehnminütigen Spaziergang für frisches Brot, getrocknete Früchte und Gewürze entfernt ist. Der Abendlärm nimmt spürbar ab, nachdem das Licht-und-Sound-Programm gegen 22:00 Uhr endet, sodass Zimmer in den oberen Stockwerken, die vom Platz weg zeigen, ruhig bleiben.",
+          "Das Viertel University Boulevard, das nordwestlich vom Registan verläuft, bietet breitere, baumgesäumte Straßen, in Pensionen umgebaute Wohnblocks aus der Sowjetzeit und eine Ansammlung familiengeführter Cafés, die bis Mitternacht Lagman und Schaschlik servieren. Die Laufentfernung zu den Hauptdenkmälern erhöht sich auf fünfzehn bis zwanzig Minuten, doch der Kompromiss ist ein geringerer nächtlicher Fußgängerverkehr und einfacheres Parken, wenn Sie mit einem privaten Fahrer anreisen. Mehrere Unterkünfte verfügen über kleine Gärten, in denen das Frühstück unter Maulbeerbäumen serviert wird – ein angenehmer Kontrast zu den steinernen Innenhöfen in der Nähe des Platzes. Taxis zum Bahnhof benötigen außerhalb der Rushhour zehn Minuten.",
+          "Südlich des Siab-Basars liegen die Wohnstraßen um die Hazrat-Hizr-Moschee und das Afrosiab-Museum auf etwas höherem Gelände und fangen im späten Frühjahr kühlere Brisen ein. Pensionen in dieser Zone sind in der Regel umgebaute Innenhofhäuser mit zwei oder drei Zimmern, gemeinsamen Bädern und Gastgebern, die Hausgemachte Plov-Unterrichtsstunden organisieren können. Das Registan ist ein fünfundzwanzigminütiger Spaziergang oder eine dreiminütige Fahrt entfernt, und die archäologische Stätte des antiken Afrosiab liegt direkt vor der Tür. Die Straßenbeleuchtung ist spärlich, nehmen Sie also eine Taschenlampe für die Rückkehr nach dem Abendessen mit.",
+          "Unsere privaten Touren platzieren Reisende normalerweise in der Nähe des Registan für die erste Nacht, um den Zugang zu den Denkmälern zu maximieren, und verlegen sie dann für die zweite Nacht in eine ruhigere Boulevard- oder Wohnunterkunft, wenn die Gruppe ein langsameres Tempo bevorzugt. Beide Ansätze funktionieren, weil Samarkands kompaktes historische Zentrum in einem Zwei-Kilometer-Radius liegt und Taxis reichlich und taxametert sind. Wenn Sie mit dem abendlichen Hochgeschwindigkeitszug aus Taschkent anreisen, vermeidet ein vorab gebuchter Transfer das Gedränge an den Bahnhofstaxis und bringt Sie vor der 22:00-Uhr-Küchenschlusszeit in den meisten kleineren Pensionen unter."
+        ],
+        "fr": [
+          "Le quartier du Registan vous place à cinq minutes de marche des trois médersas et de la mosquée Bibi-Khanym, ce qui en fait la base la plus pratique pour la photographie matinale et les spectacles de lumière en soirée. Les hôtels de ce secteur vont des maisons de marchands restaurées avec cours intérieures aux immeubles modernes de quatre étages avec terrasses surplombant les portails illuminés. Une course en taxi de dix minutes vers le sud mène aux complexes du Gur-e Amir et du Shah-i-Zinda, tandis que le bazar Siab est à une promenade plate de quinze minutes pour du pain frais, des fruits secs et des épices. Le bruit du soir diminue sensiblement après la fin du spectacle son et lumière vers 22:00, de sorte que les chambres à l'étage donnant sur l'arrière restent calmes.",
+          "Le quartier de University Boulevard, qui s'étend au nord-ouest du Registan, propose des rues plus larges bordées d'arbres, des immeubles d'appartements de l'époque soviétique reconvertis en maisons d'hôtes de charme et un regroupement de cafés familiaux servant lagman et shashlik jusqu'à minuit. La distance à pied jusqu'aux principaux monuments passe à quinze ou vingt minutes, mais le compromis est une fréquentation nocturne plus faible et un stationnement plus facile si vous arrivez avec un chauffeur privé. Plusieurs établissements disposent de petits jardins où le petit-déjeuner est servi sous des mûriers, un contraste agréable avec les cours de pierre près de la place. Les taxis pour la gare mettent dix minutes en dehors des heures de pointe.",
+          "Au sud du bazar Siab, les ruelles résidentielles autour de la mosquée Hazrat-Hizr et du musée d'Afrosiab se situent sur un terrain légèrement plus élevé, profitant de brises plus fraîches à la fin du printemps. Les maisons d'hôtes de cette zone sont généralement des maisons à cour reconverties avec deux ou trois chambres, des salles de bains partagées et des hôtes capables d'organiser des cours de plov faits maison. Le Registan se trouve à vingt-cinq minutes à pied ou trois minutes en voiture, et le site archéologique de l'ancienne Afrosiab est à deux pas. L'éclairage public est rare, alors emportez une lampe torche pour vos retours après le dîner.",
+          "Nos circuits privés placent généralement les voyageurs dans le voisinage du Registan pour la première nuit afin de maximiser l'accès aux monuments, puis les transfèrent vers une propriété plus calme sur un boulevard ou dans un quartier résidentiel pour la deuxième nuit lorsque le groupe préfère un rythme plus lent. Les deux approches fonctionnent car le centre historique compact de Samarkand tient dans un rayon de deux kilomètres, et les taxis sont nombreux et au compteur. Si vous arrivez avec le train grande vitesse du soir depuis Tachkent, un transfert pré-réservé évite la cohue des taxis à la gare et vous permet d'être enregistré avant la fermeture de la cuisine à 22h00 dans la plupart des petites maisons d'hôtes."
+        ],
+        "ja": [
+          "レギスタン地区は、3つのマドラサとビビ・ハニム・モスクまで徒歩5分という立地で、早朝の撮影や夜のライトショーに最も便利な拠点となります。このエリアのホテルは、中庭を備えた改装済みの商人邸宅から、照らされたポータルを見渡す屋上テラスを持つ現代的な4階建ての施設まで様々です。南へ10分のタクシーでグール・アミールとシャーヒ・ズィンダの複合施設に到着し、シアブ・バザールまでは平坦な15分の散歩で、焼きたてのパン、ドライフルーツ、スパイスを購入できます。サウンドアンドライトプログラムが22:00頃に終了すると夕方の騒音は著しく減少するため、広場から離れた上層階の部屋は静かに保たれます。",
+          "レジスタン広場から北西へ伸びる大学通り地区は、並木道の広い通り、ブティックゲストハウスに改装されたソビエト時代のアパートメント、そしてラグマンやシャシュリクを深夜まで提供する家族経営のカフェが集まっています。主要な観光地までの徒歩時間は15分から20分に増えますが、その代わり夜間の人通りが少なく、専用ドライバーで到着した場合の駐車も容易です。いくつかの施設には小さな庭園があり、桑の木の下で朝食を楽しめます。広場近くの石畳の中庭とは異なる、心地よいひとときです。タクシーで駅までは、ラッシュ時以外なら10分です。",
+          "シアブバザールの南、ハズラト＝ヒズル・モスクとアフロシヤブ博物館の周辺にある住宅街は、やや高台に位置し、晩春には涼しい風が通り抜けます。このエリアのゲストハウスは、通常、中庭付きの住宅を改装したもので、2～3室、共用バスルーム、そして自家製プロフのレッスンを手配してくれるホストが特徴です。レジスタン広場までは徒歩25分、または車で3分、古代アフロシヤブの考古遺跡はすぐ目の前にあります。街灯は少ないため、夕食後の帰りには懐中電灯を持参してください。",
+          "当社のプライベートツアーでは、通常、最初の夜はレジスタン周辺に宿泊して観光地へのアクセスを最大限に高め、2泊目はグループがゆったりとしたペースを好む場合に、より静かな大通りまたは住宅街の施設へ移動します。どちらのアプローチも機能します。サマルカンドのコンパクトな歴史地区は半径2キロメートル以内に収まっており、タクシーも豊富でメーター制です。タシュケントからの夜行高速列車で到着する場合は、事前予約の送迎サービスを利用すると、駅のタクシーの混雑を避け、多くの小規模ゲストハウスの22時のキッチン締め切り前にチェックインできます。"
+        ],
+        "es": [
+          "La zona del Registán le sitúa a cinco minutos a pie de las tres madrasas y de la mezquita Bibi-Khanym, lo que la convierte en la base más conveniente para la fotografía temprano por la mañana y los espectáculos de luz al atardecer. Los hoteles aquí van desde casas de mercaderes restauradas con patios interiores hasta propiedades modernas de cuatro plantas con terrazas en la azotea con vistas a los portales iluminados. Un trayecto en taxi de diez minutos al sur llega a los complejos de Gur-e Amir y Shah-i-Zinda, mientras que el bazar Siab está a un paseo llano de quince minutos para pan fresco, fruta seca y especias. El ruido vespertino disminuye notablemente después de que el programa de sonido y luz termina alrededor de las 22:00, por lo que las habitaciones en los pisos superiores que dan lejos de la plaza permanecen tranquilas.",
+          "El barrio de University Boulevard, que se extiende al noroeste desde el Registan, ofrece calles más anchas arboladas, bloques de apartamentos de la era soviética convertidos en casas de huéspedes boutique y un grupo de cafés familiares que sirven lagman y shashlik hasta la medianoche. La distancia a pie hasta los monumentos principales aumenta a quince o veinte minutos, pero la compensación es menos tráfico peatonal nocturno y un estacionamiento más fácil si llegas con un conductor privado. Varias propiedades aquí tienen pequeños jardines donde se sirve el desayuno bajo moreras, un agradable contraste con los patios de piedra cerca de la plaza. Los taxis a la estación de tren tardan diez minutos fuera de las horas pico.",
+          "Al sur del bazar Siab, los callejones residenciales alrededor de la mezquita Hazrat-Hizr y el museo Afrosiab se encuentran en un terreno ligeramente más elevado, atrapando brisas más frescas a finales de primavera. Las casas de huéspedes en esta zona suelen ser hogares con patio convertidos con dos o tres habitaciones, baños compartidos y anfitriones que pueden organizar clases de plov casero. El Registan está a veinticinco minutos a pie o tres minutos en coche, y el sitio arqueológico de la antigua Afrosiab está justo en la puerta. La iluminación callejera es escasa, así que lleva una linterna para los retornos después de la cena.",
+          "Nuestros tours privados suelen alojar a los viajeros en las cercanías del Registan la primera noche para maximizar el acceso a los monumentos, y luego trasladarlos a una propiedad más tranquila en el bulevar o en una zona residencial la segunda noche cuando el grupo prefiere un ritmo más lento. Ambos enfoques funcionan porque el compacto casco histórico de Samarcanda cabe dentro de un radio de dos kilómetros, y los taxis son abundantes y con taxímetro. Si llegas en el tren de alta velocidad nocturno desde Taskent, un traslado reservado con antelación evita el tumulto de taxis en la estación y te permite hacer el check-in antes del cierre de la cocina a las 22:00 en la mayoría de las casas de huéspedes más pequeñas."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Registan area for monument proximity and night illumination",
+          "University Boulevard for quieter evenings and garden breakfasts",
+          "Hazrat-Hizr quarter for breezy courtyards and Afrosiab access"
+        ],
+        "de": [
+          "Registan-Gebiet für Denkmälernähe und nächtliche Beleuchtung",
+          "University Boulevard für ruhigere Abende und Gartenfrühstücke",
+          "Hazrat-Hizr-Viertel für luftige Innenhöfe und Afrosiab-Zugang"
+        ],
+        "fr": [
+          "Quartier du Registan pour la proximité des monuments et l'illumination nocturne",
+          "University Boulevard pour des soirées plus calmes et des petits-déjeuners dans le jardin",
+          "Quartier de Hazrat-Hizr pour des cours briseuses et l'accès à Afrosiab"
+        ],
+        "ja": [
+          "レジスタン地区：観光地への近さと夜のライトアップ",
+          "大学通り：静かな夜と庭園での朝食",
+          "ハズラト＝ヒズル地区：涼しい中庭とアフロシヤブへのアクセス"
+        ],
+        "es": [
+          "Zona del Registan por proximidad a monumentos e iluminación nocturna",
+          "University Boulevard por noches más tranquilas y desayunos en el jardín",
+          "Barrio de Hazrat-Hizr por patios con brisa y acceso a Afrosiab"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Walk to Registan",
+            "de": "Zu Fuß zum Registan",
+            "fr": "Marche jusqu'au Registan",
+            "ja": "レジスタン広場まで徒歩",
+            "es": "Caminar al Registan"
+          },
+          "value": {
+            "en": "5-25 minutes depending on district",
+            "de": "5-25 Minuten, je nach Viertel",
+            "fr": "5-25 minutes selon le quartier",
+            "ja": "地区により5～25分",
+            "es": "5-25 minutos dependiendo del distrito"
+          }
+        },
+        {
+          "label": {
+            "en": "Taxi to train station",
+            "de": "Taxi zum Bahnhof",
+            "fr": "Taxi jusqu'à la gare",
+            "ja": "駅までタクシー",
+            "es": "Taxi a la estación de tren"
+          },
+          "value": {
+            "en": "10-15 minutes from central areas",
+            "de": "10-15 Minuten von zentralen Gebieten",
+            "fr": "10-15 minutes depuis les zones centrales",
+            "ja": "中心部から10～15分",
+            "es": "10-15 minutos desde las áreas centrales"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days / 21 Nights",
+            "de": "22 Tage / 21 Nächte",
+            "fr": "22 jours / 21 nuits",
+            "ja": "22日間 / 21泊",
+            "es": "22 días / 21 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "Ab $3490 USD / Person",
+            "fr": "À partir de $3490 USD / personne",
+            "ja": "$3490 USD〜 / 1名",
+            "es": "Desde $3490 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400025/sunday-atlas/tash-rabat-in-kyrgyzstan-17533368_xht6ol.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Tash-Rabat, the 15th-century stone caravanserai in Naryn region, Kyrgyzstan",
+          "de": "Tasch-Rabat, die steinerne Karawanserei aus dem 15. Jahrhundert in der Region Naryn, Kirgistan",
+          "fr": "Tash-Rabat, caravansérail de pierre du XVe siècle, région de Naryn, Kirghizistan",
+          "ja": "ナリン州にある15世紀の石造りの隊商宿タシュ・ラバト（キルギス）",
+          "es": "Tash-Rabat, caravasar de piedra del siglo XV en la región de Naryn, Kirguistán"
+        },
+        "caption": {
+          "en": "Registan area, University Boulevard, Old Town",
+          "de": "Registan-Gebiet, Universität-Boulevard, Altstadt",
+          "fr": "Quartier du Registan, Boulevard de l'Université, Vieille Ville",
+          "ja": "レギスタン地区、大学大通り、旧市街",
+          "es": "Zona del Registán, Bulevar de la Universidad, Ciudad Vieja"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    },
+    {
+      "id": "seasonal-advice",
+      "placeName": {
+        "en": "Samarkand region",
+        "de": "Region Samarkand",
+        "fr": "Région de Samarkand",
+        "ja": "サマルカンド地方",
+        "es": "Región de Samarcanda"
+      },
+      "heading": {
+        "en": "Best Time to Visit",
+        "de": "Beste Reisezeit",
+        "fr": "Meilleure période pour visiter",
+        "ja": "ベストシーズン",
+        "es": "Mejor época para visitar"
+      },
+      "paragraphs": {
+        "en": [
+          "Spring from late March through May brings daytime highs in the low 20s Celsius and clear skies, making it the most comfortable window for walking the Registan, Gur-e Amir and Shah-i-Zinda without heat fatigue. Autumn from September to early November mirrors those conditions, with the added benefit of harvest markets piled with melons, grapes and fresh nuts near Bibi-Khanym Mosque. Summer temperatures regularly climb above 40 Celsius, so any sightseeing must start at sunrise and pause by 11 am, resuming only after 5 pm when the tilework has cooled enough to touch. Winter days hover near freezing, nights drop well below, and occasional snow can make the cobblestones of the old town slippery, though crowds vanish and hotel availability improves dramatically.",
+          "The city sits at roughly 700 meters elevation, which moderates extremes slightly compared to Bukhara and Khiva farther west, but the continental climate still delivers sharp daily swings of 15 to 20 degrees between noon and midnight. Rain is rare outside March and April, when brief showers can dust the turquoise domes with a temporary sheen that photographers prize. Wind picks up in late spring, sometimes carrying fine dust from the Kyzyl-Kum Desert that settles on camera lenses and requires frequent wiping. Light layers, a wide-brim hat and high-SPF sunscreen are essential from April through October regardless of the forecast.",
+          "Ramadan dates shift each year; during the fasting month many local eateries close until sunset, though hotels and larger restaurants catering to visitors maintain daytime service. The Silk and Spices Festival usually falls in late May or early June, adding music, dance and craft stalls to the Registan square but also drawing larger domestic crowds. Navruz, the Persian New Year on 21 March, brings street parades and special plov cauldrons in neighborhood mahallas, offering a rare chance to join family-style meals if you are invited. Booking accommodation at least two months ahead for these festivals is advisable because the boutique properties near the historic center fill quickly.",
+          "We schedule our Uzbekistan departures in April, May, September and October to align with the most reliable weather and to avoid the summer heat that forces early starts and long midday breaks. The drive across the Kyzyl-Kum Desert from Bukhara to Khiva takes about seven hours in a climate-controlled vehicle, and spring wildflowers along the Amudarya riverbanks make the journey visually rewarding. Winter departures are possible for travelers who prefer solitude and lower occupancy, but some smaller museums and workshops operate on reduced hours. Always confirm current entry requirements before finalizing flights, as visa-free periods and e-visa rules vary by nationality."
+        ],
+        "de": [
+          "Der Frühling von Ende März bis Mai bringt Tageshöchstwerte im niedrigen 20er-Bereich Celsius und klare Himmel, was ihn zum komfortabelsten Zeitraum macht, um das Registan, Gur-e Amir und Shah-i-Zinda ohne Hitzemüdigkeit zu erkunden. Der Herbst von September bis Anfang November spiegelt diese Bedingungen wider, mit dem zusätzlichen Vorteil von Erntemärkten, die mit Melonen, Trauben und frischen Nüssen in der Nähe der Bibi-Khanym-Moschee beladen sind. Die Sommertemperaturen klettern regelmäßig über 40 Grad Celsius, sodass jede Besichtigung bei Sonnenaufgang beginnen und bis 11 Uhr pausieren muss, um erst nach 17 Uhr wieder aufzunehmen, wenn die Fliesenarbeiten abgekühlt genug sind, um sie zu berühren. Wintertage liegen nahe dem Gefrierpunkt, die Nächte fallen weit darunter, und gelegentlicher Schnee kann das Kopfsteinpflaster der Altstadt rutschig machen, obwohl die Menschenmassen verschwinden und die Hotelverfügbarkeit dramatisch verbessert wird.",
+          "Die Stadt liegt auf etwa 700 Metern Höhe, was die Extreme im Vergleich zu Buchara und Khiva weiter westlich etwas mildert, aber das kontinentale Klima liefert dennoch starke tägliche Schwankungen von 15 bis 20 Grad zwischen Mittag und Mitternacht. Regen ist außerhalb von März und April selten, wenn kurze Schauer die türkisfarbenen Kuppeln mit einem vorübergehenden Glanz überziehen, den Fotografen schätzen. Der Wind nimmt im späten Frühjahr zu und trägt manchmal feinen Staub aus der Kyzyl-Kum-Wüste, der sich auf Kameraobjektiven absetzt und häufiges Abwischen erfordert. Leichte Lagen, ein breitkrempiger Hut und Sonnencreme mit hohem Lichtschutzfaktor sind von April bis Oktober unabhängig von der Vorhersage unerlässlich.",
+          "Die Ramadan-Daten verschieben sich jedes Jahr; während des Fastenmonats schließen viele lokale Lokale bis zum Sonnenuntergang, obwohl Hotels und größere Restaurants, die auf Besucher ausgerichtet sind, tagsüber Service anbieten. Das Seiden- und Gewürzfest fällt gewöhnlich auf Ende Mai oder Anfang Juni und bringt Musik, Tanz und Kunsthandwerksstände auf den Registan-Platz, zieht aber auch größere inländische Menschenmengen an. Navruz, das persische Neujahr am 21. März, bringt Straßenumzüge und spezielle Plov-Kessel in den Nachbarschaften Mahallas und bietet eine seltene Gelegenheit, an Familienmahlzeiten teilzunehmen, wenn man eingeladen wird. Die Unterkunft mindestens zwei Monate im Voraus für diese Festivals zu buchen, ist ratsam, da die Boutique-Unterkünfte nahe dem historischen Zentrum schnell ausgebucht sind.",
+          "Wir planen unsere Usbekistan-Abreisen in April, Mai, September und Oktober, um mit dem zuverlässigsten Wetter zusammenzufallen und die Sommerhitze zu vermeiden, die frühe Starts und lange Mittagspausen erzwingt. Die Fahrt durch die Kysyl-Kum-Wüste von Buchara nach Chiwa dauert etwa sieben Stunden in einem klimatisierten Fahrzeug, und Frühlingswildblumen entlang der Amudarya-Ufer machen die Reise visuell lohnenswert. Winterabreisen sind möglich für Reisende, die Einsamkeit und geringere Auslastung bevorzugen, aber einige kleinere Museen und Werkstätten haben reduzierte Öffnungszeiten. Bestätigen Sie stets die aktuellen Einreisebestimmungen, bevor Sie Flüge buchen, da visafreie Zeiträume und E-Visum-Regeln je nach Nationalität variieren."
+        ],
+        "fr": [
+          "Le printemps, de fin mars à mai, apporte des maximales diurnes dans les basses 20 degrés Celsius et un ciel dégagé, ce qui en fait la fenêtre la plus confortable pour parcourir le Registan, le Gur-e Amir et le Shah-i-Zinda sans fatigue due à la chaleur. L'automne, de septembre au début novembre, reflète ces conditions, avec l'avantage supplémentaire de marchés de récolte débordant de melons, de raisins et de noix fraîches près de la mosquée Bibi-Khanym. Les températures estivales grimpent régulièrement au-dessus de 40 Celsius, donc toute visite doit commencer au lever du soleil et faire une pause à 11 heures, ne reprenant qu'après 17 heures lorsque le carrelage a suffisamment refroidi pour être touché. Les journées hivernales frôlent le point de congélation, les nuits descendent bien en dessous, et des chutes de neige occasionnelles peuvent rendre les pavés de la vieille ville glissants, bien que les foules disparaissent et que la disponibilité hôtelière s'améliore considérablement.",
+          "La ville se situe à environ 700 mètres d'altitude, ce qui modère légèrement les extrêmes par rapport à Boukhara et Khiva plus à l'ouest, mais le climat continental apporte encore des variations quotidiennes marquées de 15 à 20 degrés entre midi et minuit. La pluie est rare en dehors de mars et avril, quand de brèves averses peuvent donner aux dômes turquoise un éclat temporaire que les photographes apprécient. Le vent se lève à la fin du printemps, transportant parfois de la fine poussière du désert de Kyzyl-Kum qui se dépose sur les objectifs et nécessite un nettoyage fréquent. Des vêtements légers, un chapeau à larges bords et une crème solaire à haut indice de protection sont essentiels d'avril à octobre, quelles que soient les prévisions.",
+          "Les dates du Ramadan changent chaque année ; pendant le mois du jeûne, de nombreux restaurants locaux ferment jusqu'au coucher du soleil, bien que les hôtels et les grands établissements accueillant les visiteurs maintiennent un service en journée. Le festival de la Soie et des Épices a généralement lieu fin mai ou début juin, ajoutant musique, danse et stands d'artisanat à la place du Registan, mais attirant également davantage de visiteurs nationaux. Navruz, le Nouvel An persan le 21 mars, apporte des défilés dans les rues et de grands chaudrons de plov dans les mahallas de quartier, offrant une occasion rare de partager des repas en famille si vous êtes invité. Il est conseillé de réserver votre hébergement au moins deux mois à l'avance pour ces festivals, car les établissements de charme près du centre historique se remplissent rapidement.",
+          "Nous planifions nos départs pour l'Ouzbékistan en avril, mai, septembre et octobre afin de profiter des conditions météorologiques les plus fiables et d'éviter la chaleur estivale qui impose des départs tôt le matin et de longues pauses à midi. La traversée du désert du Kyzyl-Kum de Boukhara à Khiva dure environ sept heures dans un véhicule climatisé, et les fleurs sauvages du printemps le long des rives de l'Amou-Daria rendent le voyage visuellement gratifiant. Les départs en hiver sont possibles pour les voyageurs qui préfèrent le calme et un taux d'occupation plus faible, mais certains petits musées et ateliers fonctionnent avec des horaires réduits. Vérifiez toujours les conditions d'entrée actuelles avant de finaliser vos vols, car les périodes d'exemption de visa et les règles d'e-visa varient selon la nationalité."
+        ],
+        "ja": [
+          "3月下旬から5月までの春は、日中の最高気温が20度前半で晴天に恵まれ、レジスタン、グール・エミール、シャー・イ・ズィンダを暑さに疲れることなく歩くのに最適な時期です。9月から11月上旬までの秋も同様の気候で、ビビ＝ハニム・モスク近くの収穫市場ではメロン、ブドウ、新鮮なナッツが山積みになるという特典もあります。夏は気温が40度を超える日が続き、観光は日の出前に始めて11時までに中断し、タイルが触れるほど冷める17時以降に再開する必要があります。冬は日中が氷点付近、夜はさらに冷え込み、時折雪が旧市街の石畳を滑りやすくすることもありますが、観光客は減り、ホテルの空き状況は劇的に改善します。",
+          "同市は標高約700メートルに位置し、西にあるブハラやヒヴァに比べると極端な気温はやや和らぎますが、大陸性気候により正午と真夜中の間で15度から20度の急激な一日の寒暖差が生じます。雨は3月と4月以外は稀で、この時期の短いスコールがターコイズ色のドームに一時的な艶を与え、写真家に珍重されます。晩春には風が強まり、時にはクズィル・クム砂漠から微細な砂塵を運び、カメラレンズに付着して頻繁な拭き取りを必要とします。4月から10月までは、予報に関わらず、薄手の重ね着、つばの広い帽子、高SPFの日焼け止めが必須です。",
+          "ラマダンの時期は毎年変わり、断食月の間は多くの地元の飲食店が日没まで閉まりますが、ホテルや訪問者向けの大規模なレストランでは昼間も営業しています。シルク＆スパイスフェスティバルは通常5月下旬または6月上旬に開催され、レギスタン広場に音楽、ダンス、クラフトの露店が並びますが、国内からの観光客も増えます。3月21日のペルシャ新年ナウロズでは、近隣のマハラで街頭パレードや特別なプロフの大鍋が登場し、招待されれば家族形式の食事に参加できる貴重な機会となります。これらのフェスティバルには少なくとも2ヶ月前までに宿泊施設を予約することをお勧めします。歴史地区近くのブティック施設はすぐに満室になるためです。",
+          "当社はウズベキスタン出発を4月、5月、9月、10月に設定し、最も安定した天候に合わせ、夏の暑さによる早朝出発や長い昼休みを避けています。ブハラからヒバまでのキジルクム砂漠を横断するドライブは、空調完備車両で約7時間かかり、アムダリヤ川岸の春の野生の花々が旅を視覚的に楽しませてくれます。冬の出発も可能で、静けさと低い稼働率を好む旅行者に適していますが、一部の小規模な博物館や工房は営業時間を短縮しています。ビザ免除期間や電子ビザの規則は国籍によって異なるため、フライトを確定する前に最新の入国要件を必ず確認してください。"
+        ],
+        "es": [
+          "La primavera, de finales de marzo a mayo, trae máximas diurnas en los bajos 20 grados Celsius y cielos despejados, lo que la convierte en la ventana más cómoda para caminar por el Registan, Gur-e Amir y Shah-i-Zinda sin fatiga por el calor. El otoño, de septiembre a principios de noviembre, refleja esas condiciones, con el beneficio adicional de mercados de cosecha repletos de melones, uvas y frutos secos cerca de la mezquita Bibi-Khanym. Las temperaturas en verano superan regularmente los 40 grados Celsius, por lo que cualquier visita turística debe comenzar al amanecer y hacer una pausa a las 11 am, reanudándose solo después de las 5 pm cuando el azulejo se ha enfriado lo suficiente para tocarlo. Los días de invierno rondan el punto de congelación, las noches bajan mucho más, y la nieve ocasional puede hacer resbaladizos los adoquines del casco antiguo, aunque las multitudes desaparecen y la disponibilidad hotelera mejora drásticamente.",
+          "La ciudad se encuentra a unos 700 metros de altitud, lo que modera ligeramente los extremos en comparación con Bujará y Khiva más al oeste, pero el clima continental aún ofrece oscilaciones diarias pronunciadas de 15 a 20 grados entre el mediodía y la medianoche. La lluvia es rara fuera de marzo y abril, cuando breves chubascos pueden cubrir las cúpulas turquesas con un brillo temporal que los fotógrafos aprecian. El viento aumenta a finales de primavera, a veces llevando polvo fino del desierto de Kyzyl-Kum que se asienta en los lentes de las cámaras y requiere limpieza frecuente. Ropa ligera, un sombrero de ala ancha y protector solar de alto FPS son esenciales de abril a octubre sin importar el pronóstico.",
+          "Las fechas del Ramadán cambian cada año; durante el mes de ayuno, muchos establecimientos locales cierran hasta el atardecer, aunque los hoteles y los restaurantes más grandes que atienden a visitantes mantienen el servicio durante el día. El Festival de la Seda y las Especias suele celebrarse a finales de mayo o principios de junio, añadiendo música, danza y puestos de artesanía a la plaza Registán, aunque también atrae a más turistas nacionales. Navruz, el Año Nuevo persa el 21 de marzo, trae desfiles callejeros y grandes calderos de plov en los mahallas vecinales, ofreciendo una oportunidad poco común de participar en comidas familiares si te invitan. Se recomienda reservar el alojamiento con al menos dos meses de antelación para estos festivales, ya que los hoteles boutique cerca del centro histórico se llenan rápidamente.",
+          "Programamos nuestras salidas a Uzbekistán en abril, mayo, septiembre y octubre para coincidir con el clima más fiable y evitar el calor del verano que obliga a iniciar temprano y hacer largas pausas al mediodía. El trayecto a través del desierto de Kyzyl-Kum de Bujará a Jiva dura unas siete horas en un vehículo con climatización, y las flores silvestres de primavera a lo largo de las riberas del río Amudarya hacen que el viaje sea visualmente gratificante. Las salidas en invierno son posibles para los viajeros que prefieren la soledad y una menor ocupación, pero algunos museos y talleres más pequeños operan con horario reducido. Siempre confirma los requisitos de entrada actuales antes de finalizar los vuelos, ya que los períodos de exención de visado y las reglas de visado electrónico varían según la nacionalidad."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Spring and autumn offer ideal walking temperatures",
+          "Summer sightseeing requires sunrise starts and long midday breaks",
+          "Winter brings fewer crowds but shorter museum hours"
+        ],
+        "de": [
+          "Frühling und Herbst bieten ideale Gehtemperaturen",
+          "Sommerliche Besichtigungen erfordern Sonnenaufgangsstarts und lange Mittagspausen",
+          "Der Winter bringt weniger Menschenmengen, aber kürzere Museum Öffnungszeiten"
+        ],
+        "fr": [
+          "Le printemps et l'automne offrent des températures idéales pour marcher",
+          "Les visites estivales nécessitent des départs à l'aube et de longues pauses à midi",
+          "L'hiver apporte moins de foule mais des horaires de musée réduits"
+        ],
+        "ja": [
+          "春と秋は理想的な歩行気温",
+          "夏の観光は日の出前の出発と長い昼休みが必要",
+          "冬は混雑が少ないが博物館の営業時間は短い"
+        ],
+        "es": [
+          "La primavera y el otoño ofrecen temperaturas ideales para caminar",
+          "El turismo en verano requiere iniciar al amanecer y hacer largas pausas al mediodía",
+          "El invierno trae menos multitudes pero horarios más cortos en los museos"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Best months",
+            "de": "Beste Monate",
+            "fr": "Meilleures périodes",
+            "ja": "ベストシーズン",
+            "es": "Meses recomendados"
+          },
+          "value": {
+            "en": "April, May, September, October",
+            "de": "April, Mai, September, Oktober",
+            "fr": "Avril, mai, septembre, octobre",
+            "ja": "4月、5月、9月、10月",
+            "es": "Abril, mayo, septiembre, octubre"
+          }
+        },
+        {
+          "label": {
+            "en": "Summer peak heat",
+            "de": "Sommerliche Höchsthitze",
+            "fr": "Chaleur estivale maximale",
+            "ja": "夏のピーク時の暑さ",
+            "es": "Calor máximo en verano"
+          },
+          "value": {
+            "en": "Above 40 Celsius",
+            "de": "Über 40 Grad Celsius",
+            "fr": "Au-dessus de 40 Celsius",
+            "ja": "40度以上",
+            "es": "Por encima de 40 Celsius"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400024/sunday-atlas/shah-i-zinda-in-samarkand-16681661_dpy6zx.jpg",
+        "width": 1920,
+        "height": 2880,
+        "alt": {
+          "en": "Glazed blue-tiled mausoleums along the sacred avenue of Shah-i-Zinda in Samarkand",
+          "de": "Blau glasierte Mausoleen entlang der heiligen Gräbergasse Schah-i-Sinda in Samarkand",
+          "fr": "Mausolées aux céramiques bleues le long de l'allée sacrée de Chah-i-Zinda à Samarcande",
+          "ja": "サマルカンドのシャーヒ・ズィンダ廟群に連なる青タイル装飾の霊廟",
+          "es": "Mausoleos revestidos de azulejos azules en la necrópolis de Shah-i-Zinda en Samarcanda"
+        },
+        "caption": {
+          "en": "Samarkand region",
+          "de": "Region Samarkand",
+          "fr": "Région de Samarkand",
+          "ja": "サマルカンド地方",
+          "es": "Región de Samarcanda"
+        }
+      }
+    },
+    {
+      "id": "practical-tips",
+      "placeName": {
+        "en": "Samarkand",
+        "de": "Samarkand",
+        "fr": "Samarcande",
+        "ja": "サマルカンド",
+        "es": "Samarcanda"
+      },
+      "heading": {
+        "en": "Practical Tips for Visitors",
+        "de": "Praktische Tipps für Besucher",
+        "fr": "Conseils pratiques pour les visiteurs",
+        "ja": "訪問者のための実用的なヒント",
+        "es": "Consejos prácticos para visitantes"
+      },
+      "paragraphs": {
+        "en": [
+          "Most nationalities can enter Uzbekistan visa-free for up to thirty days, but rules shift occasionally so verify the latest requirements on the official e-visa portal before you book flights. Spring and autumn bring comfortable daytime temperatures for walking the Registan and Shah-i-Zinda, while summer heat often pushes serious sightseeing into early morning hours. The city sits roughly three hundred kilometers southwest of Tashkent, reachable by high-speed train in about two hours or by shared taxi in four to five hours depending on border traffic if you arrive from Tajikistan.",
+          "Inside active mausoleums such as Gur-e Amir and the chambers of Shah-i-Zinda, both men and women should cover shoulders and knees; women may also need a light headscarf, which can be borrowed at the entrance of larger sites. Photography is generally permitted in courtyards and exterior tilework, but flash and tripods are prohibited inside burial chambers, and some smaller shrines request no cameras at all. Carry small denominations of Uzbek som for entry tickets, market snacks and taxi fares because card acceptance remains limited outside major hotels.",
+          "ATMs dispensing local currency are common along University Boulevard and near the Registan, yet they occasionally run dry on weekends, so withdraw enough cash for two to three days at a time. Bargaining is expected at Siab Bazaar and souvenir stalls around Bibi-Khanym, but prices in state-run museum shops are fixed. Tipping ten percent in sit-down restaurants is appreciated though not mandatory, and rounding up the fare for taxi drivers is standard practice.",
+          "Respect local customs by removing shoes before stepping onto carpeted prayer areas, speaking quietly inside mosques, and avoiding public displays of affection near religious monuments. During Ramadan many cafes close until sunset, so plan lunches at hotels or restaurants that cater to international visitors. Friday mornings see larger crowds at major mosques, making mid-morning a quieter window for photography at the Registan's main portal."
+        ],
+        "de": [
+          "Die meisten Nationalitäten können visumfrei für bis zu dreißig Tage nach Usbekistan einreisen, aber die Regeln ändern sich gelegentlich, daher überprüfen Sie die neuesten Anforderungen auf dem offiziellen E-Visum-Portal, bevor Sie Flüge buchen. Frühling und Herbst bringen angenehme Tagestemperaturen für Spaziergänge am Registan und Shah-i-Zinda, während die Sommerhitze ernsthafte Besichtigungen oft in die frühen Morgenstunden verlegt. Die Stadt liegt etwa dreihundert Kilometer südwestlich von Taschkent und ist mit dem Hochgeschwindigkeitszug in etwa zwei Stunden oder mit dem Sammeltaxi in vier bis fünf Stunden erreichbar, je nach Grenzverkehr, wenn Sie aus Tadschikistan anreisen.",
+          "In aktiven Mausoleen wie Gur-e Amir und den Kammern von Shah-i-Zinda sollten sowohl Männer als auch Frauen Schultern und Knie bedecken; Frauen benötigen möglicherweise auch ein leichtes Kopftuch, das an den Eingängen größerer Stätten ausgeliehen werden kann. Fotografieren ist in Innenhöfen und an der Außenfliesenverkleidung im Allgemeinen erlaubt, aber Blitz und Stative sind in Grabkammern verboten, und einige kleinere Schreine bitten um kein Fotografieren. Tragen Sie kleine Scheibchen Usbekischer Som für Eintrittskarten, Marktsnacks und Taxipreise, da die Kartenzahlung außerhalb großer Hotels begrenzt bleibt.",
+          "Geldautomaten, die lokale Währung ausgeben, sind entlang des University Boulevard und in der Nähe des Registan üblich, laufen aber an Wochenenden gelegentlich leer, daher heben Sie genug Bargeld für zwei bis drei Tage auf einmal ab. Auf dem Siab-Basar und an Souvenirständen um Bibi-Khanym wird gefeilscht, aber die Preise in staatlichen Museumsläden sind fest. Ein Trinkgeld von zehn Prozent in Restaurants mit Bedienung wird geschätzt, ist aber nicht obligatorisch, und das Aufrunden des Fahrpreises für Taxifahrer ist Standardpraxis.",
+          "Respektieren Sie lokale Bräuche, indem Sie Schuhe ausziehen, bevor Sie auf teppichbelegte Gebetsbereiche treten, in Moscheen leise sprechen und öffentliche Zärtlichkeiten in der Nähe religiöser Denkmäler vermeiden. Während des Ramadan schließen viele Cafés bis zum Sonnenuntergang, also planen Sie Mittagessen in Hotels oder Restaurants, die auf internationale Besucher ausgerichtet sind. Freitagvormittags sind die großen Moscheen stärker besucht, sodass der späte Vormittag ein ruhigeres Zeitfenster für Fotografien am Hauptportal des Registan bietet."
+        ],
+        "fr": [
+          "La plupart des nationalités peuvent entrer en Ouzbékistan sans visa pour un séjour allant jusqu'à trente jours, mais les règles évoluent parfois ; vérifiez les dernières exigences sur le portail officiel d'e-visa avant de réserver vos vols. Le printemps et l'automne apportent des températures diurnes agréables pour parcourir le Registan et Shah-i-Zinda, tandis que la chaleur estivale repousse souvent les visites sérieuses aux premières heures du matin. La ville se trouve à environ trois cents kilomètres au sud-ouest de Tachkent, accessible en train à grande vitesse en environ deux heures ou en taxi partagé en quatre à cinq heures selon le trafic frontalier si vous arrivez du Tadjikistan.",
+          "À l'intérieur des mausolées actifs tels que Gur-e Amir et les chambres de Shah-i-Zinda, hommes et femmes doivent couvrir leurs épaules et leurs genoux ; les femmes peuvent également avoir besoin d'un léger foulard, qui peut être emprunté à l'entrée des grands sites. La photographie est généralement autorisée dans les cours et sur les décors de carreaux extérieurs, mais le flash et les trépieds sont interdits à l'intérieur des chambres funéraires, et certains petits sanctuaires demandent de ne pas prendre de photos. Ayez sur vous de petites coupures de soums ouzbeks pour les billets d'entrée, les collations au marché et les courses de taxi, car l'acceptation des cartes reste limitée en dehors des grands hôtels.",
+          "Les distributeurs automatiques délivrant la monnaie locale sont courants le long du boulevard de l'Université et près du Registan, mais ils sont parfois à court de billets le week-end, alors retirez suffisamment d'espèces pour deux à trois jours à la fois. Le marchandage est attendu au bazar Siab et aux étals de souvenirs autour de Bibi-Khanym, mais les prix dans les boutiques des musées d'État sont fixes. Un pourboire de dix pour cent dans les restaurants avec service à table est apprécié, bien que non obligatoire, et arrondir la course pour les chauffeurs de taxi est une pratique courante.",
+          "Respectez les coutumes locales en retirant vos chaussures avant de marcher sur les zones de prière couvertes de tapis, en parlant à voix basse à l'intérieur des mosquées et en évitant les démonstrations publiques d'affection près des monuments religieux. Pendant le Ramadan, de nombreux cafés ferment jusqu'au coucher du soleil, alors prévoyez vos déjeuners dans les hôtels ou les restaurants qui accueillent les visiteurs internationaux. Le vendredi matin, les grandes mosquées attirent plus de monde, ce qui rend le milieu de matinée plus calme pour photographier le portail principal du Registan."
+        ],
+        "ja": [
+          "ほとんどの国籍の方はウズベキスタンに最大30日間ビザなしで入国できますが、規則は時折変更されるため、フライトを予約する前に公式電子ビザポータルで最新の要件を確認してください。春と秋はレギスタンやシャーヒ・ズィンダを歩くのに快適な日中の気温をもたらし、夏の暑さは本格的な観光を早朝に押しやることが多いです。この都市はタシュケントから南西に約300キロメートルの位置にあり、高速列車で約2時間、またはタジキスタンから到着する場合は国境の交通状況により4〜5時間の乗合タクシーでアクセスできます。",
+          "グール・アミールやシャーヒ・ズィンダの内部など、活動中の霊廟では、男女ともに肩と膝を覆う必要があります。女性は軽い頭スカーフが必要な場合があり、大規模な遺跡の入口で借りることができます。写真は中庭や外壁のタイルワークでは一般的に許可されていますが、埋葬室内でのフラッシュや三脚は禁止されており、一部の小さな聖域ではカメラの使用を一切求めない場合があります。入場券、市場の軽食、タクシー代にはウズベキスタン・スムの小額紙幣を携帯してください。主要ホテル以外でのカード利用は依然として限られています。",
+          "大学通りやレギスタン近くでは現地通貨を扱うATMが一般的ですが、週末には現金が切れることがあるため、2〜3日分を一度に引き出しておくことをお勧めします。シアブバザールやビビ・ハニム周辺の土産物店では値切り交渉が期待されますが、国営博物館ショップの価格は固定です。着席型レストランでは10％のチップが感謝されますが必須ではありません。タクシー運転手には運賃を切り上げるのが一般的です。",
+          "カーペット敷きの祈祷エリアに入る前に靴を脱ぐ、モスク内では静かに話す、宗教的な記念碑の近くでの公の場での愛情表現を避けるなど、現地の習慣を尊重してください。ラマダン期間中は多くのカフェが日没まで閉まるため、国際的な訪問者向けのホテルやレストランで昼食を計画してください。金曜の朝は主要なモスクに大勢の人が集まるため、レギスタンのメインゲートでの撮影には午前中がより静かな時間帯です。"
+        ],
+        "es": [
+          "La mayoría de las nacionalidades pueden entrar a Uzbekistán sin visado por hasta treinta días, pero las reglas cambian ocasionalmente, así que verifica los requisitos más recientes en el portal oficial de visado electrónico antes de reservar vuelos. La primavera y el otoño traen temperaturas diurnas agradables para caminar por el Registán y Shah-i-Zinda, mientras que el calor del verano suele llevar el turismo serio a las primeras horas de la mañana. La ciudad se encuentra a unos trescientos kilómetros al suroeste de Taskent, accesible en tren de alta velocidad en unas dos horas o en taxi compartido en cuatro a cinco horas, dependiendo del tráfico fronterizo si llegas desde Tayikistán.",
+          "Dentro de mausoleos activos como Gur-e Amir y las cámaras de Shah-i-Zinda, tanto hombres como mujeres deben cubrir hombros y rodillas; las mujeres también pueden necesitar un pañuelo ligero para la cabeza, que se puede prestar en la entrada de los sitios más grandes. La fotografía generalmente está permitida en patios y trabajos de azulejos exteriores, pero el flash y los trípodes están prohibidos dentro de las cámaras funerarias, y algunos santuarios más pequeños solicitan no usar cámaras en absoluto. Lleva denominaciones pequeñas de som uzbeco para boletos de entrada, bocadillos en el mercado y tarifas de taxi, ya que la aceptación de tarjetas sigue siendo limitada fuera de los hoteles principales.",
+          "Los cajeros automáticos que dispensan moneda local son comunes a lo largo del Bulevar Universitario y cerca del Registán, pero ocasionalmente se quedan sin efectivo los fines de semana, así que retira suficiente dinero para dos o tres días a la vez. Se espera regatear en el Bazar Siab y en los puestos de recuerdos alrededor de Bibi-Khanym, pero los precios en las tiendas de los museos estatales son fijos. Se aprecia dejar una propina del diez por ciento en restaurantes con servicio en mesa, aunque no es obligatorio, y redondear la tarifa para los conductores de taxi es una práctica estándar.",
+          "Respeta las costumbres locales quitándote los zapatos antes de pisar áreas de oración alfombradas, hablando en voz baja dentro de las mezquitas y evitando muestras públicas de afecto cerca de monumentos religiosos. Durante el Ramadán, muchos cafés cierran hasta el atardecer, así que planifica los almuerzos en hoteles o restaurantes que atienden a visitantes internacionales. Los viernes por la mañana hay más gente en las mezquitas principales, lo que hace que media mañana sea un momento más tranquilo para fotografiar el portal principal del Registán."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Verify visa rules on the official portal before departure",
+          "Cover shoulders, knees and head inside active mausoleums",
+          "Carry small som notes for tickets, markets and taxis"
+        ],
+        "de": [
+          "Überprüfen Sie die Visaregeln auf dem offiziellen Portal vor der Abreise",
+          "Decken Sie Schultern, Knie und Kopf in aktiven Mausoleen ab",
+          "Tragen Sie kleine Som-Scheine für Tickets, Märkte und Taxis"
+        ],
+        "fr": [
+          "Vérifiez les règles de visa sur le portail officiel avant le départ",
+          "Couvrez épaules, genoux et tête à l'intérieur des mausolées actifs",
+          "Ayez de petites coupures de soums pour les billets, les marchés et les taxis"
+        ],
+        "ja": [
+          "出発前に公式ポータルでビザ規則を確認する",
+          "活動中の霊廟内では肩、膝、頭を覆う",
+          "チケット、市場、タクシー用にスムの小額紙幣を携帯する"
+        ],
+        "es": [
+          "Verifica las reglas de visado en el portal oficial antes de salir",
+          "Cubre hombros, rodillas y cabeza dentro de mausoleos activos",
+          "Lleva billetes pequeños de som para boletos, mercados y taxis"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Visa-free stay",
+            "de": "Visumfreier Aufenthalt",
+            "fr": "Séjour sans visa",
+            "ja": "ビザなし滞在",
+            "es": "Estancia sin visado"
+          },
+          "value": {
+            "en": "Up to 30 days for many passports",
+            "de": "Bis zu 30 Tage für viele Pässe",
+            "fr": "Jusqu'à 30 jours pour de nombreux passeports",
+            "ja": "多くのパスポートで最大30日間",
+            "es": "Hasta 30 días para muchos pasaportes"
+          }
+        },
+        {
+          "label": {
+            "en": "Train from Tashkent",
+            "de": "Zug von Taschkent",
+            "fr": "Train depuis Tachkent",
+            "ja": "タシュケント発の列車",
+            "es": "Tren desde Taskent"
+          },
+          "value": {
+            "en": "About 2 hours on high-speed service",
+            "de": "Etwa 2 Stunden im Hochgeschwindigkeitszug",
+            "fr": "Environ 2 heures en service grande vitesse",
+            "ja": "高速列車で約2時間",
+            "es": "Unas 2 horas en servicio de alta velocidad"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400027/sunday-atlas/illuminated-registan-square-at-night-19439122_kfzhaf.jpg",
+        "width": 1920,
+        "height": 1188,
+        "alt": {
+          "en": "Registan Square in Samarkand illuminated at dusk before the evening return train to Tashkent",
+          "de": "Der beleuchtete Registan-Platz in Samarkand in der Abenddämmerung vor der Rückfahrt nach Taschkent",
+          "fr": "La place du Régistan à Samarcande illuminée au crépuscule avant le train du soir vers Tachkent",
+          "ja": "タシケントへの帰路につく夕暮れ時にライトアップされたサマルカンドのレギスタン広場",
+          "es": "La plaza del Registán en Samarcanda iluminada al anochecer antes del tren de regreso a Taskent"
+        },
+        "caption": {
+          "en": "Samarkand",
+          "de": "Samarkand",
+          "fr": "Samarcande",
+          "ja": "サマルカンド",
+          "es": "Samarcanda"
+        }
+      }
+    },
+    {
+      "id": "this-season",
+      "seasonKey": "2026-11",
+      "placeName": {
+        "en": "November 2026",
+        "de": "November 2026",
+        "fr": "Novembre 2026",
+        "ja": "2026年11月",
+        "es": "Noviembre de 2026"
+      },
+      "heading": {
+        "en": "Samarkand in November 2026: Cool Days, Few Crowds",
+        "de": "Samarkand im November 2026: Kühle Tage, wenige Besucher",
+        "fr": "Samarkand en novembre 2026 : Jours frais, peu de foule",
+        "ja": "2026年11月のサマルカンド：涼しい日々、少ない観光客",
+        "es": "Samarkand en noviembre de 2026: Días frescos, pocas multitudes"
+      },
+      "paragraphs": {
+        "en": [
+          "November in Samarkand brings crisp autumn weather with daytime highs around 12–15°C and nights dropping to 2–5°C, making layered clothing essential. Daylight lasts about 10 hours, with sunrise near 7:00 AM and sunset around 5:00 PM, giving ample time for the Registan, Gur-e Amir, and Shah-i-Zinda. All major monuments, museums, and the Siyob Bazaar remain open on their standard schedules, and the Afrosiyob high-speed train runs year-round between Tashkent and Samarkand in about 2 hours. Tourist numbers are low compared to October, so queues at ticket counters are minimal and guides have wider availability for private tours.",
+          "The Kyzyl-Kum Desert drives to Bukhara (280 km, about 4 hours) and Khiva (460 km, about 7 hours) stay fully passable, with no seasonal road closures or mountain passes to contend with. Our 1-day Samarkand train tour from Tashkent operates through November, as do the 14-day and 22-day multi-country itineraries that include Samarkand, Bukhara, and Khiva. Pack a warm jacket, hat, and gloves for early starts and evenings, plus comfortable walking shoes for the extensive stone-paved sites. A light rain layer is advisable, as November sees occasional brief showers."
+        ],
+        "de": [
+          "Im November herrscht in Samarkand kühles Herbstwetter mit Tageshöchstwerten von etwa 12–15 °C und Nachttemperaturen von 2–5 °C, weshalb mehrlagige Kleidung unerlässlich ist. Die Tageslichtdauer beträgt rund 10 Stunden, Sonnenaufgang ist gegen 7:00 Uhr und Sonnenuntergang gegen 17:00 Uhr, was reichlich Zeit für den Registan, das Gur-e Amir und Shah-i-Zinda lässt. Alle wichtigen Denkmäler, Museen und der Siyob-Basar haben zu den üblichen Zeiten geöffnet, und der Hochgeschwindigkeitszug Afrosiyob verkehrt ganzjährig zwischen Taschkent und Samarkand in etwa 2 Stunden. Die Besucherzahlen sind im Vergleich zum Oktober gering, sodass die Schlangen an den Ticketschaltern kurz sind und unsere Guides für private Touren leichter verfügbar sind.",
+          "Die Fahrten in die Kysylkum-Wüste nach Bukhara (280 km, etwa 4 Stunden) und Khiva (460 km, etwa 7 Stunden) bleiben voll befahrbar, ohne saisonale Straßensperrungen oder Pässe. Unsere 1-tägige Samarkand-Zugreise ab Taschkent läuft auch im November, ebenso wie die 14-tägigen und 22-tägigen Mehrländer-Rundreisen, die Samarkand, Bukhara und Khiva umfassen. Packen Sie eine warme Jacke, Mütze und Handschuhe für frühe Starts und Abende sowie bequeme Wanderschuhe für die ausgedehnten Pflasterstein-Standorte ein. Eine leichte Regenjacke ist ratsam, da es im November gelegentlich kurze Schauer geben kann."
+        ],
+        "fr": [
+          "Novembre à Samarkand apporte un temps automnal frais avec des maximales diurnes autour de 12–15 °C et des nuits descendant à 2–5 °C, rendant les vêtements superposés essentiels. La lumière du jour dure environ 10 heures, avec un lever de soleil vers 7 h et un coucher vers 17 h, laissant amplement de temps pour le Registan, le Gur-e Amir et le Shah-i-Zinda. Tous les principaux monuments, musées et le bazar de Siyob restent ouverts selon leurs horaires standards, et le train à grande vitesse Afrosiyob circule toute l'année entre Tachkent et Samarkand en environ 2 heures. Le nombre de touristes est faible comparé à octobre, donc les files d'attente aux guichets sont minimes et nos guides ont une plus grande disponibilité pour les visites privées.",
+          "Le désert de Kyzyl-Kum reste entièrement praticable jusqu'à Boukhara (280 km, environ 4 heures) et Khiva (460 km, environ 7 heures), sans fermeture saisonnière de routes ni cols de montagne à franchir. Notre excursion en train de 1 jour à Samarkand de Tashkent fonctionne jusqu'en novembre, tout comme les itinéraires multi-pays de 14 jours et 22 jours qui incluent Samarkand, Bukhara et Khiva. Prévoyez une veste chaude, un bonnet et des gants pour les départs matinaux et les soirées, ainsi que des chaussures de marche confortables pour les vastes sites pavés de pierre. Une veste légère contre la pluie est recommandée, car novembre connaît parfois de brèves averses."
+        ],
+        "ja": [
+          "11月のサマルカンドは、日中の最高気温が12〜15℃、夜間は2〜5℃まで下がる、爽やかな秋の天候となります。重ね着が必須です。日照時間は約10時間、日の出は午前7時頃、日没は午後5時頃で、レギスタン広場、グール・アミール廟、シャーヒ・ズィンダを巡るのに十分な時間があります。主要なモニュメント、博物館、シヨフ・バザールはすべて通常のスケジュールで営業しており、タシュケントとサマルカンドを結ぶアフロシヤブ高速列車は年間を通じて運行し、所要時間は約2時間です。10月に比べて観光客数は少なく、チケットカウンターでの待ち時間は最小限、プライベートツアーのガイドも比較的手配しやすくなっています。",
+          "クズィル・クム砂漠を通るブハラ行き（280km、約4時間）とヒヴァ行き（460km、約7時間）のドライブは、季節による道路閉鎖や越えるべき山岳ルートもなく、通年通行可能です。タシュケント発サマルカンド1日列車ツアーは11月も運行し、サマルカンド、ブハラ、ヒヴァを含む14日間および22日間の多国籍周遊プランも同様です。早朝や夕方には暖かいジャケット、帽子、手袋を、広大な石畳の遺跡を歩くには快適なウォーキングシューズをご用意ください。11月は時折短いにわか雨があるため、軽いレインウェアもおすすめです。"
+        ],
+        "es": [
+          "Noviembre en Samarkand trae un clima otoñal fresco, con máximas diurnas de unos 12–15 °C y noches que bajan a 2–5 °C, por lo que la ropa en capas es esencial. La luz del día dura unas 10 horas, con el amanecer cerca de las 7:00 AM y el atardecer alrededor de las 5:00 PM, lo que da tiempo de sobra para el Registán, el Gur-e Amir y el Shah-i-Zinda. Todos los monumentos, museos y el bazar de Siyob permanecen abiertos con sus horarios habituales, y el tren de alta velocidad Afrosiyob funciona todo el año entre Taskent y Samarkand en unas 2 horas. El número de turistas es menor que en octubre, así que las colas en las taquillas son mínimas y los guías tienen más disponibilidad para tours privados.",
+          "Los trayectos al desierto de Kyzyl-Kum hacia Bujara (280 km, unas 4 horas) y Jiva (460 km, unas 7 horas) siguen siendo totalmente transitables, sin cierres estacionales de carreteras ni pasos de montaña que sortear. Nuestro tour de tren de 1 día a Samarkand desde Taskent opera durante noviembre, al igual que los itinerarios de varios países de 14 y 22 días que incluyen Samarkand, Bujara y Jiva. Lleve una chaqueta abrigada, sombrero y guantes para las salidas tempranas y las noches, además de calzado cómodo para caminar por los extensos sitios empedrados. Es recomendable una capa ligera contra la lluvia, ya que en noviembre hay ocasionales chubascos breves."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Daytime 12–15°C, nights near freezing",
+          "10 hours daylight, sunrise ~7 AM",
+          "All sites open, trains running daily",
+          "Low crowds, easy guide booking"
+        ],
+        "de": [
+          "Tagsüber 12–15 °C, nachts nahe dem Gefrierpunkt",
+          "10 Stunden Tageslicht, Sonnenaufgang ca. 7 Uhr",
+          "Alle Sehenswürdigkeiten geöffnet, Züge fahren täglich",
+          "Geringe Besucherströme, einfache Guide-Buchung"
+        ],
+        "fr": [
+          "Journée 12–15 °C, nuits proches du gel",
+          "10 heures de lumière du jour, lever du soleil vers 7 h",
+          "Tous les sites ouverts, trains circulant quotidiennement",
+          "Peu de foule, réservation de guide facile"
+        ],
+        "ja": [
+          "日中12〜15℃、夜間は氷点近く",
+          "日照時間10時間、日の出は午前7時頃",
+          "すべての観光地が営業、列車は毎日運行",
+          "混雑が少なく、ガイドの手配も容易"
+        ],
+        "es": [
+          "Diurno 12–15 °C, noches cerca de cero",
+          "10 horas de luz, amanecer ~7 AM",
+          "Todos los sitios abiertos, trenes diarios",
+          "Pocas multitudes, fácil reserva de guías"
+        ]
+      },
+      "keyFacts": []
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How long does the high-speed train from Tashkent to Samarkand take?",
+        "de": "Wie lange dauert die Hochgeschwindigkeitszugfahrt von Taschkent nach Samarkand?",
+        "fr": "Combien de temps dure le trajet en train grande vitesse de Tachkent à Samarcande ?",
+        "ja": "タシュケントからサマルカンドまでの高速列車の所要時間はどのくらいですか？",
+        "es": "¿Cuánto tarda el tren de alta velocidad de Taskent a Samarcanda?"
+      },
+      "a": {
+        "en": "The Afrosiyob high-speed train covers the journey in about two hours. Departures run several times daily, with morning services convenient for same-day return trips from Tashkent.",
+        "de": "Der Hochgeschwindigkeitszug Afrosiyob benötigt für die Strecke etwa zwei Stunden. Die Abfahrten erfolgen mehrmals täglich, wobei die Morgenverbindungen sich besonders für Tagesausflüge mit Rückreise nach Taschkent am selben Tag eignen.",
+        "fr": "Le train grande vitesse Afrosiyob parcourt le trajet en environ deux heures. Les départs sont assurés plusieurs fois par jour, avec des services matinaux pratiques pour des excursions à la journée depuis Tachkent.",
+        "ja": "アフロシヤブ高速列車なら約2時間で移動できます。1日数便運行されており、タシュケントからの日帰りにも便利な午前便があります。",
+        "es": "El tren de alta velocidad Afrosiyob recorre el trayecto en unas dos horas. Hay salidas varias veces al día, con servicios matutinos ideales para excursiones de ida y vuelta el mismo día desde Taskent."
+      }
+    },
+    {
+      "q": {
+        "en": "Can I visit Registan Square, Gur-e-Amir and Shah-i-Zinda in one day?",
+        "de": "Kann ich den Registan-Platz, das Gur-e-Amir-Mausoleum und Shah-i-Zinda an einem Tag besichtigen?",
+        "fr": "Puis-je visiter la place du Registan, le Gur-e-Amir et le Shah-i-Zinda en une journée ?",
+        "ja": "レギスタン広場、グール・アミール廟、シャーヒ・ズィンダを1日で回れますか？",
+        "es": "¿Puedo visitar la Plaza Registán, el Gur-e-Amir y el Shah-i-Zinda en un solo día?"
+      },
+      "a": {
+        "en": "Yes, the main monuments cluster within a compact area. A full day allows comfortable visits to all four major sites with time for Siyob Bazaar and a relaxed lunch.",
+        "de": "Ja, die wichtigsten Monumente liegen in einem kompakten Gebiet beieinander. Ein ganzer Tag ermöglicht entspannte Besuche aller vier bedeutenden Stätten mit Zeit für den Siyob-Basar und ein gemütliches Mittagessen.",
+        "fr": "Oui, les principaux monuments sont regroupés dans un secteur compact. Une journée complète permet de visiter confortablement les quatre grands sites, avec du temps pour le bazar de Siyob et un déjeuner détendu.",
+        "ja": "はい、主要なモニュメントはコンパクトなエリアに集まっています。1日あれば4つの主要スイトをゆっくりと見学でき、シヨフ・バザールでの買い物やゆったりとしたランチの時間も確保できます。",
+        "es": "Sí, los principales monumentos están agrupados en una zona compacta. Un día completo permite visitar cómodamente los cuatro sitios principales, con tiempo para el bazar de Siyob y un almuerzo relajado."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the road travel time between Samarkand and Bukhara?",
+        "de": "Wie lange dauert die Autofahrt zwischen Samarkand und Buchara?",
+        "fr": "Quel est le temps de trajet par la route entre Samarcande et Boukhara ?",
+        "ja": "サマルカンドからブハラまでの車での所要時間はどのくらいですか？",
+        "es": "¿Cuál es el tiempo de viaje por carretera entre Samarcanda y Bujará?"
+      },
+      "a": {
+        "en": "The drive covers roughly 280 kilometres and takes about four hours by private vehicle, passing through the Kyzyl-Kum Desert landscape along the Amudarya corridor.",
+        "de": "Die Fahrt umfasst etwa 280 Kilometer und dauert mit dem Privatwagen rund vier Stunden, vorbei an der Landschaft der Kysyl-Kum-Wüste entlang des Amudarja-Korridors.",
+        "fr": "La route couvre environ 280 kilomètres et prend environ quatre heures en véhicule privé, en traversant les paysages du désert du Kyzyl-Koum le long du corridor de l'Amou-Daria.",
+        "ja": "約280キロメートルのドライブで、専用車両なら約4時間です。アムダリヤ回廊に沿ってクズィル・クム砂漠の風景を通り抜けます。",
+        "es": "El trayecto cubre unos 280 kilómetros y dura aproximadamente cuatro horas en vehículo privado, atravesando el paisaje del desierto de Kyzyl-Kum a lo largo del corredor del Amudaria."
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need a visa for Uzbekistan if I hold a US passport?",
+        "de": "Benötige ich ein Visum für Usbekistan, wenn ich einen US-Pass besitze?",
+        "fr": "Ai-je besoin d'un visa pour l'Ouzbékistan si je suis titulaire d'un passeport américain ?",
+        "ja": "米国パスポート保有者はウズベキスタンにビザが必要ですか？",
+        "es": "¿Necesito visado para Uzbekistán si tengo pasaporte estadounidense?"
+      },
+      "a": {
+        "en": "US passport holders can enter Uzbekistan visa-free for up to 30 days. Entry rules vary by nationality and can change, so verify current requirements on official government sources before booking.",
+        "de": "Inhaber eines US-Passes können visumfrei für bis zu 30 Tage nach Usbekistan einreisen. Die Einreisebestimmungen variieren je nach Nationalität und können sich ändern, daher überprüfen Sie die aktuellen Anforderungen vor der Buchung auf offiziellen Regierungsseiten.",
+        "fr": "Les titulaires d'un passeport américain peuvent entrer en Ouzbékistan sans visa pour un séjour allant jusqu'à 30 jours. Les conditions d'entrée varient selon la nationalité et peuvent évoluer, vérifiez les exigences actuelles auprès des sources gouvernementales officielles avant de réserver.",
+        "ja": "米国パスポート保有者は最大30日間、ビザなしでウズベキスタンに入国できます。入国規則は国籍によって異なり変更される場合があるため、予約前に公式政府情報源で最新の要件をご確認ください。",
+        "es": "Los titulares de pasaporte estadounidense pueden entrar a Uzbekistán sin visado por hasta 30 días. Los requisitos de entrada varían según la nacionalidad y pueden cambiar, así que verifique las condiciones actuales en fuentes oficiales del gobierno antes de reservar."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Samarkand Travel: Registan, Trains & Where to Stay (2027)",
+      "meta_description": "Samarkand travel basics: Registan, Gur-e-Amir and Shah-i-Zinda, the fast train from Tashkent, where to stay and the best months. Plan your visit here.",
+      "focus_keyword": "Samarkand travel guide 2027",
+      "keywords": [
+        "Samarkand travel guide 2027",
+        "Registan Square opening hours",
+        "Tashkent to Samarkand train",
+        "Samarkand to Bukhara transport",
+        "best area to stay Samarkand",
+        "Samarkand visa requirements",
+        "Silk Road Uzbekistan itinerary",
+        "Afrosiyob train schedule"
+      ]
+    },
+    "de": {
+      "seo_title": "Samarkand Reise: Registan, Zug & Unterkunft (2027)",
+      "meta_description": "Samarkand-Reise kompakt: Registan, Gur-Emir und Schah-i-Sinda, Schnellzug ab Taschkent, beste Viertel zum Übernachten und beste Monate.",
+      "focus_keyword": "Samarkand Reiseführer 2027",
+      "keywords": [
+        "Samarkand Reiseführer 2027",
+        "Registan-Platz Öffnungszeiten",
+        "Taschkent nach Samarkand Zug",
+        "Samarkand nach Buchara Transport",
+        "bester Stadtteil zum Übernachten Samarkand",
+        "Samarkand Visum Anforderungen",
+        "Seidenstraße Usbekistan Reiseroute",
+        "Afrosiyob Zug Fahrplan"
+      ]
+    },
+    "fr": {
+      "seo_title": "Voyage à Samarkand : Registan, train et où dormir (2027)",
+      "meta_description": "Voyage à Samarkand : Registan, Gour-Emir et Chah-i-Zinda, train rapide depuis Tachkent, quartiers où dormir et meilleurs mois. Préparez votre visite.",
+      "focus_keyword": "guide de voyage Samarkand 2027",
+      "keywords": [
+        "guide de voyage Samarkand 2027",
+        "horaires d'ouverture de la place du Registan",
+        "train Tachkent à Samarkand",
+        "transport Samarkand à Boukhara",
+        "meilleur quartier où séjourner à Samarkand",
+        "exigences de visa pour Samarkand",
+        "itinéraire Route de la Soie Ouzbékistan",
+        "horaires du train Afrosiyob"
+      ]
+    },
+    "ja": {
+      "seo_title": "サマルカンド旅行：レギスタン・鉄道・滞在エリア（2027）",
+      "meta_description": "サマルカンド旅行の基本。レギスタン広場、グール・エ・アミール、シャーヒ・ズィンダ、タシケントからの高速列車、滞在エリア、ベストシーズン。",
+      "focus_keyword": "サマルカンド旅行ガイド 2027",
+      "keywords": [
+        "サマルカンド旅行ガイド 2027",
+        "レギスタン広場 開館時間",
+        "タシュケントからサマルカンドまでの列車",
+        "サマルカンドからブハラまでの交通手段",
+        "サマルカンド おすすめの滞在エリア",
+        "サマルカンド ビザ要件",
+        "ウズベキスタン シルクロード 旅程",
+        "アフラシヤーブ列車 時刻表"
+      ]
+    },
+    "es": {
+      "seo_title": "Viaje a Samarcanda: Registán, tren y dónde dormir (2027)",
+      "meta_description": "Viaje a Samarcanda: Registán, Gur-e-Amir y Shah-i-Zinda, el tren rápido desde Taskent, zonas para alojarse y mejores meses. Planifica tu visita.",
+      "focus_keyword": "guía de viaje a Samarcanda 2027",
+      "keywords": [
+        "guía de viaje a Samarcanda 2027",
+        "horario de apertura de la Plaza Registán",
+        "tren de Taskent a Samarcanda",
+        "transporte de Samarcanda a Bujará",
+        "mejor zona para alojarse en Samarcanda",
+        "requisitos de visado para Samarcanda",
+        "itinerario de la Ruta de la Seda en Uzbekistán",
+        "horario del tren Afrosiyob"
+      ]
+    }
+  },
+  "contentHash": "f4f17a752eaa01f1",
+  "refreshLog": [
+    {
+      "at": "2026-10-31T16:40:18+04:00",
+      "reason": "catalog refresh: 1 fact(s)"
+    },
+    {
+      "at": "2026-11-02T22:54:53+04:00",
+      "reason": "content edited outside the pipeline"
+    },
+    {
+      "at": "2026-11-17T09:09:55+04:00",
+      "reason": "seasonal section 2026-11"
+    }
+  ]
+}

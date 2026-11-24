@@ -1,0 +1,740 @@
+{
+  "slug": "harbin-snow-town-changbai-mountain-7-days",
+  "title": {
+    "en": "Harbin, China Snow Town & Changbai Mountain: 7-Day Winter Tour",
+    "de": "Harbin, China Snow Town & Changbai-Gebirge: 7-tägige Winterreise",
+    "fr": "Harbin, China Snow Town et mont Changbai : circuit d’hiver de 7 jours",
+    "ja": "ハルビン・中国雪郷・長白山：7日間の冬のツアー",
+    "es": "Harbin, China Snow Town y monte Changbai: tour de invierno de 7 días",
+    "zh": "哈尔滨、中国雪乡与长白山：7天冬季之旅"
+  },
+  "destination": "china",
+  "countries": [],
+  "durationDays": 7,
+  "nights": 6,
+  "style": {
+    "en": "Winter & snow",
+    "de": "Winter & Schnee",
+    "fr": "Hiver et neige",
+    "ja": "冬と雪",
+    "es": "Invierno y nieve",
+    "zh": "冬季与雪"
+  },
+  "seasonNote": {
+    "en": "November to February",
+    "de": "November bis Februar",
+    "fr": "De novembre à février",
+    "ja": "11月～2月",
+    "es": "De noviembre a febrero",
+    "zh": "11月至2月"
+  },
+  "maxGroupSize": 8,
+  "summary": {
+    "en": "A 7-day winter tour of Northeast China from Harbin to Jilin: China Snow Town’s lantern-lit roofs, a Dream Snow Mountain hike and snowmobile ride, Jingpo Lake ice fishing, Changbai Mountain’s Heavenly Lake, volcanic hot springs and a ski day on Songhua Lake.",
+    "de": "Eine 7-tägige Winterreise durch Nordostchina von Harbin nach Jilin: laternenbeleuchtete Dächer in China Snow Town, Wanderung und Schneemobil am Dream Snow Mountain, Eisfischen am Jingpo-See, der Himmelssee am Changbai-Gebirge, vulkanische Thermen und ein Skitag am Songhua-See.",
+    "fr": "Un circuit d’hiver de 7 jours dans le nord-est de la Chine, de Harbin à Jilin : toits illuminés de China Snow Town, randonnée et motoneige au Dream Snow Mountain, pêche sur glace au lac Jingpo, lac Céleste du mont Changbai, sources chaudes volcaniques et journée de ski au lac Songhua.",
+    "ja": "ハルビンから吉林まで、中国東北部を巡る7日間の冬のツアー。提灯が灯る中国雪郷、夢幻雪山ハイキングとスノーモービル、鏡泊湖の氷上漁、長白山の天池、火山温泉、そして松花湖でのスキーを楽しみます。",
+    "es": "Un tour de invierno de 7 días por el noreste de China, de Harbin a Jilin: los tejados iluminados de China Snow Town, caminata y moto de nieve en Dream Snow Mountain, pesca en hielo en el lago Jingpo, el Lago Celestial del monte Changbai, termas volcánicas y un día de esquí en el lago Songhua.",
+    "zh": "从哈尔滨到吉林的7天冬季之旅：中国雪乡灯笼照亮的屋顶、梦雪山徒步与雪地摩托骑行、镜泊湖冰钓、长白山天池、火山温泉以及松花湖滑雪日。"
+  },
+  "intro": {
+    "en": "This Harbin and China Snow Town tour is a 7-day winter journey for one to eight travellers, run from November to February. We start in Harbin, drive the Yaxue Highway into China Snow Town for a night under the snow-mushroom roofs, hike Dream Snow Mountain, and follow the old Chinese Eastern Railway to Hengdaohezi and Mudanjiang. From Yanji we climb to Heavenly Lake on Changbai Mountain’s North Slope, soak in volcanic hot springs in Erdaobaihe, raft between rime-frosted banks, and finish with a ski day on Songhua Lake before your train from Jilin.",
+    "de": "Diese Reise nach Harbin und China Snow Town ist eine 7-tägige Wintertour für ein bis acht Reisende, von November bis Februar. Wir beginnen in Harbin, fahren über die Yaxue Highway nach China Snow Town und schlafen unter den Schneepilz-Dächern, wandern am Dream Snow Mountain und folgen der alten Ostchinesischen Eisenbahn nach Hengdaohezi und Mudanjiang. Von Yanji geht es zum Himmelssee am Nordhang des Changbai-Gebirges, in die vulkanischen Thermen von Erdaobaihe, zum Rafting zwischen Raureif-Ufern und zum Abschluss zum Skifahren am Songhua-See, bevor Ihr Zug in Jilin abfährt.",
+    "fr": "Ce circuit Harbin et China Snow Town est un voyage d’hiver de 7 jours pour un à huit voyageurs, de novembre à février. Nous partons de Harbin, empruntons la route de Yaxue jusqu’à China Snow Town pour une nuit sous les toits enneigés, randonnons au Dream Snow Mountain et suivons l’ancien Chemin de fer de l’Est chinois jusqu’à Hengdaohezi et Mudanjiang. Depuis Yanji, nous montons au lac Céleste sur le versant nord du Changbai, nous baignons dans les sources volcaniques d’Erdaobaihe, faisons du rafting entre des rives givrées et terminons par une journée de ski au lac Songhua avant votre train à Jilin.",
+    "ja": "ハルビンと中国雪郷を巡るこのツアーは、1〜8名様向けの7日間の冬の旅で、11月から2月に催行します。ハルビンを出発し、亜雪公路で中国雪郷へ向かい雪のきのこ屋根の下に1泊。夢幻雪山を歩き、旧中東鉄道に沿って横道河子と牡丹江へ。延吉からは長白山北坂の天池へ登り、二道白河の火山温泉、霧氷の川でのラフティングを楽しみ、最後は松花湖でスキーをしてから吉林駅でお見送りします。",
+    "es": "Este tour por Harbin y China Snow Town es un viaje de invierno de 7 días para uno a ocho viajeros, de noviembre a febrero. Empezamos en Harbin, recorremos la carretera Yaxue hasta China Snow Town para dormir bajo los tejados nevados, caminamos en Dream Snow Mountain y seguimos el antiguo Ferrocarril Oriental de China hasta Hengdaohezi y Mudanjiang. Desde Yanji subimos al Lago Celestial en la ladera norte del Changbai, nos bañamos en las termas volcánicas de Erdaobaihe, hacemos rafting entre orillas escarchadas y terminamos con un día de esquí en el lago Songhua antes de su tren en Jilin.",
+    "zh": "这趟哈尔滨与中国雪乡之旅是一个面向1至8位旅客的7天冬季旅程，于11月至2月运营。我们从哈尔滨出发，沿雅雪高速公路前往中国雪乡，在雪蘑菇屋顶下过夜，徒步梦雪山，并沿老中东铁路前往恒春河子和牡丹江。从延吉出发，我们攀登长白山北坡的天池，在二道白河泡火山温泉，在挂满霜花的河岸之间漂流，最后在松花湖滑雪一天，然后从吉林乘火车离开。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Harbin, arrival",
+        "de": "Harbin, Ankunft",
+        "fr": "Harbin, arrivée",
+        "ja": "ハルビン到着",
+        "es": "Harbin, llegada",
+        "zh": "哈尔滨，抵达"
+      },
+      "description": {
+        "en": "We meet you at Harbin Taiping International Airport (HRB) with a 24-hour pick-up and take you to our hotel in central Harbin. The rest of the day is free: walk Zhongyang Pedestrian Street, see St. Sophia Cathedral, or visit Harbin Ice and Snow World. Overnight in Harbin.",
+        "de": "Wir holen Sie rund um die Uhr am Flughafen Harbin Taiping (HRB) ab und bringen Sie zu unserem Hotel im Zentrum von Harbin. Der Rest des Tages ist frei: Bummeln Sie über die Zhongyang-Fußgängerzone, besuchen Sie die Sophienkathedrale oder die Harbin Ice and Snow World. Übernachtung in Harbin.",
+        "fr": "Nous vous accueillons à l’aéroport international de Harbin Taiping (HRB), transfert assuré 24 h/24, jusqu’à notre hôtel au centre de Harbin. Temps libre pour flâner rue piétonne Zhongyang, voir la cathédrale Sainte-Sophie ou visiter le Harbin Ice and Snow World. Nuit à Harbin.",
+        "ja": "ハルビン太平国際空港（HRB）で24時間対応のお出迎えをし、ハルビン中心部のホテルへご案内します。その後は自由時間。中央大街の散策、聖ソフィア大聖堂の見学、ハルビン氷雪大世界の観光などをお楽しみください。ハルビン泊。",
+        "es": "Le recibimos en el aeropuerto internacional Harbin Taiping (HRB), con recogida las 24 horas, y le llevamos a nuestro hotel en el centro de Harbin. Tiempo libre para pasear por la calle peatonal Zhongyang, ver la catedral de Santa Sofía o visitar Harbin Ice and Snow World. Noche en Harbin.",
+        "zh": "我们在哈尔滨太平国际机场（HRB）为您提供24小时接机服务，并送您前往哈尔滨市中心的酒店。当天余下时间自由活动：漫步中央大街，参观圣索菲亚教堂，或游览哈尔滨冰雪大世界。哈尔滨过夜。"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Harbin – Yaxue Highway – China Snow Town (Xuexiang), 320 km by road",
+        "de": "Harbin – Yaxue Highway – China Snow Town (Xuexiang), 320 km auf der Straße",
+        "fr": "Harbin – route Yaxue – China Snow Town (Xuexiang), 320 km par la route",
+        "ja": "ハルビン – 亜雪公路 – 中国雪郷、陸路320km",
+        "es": "Harbin – carretera Yaxue – China Snow Town (Xuexiang), 320 km por carretera",
+        "zh": "哈尔滨 – 雅雪高速公路 – 中国雪乡（雪乡），公路320公里"
+      },
+      "description": {
+        "en": "We drive the snow-lined Yaxue Highway through rime-covered birch and pine forests, ride a traditional horse-drawn sleigh over the snowfields, and check into our heated kang guesthouse with private bathroom inside China Snow Town. In the evening we walk Xueyun Avenue, climb the Bangchui Mountain wooden walkway for red-lantern night views over the snow-mushroom roofs, and join the snow bonfire dance. Overnight in China Snow Town.",
+        "de": "Wir fahren über die verschneite Yaxue Highway durch raureifbedeckte Birken- und Kiefernwälder, unternehmen eine traditionelle Pferdeschlittenfahrt über die Schneefelder und beziehen unser beheiztes Kang-Gästehaus mit eigenem Bad in China Snow Town. Abends schlendern wir über die Xueyun-Allee, steigen den Holzsteg am Bangchui-Berg hinauf zum Blick auf die laternenbeleuchteten Schneepilz-Dächer und tanzen am Schneelagerfeuer. Übernachtung in China Snow Town.",
+        "fr": "Nous empruntons la route enneigée de Yaxue à travers des forêts de bouleaux et de pins couverts de givre, faisons une promenade en traîneau tiré par des chevaux et nous installons dans notre maison d’hôtes à kang chauffé avec salle de bain privée, au cœur de China Snow Town. Le soir, balade sur l’avenue Xueyun, montée par la passerelle en bois du mont Bangchui pour admirer les toits « champignons de neige » sous les lanternes rouges, puis danse autour du feu de joie. Nuit à China Snow Town.",
+        "ja": "雪に覆われた亜雪公路を走り、霧氷をまとった白樺と松の森を抜けます。伝統的な馬そりで雪原を進み、中国雪郷の専用バス付き床暖房（オンドル）ゲストハウスにチェックイン。夜は雪韵大街を散策し、棒槌山の木道を登って赤い提灯に照らされた「雪のきのこ」屋根の夜景を眺め、雪上のかがり火ダンスに参加します。中国雪郷泊。",
+        "es": "Recorremos la nevada carretera Yaxue entre bosques de abedules y pinos cubiertos de escarcha, paseamos en trineo tirado por caballos sobre los campos nevados y nos alojamos en nuestra casa de huéspedes con kang calefactado y baño privado dentro de China Snow Town. Por la noche caminamos por la avenida Xueyun, subimos la pasarela de madera del monte Bangchui para ver los tejados de «setas de nieve» iluminados con farolillos rojos y nos unimos al baile junto a la hoguera. Noche en China Snow Town.",
+        "zh": "我们沿着两旁覆雪的雅雪高速公路行驶，穿过挂满雾凇的白桦和松林，乘坐传统马拉雪橇穿越雪原，并入住中国雪乡内带独立卫浴的暖炕民宿。晚上，我们漫步雪韵大道，攀登棒槌山木栈道，欣赏红灯笼照耀下的雪蘑菇屋顶夜景，并参加雪地篝火舞会。中国雪乡过夜。"
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno",
+        "zh": "早餐"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "China Snow Town – Dream Snow Mountain hike & snowmobile – Hengdaohezi – Mudanjiang, 260 km by road",
+        "de": "China Snow Town – Dream Snow Mountain: Wanderung & Schneemobil – Hengdaohezi – Mudanjiang, 260 km auf der Straße",
+        "fr": "China Snow Town – randonnée et motoneige au Dream Snow Mountain – Hengdaohezi – Mudanjiang, 260 km par la route",
+        "ja": "中国雪郷 – 夢幻雪山ハイキング＆スノーモービル – 横道河子 – 牡丹江、陸路260km",
+        "es": "China Snow Town – caminata y moto de nieve en Dream Snow Mountain – Hengdaohezi – Mudanjiang, 260 km por carretera",
+        "zh": "中国雪乡 – 梦雪山徒步与雪地摩托 – 恒春河子 – 牡丹江，公路260公里"
+      },
+      "description": {
+        "en": "We try the Northeast winter ritual of tossing boiling water into the freezing air, then hike 4 km through deep forest snow up Dream Snow Mountain (gaiters included) and ride a snowmobile down from the ridge, with travel and drone photography included. In the afternoon we stop in the historic Russian railway town of Hengdaohezi: the Chinese Eastern Railway locomotive depot, Russian Street, the Oil Painting Village and the wooden church from outside. Then on to Mudanjiang. Overnight in Mudanjiang.",
+        "de": "Wir probieren das nordostchinesische Winterritual aus, kochendes Wasser in die eisige Luft zu werfen, wandern dann 4 km durch tiefen Waldschnee auf den Dream Snow Mountain (Gamaschen inklusive) und fahren mit dem Schneemobil vom Grat hinunter – Reise- und Drohnenfotos inklusive. Am Nachmittag halten wir in der historischen russischen Eisenbahnstadt Hengdaohezi: Lokdepot der Ostchinesischen Eisenbahn, Russische Straße, Ölmalerei-Dorf und die Holzkirche von außen. Weiter nach Mudanjiang. Übernachtung in Mudanjiang.",
+        "fr": "Nous tentons le rituel hivernal du nord-est : lancer de l’eau bouillante dans l’air glacé. Puis randonnée de 4 km dans la neige profonde de la forêt jusqu’au Dream Snow Mountain (guêtres fournies) et descente de la crête en motoneige, photos de voyage et par drone incluses. L’après-midi, arrêt dans l’ancienne ville ferroviaire russe de Hengdaohezi : dépôt de locomotives du Chemin de fer de l’Est chinois, rue Russe, village de la peinture à l’huile et église en bois (extérieur). Route vers Mudanjiang. Nuit à Mudanjiang.",
+        "ja": "東北地方の冬の名物「熱湯を極寒の空にまく」体験の後、深い森の雪の中を4km歩いて夢幻雪山へ（スパッツ付き）。尾根からはスノーモービルで下ります。旅行写真とドローン撮影込み。午後はロシア風の歴史ある鉄道の町・横道河子へ。中東鉄道機関庫、ロシア街、油絵村、木造教会（外観）を見学し、牡丹江へ。牡丹江泊。",
+        "es": "Probamos el ritual invernal del noreste de lanzar agua hirviendo al aire helado y luego caminamos 4 km por la nieve profunda del bosque hasta Dream Snow Mountain (polainas incluidas) para bajar de la cresta en moto de nieve, con fotos de viaje y de dron incluidas. Por la tarde paramos en el histórico pueblo ferroviario ruso de Hengdaohezi: depósito de locomotoras del Ferrocarril Oriental de China, calle Rusa, Pueblo de la Pintura al Óleo e iglesia de madera (exterior). Seguimos a Mudanjiang. Noche en Mudanjiang.",
+        "zh": "我们尝试东北冬季仪式，将开水抛入寒冷空气中，然后徒步4公里穿越深林积雪登上梦雪山（包含护腿），并从山脊骑雪地摩托下山，包含旅行与航拍摄影。下午，我们在历史悠久的俄罗斯铁路小镇恒春河子停留：中东铁路机车库、俄罗斯街、油画村以及外部观看的木教堂。随后前往牡丹江。牡丹江过夜。"
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno",
+        "zh": "早餐"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Mudanjiang – Jingpo Lake winter fishing – Korean Folk Village – Yanji, 330 km by road",
+        "de": "Mudanjiang – Winterfischen am Jingpo-See – Koreanisches Volksdorf – Yanji, 330 km auf der Straße",
+        "fr": "Mudanjiang – pêche hivernale au lac Jingpo – village folklorique coréen – Yanji, 330 km par la route",
+        "ja": "牡丹江 – 鏡泊湖の冬季漁 – 朝鮮族民俗村 – 延吉、陸路330km",
+        "es": "Mudanjiang – pesca invernal en el lago Jingpo – Aldea Folclórica Coreana – Yanji, 330 km por carretera",
+        "zh": "牡丹江 – 镜泊湖冬捕 – 朝鲜民俗村 – 延吉，公路330公里"
+      },
+      "description": {
+        "en": "We visit frozen Jingpo Lake to watch traditional winter net fishing through the ice and ride spinning snow tubes across the lake (during the mid-winter freeze; outside the freeze dates we visit the Tumen border instead). Then on to Yanji for the China Korean Folk Village, and an evening at the Yanji University neon sign wall and the Korean food streets. Overnight in Yanji.",
+        "de": "Am zugefrorenen Jingpo-See sehen wir beim traditionellen Netzfischen unter dem Eis zu und rutschen auf drehenden Schneereifen über den See (während der Hochwinter-Vereisung; außerhalb davon besuchen wir stattdessen die Grenze bei Tumen). Weiter nach Yanji zum Koreanischen Volksdorf, abends zur Neonschild-Wand der Universität Yanji und in die koreanischen Essensstraßen. Übernachtung in Yanji.",
+        "fr": "Sur le lac Jingpo gelé, nous assistons à la pêche traditionnelle au filet sous la glace et glissons en bouées tournoyantes sur le lac (pendant le gel d’hiver ; hors de cette période, visite de la frontière à Tumen à la place). Puis Yanji et son village folklorique coréen, et soirée au mur d’enseignes néon de l’université de Yanji et dans les rues de cuisine coréenne. Nuit à Yanji.",
+        "ja": "凍結した鏡泊湖で、氷の下に網を張る伝統的な冬の漁を見学し、回転するスノーチューブで湖上を滑ります（厳冬期の結氷時のみ。結氷期以外は図們の国境見学に変更）。延吉へ移動し中国朝鮮族民俗村を見学。夜は延辺大学前のネオン看板の壁と朝鮮料理の屋台街へ。延吉泊。",
+        "es": "En el lago Jingpo helado vemos la pesca tradicional con redes bajo el hielo y nos deslizamos en flotadores giratorios sobre el lago (durante la congelación de pleno invierno; fuera de esas fechas visitamos la frontera de Tumen). Seguimos a Yanji para la Aldea Folclórica Coreana de China y una noche en el muro de letreros de neón de la Universidad de Yanji y las calles de comida coreana. Noche en Yanji.",
+        "zh": "我们前往冰封的镜泊湖，观看传统冬捕冰下撒网，并骑乘旋转雪圈穿越湖面（仅限仲冬结冰期；非结冰日期则改为参观图们边境）。随后前往延吉，参观中国朝鲜民俗园，晚上游览延吉大学霓虹灯牌墙和朝鲜美食街。延吉过夜。"
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno",
+        "zh": "早餐"
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Yanji – Changbai Mountain North Slope & Heavenly Lake – Erdaobaihe hot springs, 200 km by road",
+        "de": "Yanji – Nordhang des Changbai-Gebirges & Himmelssee – heiße Quellen von Erdaobaihe, 200 km auf der Straße",
+        "fr": "Yanji – versant nord du mont Changbai et lac Céleste – sources chaudes d’Erdaobaihe, 200 km par la route",
+        "ja": "延吉 – 長白山北坂と天池 – 二道白河温泉、陸路200km",
+        "es": "Yanji – ladera norte del monte Changbai y Lago Celestial – aguas termales de Erdaobaihe, 200 km por carretera",
+        "zh": "延吉 – 长白山北坡与天池 – 二道白河温泉，公路200公里"
+      },
+      "description": {
+        "en": "A full day in the Changbai Mountain North Scenic Area, with all park eco-buses, shuttles and the 4WD summit transfer to Heavenly Lake (Tianchi) at 2,189 m included, weather permitting. We also see Changbai Waterfall, the Julong volcanic hot springs, Green Deep Pool (Lvyuantan) and the Underground Forest. In the evening we visit Enduli and Cloud Top Heavenly Palace in Erdaobaihe, then soak in indoor and outdoor volcanic snow hot springs. Overnight at a hot spring resort hotel in Erdaobaihe.",
+        "de": "Ein ganzer Tag im Nordgebiet des Changbai-Gebirges, inklusive aller Öko-Busse, Shuttles und des Allradtransfers zum Gipfel am Himmelssee (Tianchi) auf 2.189 m, wetterabhängig. Dazu Changbai-Wasserfall, die vulkanischen Julong-Thermalquellen, der Grüne Tiefe Teich (Lvyuantan) und der Unterirdische Wald. Abends besuchen wir Enduli und den Cloud Top Heavenly Palace in Erdaobaihe und baden in vulkanischen Innen- und Außen-Schneethermen. Übernachtung in einem Thermalhotel in Erdaobaihe.",
+        "fr": "Journée complète dans la zone nord du mont Changbai : navettes écologiques du parc et transfert en 4x4 jusqu’au lac Céleste (Tianchi) à 2 189 m inclus, si la météo le permet. Nous voyons aussi la cascade de Changbai, les sources chaudes volcaniques de Julong, le bassin Vert profond (Lvyuantan) et la Forêt souterraine. Le soir, visite d’Enduli et du Cloud Top Heavenly Palace à Erdaobaihe, puis bain dans les sources chaudes volcaniques intérieures et extérieures sous la neige. Nuit dans un hôtel thermal à Erdaobaihe.",
+        "ja": "長白山北景区で終日観光。園内エコバス、シャトル、天池（標高2,189m）山頂への4WD送迎はすべて込み（天候次第）。長白瀑布、聚龍火山温泉、緑淵潭、地下森林も訪れます。夜は二道白河の恩都里と雲頂天宮を訪れ、屋内外の火山雪見温泉でくつろぎます。二道白河の温泉リゾートホテル泊。",
+        "es": "Día completo en el Área Escénica Norte del monte Changbai, con todos los ecobuses, lanzaderas y el traslado en 4x4 a la cumbre del Lago Celestial (Tianchi), a 2.189 m, incluidos si el tiempo lo permite. Vemos además la cascada de Changbai, las aguas termales volcánicas de Julong, el Estanque Verde Profundo (Lvyuantan) y el Bosque Subterráneo. Por la noche visitamos Enduli y el Cloud Top Heavenly Palace en Erdaobaihe y nos bañamos en termas volcánicas cubiertas y al aire libre bajo la nieve. Noche en un hotel termal en Erdaobaihe.",
+        "zh": "在长白山北景区度过全天，包含所有公园生态环保车、班车和4WD山顶接驳车前往海拔2,189米的天池（视天气情况而定）。我们还将参观长白瀑布、聚龙火山温泉、绿渊潭（绿深潭）和地下森林。晚上，我们在二道白河参观恩都利和云顶天宫，然后在室内外火山雪泡温泉中沐浴。二道白河温泉度假酒店过夜。"
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno",
+        "zh": "早餐"
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Erdaobaihe – Rime river rafting – Frozen Roses – Ice fishing – Jilin City, 350 km by road",
+        "de": "Erdaobaihe – Rafting im Raureif – Frozen Roses – Eisfischen – Jilin, 350 km auf der Straße",
+        "fr": "Erdaobaihe – rafting dans le givre – Frozen Roses – pêche sur glace – Jilin, 350 km par la route",
+        "ja": "二道白河 – 霧氷の川ラフティング – 冰封玫瑰 – 氷上釣り – 吉林市、陸路350km",
+        "es": "Erdaobaihe – rafting entre escarcha – Frozen Roses – pesca en hielo – Jilin, 350 km por carretera",
+        "zh": "二道白河 – 雾凇河漂流 – 冰封玫瑰 – 冰钓 – 吉林市，公路350公里"
+      },
+      "description": {
+        "en": "In the morning we raft down an unfrozen volcanic tributary lined with snow and rime frost, visit the Frozen Roses ice installation and spend 2 hours ice-hole fishing in a heated tent. In the afternoon we drive to Jilin City. Overnight at a 5-star hotel in Jilin City.",
+        "de": "Am Morgen fahren wir im Schlauchboot einen eisfreien vulkanischen Nebenfluss hinunter, gesäumt von Schnee und Raureif, besuchen die Eisinstallation Frozen Roses und angeln 2 Stunden in einem beheizten Zelt durch ein Eisloch. Nachmittags Fahrt nach Jilin. Übernachtung in einem 5-Sterne-Hotel in Jilin.",
+        "fr": "Le matin, rafting sur un affluent volcanique non gelé bordé de neige et de givre, visite de l’installation de glace Frozen Roses et 2 heures de pêche dans un trou de glace sous tente chauffée. L’après-midi, route vers Jilin. Nuit dans un hôtel 5* à Jilin.",
+        "ja": "午前は雪と霧氷に縁取られた凍らない火山性の支流でラフティング。氷のアート「冰封玫瑰（Frozen Roses）」を見学し、暖房付きテントで2時間の氷上穴釣りを楽しみます。午後は吉林市へ。吉林市の5つ星ホテル泊。",
+        "es": "Por la mañana hacemos rafting por un afluente volcánico sin congelar, bordeado de nieve y escarcha, visitamos la instalación de hielo Frozen Roses y pescamos 2 horas en un agujero en el hielo dentro de una tienda calefactada. Por la tarde viajamos a Jilin. Noche en un hotel de 5* en Jilin.",
+        "zh": "早上乘筏顺流而下，穿过结满雪与挂霜的未冻结火山支流，参观“冰玫瑰”冰雕装置，并在加热帐篷里进行2小时冰洞钓鱼。下午驱车前往吉林市。当晚入住吉林市5星级酒店。"
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno",
+        "zh": "早餐"
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Jilin Rime Corridor – Songhua Lake Ski Resort – Jilin Railway Station, 60 km by road",
+        "de": "Raureif-Korridor von Jilin – Skigebiet Songhua-See – Bahnhof Jilin, 60 km auf der Straße",
+        "fr": "Corridor de givre de Jilin – station de ski du lac Songhua – gare de Jilin, 60 km par la route",
+        "ja": "吉林霧氷回廊 – 松花湖スキーリゾート – 吉林駅、陸路60km",
+        "es": "Corredor de escarcha de Jilin – estación de esquí del lago Songhua – estación de Jilin, 60 km por carretera",
+        "zh": "吉林挂霜长廊 – 松花湖滑雪场 – 吉林火车站，公路行程60公里"
+      },
+      "description": {
+        "en": "In the morning we drive along the Songhua River Rime Corridor, then continue to Songhua Lake 5S Ski Resort for a 3-hour ski package (skis, boots, poles and helmet included), 2 hours of snow tubing and a scenic alpine gondola ride. Drop-off at Jilin City Railway Station around 16:00, a 30-minute high-speed train from Changchun Longjia International Airport for evening flights.",
+        "de": "Am Morgen fahren wir den Raureif-Korridor am Songhua-Fluss entlang und weiter zum Skigebiet Songhua Lake 5S: 3 Stunden Skifahren (Ski, Schuhe, Stöcke und Helm inklusive), 2 Stunden Snowtubing und eine Panoramafahrt mit der Gondel. Gegen 16:00 bringen wir Sie zum Bahnhof Jilin; von dort sind es 30 Minuten mit dem Schnellzug zum Flughafen Changchun Longjia für Abendflüge.",
+        "fr": "Le matin, route le long du corridor de givre de la rivière Songhua, puis station Songhua Lake 5S : forfait ski de 3 heures (skis, chaussures, bâtons et casque inclus), 2 heures de bouées sur neige et télécabine panoramique. Dépose à la gare de Jilin vers 16 h ; l’aéroport de Changchun Longjia est à 30 minutes en train à grande vitesse pour les vols du soir.",
+        "ja": "午前は松花江の霧氷回廊を走り、松花湖5Sスキーリゾートへ。3時間のスキーパッケージ（スキー板、ブーツ、ストック、ヘルメット込み）、2時間のスノーチューブ、絶景ゴンドラをお楽しみください。16:00頃に吉林駅でお見送り。長春龍嘉国際空港へは高速鉄道で30分、夜の便に間に合います。",
+        "es": "Por la mañana recorremos el corredor de escarcha del río Songhua y seguimos a la estación de esquí Songhua Lake 5S: paquete de esquí de 3 horas (esquís, botas, bastones y casco incluidos), 2 horas de snow tubing y un paseo en góndola panorámica. Le dejamos en la estación de Jilin hacia las 16:00; el aeropuerto de Changchun Longjia está a 30 minutos en tren de alta velocidad para vuelos de noche.",
+        "zh": "早上沿松花江挂霜长廊驱车前行，随后前往松花湖5S滑雪场，享受3小时滑雪套餐（含滑雪板、靴、滑雪杖和头盔）、2小时雪圈滑行和一段高山缆车之旅。约16:00在吉林市火车站送客，从那里乘坐30分钟高铁前往长春龙嘉国际机场，搭乘晚班航班。"
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno",
+        "zh": "早餐"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "6 nights’ accommodation: 4 nights in 4* hotels, 1 night in a China Snow Town heated kang lodge with private bathroom, 1 night in a 5* hotel in Jilin",
+      "6 breakfasts",
+      "24-hour Harbin airport pick-up and a private or small-group vehicle sized to your group (5-seat SUV to 9-seat luxury van)",
+      "All listed park and activity tickets: China Snow Town and shuttle, horse sleigh, Dream Snow Mountain trek, snowmobile and travel/drone photos, Korean Folk Village, Changbai North Slope and Tianchi 4WD, volcanic hot springs, rime rafting, Jingpo Lake winter fishing and snow tubing, tent ice fishing, Songhua Lake 3-hour ski with equipment, snow tubing and gondola",
+      "Hand warmers and water every day"
+    ],
+    "de": [
+      "6 Übernachtungen: 4 Nächte in 4*-Hotels, 1 Nacht in einer beheizten Kang-Lodge mit eigenem Bad in China Snow Town, 1 Nacht in einem 5*-Hotel in Jilin",
+      "6 Frühstücke",
+      "Flughafenabholung in Harbin rund um die Uhr und ein privates Fahrzeug passend zur Gruppengröße (5-Sitzer-SUV bis 9-Sitzer-Luxusvan)",
+      "Alle genannten Park- und Aktivitätstickets: China Snow Town mit Shuttle, Pferdeschlitten, Dream-Snow-Mountain-Wanderung, Schneemobil sowie Reise- und Drohnenfotos, Koreanisches Volksdorf, Changbai-Nordhang und Tianchi per Allrad, vulkanische Thermen, Raureif-Rafting, Winterfischen und Snowtubing am Jingpo-See, Eisfischen im Zelt, 3 Stunden Skifahren am Songhua-See mit Ausrüstung, Snowtubing und Gondel",
+      "Täglich Handwärmer und Wasser"
+    ],
+    "fr": [
+      "6 nuits d’hébergement : 4 nuits en hôtels 4*, 1 nuit en lodge à kang chauffé avec salle de bain privée à China Snow Town, 1 nuit en hôtel 5* à Jilin",
+      "6 petits-déjeuners",
+      "Accueil 24 h/24 à l’aéroport de Harbin et véhicule privé adapté au groupe (SUV 5 places à van de luxe 9 places)",
+      "Tous les billets de parcs et d’activités mentionnés : China Snow Town et navette, traîneau à chevaux, randonnée au Dream Snow Mountain, motoneige et photos de voyage/drone, village folklorique coréen, versant nord du Changbai et Tianchi en 4x4, sources chaudes volcaniques, rafting dans le givre, pêche hivernale et bouées au lac Jingpo, pêche sous tente, 3 h de ski au lac Songhua avec matériel, bouées et télécabine",
+      "Chaufferettes et eau chaque jour"
+    ],
+    "ja": [
+      "宿泊6泊：4つ星ホテル4泊、中国雪郷の専用バス付きオンドル宿1泊、吉林の5つ星ホテル1泊",
+      "朝食6回",
+      "ハルビン空港24時間お出迎え、人数に合わせた専用車（5人乗りSUV〜9人乗り高級バン）",
+      "行程内の全入場・アクティビティ料金：中国雪郷と園内シャトル、馬そり、夢幻雪山トレッキング、スノーモービル・旅行写真／ドローン撮影、朝鮮族民俗村、長白山北坂と天池4WD、火山温泉、霧氷ラフティング、鏡泊湖の冬季漁とスノーチューブ、テント氷上釣り、松花湖スキー3時間（用具込み）・スノーチューブ・ゴンドラ",
+      "毎日のカイロと飲料水"
+    ],
+    "es": [
+      "6 noches de alojamiento: 4 noches en hoteles 4*, 1 noche en un alojamiento con kang calefactado y baño privado en China Snow Town, 1 noche en un hotel 5* en Jilin",
+      "6 desayunos",
+      "Recogida 24 horas en el aeropuerto de Harbin y vehículo privado según el tamaño del grupo (SUV de 5 plazas a van de lujo de 9 plazas)",
+      "Todas las entradas y actividades indicadas: China Snow Town y lanzadera, trineo de caballos, caminata a Dream Snow Mountain, moto de nieve y fotos de viaje/dron, Aldea Folclórica Coreana, ladera norte del Changbai y Tianchi en 4x4, termas volcánicas, rafting entre escarcha, pesca invernal y flotadores en el lago Jingpo, pesca en tienda, 3 h de esquí en el lago Songhua con equipo, snow tubing y góndola",
+      "Calentadores de manos y agua cada día"
+    ],
+    "zh": [
+      "6晚住宿：4晚入住4星级酒店，1晚入住中国雪乡带独立卫浴的热炕民宿，1晚入住吉林市5星级酒店",
+      "6份早餐",
+      "哈尔滨机场24小时接送，以及按团队规模配备的私人或小团车辆（5座SUV至9座豪华面包车）",
+      "所有列明的公园和活动门票：中国雪乡及摆渡车、马拉雪橇、梦雪山徒步、雪地摩托和旅行/无人机照片、朝鲜民俗村、长白山北坡及天池四驱车、火山温泉、挂霜漂流、镜泊湖冬捕和雪圈滑行、帐篷冰钓、松花湖3小时滑雪（含设备）、雪圈滑行和缆车",
+      "每日提供暖手宝和水"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "Flights and high-speed trains",
+      "Harbin Ice and Snow World ticket on Day 1",
+      "Lunches and dinners not listed",
+      "Single-room supplement"
+    ],
+    "de": [
+      "Flüge und Hochgeschwindigkeitszüge",
+      "Eintritt zur Harbin Ice and Snow World an Tag 1",
+      "Nicht genannte Mittag- und Abendessen",
+      "Einzelzimmerzuschlag"
+    ],
+    "fr": [
+      "Vols et trains à grande vitesse",
+      "Billet du Harbin Ice and Snow World le jour 1",
+      "Déjeuners et dîners non mentionnés",
+      "Supplément chambre individuelle"
+    ],
+    "ja": [
+      "航空券・高速鉄道",
+      "1日目のハルビン氷雪大世界入場券",
+      "記載のない昼食・夕食",
+      "1名1室追加料金"
+    ],
+    "es": [
+      "Vuelos y trenes de alta velocidad",
+      "Entrada a Harbin Ice and Snow World el día 1",
+      "Comidas y cenas no indicadas",
+      "Suplemento de habitación individual"
+    ],
+    "zh": [
+      "机票和高铁票",
+      "第1天哈尔滨冰雪大世界门票",
+      "未列明的午餐和晚餐",
+      "单间差价"
+    ]
+  },
+  "priceFrom": 879,
+  "currency": "USD",
+  "priceNote": {
+    "en": "Winter season, USD per person, twin share. The price depends on group size and hotel class; see the table below.",
+    "de": "Wintersaison, USD pro Person im Doppelzimmer. Der Preis hängt von Gruppengröße und Hotelkategorie ab; siehe Tabelle unten.",
+    "fr": "Saison d’hiver, USD par personne en chambre double. Le prix dépend de la taille du groupe et de la catégorie d’hôtel ; voir le tableau ci-dessous.",
+    "ja": "冬季シーズン、2名1室利用時の1名あたりUSD。料金は人数とホテルクラスにより異なります。下の表をご覧ください。",
+    "es": "Temporada de invierno, USD por persona en habitación doble. El precio depende del tamaño del grupo y la categoría de hotel; vea la tabla abajo.",
+    "zh": "冬季，每人美元，双人同房。价格视团队规模和酒店等级而定，详见下方表格。"
+  },
+  "fromLabel": {
+    "en": "from $879 per person (6–8 travellers, 4*)",
+    "de": "ab $879 pro Person (6–8 Reisende, 4*)",
+    "fr": "à partir de 879 $ par personne (6–8 voyageurs, 4*)",
+    "ja": "1人あたり$879から（6～8名様、4つ星）",
+    "es": "desde $879 por persona (6–8 viajeros, 4*)",
+    "zh": "起价每人879美元（6–8人，4星级）"
+  },
+  "priceTable": {
+    "caption": {
+      "en": "Winter season, USD per person, twin share",
+      "de": "Wintersaison, USD pro Person im Doppelzimmer",
+      "fr": "Saison d’hiver, USD par personne, base chambre double",
+      "ja": "冬季シーズン、1名あたりUSD、2名1室利用",
+      "es": "Temporada de invierno, USD por persona en habitación doble",
+      "zh": "冬季，每人美元，双人同房"
+    },
+    "groupSizes": {
+      "en": [
+        "1 traveller",
+        "2–3 travellers",
+        "4–5 travellers",
+        "6–8 travellers"
+      ],
+      "de": [
+        "1 Reisender",
+        "2–3 Reisende",
+        "4–5 Reisende",
+        "6–8 Reisende"
+      ],
+      "fr": [
+        "1 voyageur",
+        "2–3 voyageurs",
+        "4–5 voyageurs",
+        "6–8 voyageurs"
+      ],
+      "ja": [
+        "1名",
+        "2～3名",
+        "4～5名",
+        "6～8名"
+      ],
+      "es": [
+        "1 viajero",
+        "2–3 viajeros",
+        "4–5 viajeros",
+        "6–8 viajeros"
+      ],
+      "zh": [
+        "1人",
+        "2–3人",
+        "4–5人",
+        "6–8人"
+      ]
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "4* hotels & Snow Town lodge — Standard Winter",
+          "de": "4*-Hotels & Snow-Town-Lodge — Standard-Winter",
+          "fr": "Hôtels 4* et lodge à Snow Town — hiver standard",
+          "ja": "4つ星ホテル＆雪郷ロッジ — 通常冬季",
+          "es": "Hoteles 4* y alojamiento en Snow Town — invierno estándar",
+          "zh": "4星级酒店及雪乡民宿 — 标准冬季"
+        },
+        "prices": [
+          1132,
+          952,
+          915,
+          879
+        ],
+        "singleSupplement": "+220"
+      },
+      {
+        "label": {
+          "en": "5* hotels & Snow Town boutique lodge — Peak Winter",
+          "de": "5*-Hotels & Snow-Town-Boutique-Lodge — Hochwinter",
+          "fr": "Hôtels 5* et lodge boutique à Snow Town — haute saison d’hiver",
+          "ja": "5つ星ホテル＆雪郷ブティックロッジ — 冬季ピーク",
+          "es": "Hoteles 5* y alojamiento boutique en Snow Town — invierno alto",
+          "zh": "5星级酒店及雪乡精品民宿 — 峰期冬季"
+        },
+        "prices": [
+          1380,
+          1160,
+          1090,
+          1050
+        ],
+        "singleSupplement": "+360"
+      }
+    ],
+    "note": {
+      "en": "Prices are per person in USD for a twin or double room, by group size. The single supplement is the extra charge per person for a room of your own.",
+      "de": "Preise pro Person in USD im Doppel- oder Zweibettzimmer, nach Gruppengröße. Der Einzelzimmerzuschlag ist der Aufpreis pro Person für ein eigenes Zimmer.",
+      "fr": "Prix par personne en USD en chambre double ou twin, selon la taille du groupe. Le supplément single est le surcoût par personne pour une chambre individuelle.",
+      "ja": "料金は2名1室利用時の1名あたりUSDで、人数により異なります。1名1室追加料金は、お一人で1室をご利用の場合の追加料金です。",
+      "es": "Precios por persona en USD en habitación doble, según el tamaño del grupo. El suplemento individual es el cargo adicional por persona por una habitación propia.",
+      "zh": "价格以美元计，按团队规模计算，适用于双人或大床房。单间差价是指单人入住一间房的额外费用。"
+    }
+  },
+  "hotels": [],
+  "vehicles": [
+    {
+      "group": {
+        "en": "1–3 travellers",
+        "de": "1–3 Reisende",
+        "fr": "1–3 voyageurs",
+        "ja": "1～3名",
+        "es": "1–3 viajeros",
+        "zh": "1–3人"
+      },
+      "vehicle": {
+        "en": "5-seat SUV",
+        "de": "5-Sitzer-SUV",
+        "fr": "SUV 5 places",
+        "ja": "5人乗りSUV",
+        "es": "SUV de 5 plazas",
+        "zh": "5座SUV"
+      }
+    },
+    {
+      "group": {
+        "en": "4–8 travellers",
+        "de": "4–8 Reisende",
+        "fr": "4–8 voyageurs",
+        "ja": "4～8名",
+        "es": "4–8 viajeros",
+        "zh": "4–8位旅客"
+      },
+      "vehicle": {
+        "en": "9-seat luxury van",
+        "de": "9-Sitzer-Luxusvan",
+        "fr": "Van de luxe 9 places",
+        "ja": "9人乗り高級バン",
+        "es": "Van de lujo de 9 plazas",
+        "zh": "9座豪华面包车"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911681/sunday-atlas/qtwkoxkqehiipf5ucafy.jpg",
+    "width": 1920,
+    "height": 1440,
+    "alt": {
+      "en": "St. Sophia Cathedral in Harbin illuminated at night across a snow-covered plaza in Northeast China",
+      "de": "Die beleuchtete Sophienkathedrale in Harbin bei Nacht auf einem schneebedeckten Platz in Nordostchina",
+      "fr": "La cathédrale Sainte-Sophie de Harbin illuminée la nuit sur une place enneigée dans le nord-est de la Chine",
+      "ja": "中国東北部・ハルビンの雪に覆われた広場に佇む夜の聖ソフィア大聖堂",
+      "es": "La catedral de Santa Sofía en Harbin iluminada de noche sobre una plaza cubierta de nieve en el noreste de China",
+      "zh": "哈尔滨圣索菲亚教堂夜景，东北中国雪覆盖的广场上灯火辉煌"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911662/sunday-atlas/zxwnebqwimxxqalcaesv.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "Snow-covered wooden cottages and glowing red lanterns at night in China Snow Town (Xuexiang)",
+        "de": "Schneebedeckte Holzhäuser und leuchtende rote Laternen bei Nacht in China Snow Town (Xuexiang)",
+        "fr": "Chalets en bois couverts de neige et lanternes rouges illuminées la nuit à China Snow Town (Xuexiang)",
+        "ja": "赤い提灯が灯る夜の中国雪郷（双峰林場）の厚い雪屋根の家並み",
+        "es": "Cabañas de madera cubiertas de nieve y farolillos rojos encendidos de noche en China Snow Town (Xuexiang)",
+        "zh": "中国雪乡（雪乡）夜晚，雪覆盖的木屋和闪烁的红灯笼"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911684/sunday-atlas/cnh9cf8piomzlw6ttvol.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "Illuminated multi-story ice pagoda and ice spires at Harbin Ice and Snow World at night",
+        "de": "Beleuchtete mehrstöckige Eispagode und Eistürme in der Harbin Ice and Snow World bei Nacht",
+        "fr": "Pagode de glace illuminée et flèches de glace au Harbin Ice and Snow World la nuit",
+        "ja": "カラフルにライトアップされた夜のハルビン氷雪大世界の巨大氷塔",
+        "es": "Pagoda de hielo iluminada y agujas de hielo en Harbin Ice and Snow World por la noche",
+        "zh": "哈尔滨冰雪大世界夜晚，灯光璀璨的多层冰塔和冰尖塔"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911686/sunday-atlas/llj1ynrhg1k1lweicbmj.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "Frozen Heavenly Lake (Tianchi) volcanic crater surrounded by snow-covered peaks on Changbai Mountain",
+        "de": "Gefrorener Vulkankratersee Tianchi (Himmelssee), umgeben von verschneiten Gipfeln des Changbai-Gebirges",
+        "fr": "Le lac céleste gelé (Tianchi) entouré de sommets volcaniques enneigés au mont Changbai",
+        "ja": "雪化粧した外輪山に囲まれた冬の長白山・天池（カルデラ湖）",
+        "es": "El lago celestial helado (Tianchi) rodeado de cumbres volcánicas nevadas en el monte Changbai",
+        "zh": "长白山天池火山口湖，冰封的湖面被雪覆盖的山峰环绕"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911688/sunday-atlas/zxtgc6bg8xblaqzjbwhi.jpg",
+        "width": 1600,
+        "height": 1200
+      },
+      "alt": {
+        "en": "Willow trees coated in white crystalline rime frost along the snow-covered Songhua River promenade in Jilin City",
+        "de": "Weidenbäume voller weißem Raureif entlang der verschneiten Uferpromenade des Songhua-Flusses in der Stadt Jilin",
+        "fr": "Saules recouverts de givre blanc cristallin le long de la promenade enneigée du fleuve Songhua à Jilin",
+        "ja": "吉林市の松花江沿いに広がる真っ白な霧氷（樹氷）の並木道",
+        "es": "Sauces cubiertos de escarcha blanca cristalina junto al paseo nevado del río Songhua en la ciudad de Jilin",
+        "zh": "吉林市松花江堤岸上白茫茫的树挂柳树，两旁是被雪覆盖的步道"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792911690/sunday-atlas/bgydm8hgujh7n5hyfbmn.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Groomed alpine ski slope and gondola lift lined with frost-covered forest in Northeast China",
+        "de": "Präparierte Alpinskipiste und Gondelbahn inmitten raureifbedeckter Wälder in Nordostchina",
+        "fr": "Piste de ski alpin damée et télécabine bordées de forêts givrées dans le nord-est de la Chine",
+        "ja": "霧氷の森に囲まれた中国東北部のスキーゲレンデとゴンドラリフト",
+        "es": "Pista de esquí alpino y telecabina flanqueadas por bosques cubiertos de escarcha en el noreste de China",
+        "zh": "东北中国修整过的高山滑雪道和缆车，两旁是覆霜的森林"
+      }
+    }
+  ],
+  "sample": false,
+  "isDayTour": false,
+  "featured": true,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "7-Day Harbin Ice Festival, China Snow Town & Changbai Tour (From $879)",
+      "meta_description": "From $879 USD/person: 7-day private winter tour to Harbin Ice & Snow World, China Snow Town (Xuexiang), Changbai Mountain Heavenly Lake, hot springs & Yabuli.",
+      "focus_keyword": "harbin snow town tour",
+      "keywords": [
+        "harbin snow town tour",
+        "harbin ice festival 7 day tour",
+        "xuexiang snow town tour",
+        "changbai mountain winter tour",
+        "harbin winter tour package"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "7-Tage Harbin Eisfestival, China Snow Town & Changbai Winterreise ($879)",
+      "meta_description": "Ab $879 USD/Person: 7-tägige private Winterreise nach Harbin, China Snow Town (Xuexiang), Changbai-Himmelssee, heiße Quellen & Yabuli inkl. Hotels & Transfers.",
+      "focus_keyword": "harbin snow town reise",
+      "keywords": [
+        "harbin snow town reise",
+        "harbin eisfestival 7 tage",
+        "changbai winterreise"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuit Hiver 7 Jours Harbin, China Snow Town & Mont Changbai ($879)",
+      "meta_description": "Dès $879 USD/pers. : circuit privé d’hiver de 7 jours au Festival de glace de Harbin, China Snow Town (Xuexiang), lac Céleste du mont Changbai et Yabuli.",
+      "focus_keyword": "circuit harbin snow town",
+      "keywords": [
+        "circuit harbin snow town",
+        "festival de glace harbin 7 jours",
+        "mont changbai hiver"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "ハルビン氷祭り・中国雪郷（双峰林場）＆長白山7日間冬季ツアー ($879〜)",
+      "meta_description": "1名$879〜：ハルビン氷雪大世界、中国雪郷（ライトアップ）、鏡泊湖、長白山天池、温泉、ヤブリスキー場を巡る7日間プライベートツアー。ホテル・専用車込み。",
+      "focus_keyword": "ハルビン 雪郷 ツアー",
+      "keywords": [
+        "ハルビン 雪郷 ツアー",
+        "ハルビン 氷祭り 7日間",
+        "長白山 冬 ツアー"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tour Invierno 7 Días Harbin, China Snow Town y Monte Changbai ($879)",
+      "meta_description": "Desde $879 USD/persona: circuito privado de invierno de 7 días por el Festival de Hielo de Harbin, China Snow Town (Xuexiang), el monte Changbai y Yabuli.",
+      "focus_keyword": "tour harbin snow town",
+      "keywords": [
+        "tour harbin snow town",
+        "festival de hielo harbin 7 días",
+        "monte changbai invierno"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "7日哈尔滨冰雪节、中国雪乡与长白山之旅（起价$879）",
+      "meta_description": "每人$879 USD起：7日私人冬季之旅，游览哈尔滨冰雪大世界、中国雪乡（雪乡）、长白山天池、温泉及亚布力。",
+      "focus_keyword": "哈尔滨冰雪大世界7日游",
+      "keywords": [
+        "哈尔滨冰雪大世界7日游",
+        "中国雪乡旅游攻略",
+        "长白山天池冬季旅游",
+        "哈尔滨雪乡长白山7天行程",
+        "亚布力滑雪温泉旅游",
+        "哈尔滨冰灯旅游团",
+        "长白山冬季温泉旅游",
+        "雪乡哈尔滨长白山7日游"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Harbin, China Snow Town & Changbai Mountain tour, 7 days",
+      "de": "Harbin, China Snow Town & Changbai-Gebirge: Reise in 7 Tagen",
+      "fr": "Circuit Harbin, China Snow Town et mont Changbai en 7 jours",
+      "ja": "ハルビン・中国雪郷・長白山ツアー 7日間",
+      "es": "Tour por Harbin, China Snow Town y el monte Changbai en 7 días"
+    },
+    "facts": {
+      "en": "Harbin winter tour at a glance",
+      "de": "Die Winterreise auf einen Blick",
+      "fr": "Le circuit d’hiver en bref",
+      "ja": "ツアーの概要",
+      "es": "El tour de invierno de un vistazo"
+    },
+    "itinerary": {
+      "en": "Harbin to Jilin, day by day",
+      "de": "Von Harbin nach Jilin, Tag für Tag",
+      "fr": "De Harbin à Jilin, jour par jour",
+      "ja": "ハルビンから吉林へ、日ごとの行程",
+      "es": "De Harbin a Jilin, día a día"
+    },
+    "included": {
+      "en": "What the tour includes",
+      "de": "Im Reisepreis enthalten",
+      "fr": "Ce qui est inclus",
+      "ja": "ツアー料金に含まれるもの",
+      "es": "Qué incluye el tour"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non inclus",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "prices": {
+      "en": "Harbin winter tour prices",
+      "de": "Preise der Winterreise",
+      "fr": "Prix du circuit d’hiver",
+      "ja": "ツアー料金",
+      "es": "Precios del tour de invierno"
+    },
+    "vehicles": {
+      "en": "Vehicles by group size",
+      "de": "Fahrzeuge nach Gruppengröße",
+      "fr": "Véhicules selon la taille du groupe",
+      "ja": "人数別の車両",
+      "es": "Vehículos según el tamaño del grupo"
+    },
+    "faq": {
+      "en": "Harbin winter tour FAQs",
+      "de": "Häufige Fragen zur Winterreise",
+      "fr": "Questions fréquentes sur le circuit",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes del tour"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does the Harbin and China Snow Town tour cost?",
+        "de": "Was kostet die Reise nach Harbin und China Snow Town?",
+        "fr": "Combien coûte le circuit Harbin et China Snow Town ?",
+        "ja": "ハルビン・中国雪郷ツアーの料金はいくらですか？",
+        "es": "¿Cuánto cuesta el tour por Harbin y China Snow Town?",
+        "zh": "哈尔滨和中国雪乡之旅多少钱？"
+      },
+      "a": {
+        "en": "It starts from $879 per person in a twin room for 6–8 travellers with 4* hotels. Smaller groups and the 5* peak-winter option cost more; the full table is above. The single supplement is +220 USD (4*) or +360 USD (5*).",
+        "de": "Ab $879 pro Person im Doppelzimmer für 6–8 Reisende mit 4*-Hotels. Kleinere Gruppen und die 5*-Hochwinter-Variante kosten mehr; die ganze Tabelle steht oben. Der Einzelzimmerzuschlag beträgt +220 USD (4*) bzw. +360 USD (5*).",
+        "fr": "À partir de 879 $ par personne en chambre double pour 6–8 voyageurs en hôtels 4*. Les petits groupes et l’option 5* haute saison coûtent plus cher ; le tableau complet est plus haut. Supplément single : +220 USD (4*) ou +360 USD (5*).",
+        "ja": "4つ星ホテル利用・6～8名のグループで、2名1室1名あたり$879からです。少人数や5つ星の冬季ピークプランは高くなります。全料金は上の表をご覧ください。1名1室追加料金は+220 USD（4つ星）または+360 USD（5つ星）です。",
+        "es": "Desde $879 por persona en habitación doble para 6–8 viajeros con hoteles 4*. Los grupos pequeños y la opción 5* de invierno alto cuestan más; la tabla completa está arriba. El suplemento individual es de +220 USD (4*) o +360 USD (5*).",
+        "zh": "6–8位旅客入住双人间4星级酒店，每人起价$879。小团体和5星级旺季冬季选项费用更高；完整价格表见上方。单人房差为4星级酒店+220 USD，5星级酒店+360 USD。"
+      }
+    },
+    {
+      "q": {
+        "en": "When does the tour run?",
+        "de": "Wann findet die Reise statt?",
+        "fr": "Quand le circuit a-t-il lieu ?",
+        "ja": "催行時期はいつですか？",
+        "es": "¿Cuándo se realiza el tour?",
+        "zh": "旅游什么时候出发？"
+      },
+      "a": {
+        "en": "From November to February. Jingpo Lake ice fishing runs only during the mid-winter freeze; outside those dates we visit the Tumen border instead.",
+        "de": "Von November bis Februar. Das Eisfischen am Jingpo-See gibt es nur während der Hochwinter-Vereisung; sonst besuchen wir stattdessen die Grenze bei Tumen.",
+        "fr": "De novembre à février. La pêche sur glace au lac Jingpo n’a lieu que pendant le gel d’hiver ; sinon, nous visitons la frontière à Tumen.",
+        "ja": "11月から2月です。鏡泊湖の氷上漁は厳冬期の結氷時のみで、それ以外は図們の国境見学に変更します。",
+        "es": "De noviembre a febrero. La pesca en hielo del lago Jingpo solo se hace durante la congelación de pleno invierno; fuera de esas fechas visitamos la frontera de Tumen.",
+        "zh": "11月至2月。镜泊湖冰钓仅在仲冬结冰期运营；非该期间我们将改为参观图们边境。"
+      }
+    }
+  ],
+  "addOns": []
+}

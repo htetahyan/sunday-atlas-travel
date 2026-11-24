@@ -1,0 +1,516 @@
+{
+  "slug": "azerbaijan-explorer-4-days",
+  "title": {
+    "en": "Azerbaijan: The 4-Day Explorer Tour",
+    "de": "Aserbaidschan: Die 4-tägige Entdeckerreise",
+    "fr": "Azerbaïdjan : le circuit découverte en 4 jours",
+    "ja": "アゼルバイジャン：4日間エクスプローラーツアー",
+    "es": "Azerbaiyán: el tour explorador de 4 días",
+    "zh": "阿塞拜疆：4天探索之旅"
+  },
+  "destination": "azerbaijan",
+  "countries": [],
+  "durationDays": 4,
+  "nights": 3,
+  "style": {
+    "en": "Culture & history",
+    "de": "Kultur & Geschichte",
+    "fr": "Culture et histoire",
+    "ja": "文化と歴史",
+    "es": "Cultura e historia",
+    "zh": "文化与历史"
+  },
+  "seasonNote": {
+    "en": "April to June, September to November",
+    "de": "April bis Juni, September bis November",
+    "fr": "Avril à juin, septembre à novembre",
+    "ja": "4月～6月、9月～11月",
+    "es": "Abril a junio, septiembre a noviembre",
+    "zh": "四月至六月，九月至十一月"
+  },
+  "maxGroupSize": 8,
+  "summary": {
+    "en": "A 4-day private Azerbaijan tour from Baku: the UNESCO Old City, Maiden Tower, Heydar Aliyev Center, Yanardag and the Ateshgah Fire Temple. From $726 per person.",
+    "de": "4 Tage private Aserbaidschan-Reise ab Baku: UNESCO-Altstadt, Jungfrauenturm, Heydar-Aliyev-Zentrum, Yanardag und Feuertempel Ateschgah. Ab $726 pro Person.",
+    "fr": "Circuit privé de 4 jours en Azerbaïdjan depuis Bakou : vieille ville UNESCO, tour de la Vierge, centre Heydar Aliyev, Yanardag et temple d’Ateshgah. Dès 726 $ par personne.",
+    "ja": "バクー発4日間のアゼルバイジャン・プライベートツアー：ユネスコ旧市街、乙女の塔、ヘイダル・アリエフ・センター、ヤナルダグ、アテシュギャー。1名$726から。",
+    "es": "Tour privado de 4 días por Azerbaiyán desde Bakú: Ciudad Vieja UNESCO, Torre de la Doncella, Centro Heydar Aliyev, Yanardag y templo Ateshgah. Desde $726 por persona.",
+    "zh": "从巴库出发的4天私人阿塞拜疆之旅：联合国教科文组织古城、少女塔、海达尔·阿利耶夫中心、亚纳尔达格和阿特什加火神庙。每人从726美元起。"
+  },
+  "intro": {
+    "en": "Our short Baku break: one full guided day through old and new Baku and the fire sites of the Absheron Peninsula, a free day for the city, and private transfers and a 4* hotel throughout.",
+    "de": "Unser kurzer Baku-Aufenthalt: ein voller Tag durch das alte und neue Baku und die Feuerorte von Abscheron, ein freier Tag in der Stadt, private Transfers und 4*-Hotel.",
+    "fr": "Notre courte escapade à Bakou : une journée complète entre vieille ville, Bakou moderne et sites de feu d’Abşeron, une journée libre en ville, transferts privés et hôtel 4*.",
+    "ja": "短期のバクー滞在プラン。新旧のバクーとアブシェロン半島の火の名所を巡る終日観光1日、自由日1日、専用送迎と4つ星ホテル付き。",
+    "es": "Nuestra escapada corta a Bakú: un día completo por el Bakú antiguo y moderno y los fuegos de Absherón, un día libre en la ciudad, traslados privados y hotel 4*.",
+    "zh": "我们的短途巴库之旅：一天带您游览新旧巴库和阿布歇伦半岛的火地，一天自由活动，全程提供私人接送和4星级酒店住宿。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Baku, arrival and Caspian evening walk",
+        "de": "Baku, Ankunft und Abendspaziergang am Kaspischen Meer",
+        "fr": "Bakou, arrivée et promenade du soir sur la Caspienne",
+        "ja": "バクー到着とカスピ海の夜散歩",
+        "es": "Bakú, llegada y paseo nocturno junto al Caspio",
+        "zh": "抵达巴库，里海傍晚漫步"
+      },
+      "description": {
+        "en": "We meet you at Heydar Aliyev International Airport and drive you to our 4* hotel in Baku. In the evening, walk the Baku Boulevard along the Caspian Sea. Overnight in Baku.",
+        "de": "Wir holen Sie am Flughafen Heydar Aliyev ab und bringen Sie in unser 4*-Hotel in Baku. Am Abend spazieren Sie über den Baku-Boulevard am Kaspischen Meer. Übernachtung in Baku.",
+        "fr": "Nous vous accueillons à l’aéroport Heydar Aliyev et vous conduisons à notre hôtel 4* à Bakou. Le soir, promenez-vous sur le boulevard de Bakou au bord de la Caspienne. Nuit à Bakou.",
+        "ja": "ヘイダル・アリエフ国際空港でお出迎えし、バクーの4つ星ホテルへご案内します。夜はカスピ海沿いのバクー大通りを散策。バクー泊。",
+        "es": "Le recibimos en el aeropuerto Heydar Aliyev y le llevamos a nuestro hotel 4* en Bakú. Por la tarde, pasee por el bulevar de Bakú junto al mar Caspio. Noche en Bakú.",
+        "zh": "我们在海达尔·阿利耶夫国际机场迎接您，并送您前往巴库的4星级酒店。傍晚沿巴库大道沿里海漫步。在巴库过夜。"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Baku Old City, Heydar Aliyev Center and the Absheron fire sites",
+        "de": "Altstadt Baku, Heydar-Aliyev-Zentrum und die Feuerorte von Abscheron",
+        "fr": "Vieille ville de Bakou, centre Heydar Aliyev et sites de feu d’Abşeron",
+        "ja": "バクー旧市街、ヘイダル・アリエフ・センター、アブシェロンの火の名所",
+        "es": "Ciudad Vieja de Bakú, Centro Heydar Aliyev y los fuegos de Absherón",
+        "zh": "巴库古城、海达尔·阿利耶夫中心与阿布歇伦火地"
+      },
+      "description": {
+        "en": "Our driver starts at Highland Park for the view over the Flame Towers and the bay. We walk Icherisheher, the UNESCO-listed Old City, with the Maiden Tower and the Palace of the Shirvanshahs, then see the Carpet Museum, Little Venice and the Heydar Aliyev Center. In the afternoon we head out on the Absheron Peninsula to Yanardag, the hillside that never stops burning, and the Ateshgah Fire Temple. Overnight in Baku. (Meals: breakfast)",
+        "de": "Unser Fahrer beginnt im Highland Park mit Blick auf die Flame Towers und die Bucht. Wir gehen durch Içərişəhər, die UNESCO-Altstadt, mit Jungfrauenturm und Palast der Schirwanschahs, und sehen Teppichmuseum, Klein-Venedig und das Heydar-Aliyev-Zentrum. Am Nachmittag fahren wir auf die Halbinsel Abscheron zum ewig brennenden Hang Yanardag und zum Feuertempel Ateschgah. Übernachtung in Baku. (Mahlzeiten: Frühstück)",
+        "fr": "Notre chauffeur commence par Highland Park et sa vue sur les Flame Towers et la baie. Nous parcourons Icherisheher, la vieille ville classée à l’UNESCO, avec la tour de la Vierge et le palais des Chirvanchahs, puis le musée du Tapis, la Petite Venise et le centre Heydar Aliyev. L’après-midi, cap sur la péninsule d’Abşeron : Yanardag, la colline qui brûle sans fin, et le temple du feu d’Ateshgah. Nuit à Bakou. (Repas : petit-déjeuner)",
+        "ja": "ハイランドパークからフレイムタワーと湾を一望してスタート。ユネスコ世界遺産の旧市街イチェリシェヘルで乙女の塔とシルヴァン・シャー宮殿を歩き、絨毯博物館、リトル・ヴェニス、ヘイダル・アリエフ・センターへ。午後はアブシェロン半島へ向かい、燃え続ける丘ヤナルダグと拝火教寺院アテシュギャーを訪れます。バクー泊。（食事：朝食）",
+        "es": "Nuestro conductor empieza en Highland Park, con vistas a las Flame Towers y la bahía. Recorremos Icherisheher, la Ciudad Vieja Patrimonio de la UNESCO, con la Torre de la Doncella y el Palacio de los Shirvanshah, y luego el Museo de la Alfombra, la Pequeña Venecia y el Centro Heydar Aliyev. Por la tarde vamos a la península de Absherón: Yanardag, la colina que arde sin parar, y el templo del fuego Ateshgah. Noche en Bakú. (Comidas: desayuno)",
+        "zh": "我们的司机先带您前往高地公园，欣赏火焰塔和海湾的景色。随后步行游览联合国教科文组织列入名录的古城伊切里舍赫尔，参观少女塔和希尔万沙宫，接着参观地毯博物馆、小威尼斯和海达尔·阿利耶夫中心。下午前往阿布歇伦半岛，参观永不熄灭的燃烧山丘亚纳尔达格和阿特什加火神庙。在巴库过夜。（含早餐）"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Baku at your own pace",
+        "de": "Baku auf eigene Faust",
+        "fr": "Bakou à votre rythme",
+        "ja": "バクー自由行動",
+        "es": "Bakú a su ritmo",
+        "zh": "巴库自由活动日"
+      },
+      "description": {
+        "en": "A free day with no early start. We suggest Nizami Street for shopping and Fountain Square for Azerbaijani food; we can book extra tours, such as Gobustan rock art and the mud volcanoes, on request. Overnight in Baku. (Meals: breakfast)",
+        "de": "Ein freier Tag ohne frühen Start. Wir empfehlen die Nizami-Straße zum Einkaufen und den Fontänenplatz für aserbaidschanische Küche; zusätzliche Ausflüge wie Gobustan mit Felsbildern und Schlammvulkanen buchen wir auf Wunsch. Übernachtung in Baku. (Mahlzeiten: Frühstück)",
+        "fr": "Une journée libre sans réveil matinal. Nous vous conseillons la rue Nizami pour le shopping et la place des Fontaines pour la cuisine azerbaïdjanaise ; nous pouvons réserver des excursions en plus, comme les pétroglyphes de Gobustan et les volcans de boue. Nuit à Bakou. (Repas : petit-déjeuner)",
+        "ja": "朝はゆっくりの自由日。ショッピングはニザミ通り、アゼルバイジャン料理は噴水広場がおすすめです。ゴブスタンの岩絵や泥火山などの追加ツアーもご希望に応じて手配します。バクー泊。（食事：朝食）",
+        "es": "Un día libre sin madrugar. Le recomendamos la calle Nizami para compras y la Plaza de las Fuentes para comida azerbaiyana; si lo desea, reservamos excursiones extra como el arte rupestre de Gobustán y los volcanes de lodo. Noche en Bakú. (Comidas: desayuno)",
+        "zh": "自由活动日，无需早起。我们建议您在尼扎米街购物，在喷泉广场品尝阿塞拜疆美食；如需额外预订，如戈布斯坦岩画和泥火山之旅，我们可以为您安排。在巴库过夜。（含早餐）"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Baku, departure",
+        "de": "Baku, Abreise",
+        "fr": "Bakou, départ",
+        "ja": "バクー出発",
+        "es": "Bakú, salida",
+        "zh": "巴库，离开"
+      },
+      "description": {
+        "en": "After breakfast, enjoy free time until our driver takes you to Heydar Aliyev International Airport.",
+        "de": "Nach dem Frühstück haben Sie Zeit, bis unser Fahrer Sie zum Flughafen Heydar Aliyev bringt.",
+        "fr": "Après le petit-déjeuner, temps libre jusqu’à ce que notre chauffeur vous conduise à l’aéroport Heydar Aliyev.",
+        "ja": "朝食後、出発まで自由時間。ドライバーがヘイダル・アリエフ国際空港までお送りします。",
+        "es": "Después del desayuno, tiempo libre hasta que nuestro conductor le lleve al aeropuerto Heydar Aliyev.",
+        "zh": "早餐后，享受自由时间，直到我们的司机送您前往海达尔·阿利耶夫国际机场。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Private airport arrival and departure transfers in Baku",
+      "3 nights in a 4* city hotel in Baku with daily breakfast",
+      "Daily sightseeing as in the itinerary, all on a private basis",
+      "English-speaking driver for all excursions",
+      "Travel insurance during the trip"
+    ],
+    "de": [
+      "Private Flughafentransfers bei Ankunft und Abreise in Baku",
+      "3 Nächte in einem 4*-Stadthotel in Baku mit Frühstück",
+      "Tägliche Besichtigungen laut Programm, alles privat",
+      "Englischsprachiger Fahrer für alle Ausflüge",
+      "Reiseversicherung während der Reise"
+    ],
+    "fr": [
+      "Transferts privés aéroport à l’arrivée et au départ à Bakou",
+      "3 nuits en hôtel 4* à Bakou avec petit-déjeuner",
+      "Visites quotidiennes selon le programme, en privé",
+      "Chauffeur anglophone pour toutes les excursions",
+      "Assurance voyage pendant le séjour"
+    ],
+    "ja": [
+      "バクー空港の到着・出発時専用送迎",
+      "バクーの4つ星ホテルに3泊（朝食付き）",
+      "旅程に沿った観光（すべて専用車）",
+      "全行程英語を話すドライバー",
+      "旅行中の旅行保険"
+    ],
+    "es": [
+      "Traslados privados de llegada y salida en Bakú",
+      "3 noches en hotel 4* en Bakú con desayuno",
+      "Visitas diarias según el itinerario, todo en privado",
+      "Conductor de habla inglesa en todas las excursiones",
+      "Seguro de viaje durante el viaje"
+    ],
+    "zh": [
+      "巴库私人机场往返接送",
+      "巴库4星级城市酒店3晚住宿，含每日早餐",
+      "行程中所述的每日观光，均为私人安排",
+      "所有游览均提供英语司机",
+      "旅途中旅行保险"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights to and from Baku",
+      "Azerbaijan e-visa fee",
+      "Lunches and dinners",
+      "Optional tours and activities not in the itinerary",
+      "Personal expenses and tips"
+    ],
+    "de": [
+      "Internationale Flüge nach und ab Baku",
+      "Gebühr für das E-Visum Aserbaidschan",
+      "Mittag- und Abendessen",
+      "Optionale Ausflüge und Aktivitäten außerhalb des Programms",
+      "Persönliche Ausgaben und Trinkgelder"
+    ],
+    "fr": [
+      "Vols internationaux vers et depuis Bakou",
+      "Frais d’e-visa pour l’Azerbaïdjan",
+      "Déjeuners et dîners",
+      "Excursions et activités optionnelles hors programme",
+      "Dépenses personnelles et pourboires"
+    ],
+    "ja": [
+      "バクー往復の国際線航空券",
+      "アゼルバイジャンeビザ代",
+      "昼食・夕食",
+      "旅程外のオプションツアー・アクティビティ",
+      "個人的な費用とチップ"
+    ],
+    "es": [
+      "Vuelos internacionales a y desde Bakú",
+      "Tasa del visado electrónico de Azerbaiyán",
+      "Almuerzos y cenas",
+      "Excursiones y actividades opcionales fuera del itinerario",
+      "Gastos personales y propinas"
+    ],
+    "zh": [
+      "往返巴库的国际机票",
+      "阿塞拜疆电子签证费用",
+      "午餐和晚餐",
+      "行程外的可选游览和活动",
+      "个人开支和小费"
+    ]
+  },
+  "priceFrom": 726,
+  "currency": "USD",
+  "priceNote": {
+    "en": "USD per person, twin share in a 4* hotel, private tour.",
+    "de": "USD pro Person im Doppelzimmer, 4*-Hotel, private Reise.",
+    "fr": "USD par personne en chambre double, hôtel 4*, circuit privé.",
+    "ja": "4つ星ホテル2名1室利用時の1名あたりUSD、プライベートツアー。",
+    "es": "USD por persona en habitación doble, hotel 4*, tour privado.",
+    "zh": "美元每人，双人共享4星级酒店，私人旅游。"
+  },
+  "fromLabel": {
+    "en": "from $726 per person (4*, twin share)",
+    "de": "ab $726 pro Person (4*, Doppelzimmer)",
+    "fr": "à partir de 726 $ par personne (4*  chambre double)",
+    "ja": "1名あたり$726から（4つ星・2名1室）",
+    "es": "desde $726 por persona (4*. habitación doble)",
+    "zh": "每人726美元起（4星级酒店，双人共享）"
+  },
+  "hotels": [],
+  "vehicles": [
+    {
+      "group": {
+        "en": "1–3 travellers",
+        "de": "1–3 Reisende",
+        "fr": "1–3 voyageurs",
+        "ja": "1～3名",
+        "es": "1–3 viajeros",
+        "zh": "1–3位旅客"
+      },
+      "vehicle": {
+        "en": "Private sedan",
+        "de": "Private Limousine",
+        "fr": "Berline privée",
+        "ja": "専用セダン",
+        "es": "Sedán privado",
+        "zh": "私人轿车"
+      }
+    },
+    {
+      "group": {
+        "en": "4–8 travellers",
+        "de": "4–8 Reisende",
+        "fr": "4–8 voyageurs",
+        "ja": "4～8名",
+        "es": "4–8 viajeros",
+        "zh": "4–8位旅客"
+      },
+      "vehicle": {
+        "en": "Private minivan",
+        "de": "Privater Minivan",
+        "fr": "Minivan privé",
+        "ja": "専用ミニバン",
+        "es": "Minivan privado",
+        "zh": "私人小型货车"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925523/sunday-atlas/j0ld3twup8wdmhghf4by.jpg",
+    "width": 1000,
+    "height": 558,
+    "alt": {
+      "en": "Azerbaijan landscape and landmarks on our tour, photo 1",
+      "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 1",
+      "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 1",
+      "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真1）",
+      "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 1",
+      "zh": "阿塞拜疆风景与地标，我们的旅游照片1"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925518/sunday-atlas/q1qnrbokdjpeixirjekn.jpg",
+        "width": 1600,
+        "height": 893
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 2",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 2",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 2",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真2）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 2",
+        "zh": "阿塞拜疆风景与地标，我们的旅游照片2"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/am0h3d8jtewzwzk2u5zq.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 3",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 3",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 3",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真3）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 3",
+        "zh": "阿塞拜疆风景与地标，我们的旅游照片3"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/ayewl7oqdkwwjxdgr1wp.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 4",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 4",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 4",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真4）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 4",
+        "zh": "阿塞拜疆风景与地标，我们的旅游照片4"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/oouclmavzj9yy5qndvj7.jpg",
+        "width": 1600,
+        "height": 776
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 5",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 5",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 5",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真5）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 5",
+        "zh": "阿塞拜疆风景与地标，我们的旅游照片5"
+      }
+    }
+  ],
+  "sample": false,
+  "isDayTour": false,
+  "featured": true,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "4-Day Baku & Absheron Peninsula Private Azerbaijan Tour (From $726)",
+      "meta_description": "From $726 USD/person: 4-day private Baku & Absheron tour covering Icherisheher Old City, Maiden Tower, Heydar Aliyev Center, Ateshgah Fire Temple & Yanar Dag.",
+      "focus_keyword": "4 day baku tour",
+      "keywords": [
+        "4 day baku tour",
+        "azerbaijan 4 day tour package",
+        "baku absheron private tour",
+        "baku city break package"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "4-Tage Baku & Abscheron-Halbinsel Privatreise Aserbaidschan (Ab $726)",
+      "meta_description": "Ab $726 USD/Person: 4-tägige private Aserbaidschan-Reise ab Baku mit UNESCO-Altstadt, Jungfrauenturm, Heydar-Aliyev-Zentrum, Feuertempel Ateschgah & Yanar Dag.",
+      "focus_keyword": "baku 4 tage reise",
+      "keywords": [
+        "baku 4 tage reise",
+        "aserbaidschan kurzreise",
+        "baku abscheron tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuit Privé 4 Jours Bakou & Péninsule d’Abcheron (Dès $726 USD)",
+      "meta_description": "Dès $726 USD/pers. : séjour privé de 4 jours à Bakou et Abcheron (vieille ville UNESCO, tour de la Vierge, centre Heydar Aliyev, temple du feu Ateshgah et Yanar Dag).",
+      "focus_keyword": "séjour bakou 4 jours",
+      "keywords": [
+        "séjour bakou 4 jours",
+        "circuit azerbaïdjan 4 jours",
+        "visite bakou abcheron"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "バクー旧市街＆アブシェロン半島4日間プライベートツアー ($726〜)",
+      "meta_description": "1名$726〜：バクー世界遺産旧市街（乙女の塔・シルヴァンシャー宮殿）、ヘイダル・アリエフ・センター、アテシュギャーフ拝火教寺院、ヤナル・ダグを巡る4日間ツアー。",
+      "focus_keyword": "バクー 4日間 ツアー",
+      "keywords": [
+        "バクー 4日間 ツアー",
+        "アゼルバイジャン 4日間 ツアー",
+        "バクー 観光 パッケージ"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tour Privado 4 Días Bakú y Península de Absherón (Desde $726 USD)",
+      "meta_description": "Desde $726 USD/persona: tour privado de 4 días en Bakú y Absherón (ciudad vieja UNESCO, Torre de la Doncella, centro Heydar Aliyev, templo Ateshgah y Yanar Dag).",
+      "focus_keyword": "tour bakú 4 días",
+      "keywords": [
+        "tour bakú 4 días",
+        "viaje azerbaiyán 4 días",
+        "circuito bakú absherón"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "4天巴库与阿布歇伦半岛私人阿塞拜疆之旅（从$726起）",
+      "meta_description": "从$726美元/人起：4天巴库与阿布歇伦半岛私人之旅，涵盖伊切里谢赫尔旧城、少女塔、海达尔·阿利耶夫中心、阿特什加火神庙与亚纳尔达格。",
+      "focus_keyword": "阿塞拜疆4天私人游",
+      "keywords": [
+        "阿塞拜疆4天私人游",
+        "巴库4日游",
+        "阿布歇龙半岛旅游",
+        "巴库老城 少女塔",
+        "海德尔阿利耶夫中心",
+        "阿特什加火神庙",
+        "亚纳达格燃烧之山",
+        "阿塞拜疆旅游报价",
+        "巴库私人包团"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Azerbaijan tour, 4 days: Baku Old City, Flame Towers and Absheron",
+      "de": "Aserbaidschan-Reise, 4 Tage: Altstadt Baku, Flame Towers und Abscheron",
+      "fr": "Circuit en Azerbaïdjan, 4 jours : vieille ville de Bakou, Flame Towers et Abşeron",
+      "ja": "アゼルバイジャンツアー4日間：バクー旧市街、フレイムタワー、アブシェロン",
+      "es": "Tour por Azerbaiyán, 4 días: Ciudad Vieja de Bakú, Flame Towers y Absherón"
+    },
+    "facts": {
+      "en": "Azerbaijan tour, 4 days at a glance",
+      "de": "Aserbaidschan-Reise, 4 Tage im Überblick",
+      "fr": "Circuit Azerbaïdjan 4 jours en bref",
+      "ja": "アゼルバイジャンツアー4日間の概要",
+      "es": "Tour Azerbaiyán 4 días de un vistazo"
+    },
+    "itinerary": {
+      "en": "Day by day",
+      "de": "Tag für Tag",
+      "fr": "Jour par jour",
+      "ja": "日程",
+      "es": "Día a día"
+    },
+    "included": {
+      "en": "What the tour includes",
+      "de": "Im Preis enthalten",
+      "fr": "Ce que comprend le circuit",
+      "ja": "ツアーに含まれるもの",
+      "es": "Qué incluye el tour"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non compris",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "prices": {
+      "en": "Tour price",
+      "de": "Reisepreis",
+      "fr": "Prix du circuit",
+      "ja": "ツアー料金",
+      "es": "Precio del tour"
+    },
+    "vehicles": {
+      "en": "Vehicles by group size",
+      "de": "Fahrzeuge nach Gruppengröße",
+      "fr": "Véhicules selon la taille du groupe",
+      "ja": "人数別の車両",
+      "es": "Vehículos según el tamaño del grupo"
+    },
+    "faq": {
+      "en": "FAQs",
+      "de": "Häufige Fragen",
+      "fr": "Questions fréquentes",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does the Azerbaijan tour, 4 days cost?",
+        "de": "Was kostet die Reise „Aserbaidschan-Reise, 4 Tage“?",
+        "fr": "Combien coûte le circuit « Circuit Azerbaïdjan 4 jours » ?",
+        "ja": "アゼルバイジャンツアー4日間の料金はいくらですか？",
+        "es": "¿Cuánto cuesta el tour «Tour Azerbaiyán 4 días»?",
+        "zh": "阿塞拜疆4天之旅多少钱？"
+      },
+      "a": {
+        "en": "It starts from $726 per person in a twin room in a 4* hotel, with daily breakfast, private transfers and the sightseeing in the itinerary. Flights are not included.",
+        "de": "Ab $726 pro Person im Doppelzimmer in einem 4*-Hotel, mit Frühstück, privaten Transfers und den Besichtigungen laut Programm. Flüge sind nicht enthalten.",
+        "fr": "À partir de 726 $ par personne en chambre double en hôtel 4*, avec petit-déjeuner, transferts privés et visites du programme. Les vols ne sont pas inclus.",
+        "ja": "4つ星ホテル2名1室利用で1名あたり$726から。朝食、専用送迎、旅程内の観光が含まれます。航空券は含まれません。",
+        "es": "Desde $726 por persona en habitación doble en hotel 4*, con desayuno, traslados privados y las visitas del itinerario. Los vuelos no están incluidos.",
+        "zh": "每人从$726起，包含4星级酒店双人房、每日早餐、私人接送及行程中的观光。机票不含。"
+      }
+    }
+  ],
+  "addOns": []
+}

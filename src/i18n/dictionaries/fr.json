@@ -1,0 +1,847 @@
+{
+  "_status": "translated",
+  "meta": {
+    "siteName": "Sunday Atlas Travel",
+    "titleSuffix": "Sunday Atlas Travel",
+    "defaultTitle": "Sunday Atlas Travel",
+    "defaultDescription": "Circuits et circuits privés dans le monde entier. Sunday Atlas Travel établit chaque devis et reste avec vous jusqu’à la confirmation."
+  },
+  "nav": {
+    "destinations": "Destinations",
+    "packages": "Séjours",
+    "blog": "Blog",
+    "howItWorks": "Comment ça marche",
+    "about": "À propos",
+    "faq": "FAQ",
+    "planTrip": "Planifier mon voyage",
+    "home": "Accueil",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "skipToContent": "Aller au contenu",
+    "mainNav": "Principal",
+    "mobileNav": "Mobile"
+  },
+  "languages": {
+    "label": "Langue",
+    "en": "Anglais",
+    "de": "Allemand",
+    "fr": "Français",
+    "ja": "Japonais",
+    "es": "Espagnol",
+    "zh": "中文"
+  },
+  "contentNote": "Les descriptions de voyage sur cette page sont encore en anglais.",
+  "footer": {
+    "blurb": "Sunday Atlas Travel est une société de voyages pour les circuits privés et les excursions, partout dans le monde. Nous préparons votre voyage et organisons les hôtels, les transports et les guides, et notre équipe reste avec vous, de la première question au voyage confirmé.",
+    "explore": "Explorer",
+    "company": "Société",
+    "rights": "© {year} Sunday Atlas Travel"
+  },
+  "cta": {
+    "bandTitle": "Dites-nous où vous aimeriez aller",
+    "bandBody": "Envoyez une demande ou posez une question à l’assistant de chat. Notre équipe répond par e-mail avec des questions, puis nous préparons un devis personnel.",
+    "bandAction": "Commencer une demande",
+    "viewDestination": "Voir la destination",
+    "viewPackage": "Voir le séjour",
+    "browsePackages": "Parcourir les séjours",
+    "browseDestinations": "Parcourir les destinations",
+    "viewGuide": "Lire l’article",
+    "browseGuides": "Voir tous les articles du blog",
+    "readFaq": "Lire la FAQ",
+    "readHow": "Voir le parcours complet",
+    "inquire": "Demander un devis",
+    "backHome": "Retour à l’accueil"
+  },
+  "breadcrumb": {
+    "label": "Fil d’Ariane"
+  },
+  "common": {
+    "pageFaqTitle": "Questions fréquentes"
+  },
+  "empty": {
+    "destinations": "Aucune destination publiée pour le moment. Lorsqu’un pays sera prêt, il apparaîtra ici.",
+    "packages": "Aucun séjour publié pour le moment. Lorsqu’un itinéraire sera prêt, il apparaîtra ici.",
+    "countryPackages": "Aucun séjour publié pour ce pays pour le moment.",
+    "partial": {
+      "emptyDestinations": "Les pages en chinois de nos destinations sont ajoutées une à une. Dites-nous où vous souhaitez aller et nous préparerons un devis personnel.",
+      "emptyPackages": "Les pages en chinois de nos circuits sont ajoutées une à une. Dites-nous où vous souhaitez aller et nous préparerons un devis personnel.",
+      "moreDestinations": "D’autres destinations arrivent dans cette langue.",
+      "morePackages": "D’autres circuits arrivent dans cette langue.",
+      "allInEnglishDestinations": "Voir toutes les destinations en anglais",
+      "allInEnglishPackages": "Voir tous les circuits en anglais"
+    }
+  },
+  "home": {
+    "meta": {
+      "title": "Circuits Asie Centrale, Caucase & Chine (2027) | Dès $104",
+      "description": "20 circuits privés et excursions sur la Route de la soie, au Caucase et à Harbin (dès $104 USD). Hôtels 3★/4★, TGV Afrosiyob & 4x4 privé. Devis personnel par e-mail."
+    },
+    "eyebrow": "Voyages dans le monde",
+    "title": "Vos circuits privés et excursions, préparé avec vous",
+    "subtitle": "Sunday Atlas Travel prépare chaque circuit privé et chaque excursion, partout dans le monde. Nous construisons le programme, le décrivons avec nos propres mots et vous envoyons un devis à lire avant de décider.",
+    "heroImageAlt": "Vue aérienne d’une chaîne de montagnes enneigées et d’une forêt au soleil",
+    "secondaryCta": "Voir les circuits en Asie centrale",
+    "why": {
+      "eyebrow": "Pourquoi Sunday Atlas",
+      "title": "Un voyage personnalisé, avec une seule équipe",
+      "lede": "Nous ne tenons pas de moteur de réservation. Notre équipe prépare le voyage, écrit avec ses propres mots et envoie un devis que vous pouvez lire tranquillement.",
+      "cards": [
+        {
+          "title": "Préparé par notre équipe",
+          "body": "Nous concevons l’itinéraire et organisons le voyage. Vous écrivez à une seule équipe, et cette équipe reste avec vous jusqu’à la confirmation du plan."
+        },
+        {
+          "title": "Écrits avec nos propres mots",
+          "body": "Chaque itinéraire de ce site est écrit par Sunday Atlas, jour par jour, avec hôtels, repas et prix de la saison. Le devis que vous recevez confirme les détails pour vos dates et votre groupe."
+        },
+        {
+          "title": "Un seul interlocuteur",
+          "body": "Vous n’avez pas à gérer une chaîne de boîtes mail. Posez une question à l’assistant de chat ou écrivez par le formulaire — notre équipe répond par e-mail."
+        },
+        {
+          "title": "Un devis que l’on peut laisser reposer",
+          "body": "Il n’y a ni panier ni réservation immédiate. Nous préparons votre devis personnel pour vos dates et votre groupe, et vous l’examinez à votre rythme."
+        }
+      ]
+    },
+    "destinations": {
+      "eyebrow": "Destinations en vue",
+      "title": "Circuits privés en famille ou à deux : des lieux à nous demander",
+      "lede": "Kazakhstan, Kirghizistan, Ouzbékistan, Tadjikistan et Turkménistan : les cinq pays d’Asie centrale, chacun avec les lieux de nos circuits."
+    },
+    "packages": {
+      "eyebrow": "Séjours en vue",
+      "title": "Organiser un circuit privé : nos itinéraires",
+      "lede": "Trois circuits en Asie centrale de 14, 18 et 22 jours, chacun avec un itinéraire jour par jour, les hôtels par ville et les prix de la saison 2027 selon la taille du groupe."
+    },
+    "blog": {
+      "eyebrow": "Blog voyage & carnets",
+      "title": "Articles par pays & Top lieux à visiter",
+      "lede": "Conseils pratiques, meilleures saisons et itinéraires Top 4 en Asie centrale, dans le Caucase et en Chine hivernale — reliés directement aux circuits privés correspondants."
+    },
+    "how": {
+      "eyebrow": "Comment ça marche",
+      "title": "D’une note à un plan confirmé",
+      "lede": "Quatre étapes claires. Pas de compte à rebours, et pas de plan de cabine."
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Avant de nous écrire",
+      "lede": "Quelques réponses sur les demandes, les devis et nos circuits en Asie centrale."
+    },
+    "stats": {
+      "label": "Sunday Atlas en chiffres",
+      "packages": "Circuits",
+      "countries": "Pays",
+      "guides": "Articles de blog",
+      "languages": "Langues"
+    },
+    "latest": {
+      "label": "Nouveautés du blog",
+      "newBadge": "Nouveau",
+      "viewAll": "Tous les articles",
+      "newThisWeek": "{count} nouveaux articles de blog cette semaine"
+    }
+  },
+  "destinations": {
+    "meta": {
+      "title": "Destinations Asie Centrale, Caucase & Chine (Circuits 2027 dès $104)",
+      "description": "Découvrez 8 destinations : Ouzbékistan, Kazakhstan, Kirghizistan, Tadjikistan, Turkménistan, Arménie, Azerbaïdjan et Harbin avec 20 circuits privés dès $104."
+    },
+    "eyebrow": "Destinations",
+    "title": "Destinations voyage en Asie centrale",
+    "lede": "Destinations voyage en Asie centrale, pays par pays : ce que nos circuits voient dans chacun des cinq Stans, la saison habituelle et le circuit qui y passe.",
+    "detail": {
+      "metaTitle": "Guide de voyage {name}",
+      "emptySummary": "Une destination que Sunday Atlas Travel peut préparer. Écrivez-nous pour un devis personnel."
+    },
+    "seasons": "Meilleures saisons à évoquer",
+    "highlights": "Temps forts",
+    "visaTitle": "Visas et entrée",
+    "faqTitle": "Questions sur ce lieu",
+    "packagesTitle": "Circuits qui passent par ce pays",
+    "inquireTitle": "Se renseigner sur {name}",
+    "inquireBody": "Dites-nous comment vous aimez voyager et, à peu près, quand. Nous répondons par e-mail avec des questions, puis nous préparons un devis personnel."
+  },
+  "packages": {
+    "meta": {
+      "title": "20 Circuits Asie Centrale, Caucase & Chine (2027) | Dès $104",
+      "description": "Nos 20 circuits privés Route de la soie (14–22 jours dès $2 643) et excursions d’un ou deux jours à Almaty, Samarcande, Erevan, Bakou et Harbin (dès $104)."
+    },
+    "eyebrow": "Séjours",
+    "title": "Circuit organisé en Asie centrale",
+    "lede": "Trois circuits sur la Route de la soie à travers les Stans et trois courtes excursions privées au départ d’Almaty, écrits avec nos mots, avec l’itinéraire complet, ce qui est inclus et les prix sur chaque page.",
+    "detail": {
+      "metaTitle": "{title}",
+      "emptySummary": "Un circuit Sunday Atlas Travel, avec un devis personnel pour vos dates.",
+      "fallbackTitle": "Circuit : {title}"
+    },
+    "priceOnRequest": "Prix sur demande",
+    "duration": "{days} jours",
+    "durationNights": "{days} jours / {nights} nuits",
+    "durationOneNight": "{days} jours / 1 nuit",
+    "durationDay": "{days} jour",
+    "season": "Saison",
+    "groupMax": "Circuit privé, jusqu’à {n} voyageurs",
+    "onRequest": "Sur demande",
+    "addOnsTitle": "Ajouter une courte excursion depuis Almaty",
+    "addOnsLede": "Des excursions privées facultatives au départ d’Almaty, à ajouter avant ou après ce circuit. Nous les préparons avec vous et les intégrons à votre devis.",
+    "relatedTitle": "Autres voyages dans cette région",
+    "relatedLede": "Combinez cette excursion avec un autre itinéraire privé depuis Almaty ou un grand circuit sur la Route de la soie en Asie centrale.",
+    "dayLabel": "Jour {day}",
+    "meals": "Repas",
+    "facts": "En un coup d’œil",
+    "destination": "Destination",
+    "countries": "Pays",
+    "style": "Style",
+    "length": "Durée",
+    "price": "Prix",
+    "itinerary": "Jour par jour",
+    "included": "Inclus",
+    "notIncluded": "Non inclus",
+    "pricesTitle": "Prix",
+    "hotelsTitle": "Hôtels par ville",
+    "vehiclesTitle": "Véhicules selon la taille du groupe",
+    "singleSupplement": "Supplément single",
+    "hotelStandard": "Hôtels 3*",
+    "hotelSuperior": "Hôtels 4*",
+    "city": "Ville",
+    "groupSize": "Taille du groupe",
+    "vehicle": "Véhicule",
+    "hotelClass": "Hôtels",
+    "tierTourType": "Type de circuit",
+    "tierOption": "Option",
+    "faqTitle": "Questions sur ce voyage",
+    "inquireTitle": "Demander ce devis",
+    "inquireBody": "Indiquez-nous vos dates et la taille du groupe. Nous répondons par e-mail et envoyons un devis personnel adapté à votre voyage.",
+    "inquireNote": "Une demande ne réserve pas de place ; le devis confirme les disponibilités.",
+    "dayTourBadge": "Excursion d’un jour",
+    "filterRegionLabel": "Région",
+    "filterAllRegions": "Toutes les régions",
+    "filterTypeLabel": "Type de voyage",
+    "filterAllTypes": "Tous les voyages",
+    "filterMultiDay": "Circuits de plusieurs jours",
+    "filterDayTours": "Excursions d’un jour",
+    "filterClear": "Effacer les filtres",
+    "filterShowing": "{shown} sur {total} voyages affichés",
+    "filterEmpty": "Aucun voyage ne correspond aux filtres sélectionnés.",
+    "paginationLabel": "Pagination des voyages",
+    "paginationPrev": "Précédent",
+    "paginationNext": "Suivant",
+    "paginationPage": "Page {current} sur {total}"
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog voyage Asie centrale, Caucase, Pologne et Harbin (2027)",
+      "description": "Blog voyage 2027 : itinéraires, meilleure période, que faire et excursions en Ouzbékistan, Kazakhstan, Kirghizistan, Caucase, Pologne et à Harbin."
+    },
+    "eyebrow": "Blog voyage & carnets",
+    "title": "Articles par destination & itinéraires",
+    "lede": "Conseils d’itinéraire détaillés, meilleures saisons, classements Top 4 et logistique sur le terrain — rédigés par Sunday Atlas Travel et reliés directement à nos circuits privés.",
+    "searchPlaceholder": "Rechercher un article par pays, ville ou mot-clé…",
+    "searchLabel": "Rechercher dans le blog",
+    "filterDestinationLabel": "Destination",
+    "filterAllDestinations": "Toutes les destinations",
+    "filterCategoryLabel": "Format",
+    "filterAllCategories": "Tous les formats",
+    "categoryTopPlaces": "Top lieux & listes",
+    "categoryDestinationGuide": "Destinations",
+    "categoryDayTrips": "Excursions",
+    "categorySeasonal": "Saisons & hiver",
+    "filterShowing": "{shown} sur {total} articles affichés",
+    "filterEmpty": "Aucun article ne correspond à votre recherche ou aux filtres.",
+    "filterClear": "Réinitialiser les filtres",
+    "loadMore": "Afficher plus d’articles ({remaining} restants)",
+    "featuredBadge": "Article à la une",
+    "readingTime": "{minutes} min de lecture",
+    "publishedOn": "Mis à jour le {date}",
+    "firstPublished": "Publié le {date}",
+    "tocTitle": "Sommaire de l’article",
+    "inlineTourBadge": "Réserver cet itinéraire en circuit privé",
+    "inlineTourPrivate": "Circuit privé avec guide",
+    "viewItinerary": "Voir l’itinéraire complet",
+    "requestCustomQuote": "Demander un devis personnalisé",
+    "sidebarToursTitle": "Circuits privés liés à cet article",
+    "sidebarToursLede": "Chaque itinéraire présenté dans cet article peut être organisé en voyage privé selon vos dates et la taille de votre groupe.",
+    "relatedToursTitle": "Circuits mentionnés dans cet article",
+    "relatedToursLede": "Consultez le programme jour par jour, les catégories d’hôtels et les tarifs pour les parcours mentionnés dans cet article.",
+    "relatedGuidesTitle": "Articles de blog associés",
+    "relatedGuidesLede": "Découvrez nos conseils de préparation, meilleures saisons et sélections d’étapes pour cette destination.",
+    "faqTitle": "Questions fréquentes",
+    "keywordsLabel": "Thèmes & mots-clés",
+    "rankBadge": "Étape #{rank}",
+    "backToBlog": "Tous les articles"
+  },
+  "about": {
+    "meta": {
+      "title": "À propos de Sunday Atlas Travel | Agence Circuits Route de la Soie & Caucase",
+      "description": "Sunday Atlas Travel organise 20 circuits privés et excursions en Asie centrale, au Caucase et en Chine avec tarifs transparents par personne 2027."
+    },
+    "eyebrow": "À propos",
+    "title": "Une agence de circuits privés et voyages qui prépare le voyage avec vous",
+    "lede": "Nous sommes une agence de circuits privés et voyages : nous concevons et organisons le voyage nous-mêmes. Le ton que nous cherchons est calme, expert et curieux, soigneux dans les détails et clair sur ce qu’un prix comprend.",
+    "sections": [
+      {
+        "heading": "Qui nous sommes : une agence de circuits privés, pas un moteur de réservation",
+        "paragraphs": [
+          "Sunday Atlas Travel est une société de voyages. Nous préparons des circuits privés et des excursions dans le monde entier, organisons les hôtels, les transports et les guides, établissons le devis nous-mêmes et écrivons les mots de ce site.",
+          "Ce n’est pas un moteur de réservation. Une demande ouvre une conversation."
+        ]
+      },
+      {
+        "heading": "Pour qui nous préparons un voyage",
+        "paragraphs": [
+          "Nous préparons des voyages pour les personnes qui veulent un itinéraire clair, un devis personnel et une réponse sur laquelle compter — des vacances, un voyage en famille ou un parcours plus long.",
+          "Les règles d’entrée ne sont pas les nôtres à accorder ou à refuser. Avant de voyager, consultez les sources officielles des gouvernements."
+        ]
+      },
+      {
+        "heading": "Comment les textes s’écrivent",
+        "paragraphs": [
+          "Nous écrivons les itinéraires avec nos mots, jour par jour, avec les hôtels, les repas et les prix de la saison.",
+          "Le devis que nous envoyons confirme le programme pour vos dates et votre groupe ; c’est sur lui que vous décidez."
+        ]
+      },
+      {
+        "heading": "Ce que nous ne feindrons pas",
+        "paragraphs": [
+          "Nous n’inventerons pas d’avis, de classements ni une foule d’anciens voyageurs pour donner à une page un air occupé. Si un détail n’est pas encore connu, la page le dit.",
+          "Nous préparons chaque voyage nous-mêmes. Le devis indique l’itinéraire, le prix et ce qui est inclus. Cette version n’invente pas ces détails."
+        ]
+      }
+    ]
+  },
+  "howItWorks": {
+    "meta": {
+      "title": "Organiser un voyage : notre méthode",
+      "description": "Organiser un voyage avec Sunday Atlas Travel : une demande, un devis personnel et un voyage confirmé."
+    },
+    "eyebrow": "Comment ça marche",
+    "title": "Organiser un voyage, étape par étape",
+    "lede": "Organiser un voyage avec nous est simple. Vous parcourez le site. Vous nous écrivez. Nous répondons par e-mail avec nos questions. Nous chiffrons le voyage. Vous examinez le devis et décidez à votre rythme.",
+    "steps": [
+      {
+        "title": "Préparer un voyage : vous nous envoyez une esquisse",
+        "body": "Utilisez le formulaire ou posez une question à l’assistant de chat. Notre équipe répond par e-mail. Un pays, une période approximative et les personnes qui voyagent suffisent pour commencer."
+      },
+      {
+        "title": "Nous répondons par e-mail",
+        "body": "Nous revenons avec des questions, pas avec un argumentaire — le rythme, les intérêts, et tout ce qui doit façonner la route avant que nous la chiffrions."
+      },
+      {
+        "title": "Nous préparons votre devis",
+        "body": "Nous rédigeons un devis à partir de vos réponses, en partant de l’itinéraire du site et en l’adaptant à vos dates et à votre groupe."
+      },
+      {
+        "title": "Vous examinez et décidez",
+        "body": "Vous examinez le devis à votre rythme. Si vous poursuivez, nous confirmons les hôtels, les transports sur place et les guides pour vos dates au cas par cas."
+      }
+    ],
+    "stagesTitle": "Du devis voyage au départ : les étapes dans l’ordre",
+    "stages": [
+      {
+        "title": "Demande",
+        "body": "Vous écrivez par le formulaire ou interrogez l’assistant de chat. Notre équipe répond par e-mail. C’est une question, pas une réservation."
+      },
+      {
+        "title": "Nos questions",
+        "body": "Nous répondons par e-mail et demandons ce que les pages ne peuvent pas savoir : vos dates, votre groupe et votre rythme."
+      },
+      {
+        "title": "Votre devis",
+        "body": "Nous préparons un prix et un plan pour le voyage que vous avez décrit."
+      },
+      {
+        "title": "Prenez le temps de décider",
+        "body": "Vous recevez le devis écrit pour l’examiner et poser vos questions avant de vous décider."
+      },
+      {
+        "title": "Nous confirmons votre voyage",
+        "body": "Nous confirmons le plan et restons dans l’échange, afin que vous n’ayez pas à éclaircir les détails par vous-même."
+      }
+    ],
+    "closing": "Les prix de chaque page sont ceux de la saison 2027 ; votre devis les confirme pour vos dates."
+  },
+  "faq": {
+    "meta": {
+      "title": "Agence de voyage : questions fréquentes",
+      "description": "Réserver avec une agence ou seul ? Réponses sur nos devis, délais et circuits en Asie centrale chez Sunday Atlas Travel."
+    },
+    "eyebrow": "FAQ",
+    "title": "Agence de voyage : les questions que nous attendons",
+    "lede": "Vous hésitez à passer par une agence de voyage ? Voici nos réponses. Si la vôtre n’y figure pas, envoyez-la avec le formulaire ou posez-la à l’assistant de chat. Notre équipe répond par e-mail.",
+    "items": [
+      {
+        "q": "Est-ce un site de réservation ?",
+        "a": "Non. Sunday Atlas Travel fonctionne sur demande. Vous pouvez lire les pages des circuits et nous écrire. Il n’y a ni choix de siège ni réservation automatique en ligne sur ce site."
+      },
+      {
+        "q": "Que se passe-t-il après ma demande ?",
+        "a": "Nous répondons par e-mail avec des questions. Lorsque nous comprenons le voyage, nous préparons et vous envoyons un devis personnel."
+      },
+      {
+        "q": "Comment la confirmation et l’organisation sont-elles gérées ?",
+        "a": "Au cas par cas. Votre devis personnel précise les détails et les prochaines étapes pour vos dates et votre groupe."
+      },
+      {
+        "q": "Qui prépare le voyage ?",
+        "a": "Nous. Sunday Atlas Travel planifie et organise le voyage, prépare le devis et reste votre interlocuteur, de la première question jusqu’au voyage confirmé."
+      },
+      {
+        "q": "Les itinéraires de ce site sont-ils définitifs ?",
+        "a": "Oui. Chaque page présente l’itinéraire complet, les hôtels, les repas et les prix de la saison 2027 selon la taille du groupe, avec nos mots. Le devis les confirme pour vos dates."
+      },
+      {
+        "q": "Où pouvez-vous préparer un voyage ?",
+        "a": "Partout dans le monde. Indiquez-nous le lieu que vous avez en tête, ou demandez-nous des idées. Nous ne décidons pas des règles d’entrée. Consultez les sources officielles du gouvernement avant de voyager."
+      },
+      {
+        "q": "La route peut-elle changer ?",
+        "a": "Oui. Dites-nous dans la demande ce que vous voulez en plus ou en moins. C’est dans le devis que les changements se précisent ; les pages des circuits sont un point de départ, pas un menu imposé."
+      },
+      {
+        "q": "Vendez-vous des vols internationaux ?",
+        "a": "Non. Considérez que vous organisez vos propres vols, sauf si un futur devis indique autre chose par écrit."
+      },
+      {
+        "q": "Quelles sont les conditions d’annulation ?",
+        "a": "Elles figurent sur le devis, que vous pouvez lire avant de confirmer le voyage. Ce site ne publie pas de barème de frais."
+      },
+      {
+        "q": "Pourquoi passer par une agence de voyage ?",
+        "a": "Cela dépend du voyage. Chez nous, une seule équipe conçoit l’itinéraire, prépare le devis et reste votre contact jusqu’à la confirmation. Vous lisez le devis et pouvez comparer avant de vous décider."
+      },
+      {
+        "q": "Combien coûte un voyage avec Sunday Atlas ?",
+        "a": "Nous chiffrons l’ensemble du voyage dans un devis personnel. Ce site ne publie pas de grille de frais séparée : le devis indique le prix et ce qui est inclus."
+      },
+      {
+        "q": "Comment choisir une agence de voyage ?",
+        "a": "Regardez si elle répond à vos questions et si le devis indique clairement l’itinéraire, les hôtels et ce qui est inclus ou non. Chez nous, vous recevez un devis écrit que vous pouvez comparer en toute tranquillité."
+      },
+      {
+        "q": "C’est quoi une agence de voyage ?",
+        "a": "Une entreprise qui conçoit et organise des voyages pour vous. Chez nous, pas de panier ni de réservation immédiate : vous écrivez à une équipe, qui vous répond."
+      }
+    ]
+  },
+  "contact": {
+    "meta": {
+      "title": "Planifier un voyage avec nous",
+      "description": "Envoyez une demande à Sunday Atlas Travel. Nous répondons par e-mail et préparons votre devis. L’assistant de chat répond aux questions rapides."
+    },
+    "eyebrow": "Contact",
+    "title": "Planifier mon voyage",
+    "lede": "Esquissez le voyage. Nous préparons votre voyage et organisons les hôtels, les transports et les guides. Nous répondons par e-mail avec des questions, puis nous préparons un devis personnel.",
+    "emailLabel": "E-mail",
+    "emailPending": "adresse e-mail de contact à venir",
+    "chatNote": "L’assistant de chat de cette page répond aux questions rapides pendant que vous écrivez. Une idée approximative nous est plus utile qu’une idée parfaite.",
+    "packageContext": "Vous avez ouvert ce formulaire depuis « {title} ». Nous en tiendrons compte dans notre réponse.",
+    "packageMessageTemplate": "Bonjour Sunday Atlas Travel,\n\nJe souhaiterais demander un devis pour « {title} ».\n\n- Dates ou mois de voyage souhaités : \n- Nombre de voyageurs : \n- Catégorie d’hôtel / préférence de chambre : \n- Demandes particulières ou questions : ",
+    "packageUnknown": "Nous n’avons pas reconnu ce lien de séjour. Choisissez une destination ci-dessous et décrivez le voyage dans votre message.",
+    "fields": {
+      "name": "Nom",
+      "email": "E-mail",
+      "passport": "Nationalité / passeport",
+      "destination": "Destination envisagée",
+      "dates": "Dates approximatives",
+      "groupSize": "Taille du groupe",
+      "message": "Message",
+      "consent": "J’accepte que Sunday Atlas Travel utilise mes informations pour préparer mon devis et me contacter."
+    },
+    "placeholders": {
+      "name": "Votre nom",
+      "email": "you@example.com",
+      "passport": "Par exemple, un pays de citoyenneté",
+      "dates": "Un mois, ou « flexible »",
+      "groupSize": "Par exemple, 2 adultes",
+      "message": "Rythme, centres d’intérêt et ce que nous devrions savoir"
+    },
+    "destinationPlaceholder": "Choisir une destination",
+    "destinationUndecided": "Pas encore décidé",
+    "submit": "Envoyer la demande",
+    "submitting": "Envoi…",
+    "requiredMark": "Obligatoire",
+    "errors": {
+      "name": "Veuillez indiquer votre nom.",
+      "email": "Veuillez indiquer une adresse e-mail valide.",
+      "passport": "Veuillez indiquer le passeport ou la nationalité avec lesquels vous voyageriez.",
+      "destination": "Veuillez choisir une destination, ou « Pas encore décidé ».",
+      "dates": "Veuillez ajouter des dates approximatives, même si elles sont souples.",
+      "groupSize": "Veuillez indiquer la taille du groupe.",
+      "message": "Veuillez ajouter quelques mots, afin que nous sachions ce que vous espérez.",
+      "consent": "Veuillez confirmer que nous pouvons utiliser ces informations pour répondre."
+    },
+    "notConfigured": "Une erreur s’est produite. Veuillez réessayer ou nous écrire à {email}.",
+    "noscript": "Ce formulaire nécessite JavaScript. Activez-le et réessayez, ou écrivez-nous à {email}.",
+    "success": "Merci. Nous avons bien reçu votre demande et nous vous répondrons bientôt par e-mail.",
+    "errorGeneric": "Une erreur s’est produite. Veuillez réessayer ou nous écrire à {email}.",
+    "errorChallenge": "Veuillez effectuer la vérification de sécurité, puis renvoyer le formulaire.",
+    "errorRateLimited": "Vous avez envoyé plusieurs demandes en peu de temps. Veuillez patienter quelques minutes, puis réessayer.",
+    "errorInvalid": "Certaines informations ne semblent pas valides. Veuillez vérifier le formulaire et réessayer.",
+    "honeypotLabel": "Site web"
+  },
+  "privacy": {
+    "meta": {
+      "title": "Politique de confidentialité",
+      "description": "Comment Sunday Atlas Travel collecte, utilise, partage et protège les données personnelles issues des demandes, réservations, de l’assistant de discussion et de la newsletter, et vos droits en matière de protection des données, notamment au titre du RGPD."
+    },
+    "eyebrow": "Confidentialité",
+    "title": "Politique de confidentialité",
+    "lede": "Cette politique explique quelles données personnelles Sunday Atlas Travel collecte lorsque vous utilisez sundayatlastravel.com, faites une demande, réservez un circuit ou vous abonnez à nos e-mails, comment nous les utilisons, avec qui nous les partageons, ainsi que vos choix et vos droits.",
+    "sections": [
+      {
+        "heading": "1. Le responsable de vos données",
+        "paragraphs": [
+          "Sunday Atlas Travel, agence de voyages immatriculée au Myanmar et opérant depuis Bangkok, en Thaïlande, est responsable de vos données personnelles et en est le responsable du traitement. Lorsque des lois sur la protection des données s’appliquent à nos traitements, notamment le Règlement général sur la protection des données de l’UE et du Royaume-Uni pour les voyageurs de ces régions et la loi thaïlandaise sur la protection des données personnelles (PDPA) pour les traitements effectués en Thaïlande, nous agissons comme responsable du traitement au sens de ces lois.",
+          "Pour toute question ou demande relative à la vie privée, écrivez à {email}."
+        ]
+      },
+      {
+        "heading": "2. Ce que nous collectons",
+        "paragraphs": [
+          "Demandes. Lorsque vous utilisez le formulaire de demande, nous collectons votre nom, votre adresse e-mail, la nationalité ou le passeport avec lequel vous voyageriez, la destination qui vous intéresse, vos dates approximatives, la taille du groupe, votre message, votre accord pour être contacté et, le cas échéant, la page de circuit d’où vous venez.",
+          "E-mails et messages. Lorsque vous nous écrivez, nous conservons votre e-mail et nos réponses, ainsi que toute information que vous choisissez d’y inclure. Nous ne proposons pas encore de contact par WhatsApp. Si nous l’ajoutons plus tard, les messages que vous nous y enverrez seront traités selon cette politique, et WhatsApp les traitera aussi selon ses propres conditions.",
+          "Données de réservation et des voyageurs. Lorsque vous confirmez un voyage, nous collectons ce qui est nécessaire pour l’organiser pour chaque voyageur. Cela peut inclure les noms complets tels qu’inscrits sur le passeport, les dates de naissance, la nationalité, le numéro et la date d’expiration du passeport, les détails d’arrivée et de départ, les préférences de chambre, les contacts d’urgence et les informations sur le régime alimentaire, la santé ou la mobilité que vous choisissez de partager afin que le voyage soit organisé en toute sécurité. Les données de passeport ne sont demandées que lorsqu’un hôtel, un permis ou une procédure d’entrée officielle l’exige.",
+          "Données de paiement. Lorsque vous nous payez directement, nous conservons les informations nécessaires pour enregistrer le paiement, comme le nom du payeur, le montant, la date et la référence du paiement. Nous ne conservons pas les numéros de carte complets. Si votre paiement passe par un partenaire de réservation ou de paiement, vous saisissez vos données de carte et de paiement chez ce partenaire, pas sur notre site, et nous recevons la confirmation du paiement, le montant et quelques références.",
+          "Newsletter. Si vous vous abonnez à nos e-mails, nous conservons votre adresse e-mail, la langue du site et la page où vous vous êtes inscrit, ainsi qu’un historique des e-mails envoyés et de votre éventuel désabonnement.",
+          "Assistant de discussion. Si vous utilisez l’assistant de discussion automatisé, le texte saisi, la langue de la page et vos messages récents de la session sont envoyés à notre hébergeur pour générer une réponse. Merci de ne pas saisir votre nom, vos coordonnées ou vos données de passeport dans la discussion. Utilisez plutôt le formulaire de demande.",
+          "Données techniques. Lorsque vous visitez le site, notre hébergeur traite votre adresse IP, les informations sur votre navigateur et votre appareil et les pages demandées, afin que le site fonctionne et reste sécurisé. Nous utilisons un compteur lié à votre adresse IP pour limiter les abus du formulaire de demande et de l’assistant de discussion, ainsi qu’une vérification de sécurité sur le formulaire pour bloquer le spam automatisé."
+        ]
+      },
+      {
+        "heading": "3. Pourquoi nous les utilisons et sur quelle base juridique",
+        "paragraphs": [
+          "Nous utilisons vos données :",
+          "• pour répondre à votre demande et préparer un devis, parce que vous nous l’avez demandé et afin de prendre des mesures précontractuelles ;",
+          "• pour organiser, confirmer et gérer votre réservation et vous accompagner avant et pendant votre voyage, car cela est nécessaire à l’exécution de notre contrat avec vous ;",
+          "• pour traiter les informations sensibles que vous nous communiquez, comme vos besoins de santé ou alimentaires, uniquement avec votre consentement explicite et uniquement pour organiser votre voyage en toute sécurité ;",
+          "• pour vous envoyer notre newsletter, sur la base de votre consentement, que vous pouvez retirer à tout moment ;",
+          "• pour sécuriser le site, prévenir le spam et les abus et améliorer notre service, sur la base de notre intérêt légitime à exploiter un site sûr et utile ;",
+          "• pour tenir nos registres comptables et fiscaux et respecter nos autres obligations légales ; et",
+          "• pour constater, exercer ou défendre des droits en justice.",
+          "Nous ne vendons pas vos données personnelles et ne les utilisons pas pour des décisions automatisées produisant des effets juridiques ou similaires importants à votre égard."
+        ]
+      },
+      {
+        "heading": "4. Avec qui nous les partageons",
+        "paragraphs": [
+          "Nous ne partageons vos données que si nécessaire :",
+          "Réceptifs locaux et prestataires. Pour réaliser votre voyage, nous transmettons les données nécessaires des voyageurs aux réceptifs locaux indépendants qui opèrent le circuit et, par leur intermédiaire, aux hôtels, guides, chauffeurs et autres prestataires sur place. Lorsqu’un permis, une lettre d’invitation pour un visa ou une procédure d’entrée officielle est nécessaire, des données peuvent être transmises aux autorités compétentes à cette fin.",
+          "Partenaires de réservation ou de paiement. Si votre paiement passe par un partenaire de réservation ou de paiement, nous lui transmettons les données nécessaires pour encaisser votre paiement et gérer votre réservation. Le partenaire traite les données de paiement selon sa propre politique de confidentialité.",
+          "Prestataires qui travaillent pour nous. Nous faisons appel à ces prestataires pour faire fonctionner notre site et nos services. Ils traitent les données pour notre compte et selon nos instructions :",
+          "• Cloudflare, pour l’hébergement du site, la sécurité, la vérification anti-spam du formulaire de demande, l’assistant de discussion, le stockage des demandes envoyées via notre site et l’envoi des e-mails de notification des demandes ;",
+          "• Brevo, pour l’envoi de notre newsletter ;",
+          "• Sanity, notre système de gestion de contenu, qui stocke aussi de façon privée les inscriptions à la newsletter ; et",
+          "• Cloudinary, qui stocke et diffuse les images de notre site et de nos e-mails.",
+          "Autres. Nous pouvons divulguer des données si la loi l’exige, pour protéger la sécurité d’un voyageur ou dans le cadre d’une action en justice."
+        ]
+      },
+      {
+        "heading": "5. Transferts internationaux",
+        "paragraphs": [
+          "Nous sommes immatriculés au Myanmar, opérons depuis la Thaïlande, et nos prestataires opèrent dans plusieurs pays ; vos données peuvent donc être traitées hors de votre pays de résidence. Pour réaliser votre voyage, nous devons aussi envoyer les données des voyageurs aux réceptifs et prestataires des pays que vous visiterez, qui n’offrent pas forcément le même niveau de protection que votre pays.",
+          "Lorsque la loi l’exige, nous encadrons ces transferts par des garanties appropriées, comme des clauses contractuelles types ou les engagements de transfert de nos prestataires. Lorsqu’un transfert vers un pays de destination est nécessaire à l’exécution du contrat que vous nous avez demandé, nous nous fondons sur cette nécessité et n’envoyons que ce que le voyage exige. Vous pouvez nous demander plus d’informations sur ces garanties."
+        ]
+      },
+      {
+        "heading": "6. Durée de conservation",
+        "paragraphs": [
+          "Nous conservons vos données uniquement le temps nécessaire :",
+          "• les demandes qui n’aboutissent pas à une réservation sont conservées 2 mois après notre dernier contact, pour répondre à d’éventuelles questions, puis supprimées ;",
+          "• les dossiers de réservation sont conservés 1 an après votre voyage ;",
+          "• les données de passeport et de santé sont supprimées ou anonymisées une fois votre voyage et son suivi terminés, sauf si la loi nous impose de les garder plus longtemps ;",
+          "• les données de newsletter sont conservées jusqu’à votre désabonnement, après quoi nous ne gardons que ce qui est nécessaire pour ne plus vous écrire ; et",
+          "• les conversations avec l’assistant de discussion ne sont pas stockées sur nos serveurs. Elles restent dans le stockage de session de votre navigateur et sont effacées à la fermeture de l’onglet. Les compteurs anti-abus liés à une adresse IP sont supprimés automatiquement sous 2 jours. Notre hébergeur peut conserver des journaux techniques limités selon ses propres conditions.",
+          "Nous ne conservons des données au-delà de ces durées que lorsque la loi l’exige, par exemple à des fins fiscales ou comptables."
+        ]
+      },
+      {
+        "heading": "7. Vos droits",
+        "paragraphs": [
+          "Selon la loi de votre pays de résidence, vous avez le droit :",
+          "• de demander une copie des données personnelles que nous détenons sur vous ;",
+          "• de faire rectifier des données inexactes ou incomplètes ;",
+          "• de demander la suppression de vos données ;",
+          "• de demander la limitation de leur utilisation, ou de vous y opposer, y compris pour la prospection ;",
+          "• de recevoir vos données dans un format portable ;",
+          "• de retirer votre consentement à tout moment, lorsque nous nous fondons sur celui-ci, sans remettre en cause les traitements antérieurs ; et",
+          "• d’introduire une réclamation auprès de l’autorité de protection des données du pays où vous vivez, par exemple l’autorité de votre pays si vous résidez dans l’Espace économique européen ou au Royaume-Uni.",
+          "Pour exercer ces droits, écrivez à {email}. Nous pourrons devoir vérifier votre identité avant d’agir. Nous répondrons dans le délai prévu par la loi. Certaines données peuvent devoir être conservées, par exemple pour une réservation déjà confirmée ou pour des raisons légales.",
+          "Vous pouvez vous désabonner de notre newsletter à tout moment grâce au lien présent dans chaque e-mail."
+        ]
+      },
+      {
+        "heading": "8. Cookies et technologies similaires",
+        "paragraphs": [
+          "Notre site n’utilise actuellement aucun cookie de mesure d’audience, publicitaire ou de traçage. L’assistant de discussion utilise le stockage de session de votre navigateur pour conserver la conversation en cours pendant votre navigation ; il est effacé à la fermeture de l’onglet. La vérification de sécurité de notre formulaire de demande, fournie par Cloudflare, peut traiter des informations techniques sur votre navigateur pour distinguer les personnes du spam automatisé.",
+          "Nous pourrons introduire plus tard des outils de mesure d’audience ou de suivi. Avant cela, nous mettrons à jour cette politique et, lorsque la loi l’exige, recueillerons d’abord votre consentement."
+        ]
+      },
+      {
+        "heading": "9. Enfants",
+        "paragraphs": [
+          "Notre site et nos services s’adressent aux adultes. Les réservations doivent être faites par une personne âgée d’au moins 18 ans. Si un enfant voyage avec vous, nous ne collectons que les informations nécessaires à l’organisation de son voyage, et nous les recevons de vous en tant que parent ou tuteur."
+        ]
+      },
+      {
+        "heading": "10. Sécurité",
+        "paragraphs": [
+          "Nous appliquons des mesures techniques et organisationnelles raisonnables pour protéger vos données, notamment des connexions chiffrées, un accès restreint et des prestataires aux pratiques de sécurité reconnues. Aucun service en ligne n’est totalement sûr : merci de ne pas envoyer de copies de passeport ni de documents sensibles via le formulaire de demande ou la discussion. Si nous avons besoin de documents, nous vous dirons comment les transmettre."
+        ]
+      },
+      {
+        "heading": "11. Modification de cette politique",
+        "paragraphs": [
+          "Nous pouvons mettre à jour cette politique de temps à autre. La date en haut de page indique la dernière modification. En cas de changement important, nous le signalerons clairement sur cette page et, le cas échéant, vous en informerons par e-mail."
+        ]
+      },
+      {
+        "heading": "12. Nous contacter",
+        "paragraphs": [
+          "Pour toute question sur cette politique ou sur vos données personnelles, écrivez à {email}."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "Conditions générales",
+      "description": "Conditions générales de Sunday Atlas Travel : demandes, devis et réservations, prix et paiement, modifications, annulations, responsabilité et réclamations pour nos circuits en Asie centrale, dans le Caucase, en Chine et au Bhoutan."
+    },
+    "eyebrow": "Conditions",
+    "title": "Conditions générales",
+    "lede": "Ces conditions expliquent le fonctionnement de Sunday Atlas Travel, ce que vous pouvez attendre de nous et ce que nous attendons de vous. Elles s’appliquent lorsque vous utilisez sundayatlastravel.com et lorsque vous réservez un circuit avec nous. Merci de les lire avant de confirmer une réservation.",
+    "sections": [
+      {
+        "heading": "1. Qui nous sommes",
+        "paragraphs": [
+          "Sunday Atlas Travel est une petite agence de voyages en ligne immatriculée au Myanmar et opérant depuis Bangkok, en Thaïlande. Nous organisons des circuits en Asie centrale, dans le Caucase, en Chine et au Bhoutan. Vous pouvez nous écrire à {email}.",
+          "Dans ces conditions, « nous », « notre » et « nos » désignent Sunday Atlas Travel. « Vous » désigne la personne qui fait une demande ou une réservation, ainsi que chaque voyageur qui y figure."
+        ]
+      },
+      {
+        "heading": "2. Notre rôle d’agence de voyages",
+        "paragraphs": [
+          "Nous concevons et organisons votre circuit. Les prestations sur place, comme le guidage, le transport, l’hébergement et les activités, sont fournies par des réceptifs locaux et des prestataires indépendants dans chaque destination. Ils ne nous appartiennent pas et ne sont pas contrôlés par nous.",
+          "Nous sommes votre interlocuteur avant et pendant votre voyage. Nous transmettons vos demandes au réceptif, vérifions l’organisation et vous aidons en cas de problème.",
+          "Le réceptif local peut avoir ses propres conditions de réservation. Dans ce cas, nous vous le dirons avant votre confirmation, et ces conditions s’appliqueront aussi aux prestations qu’il fournit. En cas de contradiction avec les présentes conditions, les dispositions les plus favorables pour vous s’appliqueront chaque fois que la loi l’exige."
+        ]
+      },
+      {
+        "heading": "3. Demandes et devis",
+        "paragraphs": [
+          "Envoyer un formulaire de demande, nous écrire ou utiliser l’assistant de discussion de notre site ne crée pas de réservation et ne bloque aucune place.",
+          "Après votre demande, nous vous répondons par e-mail avec un itinéraire proposé et un devis pour vos dates et votre groupe. Chaque devis indique ce qui est inclus et ce qui ne l’est pas, le prix, les conditions de paiement et sa durée de validité. La disponibilité n’est garantie qu’une fois votre réservation confirmée."
+        ]
+      },
+      {
+        "heading": "4. Comment une réservation est conclue",
+        "paragraphs": [
+          "Votre réservation est conclue lorsque ces deux étapes ont eu lieu :",
+          "1) vous acceptez le devis par écrit, par e-mail ou via l’étape de paiement que nous vous envoyons ; et",
+          "2) nous vous envoyons un e-mail confirmant la réservation.",
+          "Notre e-mail de confirmation, avec le devis auquel il renvoie et ces conditions, constitue l’accord entre nous. Vérifiez attentivement la confirmation et signalez-nous immédiatement tout nom, toute date ou tout détail erroné. Les noms doivent correspondre aux passeports avec lesquels vous voyagerez.",
+          "La personne qui effectue la réservation confirme qu’elle a au moins 18 ans et que chaque voyageur du groupe l’autorise à accepter ces conditions en son nom."
+        ]
+      },
+      {
+        "heading": "5. Prix et paiement",
+        "paragraphs": [
+          "Les prix affichés sur le site sont donnés à titre indicatif. Ils s’entendent généralement par personne en dollars américains et dépendent de la taille du groupe, de la saison et de la catégorie d’hôtel. Le prix applicable à votre voyage est celui de votre devis et de votre e-mail de confirmation.",
+          "Le prix total du circuit se règle d’avance, à la confirmation de votre réservation. Il n’y a pas d’acompte ni de solde séparés. Dans la plupart des cas, vous nous payez directement, sur la facture ou la demande de paiement que nous vous envoyons, et tout remboursement qui vous est dû est effectué par nous. Il arrive que le paiement passe par un partenaire de réservation ou de paiement ; ses conditions de paiement s’appliquent alors aussi au paiement lui-même. Votre devis ou votre facture indique le montant dû, l’échéance et les moyens de paiement acceptés.",
+          "Si le paiement intégral n’est pas reçu à l’échéance, nous pouvons considérer la réservation comme annulée par vous et appliquer les frais d’annulation prévus à l’article 7.",
+          "Une fois la réservation confirmée, nous n’augmenterons pas le prix, sauf si la hausse résulte d’un élément indépendant de notre volonté que nous vous avons signalé dans le devis, comme une nouvelle taxe, redevance ou droit d’entrée imposé par l’État. Dans ce cas, nous vous préviendrons au plus vite et vous en expliquerons la raison. Si la hausse est importante, vous pouvez annuler et être remboursé de ce que vous avez payé pour les prestations concernées.",
+          "Sauf mention contraire dans votre devis, les prix n’incluent pas les vols internationaux, les visas, l’assurance voyage, les dépenses personnelles, les pourboires ni les activités optionnelles."
+        ]
+      },
+      {
+        "heading": "6. Modifications de votre part",
+        "paragraphs": [
+          "Si vous souhaitez modifier votre réservation après sa confirmation, écrivez-nous dès que possible. Nous ferons de notre mieux pour vous aider, mais les modifications dépendent des disponibilités et du réceptif local. Les coûts supplémentaires, ainsi que les frais facturés par le réceptif ou l’hôtel pour la modification, vous seront refacturés. Nous vous indiquerons le coût avant que vous n’acceptiez la modification.",
+          "Vous pouvez céder votre place à une autre personne si le réceptif local et les autorités compétentes l’autorisent, et si le nouveau voyageur remplit les conditions d’entrée. Les frais de cession vous seront refacturés."
+        ]
+      },
+      {
+        "heading": "7. Annulation de votre part",
+        "paragraphs": [
+          "Vous pouvez annuler votre réservation à tout moment en écrivant à {email}. L’annulation prend effet le jour où nous recevons votre message.",
+          "Comme nous engageons des fonds auprès des hôtels, des transporteurs et des guides pour votre compte, des frais d’annulation peuvent s’appliquer. Les frais de votre voyage, et leur augmentation à l’approche du départ, figurent dans votre devis et votre e-mail de confirmation. Ils reflètent les coûts que nous et le réceptif local ne pouvons pas récupérer. Si nous récupérons certains coûts, nous réduirons les frais d’autant.",
+          "Certains coûts, comme les permis, les droits d’entrée et les taxes publiques, peuvent ne pas être remboursables une fois payés. Nous vous indiquerons dans votre devis quels coûts ne sont pas remboursables.",
+          "Nous vous recommandons vivement une assurance voyage couvrant l’annulation."
+        ]
+      },
+      {
+        "heading": "8. Modifications et annulation par nous ou par le réceptif local",
+        "paragraphs": [
+          "Les voyages dans les régions isolées et de montagne peuvent changer à bref délai. Nous ou le réceptif local pouvons devoir modifier l’ordre des visites, un hôtel ou un itinéraire en raison de la météo, de l’état des routes, d’événements locaux ou de la sécurité. Dans la mesure du possible, nous remplacerons la prestation par une prestation de niveau équivalent.",
+          "Si nous devons apporter une modification importante avant le départ, nous vous préviendrons dès que possible. Vous pourrez alors accepter la modification, accepter un autre voyage s’il vous est proposé, ou annuler et être intégralement remboursé des sommes que vous nous avez versées pour le voyage.",
+          "Nous pouvons annuler un voyage avant le départ si le nombre minimum de voyageurs indiqué dans votre devis n’est pas atteint, ou si des événements indépendants de notre volonté rendent sa réalisation impossible ou dangereuse. Vous serez alors intégralement remboursé des sommes versées pour le voyage. Lorsque la loi vous donne droit à une indemnisation, rien dans ces conditions ne vous en prive."
+        ]
+      },
+      {
+        "heading": "9. Passeports, visas, santé et assurance",
+        "paragraphs": [
+          "Il vous appartient :",
+          "• de détenir un passeport valide, avec une durée de validité et des pages vierges suffisantes pour chaque pays de votre itinéraire ;",
+          "• d’obtenir tout visa, permis ou autorisation d’entrée nécessaire et de respecter les conditions d’entrée ;",
+          "• de suivre les exigences et recommandations sanitaires, y compris les vaccinations éventuelles, et de vous assurer que votre condition physique convient au voyage choisi ; et",
+          "• de souscrire une assurance voyage adaptée pour tout votre séjour, couvrant les soins médicaux, le rapatriement d’urgence et l’annulation.",
+          "Nous pouvons partager des informations générales et vous orienter vers les sources officielles, mais les règles d’entrée changent et dépendent de votre nationalité. Vérifiez-les auprès des sources gouvernementales officielles et des ambassades de chaque pays avant de partir. Rien sur notre site ni dans nos e-mails ne constitue un conseil juridique, migratoire ou médical.",
+          "Le Bhoutan applique ses propres règles d’entrée, fixées par le gouvernement du Bhoutan. Elles comprennent des exigences de visa et une redevance journalière à la charge des visiteurs. Les règles et les montants peuvent changer. Votre devis indiquera si ces frais sont inclus, et le montant applicable sera celui en vigueur selon les règles du Bhoutan.",
+          "Si l’entrée vous est refusée, ou si vous ne pouvez pas voyager faute des bons documents, les frais d’annulation de l’article 7 s’appliquent."
+        ]
+      },
+      {
+        "heading": "10. Votre comportement pendant le voyage",
+        "paragraphs": [
+          "Merci de suivre les instructions raisonnables de votre guide et de votre chauffeur, de respecter les lois et coutumes locales et de veiller sur vos affaires. Si le comportement d’un voyageur met les autres en danger ou cause une perturbation grave, le guide ou le réceptif local peut mettre fin à son voyage. Aucun remboursement n’est alors dû, et le voyageur prend en charge ses propres frais de retour.",
+          "Avant de réserver, informez-nous de tout problème de santé, handicap ou besoin alimentaire pouvant affecter votre voyage, afin que nous vérifiions que l’itinéraire vous convient."
+        ]
+      },
+      {
+        "heading": "11. Notre responsabilité envers vous",
+        "paragraphs": [
+          "Nous organisons votre voyage avec un soin et une compétence raisonnables, et nous vérifions que les prestations décrites dans votre confirmation sont réservées.",
+          "Nous ne sommes pas responsables des pertes, blessures ou dommages causés par vous ou un autre membre de votre groupe, par un tiers étranger aux prestations que nous avons organisées, ou par des événements indépendants de notre volonté décrits à l’article 12.",
+          "Si notre responsabilité est engagée pour une défaillance des prestations que nous avons organisées, elle est limitée au prix du voyage payé par le voyageur concerné, sauf lorsque la loi n’autorise pas une telle limite.",
+          "Nous ne limitons ni n’excluons notre responsabilité en cas de décès ou de dommage corporel causé par notre négligence, en cas de fraude, ni pour tout ce qui ne peut être limité ou exclu par la loi. Rien dans ces conditions n’affecte les droits impératifs dont vous bénéficiez en tant que consommateur.",
+          "Lorsqu’une convention internationale ou la loi d’un pays de destination limite la responsabilité de la compagnie aérienne, de l’hôtel, du transporteur ou d’un autre prestataire, notre responsabilité est limitée de la même manière."
+        ]
+      },
+      {
+        "heading": "12. Événements indépendants de notre volonté",
+        "paragraphs": [
+          "Ni nous ni les réceptifs locaux ne sommes responsables de l’inexécution ou du retard d’une partie de votre voyage en raison d’événements que nous n’aurions pu ni prévoir ni éviter, même avec toute la diligence raisonnable. Par exemple : guerre, troubles civils, terrorisme, catastrophes naturelles, intempéries graves, épidémies, décisions des autorités, fermetures de frontières et fermetures d’aéroports ou de routes.",
+          "Si un tel événement survient, nous vous aiderons dans toute la mesure raisonnable. Nous rembourserons les sommes payées pour les prestations qui n’ont pas pu être fournies et que nous pouvons récupérer auprès du réceptif local, déduction faite des coûts non récupérables."
+        ]
+      },
+      {
+        "heading": "13. Problèmes pendant le voyage et réclamations",
+        "paragraphs": [
+          "Si quelque chose ne va pas pendant votre voyage, prévenez votre guide et contactez-nous immédiatement afin que nous tentions d’y remédier sur place. Un problème est beaucoup plus difficile à résoudre après votre retour.",
+          "Si vous restez insatisfait, écrivez à {email} dans les 28 jours suivant la fin de votre voyage. Nous accuserons réception de votre réclamation et vous répondrons en détail dès que possible. Ce délai nous aide à mener notre enquête ; il ne vous retire aucun droit légal d’agir plus tard."
+        ]
+      },
+      {
+        "heading": "14. Utilisation de notre site",
+        "paragraphs": [
+          "Vous pouvez utiliser notre site pour préparer vos propres voyages à titre personnel. Merci de ne pas copier, extraire automatiquement ou republier nos textes, photos ou itinéraires sans notre autorisation écrite, et de ne pas tenter de perturber le site, le formulaire de demande ou l’assistant de discussion.",
+          "Les textes, le design et les itinéraires du site appartiennent à Sunday Atlas Travel ou sont utilisés avec autorisation. Les photos sont utilisées conformément à leurs licences.",
+          "Nous veillons à l’exactitude du site, mais les descriptions, prix et photos sont indicatifs et peuvent changer. Les informations qui s’appliquent à votre voyage sont celles de votre devis et de votre e-mail de confirmation.",
+          "L’assistant de discussion de notre site est automatisé. Ses réponses reposent sur les informations publiées sur le site et peuvent être incomplètes ou erronées. Elles ne constituent ni un devis, ni une réservation, ni un conseil. Pour joindre notre équipe, utilisez le formulaire de demande ou écrivez-nous par e-mail.",
+          "Notre site peut contenir des liens vers d’autres sites. Nous ne sommes pas responsables de leur contenu."
+        ]
+      },
+      {
+        "heading": "15. Données personnelles",
+        "paragraphs": [
+          "Nous utilisons vos données personnelles comme expliqué dans notre politique de confidentialité, sur sundayatlastravel.com/fr/privacy."
+        ]
+      },
+      {
+        "heading": "16. Droit applicable et litiges",
+        "paragraphs": [
+          "Ces conditions sont régies par le droit du Myanmar. Si vous êtes un consommateur, cela ne vous prive pas de la protection des règles impératives du pays où vous résidez habituellement qui s’appliqueraient autrement à vous.",
+          "Nous espérons régler tout différend directement avec vous en premier lieu. À défaut, les tribunaux du Myanmar seront compétents, mais vous pouvez aussi saisir les tribunaux du pays où vous résidez si la loi vous le permet."
+        ]
+      },
+      {
+        "heading": "17. Modification de ces conditions",
+        "paragraphs": [
+          "Nous pouvons mettre à jour ces conditions de temps à autre. La version en ligne à la date de confirmation de votre réservation s’applique à cette réservation. Nous ne modifierons pas les conditions d’une réservation confirmée sans votre accord, sauf si la loi l’exige."
+        ]
+      },
+      {
+        "heading": "18. Nous contacter",
+        "paragraphs": [
+          "Pour toute question sur ces conditions ou votre réservation, écrivez à {email}, ou utilisez le formulaire de demande de notre site."
+        ]
+      }
+    ]
+  },
+  "legal": {
+    "lastUpdated": "Dernière mise à jour : 1er nov. 2026"
+  },
+  "notFound": {
+    "metaTitle": "Page introuvable",
+    "title": "Cette page n’est pas sur la carte",
+    "body": "Le lien est peut-être ancien, ou la page est encore un brouillon. Choisissez l’accueil d’une langue et recommencez.",
+    "linkHome": "Aller à l’accueil en anglais"
+  },
+  "gallery": {
+    "title": "Photos",
+    "open": "Ouvrir la photo {n} sur {total} : {alt}",
+    "viewAll": "Voir les {count} photos",
+    "dialogLabel": "Galerie de photos",
+    "close": "Fermer",
+    "previous": "Photo précédente",
+    "next": "Photo suivante",
+    "counter": "{current} / {total}"
+  },
+  "chat": {
+    "title": "Assistant Sunday Atlas",
+    "open": "Ouvrir le chat",
+    "close": "Fermer le chat",
+    "welcome": "Bonjour. Posez une question sur une destination, un séjour ou la façon dont un devis se prépare. Nous planifions chaque voyage nous-mêmes.",
+    "suggestions": [
+      "Parle-moi du circuit 5 Stans",
+      "Comment fonctionne un devis ?",
+      "Quels séjours proposez-vous ?"
+    ],
+    "suggestionsLabel": "Questions suggérées",
+    "placeholder": "Posez une question sur une destination ou un séjour",
+    "inputLabel": "Votre message",
+    "send": "Envoyer",
+    "typing": "L’assistant écrit",
+    "counter": "{count}/500",
+    "disclaimer": "Les réponses de l’IA peuvent être inexactes. Pour un devis, utilisez le formulaire de demande.",
+    "contactLink": "formulaire de demande",
+    "errorNetwork": "Nous n’avons pas pu joindre l’assistant. Réessayez, ou utilisez le formulaire de demande.",
+    "linksLabel": "Pages liées"
+  },
+  "subscribe": {
+    "button": "S'abonner",
+    "eyebrow": "Actualités voyage gratuites",
+    "title": "Recevez nos nouveaux articles en premier",
+    "body": "Nouveaux articles de blog, nouveaux itinéraires et offres ponctuelles, directement dans votre boîte mail.",
+    "blogTitle": "Cet article vous a plu ?",
+    "blogBody": "Recevez par e-mail les prochains articles, les nouveaux itinéraires et nos offres.",
+    "emailLabel": "Adresse e-mail",
+    "placeholder": "vous@exemple.fr",
+    "submit": "S'abonner",
+    "sending": "Inscription…",
+    "success": "Vous êtes inscrit. Merci pour votre abonnement !",
+    "errorInvalid": "Veuillez saisir une adresse e-mail valide.",
+    "errorRateLimited": "Trop de tentatives. Veuillez patienter quelques minutes puis réessayer.",
+    "errorGeneric": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+    "privacyNote": "Nous utilisons votre e-mail uniquement pour ces actualités, et vous pouvez demander sa suppression à tout moment.",
+    "privacyLink": "Politique de confidentialité",
+    "close": "Fermer",
+    "honeypotLabel": "Site web"
+  },
+  "answer": {
+    "packageLine": "{duration}. Départ : {city}. Tarif : {price}.",
+    "packageLineNoCity": "{duration}. Tarif : {price}.",
+    "packageLineNoPrice": "{duration}. Départ : {city}.",
+    "packageLineNoCityNoPrice": "{duration}.",
+    "priceOnRequest": "prix sur demande",
+    "pricesChecked": "Prix vérifiés en {month}.",
+    "destinationLine": "{country} : {count} circuits, prix de départ de {min} à {max} par personne.",
+    "destinationLineFrom": "{country} : {count} circuits, à partir de {min} par personne.",
+    "destinationLineOne": "{country} : 1 circuit, à partir de {min} par personne.",
+    "destinationLineNoPrice": "{count} circuits en {country}.",
+    "destinationLineNoPriceOne": "1 circuit en {country}.",
+    "bestTime": "Meilleure période : {season}.",
+    "blogLine": "{count} circuits associés, à partir de {min} par personne.",
+    "blogLineOne": "1 circuit associé, à partir de {min} par personne.",
+    "compactTitle": "Prix par personne selon la taille du groupe",
+    "compactCaption": "USD par personne, d’après la grille tarifaire du circuit",
+    "compactNote": "Toutes les tailles de groupe et le supplément chambre individuelle figurent plus bas, dans Prix.",
+    "travellerOne": "1 voyageur",
+    "travellers": "{n} voyageurs"
+  }
+}

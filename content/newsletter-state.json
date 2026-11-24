@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "weeks": {
+    "2026-W44": {
+      "package": "azerbaijan-explorer-4-days",
+      "destination": "azerbaijan",
+      "chosenAt": "2026-11-01T16:56:31.932Z",
+      "matchedBlogDestination": true
+    },
+    "2026-W46": {
+      "package": "harbin-snow-town-changbai-mountain-7-days",
+      "destination": "china",
+      "chosenAt": "2026-11-15T17:28:57.074Z",
+      "matchedBlogDestination": true
+    }
+  },
+  "cycleUsed": [
+    "azerbaijan-explorer-4-days",
+    "harbin-snow-town-changbai-mountain-7-days"
+  ],
+  "cycle": 1
+}

@@ -1,0 +1,1165 @@
+{
+  "slug": "day-trips-from-bishkek",
+  "published": true,
+  "featured": false,
+  "category": "day-trips",
+  "destination": "kyrgyzstan",
+  "countries": [],
+  "publishedAt": "2026-11-06T11:49:27+04:00",
+  "updatedAt": "2026-11-06T11:49:27+04:00",
+  "readingTimeMinutes": 12,
+  "relatedPackages": [
+    "ala-archa-burana-tower-day-trip",
+    "five-stans-long-road-22-days",
+    "3-stans-discovery-14-days",
+    "four-stans-odyssey-18-days"
+  ],
+  "title": {
+    "en": "Day Trips from Bishkek: Ala-Archa & Burana Tower (2027)",
+    "de": "Tagesausflüge ab Bischkek: Ala-Archa & Burana Tower (2027)",
+    "fr": "Excursions d'une journée depuis Bichkek : Ala-Archa et la tour de Burana (2027)",
+    "ja": "ビシュケクからの日帰り旅行：アラアルチャとブラナの塔（2027年）",
+    "es": "Excursiones de un día desde Bishkek: Ala-Archa y Torre Burana (2027)"
+  },
+  "subtitle": {
+    "en": "Private day tours from Bishkek to alpine gorges, Silk Road towers and Issyk-Kul shores",
+    "de": "Private Tagestouren ab Bischkek zu alpinen Schluchten, Seidenstraßen-Türmen und den Ufern des Issyk-Kul",
+    "fr": "Excursions privées d'une journée depuis Bichkek vers les gorges alpines, les tours de la Route de la Soie et les rives d'Issyk-Koul",
+    "ja": "ビシュケク発のプライベート日帰りツアー。アルプスの渓谷、シルクロードの塔、イシククル湖岸へ",
+    "es": "Excursiones privadas de un día desde Bishkek a gargantas alpinas, torres de la Ruta de la Seda y costas del lago Issyk-Kul"
+  },
+  "summary": {
+    "en": "Plan day trips from Bishkek with drive times, seasons and private tour options to Ala-Archa, Burana Tower and Issyk-Kul highlights.",
+    "de": "Planen Sie Tagesausflüge ab Bischkek mit Fahrzeiten, Jahreszeiten und privaten Tour-Optionen zu Ala-Archa, dem Burana Tower und den Höhepunkten des Issyk-Kul.",
+    "fr": "Planifiez vos excursions d'une journée depuis Bichkek avec les temps de trajet, les saisons et les options de visites privées vers Ala-Archa, la tour de Burana et les points forts d'Issyk-Koul.",
+    "ja": "ビシュケクからの日帰り旅行を計画。アラアルチャ、ブーラナ塔、イシククルの見どころへの所要時間、シーズン、プライベートツアーのオプションをご紹介します。",
+    "es": "Planifica excursiones de un día desde Bishkek con tiempos de viaje, temporadas y opciones de tour privado a Ala-Archa, Torre Burana y los puntos destacados de Issyk-Kul."
+  },
+  "intro": {
+    "en": "Day trips from Bishkek run from May to October and cover Ala-Archa National Park, the 11th-century Burana Tower and Issyk-Kul sites such as Jety-Oguz Gorge and Skazka Canyon. Our private Ala-Archa and Burana Tower day trip covers about 120 km round-trip in one day. Longer multi-day tours add Karakol, Tash-Rabat and the Kegen border crossing to Almaty.",
+    "de": "Tagesausflüge ab Bischkek finden von Mai bis Oktober statt und umfassen den Ala-Archa-Nationalpark, den Burana Tower aus dem 11. Jahrhundert sowie Orte am Issyk-Kul wie die Jety-Oguz-Schlucht und den Skazka-Canyon. Unsere private Ala-Archa- und Burana-Tower-Tagestour umfasst etwa 120 km Rundfahrt an einem Tag. Längere mehrtägige Touren ergänzen Karakol, Tash-Rabat und den Grenzübergang Kegen nach Almaty.",
+    "fr": "Les excursions d'une journée depuis Bichkek se déroulent de mai à octobre et couvrent le parc national d'Ala-Archa, la tour de Burana du XIe siècle et les sites d'Issyk-Koul tels que la gorge de Jety-Oguz et le canyon de Skazka. Notre excursion privée Ala-Archa et tour de Burana couvre environ 120 km aller-retour en une journée. Les circuits plus longs sur plusieurs jours ajoutent Karakol, Tash-Rabat et le poste frontière de Kegen vers Almaty.",
+    "ja": "ビシュケクからの日帰り旅行は5月から10月まで運行し、アラアルチャ国立公園、11世紀のブーラナ塔、ジェティオグズ渓谷やスカズカ渓谷などイシククルのスポットを巡ります。当社のアラアルチャ＆ブーラナ塔日帰りツアーは、1日で約120kmの往復をカバーします。より長い多日間ツアーでは、カラコル、タシュラバト、アルマトイへのケゲン国境越えを追加します。",
+    "es": "Las excursiones de un día desde Bishkek se realizan de mayo a octubre y cubren el Parque Nacional Ala-Archa, la Torre Burana del siglo XI y sitios de Issyk-Kul como la Garganta Jety-Oguz y el Cañón Skazka. Nuestra excursión privada de Ala-Archa y Torre Burana cubre unos 120 km de ida y vuelta en un solo día. Los tours más largos de varios días añaden Karakol, Tash-Rabat y el cruce fronterizo de Kegen hacia Almaty."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793951248/sunday-atlas/blog/day-trips-from-bishkek/kyrgyzstan-commons-194889951.jpg",
+    "width": 1920,
+    "height": 1280,
+    "alt": {
+      "en": "Snow-covered mountain peak in Kyrgyzstan under a cloudy sky.",
+      "de": "Schneebedeckter Berggipfel in Kirgisistan unter einem bewölkten Himmel.",
+      "fr": "Pic montagneux enneigé au Kirghizistan sous un ciel nuageux.",
+      "ja": "雲の広がる空の下、キルギスの雪を頂いた山頂。",
+      "es": "Pico nevado en Kirguistán bajo un cielo nublado."
+    },
+    "credit": {
+      "author": "Maryliflower",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maxim_Gorky_Peak_from_South_Engilchek_Base_Camp,_Tengri-Tag_ridge,_Central_Tian_Shan,_Kyrgyzstan.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "ala-archa-burana-day-trip",
+      "placeName": {
+        "en": "Ala-Archa & Burana",
+        "de": "Ala-Archa & Burana",
+        "fr": "Ala-Archa & Burana",
+        "ja": "アラアルチャ＆ブーラナ",
+        "es": "Ala-Archa y Torre Burana"
+      },
+      "heading": {
+        "en": "Ala-Archa Gorge and Burana Tower in One Day",
+        "de": "Ala-Archa-Schlucht und Burana Tower an einem Tag",
+        "fr": "La gorge d'Ala-Archa et la tour de Burana en une journée",
+        "ja": "アラアルチャ渓谷とブーラナ塔を1日で巡る",
+        "es": "Garganta Ala-Archa y Torre Burana en un solo día"
+      },
+      "paragraphs": {
+        "en": [
+          "A private day trip from Bishkek covers about 40 km south to Ala-Archa National Park, reaching the alpine gorge in roughly 45 minutes by paved road. The guided walk follows the river valley at 2,200 m altitude, with views of snow-capped peaks that stay white through July. After the walk, the route continues east about 65 km to Tokmok, a drive of around 1 hour 15 minutes through the Chuy Valley. The 11th-century Burana Tower stands 25 m tall beside the ruins of a Silk Road caravanserai and a field of balbal stone warriors. The tour runs from May to October when mountain roads are clear and the gorge trails are free of snow.",
+          "Our 1-day private tour starts with hotel pick-up in Bishkek around 8:00 AM and returns by early evening after about 10 hours total. The English-speaking driver-guide handles park permits and the Burana Tower entrance fee, both included in the day. Lunch is taken at a local stop on the return leg, usually near Tokmok, so no extra planning is needed. The vehicle stays with the group all day, allowing flexible time at the gorge viewpoint and the tower museum. Late spring and early autumn offer comfortable walking temperatures and fewer visitors on the trails.",
+          "Ala-Archa sits at the edge of the Kyrgyz Ala-Too range, and the main trail to the waterfall viewpoint gains about 300 m over 3 km round trip, suitable for most fit walkers. Burana Tower’s minaret can be climbed via an internal staircase for panoramic views over the Chuy Valley to the distant mountains. The site includes a small museum with artifacts from the Karakhanid city of Balasagun, open daily during the May to October season. Weather in the gorge can shift quickly; a wind layer and sun protection are recommended even in summer. The drive back to Bishkek follows the same valley road, about 1 hour 15 minutes from Tokmok.",
+          "We operate this day trip as a private departure any day from May through October, matching the park’s full-access season. The itinerary covers Bishkek – Ala-Archa National Park – Tokmok – Burana Tower – Bishkek in a single loop of roughly 210 km. Bottled water is provided in the vehicle, and the guide adjusts the walking pace to the group’s preference. Travelers staying in central Bishkek hotels spend minimal time on transfers, maximizing time at the two main sites. Visa-free entry applies to many nationalities for up to 60 days, but always verify current rules before travel."
+        ],
+        "de": [
+          "Eine private Tagestour ab Bischkek führt etwa 40 km südlich zum Ala-Archa-Nationalpark und erreicht die alpine Schlucht nach rund 45 Minuten auf einer asphaltierten Straße. Der geführte Spaziergang folgt dem Flusstal auf 2.200 m Höhe mit Blick auf schneebedeckte Gipfel, die bis Juli weiß bleiben. Nach dem Spaziergang führt die Route etwa 65 km östlich nach Tokmok, eine Fahrt von rund 1 Stunde 15 Minuten durch das Chuy-Tal. Der Burana Tower aus dem 11. Jahrhundert ragt 25 m hoch neben den Ruinen einer Seidenstraßen-Karawanserei und einem Feld von Balbal-Steinkriegern auf. Die Tour läuft von Mai bis Oktober, wenn die Bergstraßen frei sind und die Schluchtpfade schneefrei sind.",
+          "Unsere private 1-Tages-Tour startet mit der Hotelabholung in Bischkek gegen 8:00 Uhr und kehrt am frühen Abend nach etwa 10 Stunden insgesamt zurück. Der englischsprachige Fahrer-Guide kümmert sich um die Parkgenehmigungen und die Eintrittsgebühr für den Burana Tower, beides im Preis enthalten. Das Mittagessen wird an einem lokalen Stopp auf dem Rückweg eingenommen, meist in der Nähe von Tokmok, sodass keine zusätzliche Planung nötig ist. Das Fahrzeug bleibt den ganzen Tag bei der Gruppe, was flexible Zeit am Aussichtspunkt der Schlucht und im Turm-Museum ermöglicht. Spätes Frühjahr und früher Herbst bieten angenehme Gehtemperaturen und weniger Besucher auf den Pfaden.",
+          "Ala-Archa liegt am Rande des Kyrgyz Ala-Too-Gebirges, und der Hauptweg zum Wasserfall-Aussichtspunkt gewinnt auf etwa 3 km Hin- und Rückweg rund 300 m an Höhe, geeignet für die meisten Geübten. Der Minarett des Burana Tower kann über eine interne Treppe bestiegen werden, um Panoramablicke über das Chuy-Tal bis zu den fernen Bergen zu genießen. Die Anlage umfasst ein kleines Museum mit Artefakten aus der karachanidischen Stadt Balasagun, das täglich während der Saison von Mai bis Oktober geöffnet ist. Das Wetter in der Schlucht kann sich schnell ändern; eine Windschicht und Sonnenschutz werden selbst im Sommer empfohlen. Die Rückfahrt nach Bischkek folgt derselben Talstraße, etwa 1 Stunde 15 Minuten von Tokmok.",
+          "Wir bieten diese Tagestour als private Abreise jeden Tag von Mai bis Oktober an, abgestimmt auf die volle Zugangszeit des Parks. Die Reiseroute umfasst Bischkek – Ala-Archa-Nationalpark – Tokmok – Burana Tower – Bischkek in einer einzigen Schleife von etwa 210 km. Abgefülltes Wasser wird im Fahrzeug bereitgestellt, und der Guide passt das Gehtempo den Wünschen der Gruppe an. Reisende, die in zentralen Hotels in Bischkek wohnen, verbringen minimale Zeit mit Transfers und maximieren die Zeit an den beiden Hauptstätten. Ein visumfreier Eintritt gilt für viele Nationalitäten für bis zu 60 Tage, überprüfen Sie jedoch stets die aktuellen Bestimmungen vor der Reise."
+        ],
+        "fr": [
+          "Une excursion privée d'une journée depuis Bichkek couvre environ 40 km vers le sud jusqu'au parc national d'Ala-Archa, atteignant la gorge alpine en environ 45 minutes par la route goudronnée. La promenade guidée suit la vallée fluviale à 2 200 m d'altitude, avec des vues sur les sommets enneigés qui restent blancs jusqu'en juillet. Après la promenade, l'itinéraire continue vers l'est sur environ 65 km jusqu'à Tokmok, un trajet d'environ 1 heure 15 minutes à travers la vallée de Chuy. La tour de Burana du XIe siècle s'élève à 25 m de haut à côté des ruines d'un caravansérail de la Route de la Soie et d'un champ de guerriers de pierre balbal. L'excursion se déroule de mai à octobre, lorsque les routes de montagne sont dégagées et les sentiers de la gorge sont libres de neige.",
+          "Ala-Archa se trouve à la frontière de la chaîne du Kyrgyz Ala-Too, et le sentier principal jusqu'au point de vue de la cascade gagne environ 300 m sur 3 km aller-retour, adapté à la plupart des marcheurs en bonne condition physique. Le minaret de la tour de Burana peut être gravi par un escalier intérieur pour des vues panoramiques sur la vallée de Chuy jusqu'aux montagnes lointaines. Le site comprend un petit musée avec des artefacts de la ville karakhanide de Balasagun, ouvert tous les jours pendant la saison de mai à octobre. Le temps dans la gorge peut changer rapidement ; une couche coupe-vent et une protection solaire sont recommandées même en été. Le trajet de retour à Bichkek suit la même route de la vallée, environ 1 heure 15 minutes depuis Tokmok.",
+          "Nous organisons cette excursion d'une journée en départ privé tous les jours de mai à octobre, en accord avec la saison d'accès complet du parc. L'itinéraire couvre Bichkek – parc national d'Ala-Archa – Tokmok – tour de Burana – Bichkek en une seule boucle d'environ 210 km. De l'eau en bouteille est fournie dans le véhicule, et le guide ajuste le rythme de marche aux préférences du groupe. Les voyageurs séjournant dans des hôtels du centre de Bichkek passent un minimum de temps sur les transferts, maximisant le temps sur les deux sites principaux. L'entrée sans visa s'applique à de nombreuses nationalités pour un maximum de 60 jours, mais vérifiez toujours les règles actuelles avant de voyager."
+        ],
+        "ja": [
+          "ビシュケク発のプライベート日帰りツアーでは、南へ約40kmのアラアルチャ国立公園まで舗装道路を約45分で移動し、アルプスの渓谷に到着します。ガイド付きウォークは標高2,200mの渓谷沿いを進み、7月まで白いままの雪を頂いた山々の眺望が楽しめます。ウォークの後、東へ約65kmのトクモクへとルートを続け、チュイ渓谷を約1時間15分でドライブします。11世紀のブーラナ塔は高さ25mで、シルクロードのキャラバンサライの遺跡とバルバル石像戦士の野原のそばにそびえ立ちます。このツアーは5月から10月まで運行し、山道が雪解けし渓谷のトレイルが雪解けする時期です。",
+          "当社の1日プライベートツアーは、ビシュケクのホテルへ午前8時頃にお迎えに上がり、約10時間の総所要時間で早い夕方までに戻ります。英語を話すドライバーガイドが公園許可証とブーラナ塔の入場料を手配し、どちらも当日の料金に含まれています。昼食は帰路の地元の停留所、通常はトクモク近くで取られるため、追加の計画は不要です。車両は1日中グループと共に行動し、渓谷の展望台と塔の博物館での柔軟な滞在時間を可能にします。晩春と初秋は快適なウォーキング気温で、トレイルの訪問者も少ない時期です。",
+          "アラアルチャはキルギス・アラ・トゥー山脈の端に位置し、滝の展望台へのメイントライルは往復3kmで約300mの標高差があり、ほとんどの健康な歩行者に適しています。ブーラナ塔のミナレットは内部の階段を登ることができ、チュイ渓谷と遠くの山々のパノラマビューが楽しめます。このサイトにはカラハン朝の都市バラサグンの遺物を展示する小さな博物館があり、5月から10月のシーズン中は毎日開館しています。渓谷の天候は急変することがあるため、夏でもウィンドレイヤーと日焼け対策が推奨されます。ビシュケクへの帰路は同じ渓谷道路を通り、トクモクから約1時間15分です。",
+          "当社はこの日帰りツアーを5月から10月までの毎日、公園のフルアクセスシーズンに合わせてプライベート出発で運行しています。行程はビシュケク－アラアルチャ国立公園－トクモク－ブーラナ塔－ビシュケクの単一ループで、約210kmをカバーします。車内にはボトルウォーターが用意され、ガイドはグループの好みに合わせて歩くペースを調整します。ビシュケク中心部のホテルに滞在する旅行者は移動時間を最小限に抑え、2つの主要スポットでの時間を最大限に活用できます。多くの国籍に対して最大60日間のビザ免除入国が適用されますが、旅行前に最新の規則を必ずご確認ください。"
+        ],
+        "es": [
+          "Una excursión privada de un día desde Bishkek recorre unos 40 km al sur hasta el Parque Nacional Ala-Archa, llegando a la garganta alpina en aproximadamente 45 minutos por carretera pavimentada. La caminata guiada sigue el valle del río a 2.200 m de altitud, con vistas de picos nevados que permanecen blancos hasta julio. Después de la caminata, la ruta continúa hacia el este unos 65 km hasta Tokmok, un trayecto de alrededor de 1 hora 15 minutos a través del valle de Chuy. La Torre Burana del siglo XI se alza a 25 m de altura junto a las ruinas de un caravasar de la Ruta de la Seda y un campo de guerreros de piedra balbal. El tour se realiza de mayo a octubre, cuando los caminos de montaña están despejados y los senderos de la garganta están libres de nieve.",
+          "Nuestro tour privado de 1 día comienza con el recogida en el hotel en Bishkek alrededor de las 8:00 AM y regresa al anochecer después de unas 10 horas en total. El conductor-guía de habla inglesa gestiona los permisos del parque y la entrada a la Torre Burana, ambos incluidos en el día. El almuerzo se toma en una parada local en el tramo de regreso, generalmente cerca de Tokmok, por lo que no se necesita planificación adicional. El vehículo permanece con el grupo todo el día, permitiendo tiempo flexible en el mirador de la garganta y el museo de la torre. A finales de primavera y principios de otoño se disfrutan de temperaturas agradables para caminar y menos visitantes en los senderos.",
+          "Ala-Archa se encuentra al borde de la cordillera Kyrgyz Ala-Too, y el sendero principal hasta el mirador de la cascada gana unos 300 m en 3 km de ida y vuelta, apto para la mayoría de los caminantes en buena forma. El minarete de la Torre Burana se puede subir mediante una escalera interna para obtener vistas panorámicas sobre el valle de Chuy hasta las montañas lejanas. El sitio incluye un pequeño museo con artefactos de la ciudad karajanida de Balasagun, abierto todos los días durante la temporada de mayo a octubre. El clima en la garganta puede cambiar rápidamente; se recomienda una capa cortavientos y protección solar incluso en verano. El regreso a Bishkek sigue el mismo camino del valle, unos 1 hora 15 minutos desde Tokmok.",
+          "Operamos esta excursión de un día como salida privada cualquier día de mayo a octubre, coincidiendo con la temporada de acceso completo al parque. El itinerario cubre Bishkek – Parque Nacional Ala-Archa – Tokmok – Torre Burana – Bishkek en un solo circuito de unos 210 km. Se proporciona agua embotellada en el vehículo, y el guía ajusta el ritmo de caminata a la preferencia del grupo. Los viajeros que se alojan en hoteles del centro de Bishkek dedican poco tiempo a los traslados, maximizando el tiempo en los dos sitios principales. La entrada sin visado se aplica a muchas nacionalidades por hasta 60 días, pero siempre verifica las reglas actuales antes de viajar."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Alpine gorge walk at 2,200 m altitude",
+          "11th-century Silk Road minaret and balbals",
+          "Private vehicle and guide for full day"
+        ],
+        "de": [
+          "Alpiner Canyon-Wanderweg auf 2.200 m Höhe",
+          "Minarett aus dem 11. Jahrhundert der Seidenstraße und Balbals",
+          "Privates Fahrzeug und Guide für den ganzen Tag"
+        ],
+        "fr": [
+          "Randonnée dans une gorge alpine à 2 200 m d'altitude",
+          "Minaret de la Route de la Soie du XIe siècle et balbals",
+          "Véhicule privé et guide pour la journée complète"
+        ],
+        "ja": [
+          "標高2,200 mのアルピニアン渓谷ウォーク",
+          "11世紀のシルクロードのミナレットとバルバル",
+          "終日プライベート車両とガイド"
+        ],
+        "es": [
+          "Paseo alpino por el desfiladero a 2.200 m de altitud",
+          "Minarete y balbals de la Ruta de la Seda del siglo 11",
+          "Vehículo privado y guía para el día completo"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Tourlänge",
+            "fr": "Durée du circuit",
+            "ja": "ツアーの長さ",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "1-day private tour",
+            "de": "1-tägige Privattour",
+            "fr": "1-day private tour",
+            "ja": "1日プライベートツアー",
+            "es": "Tour privado de 1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Operating season",
+            "de": "Reisesaison",
+            "fr": "Saison d'exploitation",
+            "ja": "運行シーズン",
+            "es": "Temporada de operación"
+          },
+          "value": {
+            "en": "May to October",
+            "de": "Mai bis Oktober",
+            "fr": "De mai à octobre",
+            "ja": "5月から10月",
+            "es": "De mayo a octubre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $130 USD / person",
+            "de": "Ab $130 USD / Person",
+            "fr": "À partir de $130 USD / personne",
+            "ja": "$130 USD〜 / 1名",
+            "es": "Desde $130 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400040/sunday-atlas/city-park-with-monument-in-the-center-6197379_u7yxjh.jpg",
+        "width": 1920,
+        "height": 1440,
+        "alt": {
+          "en": "Ala-Too Square in Bishkek, Kyrgyzstan",
+          "de": "Ala-Too-Platz in Bischkek, Kirgistan",
+          "fr": "Place Ala-Too à Bichkek, Kirghizistan",
+          "ja": "ビシュケクのアラトー広場（キルギス）",
+          "es": "Plaza Ala-Too en Biskek, Kirguistán"
+        },
+        "caption": {
+          "en": "Ala-Archa & Burana",
+          "de": "Ala-Archa & Burana",
+          "fr": "Ala-Archa & Burana",
+          "ja": "アラアルチャ＆ブーラナ",
+          "es": "Ala-Archa y Torre Burana"
+        }
+      },
+      "embeddedPackageSlug": "ala-archa-burana-tower-day-trip"
+    },
+    {
+      "id": "issyk-kul-day-trips",
+      "placeName": {
+        "en": "Issyk-Kul",
+        "de": "Issyk-Kul",
+        "fr": "Issyk-Kul",
+        "ja": "イシククル",
+        "es": "Issyk-Kul"
+      },
+      "heading": {
+        "en": "Issyk-Kul Highlights on a Multi-Day Route",
+        "de": "Issyk-Kul-Highlights auf einer mehrtägigen Route",
+        "fr": "Points forts d'Issyk-Kul sur un itinéraire de plusieurs jours",
+        "ja": "イシククルハイライツ マルチデイルート",
+        "es": "Lo mejor de Issyk-Kul en una ruta de varios días"
+      },
+      "paragraphs": {
+        "en": [
+          "Our 22-day private tour covers the Issyk-Kul highlights over several days starting from Bishkek. The route reaches Kochkor village on Day 3 after a 320 km drive, then continues to Naryn and the Tash-Rabat caravanserai on Day 4 with a 220 km round trip. Day 5 travels 230 km from Naryn to Bokonbaevo village and the Tamga yurt camp on the south shore of Issyk-Kul. Day 6 covers 90 km from Tamga through Jety-Oguz Gorge to Karakol. Day 7 crosses the Kegen land border to Almaty after a 380 km drive that includes Charyn Canyon. Late spring to early autumn offers the most reliable mountain road conditions.",
+          "In Karakol the itinerary includes the Dungan Mosque, Holy Trinity Cathedral and the Przhevalsky museum, all within walking distance of the town centre. Jety-Oguz Gorge and Skazka Canyon are visited on the same day with short drives between viewpoints along the lake's southern shore. Bokonbaevo provides a demonstration by eagle hunters and Kochkor adds a felt master class with a local artisan. The Tamga yurt camp uses twin yurts with private en-suite bathrooms. Summer months keep the high valleys and passes fully open.",
+          "The tour uses private vehicles for all road segments, with daily distances ranging from about 90 km to 380 km. Border crossing at Kegen is completed on Day 7 before the drive to Charyn Canyon and onward to Almaty. Accommodation mixes city hotels with the yurt camp at Tamga and a second yurt camp at Darwaza later in the itinerary. Meals include daily breakfasts, six lunches and three dinners, one of which is a cooking class in Bukhara. Entrance fees to monuments and museums listed in the programme are covered.",
+          "Visa requirements depend on your passport and can change, so check official government sources before booking. Our tours either start in Bishkek or enter Kyrgyzstan by land at the Kegen border. The best window for the high valleys, Naryn and Tash-Rabat is late spring through early autumn. Bishkek and the Issyk-Kul lakeshore can be visited more of the year, but mountain roads are most reliable in summer. Early check-in on Day 1 in Bishkek is included; other hotels follow standard 14:00 check-in and 12:00 check-out."
+        ],
+        "de": [
+          "Unsere 22-tägige Privattour deckt die Highlights des Issyk-Kul über mehrere Tage ab, beginnend in Bischkek. Die Route erreicht das Dorf Kochkor am Tag 3 nach einer 320 km langen Fahrt und führt weiter nach Naryn und zur Karawanserei Tash-Rabat am Tag 4 mit einer 220 km langen Rundfahrt. Am Tag 5 geht es 230 km von Naryn zum Dorf Bokonbaevo und zum Jurtencamp Tamga am Südufer des Issyk-Kul. Am Tag 6 werden 90 km von Tamga durch die Jety-Oguz-Schlucht nach Karakol zurückgelegt. Am Tag 7 überquert die Route den Landgrenzübergang Kegen nach Almaty nach einer 380 km langen Fahrt, die den Charyn-Canyon einschließt. Spätes Frühjahr bis Frühherbst bieten die zuverlässigsten Bergstraßenverhältnisse.",
+          "In Karakol umfasst die Reiseroute die Dungan-Moschee, die Kathedrale Heilige Dreifaltigkeit und das Przhevalsky-Museum, alle in Gehweite vom Stadtzentrum entfernt. Die Jety-Oguz-Schlucht und der Skazka-Canyon werden am selben Tag besucht, mit kurzen Fahrten zwischen Aussichtspunkten am Südufer des Sees. Bokonbaevo bietet eine Vorführung von Adlerjägern, und Kochkor fügt einen Filzkurs mit einem lokalen Kunsthandwerker hinzu. Das Jurtencamp Tamga nutzt Zwillingsjurten mit eigenen Badezimmern. Die Sommermonate halten die hohen Täler und Pässe vollständig geöffnet.",
+          "Die Tour nutzt private Fahrzeuge für alle Straßenabschnitte, mit Tagesdistanzen von etwa 90 km bis 380 km. Die Grenzüberquerung bei Kegen wird am Tag 7 abgeschlossen, bevor die Fahrt zum Charyn-Canyon und weiter nach Almaty erfolgt. Die Unterkünfte mischen Stadthotels mit dem Jurtencamp in Tamga und einem zweiten Jurtencamp in Darwaza später in der Reiseroute. Die Mahlzeiten umfassen tägliche Frühstücke, sechs Mittagessen und drei Abendessen, von denen eines ein Kochkurs in Buchara ist. Eintrittsgelder zu den im Programm aufgeführten Denkmälern und Museen sind enthalten.",
+          "Die Visabestimmungen hängen von Ihrem Reisepass ab und können sich ändern, daher prüfen Sie vor der Buchung offizielle Regierungsquellen. Unsere Touren starten entweder in Bischkek oder reisen über den Landgrenzübergang Kegen nach Kirgisistan ein. Der beste Zeitraum für die hohen Täler, Naryn und Tash-Rabat ist von spätem Frühjahr bis Frühherbst. Bischkek und das Issyk-Kul-Ufer können das ganze Jahr über besucht werden, aber Bergstraßen sind im Sommer am zuverlässigsten. Der frühe Check-in am Tag 1 in Bischkek ist inbegriffen; andere Hotels folgen dem üblichen Check-in um 14:00 Uhr und Check-out um 12:00 Uhr."
+        ],
+        "fr": [
+          "Notre circuit privé de 22 jours couvre les points forts d'Issyk-Kul sur plusieurs jours au départ de Bichkek. L'itinéraire atteint le village de Kochkor le jour 3 après un trajet de 320 km, puis se poursuit vers Naryn et le caravansérail de Tash-Rabat le jour 4 avec une boucle de 220 km. Le jour 5, le voyage parcourt 230 km de Naryn au village de Bokonbaevo et au camp de yourtes de Tamga sur la rive sud d'Issyk-Kul. Le jour 6, le circuit couvre 90 km de Tamga à travers la gorge de Jety-Oguz jusqu'à Karakol. Le jour 7, le passage de la frontière terrestre de Kegen mène à Almaty après un trajet de 380 km incluant le canyon de Charyn. De la fin du printemps au début de l'automne, les conditions des routes de montagne sont les plus fiables.",
+          "À Karakol, l'itinéraire inclut la mosquée Dungan, la cathédrale de la Sainte-Trinité et le musée Przhevalsky, tous accessibles à pied depuis le centre-ville. La gorge de Jety-Oguz et le canyon de Skazka sont visités le même jour avec de courts trajets entre les points de vue le long de la rive sud du lac. Bokonbaevo propose une démonstration de chasseurs d'aigles et Kochkor ajoute un atelier de feutre avec un artisan local. Le camp de yourtes de Tamga utilise des yourtes doubles avec salles de bains privatives. Les mois d'été maintiennent les vallées et cols de haute montagne entièrement ouverts.",
+          "Le circuit utilise des véhicules privés pour tous les segments routiers, avec des distances quotidiennes allant d'environ 90 km à 380 km. Le passage de la frontière à Kegen est effectué le jour 7 avant le trajet vers le canyon de Charyn et la poursuite vers Almaty. L'hébergement mélange hôtels de ville, camp de yourtes à Tamga et un second camp de yourtes à Darwaza plus tard dans l'itinéraire. Les repas incluent les petits-déjeuners quotidiens, six déjeuners et trois dîners, dont un cours de cuisine à Boukhara. Les droits d'entrée aux monuments et musées listés dans le programme sont couverts.",
+          "Les exigences de visa dépendent de votre passeport et peuvent évoluer, alors vérifiez les sources officielles gouvernementales avant de réserver. Nos circuits commencent soit à Bichkek, soit entrent au Kirghizistan par voie terrestre à la frontière de Kegen. La meilleure période pour les vallées de haute montagne, Naryn et Tash-Rabat s'étend de la fin du printemps au début de l'automne. Bichkek et la rive du lac Issyk-Kul peuvent être visités une plus grande partie de l'année, mais les routes de montagne sont les plus fiables en été. L'enregistrement anticipé le jour 1 à Bichkek est inclus ; les autres hôtels suivent l'enregistrement standard à 14:00 et le départ à 12:00."
+        ],
+        "ja": [
+          "当社の22日間プライベートツアーでは、ビシュケクを出発して数日間にわたりイシククルのハイライトを巡ります。3日目には320 kmのドライブの後、コチコル村に到着し、4日目にはナリンとタシュ・ラバトキャラバンサライへ220 kmの往復を続けます。5日目はナリンからボコンバエボ村とイシククル南岸のタムガユルトキャンプまで230 kmを移動します。6日目はタムガからジェティ・オグズ渓谷を経てカラコルまで90 kmを走行します。7日目はケゲンの陸路国境を越えてアルマトイへ向かい、途中チャリンキャニオンを含む380 kmのドライブとなります。晩春から初秋にかけて、山岳道路のコンディションが最も安定しています。",
+          "カラコルでは、ダンガンモスク、ホリートリニティ大聖堂、プシェワリスキー博物館を訪れ、いずれも町の中心部から徒歩圏内です。ジェティ・オグズ渓谷とスカズカキャニオンは同じ日に訪れ、湖の南岸にある展望台間を短いドライブで移動します。ボコンバエボでは鷹狩りのデモンストレーションが、コチコルでは地元の職人によるフェルトマスタークラスが行われます。タムガのユルトキャンプでは、専用バスルーム付きのツインユルトを使用します。夏の間、高い谷や峠は完全に開通しています。",
+          "このツアーでは、すべての道路区間でプライベート車両を使用し、1日の走行距離は約90 kmから380 kmまでさまざまです。ケゲンの国境越えは7日目に完了し、その後チャリンキャニオンへ向かい、さらにアルマトイへと続きます。宿泊施設は市内のホテルとタムガのユルトキャンプ、そして行程の後半にあるダルワザのユルトキャンプを組み合わせています。食事は毎日朝食、6回の昼食、3回の夕食が含まれ、そのうち1回はブハラでの料理教室です。プログラムに記載された記念碑や博物館の入場料は含まれています。",
+          "ビザ要件はパスポートによって異なり変更される場合があるため、予約前に公式の政府情報源をご確認ください。当社のツアーはビシュケクを出発するか、ケゲン国境から陸路でキルギスに入国します。高い谷、ナリン、タシュ・ラバトを訪れるのに最適な時期は晩春から初秋です。ビシュケクとイシククル湖岸は一年を通じて訪れることができますが、山岳道路は夏に最も安定しています。1日目にビシュケクでの早めのチェックインが含まれており、他のホテルは標準の14:00チェックインと12:00チェックアウトとなります。"
+        ],
+        "es": [
+          "Nuestro tour privado de 22 días cubre los puntos destacados de Issyk-Kul durante varios días, partiendo de Bishkek. La ruta llega a la aldea de Kochkor el Día 3 tras un trayecto de 320 km, y continúa hacia Naryn y el caravasar de Tash-Rabat el Día 4 con un recorrido de ida y vuelta de 220 km. El Día 5 se recorren 230 km desde Naryn hasta la aldea de Bokonbaevo y el campamento de yurtas de Tamga, en la orilla sur del lago Issyk-Kul. El Día 6 se cubren 90 km desde Tamga a través del desfiladero de Jety-Oguz hasta Karakol. El Día 7 se cruza el paso fronterizo terrestre de Kegen hacia Almaty después de un trayecto de 380 km que incluye el Cañón de Charyn. De finales de primavera a principios de otoño se ofrecen las condiciones más fiables en las carreteras de montaña.",
+          "En Karakol, el itinerario incluye la Mezquita Dungan, la Catedral de la Santísima Trinidad y el museo de Przhevalsky, todos a poca distancia del centro de la ciudad. El desfiladero de Jety-Oguz y el Cañón Skazka se visitan el mismo día con trayectos cortos entre miradores a lo largo de la orilla sur del lago. Bokonbaevo ofrece una demostración de cazadores con águilas y Kochkor añade una clase de fieltro con una artesana local. El campamento de yurtas de Tamga utiliza yurtas dobles con baño privado en suite. Los meses de verano mantienen los valles altos y los pasos de montaña completamente abiertos.",
+          "El tour utiliza vehículos privados para todos los tramos por carretera, con distancias diarias que varían entre unos 90 km y 380 km. El cruce fronterizo en Kegen se completa el Día 7 antes del trayecto al Cañón de Charyn y el viaje posterior a Almaty. El alojamiento combina hoteles urbanos con el campamento de yurtas en Tamga y un segundo campamento de yurtas en Darwaza más adelante en el itinerario. Las comidas incluyen desayunos diarios, seis almuerzos y tres cenas, una de las cuales es una clase de cocina en Bukhara. Las entradas a los monumentos y museos incluidos en el programa están cubiertas.",
+          "Los requisitos de visado dependen de tu pasaporte y pueden cambiar, así que consulta las fuentes oficiales del gobierno antes de reservar. Nuestros tours comienzan en Bishkek o ingresan a Kirguistán por tierra en el paso fronterizo de Kegen. La mejor época para los valles altos, Naryn y Tash-Rabat es de finales de primavera a principios de otoño. Bishkek y la orilla del lago Issyk-Kul se pueden visitar durante gran parte del año, pero las carreteras de montaña son más fiables en verano. El check-in temprano el Día 1 en Bishkek está incluido; los demás hoteles siguen el horario estándar de entrada a las 14:00 y salida a las 12:00."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Jety-Oguz Gorge and Skazka Canyon on Issyk-Kul",
+          "Eagle hunters in Bokonbaevo and felt class in Kochkor",
+          "Tash-Rabat caravanserai and yurt camp at Tamga"
+        ],
+        "de": [
+          "Jety-Oguz-Schlucht und Skazka-Canyon am Issyk-Kul",
+          "Adlerjäger in Bokonbaevo und Filzkurs in Kochkor",
+          "Karawanserei Tash-Rabat und Jurtencamp in Tamga"
+        ],
+        "fr": [
+          "Gorge de Jety-Oguz et canyon de Skazka sur Issyk-Kul",
+          "Chasseurs d'aigles à Bokonbaevo et atelier de feutre à Kochkor",
+          "Caravansérail de Tash-Rabat et camp de yourtes à Tamga"
+        ],
+        "ja": [
+          "イシククルのジェティ・オグズ渓谷とスカズカキャニオン",
+          "ボコンバエボの鷹狩りとコチコルのフェルトクラス",
+          "タシュ・ラバトキャラバンサライとタムガのユルトキャンプ"
+        ],
+        "es": [
+          "Desfiladero de Jety-Oguz y Cañón Skazka en Issyk-Kul",
+          "Cazadores con águilas en Bokonbaevo y clase de fieltro en Kochkor",
+          "Caravasar de Tash-Rabat y campamento de yurtas en Tamga"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Tourlänge",
+            "fr": "Durée du circuit",
+            "ja": "ツアーの長さ",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "22 days / 21 nights private",
+            "de": "22 Tage / 21 Nächte privat",
+            "fr": "22 jours / 21 nuits privé",
+            "ja": "22日間 / 21泊 プライベート",
+            "es": "22 días / 21 noches privado"
+          }
+        },
+        {
+          "label": {
+            "en": "Key drive segments",
+            "de": "Wichtige Fahrstrecken",
+            "fr": "Segments de route principaux",
+            "ja": "主要なドライブ区間",
+            "es": "Tramos clave en carretera"
+          },
+          "value": {
+            "en": "320 km, 220 km, 230 km, 90 km, 380 km",
+            "de": "320 km, 220 km, 230 km, 90 km, 380 km",
+            "fr": "320 km, 220 km, 230 km, 90 km, 380 km",
+            "ja": "320 km、220 km、230 km、90 km、380 km",
+            "es": "320 km, 220 km, 230 km, 90 km, 380 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days / 21 Nights",
+            "de": "22 Tage / 21 Nächte",
+            "fr": "22 jours / 21 nuits",
+            "ja": "22日間 / 21泊",
+            "es": "22 días / 21 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "Ab $3490 USD / Person",
+            "fr": "À partir de $3490 USD / personne",
+            "ja": "$3490 USD〜 / 1名",
+            "es": "Desde $3490 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793951258/sunday-atlas/blog/day-trips-from-bishkek/issyk-kul-commons-143368663.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "A white boat on Issyk-Kul lake with mountains and buildings on the shore.",
+          "de": "Ein weißes Boot auf dem Issyk-Kul-See mit Bergen und Gebäuden am Ufer.",
+          "fr": "Un bateau blanc sur le lac Issyk-Kul avec des montagnes et des bâtiments sur la rive.",
+          "ja": "イシククル湖に浮かぶ白いボート。湖岸には山々と建物が広がる。",
+          "es": "Un bote blanco en el lago Issyk-Kul con montañas y edificios en la orilla."
+        },
+        "credit": {
+          "author": "Bgag",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Issyk-Kul,_Kyrgyzstan.jpg",
+          "provider": "commons",
+          "required": false
+        },
+        "caption": {
+          "en": "Issyk-Kul",
+          "de": "Issyk-Kul",
+          "fr": "Issyk-Kul",
+          "ja": "イシククル",
+          "es": "Issyk-Kul"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    },
+    {
+      "id": "karakol-and-tash-rabat",
+      "placeName": {
+        "en": "Karakol & Naryn",
+        "de": "Karakol & Naryn",
+        "fr": "Karakol & Naryn",
+        "ja": "カラコル＆ナリン",
+        "es": "Karakol y Naryn"
+      },
+      "heading": {
+        "en": "Karakol, Tash-Rabat and the Naryn Valley",
+        "de": "Karakol, Tash-Rabat und das Naryn-Tal",
+        "fr": "Karakol, Tash-Rabat et la vallée de Naryn",
+        "ja": "カラコル、タシュラバト、ナリン渓谷",
+        "es": "Karakol, Tash-Rabat y el valle de Naryn"
+      },
+      "paragraphs": {
+        "en": [
+          "The route from Bishkek to Karakol covers about 380 km and takes roughly 6 to 7 hours of driving on paved mountain roads, passing through the Boom Gorge and along the southern shore of Issyk-Kul. Our 22-day Long Road tour uses Day 3 for the 320 km drive from Bishkek to Naryn via Kochkor village, then Day 4 for the 220 km round trip from Naryn to the Tash-Rabat caravanserai at 3,200 m altitude. Day 5 continues 230 km from Naryn to Tamga on Issyk-Kul via Bokonbaevo, and Day 6 covers the final 90 km to Karakol through Jety-Oguz Gorge. These high valleys are reliably open from June through September, while spring snow can linger on the passes into May.",
+          "Karakol itself sits at about 1,750 m and holds the Dungan Mosque built without nails, the wooden Holy Trinity Cathedral and the Przhevalsky museum near the lake shore. From Karakol the tour crosses the Kegen land border into Kazakhstan on Day 7, a 380 km drive that includes Charyn Canyon before reaching Almaty. The Naryn valley section requires a vehicle with good ground clearance because the road to Tash-Rabat climbs above 3,000 m and can be rough after rain. Late spring to early autumn is the usual season for the high valleys, while Bishkek and Issyk-Kul can be visited more of the year.",
+          "On Day 3 the itinerary includes a felt master class in Kochkor village, and Day 5 features eagle hunters in Bokonbaevo before the yurt camp at Tamga. The Tash-Rabat caravanserai is a stone-built Silk Road shelter dating to the 15th century, set in a side valley off the main Naryn–Torugart road. Travelers should carry warm layers even in summer because night temperatures at 3,200 m often drop below 10 °C. The Kegen border crossing operates during daylight hours and can add one to two hours to the Day 7 drive depending on queue length.",
+          "We run the Long Road Through the 5 Stans as a private 22-day tour that starts with arrival in Bishkek on Day 1 and finishes with departure from Ashgabat on Day 22. The Kyrgyzstan segment covers Days 1 through 7 and includes early check-in in Bishkek, a yurt camp at Tamga with private en-suite bathrooms, and a Kok-Boru horseback game demonstration. Entry rules depend on your passport and can change, so please check the official government sources before you book. Our tours cross into Kyrgyzstan by land at Kegen or start in Bishkek."
+        ],
+        "de": [
+          "Die Strecke von Bischkek nach Karakol umfasst etwa 380 km und dauert rund 6 bis 7 Stunden Fahrt auf asphaltierten Bergstraßen, vorbei an der Boom-Schlucht und entlang des Südufers des Issyk-Kul. Unsere 22-tägige Long Road Tour nutzt Tag 3 für die 320 km lange Fahrt von Bischkek nach Naryn durch das Dorf Kochkor, dann Tag 4 für den 220 km langen Rundweg von Naryn zur Karawanserei Tash-Rabat auf 3.200 m Höhe. Tag 5 führt weiter 230 km von Naryn nach Tamga am Issyk-Kul über Bokonbaevo, und Tag 6 legt die letzten 90 km nach Karakol durch die Schlucht Jety-Oguz zurück. Diese Hochtäler sind von Juni bis September zuverlässig geöffnet, während Frühjahrsschnee die Pässe bis in den Mai hinein blockieren kann.",
+          "Karakol selbst liegt auf etwa 1.750 m und beherbergt die ohne Nägel erbaute Dungan-Moschee, die hölzerne Kathedrale Heilige Dreifaltigkeit und das Przhevalsky-Museum am Seeufer. Von Karakol aus überquert die Tour am Tag 7 die Landgrenze Kegen nach Kasachstan, eine 380 km lange Fahrt, die den Charyn-Canyon umfasst, bevor sie Almaty erreicht. Der Abschnitt im Naryn-Tal erfordert ein Fahrzeug mit guter Bodenfreiheit, da die Straße nach Tash-Rabat über 3.000 m ansteigt und nach Regen uneben sein kann. Spätes Frühjahr bis Frühherbst ist die übliche Saison für die Hochtäler, während Bischkek und der Issyk-Kul das ganze Jahr über besucht werden können.",
+          "Am Tag 3 beinhaltet die Reiseroute einen Filz-Meisterkurs im Dorf Kochkor, und Tag 5 bietet Adlerjäger in Bokonbaevo vor dem Jurtenlager in Tamga. Die Karawanserei Tash-Rabat ist ein steinernes Silk-Road-Refugium aus dem 15. Jahrhundert, das in einem Seitental der Hauptstraße Naryn–Torugart liegt. Reisende sollten auch im Sommer warme Kleidung mitführen, da die Nachttemperaturen auf 3.200 m oft unter 10 °C fallen. Die Grenzübergangsstelle Kegen ist während der Tageslichtstunden geöffnet und kann die Fahrt am Tag 7 je nach Warteschlange um ein bis zwei Stunden verlängern.",
+          "Wir führen die Long Road Through the 5 Stans als private 22-tägige Tour durch, die mit der Ankunft in Bischkek am Tag 1 beginnt und mit der Abreise aus Aschgabat am Tag 22 endet. Das Kirgisistan-Segment umfasst die Tage 1 bis 7 und beinhaltet den frühen Check-in in Bischkek, ein Jurtenlager in Tamga mit privaten Badezimmern und eine Kok-Boru-Pferdereitervorführung. Die Einreisebestimmungen hängen von Ihrem Pass ab und können sich ändern, daher überprüfen Sie bitte die offiziellen Regierungsquellen, bevor Sie buchen. Unsere Touren überqueren die Grenze nach Kirgisistan über Land bei Kegen oder starten in Bischkek."
+        ],
+        "fr": [
+          "L'itinéraire de Bichkek à Karakol couvre environ 380 km et prend environ 6 à 7 heures de route sur des routes de montagne goudronnées, en traversant le canyon de Boom et en longeant la rive sud du lac Issyk-Koul. Notre circuit Long Road de 22 jours consacre le jour 3 au trajet de 320 km de Bichkek à Naryn via le village de Kochkor, puis le jour 4 à l'aller-retour de 220 km de Naryn au caravansérail de Tash-Rabat à 3 200 m d'altitude. Le jour 5 se poursuit sur 230 km de Naryn à Tamga sur l'Issyk-Koul via Bokonbaevo, et le jour 6 couvre les derniers 90 km jusqu'à Karakol à travers la gorge de Jety-Oguz. Ces hautes vallées sont généralement ouvertes de juin à septembre, tandis que la neige printanière peut persister sur les cols jusqu'en mai.",
+          "Karakol elle-même se situe à environ 1 750 m et abrite la mosquée doungane construite sans clous, la cathédrale en bois de la Sainte-Trinité et le musée Przhevalsky près du rivage du lac. Depuis Karakol, le circuit franchit la frontière terrestre de Kegen vers le Kazakhstan le jour 7, un trajet de 380 km qui inclut le canyon de Charyn avant d'atteindre Almaty. La section de la vallée de Naryn nécessite un véhicule avec une bonne garde au sol car la route menant à Tash-Rabat monte au-dessus de 3 000 m et peut être difficile après la pluie. La fin du printemps au début de l'automne est la saison habituelle pour les hautes vallées, tandis que Bichkek et l'Issyk-Koul peuvent être visités une plus grande partie de l'année.",
+          "Le jour 3, l'itinéraire inclut un atelier de feutre dans le village de Kochkor, et le jour 5 met à l'honneur les chasseurs d'aigles à Bokonbaevo avant le camp de yourtes à Tamga. Le caravansérail de Tash-Rabat est un abri de la Route de la Soie en pierre datant du 15e siècle, installé dans une vallée latérale de la route principale Naryn–Torugart. Les voyageurs doivent emporter des vêtements chauds même en été car les températures nocturnes à 3 200 m descendent souvent en dessous de 10 °C. Le poste frontière de Kegen fonctionne pendant les heures de jour et peut ajouter une à deux heures au trajet du jour 7 selon la longueur de la file d'attente.",
+          "Nous organisons le Long Road Through the 5 Stans comme un circuit privé de 22 jours qui commence par l'arrivée à Bichkek le jour 1 et se termine par le départ d'Achgabat le jour 22. Le segment kirghize couvre les jours 1 à 7 et inclut un enregistrement anticipé à Bichkek, un camp de yourtes à Tamga avec salles de bains privatives, et une démonstration de jeu équestre de Kok-Boru. Les règles d'entrée dépendent de votre passeport et peuvent évoluer, veuillez donc consulter les sources officielles du gouvernement avant de réserver. Nos circuits entrent au Kirghizistan par voie terrestre à Kegen ou commencent à Bichkek."
+        ],
+        "ja": [
+          "ビシュケクからカラコルまでのルートは約380キロメートル、舗装された山岳道路を約6〜7時間かけて走行し、ブーム峡谷を通りイシククル湖の南岸を進みます。当社の22日間「ロングロード」ツアーでは、3日目にコチコル村経由でビシュケクからナリンまでの320キロメートルを移動し、4日目にナリンから標高3,200メートルのタシュラバトキャラバンサライまでの220キロメートルの往復を行います。5日目はナリンからボコンバエフ経由でイシククル湖畔のタムガまで230キロメートル、6日目はジェティオグズ峡谷を通ってカラコルまでの最終90キロメートルを移動します。これらの高い渓谷は6月から9月まで安定して通行可能ですが、春の雪は5月まで峠に残ることがあります。",
+          "カラコル自体は標高約1,750メートルに位置し、釘を使わずに建てられたドゥンガンモスク、木造の聖三一大聖堂、湖岸近くのプジェワリスキー博物館があります。カラコルからは7日目にケゲン陸路国境を越えてカザフスタンのアルマトイへ向かい、途中でチャリンキャニオンを訪れます。この380キロメートルのドライブには、タシュラバトへの道が標高3,000メートル以上に達し、雨後は道が荒れることがあるため、地上高の高い車両が必要です。高い渓谷の通常のシーズンは晩春から初秋までですが、ビシュケクとイシククル湖は一年の大部分を通じて訪問可能です。",
+          "3日目にはコチコル村でのフェルトマスタークラスが含まれ、5日目にはボコンバエフでの鷹狩りデモンストレーションの後、タムガのユルトキャンプに宿泊します。タシュラバトキャラバンサライは15世紀に建てられた石造りのシルクロードの避難所で、メインのナリン－トゥルガルト道路から外れた側谷に位置します。標高3,200メートルでは夏でも夜間の気温が10度を下回ることが多いため、暖かい重ね着をご持参ください。ケゲン国境通過は日中のみ行われ、Day 7のドライブに待ち時間に応じて1〜2時間追加される場合があります。",
+          "当社は「ロングロード スルー ザ 5 スタンズ」をプライベート22日間ツアーとして運行しており、1日目にビシュケク到着、22日目にアシガバト出発で締めくくります。キルギス区間は1日目から7日目までで、ビシュケクでの早期チェックイン、専用バスルーム付きのタムガユルトキャンプ、コクボル乗馬デモンストレーションが含まれます。入国規則はパスポートによって異なり変更される場合があるため、予約前に公式政府情報源をご確認ください。当社のツアーはケゲンで陸路キルギスに入国するか、ビシュケクから開始します。"
+        ],
+        "es": [
+          "La ruta de Bishkek a Karakol recorre unos 380 km y lleva aproximadamente 6 a 7 horas de conducción por carreteras de montaña pavimentadas, pasando por el desfiladero de Boom y a lo largo de la orilla sur del lago Issyk-Kul. Nuestro recorrido Long Road de 22 días utiliza el Día 3 para el trayecto de 320 km de Bishkek a Naryn a través del pueblo de Kochkor, luego el Día 4 para el recorrido de ida y vuelta de 220 km de Naryn al caravasar de Tash-Rabat a 3.200 m de altitud. El Día 5 continúa 230 km de Naryn a Tamga en Issyk-Kul a través de Bokonbaevo, y el Día 6 cubre los últimos 90 km hasta Karakol a través del desfiladero de Jety-Oguz. Estos valles de gran altitud están abiertos de forma fiable de junio a septiembre, mientras que la nieve primaveral puede permanecer en los pasos hasta mayo.",
+          "Karakol se encuentra a unos 1.750 m y alberga la mezquita dungan construida sin clavos, la catedral de madera de la Santísima Trinidad y el museo Przhevalsky cerca de la orilla del lago. Desde Karakol, el recorrido cruza el paso fronterizo terrestre de Kegen hacia Kazajistán el Día 7, un trayecto de 380 km que incluye el cañón de Charyn antes de llegar a Almaty. La sección del valle de Naryn requiere un vehículo con buena altura libre al suelo porque el camino a Tash-Rabat asciende por encima de los 3.000 m y puede estar en mal estado después de la lluvia. De finales de primavera a principios de otoño es la temporada habitual para los valles de gran altitud, mientras que Bishkek e Issyk-Kul se pueden visitar durante gran parte del año.",
+          "El Día 3, el itinerario incluye una clase magistral de fieltro en el pueblo de Kochkor, y el Día 5 presenta cazadores de águilas en Bokonbaevo antes del campamento de yurtas en Tamga. El caravasar de Tash-Rabat es un refugio de piedra de la Ruta de la Seda que data del siglo XV, ubicado en un valle lateral de la carretera principal Naryn–Torugart. Los viajeros deben llevar capas de abrigo incluso en verano porque las temperaturas nocturnas a 3.200 m suelen bajar de los 10 °C. El cruce fronterizo de Kegen opera durante el día y puede añadir una o dos horas al trayecto del Día 7 según la longitud de la cola.",
+          "Operamos el Long Road Through the 5 Stans como un recorrido privado de 22 días que comienza con la llegada a Bishkek el Día 1 y termina con la salida de Ashgabat el Día 22. El segmento de Kirguistán cubre los Días 1 al 7 e incluye el check-in temprano en Bishkek, un campamento de yurtas en Tamba con baños privados en suite y una demostración del juego ecuestre Kok-Boru. Las reglas de entrada dependen de tu pasaporte y pueden cambiar, así que consulta las fuentes oficiales del gobierno antes de reservar. Nuestros recorridos cruzan a Kirguistán por tierra en Kegen o comienzan en Bishkek."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Tash-Rabat caravanserai at 3,200 m",
+          "Dungan Mosque and Przhevalsky museum in Karakol",
+          "Felt master class in Kochkor and eagle hunters in Bokonbaevo"
+        ],
+        "de": [
+          "Karawanserei Tash-Rabat auf 3.200 m",
+          "Dungan-Moschee und Przhevalsky-Museum in Karakol",
+          "Filz-Meisterkurs in Kochkor und Adlerjäger in Bokonbaevo"
+        ],
+        "fr": [
+          "Caravansérail de Tash-Rabat à 3 200 m",
+          "Mosquée doungane et musée Przhevalsky à Karakol",
+          "Atelier de feutre à Kochkor et chasseurs d'aigles à Bokonbaevo"
+        ],
+        "ja": [
+          "標高3,200メートルのタシュラバトキャラバンサライ",
+          "カラコルのドゥンガンモスクとプジェワリスキー博物館",
+          "コチコルのフェルトマスタークラスとボコンバエフの鷹狩り"
+        ],
+        "es": [
+          "Caravasar de Tash-Rabat a 3.200 m",
+          "Mezquita dungan y museo Przhevalsky en Karakol",
+          "Clase magistral de fieltro en Kochkor y cazadores de águilas en Bokonbaevo"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Bishkek to Karakol distance",
+            "de": "Entfernung Bischkek nach Karakol",
+            "fr": "Distance de Bichkek à Karakol",
+            "ja": "ビシュケクからカラコルまでの距離",
+            "es": "Distancia de Bishkek a Karakol"
+          },
+          "value": {
+            "en": "about 380 km",
+            "de": "etwa 380 km",
+            "fr": "environ 380 km",
+            "ja": "約380キロメートル",
+            "es": "unos 380 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Best months for high valleys",
+            "de": "Beste Monate für Hochtäler",
+            "fr": "Meilleurs mois pour les hautes vallées",
+            "ja": "高い渓谷のベストシーズン",
+            "es": "Meses ideales para los valles de gran altitud"
+          },
+          "value": {
+            "en": "June to September",
+            "de": "Juni bis September",
+            "fr": "Juin à septembre",
+            "ja": "6月から9月",
+            "es": "De junio a septiembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days / 21 Nights",
+            "de": "22 Tage / 21 Nächte",
+            "fr": "22 jours / 21 nuits",
+            "ja": "22日間 / 21泊",
+            "es": "22 días / 21 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "Ab $3490 USD / Person",
+            "fr": "À partir de $3490 USD / personne",
+            "ja": "$3490 USD〜 / 1名",
+            "es": "Desde $3490 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400025/sunday-atlas/tash-rabat-in-kyrgyzstan-17533368_xht6ol.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Tash-Rabat, the 15th-century stone caravanserai in Naryn region, Kyrgyzstan",
+          "de": "Tasch-Rabat, die steinerne Karawanserei aus dem 15. Jahrhundert in der Region Naryn, Kirgistan",
+          "fr": "Tash-Rabat, caravansérail de pierre du XVe siècle, région de Naryn, Kirghizistan",
+          "ja": "ナリン州にある15世紀の石造りの隊商宿タシュ・ラバト（キルギス）",
+          "es": "Tash-Rabat, caravasar de piedra del siglo XV en la región de Naryn, Kirguistán"
+        },
+        "caption": {
+          "en": "Karakol & Naryn",
+          "de": "Karakol & Naryn",
+          "fr": "Karakol & Naryn",
+          "ja": "カラコル＆ナリン",
+          "es": "Karakol y Naryn"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    },
+    {
+      "id": "cross-border-to-almaty",
+      "placeName": {
+        "en": "Kegen Border",
+        "de": "Grenze Kegen",
+        "fr": "Frontière de Kegen",
+        "ja": "ケゲン国境",
+        "es": "Frontera de Kegen"
+      },
+      "heading": {
+        "en": "Crossing to Almaty via Kegen Border",
+        "de": "Überquerung nach Almaty über die Grenze Kegen",
+        "fr": "Traversée vers Almaty via la frontière de Kegen",
+        "ja": "ケゲン国境を経由してアルマトイへ",
+        "es": "Cruce a Almaty por la frontera de Kegen"
+      },
+      "paragraphs": {
+        "en": [
+          "Our 14-day 3 Stans Discovery tour crosses from Kyrgyzstan to Kazakhstan at the Kegen land border on Day 3 after about 250 km of road travel from Kolsay Lakes to Karakol. The border is typically open from late spring to early autumn when mountain passes are clear of snow. Drivers handle the formalities while you wait in the vehicle, and the process usually takes under an hour during the main season. From the border post the route continues toward Almaty with stops at Charyn Canyon and Kolsay Lakes on the Kazakhstan side. Late May through September offers the most reliable conditions for this crossing.",
+          "On Day 2 the tour covers roughly 440 km from Almaty to Charyn Canyon and then to Kolsay Lakes, a full day of driving with scenic breaks. Charyn Canyon stretches about 150 km along the Charyn River and reveals layered sedimentary cliffs that are often compared to a smaller Grand Canyon. Kolsay Lakes sit at around 1,800 meters altitude and consist of three alpine lakes linked by forest trails. The night at Kolsay is spent in a guesthouse with twin rooms, preparing you for the border crossing the next morning. Road conditions are generally good on paved sections but can be rough near the canyon rim.",
+          "After crossing at Kegen on Day 3 the itinerary continues toward Karakol on the eastern shore of Issyk-Kul, adding another 250 km of travel that day. The drive from the border to Karakol follows the southern lake shore through semi-desert steppe before climbing into the Terskey Alatau foothills. Karakol sits at about 1,750 meters and serves as the base for visits to Jety-Oguz Gorge and the Dungan Mosque on Day 4. Summer months keep the high valleys accessible and the lake water warm enough for a quick swim. Border hours can shift, so the guide confirms the latest schedule the evening before.",
+          "The full Almaty-to-Bishkek corridor via Kegen spans roughly 690 km across three tour days and connects the Kazakh canyons with Kyrgyz mountain lakes and Silk Road towns. Our private vehicles carry up to six guests with a driver and an English-speaking guide who manages border paperwork and timing. Late spring to early autumn remains the recommended window because snow can close the Kegen pass as early as October. Travelers should carry passports, any required visas and a printed copy of the tour confirmation for border officials. The route avoids the busier Korday crossing and adds Charyn Canyon and Kolsay Lakes without backtracking."
+        ],
+        "de": [
+          "Unsere 14-tägige 3 Stans Discovery Tour überquert von Kirgisistan nach Kasachstan an der Landgrenze Kegen am Tag 3 nach etwa 250 km Straßenfahrt von den Kolsay-Seen nach Karakol. Die Grenze ist in der Regel von spätem Frühjahr bis Frühherbst geöffnet, wenn die Bergpässe schneefrei sind. Fahrer erledigen die Formalitäten, während Sie im Fahrzeug warten, und der Prozess dauert in der Hauptsaison in der Regel weniger als eine Stunde. Von der Grenzstation führt die Route weiter nach Almaty mit Stopps am Charyn-Canyon und den Kolsay-Seen auf der kasachischen Seite. Spätes Mai bis September bietet die zuverlässigsten Bedingungen für diese Überquerung.",
+          "Am Tag 2 legt die Tour etwa 440 km von Almaty zum Charyn-Canyon und dann zu den Kolsay-Seen zurück, ein ganzer Tag Fahrt mit landschaftlichen Pausen. Der Charyn-Canyon erstreckt sich über etwa 150 km entlang des Charyn-Flusses und offenbart geschichtete Sedimentfelsen, die oft mit einem kleineren Grand Canyon verglichen werden. Die Kolsay-Seen liegen auf etwa 1.800 m Höhe und bestehen aus drei alpinen Seen, die durch Waldwege verbunden sind. Die Nacht in Kolsay wird in einem Gästehaus mit Zweibettzimmern verbracht, um Sie auf die Grenzüberquerung am nächsten Morgen vorzubereiten. Die Straßenverhältnisse sind auf asphaltierten Abschnitten im Allgemeinen gut, können aber nahe der Canyon-Kante uneben sein.",
+          "Nach der Überquerung in Kegen am Tag 3 führt die Route weiter nach Karakol am Ostufer des Issyk-Kul und legt an diesem Tag weitere 250 km zurück. Die Fahrt von der Grenze nach Karakol folgt dem Südufer des Sees durch Halbwüstensteppe, bevor sie in die Ausläufer des Terskey Alatau hinaufführt. Karakol liegt auf etwa 1.750 Metern und dient als Basis für Besuche der Jety-Oguz-Schlucht und der Dungan-Moschee am Tag 4. Die Sommermonate halten die Hochtäler zugänglich und das Seewasser warm genug für ein schnelles Bad. Die Grenzöffnungszeiten können sich ändern, daher bestätigt unser Guide den aktuellen Zeitplan am Abend zuvor.",
+          "Der gesamte Almaty-Bishkek-Korridor über Kegen erstreckt sich über rund 690 km auf drei Reisetage und verbindet die kasachischen Canyons mit kirgisischen Bergseen und Städten der Seidenstraße. Unsere privaten Fahrzeuge befördern bis zu sechs Gäste mit Fahrer und einem englischsprachigen Guide, der die Grenzformalitäten und das Timing übernimmt. Spätes Frühjahr bis früher Herbst bleibt der empfohlene Zeitraum, da Schnee den Kegen-Pass bereits ab Oktober sperren kann. Reisende sollten Pässe, erforderliche Visen und eine ausgedruckte Kopie der Reisebestätigung für die Grenzbeamten mitführen. Die Route vermeidet den belebteren Korday-Übergang und fügt Charyn-Canyon und Kolsay-Seen ohne Rückweg hinzu."
+        ],
+        "fr": [
+          "Notre circuit 3 Stans Discovery de 14 jours traverse du Kirghizistan vers le Kazakhstan à la frontière terrestre de Kegen le jour 3 après environ 250 km de route depuis les lacs de Kolsay jusqu'à Karakol. La frontière est généralement ouverte de la fin du printemps au début de l'automne lorsque les cols de montagne sont dégagés de la neige. Les conducteurs gèrent les formalités pendant que vous attendez dans le véhicule, et le processus prend généralement moins d'une heure pendant la haute saison. Depuis le poste frontière, la route se poursuit vers Almaty avec des arrêts au canyon de Charyn et aux lacs de Kolsay du côté kazakh. La fin mai à septembre offre les conditions les plus fiables pour cette traversée.",
+          "Le jour 2, le circuit couvre environ 440 km d'Almaty au canyon de Charyn puis aux lacs de Kolsay, une journée complète de conduite avec des pauses panoramiques. Le canyon de Charyn s'étend sur environ 150 km le long de la rivière Charyn et révèle des falaises sédimentaires stratifiées souvent comparées à un plus petit Grand Canyon. Les lacs de Kolsay se situent à environ 1 800 mètres d'altitude et se composent de trois lacs alpins reliés par des sentiers forestiers. La nuit à Kolsay se passe dans une maison d'hôtes avec chambres twin, vous préparant pour la traversée de la frontière le lendemain matin. Les conditions routières sont généralement bonnes sur les sections goudronnées mais peuvent être difficiles près du bord du canyon.",
+          "Après le passage à Kegen le jour 3, l'itinéraire se poursuit vers Karakol, sur la rive orientale d'Issyk-Kul, ajoutant 250 km supplémentaires à la journée. La route depuis la frontière jusqu'à Karakol longe la rive sud du lac à travers la steppe semi-désertique avant de monter dans les contreforts du Terskey Alatau. Karakol se situe à environ 1 750 mètres d'altitude et sert de base pour les visites de la gorge de Jety-Oguz et de la mosquée doungane le jour 4. Les mois d'été maintiennent les hautes vallées accessibles et l'eau du lac suffisamment chaude pour une baignade rapide. Les horaires de la frontière peuvent varier, donc notre guide confirme le dernier planning la veille au soir.",
+          "Le corridor complet d'Almaty à Bichkek via Kegen s'étend sur environ 690 km sur trois jours de voyage et relie les canyons kazakhs aux lacs de montagne kirghizes et aux villes de la Route de la Soie. Nos véhicules privés transportent jusqu'à six voyageurs avec un chauffeur et un guide anglophone qui gère les formalités et les horaires de la frontière. De la fin du printemps au début de l'automne reste la période recommandée car la neige peut fermer le col de Kegen dès octobre. Les voyageurs doivent emporter leurs passeports, les visas requis et une copie imprimée de la confirmation du voyage pour les agents de la frontière. L'itinéraire évite le passage plus fréquenté de Korday et ajoute le canyon de Charyn et les lacs de Kolsay sans retour en arrière."
+        ],
+        "ja": [
+          "当社の14日間「3 スタンズ ディスカバリー」ツアーでは、3日目にコルサイ湖からカラコルまで約250キロメートルの陸路移動の後、ケゲン陸路国境を越えてカザフスタンへ入ります。国境は通常、山岳道路の雪が解ける晩春から初秋まで開いています。ドライバーが手続きを代行し、お客様は車内でお待ちいただけます。メインシーズンでは通常1時間未満で完了します。国境検問所からはアルマトイに向かうルートが続き、カザフスタン側でチャリンキャニオンとコルサイ湖に立ち寄ります。この国境越えには5月下旬から9月までが最も安定した条件です。",
+          "2日目にはアルマトイからチャリンキャニオン、そしてコルサイ湖まで約440キロメートルを移動し、景色の良い休憩を挟む1日中のドライブとなります。チャリンキャニオンはチャリン川に沿って約150キロメートルに広がり、層状の堆積岩の崖が小さなグランドキャニオンに例えられることが多いです。コルサイ湖は標高約1,800メートルに位置し、森林のトレイルで結ばれた3つのアルプス湖から成ります。コルサイでの夜はツインルームのゲストハウスで過ごし、翌朝の国境越えに備えます。舗装区間の道路状況は概ね良好ですが、キャニオンの縁付近は荒れている場合があります。",
+          "3日目にケゲンを越えた後、行程はイシククル湖東岸のカラコルへと続き、その日さらに250 kmの移動となります。国境からカラコルまでのドライブは湖の南岸をセミステップの砂漠地帯を進み、テルスケイ・アラトウの麓へと登っていきます。カラコルは標高約1,750メートルに位置し、4日目のジェティ・オグズ渓谷とドゥンガン・モスク訪問の拠点となります。夏の間は高い谷間へのアクセスが確保され、湖水も泳ぐのに十分な温かさを保ちます。国境の開設時間は変更になる可能性があるため、ガイドが前夜に最新のスケジュールを確認します。",
+          "ケゲン経由のアルマトイからビシュケクまでの全行程は約690 kmに及び、3日間のツアー日程でカザフスタンの峡谷とキルギスの山岳湖、シルクロードの町々を結びます。当社のプライベート車両は最大6名のゲストを運転手と英語を話すガイドとともに運行し、ガイドが国境手続きとスケジュールを管理します。ケゲン峠は10月頃には雪で閉鎖される可能性があるため、推奨時期は晩春から初秋です。旅行者はパスポート、必要なビザ、国境官吏への提示用にツアー確認書の印刷コピーを携帯してください。このルートはより混雑するコルダイ国境を避け、チャリンキャニオンとコルサイ湖を無駄のない行程で巡ります。"
+        ],
+        "es": [
+          "Nuestro recorrido 3 Stans Discovery de 14 días cruza de Kirguistán a Kazajistán en el paso fronterizo terrestre de Kegen el Día 3 después de unos 250 km de viaje por carretera desde los lagos Kolsay hasta Karakol. La frontera suele estar abierta de finales de primavera a principios de otoño, cuando los pasos de montaña están libres de nieve. Los conductores gestionan los trámites mientras esperas en el vehículo, y el proceso suele durar menos de una hora durante la temporada alta. Desde el puesto fronterizo, la ruta continúa hacia Almaty con paradas en el cañón de Charyn y los lagos Kolsay en el lado kazajo. De finales de mayo a septiembre se ofrecen las condiciones más fiables para este cruce.",
+          "El Día 2, el recorrido cubre unos 440 km desde Almaty hasta el cañón de Charyn y luego hasta los lagos Kolsay, un día completo de conducción con paradas panorámicas. El cañón de Charyn se extiende unos 150 km a lo largo del río Charyn y revela acantilados sedimentarios estratificados que a menudo se comparan con un Gran Cañón más pequeño. Los lagos Kolsay se encuentran a unos 1.800 metros de altitud y consisten en tres lagos alpinos conectados por senderos forestales. La noche en Kolsay se pasa en una casa de huéspedes con habitaciones dobles, preparándote para el cruce fronterizo a la mañana siguiente. Las condiciones de la carretera son generalmente buenas en los tramos pavimentados, pero pueden ser difíciles cerca del borde del cañón.",
+          "Tras cruzar en Kegen el Día 3, el itinerario continúa hacia Karakol, en la orilla oriental del lago Issyk-Kul, sumando otros 250 km de viaje ese día. El trayecto desde la frontera hasta Karakol recorre la orilla sur del lago a través de estepa semiárida antes de ascender a las estribaciones de Terskey Alatau. Karakol se encuentra a unos 1,750 metros y sirve como base para las visitas al desfiladero de Jety-Oguz y a la mezquita dungan el Día 4. Los meses de verano mantienen los valles altos accesibles y el agua del lago lo suficientemente cálida para un baño rápido. Los horarios de frontera pueden cambiar, así que el guía confirma el programa más actualizado la noche anterior.",
+          "El corredor completo de Almaty a Bishkek a través de Kegen abarca unos 690 km en tres días de recorrido y conecta los cañones kazajos con los lagos de montaña y las ciudades de la Ruta de la Seda de Kirguistán. Nuestros vehículos privados llevan hasta seis viajeros con un conductor y un guía de habla inglesa que gestiona los trámites y horarios fronterizos. De finales de primavera a principios de otoño sigue siendo el periodo recomendado, ya que la nieve puede cerrar el paso de Kegen tan pronto como en octubre. Los viajeros deben llevar pasaportes, las visas necesarias y una copia impresa de la confirmación del tour para los funcionarios de frontera. La ruta evita el paso más transitado de Korday y añade el cañón de Charyn y los lagos de Kolsay sin desvíos."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Kegen border open late spring to early autumn",
+          "440 km Almaty to Charyn Canyon and Kolsay Lakes",
+          "250 km Kolsay Lakes to Karakol via Kegen crossing"
+        ],
+        "de": [
+          "Kegen-Grenze geöffnet spätes Frühjahr bis früher Herbst",
+          "440 km Almaty bis Charyn-Canyon und Kolsay-Seen",
+          "250 km Kolsay-Seen bis Karakol über Kegen-Grenzübergang"
+        ],
+        "fr": [
+          "Frontière de Kegen ouverte de la fin du printemps au début de l'automne",
+          "440 km d'Almaty au canyon de Charyn et aux lacs de Kolsay",
+          "250 km des lacs de Kolsay à Karakol via le passage de Kegen"
+        ],
+        "ja": [
+          "ケゲン国境は晩春から初秋まで開設",
+          "アルマトイからチャリンキャニオンとコルサイ湖まで440 km",
+          "コルサイ湖からケゲン国境経由でカラコルまで250 km"
+        ],
+        "es": [
+          "Frontera de Kegen abierta de finales de primavera a principios de otoño",
+          "440 km de Almaty al cañón de Charyn y los lagos de Kolsay",
+          "250 km de los lagos de Kolsay a Karakol a través del paso de Kegen"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Border crossing",
+            "de": "Grenzübergang",
+            "fr": "Passage de la frontière",
+            "ja": "国境越え",
+            "es": "Cruce fronterizo"
+          },
+          "value": {
+            "en": "Kegen land border",
+            "de": "Kegen-Landgrenze",
+            "fr": "Frontière terrestre de Kegen",
+            "ja": "ケゲン陸路国境",
+            "es": "Frontera terrestre de Kegen"
+          }
+        },
+        {
+          "label": {
+            "en": "Season",
+            "de": "Reisezeit",
+            "fr": "Saison",
+            "ja": "季節",
+            "es": "Temporada"
+          },
+          "value": {
+            "en": "Late May to September",
+            "de": "Ende Mai bis September",
+            "fr": "Fin mai à septembre",
+            "ja": "5月下旬から9月",
+            "es": "De finales de mayo a septiembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "14 Days / 13 Nights",
+            "de": "14 Tage / 13 Nächte",
+            "fr": "14 jours / 13 nuits",
+            "ja": "14日間 / 13泊",
+            "es": "14 días / 13 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $2643 USD / person",
+            "de": "Ab $2643 USD / Person",
+            "fr": "À partir de $2643 USD / personne",
+            "ja": "$2643 USD〜 / 1名",
+            "es": "Desde $2643 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400023/sunday-atlas/landscape-of-the-charyn-canyon-in-kazakhstan-15792410_a6jkdl.jpg",
+        "width": 1920,
+        "height": 2880,
+        "alt": {
+          "en": "Charyn Canyon in Kazakhstan, red sandstone cliffs and the canyon floor under a blue sky",
+          "de": "Scharyn-Canyon in Kasachstan, rote Sandsteinfelsen unter blauem Himmel",
+          "fr": "Canyon de Charyn au Kazakhstan, falaises de grès rouge sous un ciel bleu",
+          "ja": "カザフスタンのチャリン渓谷、青空の下の赤い砂岩の崖",
+          "es": "Cañón de Charyn en Kazajistán, acantilados de arenisca roja bajo el cielo azul"
+        },
+        "caption": {
+          "en": "Kegen Border",
+          "de": "Grenze Kegen",
+          "fr": "Frontière de Kegen",
+          "ja": "ケゲン国境",
+          "es": "Frontera de Kegen"
+        }
+      },
+      "embeddedPackageSlug": "3-stans-discovery-14-days"
+    },
+    {
+      "id": "bishkek-city-day",
+      "placeName": {
+        "en": "Bishkek City",
+        "de": "Bishkek",
+        "fr": "Ville de Bichkek",
+        "ja": "ビシュケク市内",
+        "es": "Ciudad de Bishkek"
+      },
+      "heading": {
+        "en": "What to Do in Bishkek for a Day",
+        "de": "Was man in Bishkek an einem Tag unternehmen kann",
+        "fr": "Que faire à Bichkek en une journée",
+        "ja": "ビシュケクで1日過ごすなら",
+        "es": "Qué hacer en Bishkek en un día"
+      },
+      "paragraphs": {
+        "en": [
+          "Ala-Too Square sits in central Bishkek and can be reached on foot from most city hotels in under fifteen minutes. The Manas monument stands at the square's northern edge and marks the starting point for the hourly changing of the guard ceremony. Osh Bazaar lies about four kilometers west of the square and takes roughly fifteen minutes by taxi outside rush hour. A half-day walk covering all three sites works well in May through September when daytime temperatures stay between 20 and 30 Celsius. Winter visits are possible but icy sidewalks and shorter daylight hours reduce walking comfort.",
+          "The square's open layout makes it easy to combine with a morning trip to Ala-Archa Gorge, which starts about forty kilometers south of the city center. Driving to the park entrance takes around one hour in normal traffic, leaving the afternoon for the bazaar. Osh Bazaar operates daily from early morning until late afternoon, with the liveliest produce sections before noon. Vendors sell dried fruit, nuts, spices and felt goods in covered aisles that stay cooler in summer heat. Bargaining is expected for handicrafts but not for food staples.",
+          "Public marshrutkas run from the western bus station to the bazaar in about twenty minutes and cost a few som per ride. Taxis booked through local apps provide door-to-door service and avoid language barriers at the market entrance. The Manas monument area has several cafes with Wi-Fi and power outlets for a midday break. Restrooms at the square are located in the underground passage near the Philharmonic hall. Keep small bills for market purchases and taxi fares.",
+          "Late spring and early autumn offer the most comfortable temperatures for walking between outdoor sites. Summer afternoons can exceed 35 Celsius, so schedule the bazaar for morning and the square for late afternoon. The changing of the guard runs on the hour from 7 AM to 6 PM during the warmer months. Winter hours may be reduced and the ceremony can be cancelled in heavy snow. Check the current schedule at your hotel reception before heading out."
+        ],
+        "de": [
+          "Der Ala-Too-Platz liegt im Zentrum von Bishkek und ist von den meisten Stadthotels in unter fünfzehn Minuten zu Fuß erreichbar. Das Manas-Denkmal steht am nördlichen Rand des Platzes und markiert den Ausgangspunkt für die stündliche Wachablösung. Der Osh-Basar liegt etwa vier Kilometer westlich des Platzes und ist in etwa fünfzehn Minuten mit dem Taxi außerhalb der Rushhour erreichbar. Ein halbtägiger Spaziergang, der alle drei Orte umfasst, eignet sich gut von Mai bis September, wenn die Tagestemperaturen zwischen 20 und 30 Grad Celsius liegen. Winterbesuche sind möglich, aber vereiste Gehwege und kürzere Tageslichtstunden mindern den Gehkomfort.",
+          "Die offene Gestaltung des Platzes macht es einfach, ihn mit einem morgendlichen Ausflug zur Ala-Archa-Schlucht zu verbinden, die etwa vierzig Kilometer südlich des Stadtzentrums beginnt. Die Fahrt zum Parkeingang dauert bei normalem Verkehr etwa eine Stunde, sodass der Nachmittag für den Basar bleibt. Der Osh-Basar hat täglich von frühmorgens bis zum späten Nachmittag geöffnet, wobei die Obst- und Gemüseabschnitte vor Mittag am lebhaftesten sind. Händler bieten Trockenfrüchte, Nüsse, Gewürze und Filzwaren in überdachten Gängen an, die bei sommerlicher Hitze kühler bleiben. Das Feilschen ist bei Kunsthandwerk üblich, nicht jedoch bei Grundnahrungsmitteln.",
+          "Öffentliche Marshrutkas fahren vom westlichen Busbahnhof zum Basar in etwa zwanzig Minuten und kosten ein paar Som pro Fahrt. Über lokale Apps gebuchte Taxis bieten einen Tür-zu-Tür-Service und vermeiden Sprachbarrieren am Basareingang. Im Bereich des Manas-Denkmals gibt es mehrere Cafés mit WLAN und Steckdosen für eine Mittagspause. Die Toiletten auf dem Platz befinden sich im Untergrundgang in der Nähe der Philharmonie. Bewahren Sie kleine Scheine für Basarkäufe und Taxifahrten auf.",
+          "Spätes Frühjahr und früher Herbst bieten die angenehmsten Temperaturen für Spaziergänge zwischen den Außenanlagen. Sommernachmittage können über 35 Grad Celsius steigen, daher sollten Sie den Basar für den Vormittag und den Platz für den späten Nachmittag einplanen. Die Wachablösung findet in den wärmeren Monaten stündlich von 7 bis 18 Uhr statt. Im Winter können die Öffnungszeiten reduziert sein und die Zeremonie bei starkem Schneefall ausfallen. Überprüfen Sie den aktuellen Zeitplan an der Rezeption Ihres Hotels, bevor Sie aufbrechen."
+        ],
+        "fr": [
+          "La place Ala-Too se trouve au centre de Bichkek et est accessible à pied depuis la plupart des hôtels de la ville en moins de quinze minutes. Le monument Manas se dresse au bord nord de la place et marque le point de départ de la relève de la garde qui a lieu toutes les heures. Le bazar d'Osh se situe à environ quatre kilomètres à l'ouest de la place et se rejoint en quinze minutes environ en taxi en dehors des heures de pointe. Une demi-journée de marche couvrant ces trois sites fonctionne bien de mai à septembre, lorsque les températures diurnes restent entre 20 et 30 degrés Celsius. Les visites en hiver sont possibles, mais les trottoirs glacés et les journées plus courtes réduisent le confort de marche.",
+          "La disposition ouverte de la place permet de la combiner facilement avec une excursion matinale à la gorge d'Ala-Archa, qui commence à environ quarante kilomètres au sud du centre-ville. Le trajet jusqu'à l'entrée du parc dure environ une heure dans des conditions de circulation normales, laissant l'après-midi pour le bazar. Le bazar d'Osh fonctionne tous les jours du début de la matinée jusqu'à la fin de l'après-midi, avec les sections de produits frais les plus animées avant midi. Les vendeurs proposent des fruits secs, des noix, des épices et des articles en feutre dans des allées couvertes qui restent plus fraîches pendant la chaleur estivale. Le marchandage est attendu pour l'artisanat mais pas pour les denrées alimentaires de base.",
+          "Les marshrutkas publiques partent de la gare routière ouest pour le bazar en environ vingt minutes et coûtent quelques soms par trajet. Les taxis réservés via des applications locales offrent un service porte-à-porte et évitent les barrières linguistiques à l'entrée du marché. La zone du monument Manas compte plusieurs cafés avec Wi-Fi et prises de courant pour une pause de midi. Les toilettes de la place se trouvent dans le passage souterrain près de la salle philharmonique. Gardez des petites coupures pour les achats au marché et les courses en taxi.",
+          "La fin du printemps et le début de l'automne offrent les températures les plus confortables pour marcher entre les sites extérieurs. Les après-midi d'été peuvent dépasser 35 degrés Celsius, donc prévoyez le bazar le matin et la place en fin d'après-midi. La relève de la garde a lieu à chaque heure de 7 h à 18 h pendant les mois les plus chauds. Les horaires d'hiver peuvent être réduits et la cérémonie peut être annulée en cas de fortes chutes de neige. Vérifiez le planning actuel à la réception de votre hôtel avant de sortir."
+        ],
+        "ja": [
+          "アラ・トゥー広場はビシュケクの中心部に位置し、市内のほとんどのホテルから徒歩15分以内でアクセスできます。広場の北端にマナス記念碑があり、毎時行われる衛兵交代式の出発点となっています。オシュ・バザールは広場から西へ約4キロメートル、通常時ならタクシーで約15分の場所にあります。この3か所を巡る半日のウォーキングは、日中の気温が20度から30度に保たれる5月から9月に最適です。冬の訪問も可能ですが、凍った歩道と日照時間の短さが歩行の快適さを損ないます。",
+          "広場の開放的なレイアウトにより、中心部から南へ約40キロメートルのアラ・アルチャ渓谷への午前中の旅行と組み合わせやすくなっています。公園の入り口までは通常の交通状況で約1時間で到着し、午後はバザールの見学に充てられます。オシュ・バザールは早朝から午後遅くまで毎日営業しており、生鮮食品コーナーは午前中が最も活気にあふれています。販売者は屋根付きの通路でドライフルーツ、ナッツ、スパイス、フェルト製品を販売しており、夏の暑さの中でも涼しく過ごせます。手工芸品の値引き交渉は一般的ですが、食料品の定番品には適用されません。",
+          "西側のバスターミナルから公共のマシュルートカがバザールまで約20分で運行し、乗車料金は数ソムです。地元のアプリで予約したタクシーはドアツードアのサービスを提供し、市場入り口での言語の壁を回避できます。マナス記念碑周辺にはWi-Fiと電源コンセントを備えたカフェがいくつかあり、昼休みに最適です。広場のトイレはフィルハーモニアホール近くの地下通路にあります。市場での買い物やタクシー代には小額紙幣を用意してください。",
+          "晩春と初秋は屋外の観光地を歩き回るのに最も快適な気温です。夏の午後は35度を超えることがあるため、バザールは午前中に、広場は午後遅くに訪れるようスケジュールを組んでください。衛兵交代式は暖かい時期には午前7時から午後6時まで毎時行われます。冬は時間が短縮される場合があり、大雪の際は式典が中止になることもあります。出発前にホテルのフロントで最新のスケジュールをご確認ください。"
+        ],
+        "es": [
+          "La plaza Ala-Too se encuentra en el centro de Bishkek y se puede llegar caminando desde la mayoría de los hoteles de la ciudad en menos de quince minutos. El monumento a Manas se encuentra en el borde norte de la plaza y marca el punto de partida para la ceremonia del cambio de guardia cada hora. El bazar Osh está a unos cuatro kilómetros al oeste de la plaza y tarda unos quince minutos en taxi fuera de las horas punta. Un recorrido a pie de medio día que cubra los tres sitios funciona bien de mayo a septiembre, cuando las temperaturas diurnas se mantienen entre 20 y 30 grados Celsius. Las visitas en invierno son posibles, pero las aceras heladas y las horas de luz más cortas reducen la comodidad al caminar.",
+          "La disposición abierta de la plaza facilita combinarla con una visita matutina al desfiladero de Ala-Archa, que comienza a unos cuarenta kilómetros al sur del centro de la ciudad. Conducir hasta la entrada del parque tarda alrededor de una hora con tráfico normal, dejando la tarde para el bazar. El bazar Osh funciona diariamente desde primera hora de la mañana hasta última hora de la tarde, con las secciones de productos más animadas antes del mediodía. Los vendedores venden fruta seca, frutos secos, especias y artículos de fieltro en pasillos cubiertos que se mantienen más frescos en el calor del verano. Se espera regatear para las artesanías, pero no para los alimentos básicos.",
+          "Los marshrutkas públicos salen de la estación de autobuses del oeste hacia el bazar en unos veinte minutos y cuestan unos pocos som por trayecto. Los taxis reservados a través de aplicaciones locales ofrecen servicio puerta a puerta y evitan las barreras del idioma en la entrada del mercado. El área del monumento a Manas tiene varios cafés con Wi-Fi y enchufes para un descanso al mediodía. Los baños de la plaza se encuentran en el paso subterráneo cerca del salón de la Filarmónica. Lleva billetes pequeños para las compras en el mercado y las tarifas de taxi.",
+          "Finales de primavera y principios de otoño ofrecen las temperaturas más cómodas para caminar entre los sitios al aire libre. Las tardes de verano pueden superar los 35 grados Celsius, así que programa el bazar para la mañana y la plaza para última hora de la tarde. El cambio de guardia se realiza cada hora de 7 AM a 6 PM durante los meses más cálidos. Los horarios de invierno pueden reducirse y la ceremonia puede cancelarse en caso de fuertes nevadas. Consulta el horario actual en la recepción de tu hotel antes de salir."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Ala-Too Square, Manas monument, Osh Bazaar half-day",
+          "Best months May to September for walking comfort",
+          "Bazaar liveliest before noon, taxi fifteen minutes from square"
+        ],
+        "de": [
+          "Ala-Too-Platz, Manas-Denkmal, Osh-Basar halbtags",
+          "Beste Monate Mai bis September für Gehkomfort",
+          "Basar vor Mittag am lebhaftesten, Taxi fünfzehn Minuten vom Platz"
+        ],
+        "fr": [
+          "Place Ala-Too, monument Manas, bazar d'Osh : demi-journée",
+          "Meilleurs mois : mai à septembre pour le confort de marche",
+          "Bazar le plus animé avant midi, taxi quinze minutes depuis la place"
+        ],
+        "ja": [
+          "アラ・トゥー広場、マナス記念碑、オシュ・バザール 半日コース",
+          "歩行の快適さを考慮したベストシーズン 5月から9月",
+          "バザールは午前中が最も活気にあふれ、広場からタクシーで15分"
+        ],
+        "es": [
+          "Plaza Ala-Too, monumento a Manas, bazar Osh: medio día",
+          "Los mejores meses de mayo a septiembre para caminar con comodidad",
+          "El bazar está más animado antes del mediodía; el taxi tarda quince minutos desde la plaza"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive to Ala-Archa",
+            "de": "Fahrt nach Ala-Archa",
+            "fr": "Trajet vers Ala-Archa",
+            "ja": "アラ・アルチャまでのドライブ",
+            "es": "Trayecto a Ala-Archa"
+          },
+          "value": {
+            "en": "about 1 hour 40 km",
+            "de": "etwa 1 Stunde 40 km",
+            "fr": "environ 1 heure 40 km",
+            "ja": "約1時間 40 km",
+            "es": "aproximadamente 1 hora, 40 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Bazaar distance from square",
+            "de": "Bazaar distance from square",
+            "fr": "Distance du bazar depuis la place",
+            "ja": "バザールまでの広場からの距離",
+            "es": "Distancia del bazar a la plaza"
+          },
+          "value": {
+            "en": "4 km",
+            "de": "4 km",
+            "fr": "4 km",
+            "ja": "4 km",
+            "es": "4 km"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793950364/sunday-atlas/blog/bishkek-city-tour/bishkek-city-commons-74267140.jpg",
+        "width": 1920,
+        "height": 1017,
+        "alt": {
+          "en": "Aerial view of Bishkek City, Kyrgyzstan, with buildings and trees.",
+          "de": "Luftaufnahme von Bishkek City, Kirgisistan, mit Gebäuden und Bäumen.",
+          "fr": "Vue aérienne de Bichkek, Kirghizistan, avec des bâtiments et des arbres.",
+          "ja": "キルギス、ビシュケク市の空中からの眺め。建物と木々が見える。",
+          "es": "Vista aérea de la ciudad de Biskek, Kirguistán, con edificios y árboles."
+        },
+        "credit": {
+          "author": "Ninara from Helsinki, Finland",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bishkek,_Kyrgyzstan_(43752958835).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Bishkek City",
+          "de": "Bishkek",
+          "fr": "Ville de Bichkek",
+          "ja": "ビシュケク市内",
+          "es": "Ciudad de Bishkek"
+        }
+      }
+    },
+    {
+      "id": "season-and-logistics",
+      "placeName": {
+        "en": "Season & Logistics",
+        "de": "Saison & Logistik",
+        "fr": "Saison et logistique",
+        "ja": "シーズン＆ロジスティクス",
+        "es": "Temporada y logística"
+      },
+      "heading": {
+        "en": "Best Months, Drive Times and Booking",
+        "de": "Beste Reisezeiten, Fahrzeiten und Buchung",
+        "fr": "Meilleure période, temps de trajet et réservation",
+        "ja": "ベストシーズン、所要時間、予約について",
+        "es": "Los mejores meses, tiempos de viaje y reservas"
+      },
+      "paragraphs": {
+        "en": [
+          "Mountain roads to Ala-Archa and the high valleys are open from May to October, with June through September offering the most reliable conditions. The Ala-Archa day trip runs about 8 hours and covers roughly 80 km round-trip from Bishkek, including hotel pick-up and drop-off. The drive to the national park entrance takes about 45 minutes each way on a paved mountain road that climbs to around 2,200 m. A guided walk in the alpine gorge is followed by a 65 km drive east to the 11th-century Burana Tower near Tokmok. Multi-day tours that include this region span 14 to 22 days and cross the Kegen border into Almaty.",
+          "Bishkek and the Issyk-Kul lakeshore can be visited more of the year, but passes to Naryn and Tash-Rabat stay snow-covered until late spring. The day trip departs in the morning and returns by early evening, leaving time for a walk among the balbal stone warriors at the Burana complex. Lunch is taken at a local stop on the return leg, and bottled water is provided in the vehicle. An English-speaking driver-guide handles navigation and park entry, so no separate permits are needed. Travelers should bring layers for the altitude change between the city and the gorge.",
+          "The private vehicle covers the Bishkek–Ala-Archa–Tokmok–Bishkek loop in a single day, with about 3 hours of total driving time split into short segments. Entrance fees for Ala-Archa National Park and the Burana Tower site are included in the tour. The itinerary follows Day 1: Bishkek – Ala-Archa National Park – Tokmok – Burana Tower – Bishkek as listed in the tour facts. Spring wildflowers peak in May and June, while autumn colors appear in late September. Booking ahead for the May to October window secures vehicle availability.",
+          "For travelers continuing beyond a day trip, the 14 to 22-day multi-day routes add Karakol, Jety-Oguz Gorge, Skazka Canyon, eagle hunters in Bokonbaevo, a felt master class in Kochkor, and the Tash-Rabat caravanserai. These longer tours cross the Kegen border into Almaty and include a yurt camp at Tamga on the 5 Stans route. Visa rules depend on your passport and can change, so check official government sources before you book. Our tours either start in Bishkek or enter Kyrgyzstan by land at Kegen."
+        ],
+        "de": [
+          "Bergstraßen nach Ala-Archa und in die Hochtäler sind von Mai bis Oktober geöffnet, wobei Juni bis September die zuverlässigsten Bedingungen bietet. Der Tagesausflug nach Ala-Archa dauert etwa 8 Stunden und umfasst rund 80 km Hin- und Rückfahrt ab Bischkek, inklusive Hotelabholung und -rücktransfer. Die Fahrt zum Nationalparkeingang dauert jeweils etwa 45 Minuten auf einer asphaltierten Bergstraße, die auf rund 2.200 m ansteigt. Eine geführte Wanderung durch die alpine Schlucht wird von einer 65 km langen Fahrt nach Osten zum Burana-Turm aus dem 11. Jahrhundert bei Tokmok gefolgt. Mehrtägige Touren, die diese Region umfassen, dauern 14 bis 22 Tage und überqueren die Grenze bei Kegen nach Almaty.",
+          "Bischkek und das Issyk-Kul-Ufer können das ganze Jahr über besucht werden, aber die Pässe nach Naryn und Tash-Rabat bleiben bis zum späten Frühjahr schneebedeckt. Der Tagesausflug startet am Morgen und kehrt am frühen Abend zurück, sodass Zeit für einen Spaziergang zu den Balbal-Steinkriegern im Burana-Komplex bleibt. Das Mittagessen wird an einem lokalen Stopp auf dem Rückweg eingenommen, und im Fahrzeug wird Wasser in Flaschen bereitgestellt. Ein englischsprachiger Fahrer-Guide übernimmt die Navigation und den Parkeintritt, sodass keine separaten Genehmigungen erforderlich sind. Reisende sollten Schichten für den Höhenunterschied zwischen der Stadt und der Schlucht mitbringen.",
+          "Das private Fahrzeug absolviert die Bischkek–Ala-Archa–Tokmok–Bischkek-Runde an einem einzigen Tag, mit insgesamt etwa 3 Stunden Fahrzeit, die auf kurze Abschnitte verteilt sind. Eintrittsgebühren für den Ala-Archa-Nationalpark und die Burana-Turm-Stätte sind in der Tour enthalten. Die Reiseroute folgt Tag 1: Bischkek – Ala-Archa-Nationalpark – Tokmok – Burana-Turm – Bischkek, wie in den Tourdaten aufgeführt. Frühlingsblumen erreichen ihren Höhepunkt im Mai und Juni, während Herbstfarben im späten September erscheinen. Eine rechtzeitige Buchung für den Zeitraum Mai bis Oktober sichert die Fahrzeugverfügbarkeit.",
+          "Für Reisende, die über einen Tagesausflug hinausreisen, fügen die 14- bis 22-tägigen Mehrtagesrouten Karakol, die Jety-Oguz-Schlucht, den Skazka-Canyon, Adlerjäger in Bokonbaevo, einen Filzkurs in Kochkor und die Karawanserei Tash-Rabat hinzu. Diese längeren Touren überqueren die Grenze bei Kegen nach Almaty und beinhalten ein Jurtenlager in Tamga auf der 5-Stans-Route. Die Visabestimmungen hängen von Ihrem Reisepass ab und können sich ändern, daher prüfen Sie vor der Buchung offizielle Regierungsquellen. Unsere Touren starten entweder in Bischkek oder reisen über Land bei Kegen in Kirgisistan ein."
+        ],
+        "fr": [
+          "Les routes de montagne menant à Ala-Archa et aux hautes vallées sont ouvertes de mai à octobre, juin à septembre offrant les conditions les plus fiables. L'excursion d'une journée à Ala-Archa dure environ 8 heures et couvre environ 80 km aller-retour depuis Bichkek, avec prise en charge et retour à l'hôtel. Le trajet jusqu'à l'entrée du parc national dure environ 45 minutes chaque sens sur une route de montagne goudronnée qui monte jusqu'à environ 2 200 m. Une randonnée guidée dans la gorge alpine est suivie d'un trajet de 65 km vers l'est jusqu'à la tour Burana du 11e siècle près de Tokmok. Les circuits multi-jours incluant cette région s'étendent sur 14 à 22 jours et traversent la frontière de Kegen vers Almaty.",
+          "Bichkek et la rive du lac Issyk-Kul peuvent être visités une grande partie de l'année, mais les cols menant à Naryn et Tash-Rabat restent enneigés jusqu'au printemps tardif. L'excursion d'une journée part le matin et revient en début de soirée, laissant le temps d'une promenade parmi les guerriers de pierre balbal du complexe de Burana. Le déjeuner est pris dans un arrêt local sur le trajet du retour, et de l'eau en bouteille est fournie dans le véhicule. Un chauffeur-guide anglophone s'occupe de la navigation et de l'entrée au parc, aucun permis séparé n'est nécessaire. Les voyageurs doivent apporter des vêtements en couches pour le changement d'altitude entre la ville et la gorge.",
+          "Le véhicule privé couvre la boucle Bichkek–Ala-Archa–Tokmok–Bichkek en une seule journée, avec environ 3 heures de temps de conduite total réparties en courts segments. Les droits d'entrée pour le parc national d'Ala-Archa et le site de la tour Burana sont inclus dans le circuit. L'itinéraire suit le Jour 1 : Bichkek – Parc national d'Ala-Archa – Tokmok – Tour Burana – Bichkek tel que listé dans les faits du circuit. Les fleurs sauvages du printemps atteignent leur apogée en mai et juin, tandis que les couleurs automnales apparaissent à la fin septembre. Réserver à l'avance pour la fenêtre de mai à octobre garantit la disponibilité du véhicule.",
+          "Pour les voyageurs poursuivant au-delà d'une excursion d'une journée, les circuits multi-jours de 14 à 22 jours ajoutent Karakol, la gorge de Jety-Oguz, le canyon de Skazka, les chasseurs d'aigles à Bokonbaevo, un cours de feutre à Kochkor, et le caravansérail de Tash-Rabat. Ces circuits plus longs traversent la frontière de Kegen vers Almaty et incluent un camp de yourtes à Tamga sur la route des 5 Stan. Les règles de visa dépendent de votre passeport et peuvent changer, alors vérifiez les sources officielles gouvernementales avant de réserver. Nos circuits commencent soit à Bichkek, soit entrent au Kirghizistan par voie terrestre à Kegen."
+        ],
+        "ja": [
+          "アラアルチャや高地の谷への山岳道路は5月から10月まで開通しており、6月から9月が最も安定したコンディションです。アラアルチャ日帰りツアーは約8時間、ビシュケクからの往復で約80kmを走行し、ホテルのお迎えとお送りが含まれます。舗装された山岳道路を片道約45分で国立公園入口まで移動し、標高約2,200mまで登ります。アルパイン渓谷でのガイド付きウォーキングの後、東へ約65km走行し、トクモク近郊の11世紀の遺跡、バラナ・タワーへ向かいます。この地域を含む複数日ツアーは14日から22日間で、ケゲン国境を越えてアルマトイへ向かいます。",
+          "ビシュケクとイシククル湖岸は一年を通じて訪問可能ですが、ナリャンやタシュ・ラバトへの峠は晩春まで雪に覆われています。日帰りツアーは午前に出発し、早い時間に戻るため、バラナ複合遺跡のバルバル石像戦士を散策する時間も確保されています。帰路の途中、地元の停留所で昼食をとり、車内でボトルウォーターが提供されます。英語を話すドライバーガイドがナビゲーションと公園入場を手配するため、別途許可は不要です。都市と渓谷の間の標高差に備え、重ね着をご持参ください。",
+          "プライベート車両でビシュケク－アラアルチャ－トクモク－ビシュケクのループを1日で回り、合計約3時間の運転時間を短い区間に分けて移動します。アラアルチャ国立公園とバラナ・タワー遺跡の入場料はツアー料金に含まれています。スケジュールはツアー情報に記載の通り、1日目：ビシュケク－アラアルチャ国立公園－トクモク－バラナ・タワー－ビシュケクです。春の野生の花は5月から6月に見頃を迎え、秋の紅葉は9月下旬に現れます。5月から10月の期間を事前に予約することで、車両の確保が可能です。",
+          "日帰りツアーを超えて旅を続ける方には、14日から22日間の複数日ルートにカラコル、ジェティ・オグズ渓谷、スカズカ渓谷、ボコンバエフの鷹狩り、コチコルでのフェルトマスタークラス、タシュ・ラバトキャラバンサライが加わります。これらの長期ツアーはケゲン国境を越えてアルマトイへ向かい、5 スタンズ ルートではタムガのユルトキャンプに宿泊します。ビザ規則はパスポートにより異なり変更される場合があるため、予約前に公的な政府情報源をご確認ください。当社のツアーはビシュケク発着、またはケゲンでの陸路入国となります。"
+        ],
+        "es": [
+          "Los caminos de montaña hacia Ala-Archa y los valles altos están abiertos de mayo a octubre, siendo junio a septiembre los meses con las condiciones más fiables. La excursión de un día a Ala-Archa dura unas 8 horas y recorre unos 80 km ida y vuelta desde Bishkek, incluido el recogida y regreso al hotel. El trayecto hasta la entrada del parque nacional dura unos 45 minutos por sentido por una carretera de montaña pavimentada que asciende hasta unos 2.200 m. Una caminata guiada por el desfiladero alpino va seguida de un recorrido de 65 km hacia el este hasta la Torre Burana del siglo 11, cerca de Tokmok. Los tours de varios días que incluyen esta región abarcan de 14 a 22 días y cruzan la frontera de Kegen hacia Almaty.",
+          "Bishkek y la orilla del lago Issyk-Kul se pueden visitar durante gran parte del año, pero los pasos hacia Naryn y Tash-Rabat permanecen cubiertos de nieve hasta finales de la primavera. La excursión sale por la mañana y regresa al atardecer, dejando tiempo para pasear entre los guerreros de piedra balbal en el complejo de Burana. El almuerzo se toma en una parada local en el trayecto de regreso, y se proporciona agua embotellada en el vehículo. Un conductor-guía de habla inglesa se encarga de la navegación y la entrada al parque, por lo que no se necesitan permisos separados. Los viajeros deben llevar capas para el cambio de altitud entre la ciudad y el desfiladero.",
+          "El vehículo privado recorre el circuito Bishkek–Ala-Archa–Tokmok–Bishkek en un solo día, con unas 3 horas de tiempo total de conducción divididas en segmentos cortos. Las tarifas de entrada al Parque Nacional Ala-Archa y al sitio de la Torre Burana están incluidas en el tour. El itinerario sigue el Día 1: Bishkek – Parque Nacional Ala-Archa – Tokmok – Torre Burana – Bishkek, según se indica en los datos del tour. Las flores silvestres de primavera alcanzan su punto máximo en mayo y junio, mientras que los colores otoñales aparecen a finales de septiembre. Reservar con antelación para la ventana de mayo a octubre garantiza la disponibilidad del vehículo.",
+          "Para los viajeros que continúan más allá de una excursión de un día, las rutas de varios días de 14 a 22 días añaden Karakol, el desfiladero de Jety-Oguz, el Cañón Skazka, cazadores de águilas en Bokonbaevo, una clase magistral de fieltro en Kochkor y el caravasar de Tash-Rabat. Estos tours más largos cruzan la frontera de Kegen hacia Almaty e incluyen un campamento de yurtas en Tamga en la ruta 5 Stans. Las reglas de visado dependen de tu pasaporte y pueden cambiar, así que consulta fuentes oficiales del gobierno antes de reservar. Nuestros tours comienzan en Bishkek o entran en Kirguistán por tierra en Kegen."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Ala-Archa day trip runs 8 hours May to October",
+          "80 km round-trip with 45-minute drive each way",
+          "Multi-day tours span 14 to 22 days crossing Kegen border"
+        ],
+        "de": [
+          "Ala-Archa-Tagesausflug dauert 8 Stunden von Mai bis Oktober",
+          "80 km Hin- und Rückfahrt mit 45-minütiger Fahrt in jede Richtung",
+          "Mehrtägige Touren dauern 14 bis 22 Tage und überqueren die Grenze bei Kegen"
+        ],
+        "fr": [
+          "L'excursion d'une journée à Ala-Archa dure 8 heures de mai à octobre",
+          "80 km aller-retour avec 45 minutes de route chaque sens",
+          "Les circuits multi-jours s'étendent sur 14 à 22 jours en traversant la frontière de Kegen"
+        ],
+        "ja": [
+          "アラアルチャ日帰りツアーは5月から10月まで8時間運行",
+          "往復80km、片道45分のドライブ",
+          "複数日ツアーは14日から22日間、ケゲン国境を越えて移動"
+        ],
+        "es": [
+          "La excursión de un día a Ala-Archa dura 8 horas de mayo a octubre",
+          "80 km ida y vuelta con 45 minutos de conducción por sentido",
+          "Los tours de varios días abarcan de 14 a 22 días cruzando la frontera de Kegen"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Season",
+            "de": "Saison",
+            "fr": "Saison",
+            "ja": "シーズン",
+            "es": "Temporada"
+          },
+          "value": {
+            "en": "May to October",
+            "de": "Mai bis Oktober",
+            "fr": "Mai à octobre",
+            "ja": "5月から10月",
+            "es": "Mayo a octubre"
+          }
+        },
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Tourlänge",
+            "fr": "Durée du circuit",
+            "ja": "ツアー所要時間",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "1-day private tour",
+            "de": "1-tägige Privattour",
+            "fr": "Visite privée d'1 jour",
+            "ja": "1日プライベートツアー",
+            "es": "Tour privado de 1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $130 USD / person",
+            "de": "Ab $130 USD / Person",
+            "fr": "À partir de $130 USD / personne",
+            "ja": "$130 USD〜 / 1名",
+            "es": "Desde $130 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317588/sunday-atlas/05-yurt-spruce-pasture_vwldsb.jpg",
+        "width": 1600,
+        "height": 1200,
+        "alt": {
+          "en": "A pale yurt in a green meadow in Kyrgyzstan, a band of spruce on the slope behind it, mist along the ridge, and a small figure farther off in the grass.",
+          "de": "Eine helle Jurte auf einer grünen Wiese in Kirgisistan, dahinter ein Fichtenstreifen am Hang, Nebel entlang des Kamms und weiter weg im Gras eine kleine Gestalt.",
+          "fr": "Une yourte claire dans une prairie verte au Kirghizistan, une bande d’épicéas sur la pente derrière elle, de la brume le long de la crête, et une petite silhouette plus loin dans l’herbe.",
+          "ja": "キルギスの緑の草地にある淡い色のユルト。背後の斜面にトウヒの帯があり、尾根には霧がかかり、草地の向こうに小さな人影があります。",
+          "es": "Una yurta clara en un prado verde de Kirguistán, una franja de píceas en la ladera detrás, niebla a lo largo de la cresta y una figura pequeña más lejos en la hierba."
+        },
+        "caption": {
+          "en": "Season & Logistics",
+          "de": "Saison & Logistik",
+          "fr": "Saison et logistique",
+          "ja": "シーズン＆ロジスティクス",
+          "es": "Temporada y logística"
+        }
+      },
+      "embeddedPackageSlug": "ala-archa-burana-tower-day-trip"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How to get from Bishkek to Karakol?",
+        "de": "Wie komme ich von Bischkek nach Karakol?",
+        "fr": "Comment aller de Bichkek à Karakol ?",
+        "ja": "ビシュケクからカラコルへの行き方は？",
+        "es": "¿Cómo llegar de Bishkek a Karakol?"
+      },
+      "a": {
+        "en": "The road from Bishkek to Karakol is about 380 km and takes 6 to 7 hours by private vehicle. Our multi-day tours break the drive with stops at Kochkor, Naryn and the south shore of Issyk-Kul.",
+        "de": "Die Straße von Bischkek nach Karakol ist etwa 380 km lang und dauert mit dem privaten Fahrzeug 6 bis 7 Stunden. Unsere Mehrtages-Touren unterbrechen die Fahrt mit Stopps in Kochkor, Naryn und am Südufer des Issyk-Kul.",
+        "fr": "La route de Bichkek à Karakol fait environ 380 km et prend 6 à 7 heures en véhicule privé. Nos circuits multi-jours fractionnent le trajet avec des arrêts à Kochkor, Naryn et la rive sud du lac Issyk-Kul.",
+        "ja": "ビシュケクからカラコルまでの道路は約380km、プライベート車両で6〜7時間かかります。当社の複数日ツアーでは、コチコル、ナリャン、イシククル南岸に立ち寄りながら移動します。",
+        "es": "El camino de Bishkek a Karakol tiene unos 380 km y toma de 6 a 7 horas en vehículo privado. Nuestros tours de varios días dividen el trayecto con paradas en Kochkor, Naryn y la costa sur del lago Issyk-Kul."
+      }
+    },
+    {
+      "q": {
+        "en": "How to get from Almaty to Bishkek?",
+        "de": "Wie komme ich von Almaty nach Bischkek?",
+        "fr": "Comment aller d'Almaty à Bichkek ?",
+        "ja": "アルマトイからビシュケクへの行き方は？",
+        "es": "¿Cómo llegar de Almaty a Bishkek?"
+      },
+      "a": {
+        "en": "Cross the Kegen land border (about 250 km from Almaty to Karakol, then 380 km to Bishkek). Private tours combine Charyn Canyon, Kolsay Lakes and the border crossing in one continuous itinerary.",
+        "de": "Überqueren Sie die Landgrenze bei Kegen (etwa 250 km von Almaty nach Karakol, dann 380 km nach Bischkek). Private Touren kombinieren den Charyn-Canyon, die Kolsay-Seen und die Grenzüberquerung in einer durchgehenden Reiseroute.",
+        "fr": "Traversez la frontière terrestre de Kegen (environ 250 km d'Almaty à Karakol, puis 380 km jusqu'à Bichkek). Les circuits privés combinent le canyon de Charyn, les lacs de Kolsay et le passage de la frontière dans un itinéraire continu.",
+        "ja": "ケゲン陸路国境を越えます（アルマトイからカラコルまで約250km、さらにビシュケクまで380km）。プライベートツアーでは、チャリンキャニオン、コルサイ湖、国境越えを一つの連続した行程で組み合わせています。",
+        "es": "Cruza la frontera terrestre de Kegen (unos 250 km de Almaty a Karakol, luego 380 km hasta Bishkek). Los tours privados combinan el Cañón Charyn, los Lagos Kolsay y el cruce fronterizo en un itinerario continuo."
+      }
+    },
+    {
+      "q": {
+        "en": "How to get from Tashkent to Bishkek?",
+        "de": "Wie komme ich von Taschkent nach Bischkek?",
+        "fr": "Comment aller de Tachkent à Bichkek ?",
+        "ja": "タシュケントからビシュケクへの行き方は？",
+        "es": "¿Cómo llegar de Taskent a Bishkek?"
+      },
+      "a": {
+        "en": "Evening flights connect Tashkent and Bishkek in about 1 hour 40 minutes. Our 3 Stans and 4 Stans tours use this flight after the Uzbekistan leg, avoiding a long overland detour.",
+        "de": "Abendflüge verbinden Taschkent und Bischkek in etwa 1 Stunde 40 Minuten. Unsere 3-Stans- und 4-Stans-Reisen nutzen diesen Flug nach dem Usbekistan-Teil und vermeiden so einen langen Umweg über Land.",
+        "fr": "Les vols du soir relient Tachkent et Bichkek en environ 1 heure 40 minutes. Nos circuits 3 Stans et 4 Stans utilisent ce vol après l'étape ouzbèke, évitant un long détour par voie terrestre.",
+        "ja": "夕方のフライトでタシュケントとビシュケクを約1時間40分で結びます。3カ国・4カ国周遊ツアーでは、ウズベキスタン区間の後にこのフライトを利用し、長い陸路の迂回を避けます。",
+        "es": "Los vuelos nocturnos conectan Taskent y Biskek en aproximadamente 1 hora y 40 minutos. Nuestros recorridos de 3 Stans y 4 Stans utilizan este vuelo después de la etapa en Uzbekistán, evitando un largo desvío por tierra."
+      }
+    },
+    {
+      "q": {
+        "en": "What to do in Bishkek for a day?",
+        "de": "Was kann man an einem Tag in Bischkek unternehmen?",
+        "fr": "Que faire à Bichkek en une journée ?",
+        "ja": "ビシュケクで1日過ごすなら？",
+        "es": "¿Qué hacer en Biskek en un día?"
+      },
+      "a": {
+        "en": "Visit Ala-Too Square, the Manas monument and Osh Bazaar in a morning, then join a private day trip to Ala-Archa National Park and Burana Tower for an 8-hour mountain and Silk Road excursion.",
+        "de": "Besuchen Sie den Ala-Too-Platz, das Manas-Denkmal und den Osh-Basar am Vormittag, und nehmen Sie dann an einer privaten Tagesausfahrt zum Ala-Archa-Nationalpark und zum Burana-Turm teil – ein 8-stündiger Ausflug in die Berge und auf die Spuren der Seidenstraße.",
+        "fr": "Visitez la place Ala-Too, le monument Manas et le bazar d'Och le matin, puis participez à une excursion privée d'une journée dans le parc national d'Ala-Archa et à la tour de Burana pour une escapade de 8 heures entre montagnes et Route de la Soie.",
+        "ja": "午前中にアラ・トゥー広場、マナス記念碑、オシュ・バザールを訪れ、その後、プライベートの日帰りツアーでアラ・アルチャ国立公園とブーラナの塔へ。8時間の山岳とシルクロードの小旅行です。",
+        "es": "Visite la Plaza Ala-Too, el monumento a Manás y el bazar de Osh por la mañana, luego únase a una excursión privada de un día al Parque Nacional Ala-Archa y a la Torre de Burana para una excursión de montaña y de la Ruta de la Seda de 8 horas."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Day Trips from Bishkek: Ala-Archa & Burana Tower (2027)",
+      "meta_description": "Day trips from Bishkek with drive times, best months and private tour details to Ala-Archa, Burana Tower and Issyk-Kul. See the day-by-day plan.",
+      "focus_keyword": "day trips from bishkek",
+      "keywords": [
+        "day trips from bishkek",
+        "bishkek day trips",
+        "day trips from bishkek kyrgyzstan",
+        "best day trips from bishkek",
+        "multi day trips from bishkek",
+        "how to get from bishkek to karakol",
+        "how to get from almaty to bishkek",
+        "how to get from tashkent to bishkek"
+      ]
+    },
+    "de": {
+      "seo_title": "Tagesausflüge ab Bischkek: Ala-Archa & Burana Tower (2027)",
+      "meta_description": "Tagesausflüge ab Bischkek mit Fahrzeiten, besten Monaten und privaten Tour-Details zu Ala-Archa, dem Burana Tower und dem Issyk-Kul. Sehen Sie den Tagesplan.",
+      "focus_keyword": "tagesausflüge ab bischkek",
+      "keywords": [
+        "tagesausflüge ab bischkek",
+        "bischkek tagesausflüge",
+        "tagesausflüge ab bischkek kirgisistan",
+        "beste tagesausflüge ab bischkek",
+        "mehrtägige ausflüge ab bischkek",
+        "wie kommt man von bischkek nach karakol",
+        "wie kommt man von almaty nach bischkek",
+        "wie kommt man von taschkent nach bischkek"
+      ]
+    },
+    "fr": {
+      "seo_title": "Excursions d'une journée depuis Bichkek : Ala-Archa et la tour de Burana (2027)",
+      "meta_description": "Excursions d'une journée depuis Bichkek avec les temps de trajet, les meilleurs mois et les détails des visites privées vers Ala-Archa, la tour de Burana et Issyk-Koul. Consultez le planning jour par jour.",
+      "focus_keyword": "excursions d'une journée depuis bichkek",
+      "keywords": [
+        "excursions d'une journée depuis bichkek",
+        "excursions d'une journée depuis bichkek",
+        "excursions d'une journée depuis bichkek kirghizistan",
+        "meilleures excursions d'une journée depuis bichkek",
+        "excursions sur plusieurs jours depuis bichkek",
+        "comment se rendre de bichkek à karakol",
+        "comment se rendre d'almaty à bichkek",
+        "comment se rendre de tachkent à bichkek"
+      ]
+    },
+    "ja": {
+      "seo_title": "ビシュケクからの日帰り旅行：アラアルチャとブラナの塔（2027年）",
+      "meta_description": "ビシュケクからの日帰り旅行。所要時間、ベストシーズン、アラアルチャ、ブーラナ塔、イシククルへのプライベートツアー詳細。日ごとのプランをご覧ください。",
+      "focus_keyword": "ビシュケクからの日帰り旅行",
+      "keywords": [
+        "ビシュケクからの日帰り旅行",
+        "ビシュケク 日帰り旅行",
+        "キルギス ビシュケクからの日帰り旅行",
+        "ビシュケクからのおすすめ日帰り旅行",
+        "ビシュケクからの複数日旅行",
+        "ビシュケクからカラコルへの行き方",
+        "アルマトイからビシュケクへの行き方",
+        "タシュケントからビシュケクへの行き方"
+      ]
+    },
+    "es": {
+      "seo_title": "Excursiones de un día desde Bishkek: Ala-Archa y Torre Burana (2027)",
+      "meta_description": "Excursiones de un día desde Bishkek con tiempos de viaje, mejores meses y detalles del tour privado a Ala-Archa, Torre Burana e Issyk-Kul. Consulta el plan día a día.",
+      "focus_keyword": "excursiones de un día desde bishkek",
+      "keywords": [
+        "excursiones de un día desde bishkek",
+        "excursiones de un día desde bishkek",
+        "excursiones de un día desde bishkek kirguistán",
+        "mejores excursiones de un día desde bishkek",
+        "excursiones de varios días desde bishkek",
+        "cómo llegar de bishkek a karakol",
+        "cómo llegar de almaty a bishkek",
+        "cómo llegar de taskent a bishkek"
+      ]
+    }
+  },
+  "contentHash": "5cebf1c9e9b137c0"
+}

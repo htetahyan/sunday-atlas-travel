@@ -1,0 +1,316 @@
+{
+  "version": 1,
+  "cycle": [
+    "china",
+    "tajikistan",
+    "kazakhstan",
+    "poland"
+  ],
+  "history": [
+    {
+      "date": "2026-10-31",
+      "destination": "armenia",
+      "topics": [
+        "things-to-do-in-yerevan",
+        "top-10-places-to-visit-in-armenia",
+        "best-time-to-visit-armenia",
+        "day-trips-from-yerevan",
+        "lake-sevan-travel-guide",
+        "garni-temple-and-geghard-monastery-day-trip-from-yerevan"
+      ],
+      "created": 6
+    },
+    {
+      "date": "2026-11-01",
+      "destination": "azerbaijan",
+      "topics": [
+        "things-to-do-in-baku",
+        "top-10-places-to-visit-in-azerbaijan",
+        "best-time-to-visit-azerbaijan"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-02",
+      "destination": "kyrgyzstan",
+      "topics": [
+        "things-to-do-in-bishkek",
+        "top-10-places-to-visit-in-kyrgyzstan",
+        "best-time-to-visit-kyrgyzstan"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-02",
+      "slot": 1,
+      "destination": "poland",
+      "topics": [
+        "zakopane-day-trip-from-krakow",
+        "how-many-days-in-poland",
+        "things-to-do-in-katowice-poland"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-03",
+      "slot": 0,
+      "destination": "china",
+      "topics": [
+        "harbin-itinerary-7-days",
+        "things-to-do-in-jilin",
+        "best-time-to-visit-harbin"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-03",
+      "slot": 1,
+      "destination": "tajikistan",
+      "topics": [
+        "tajikistan-itinerary-5-days",
+        "is-dushanbe-worth-visiting",
+        "best-things-to-do-in-tajikistan"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-05",
+      "slot": 0,
+      "destination": "kazakhstan",
+      "topics": [
+        "almaty-itinerary-4-days",
+        "day-trips-from-almaty-kazakhstan",
+        "almaty-local-tour-packages"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-05",
+      "slot": 1,
+      "destination": "uzbekistan",
+      "topics": [
+        "day-trip-from-samarkand",
+        "is-tashkent-worth-visiting",
+        "samarkand-itinerary-2-days"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-05",
+      "slot": 2,
+      "destination": "poland",
+      "topics": [
+        "krakow-itinerary-3-days",
+        "is-zakopane-worth-visiting",
+        "how-to-get-to-zakopane"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-04",
+      "slot": 0,
+      "destination": "azerbaijan",
+      "topics": [
+        "baku-itinerary-5-days",
+        "azerbaijan-itinerary-3-days",
+        "absheron-tour-baku"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-06",
+      "slot": 0,
+      "destination": "kyrgyzstan",
+      "topics": [
+        "kyrgyzstan-itinerary-10-days",
+        "is-bishkek-worth-visiting",
+        "day-trips-from-bishkek"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-06",
+      "slot": 1,
+      "destination": "china",
+      "topics": [
+        "harbin-in-winter",
+        "changbai-mountain-winter-travel-guide",
+        "jilin-china-in-winter"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-06",
+      "slot": 2,
+      "destination": "tajikistan",
+      "topics": [
+        "cheap-package-holidays-to-dushanbe",
+        "2-days-in-dushanbe",
+        "iskanderkul-day-trip-from-dushanbe"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-07",
+      "slot": 0,
+      "destination": "kazakhstan",
+      "topics": [
+        "almaty-tour-package",
+        "kazakhstan-kyrgyzstan-uzbekistan-itinerary-10-days",
+        "almaty-trip-cost"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-07",
+      "slot": 1,
+      "destination": "armenia",
+      "topics": [
+        "armenia-tours-from-yerevan",
+        "is-yerevan-worth-visiting",
+        "yerevan-2-days-itinerary"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-07",
+      "slot": 2,
+      "destination": "uzbekistan",
+      "topics": [
+        "tashkent-city-tour",
+        "what-to-do-in-tashkent",
+        "tashkent-itinerary-3-days"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-08",
+      "slot": 0,
+      "destination": "poland",
+      "topics": [
+        "poland-itinerary-14-days",
+        "day-trips-from-krakow-poland",
+        "what-to-do-in-poznan-poland"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-08",
+      "slot": 1,
+      "destination": "azerbaijan",
+      "topics": [
+        "baku-day-tour-package",
+        "azerbaijan-cost-of-travel",
+        "baku-itinerary-3-days"
+      ],
+      "created": 3
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 0,
+      "destination": "kyrgyzstan",
+      "topics": [
+        "how-to-get-to-karakol-from-bishkek",
+        "best-time-to-visit-bishkek"
+      ],
+      "created": 2
+    },
+    {
+      "date": "2026-11-10",
+      "slot": 0,
+      "destination": "china",
+      "topics": [
+        "best-time-to-visit-jilin-china"
+      ],
+      "created": 1
+    },
+    {
+      "date": "2026-11-11",
+      "slot": 0,
+      "destination": "tajikistan",
+      "topics": [
+        "two-weeks-in-tajikistan"
+      ],
+      "created": 1
+    },
+    {
+      "date": "2026-11-12",
+      "slot": 0,
+      "destination": "kazakhstan",
+      "topics": [
+        "kolsay-tour-almaty"
+      ],
+      "created": 1
+    },
+    {
+      "date": "2026-11-13",
+      "slot": 0,
+      "destination": "armenia",
+      "topics": [
+        "armenia-itinerary-2-weeks"
+      ],
+      "created": 1
+    },
+    {
+      "date": "2026-11-14",
+      "slot": 0,
+      "destination": "uzbekistan",
+      "topics": [
+        "best-time-to-visit-samarkand"
+      ],
+      "created": 1
+    },
+    {
+      "date": "2026-11-15",
+      "slot": 0,
+      "destination": "china",
+      "topics": [
+        "yabuli-ski-resort-travel-guide"
+      ],
+      "created": 1
+    },
+    {
+      "date": "2026-11-16",
+      "slot": 0,
+      "destination": "tajikistan",
+      "topics": [
+        "things-to-do-in-dushanbe"
+      ],
+      "created": 1
+    },
+    {
+      "date": "2026-11-17",
+      "slot": 0,
+      "destination": "kazakhstan",
+      "topics": [
+        "things-to-do-in-almaty"
+      ],
+      "created": 1
+    },
+    {
+      "date": "2026-11-18",
+      "slot": 0,
+      "destination": "poland",
+      "topics": [
+        "wroclaw-itinerary-2-days"
+      ],
+      "created": 1
+    }
+  ],
+  "blockedDestinations": {
+    "2026-11-05": [
+      {
+        "destination": "turkmenistan",
+        "reason": "turkmenistan-travel-guide: price 2 at intro.en is not in the package catalog; things-to-do-in-turkmenistan: price 2 at sections.2.paragraphs.en.3 is not in the package catalog; top-10-places-to-visit-in-turkmenistan: price 2 at sections.0.paragraphs.en.3 is not in the package catalog",
+        "at": "2026-11-05T15:40:54.821Z"
+      }
+    ],
+    "2026-11-04": [
+      {
+        "destination": "turkmenistan",
+        "reason": "things-to-do-in-turkmenistan: price 2 at sections.3.paragraphs.en.1 is not in the package catalog; top-10-places-to-visit-in-turkmenistan: price 2 at sections.0.paragraphs.en.0 is not in the package catalog; turkmenistan-travel-guide: price 120 at sections.0.paragraphs.en.0 is not in the package catalog",
+        "at": "2026-11-06T01:34:47.975Z"
+      }
+    ]
+  }
+}

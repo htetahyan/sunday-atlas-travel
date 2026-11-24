@@ -1,0 +1,4219 @@
+{
+  "_comment": "Daily blog topic queue. scripts/blog-daily.mjs takes the first 'pending' topics in order, writes one post per topic in en/de/fr/ja/es, and marks each topic 'published' (with slug and date) or 'skipped' (with the failed quality gate). Add new topics at the end. 'packages' must be real slugs in content/packages; prices always come from that catalog. Never use the words tailor-made, bespoke or curated.",
+  "version": 1,
+  "topics": [
+    {
+      "id": "things-to-do-in-tashkent",
+      "keyword": "things to do in Tashkent",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days",
+        "chimgan-mountains-charvak-lake-day-trip",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Tashkent city sights, metro, bazaars, plus mountain and train day trips",
+      "status": "published",
+      "slug": "things-to-do-in-tashkent",
+      "publishedAt": "2026-10-30T08:32:24+04:00"
+    },
+    {
+      "id": "things-to-do-in-samarkand",
+      "keyword": "things to do in Samarkand",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "3-stans-discovery-14-days",
+        "tashkent-city-chimgan-mountains-5-days"
+      ],
+      "angle": "Registan, Shah-i-Zinda, Gur-e-Amir, Bibi-Khanym, Siab Bazaar",
+      "status": "published",
+      "slug": "things-to-do-in-samarkand",
+      "publishedAt": "2026-10-30T08:38:32+04:00"
+    },
+    {
+      "id": "day-trip-from-tashkent-to-samarkand-by-train",
+      "keyword": "day trip from Tashkent to Samarkand by train",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days"
+      ],
+      "angle": "Afrosiyob timing, what fits in one day, return evening",
+      "status": "skipped",
+      "attempts": 1,
+      "lastError": "reseller wording at sections.3.paragraphs.fr.2 | reseller wording at sections.4.paragraphs.fr.3",
+      "checkedAt": "2026-10-30T09:05:29+04:00",
+      "reason": "duplicate of uzbekistan-itinerary-5-days"
+    },
+    {
+      "id": "chimgan-mountains-and-charvak-lake-day-trip-from-tashkent",
+      "keyword": "Chimgan Mountains and Charvak Lake day trip from Tashkent",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "chimgan-mountains-charvak-lake-day-trip",
+        "tashkent-city-chimgan-mountains-5-days"
+      ],
+      "angle": "chairlift, Charvak reservoir, seasons, what to pack",
+      "status": "published",
+      "attempts": 1,
+      "checkedAt": "2026-10-30T08:56:27+04:00",
+      "slug": "chimgan-mountains-and-charvak-lake-day-trip-from-tashkent",
+      "publishedAt": "2026-10-30T09:09:03+04:00"
+    },
+    {
+      "id": "uzbekistan-itinerary-5-days",
+      "keyword": "Uzbekistan itinerary 5 days",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "tashkent-city-chimgan-mountains-5-days",
+        "samarkand-day-tour-by-afrosiyob-train",
+        "chimgan-mountains-charvak-lake-day-trip"
+      ],
+      "angle": "day-by-day plan based in Tashkent with Samarkand by train",
+      "status": "published",
+      "slug": "uzbekistan-itinerary-5-days",
+      "publishedAt": "2026-10-30T09:02:50+04:00"
+    },
+    {
+      "id": "best-time-to-visit-uzbekistan",
+      "keyword": "best time to visit Uzbekistan",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days",
+        "chimgan-mountains-charvak-lake-day-trip",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "month-by-month weather, festivals, crowds, train availability",
+      "status": "published",
+      "slug": "best-time-to-visit-uzbekistan",
+      "publishedAt": "2026-10-30T09:12:14+04:00"
+    },
+    {
+      "id": "samarkand-travel-guide",
+      "keyword": "Samarkand travel guide",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "3-stans-discovery-14-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "history, sights, how to get there, where to stay",
+      "status": "published",
+      "slug": "samarkand-travel-guide",
+      "publishedAt": "2026-10-30T09:15:36+04:00"
+    },
+    {
+      "id": "afrosiyob-train-tashkent-to-samarkand-guide",
+      "keyword": "Afrosiyob train Tashkent to Samarkand guide",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days"
+      ],
+      "angle": "classes, journey time, stations, tickets, tips",
+      "status": "pending",
+      "attempts": 1,
+      "lastError": "translation failed for 1 field(s): ja:s3.f0.v (brand wording)",
+      "checkedAt": "2026-10-30T13:50:22+04:00"
+    },
+    {
+      "id": "top-10-places-to-visit-in-uzbekistan",
+      "keyword": "top 10 places to visit in Uzbekistan",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days",
+        "chimgan-mountains-charvak-lake-day-trip",
+        "3-stans-discovery-14-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Samarkand, Bukhara, Khiva, Tashkent, Chimgan, Charvak and more",
+      "status": "published",
+      "slug": "top-10-places-to-visit-in-uzbekistan",
+      "publishedAt": "2026-10-30T13:56:48+04:00"
+    },
+    {
+      "id": "bukhara-and-khiva-travel-guide",
+      "keyword": "Bukhara and Khiva travel guide",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "old towns, madrasas, Itchan Kala, train links",
+      "status": "published",
+      "slug": "bukhara-and-khiva-travel-guide",
+      "publishedAt": "2026-10-30T14:00:48+04:00"
+    },
+    {
+      "id": "uzbekistan-in-winter-travel-guide",
+      "keyword": "Uzbekistan in winter travel guide",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days",
+        "chimgan-mountains-charvak-lake-day-trip",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "what to do in Uzbekistan from December to February, mountains and cities",
+      "status": "published",
+      "slug": "uzbekistan-in-winter-travel-guide",
+      "publishedAt": "2026-10-30T14:08:28+04:00"
+    },
+    {
+      "id": "things-to-do-in-almaty",
+      "keyword": "things to do in Almaty",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "charyn-kolsai-kaindy-2-days",
+        "turgen-gorge-assy-plateau-2-days",
+        "bogdanovich-glacier-day-hike",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Medeu, Shymbulak, Kok-Tobe, Green Bazaar, lakes and canyons nearby",
+      "status": "published",
+      "slug": "things-to-do-in-almaty",
+      "publishedAt": "2026-11-17T09:08:01+04:00"
+    },
+    {
+      "id": "charyn-canyon-travel-guide",
+      "keyword": "Charyn Canyon travel guide",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "charyn-kolsai-kaindy-2-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Valley of Castles, how to get there from Almaty, best season",
+      "status": "pending"
+    },
+    {
+      "id": "kolsai-and-kaindy-lakes-travel-guide",
+      "keyword": "Kolsai and Kaindy Lakes travel guide",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "charyn-kolsai-kaindy-2-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "sunken forest, Kolsai hiking, overnight stay, road conditions",
+      "status": "pending"
+    },
+    {
+      "id": "best-time-to-visit-kazakhstan",
+      "keyword": "best time to visit Kazakhstan",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "charyn-kolsai-kaindy-2-days",
+        "turgen-gorge-assy-plateau-2-days",
+        "bogdanovich-glacier-day-hike",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Almaty seasons, mountain passes, lakes, winter options",
+      "status": "pending"
+    },
+    {
+      "id": "bogdanovich-glacier-hike-from-almaty",
+      "keyword": "Bogdanovich Glacier hike from Almaty",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "bogdanovich-glacier-day-hike",
+        "charyn-kolsai-kaindy-2-days"
+      ],
+      "angle": "Shymbulak lifts, altitude, fitness, what to bring",
+      "status": "pending"
+    },
+    {
+      "id": "turgen-gorge-and-assy-plateau-travel-guide",
+      "keyword": "Turgen Gorge and Assy Plateau travel guide",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days"
+      ],
+      "angle": "waterfalls, 4x4 plateau road, observatory, yurt night",
+      "status": "pending"
+    },
+    {
+      "id": "almaty-itinerary-3-days",
+      "keyword": "Almaty itinerary 3 days",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "charyn-kolsai-kaindy-2-days",
+        "turgen-gorge-assy-plateau-2-days",
+        "bogdanovich-glacier-day-hike",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "city day, mountain day, lakes and canyon options",
+      "status": "pending"
+    },
+    {
+      "id": "day-trips-from-almaty",
+      "keyword": "day trips from Almaty",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "charyn-kolsai-kaindy-2-days",
+        "turgen-gorge-assy-plateau-2-days",
+        "bogdanovich-glacier-day-hike",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Shymbulak, Bogdanovich Glacier, Charyn, Kolsai, Turgen",
+      "status": "pending"
+    },
+    {
+      "id": "top-10-places-to-visit-in-kazakhstan",
+      "keyword": "top 10 places to visit in Kazakhstan",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "charyn-kolsai-kaindy-2-days",
+        "turgen-gorge-assy-plateau-2-days",
+        "bogdanovich-glacier-day-hike",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "Almaty region highlights and Silk Road links",
+      "status": "pending"
+    },
+    {
+      "id": "things-to-do-in-bishkek",
+      "keyword": "things to do in Bishkek",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Ala-Too Square, Osh Bazaar, Ala Archa, Burana Tower",
+      "status": "published",
+      "slug": "things-to-do-in-bishkek",
+      "publishedAt": "2026-11-02T12:04:55+04:00"
+    },
+    {
+      "id": "ala-archa-national-park-hiking-guide",
+      "keyword": "Ala Archa National Park hiking guide",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "trails, waterfall hike, seasons, distance from Bishkek",
+      "status": "pending"
+    },
+    {
+      "id": "burana-tower-day-trip-from-bishkek",
+      "keyword": "Burana Tower day trip from Bishkek",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Balasagun history, balbals, combining with Ala Archa",
+      "status": "pending"
+    },
+    {
+      "id": "best-time-to-visit-kyrgyzstan",
+      "keyword": "best time to visit Kyrgyzstan",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "summer pastures, shoulder seasons, Issyk-Kul, winter",
+      "status": "published",
+      "slug": "best-time-to-visit-kyrgyzstan",
+      "publishedAt": "2026-11-02T12:16:00+04:00"
+    },
+    {
+      "id": "issyk-kul-lake-travel-guide",
+      "keyword": "Issyk-Kul Lake travel guide",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "north and south shore, Karakol, swimming season",
+      "status": "pending"
+    },
+    {
+      "id": "kyrgyzstan-itinerary-2-weeks",
+      "keyword": "Kyrgyzstan itinerary 2 weeks",
+      "destination": "kyrgyzstan",
+      "countries": [
+        "kazakhstan",
+        "uzbekistan"
+      ],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "two-week route through Kyrgyzstan with Almaty and Uzbekistan links",
+      "status": "skipped",
+      "secondary": [
+        "kyrgyzstan itinerary 14 days",
+        "kyrgyzstan travel itinerary 14 days",
+        "14 days in kyrgyzstan",
+        "two weeks in kyrgyzstan",
+        "14 day kyrgyzstan itinerary"
+      ],
+      "questions": [
+        "how many days in kyrgyzstan"
+      ],
+      "research": {
+        "score": 7.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 36,
+        "itineraryIntent": true,
+        "itineraryDays": 14
+      },
+      "attempts": 2,
+      "lastError": "only 1 tour card(s) embedded (min 2)",
+      "checkedAt": "2026-11-10T06:11:36+04:00"
+    },
+    {
+      "id": "top-10-places-to-visit-in-kyrgyzstan",
+      "keyword": "top 10 places to visit in Kyrgyzstan",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Ala Archa, Burana, Issyk-Kul, Karakol, Osh",
+      "status": "published",
+      "slug": "top-10-places-to-visit-in-kyrgyzstan",
+      "publishedAt": "2026-11-02T12:09:34+04:00"
+    },
+    {
+      "id": "things-to-do-in-dushanbe",
+      "keyword": "things to do in Dushanbe",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Rudaki Avenue, Hisor fortress, Iskanderkul day trip",
+      "status": "published",
+      "slug": "things-to-do-in-dushanbe",
+      "publishedAt": "2026-11-16T07:36:28+04:00"
+    },
+    {
+      "id": "iskanderkul-lake-day-trip-from-dushanbe",
+      "keyword": "Iskanderkul Lake day trip from Dushanbe",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "Anzob road, waterfall, best months",
+      "status": "pending"
+    },
+    {
+      "id": "seven-lakes-of-marguzor-travel-guide",
+      "keyword": "Seven Lakes of Marguzor travel guide",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "four-stans-odyssey-18-days",
+        "iskanderkul-lake-fann-mountains-day-trip"
+      ],
+      "angle": "Haft Kul lakes, Penjikent access, colours by season",
+      "status": "pending"
+    },
+    {
+      "id": "best-time-to-visit-tajikistan",
+      "keyword": "best time to visit Tajikistan",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Fann Mountains season, passes, winter in Dushanbe",
+      "status": "skipped",
+      "secondary": [
+        "tajikistan best time to visit",
+        "best time to visit seven lakes tajikistan",
+        "best time to visit dushanbe",
+        "best places to visit in tajikistan"
+      ],
+      "questions": [
+        "when is a good time to visit tajikistan",
+        "where to visit in tajikistan",
+        "is tajikistan expensive to visit"
+      ],
+      "research": {
+        "score": 14,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 3
+      },
+      "attempts": 2,
+      "lastError": "translation failed for 1 field(s): fr:summary (numbers differ) | missing summary.fr",
+      "checkedAt": "2026-11-16T07:24:54+04:00"
+    },
+    {
+      "id": "tajikistan-travel-guide",
+      "keyword": "Tajikistan travel guide",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Dushanbe, Fann Mountains, Khujand, Penjikent, practical tips",
+      "status": "pending"
+    },
+    {
+      "id": "khujand-and-penjikent-travel-guide",
+      "keyword": "Khujand and Penjikent travel guide",
+      "destination": "tajikistan",
+      "countries": [
+        "uzbekistan"
+      ],
+      "category": "destination-guide",
+      "packages": [
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "northern Tajikistan Silk Road towns and border crossings",
+      "status": "pending"
+    },
+    {
+      "id": "things-to-do-in-ashgabat",
+      "keyword": "things to do in Ashgabat",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "white marble city, monuments, bazaars, Darvaza add-on",
+      "status": "skipped",
+      "secondary": [
+        "things to do in ashgabat turkmenistan",
+        "best things to do in ashgabat",
+        "top 10 things to do in ashgabat",
+        "things to see in ashgabat"
+      ],
+      "questions": [
+        "what to do in ashgabat",
+        "can you visit ashgabat",
+        "what to see in ashgabat"
+      ],
+      "research": {
+        "score": 14.1,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 2
+      },
+      "attempts": 14,
+      "lastError": "price 2 at sections.2.paragraphs.en.3 is not in the package catalog | price 2 at sections.2.paragraphs.de.3 is not in the package catalog | price 2 at sections.2.paragraphs.fr.3 is not in the package catalog | price 2 at sections.2.paragraphs.ja.3 is not in the package catalog",
+      "checkedAt": "2026-11-05T15:48:57+04:00"
+    },
+    {
+      "id": "best-time-to-visit-turkmenistan",
+      "keyword": "best time to visit Turkmenistan",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "desert heat, spring and autumn, Darvaza camping",
+      "status": "skipped",
+      "secondary": [
+        "best time of year to visit turkmenistan",
+        "best time to visit ashgabat",
+        "best places to visit in turkmenistan",
+        "best month to visit turkmenistan"
+      ],
+      "questions": [
+        "how to visit turkmenistan",
+        "can you visit turkmenistan",
+        "what is the time in turkmenistan"
+      ],
+      "research": {
+        "score": 14,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 3
+      },
+      "attempts": 14,
+      "lastError": "price 2 at sections.0.paragraphs.en.1 is not in the package catalog | price 2 at sections.0.paragraphs.de.1 is not in the package catalog | price 2 at sections.0.paragraphs.fr.1 is not in the package catalog | price 2 at sections.0.paragraphs.ja.1 is not in the package catalog",
+      "checkedAt": "2026-11-05T15:56:32+04:00"
+    },
+    {
+      "id": "turkmenistan-travel-guide",
+      "keyword": "Turkmenistan travel guide",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "visas, letter of invitation, Ashgabat, Karakum desert",
+      "status": "skipped",
+      "attempts": 2,
+      "lastError": "price 120 at sections.0.paragraphs.en.0 is not in the package catalog | price 2 at sections.0.paragraphs.en.0 is not in the package catalog | price 120 at sections.0.paragraphs.de.0 is not in the package catalog | price 2 at sections.0.paragraphs.de.0 is not in the package catalog",
+      "checkedAt": "2026-11-06T05:12:13+04:00"
+    },
+    {
+      "id": "turkmenistan-itinerary-4-days",
+      "keyword": "Turkmenistan itinerary 4 days",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Ashgabat days plus Darvaza crater night or day trip",
+      "status": "pending"
+    },
+    {
+      "id": "things-to-do-in-yerevan",
+      "keyword": "things to do in Yerevan",
+      "destination": "armenia",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "armenia-cultural-discovery-5-days",
+        "armenia-legends-4-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "Cascade, Republic Square, Vernissage, Matenadaran, day trips",
+      "status": "published",
+      "slug": "things-to-do-in-yerevan",
+      "publishedAt": "2026-10-31T10:36:51+04:00"
+    },
+    {
+      "id": "garni-temple-and-geghard-monastery-day-trip-from-yerevan",
+      "keyword": "Garni Temple and Geghard Monastery day trip from Yerevan",
+      "destination": "armenia",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "garni-geghard-lake-sevan-day-trip",
+        "armenia-legends-4-days",
+        "armenia-cultural-discovery-5-days"
+      ],
+      "angle": "Symphony of Stones, Geghard, timing",
+      "status": "published",
+      "slug": "garni-temple-and-geghard-monastery-day-trip-from-yerevan",
+      "publishedAt": "2026-10-31T13:35:48+04:00"
+    },
+    {
+      "id": "lake-sevan-travel-guide",
+      "keyword": "Lake Sevan travel guide",
+      "destination": "armenia",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "garni-geghard-lake-sevan-day-trip",
+        "armenia-cultural-discovery-5-days",
+        "armenia-legends-4-days"
+      ],
+      "angle": "Sevanavank, beaches, seasons, Dilijan link",
+      "status": "published",
+      "slug": "lake-sevan-travel-guide",
+      "publishedAt": "2026-10-31T13:31:42+04:00"
+    },
+    {
+      "id": "best-time-to-visit-armenia",
+      "keyword": "best time to visit Armenia",
+      "destination": "armenia",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "armenia-cultural-discovery-5-days",
+        "armenia-legends-4-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "spring blossoms, summer, autumn wine harvest, winter",
+      "status": "published",
+      "slug": "best-time-to-visit-armenia",
+      "publishedAt": "2026-10-31T10:52:30+04:00"
+    },
+    {
+      "id": "armenia-itinerary-5-days",
+      "keyword": "Armenia itinerary 5 days",
+      "destination": "armenia",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "armenia-cultural-discovery-5-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "Yerevan, Garni, Geghard, Sevan, Dilijan, Khor Virap, Noravank",
+      "status": "pending"
+    },
+    {
+      "id": "armenia-itinerary-4-days",
+      "keyword": "Armenia itinerary 4 days",
+      "destination": "armenia",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "armenia-legends-4-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "compact route with Khor Virap, Areni and Noravank",
+      "status": "pending"
+    },
+    {
+      "id": "top-10-places-to-visit-in-armenia",
+      "keyword": "top 10 places to visit in Armenia",
+      "destination": "armenia",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "armenia-cultural-discovery-5-days",
+        "armenia-legends-4-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "Khor Virap, Garni, Geghard, Sevan, Dilijan, Noravank, Areni",
+      "status": "published",
+      "slug": "top-10-places-to-visit-in-armenia",
+      "publishedAt": "2026-10-31T10:43:17+04:00"
+    },
+    {
+      "id": "khor-virap-and-noravank-day-trip-guide",
+      "keyword": "Khor Virap and Noravank day trip guide",
+      "destination": "armenia",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "armenia-legends-4-days",
+        "armenia-cultural-discovery-5-days"
+      ],
+      "angle": "Ararat views, Areni wine region, canyon monastery",
+      "status": "pending"
+    },
+    {
+      "id": "day-trips-from-yerevan",
+      "keyword": "day trips from Yerevan",
+      "destination": "armenia",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "armenia-cultural-discovery-5-days",
+        "armenia-legends-4-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "Garni and Geghard, Sevan and Dilijan, Khor Virap and Noravank",
+      "status": "published",
+      "slug": "day-trips-from-yerevan",
+      "publishedAt": "2026-10-31T13:28:09+04:00"
+    },
+    {
+      "id": "things-to-do-in-baku",
+      "keyword": "things to do in Baku",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "azerbaijan-journey-5-days",
+        "azerbaijan-explorer-4-days",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "Old City, Flame Towers, boulevard, Heydar Aliyev Center",
+      "status": "published",
+      "slug": "things-to-do-in-baku",
+      "publishedAt": "2026-11-01T07:31:48+04:00"
+    },
+    {
+      "id": "gobustan-and-mud-volcanoes-day-trip-from-baku",
+      "keyword": "Gobustan and mud volcanoes day trip from Baku",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "gobustan-mud-volcanoes-absheron-day-trip",
+        "azerbaijan-explorer-4-days"
+      ],
+      "angle": "petroglyphs, mud volcanoes, Absheron fire sites",
+      "status": "pending"
+    },
+    {
+      "id": "best-time-to-visit-azerbaijan",
+      "keyword": "best time to visit Azerbaijan",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "azerbaijan-journey-5-days",
+        "azerbaijan-explorer-4-days",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "Baku wind, spring and autumn, mountains in summer",
+      "status": "published",
+      "slug": "best-time-to-visit-azerbaijan",
+      "publishedAt": "2026-11-01T07:44:06+04:00"
+    },
+    {
+      "id": "azerbaijan-itinerary-5-days",
+      "keyword": "Azerbaijan itinerary 5 days",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "azerbaijan-journey-5-days",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "Baku, Gobustan, Absheron, Gabala",
+      "status": "pending"
+    },
+    {
+      "id": "gabala-travel-guide",
+      "keyword": "Gabala travel guide",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "azerbaijan-journey-5-days",
+        "azerbaijan-explorer-4-days"
+      ],
+      "angle": "mountain resort, lakes, cable cars, from Baku",
+      "status": "pending"
+    },
+    {
+      "id": "absheron-peninsula-fire-sites-guide",
+      "keyword": "Absheron Peninsula fire sites guide",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "gobustan-mud-volcanoes-absheron-day-trip",
+        "azerbaijan-explorer-4-days"
+      ],
+      "angle": "Yanar Dag, Ateshgah fire temple",
+      "status": "pending"
+    },
+    {
+      "id": "baku-itinerary-4-days",
+      "keyword": "Baku itinerary 4 days",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "azerbaijan-explorer-4-days",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "city days and Absheron and Gobustan trip",
+      "status": "pending"
+    },
+    {
+      "id": "top-10-places-to-visit-in-azerbaijan",
+      "keyword": "top 10 places to visit in Azerbaijan",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "azerbaijan-journey-5-days",
+        "azerbaijan-explorer-4-days",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "Baku Old City, Gobustan, mud volcanoes, Yanar Dag, Gabala",
+      "status": "published",
+      "slug": "top-10-places-to-visit-in-azerbaijan",
+      "publishedAt": "2026-11-01T07:37:18+04:00"
+    },
+    {
+      "id": "things-to-do-in-harbin-in-winter",
+      "keyword": "things to do in Harbin in winter",
+      "destination": "china",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "harbin-ice-festival-city-highlights-day-tour",
+        "harbin-snow-town-changbai-mountain-7-days"
+      ],
+      "angle": "Ice and Snow World, Central Street, Saint Sophia, Siberian Tiger Park",
+      "status": "pending"
+    },
+    {
+      "id": "china-snow-town-travel-guide",
+      "keyword": "China Snow Town travel guide",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "Xuexiang snow mushrooms, night lights, staying overnight",
+      "status": "pending"
+    },
+    {
+      "id": "changbai-mountain-winter-travel-guide",
+      "keyword": "Changbai Mountain winter travel guide",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "Heaven Lake, hot springs, high-speed train",
+      "status": "published",
+      "slug": "changbai-mountain-winter-travel-guide",
+      "publishedAt": "2026-11-06T19:54:19+04:00"
+    },
+    {
+      "id": "best-time-to-visit-harbin",
+      "keyword": "best time to visit Harbin",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-ice-festival-city-highlights-day-tour",
+        "harbin-snow-town-changbai-mountain-7-days"
+      ],
+      "angle": "festival dates, temperatures, snow season by month",
+      "status": "published",
+      "secondary": [
+        "best time to visit harbin china",
+        "harbin china when is the best time to visit",
+        "best time to visit harbin for snow",
+        "best time to visit harbin 2026"
+      ],
+      "questions": [
+        "when is the best time to visit harbin",
+        "where to visit in harbin",
+        "is harbin worth visiting in winter",
+        "is harbin worth visiting in summer"
+      ],
+      "research": {
+        "score": 11.7,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 4
+      },
+      "attempts": 3,
+      "checkedAt": "2026-11-03T04:58:13+04:00",
+      "slug": "best-time-to-visit-harbin",
+      "publishedAt": "2026-11-03T13:00:55+04:00"
+    },
+    {
+      "id": "harbin-winter-itinerary-7-days",
+      "keyword": "Harbin winter itinerary 7 days",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "Harbin, Yabuli, Snow Town, Changbai, Yanji",
+      "status": "pending"
+    },
+    {
+      "id": "what-to-wear-in-harbin-in-winter",
+      "keyword": "what to wear in Harbin in winter",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-ice-festival-city-highlights-day-tour",
+        "harbin-snow-town-changbai-mountain-7-days"
+      ],
+      "angle": "layering for minus 25 C, boots, phone batteries",
+      "status": "pending"
+    },
+    {
+      "id": "yabuli-ski-resort-travel-guide",
+      "keyword": "Yabuli ski resort travel guide",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "slopes, season, link with Snow Town",
+      "status": "published",
+      "slug": "yabuli-ski-resort-travel-guide",
+      "publishedAt": "2026-11-15T07:22:49+04:00"
+    },
+    {
+      "id": "3-stans-itinerary-14-days",
+      "keyword": "3 Stans itinerary 14 days",
+      "destination": "kazakhstan",
+      "countries": [
+        "kyrgyzstan",
+        "uzbekistan"
+      ],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "samarkand-day-tour-by-afrosiyob-train"
+      ],
+      "angle": "Almaty, Kyrgyzstan, Uzbekistan route day by day",
+      "status": "pending"
+    },
+    {
+      "id": "central-asia-itinerary-3-weeks",
+      "keyword": "Central Asia itinerary 3 weeks",
+      "destination": "kazakhstan",
+      "countries": [
+        "kyrgyzstan",
+        "uzbekistan",
+        "tajikistan",
+        "turkmenistan"
+      ],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "comparing 14, 18 and 22 day Stans routes",
+      "status": "pending"
+    },
+    {
+      "id": "silk-road-itinerary-uzbekistan-tajikistan-kyrgyzstan",
+      "keyword": "Silk Road itinerary Uzbekistan Tajikistan Kyrgyzstan",
+      "destination": "uzbekistan",
+      "countries": [
+        "tajikistan",
+        "kyrgyzstan",
+        "kazakhstan"
+      ],
+      "category": "destination-guide",
+      "packages": [
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Samarkand, Bukhara, Khiva, Penjikent, Khujand, Fergana",
+      "status": "pending"
+    },
+    {
+      "id": "best-time-to-visit-central-asia",
+      "keyword": "best time to visit Central Asia",
+      "destination": "kazakhstan",
+      "countries": [
+        "kyrgyzstan",
+        "uzbekistan",
+        "tajikistan",
+        "turkmenistan"
+      ],
+      "category": "seasonal",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "seasons across the five Stans",
+      "status": "pending"
+    },
+    {
+      "id": "central-asia-travel-guide",
+      "keyword": "Central Asia travel guide",
+      "destination": "kazakhstan",
+      "countries": [
+        "kyrgyzstan",
+        "uzbekistan",
+        "tajikistan",
+        "turkmenistan"
+      ],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "visas, money, transport, safety, sample routes",
+      "status": "pending"
+    },
+    {
+      "id": "armenia-and-azerbaijan-itinerary",
+      "keyword": "Armenia and Azerbaijan itinerary",
+      "destination": "armenia",
+      "countries": [
+        "azerbaijan"
+      ],
+      "category": "destination-guide",
+      "packages": [
+        "armenia-legends-4-days",
+        "azerbaijan-explorer-4-days",
+        "garni-geghard-lake-sevan-day-trip",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "two separate trips, flight connections via third countries, time needed",
+      "status": "pending"
+    },
+    {
+      "id": "zakopane-day-trip-from-krakow",
+      "keyword": "zakopane day trip from krakow",
+      "destination": "poland",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "krakow-zakopane-winter-7-days",
+        "krakow-jura-outdoor-7-days",
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days"
+      ],
+      "angle": "How the day works: distances, drive times, what you see and how to book it privately",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "day trip from krakow to zakopane",
+        "day trip zakopane from krakow",
+        "krakow day trip to zakopane",
+        "zakopane day trip from krakow by train"
+      ],
+      "questions": [
+        "how to get to zakopane from krakow",
+        "how to get from katowice to zakopane",
+        "how to get from warsaw to zakopane",
+        "how to get to zakopane from krakow airport"
+      ],
+      "research": {
+        "score": 15,
+        "kind": "day-trip",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 1
+      },
+      "slug": "zakopane-day-trip-from-krakow",
+      "publishedAt": "2026-11-02T13:58:39+04:00"
+    },
+    {
+      "id": "how-many-days-in-poland",
+      "keyword": "how many days in poland",
+      "destination": "poland",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days",
+        "poland-christmas-markets-poznan-wroclaw-karpacz-9-days",
+        "krakow-jura-outdoor-7-days"
+      ],
+      "angle": "A day-by-day route that answers the search, built from our Poland tours, with realistic drive times",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "poland in 10 days",
+        "poland in 5 days",
+        "poland itinerary 10 days",
+        "poland itinerary 5 days"
+      ],
+      "questions": [
+        "how many days in krakow poland",
+        "how many days do you need in poland",
+        "how many days in poland is enough"
+      ],
+      "research": {
+        "score": 14.5,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 2
+      },
+      "slug": "how-many-days-in-poland",
+      "publishedAt": "2026-11-02T14:02:00+04:00"
+    },
+    {
+      "id": "things-to-do-in-katowice-poland",
+      "keyword": "things to do in katowice poland",
+      "destination": "poland",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days",
+        "poland-christmas-markets-poznan-wroclaw-karpacz-9-days",
+        "krakow-jura-outdoor-7-days"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our Poland tours covers each",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "things to do in poland",
+        "things to see in katowice poland",
+        "things to do in krakow poland",
+        "poznan poland things to do"
+      ],
+      "questions": [
+        "what to do in katowice poland",
+        "what to do in poland",
+        "what to see in katowice poland"
+      ],
+      "research": {
+        "score": 14.5,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 4
+      },
+      "slug": "things-to-do-in-katowice-poland",
+      "publishedAt": "2026-11-02T14:06:16+04:00"
+    },
+    {
+      "id": "harbin-itinerary-7-days",
+      "keyword": "harbin itinerary 7 days",
+      "destination": "china",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "harbin-ice-festival-city-highlights-day-tour",
+        "harbin-snow-town-changbai-mountain-7-days"
+      ],
+      "angle": "A day-by-day route that answers the search, built from our China tours, with realistic drive times",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "harbin itinerary 10 days",
+        "harbin itinerary 3 days",
+        "harbin itinerary 2 days",
+        "harbin itinerary 5 days"
+      ],
+      "questions": [
+        "how many days in harbin",
+        "what to do in harbin"
+      ],
+      "research": {
+        "score": 13.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 1,
+        "itineraryIntent": true,
+        "itineraryDays": 7
+      },
+      "attempts": 3,
+      "checkedAt": "2026-11-03T04:57:25+04:00",
+      "slug": "harbin-itinerary-7-days",
+      "publishedAt": "2026-11-03T12:48:19+04:00"
+    },
+    {
+      "id": "things-to-do-in-jilin",
+      "keyword": "things to do in jilin",
+      "destination": "china",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our China tours covers each",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "things to do in jilin china",
+        "things to do in jilin city",
+        "things to see in jilin",
+        "things to do in yanji"
+      ],
+      "questions": [
+        "what to do in jilin",
+        "what to do in jilin in winter",
+        "what to do in jilin china",
+        "what to do in jilin city"
+      ],
+      "research": {
+        "score": 13,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 2
+      },
+      "attempts": 3,
+      "checkedAt": "2026-11-03T04:57:42+04:00",
+      "slug": "things-to-do-in-jilin",
+      "publishedAt": "2026-11-03T12:54:48+04:00"
+    },
+    {
+      "id": "how-to-get-to-harbin-china",
+      "keyword": "how to get to harbin china",
+      "destination": "china",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "Practical answer first, then the steps a first-time visitor to China needs",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "things to do in harbin china",
+        "harbin china in winter",
+        "harbin china in summer",
+        "harbin china weather by month"
+      ],
+      "questions": [
+        "how to get to harbin",
+        "how to get to yanji china",
+        "what to do in harbin china",
+        "how to get to harbin ice festival"
+      ],
+      "research": {
+        "score": 11.7,
+        "kind": "practical",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 5
+      },
+      "attempts": 3,
+      "lastError": "title is 69 characters (max 60)",
+      "checkedAt": "2026-11-03T04:58:30+04:00"
+    },
+    {
+      "id": "is-harbin-worth-visiting",
+      "keyword": "is harbin worth visiting",
+      "destination": "china",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "harbin-ice-festival-city-highlights-day-tour",
+        "harbin-snow-town-changbai-mountain-7-days"
+      ],
+      "angle": "Answer the search \"is harbin worth visiting\" directly, then give the planning detail behind it",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "visiting harbin in winter",
+        "harbin where to go",
+        "yanji to harbin",
+        "changbai to harbin"
+      ],
+      "questions": [
+        "is harbin worth it",
+        "is harbin worth visiting in winter",
+        "is harbin worth visiting in summer",
+        "is harbin worth visiting in december"
+      ],
+      "research": {
+        "score": 11.7,
+        "kind": "other",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 6
+      },
+      "attempts": 3,
+      "lastError": "title is 81 characters (max 60)",
+      "checkedAt": "2026-11-03T04:58:56+04:00"
+    },
+    {
+      "id": "harbin-tour-guide",
+      "keyword": "harbin tour guide",
+      "destination": "china",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "harbin-ice-festival-city-highlights-day-tour",
+        "harbin-snow-town-changbai-mountain-7-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "harbin tour",
+        "harbin tour package",
+        "harbin day tour",
+        "day tour harbin"
+      ],
+      "questions": [
+        "what to do in harbin",
+        "how to get to harbin",
+        "what to do in harbin china",
+        "how to go to harbin"
+      ],
+      "research": {
+        "score": 10,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google"
+        ],
+        "priority": 15
+      },
+      "attempts": 3,
+      "lastError": "title is 74 characters (max 60) | seoDescription is 163 characters (140-155)",
+      "checkedAt": "2026-11-03T04:59:15+04:00"
+    },
+    {
+      "id": "tajikistan-itinerary-5-days",
+      "keyword": "tajikistan itinerary 5 days",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A real day-by-day 5-day plan that answers \"tajikistan itinerary 5 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "tajikistan 5 day itinerary",
+        "5 days in tajikistan",
+        "tajikistan 5 days itinerary",
+        "6 days in tajikistan",
+        "tajikistan itinerary"
+      ],
+      "questions": [
+        "how many days in tajikistan"
+      ],
+      "research": {
+        "score": 8.9,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 35,
+        "itineraryIntent": true,
+        "itineraryDays": 5
+      },
+      "slug": "tajikistan-itinerary-5-days",
+      "publishedAt": "2026-11-03T21:56:26+04:00"
+    },
+    {
+      "id": "is-dushanbe-worth-visiting",
+      "keyword": "is dushanbe worth visiting",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "Answer the search \"is dushanbe worth visiting\" directly, then give the planning detail behind it",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "the road to dushanbe",
+        "khujand to dushanbe",
+        "dushanbe to panjakent",
+        "dushanbe to samarkand"
+      ],
+      "questions": [
+        "is tajikistan worth visiting",
+        "is khujand worth visiting",
+        "what to see in dushanbe"
+      ],
+      "research": {
+        "score": 14.3,
+        "kind": "other",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 1
+      },
+      "slug": "is-dushanbe-worth-visiting",
+      "publishedAt": "2026-11-03T22:01:34+04:00"
+    },
+    {
+      "id": "best-things-to-do-in-tajikistan",
+      "keyword": "best things to do in tajikistan",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our Tajikistan tours covers each",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "things to do in tajikistan",
+        "things to do in dushanbe tajikistan",
+        "things to do in tajikistan with kids",
+        "best things to do in dushanbe"
+      ],
+      "questions": [
+        "what to do in tajikistan",
+        "what to do in panjakent tajikistan",
+        "is tajikistan cheap",
+        "where to visit in tajikistan"
+      ],
+      "research": {
+        "score": 14,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 2
+      },
+      "slug": "best-things-to-do-in-tajikistan",
+      "publishedAt": "2026-11-03T22:07:16+04:00"
+    },
+    {
+      "id": "turkmenistan-itinerary-7-days",
+      "keyword": "turkmenistan itinerary 7 days",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A day-by-day route that answers the search, built from our Turkmenistan tours, with realistic drive times",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "turkmenistan itinerary",
+        "turkmenistan travel itinerary",
+        "weather in turkmenistan 10 days",
+        "turkmenistan days of the week",
+        "one week in turkmenistan"
+      ],
+      "questions": [
+        "how many days in turkmenistan",
+        "how many days to spend in turkmenistan",
+        "how many days do you need in turkmenistan",
+        "what to do in turkmenistan"
+      ],
+      "research": {
+        "score": 11,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google"
+        ],
+        "priority": 15,
+        "itineraryIntent": true,
+        "itineraryDays": 7
+      },
+      "attempts": 14,
+      "lastError": "price 120 at sections.0.paragraphs.en.3 is not in the package catalog | price 2 at sections.0.paragraphs.en.3 is not in the package catalog | price 120 at sections.0.paragraphs.de.3 is not in the package catalog | price 2 at sections.0.paragraphs.de.3 is not in the package catalog",
+      "checkedAt": "2026-11-05T15:39:25+04:00"
+    },
+    {
+      "id": "is-turkmenistan-expensive",
+      "keyword": "is turkmenistan expensive",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "What drives the cost of the trip; real tour prices only from our catalog, no invented prices",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "turkmenistan budget",
+        "turkmenistan budget tour",
+        "turkmenistan trip cost",
+        "turkmenistan travel price"
+      ],
+      "questions": [
+        "is turkmenistan expensive to visit",
+        "is turkmenistan cheap or expensive",
+        "why is turkmenistan so expensive",
+        "is turkmenistan cheap"
+      ],
+      "research": {
+        "score": 14.5,
+        "kind": "costs",
+        "intent": "commercial",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 1
+      },
+      "attempts": 14,
+      "lastError": "translation failed for 1 field(s): fr:a2 (numbers differ) | price 120 at intro.en is not in the package catalog | price 2 at intro.en is not in the package catalog | price 120 at intro.de is not in the package catalog",
+      "checkedAt": "2026-11-05T15:44:40+04:00"
+    },
+    {
+      "id": "3-days-in-turkmenistan",
+      "keyword": "3 days in turkmenistan",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A real day-by-day 3-day plan that answers \"3 days in turkmenistan\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "4 days in turkmenistan",
+        "turkmenistan itinerary",
+        "turkmenistan travel itinerary"
+      ],
+      "questions": [
+        "how many days in turkmenistan"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 34,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "attempts": 14,
+      "lastError": "price 120 at sections.0.paragraphs.en.3 is not in the package catalog | price 2 at sections.0.paragraphs.en.3 is not in the package catalog | price 120 at sections.0.paragraphs.de.3 is not in the package catalog | price 2 at sections.0.paragraphs.de.3 is not in the package catalog",
+      "checkedAt": "2026-11-05T15:52:37+04:00"
+    },
+    {
+      "id": "is-turkmenistan-worth-visiting",
+      "keyword": "is turkmenistan worth visiting",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Answer the search \"is turkmenistan worth visiting\" directly, then give the planning detail behind it",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "turkmenistan holidays",
+        "turkmenistan vacation",
+        "turkmenistan in spanish",
+        "turkmenistan with kids"
+      ],
+      "questions": [
+        "is turkmenistan worth it",
+        "is ashgabat worth visiting",
+        "how to go to turkmenistan"
+      ],
+      "research": {
+        "score": 14,
+        "kind": "other",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 4
+      },
+      "attempts": 14,
+      "lastError": "price 2 at intro.en is not in the package catalog | price 2 at intro.de is not in the package catalog | price 2 at intro.fr is not in the package catalog | price 2 at intro.ja is not in the package catalog",
+      "checkedAt": "2026-11-05T16:00:42+04:00"
+    },
+    {
+      "id": "things-to-do-in-turkmenistan",
+      "keyword": "things to do in Turkmenistan",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "The best things to do across Turkmenistan, grouped by city and region, with our Turkmenistan tours",
+      "status": "skipped",
+      "source": "rotation",
+      "attempts": 2,
+      "lastError": "price 2 at sections.3.paragraphs.en.1 is not in the package catalog | price 2 at sections.3.paragraphs.de.1 is not in the package catalog | price 2 at sections.3.paragraphs.fr.1 is not in the package catalog | price 2 at sections.3.paragraphs.ja.1 is not in the package catalog",
+      "checkedAt": "2026-11-06T04:43:08+04:00"
+    },
+    {
+      "id": "top-10-places-to-visit-in-turkmenistan",
+      "keyword": "top 10 places to visit in Turkmenistan",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A ranked list of the ten places in Turkmenistan worth the trip, with how to reach each one",
+      "status": "skipped",
+      "source": "rotation",
+      "attempts": 2,
+      "lastError": "price 2 at sections.0.paragraphs.en.0 is not in the package catalog | price 120 at sections.0.paragraphs.en.3 is not in the package catalog | price 2 at sections.0.paragraphs.de.0 is not in the package catalog | price 120 at sections.0.paragraphs.de.3 is not in the package catalog",
+      "checkedAt": "2026-11-06T04:52:15+04:00"
+    },
+    {
+      "id": "turkmenistan-travel-costs-and-budget",
+      "keyword": "Turkmenistan travel costs and budget",
+      "destination": "turkmenistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "darvaza-gas-crater-day-trip-from-ashgabat",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "What a trip to Turkmenistan costs: tours from our catalog, meals, transport and tips",
+      "status": "skipped",
+      "source": "rotation",
+      "attempts": 2,
+      "lastError": "price 120 at intro.en is not in the package catalog | price 2 at intro.en is not in the package catalog | price 120 at intro.de is not in the package catalog | price 2 at intro.de is not in the package catalog",
+      "checkedAt": "2026-11-06T05:34:47+04:00"
+    },
+    {
+      "id": "almaty-itinerary-4-days",
+      "keyword": "almaty itinerary 4 days",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "A day-by-day route that answers the search, built from our Kazakhstan tours, with realistic drive times",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "almaty itinerary 5 days",
+        "almaty itinerary 7 days",
+        "almaty itinerary 3 days",
+        "almaty itinerary 2 days",
+        "3 days in almaty",
+        "almaty itinerary for 3 days"
+      ],
+      "questions": [
+        "how many days in almaty",
+        "how many days are enough for almaty",
+        "what to do in almaty"
+      ],
+      "research": {
+        "score": 15,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 2,
+        "itineraryIntent": true,
+        "itineraryDays": 4
+      },
+      "slug": "almaty-itinerary-4-days",
+      "publishedAt": "2026-11-05T19:50:39+04:00"
+    },
+    {
+      "id": "day-trips-from-almaty-kazakhstan",
+      "keyword": "day trips from almaty kazakhstan",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days"
+      ],
+      "angle": "How the day works: distances, drive times, what you see and how to book it privately",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "almaty day trips",
+        "day trips from almaty",
+        "day trip from almaty",
+        "day tours from almaty kazakhstan"
+      ],
+      "questions": [
+        "what to do in almaty kazakhstan",
+        "what to do in kazakhstan almaty",
+        "what to see in almaty kazakhstan",
+        "where to go in kazakhstan almaty"
+      ],
+      "research": {
+        "score": 15.6,
+        "kind": "day-trip",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 1
+      },
+      "slug": "day-trips-from-almaty-kazakhstan",
+      "publishedAt": "2026-11-05T20:06:13+04:00"
+    },
+    {
+      "id": "almaty-local-tour-packages",
+      "keyword": "almaty local tour packages",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "almaty kazakhstan tour packages",
+        "almaty tour packages from india",
+        "almaty tour packages from delhi",
+        "almaty tour guide"
+      ],
+      "questions": [
+        "what to do in almaty",
+        "is almaty worth visiting",
+        "how to get to charyn canyon from almaty"
+      ],
+      "research": {
+        "score": 14.5,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "bing"
+        ],
+        "priority": 3
+      },
+      "slug": "almaty-local-tour-packages",
+      "publishedAt": "2026-11-05T20:17:16+04:00"
+    },
+    {
+      "id": "uzbekistan-itinerary-10-days",
+      "keyword": "uzbekistan itinerary 10 days",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "chimgan-mountains-charvak-lake-day-trip",
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days"
+      ],
+      "angle": "A real day-by-day 10-day plan that answers \"uzbekistan itinerary 10 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "uzbekistan in 10 days",
+        "uzbekistan 10 day itinerary",
+        "10 days in uzbekistan",
+        "uzbekistan travel itinerary 10 days",
+        "uzbekistan itinerary 9 days"
+      ],
+      "questions": [
+        "how many days in uzbekistan"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 37,
+        "itineraryIntent": true,
+        "itineraryDays": 10
+      },
+      "attempts": 2,
+      "lastError": "duplicate topic: title too similar to uzbekistan-itinerary-5-days (1.00)",
+      "checkedAt": "2026-11-07T23:42:16+04:00"
+    },
+    {
+      "id": "day-trip-from-samarkand",
+      "keyword": "day trip from samarkand",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "How the day works: distances, drive times, what you see and how to book it privately",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "samarkand day trip",
+        "samarkand day trip from tashkent",
+        "day trip from tashkent to samarkand",
+        "tashkent day trip to samarkand"
+      ],
+      "questions": [
+        "how to get from tashkent to samarkand",
+        "how to get from samarkand to dushanbe",
+        "how to get from samarkand to panjakent",
+        "how to get from bishkek to samarkand"
+      ],
+      "research": {
+        "score": 15.3,
+        "kind": "day-trip",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing",
+          "competitor-titles"
+        ],
+        "priority": 1
+      },
+      "slug": "day-trip-from-samarkand",
+      "publishedAt": "2026-11-05T22:14:52+04:00"
+    },
+    {
+      "id": "is-tashkent-worth-visiting",
+      "keyword": "is tashkent worth visiting",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "chimgan-mountains-charvak-lake-day-trip",
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Answer the search \"is tashkent worth visiting\" directly, then give the planning detail behind it",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "samarkand to tashkent",
+        "tashkent to samarkand",
+        "bukhara to tashkent",
+        "khiva to tashkent"
+      ],
+      "questions": [
+        "is tashkent uzbekistan worth visiting",
+        "is tashkent worth it",
+        "is tashkent worth visiting in december",
+        "is samarkand worth visiting"
+      ],
+      "research": {
+        "score": 15.3,
+        "kind": "other",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 2
+      },
+      "slug": "is-tashkent-worth-visiting",
+      "publishedAt": "2026-11-05T22:23:40+04:00"
+    },
+    {
+      "id": "samarkand-itinerary-2-days",
+      "keyword": "samarkand itinerary 2 days",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A real day-by-day 2-day plan that answers \"samarkand itinerary 2 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "samarkand itinerary 1 day",
+        "2 days in samarkand",
+        "2 days in samarkand itinerary",
+        "samarkand itinerary",
+        "samarkand travel itinerary"
+      ],
+      "questions": [
+        "how many days in samarkand"
+      ],
+      "research": {
+        "score": 7.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 41,
+        "itineraryIntent": true,
+        "itineraryDays": 2
+      },
+      "slug": "samarkand-itinerary-2-days",
+      "publishedAt": "2026-11-05T22:33:37+04:00"
+    },
+    {
+      "id": "krakow-itinerary-3-days",
+      "keyword": "krakow itinerary 3 days",
+      "destination": "poland",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "krakow-jura-outdoor-7-days",
+        "krakow-katowice-beskids-active-winter-9-days",
+        "krakow-zakopane-winter-7-days",
+        "learn-to-ski-poland-beskid-mountains-9-days"
+      ],
+      "angle": "A day-by-day route that answers the search, built from our Poland tours, with realistic drive times",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "krakow in 3 days",
+        "krakow itinerary 2 days",
+        "krakow 3 day itinerary",
+        "krakow itinerary 4 days",
+        "3 days in krakow",
+        "3 days in krakow poland"
+      ],
+      "questions": [
+        "is 3 days enough in krakow",
+        "what to see in krakow in 3 days",
+        "how many days in krakow",
+        "is 2 days enough in krakow"
+      ],
+      "research": {
+        "score": 14.5,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 3,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "slug": "krakow-itinerary-3-days",
+      "publishedAt": "2026-11-05T23:00:11+04:00"
+    },
+    {
+      "id": "is-zakopane-worth-visiting",
+      "keyword": "is zakopane worth visiting",
+      "destination": "poland",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "krakow-zakopane-winter-7-days",
+        "krakow-jura-outdoor-7-days",
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days"
+      ],
+      "angle": "Answer the search \"is zakopane worth visiting\" directly, then give the planning detail behind it",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "visiting zakopane in summer",
+        "zakopane to krakow",
+        "krakow to zakopane",
+        "katowice to zakopane"
+      ],
+      "questions": [
+        "is zakopane worth visiting in december",
+        "is zakopane worth visiting in summer",
+        "is zakopane worth visiting in october",
+        "is zakopane worth visiting in september"
+      ],
+      "research": {
+        "score": 14.3,
+        "kind": "other",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 5
+      },
+      "slug": "is-zakopane-worth-visiting",
+      "publishedAt": "2026-11-05T23:04:32+04:00"
+    },
+    {
+      "id": "how-to-get-to-zakopane",
+      "keyword": "how to get to zakopane",
+      "destination": "poland",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "krakow-zakopane-winter-7-days",
+        "krakow-jura-outdoor-7-days",
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days"
+      ],
+      "angle": "Practical answer first, then the steps a first-time visitor to Poland needs",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "zakopane in winter",
+        "zakopane to krakow",
+        "things to do in zakopane",
+        "zakopane in summer"
+      ],
+      "questions": [
+        "how to get to zakopane from krakow",
+        "how to get to zakopane poland",
+        "how to get to zakopane from warsaw",
+        "how to get to zakopane from krakow airport"
+      ],
+      "research": {
+        "score": 14.1,
+        "kind": "practical",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 6
+      },
+      "slug": "how-to-get-to-zakopane",
+      "publishedAt": "2026-11-05T23:08:28+04:00"
+    },
+    {
+      "id": "baku-itinerary-5-days",
+      "keyword": "baku itinerary 5 days",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "gobustan-mud-volcanoes-absheron-day-trip",
+        "azerbaijan-explorer-4-days",
+        "azerbaijan-journey-5-days"
+      ],
+      "angle": "A day-by-day route that answers the search, built from our Azerbaijan tours, with realistic drive times",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "baku itinerary 5 days from india",
+        "azerbaijan itinerary 5 days",
+        "baku itinerary 7 days",
+        "baku itinerary 2 days",
+        "baku itinerary for 5 days",
+        "baku in 5 days"
+      ],
+      "questions": [
+        "how many days in baku",
+        "how many days to spend in baku",
+        "how many days in baku azerbaijan",
+        "what to do in azerbaijan for 5 days"
+      ],
+      "research": {
+        "score": 14.5,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 5,
+        "itineraryIntent": true,
+        "itineraryDays": 5
+      },
+      "slug": "baku-itinerary-5-days",
+      "publishedAt": "2026-11-06T06:17:01+04:00"
+    },
+    {
+      "id": "absheron-tour-baku",
+      "keyword": "absheron tour baku",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "gobustan-mud-volcanoes-absheron-day-trip",
+        "azerbaijan-explorer-4-days",
+        "azerbaijan-journey-5-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "absheron baku tour",
+        "absheron peninsula tour baku",
+        "absheron tour baku price",
+        "baku tour package"
+      ],
+      "questions": [
+        "what to do in baku",
+        "how to get to baku",
+        "what to do in baku azerbaijan",
+        "what time in baku"
+      ],
+      "research": {
+        "score": 17.5,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google",
+          "bing",
+          "competitor-titles"
+        ],
+        "priority": 1
+      },
+      "slug": "absheron-tour-baku",
+      "publishedAt": "2026-11-07T05:25:05+04:00"
+    },
+    {
+      "id": "kyrgyzstan-itinerary-10-days",
+      "keyword": "kyrgyzstan itinerary 10 days",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "A real day-by-day 10-day plan that answers \"kyrgyzstan itinerary 10 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "kyrgyzstan in 10 days",
+        "kyrgyzstan 10 day itinerary",
+        "10 days in kyrgyzstan",
+        "kyrgyzstan travel itinerary 10 days",
+        "kyrgyzstan itinerary 9 days"
+      ],
+      "questions": [
+        "how many days in kyrgyzstan"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 33,
+        "itineraryIntent": true,
+        "itineraryDays": 10
+      },
+      "slug": "kyrgyzstan-itinerary-10-days",
+      "publishedAt": "2026-11-06T11:29:38+04:00"
+    },
+    {
+      "id": "things-to-do-in-bishkek-kyrgyzstan",
+      "keyword": "things to do in bishkek kyrgyzstan",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our Kyrgyzstan tours covers each",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "things to do in kyrgyzstan bishkek",
+        "bishkek things to do",
+        "things to do in bishkek",
+        "things to do in bishkek city"
+      ],
+      "questions": [
+        "what to do in bishkek kyrgyzstan",
+        "what to see in bishkek kyrgyzstan",
+        "what to do in bishkek city"
+      ],
+      "research": {
+        "score": 15.7,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 1
+      },
+      "reason": "duplicate of kyrgyzstan-itinerary-10-days: title too similar to kyrgyzstan-itinerary-10-days (0.67)",
+      "checkedAt": "2026-11-06T11:29:38+04:00"
+    },
+    {
+      "id": "bishkek-city-tour",
+      "keyword": "bishkek city tour",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "bishkek kyrgyzstan city tour",
+        "bishkek city walking tour",
+        "bishkek free city tour",
+        "bishkek city tour itinerary"
+      ],
+      "questions": [
+        "what to do in bishkek city",
+        "what to see in bishkek city",
+        "what to do in bishkek kyrgyzstan",
+        "what to see in bishkek"
+      ],
+      "research": {
+        "score": 14.4,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google",
+          "bing",
+          "competitor-titles"
+        ],
+        "priority": 2
+      },
+      "attempts": 2,
+      "lastError": "translation failed for 1 field(s): fr:seoDescription (numbers differ) | missing seo.fr",
+      "checkedAt": "2026-11-10T05:57:30+04:00"
+    },
+    {
+      "id": "is-bishkek-worth-visiting",
+      "keyword": "is bishkek worth visiting",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "Answer the search \"is bishkek worth visiting\" directly, then give the planning detail behind it",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "bishkek worth it",
+        "bishkek where is it",
+        "karakol to bishkek",
+        "bishkek to karakol"
+      ],
+      "questions": [
+        "is karakol worth visiting",
+        "is bishkek worth seeing",
+        "what to see in bishkek"
+      ],
+      "research": {
+        "score": 13.9,
+        "kind": "other",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 5
+      },
+      "slug": "is-bishkek-worth-visiting",
+      "publishedAt": "2026-11-06T11:44:42+04:00"
+    },
+    {
+      "id": "day-trips-from-bishkek",
+      "keyword": "day trips from bishkek",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "How the day works: distances, drive times, what you see and how to book it privately",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "bishkek day trips",
+        "day trips from bishkek kyrgyzstan",
+        "best day trips from bishkek",
+        "multi day trips from bishkek"
+      ],
+      "questions": [
+        "what to do in bishkek for a day",
+        "how to get from bishkek to karakol",
+        "how to get from tashkent to bishkek",
+        "how to get from almaty to bishkek"
+      ],
+      "research": {
+        "score": 13.7,
+        "kind": "day-trip",
+        "intent": "planning",
+        "sources": [
+          "bing"
+        ],
+        "priority": 6
+      },
+      "slug": "day-trips-from-bishkek",
+      "publishedAt": "2026-11-06T11:49:27+04:00"
+    },
+    {
+      "id": "things-to-do-in-yanji-china",
+      "keyword": "things to do in yanji china",
+      "destination": "china",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our China tours covers each",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "things to do in yanji",
+        "things to do in harbin china",
+        "things to do in jilin china",
+        "yanji city in china"
+      ],
+      "questions": [
+        "what to do in yanji china",
+        "how to get to yanji china",
+        "what to do in harbin china",
+        "what to do in jilin china"
+      ],
+      "research": {
+        "score": 11.8,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 3
+      },
+      "attempts": 2,
+      "lastError": "duplicate topic: title too similar to things-to-do-in-jilin (0.60)",
+      "checkedAt": "2026-11-06T21:37:42+04:00"
+    },
+    {
+      "id": "harbin-in-winter",
+      "keyword": "harbin in winter",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "Month-by-month conditions, what is open and which of our China tours fit the season",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "travel to harbin in winter",
+        "harbin in winter temperature",
+        "harbin china in winter",
+        "harbin weather in winter"
+      ],
+      "questions": [
+        "what to do in harbin winter",
+        "is harbin worth visiting in winter",
+        "what to do in harbin",
+        "is harbin worth visiting in summer"
+      ],
+      "research": {
+        "score": 11.2,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 8
+      },
+      "slug": "harbin-in-winter",
+      "publishedAt": "2026-11-06T19:41:18+04:00"
+    },
+    {
+      "id": "harbin-jilin-itinerary",
+      "keyword": "harbin jilin itinerary",
+      "destination": "china",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "A day-by-day route that answers the search, built from our China tours, with realistic drive times",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "harbin itinerary",
+        "jilin itinerary",
+        "harbin travel itinerary",
+        "harbin itinerary december"
+      ],
+      "questions": [
+        "how many days in harbin",
+        "what to do in harbin",
+        "what to do in jilin",
+        "where is jilin china"
+      ],
+      "research": {
+        "score": 10.5,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google"
+        ],
+        "priority": 10
+      },
+      "attempts": 2,
+      "lastError": "only 1 tour card(s) embedded (min 2)",
+      "checkedAt": "2026-11-06T21:42:22+04:00"
+    },
+    {
+      "id": "top-10-places-to-visit-in-china",
+      "keyword": "top 10 places to visit in China",
+      "destination": "china",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "harbin-ice-festival-city-highlights-day-tour",
+        "harbin-snow-town-changbai-mountain-7-days"
+      ],
+      "angle": "A ranked list of the ten places in China worth the trip, with how to reach each one",
+      "status": "skipped",
+      "source": "rotation",
+      "attempts": 2,
+      "lastError": "duplicate topic: title too similar to harbin-itinerary-7-days (1.00)",
+      "checkedAt": "2026-11-15T07:12:59+04:00"
+    },
+    {
+      "id": "best-time-to-visit-china",
+      "keyword": "best time to visit China",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-ice-festival-city-highlights-day-tour",
+        "harbin-snow-town-changbai-mountain-7-days"
+      ],
+      "angle": "Month-by-month weather, crowds and festivals in China, and which tour fits each season",
+      "status": "skipped",
+      "source": "rotation",
+      "attempts": 2,
+      "lastError": "duplicate topic: title too similar to harbin-itinerary-7-days (0.80)",
+      "checkedAt": "2026-11-15T07:18:33+04:00"
+    },
+    {
+      "id": "jilin-china-in-winter",
+      "keyword": "jilin china in winter",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "Month-by-month conditions, what is open and which of our China tours fit the season",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "jilin in winter",
+        "harbin china in winter",
+        "jilin city in winter",
+        "jilin winter"
+      ],
+      "questions": [
+        "where is jilin china",
+        "what to do in jilin in winter",
+        "what to do in jilin china",
+        "what to see in jilin china"
+      ],
+      "research": {
+        "score": 10.1,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google"
+        ],
+        "priority": 13
+      },
+      "slug": "jilin-china-in-winter",
+      "publishedAt": "2026-11-06T21:47:55+04:00"
+    },
+    {
+      "id": "tajikistan-itinerary-10-days",
+      "keyword": "tajikistan itinerary 10 days",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A real day-by-day 10-day plan that answers \"tajikistan itinerary 10 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "tajikistan in 10 days",
+        "tajikistan 10 day itinerary",
+        "10 days in tajikistan",
+        "10 day tajikistan itinerary"
+      ],
+      "questions": [
+        "how many days in tajikistan"
+      ],
+      "research": {
+        "score": 8.9,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 36,
+        "itineraryIntent": true,
+        "itineraryDays": 10
+      },
+      "attempts": 2,
+      "lastError": "duplicate topic: title too similar to tajikistan-itinerary-5-days (0.60)",
+      "checkedAt": "2026-11-11T06:23:15+04:00"
+    },
+    {
+      "id": "cheap-package-holidays-to-dushanbe",
+      "keyword": "cheap package holidays to dushanbe",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "What drives the cost of the trip; real tour prices only from our catalog, no invented prices",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "tajikistan tour package from india price",
+        "tajikistan tour package from kerala price",
+        "things to do in tajikistan"
+      ],
+      "questions": [
+        "is tajikistan cheap",
+        "what to do in dushanbe"
+      ],
+      "research": {
+        "score": 13.8,
+        "kind": "costs",
+        "intent": "commercial",
+        "sources": [
+          "bing"
+        ],
+        "priority": 4
+      },
+      "slug": "cheap-package-holidays-to-dushanbe",
+      "publishedAt": "2026-11-07T01:22:13+04:00"
+    },
+    {
+      "id": "2-days-in-dushanbe",
+      "keyword": "2 days in dushanbe",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "A real day-by-day 2-day plan that answers \"2 days in dushanbe\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "dushanbe itinerary"
+      ],
+      "questions": [
+        "how many days in dushanbe"
+      ],
+      "research": {
+        "score": 7.1,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 39,
+        "itineraryIntent": true,
+        "itineraryDays": 2
+      },
+      "slug": "2-days-in-dushanbe",
+      "publishedAt": "2026-11-07T01:28:00+04:00"
+    },
+    {
+      "id": "iskanderkul-day-trip-from-dushanbe",
+      "keyword": "iskanderkul day trip from dushanbe",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "How the day works: distances, drive times, what you see and how to book it privately",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "day trip from dushanbe",
+        "one day trip from dushanbe",
+        "day trip from samarkand to dushanbe",
+        "seven lakes day trip from dushanbe"
+      ],
+      "questions": [
+        "how to get from dushanbe to iskanderkul",
+        "how to get to iskanderkul from dushanbe",
+        "how to get from samarkand to dushanbe",
+        "how to get from dushanbe to osh"
+      ],
+      "research": {
+        "score": 13.8,
+        "kind": "day-trip",
+        "intent": "planning",
+        "sources": [
+          "google"
+        ],
+        "priority": 5
+      },
+      "slug": "iskanderkul-day-trip-from-dushanbe",
+      "publishedAt": "2026-11-07T01:33:47+04:00"
+    },
+    {
+      "id": "azerbaijan-itinerary-3-days",
+      "keyword": "azerbaijan itinerary 3 days",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "azerbaijan-explorer-4-days",
+        "azerbaijan-journey-5-days",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "A real day-by-day 3-day plan that answers \"azerbaijan itinerary 3 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "3 days in azerbaijan",
+        "azerbaijan itinerary 4 days",
+        "3 days itinerary in azerbaijan",
+        "4 days in azerbaijan",
+        "azerbaijan travel itinerary 4 days"
+      ],
+      "questions": [
+        "how many days in azerbaijan"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 39,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "slug": "azerbaijan-itinerary-3-days",
+      "publishedAt": "2026-11-07T05:20:27+04:00"
+    },
+    {
+      "id": "kazakhstan-itinerary-5-days",
+      "keyword": "kazakhstan itinerary 5 days",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days"
+      ],
+      "angle": "A real day-by-day 5-day plan that answers \"kazakhstan itinerary 5 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "kazakhstan 5 day itinerary",
+        "kazakhstan itinerary 6 days",
+        "kazakhstan travel itinerary 5 days",
+        "5 days in kazakhstan",
+        "kazakhstan in 5 days"
+      ],
+      "questions": [
+        "how many days in kazakhstan"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 33,
+        "itineraryIntent": true,
+        "itineraryDays": 5
+      },
+      "attempts": 2,
+      "lastError": "duplicate topic: title too similar to day-trips-from-almaty-kazakhstan (0.80)",
+      "checkedAt": "2026-11-12T05:13:12+04:00"
+    },
+    {
+      "id": "almaty-tour-package",
+      "keyword": "almaty tour package",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "almaty tour package from dubai",
+        "almaty day tour package",
+        "almaty tour package from mumbai",
+        "almaty tour guide"
+      ],
+      "questions": [
+        "what to do in almaty",
+        "how to get to almaty",
+        "what to do in almaty in winter",
+        "what to do in almaty kazakhstan"
+      ],
+      "research": {
+        "score": 13.3,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 5
+      },
+      "slug": "almaty-tour-package",
+      "publishedAt": "2026-11-07T11:55:58+04:00"
+    },
+    {
+      "id": "best-time-to-visit-almaty-kazakhstan",
+      "keyword": "best time to visit almaty kazakhstan",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days"
+      ],
+      "angle": "Month-by-month conditions, what is open and which of our Kazakhstan tours fit the season",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "best time to visit kazakhstan almaty",
+        "best time to visit almaty kazakhstan from india",
+        "best time to visit almaty",
+        "almaty best time to visit"
+      ],
+      "questions": [
+        "when is the best time to visit almaty",
+        "what to do in almaty kazakhstan",
+        "what to do in kazakhstan almaty",
+        "what to see in almaty kazakhstan"
+      ],
+      "research": {
+        "score": 12.8,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 8
+      },
+      "attempts": 2,
+      "lastError": "duplicate topic: title too similar to day-trips-from-almaty-kazakhstan (0.67)",
+      "checkedAt": "2026-11-17T09:03:32+04:00"
+    },
+    {
+      "id": "kazakhstan-kyrgyzstan-uzbekistan-itinerary-10-days",
+      "keyword": "kazakhstan kyrgyzstan uzbekistan itinerary 10 days",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days"
+      ],
+      "angle": "A real day-by-day 10-day plan that answers \"kazakhstan kyrgyzstan uzbekistan itinerary 10 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "kazakhstan kyrgyzstan uzbekistan itinerary",
+        "uzbekistan kazakhstan kyrgyzstan itinerary",
+        "uzbekistan kyrgyzstan and kazakhstan itinerary",
+        "kazakhstan kyrgyzstan and uzbekistan itinerary"
+      ],
+      "questions": [
+        "how many days in kazakhstan"
+      ],
+      "research": {
+        "score": 8.1,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 40,
+        "itineraryIntent": true,
+        "itineraryDays": 10
+      },
+      "slug": "kazakhstan-kyrgyzstan-uzbekistan-itinerary-10-days",
+      "publishedAt": "2026-11-07T12:03:31+04:00"
+    },
+    {
+      "id": "things-to-do-in-almaty-city",
+      "keyword": "things to do in almaty city",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our Kazakhstan tours covers each",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [
+        "things to do in almaty city center",
+        "things to do in almaty",
+        "almaty things to do",
+        "things to do in almaty kazakhstan"
+      ],
+      "questions": [
+        "what to do in almaty city",
+        "what to do in almaty city center",
+        "what to do in almaty",
+        "what to see in almaty city"
+      ],
+      "research": {
+        "score": 12.6,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 9
+      },
+      "attempts": 1,
+      "lastError": "duplicate topic: title too similar to almaty-itinerary-4-days (0.67)",
+      "checkedAt": "2026-11-07T12:06:36+04:00"
+    },
+    {
+      "id": "almaty-trip-cost",
+      "keyword": "almaty trip cost",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "What drives the cost of the trip; real tour prices only from our catalog, no invented prices",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "day trip from almaty",
+        "day trip from almaty to bishkek",
+        "almaty day trip to bishkek"
+      ],
+      "questions": [
+        "what to do in almaty",
+        "how to get to almaty",
+        "what to do in almaty in winter",
+        "what to do in almaty kazakhstan"
+      ],
+      "research": {
+        "score": 11.9,
+        "kind": "costs",
+        "intent": "commercial",
+        "sources": [
+          "google"
+        ],
+        "priority": 15
+      },
+      "slug": "almaty-trip-cost",
+      "publishedAt": "2026-11-07T12:09:48+04:00"
+    },
+    {
+      "id": "armenia-itinerary-3-days",
+      "keyword": "armenia itinerary 3 days",
+      "destination": "armenia",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "armenia-legends-4-days",
+        "armenia-cultural-discovery-5-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "A real day-by-day 3-day plan that answers \"armenia itinerary 3 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "3 days in armenia",
+        "armenia itinerary 4 days",
+        "armenia in 3 days",
+        "3 days in armenia itinerary",
+        "4 days in armenia"
+      ],
+      "questions": [
+        "how many days in armenia"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 38,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "attempts": 2,
+      "lastError": "duplicate topic: title too similar to armenia-tours-from-yerevan (0.80)",
+      "checkedAt": "2026-11-13T07:45:09+04:00"
+    },
+    {
+      "id": "armenia-tours-from-yerevan",
+      "keyword": "armenia tours from yerevan",
+      "destination": "armenia",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "armenia-legends-4-days",
+        "armenia-cultural-discovery-5-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "yerevan tours",
+        "armenia tours",
+        "armenia travel and tours",
+        "yerevan day tours"
+      ],
+      "questions": [
+        "what to do in yerevan armenia",
+        "what to see in yerevan armenia",
+        "how to get to yerevan armenia",
+        "where to go in yerevan armenia"
+      ],
+      "research": {
+        "score": 16.6,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 1
+      },
+      "slug": "armenia-tours-from-yerevan",
+      "publishedAt": "2026-11-07T19:21:22+04:00"
+    },
+    {
+      "id": "is-yerevan-worth-visiting",
+      "keyword": "is yerevan worth visiting",
+      "destination": "armenia",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "garni-geghard-lake-sevan-day-trip",
+        "armenia-legends-4-days",
+        "armenia-cultural-discovery-5-days"
+      ],
+      "angle": "Answer the search \"is yerevan worth visiting\" directly, then give the planning detail behind it",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "dilijan to yerevan",
+        "geghard to yerevan",
+        "sevan to yerevan",
+        "tsaghkadzor to yerevan"
+      ],
+      "questions": [
+        "is yerevan armenia worth visiting",
+        "is yerevan worth it",
+        "is yerevan worth visiting in december",
+        "is yerevan worth visiting in february"
+      ],
+      "research": {
+        "score": 15.5,
+        "kind": "other",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 2
+      },
+      "slug": "is-yerevan-worth-visiting",
+      "publishedAt": "2026-11-07T19:28:51+04:00"
+    },
+    {
+      "id": "yerevan-2-days-itinerary",
+      "keyword": "yerevan 2 days itinerary",
+      "destination": "armenia",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "garni-geghard-lake-sevan-day-trip",
+        "armenia-legends-4-days",
+        "armenia-cultural-discovery-5-days"
+      ],
+      "angle": "A real day-by-day 2-day plan that answers \"yerevan 2 days itinerary\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "2 days in yerevan",
+        "2 days in yerevan itinerary",
+        "yerevan one day itinerary"
+      ],
+      "questions": [
+        "how many days in yerevan"
+      ],
+      "research": {
+        "score": 7.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 42,
+        "itineraryIntent": true,
+        "itineraryDays": 2
+      },
+      "slug": "yerevan-2-days-itinerary",
+      "publishedAt": "2026-11-07T19:32:57+04:00"
+    },
+    {
+      "id": "tashkent-city-tour",
+      "keyword": "tashkent city tour",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "chimgan-mountains-charvak-lake-day-trip",
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "tashkent city tour bus",
+        "tashkent city tour photos",
+        "tashkent city walking tour",
+        "tashkent city tour itinerary"
+      ],
+      "questions": [
+        "what to do in tashkent uzbekistan",
+        "how to get to tashkent",
+        "what to do in tashkent at night",
+        "is tashkent expensive"
+      ],
+      "research": {
+        "score": 14.8,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google",
+          "bing",
+          "competitor-titles"
+        ],
+        "priority": 3
+      },
+      "slug": "tashkent-city-tour",
+      "publishedAt": "2026-11-07T23:46:03+04:00"
+    },
+    {
+      "id": "what-to-do-in-tashkent",
+      "keyword": "what to do in tashkent",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "chimgan-mountains-charvak-lake-day-trip",
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our Uzbekistan tours covers each",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "things to do in tashkent",
+        "tashkent things to do",
+        "things to do in tashkent at night",
+        "things to do in uzbekistan tashkent"
+      ],
+      "questions": [
+        "what to do in tashkent uzbekistan",
+        "what to do in tashkent at night",
+        "what to do in uzbekistan tashkent",
+        "what to do in tashkent for a day"
+      ],
+      "research": {
+        "score": 14.5,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 4
+      },
+      "slug": "what-to-do-in-tashkent",
+      "publishedAt": "2026-11-07T23:50:08+04:00"
+    },
+    {
+      "id": "tashkent-itinerary-3-days",
+      "keyword": "tashkent itinerary 3 days",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "chimgan-mountains-charvak-lake-day-trip",
+        "samarkand-day-tour-by-afrosiyob-train",
+        "tashkent-city-chimgan-mountains-5-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "A real day-by-day 3-day plan that answers \"tashkent itinerary 3 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "3 days in tashkent",
+        "tashkent itinerary 4 days",
+        "3 days in tashkent itinerary",
+        "4 days in tashkent",
+        "tashkent 3 nights 4 days itinerary"
+      ],
+      "questions": [
+        "how many days in tashkent"
+      ],
+      "research": {
+        "score": 7.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 42,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "slug": "tashkent-itinerary-3-days",
+      "publishedAt": "2026-11-07T23:53:17+04:00"
+    },
+    {
+      "id": "poland-itinerary-14-days",
+      "keyword": "poland itinerary 14 days",
+      "destination": "poland",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days",
+        "poland-christmas-markets-poznan-wroclaw-karpacz-9-days",
+        "krakow-jura-outdoor-7-days"
+      ],
+      "angle": "A real day-by-day 14-day plan that answers \"poland itinerary 14 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "2 weeks in poland itinerary",
+        "poland travel itinerary 14 days",
+        "poland itinerary 2 weeks",
+        "14 days in poland",
+        "two weeks in poland"
+      ],
+      "questions": [
+        "how many days in poland"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 37,
+        "itineraryIntent": true,
+        "itineraryDays": 14
+      },
+      "slug": "poland-itinerary-14-days",
+      "publishedAt": "2026-11-08T20:28:58+04:00"
+    },
+    {
+      "id": "day-trips-from-krakow-poland",
+      "keyword": "day trips from krakow poland",
+      "destination": "poland",
+      "countries": [],
+      "category": "day-trips",
+      "packages": [
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days",
+        "krakow-jura-outdoor-7-days",
+        "krakow-zakopane-winter-7-days"
+      ],
+      "angle": "How the day works: distances, drive times, what you see and how to book it privately",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "krakow day trips",
+        "day trips from wroclaw poland",
+        "zakopane poland day trips",
+        "day trips from poznan poland"
+      ],
+      "questions": [
+        "what to see in krakow poland",
+        "what to see in poland krakow",
+        "how many days in krakow poland",
+        "what to see in krakow in one day"
+      ],
+      "research": {
+        "score": 13.7,
+        "kind": "day-trip",
+        "intent": "planning",
+        "sources": [
+          "bing"
+        ],
+        "priority": 8
+      },
+      "slug": "day-trips-from-krakow-poland",
+      "publishedAt": "2026-11-08T20:33:39+04:00"
+    },
+    {
+      "id": "what-to-do-in-poznan-poland",
+      "keyword": "what to do in poznan poland",
+      "destination": "poland",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "poland-christmas-markets-poznan-wroclaw-karpacz-9-days",
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days",
+        "krakow-jura-outdoor-7-days"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our Poland tours covers each",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "poznan poland things to do",
+        "things to do in poznan poland",
+        "fun things to do in poznan poland",
+        "best things to do in poznan poland"
+      ],
+      "questions": [
+        "what to do in poland",
+        "what to see in poznan poland",
+        "how to get to poznan poland"
+      ],
+      "research": {
+        "score": 13.7,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 9
+      },
+      "slug": "what-to-do-in-poznan-poland",
+      "publishedAt": "2026-11-08T20:41:08+04:00"
+    },
+    {
+      "id": "azerbaijan-itinerary-10-days",
+      "keyword": "azerbaijan itinerary 10 days",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "azerbaijan-explorer-4-days",
+        "azerbaijan-journey-5-days",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "A real day-by-day 10-day plan that answers \"azerbaijan itinerary 10 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [
+        "azerbaijan in 10 days",
+        "azerbaijan 10 day itinerary",
+        "10 days in azerbaijan",
+        "azerbaijan travel itinerary 10 days",
+        "azerbaijan 10 days itinerary"
+      ],
+      "questions": [
+        "how many days in azerbaijan"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 41,
+        "itineraryIntent": true,
+        "itineraryDays": 10
+      },
+      "attempts": 1,
+      "lastError": "duplicate topic: title too similar to baku-itinerary-5-days (0.75)",
+      "checkedAt": "2026-11-09T00:54:41+04:00"
+    },
+    {
+      "id": "baku-day-tour-package",
+      "keyword": "baku day tour package",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "gobustan-mud-volcanoes-absheron-day-trip",
+        "azerbaijan-explorer-4-days",
+        "azerbaijan-journey-5-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "baku tour package",
+        "baku tour package from dubai",
+        "baku tour package from pakistan",
+        "baku tour package from uae"
+      ],
+      "questions": [
+        "what to see in baku in one day",
+        "what to do in baku"
+      ],
+      "research": {
+        "score": 16,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 2
+      },
+      "slug": "baku-day-tour-package",
+      "publishedAt": "2026-11-09T01:01:04+04:00"
+    },
+    {
+      "id": "azerbaijan-cost-of-travel",
+      "keyword": "azerbaijan cost of travel",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "azerbaijan-explorer-4-days",
+        "azerbaijan-journey-5-days",
+        "gobustan-mud-volcanoes-absheron-day-trip"
+      ],
+      "angle": "What drives the cost of the trip; real tour prices only from our catalog, no invented prices",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "azerbaijan travel cost",
+        "baku azerbaijan travel cost",
+        "azerbaijan travel cost from india",
+        "azerbaijan travel cost from pakistan"
+      ],
+      "questions": [
+        "where to travel in azerbaijan",
+        "is azerbaijan safe to travel to",
+        "is azerbaijan safe to travel",
+        "is it safe to travel to azerbaijan"
+      ],
+      "research": {
+        "score": 14.8,
+        "kind": "costs",
+        "intent": "commercial",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 3
+      },
+      "slug": "azerbaijan-cost-of-travel",
+      "publishedAt": "2026-11-09T01:05:40+04:00"
+    },
+    {
+      "id": "baku-itinerary-3-days",
+      "keyword": "baku itinerary 3 days",
+      "destination": "azerbaijan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "gobustan-mud-volcanoes-absheron-day-trip",
+        "azerbaijan-explorer-4-days",
+        "azerbaijan-journey-5-days"
+      ],
+      "angle": "A real day-by-day 3-day plan that answers \"baku itinerary 3 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "baku azerbaijan 4 days itinerary",
+        "3 days in baku",
+        "baku itinerary 4 days",
+        "3 days in baku itinerary",
+        "baku itinerary for 3 days"
+      ],
+      "questions": [
+        "how many days in baku"
+      ],
+      "research": {
+        "score": 7.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 40,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "slug": "baku-itinerary-3-days",
+      "publishedAt": "2026-11-09T01:11:53+04:00"
+    },
+    {
+      "id": "kyrgyzstan-itinerary-5-days",
+      "keyword": "kyrgyzstan itinerary 5 days",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "A real day-by-day 5-day plan that answers \"kyrgyzstan itinerary 5 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [
+        "kyrgyzstan in 5 days",
+        "kyrgyzstan 5 day itinerary",
+        "5 days in kyrgyzstan",
+        "kyrgyzstan travel itinerary 5 days",
+        "kyrgyzstan itinerary 6 days"
+      ],
+      "questions": [
+        "how many days in kyrgyzstan"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 34,
+        "itineraryIntent": true,
+        "itineraryDays": 5
+      },
+      "attempts": 1,
+      "lastError": "duplicate topic: title too similar to kyrgyzstan-itinerary-10-days (1.00)",
+      "checkedAt": "2026-11-10T05:51:48+04:00"
+    },
+    {
+      "id": "what-to-do-in-bishkek",
+      "keyword": "what to do in bishkek",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "top-places",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "What to see and do, grouped by area, with drive times and which of our Kyrgyzstan tours covers each",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [
+        "bishkek where is it",
+        "bishkek things to do",
+        "things to do in bishkek",
+        "things to do in bishkek city"
+      ],
+      "questions": [
+        "what to do in bishkek kyrgyzstan",
+        "what to do in bishkek city",
+        "what to do in bishkek for a day",
+        "what to do in bishkek at night"
+      ],
+      "research": {
+        "score": 14.3,
+        "kind": "things-to-do",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 3
+      },
+      "attempts": 1,
+      "lastError": "translation failed for 2 field(s): fr:summary (numbers differ); fr:a1 (numbers differ) | missing summary.fr",
+      "checkedAt": "2026-11-10T06:05:10+04:00"
+    },
+    {
+      "id": "how-to-get-to-karakol-from-bishkek",
+      "keyword": "how to get to karakol from bishkek",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "five-stans-long-road-22-days",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "ala-archa-burana-tower-day-trip"
+      ],
+      "angle": "Practical answer first, then the steps a first-time visitor to Kyrgyzstan needs",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "karakol to bishkek",
+        "bishkek to karakol",
+        "karakol to bishkek bus",
+        "karakol to bishkek marshrutka"
+      ],
+      "questions": [
+        "how to get to bishkek from karakol",
+        "how to get from bishkek to karakol",
+        "how to get to bishkek",
+        "how to get to karakol"
+      ],
+      "research": {
+        "score": 12.9,
+        "kind": "practical",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 9
+      },
+      "slug": "how-to-get-to-karakol-from-bishkek",
+      "publishedAt": "2026-11-10T06:16:20+04:00"
+    },
+    {
+      "id": "best-time-to-visit-bishkek",
+      "keyword": "best time to visit bishkek",
+      "destination": "kyrgyzstan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "ala-archa-burana-tower-day-trip",
+        "five-stans-long-road-22-days",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "Month-by-month conditions, what is open and which of our Kyrgyzstan tours fit the season",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "best time to visit bishkek kyrgyzstan",
+        "best time to visit karakol",
+        "best places to visit in bishkek",
+        "best month to visit bishkek"
+      ],
+      "questions": [
+        "how cold is bishkek in winter"
+      ],
+      "research": {
+        "score": 11.9,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 10
+      },
+      "slug": "best-time-to-visit-bishkek",
+      "publishedAt": "2026-11-10T06:21:56+04:00"
+    },
+    {
+      "id": "best-time-to-visit-jilin-china",
+      "keyword": "best time to visit jilin china",
+      "destination": "china",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "harbin-snow-town-changbai-mountain-7-days",
+        "harbin-ice-festival-city-highlights-day-tour"
+      ],
+      "angle": "Month-by-month conditions, what is open and which of our China tours fit the season",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "best time to visit jilin",
+        "best time to visit harbin china",
+        "harbin china when is the best time to visit",
+        "best time to visit harbin for snow"
+      ],
+      "questions": [
+        "when is the best time to visit harbin",
+        "where is jilin china",
+        "what to do in jilin china",
+        "what to see in jilin china"
+      ],
+      "research": {
+        "score": 10,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google"
+        ],
+        "priority": 14
+      },
+      "slug": "best-time-to-visit-jilin-china",
+      "publishedAt": "2026-11-10T12:58:30+04:00"
+    },
+    {
+      "id": "two-weeks-in-tajikistan",
+      "keyword": "two weeks in tajikistan",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A real day-by-day 14-day plan that answers \"two weeks in tajikistan\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [],
+      "questions": [
+        "how many days in tajikistan"
+      ],
+      "research": {
+        "score": 7.1,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 40,
+        "itineraryIntent": true,
+        "itineraryDays": 14
+      },
+      "slug": "two-weeks-in-tajikistan",
+      "publishedAt": "2026-11-11T06:28:39+04:00"
+    },
+    {
+      "id": "silk-road-itinerary-2-weeks",
+      "keyword": "silk road itinerary 2 weeks",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "turgen-gorge-assy-plateau-2-days",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A real day-by-day 14-day plan that answers \"silk road itinerary 2 weeks\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "skipped",
+      "source": "keyword-bank",
+      "secondary": [
+        "central asia itinerary 2 weeks",
+        "2 week stans itinerary",
+        "stans itinerary",
+        "5 stans itinerary",
+        "3 stans itinerary"
+      ],
+      "questions": [
+        "how many days in kazakhstan"
+      ],
+      "research": {
+        "score": 7.2,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 38,
+        "itineraryIntent": true,
+        "itineraryDays": 14
+      },
+      "attempts": 2,
+      "lastError": "only 1 tour card(s) embedded (min 2)",
+      "checkedAt": "2026-11-17T08:53:42+04:00"
+    },
+    {
+      "id": "kolsay-tour-almaty",
+      "keyword": "kolsay tour almaty",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "almaty tour guide",
+        "almaty tour agency",
+        "kolsay to almaty",
+        "charyn canyon tour from almaty"
+      ],
+      "questions": [
+        "what to do in almaty",
+        "how to get to almaty",
+        "what to do in almaty in winter",
+        "what to do in almaty kazakhstan"
+      ],
+      "research": {
+        "score": 13.3,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google"
+        ],
+        "priority": 6
+      },
+      "slug": "kolsay-tour-almaty",
+      "publishedAt": "2026-11-12T05:25:34+04:00"
+    },
+    {
+      "id": "armenia-itinerary-2-weeks",
+      "keyword": "armenia itinerary 2 weeks",
+      "destination": "armenia",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "armenia-legends-4-days",
+        "armenia-cultural-discovery-5-days",
+        "garni-geghard-lake-sevan-day-trip"
+      ],
+      "angle": "A real day-by-day 14-day plan that answers \"armenia itinerary 2 weeks\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "armenia itinerary 14 days",
+        "two weeks in armenia"
+      ],
+      "questions": [
+        "how many days in armenia"
+      ],
+      "research": {
+        "score": 7.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 43,
+        "itineraryIntent": true,
+        "itineraryDays": 14
+      },
+      "slug": "armenia-itinerary-2-weeks",
+      "publishedAt": "2026-11-13T07:53:15+04:00"
+    },
+    {
+      "id": "samarkand-itinerary-3-days",
+      "keyword": "samarkand itinerary 3 days",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "A real day-by-day 3-day plan that answers \"samarkand itinerary 3 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [
+        "3 days in samarkand",
+        "samarkand itinerary 4 days",
+        "3 day samarkand itinerary",
+        "4 days in samarkand"
+      ],
+      "questions": [
+        "how many days in samarkand"
+      ],
+      "research": {
+        "score": 7.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 43,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "attempts": 1,
+      "lastError": "duplicate topic: title too similar to samarkand-itinerary-2-days (1.00)",
+      "checkedAt": "2026-11-14T04:53:33+04:00"
+    },
+    {
+      "id": "best-time-to-visit-samarkand",
+      "keyword": "best time to visit samarkand",
+      "destination": "uzbekistan",
+      "countries": [],
+      "category": "seasonal",
+      "packages": [
+        "samarkand-day-tour-by-afrosiyob-train",
+        "3-stans-discovery-14-days",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "Month-by-month conditions, what is open and which of our Uzbekistan tours fit the season",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "best time to visit tashkent and samarkand",
+        "best time to visit samarkand uzbekistan",
+        "best time to visit tashkent",
+        "best time to visit bukhara"
+      ],
+      "questions": [
+        "what to do in samarkand",
+        "is tashkent worth visiting",
+        "what to do in tashkent"
+      ],
+      "research": {
+        "score": 14.3,
+        "kind": "season",
+        "intent": "planning",
+        "sources": [
+          "google",
+          "bing"
+        ],
+        "priority": 5
+      },
+      "slug": "best-time-to-visit-samarkand",
+      "publishedAt": "2026-11-14T05:02:50+04:00"
+    },
+    {
+      "id": "3-days-in-dushanbe",
+      "keyword": "3 days in dushanbe",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "five-stans-long-road-22-days",
+        "four-stans-odyssey-18-days"
+      ],
+      "angle": "A real day-by-day 3-day plan that answers \"3 days in dushanbe\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [],
+      "questions": [
+        "how many days in dushanbe"
+      ],
+      "research": {
+        "score": 7.1,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 41,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "attempts": 1,
+      "lastError": "duplicate topic: title too similar to 2-days-in-dushanbe (0.75)",
+      "checkedAt": "2026-11-16T07:18:28+04:00"
+    },
+    {
+      "id": "is-tajikistan-expensive",
+      "keyword": "is tajikistan expensive",
+      "destination": "tajikistan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "iskanderkul-lake-fann-mountains-day-trip",
+        "four-stans-odyssey-18-days",
+        "five-stans-long-road-22-days"
+      ],
+      "angle": "What drives the cost of the trip; real tour prices only from our catalog, no invented prices",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [
+        "tajikistan budget",
+        "tajikistan or tajikistan",
+        "tajikistan",
+        "tajikistan travel cost"
+      ],
+      "questions": [
+        "is tajikistan expensive to travel",
+        "is tajikistan expensive to visit",
+        "why is tajikistan so expensive",
+        "is tajikistan cheap"
+      ],
+      "research": {
+        "score": 13.3,
+        "kind": "costs",
+        "intent": "commercial",
+        "sources": [
+          "google"
+        ],
+        "priority": 6
+      },
+      "attempts": 1,
+      "lastError": "duplicate topic: title too similar to tajikistan-itinerary-5-days (0.67)",
+      "checkedAt": "2026-11-16T07:31:18+04:00"
+    },
+    {
+      "id": "bogdanovich-glacier-tour-almaty",
+      "keyword": "bogdanovich glacier tour almaty",
+      "destination": "kazakhstan",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "bogdanovich-glacier-day-hike",
+        "turgen-gorge-assy-plateau-2-days",
+        "charyn-kolsai-kaindy-2-days",
+        "3-stans-discovery-14-days"
+      ],
+      "angle": "Which private tour fits which traveller, with lengths, seasons and what is included",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [
+        "almaty tour guide",
+        "almaty tour agency",
+        "charyn canyon tour from almaty",
+        "kaindy lake tour from almaty"
+      ],
+      "questions": [
+        "what to do in almaty",
+        "is almaty worth visiting",
+        "how to get to charyn canyon from almaty"
+      ],
+      "research": {
+        "score": 13.1,
+        "kind": "tours",
+        "intent": "commercial",
+        "sources": [
+          "google"
+        ],
+        "priority": 7
+      },
+      "attempts": 1,
+      "lastError": "translation failed for 1 field(s): fr:intro (numbers differ) | missing intro.fr",
+      "checkedAt": "2026-11-17T08:58:57+04:00"
+    },
+    {
+      "id": "poland-itinerary-3-days",
+      "keyword": "poland itinerary 3 days",
+      "destination": "poland",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "krakow-katowice-beskids-active-winter-9-days",
+        "learn-to-ski-poland-beskid-mountains-9-days",
+        "poland-christmas-markets-poznan-wroclaw-karpacz-9-days",
+        "krakow-jura-outdoor-7-days"
+      ],
+      "angle": "A real day-by-day 3-day plan that answers \"poland itinerary 3 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "pending",
+      "source": "keyword-bank",
+      "secondary": [
+        "poland itinerary 4 days",
+        "3 days in poland",
+        "3 days in poland itinerary",
+        "poland in 3 days",
+        "4 days in poland"
+      ],
+      "questions": [
+        "how many days in poland"
+      ],
+      "research": {
+        "score": 8.3,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 38,
+        "itineraryIntent": true,
+        "itineraryDays": 3
+      },
+      "attempts": 1,
+      "lastError": "duplicate topic: title too similar to poland-itinerary-14-days (0.67)",
+      "checkedAt": "2026-11-18T08:49:10+04:00"
+    },
+    {
+      "id": "wroclaw-itinerary-2-days",
+      "keyword": "wroclaw itinerary 2 days",
+      "destination": "poland",
+      "countries": [],
+      "category": "destination-guide",
+      "packages": [
+        "poland-christmas-markets-poznan-wroclaw-karpacz-9-days",
+        "krakow-jura-outdoor-7-days",
+        "krakow-katowice-beskids-active-winter-9-days",
+        "krakow-zakopane-winter-7-days"
+      ],
+      "angle": "A real day-by-day 2-day plan that answers \"wroclaw itinerary 2 days\": where you sleep each night, drive and train times, and which of our tours runs this route",
+      "status": "published",
+      "source": "keyword-bank",
+      "secondary": [
+        "wroclaw itinerary 1 day",
+        "2 days in wroclaw",
+        "2 days in wroclaw poland",
+        "wroclaw itinerary",
+        "wroclaw poland itinerary"
+      ],
+      "questions": [
+        "how many days in wroclaw"
+      ],
+      "research": {
+        "score": 7.7,
+        "kind": "itinerary",
+        "intent": "planning",
+        "sources": [
+          "google-autocomplete-us"
+        ],
+        "priority": 42,
+        "itineraryIntent": true,
+        "itineraryDays": 2
+      },
+      "slug": "wroclaw-itinerary-2-days",
+      "publishedAt": "2026-11-18T08:55:21+04:00"
+    }
+  ]
+}

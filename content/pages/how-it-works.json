@@ -1,0 +1,174 @@
+{
+  "title": "How it works",
+  "seo": {
+    "en": {
+      "seo_title": "How to Book a Private Central Asia or Caucasus Tour (Personal Quote)",
+      "meta_description": "How booking works with Sunday Atlas Travel: choose from 20 Silk Road, Caucasus & Harbin itineraries (from $104), customize your dates & get a personal quote by email.",
+      "focus_keyword": "how to plan a central asia trip",
+      "keywords": [
+        "how to plan a central asia trip",
+        "silk road trip planning",
+        "private tour quote",
+        "central asia tour booking",
+        "custom tour itinerary"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "So buchen Sie Ihre Zentralasien- oder Kaukasus-Rundreise (persönliches Angebot)",
+      "meta_description": "Ablauf bei Sunday Atlas Travel: Wählen Sie aus 20 privaten Rundreisen & Tagestouren (ab $104), senden Sie Ihre Reisedaten und erhalten Sie Ihr persönliches Angebot per E-Mail.",
+      "focus_keyword": "zentralasien reise planen",
+      "keywords": [
+        "zentralasien reise planen",
+        "seidenstraße rundreise planen",
+        "rundreise anfrage",
+        "privattour buchen"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Comment Réserver Votre Circuit en Asie Centrale ou au Caucase (Devis Personnel)",
+      "meta_description": "Comment fonctionne Sunday Atlas Travel : choisissez parmi 20 circuits privés et excursions (dès $104), indiquez vos dates et recevez votre devis personnel par e-mail.",
+      "focus_keyword": "organiser un voyage en asie centrale",
+      "keywords": [
+        "organiser un voyage en asie centrale",
+        "préparer voyage route de la soie",
+        "devis circuit privé"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "中央アジア・シルクロード現地ツアーのご予約の流れ（個別お見積もり）",
+      "meta_description": "Sunday Atlas Travelのご予約手順：全20コース（$104〜）からご希望のツアーと日程をお知らせください。メールで詳細な個別見積もりをお送りします。",
+      "focus_keyword": "中央アジア 旅行 計画",
+      "keywords": [
+        "中央アジア 旅行 計画",
+        "シルクロード ツアー 予約",
+        "海外 現地ツアー 手配"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Cómo Reservar su Tour Privado por Asia Central o el Cáucaso (Presupuesto Personal)",
+      "meta_description": "Cómo funciona Sunday Atlas Travel: elija entre 20 circuitos y excursiones privadas (desde $104), envíe sus fechas y reciba un presupuesto detallado por correo.",
+      "focus_keyword": "cómo organizar un viaje a asia central",
+      "keywords": [
+        "cómo organizar un viaje a asia central",
+        "planificar viaje ruta de la seda",
+        "presupuesto tour privado"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "如何预订私人中亚或高加索之旅（个人报价）",
+      "meta_description": "了解与 Sunday Atlas Travel 预订的流程：从 20 条丝绸之路、高加索和哈尔滨行程中选择（从 $104 开始），自定义日期，并通过电子邮件获取个人报价单。",
+      "focus_keyword": "中亚私人旅游报价",
+      "keywords": [
+        "中亚私人旅游报价",
+        "高加索私人旅游报价",
+        "丝绸之路私人旅游",
+        "哈尔滨旅游行程",
+        "中亚旅游多少钱",
+        "高加索旅游多少钱",
+        "私人旅游日期安排",
+        "旅游个人报价邮件"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "faq_title": {
+    "en": "How to plan a trip: common questions",
+    "de": "Asien Rundreise planen: häufige Fragen",
+    "fr": "Comment organiser un voyage à l’étranger : vos questions",
+    "ja": "旅行計画の方法：よくある質問",
+    "es": "Cómo planificar un viaje: preguntas frecuentes",
+    "zh": "如何规划行程：常见问题"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "What is trip planning?",
+        "de": "Wie plane ich eine Reise?",
+        "fr": "Comment planifier un voyage ?",
+        "ja": "旅行計画の立て方は？",
+        "es": "¿Cómo hacer un presupuesto para un viaje?",
+        "zh": "什么是行程规划？"
+      },
+      "a": {
+        "en": "Turning an outline into a route and a price: where, when, who is travelling and the pace you like. We do that part with you and write it up as a quote.",
+        "de": "Beginnen Sie mit einem Land, einem ungefähren Zeitraum und wer mitreist. Schicken Sie das über das Formular; wir antworten per E-Mail mit Rückfragen. Einreiseregeln prüfen Sie bitte bei offiziellen Stellen.",
+        "fr": "Commencez par un pays, une période approximative et les personnes du voyage. Envoyez-le via le formulaire ; nous répondons par e-mail. Pour les règles d’entrée, consultez les sources officielles.",
+        "ja": "国、おおよその時期、ご一緒する方から始めましょう。フォームでお送りいただければ、メールで質問を添えてお返事します。入国条件は政府の公式情報でご確認ください。",
+        "es": "Con nosotros, no tiene que hacerlo solo: nos envía fechas, destino y quién viaja, y preparamos un presupuesto personal con la ruta, el precio y lo que incluye.",
+        "zh": "把大纲变成路线和报价：去哪里、什么时候、谁同行，以及您喜欢的节奏。我们与您共同完成这部分，并将其写成报价单。"
+      }
+    },
+    {
+      "q": {
+        "en": "How do you plan a trip abroad?",
+        "de": "Wie plane ich eine Rundreise?",
+        "fr": "Comment bien organiser un voyage ?",
+        "ja": "旅行計画はいつから始めればいいですか？",
+        "es": "¿Por qué es importante planificar un viaje?",
+        "zh": "如何规划出国旅行？"
+      },
+      "a": {
+        "en": "Start with a country, a rough window and who is travelling. Send it with the form; we reply by email with questions. For entry rules, check official government sources.",
+        "de": "Sagen Sie uns, welche Rundreise Ihren Wünschen am nächsten kommt und was Sie ändern würden. Wir passen die Route an und kalkulieren sie in einem persönlichen Angebot.",
+        "fr": "En fixant tôt l’essentiel : dates, rythme, budget et ce qui doit être inclus. Notre devis personnel met tout cela par écrit.",
+        "ja": "一般的な目安として、早めがおすすめです。ご希望の日程でホテルやガイドを押さえられるよう、ご出発の十分前にご相談ください。",
+        "es": "Porque fechas, ritmo y lo que incluye cada día cambian mucho el viaje y el precio. Dejarlo por escrito evita sorpresas.",
+        "zh": "先确定一个国家、大致的时间窗口和同行人员。通过表格发送给我们；我们会通过电子邮件回复并提出问题。关于入境规定，请查阅官方政府来源。"
+      }
+    },
+    {
+      "q": {
+        "en": "How do you plan a tour package?",
+        "de": "Was kostet mich eine Reise?",
+        "fr": "Comment préparer son voyage ?",
+        "ja": "旅行計画はどこから始めますか？",
+        "es": "¿Cómo planificar un presupuesto de viaje?",
+        "zh": "如何规划旅游团套餐？"
+      },
+      "a": {
+        "en": "Tell us which tour is closest to what you want and what you would change. We adjust the route and price it in a personal quote.",
+        "de": "Das steht in Ihrem persönlichen Angebot. Es nennt Route, Preis und Leistungen; wenn Sie annehmen, bestätigen wir den Plan für Ihre Daten.",
+        "fr": "Une fois le devis accepté, nous confirmons les hôtels, les transports sur place et les guides pour vos dates. Vérifiez visas et règles d’entrée auprès des sources officielles.",
+        "ja": "いちばん近いツアーを選び、変えたい点をお知らせいただくのが近道です。ルートを調整し、個別のお見積もりにまとめます。",
+        "es": "Decida qué debe incluir (alojamiento, guía, traslados) y qué no (vuelos internacionales, seguro). Nuestro presupuesto lo separa con claridad.",
+        "zh": "告诉我们哪个旅游团最接近您的需求，以及您想做哪些改动。我们会调整路线，并为您出具个人报价单。"
+      }
+    },
+    {
+      "q": {
+        "en": "How are private tour packages made?",
+        "de": "Wie werden Bestätigung und Details geregelt?",
+        "fr": "Comment la confirmation et les modalités sont-elles organisées ?",
+        "ja": "プライベートツアーはいつから相談できますか？",
+        "es": "¿Cómo se organizan la confirmación y los detalles?",
+        "zh": "私人旅游团套餐是如何制作的？"
+      },
+      "a": {
+        "en": "From your answers to our questions about pace, interests and dates. We design the route, then send the quote. The tour pages are the starting point.",
+        "de": "Von Fall zu Fall. Ihr persönliches Angebot nennt die Einzelheiten für Ihre Reisedaten und Ihre Gruppe.",
+        "fr": "Au cas par cas. Votre devis personnel précise les modalités pour vos dates et votre groupe.",
+        "ja": "いつでもどうぞ。お問い合わせは予約ではないので、まだ日程が決まっていなくても大丈夫です。",
+        "es": "Caso por caso. Su presupuesto personal detalla las condiciones para sus fechas y su grupo.",
+        "zh": "根据您对我们关于节奏、兴趣和日期问题的回答。我们设计路线，然后发送报价单。旅游页面是起点。"
+      }
+    }
+  ],
+  "sections": []
+}

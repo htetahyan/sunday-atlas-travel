@@ -1,0 +1,1148 @@
+{
+  "slug": "2-days-in-dushanbe",
+  "published": true,
+  "featured": false,
+  "category": "destination-guide",
+  "destination": "tajikistan",
+  "countries": [],
+  "publishedAt": "2026-11-07T01:28:00+04:00",
+  "updatedAt": "2026-11-07T01:28:00+04:00",
+  "readingTimeMinutes": 13,
+  "relatedPackages": [
+    "iskanderkul-lake-fann-mountains-day-trip",
+    "five-stans-long-road-22-days",
+    "four-stans-odyssey-18-days"
+  ],
+  "title": {
+    "en": "2 Days in Dushanbe: Hissar Fortress (2027)",
+    "de": "2 Tage in Duschanbe: Hissar-Festung (2027)",
+    "fr": "2 jours à Douchanbé : la forteresse d'Hissar (2027)",
+    "ja": "2027年 ドゥシャンベ2日間：ヒッサル要塞",
+    "es": "2 días en Dusambé: Fortaleza de Hissar (2027)"
+  },
+  "subtitle": {
+    "en": "Day-by-day plan with drive times, where to sleep, and the matching 22-day 5 Stans tour",
+    "de": "Tagesplan mit Fahrzeiten, Übernachtungen und der passenden 22-tägigen 5-Stans-Rundreise",
+    "fr": "Programme jour après jour avec temps de trajet, hébergements et circuit de 22 jours à travers les 5 Stans associé",
+    "ja": "2日間の日程、所要時間、宿泊先、および関連する22日間の5カ国スタンツアー",
+    "es": "Plan día a día con tiempos de traslado, dónde dormir y el tour de 22 días 5 Stans correspondiente"
+  },
+  "summary": {
+    "en": "A concrete 2-day Dushanbe itinerary covering the capital's museums, Hissar Fortress, and a day trip to Iskanderkul Lake, plus transport details and our 22-day Five Stans tour that includes this route.",
+    "de": "Ein konkreter 2-Tage-Reiseplan für Duschanbe, der die Museen der Hauptstadt, die Hissar-Festung und einen Tagesausflug zum Iskanderkul-See umfasst, inklusive Transportdetails und unserer 22-tägigen Fünf-Stans-Rundreise, die diese Route beinhaltet.",
+    "fr": "Un itinéraire concret de 2 jours à Douchanbé couvrant les musées de la capitale, la forteresse d'Hissar et une excursion d'une journée au lac Iskanderkul, avec les détails de transport et notre circuit de 22 jours à travers les 5 Stans incluant cet itinéraire.",
+    "ja": "ドゥシャンベの博物館、ヒッサル要塞、イスカンダークル湖への日帰り旅行を網羅した具体的な2日間のドゥシャンベ行程。交通情報と、このルートを含む22日間の5カ国スタンツアーをご紹介します。",
+    "es": "Un itinerario concreto de 2 días en Dusambé que cubre los museos de la capital, la Fortaleza de Hissar y una excursión de un día al lago Iskanderkul, además de detalles de transporte y nuestro tour de 22 días Five Stans que incluye esta ruta."
+  },
+  "intro": {
+    "en": "2 days in Dushanbe covers the National Museum, Rudaki Park, Hissar Fortress 30 km west, and a full-day 4x4 trip to Iskanderkul Lake over the Anzob Pass, with both nights in Dushanbe. Late spring to early autumn is the usual season for the mountain roads. This post gives a day-by-day plan with realistic drive times, where you sleep each night, and which of our tours runs this route.",
+    "de": "2 Tage in Duschanbe umfassen das Nationalmuseum, den Rudaki-Park, die Hissar-Festung 30 km westlich und eine ganztägige 4x4-Fahrt zum Iskanderkul-See über den Anzob-Pass, mit beiden Übernachtungen in Duschanbe. Die übliche Reisezeit für die Bergstraßen ist von Ende Frühjahr bis Anfang Herbst. Dieser Beitrag bietet einen Tagesplan mit realistischen Fahrzeiten, wo Sie jede Nacht übernachten, und welche unserer Reisen diese Route abdeckt.",
+    "fr": "2 jours à Douchanbé couvrent le Musée national, le parc Rudaki, la forteresse d'Hissar à 30 km à l'ouest, et une excursion d'une journée en 4x4 au lac Iskanderkul via le col d'Anzob, avec les deux nuits à Douchanbé. De la fin du printemps au début de l'automne est la saison habituelle pour les routes de montagne. Cet article propose un programme jour après jour avec des temps de trajet réalistes, où vous dormez chaque nuit, et lequel de nos circuits emprunte cet itinéraire.",
+    "ja": "ドゥシャンベでの2日間は、国立博物館、ルダキ公園、西へ30kmのヒッサル要塞、そしてアンゾブ峠を越えるイスカンダークル湖への4x4による1日旅行をカバーし、両夜ともドゥシャンベで過ごします。山岳道路の通常のシーズンは、晩春から初秋までです。この記事では、現実的な所要時間を記した日ごとの計画、毎晩の宿泊先、そしてこのルートを運行する当社のツアーについてご案内します。",
+    "es": "2 días en Dusambé cubre el Museo Nacional, el Parque Rudaki, la Fortaleza de Hissar a 30 km al oeste, y una excursión de día completo en 4x4 al lago Iskanderkul a través del paso de Anzob, con ambas noches en Dusambé. De finales de primavera a principios de otoño es la temporada habitual para las carreteras de montaña. Esta publicación ofrece un plan día a día con tiempos de traslado realistas, dónde dormir cada noche y cuál de nuestros tours recorre esta ruta."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793999531/sunday-atlas/blog/tajikistan-itinerary-10-days/dushanbe-commons-59126745.jpg",
+    "width": 1920,
+    "height": 1440,
+    "alt": {
+      "en": "Fountains and a large government building in Dushanbe, Tajikistan.",
+      "de": "Springbrunnen und ein großes Regierungsgebäude in Duschanbe, Tadschikistan.",
+      "fr": "Fontaines et grand bâtiment gouvernemental à Douchanbé, au Tadjikistan.",
+      "ja": "ドゥシャンベ、タジキスタンの噴水と大規模な政府庁舎。",
+      "es": "Fuentes y un gran edificio gubernamental en Dusambé, Tayikistán."
+    },
+    "credit": {
+      "author": "Hansjoerg Eberle",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fountains_of_Dushanbe,_Tajikistan_-_panoramio_(1).jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "day-1-morning-dushanbe-city",
+      "placeName": {
+        "en": "Dushanbe",
+        "de": "Duschanbe",
+        "fr": "Douchanbé",
+        "ja": "ドゥシャンベ",
+        "es": "Dushanbe"
+      },
+      "heading": {
+        "en": "Day 1 Morning: Dushanbe City Centre and National Museum",
+        "de": "Tag 1 Vormittag: Duschanbe Stadtzentrum und Nationalmuseum",
+        "fr": "Jour 1 matin : centre-ville de Douchanbé et Musée national",
+        "ja": "1日目 午前：ドゥシャンベ市内中心部と国立博物館",
+        "es": "Día 1 por la mañana: Centro de Dushanbe y Museo Nacional"
+      },
+      "paragraphs": {
+        "en": [
+          "Start Day 1 in central Dushanbe at the National Museum of Tajikistan, open daily except Monday from 9:00 to 17:00, where the 22 exhibition halls cover natural history, archaeology and modern art across about 3,000 square metres. Walk five minutes north to Rudaki Park, a 12-hectare green space centred on a 25-metre bronze statue of the poet Rudaki and flanked by fountains that run from April to October. Continue another 600 metres to the Ismaili Centre, its blue-tiled dome and carved wooden doors visible from the street; non-Muslim visitors may enter the prayer hall and gardens between 10:00 and 16:00 Saturday to Thursday. The three sites form a compact triangle reachable on foot in under 20 minutes total walking time. Late spring to early autumn offers reliable weather for outdoor movement between them.",
+          "Allow roughly two hours for the National Museum to see the Sogdian wall paintings from Penjikent, the 1,500-year-old Buddha in Nirvana and the ethnographic displays of Pamiri life. Rudaki Park needs 30 to 45 minutes for the statue, the parliamentary building facade and the seasonal flower beds that peak in May and September. The Ismaili Centre visit takes about 45 minutes including the courtyard, the library reading room and the rooftop terrace with views toward the Hissar Range 15 kilometres to the west. All three locations have wheelchair-accessible entrances and restrooms. Photography is permitted inside the museum without flash and in the centre's public areas.",
+          "Lunch options cluster along Rudaki Avenue within 300 metres of the park's north gate; expect set menus of plov, shurbo soup and grilled kebabs served from 12:00 to 14:30. Taxis wait at the museum's main entrance and the park's east gate; a ride to the Hissar Fortress turn-off 28 kilometres west takes about 40 minutes on the M34 highway. If you prefer shared transport, minibuses (marshrutkas) depart from the green bazaar area every 20 minutes during daylight hours and cost a fraction of a private car. Morning traffic in Dushanbe peaks between 8:00 and 9:30, so leaving the museum by 11:30 avoids the heaviest flow toward Hissar.",
+          "The National Museum closes on Mondays and on 9 May, 27 June and 6 November; plan Day 1 for Tuesday through Sunday to guarantee entry. Rudaki Park fountains operate from mid-April to mid-October depending on night temperatures, so late April or early October visits may find them dry. The Ismaili Centre requires modest dress covering shoulders and knees; scarves are provided at the entrance if needed. Summer daytime highs in Dushanbe reach 35 to 38 Celsius in July and August, making the shaded park paths and the centre's cooled interiors a practical midday refuge. Carry a reusable water bottle; refill stations are installed at the museum lobby and the park's central pavilion."
+        ],
+        "de": [
+          "Beginnen Sie Tag 1 im Zentrum von Duschanbe im Nationalmuseum von Tadschikistan, das täglich außer montags von 9:00 bis 17:00 Uhr geöffnet ist. Die 22 Ausstellungshallen erstrecken sich auf etwa 3.000 Quadratmetern und behandeln Naturgeschichte, Archäologie und moderne Kunst. Gehen Sie fünf Minuten nördlich zum Rudaki-Park, einer 12 Hektar großen Grünanlage, die von einer 25 Meter hohen Bronzestatue des Dichters Rudaki dominiert wird und von Springbrunnen gesäumt ist, die von April bis Oktober laufen. Weiter 600 Meter zum Ismaili-Zentrum mit seiner blau gekachelten Kuppel und den geschnitzten Holztüren, die von der Straße aus sichtbar sind. Nicht-muslimische Besucher können den Gebetssaal und die Gärten samstags bis donnerstags zwischen 10:00 und 16:00 Uhr betreten. Die drei Stätten bilden ein kompaktes Dreieck, das in weniger als 20 Minuten Gesamtgehzeit zu Fuß erreichbar ist. Von Ende Frühjahr bis Anfang Herbst ist das Wetter für die Bewegung im Freien zwischen ihnen zuverlässig.",
+          "Planen Sie etwa zwei Stunden für das Nationalmuseum ein, um die sogdischen Wandmalereien aus Penjikent, die 1.500 Jahre alte Buddha-Statue im Nirwana und die ethnografischen Exponate zum Leben der Pamirer zu sehen. Der Rudaki-Park benötigt 30 bis 45 Minuten für die Statue, die Fassade des Parlamentsgebäudes und die saisonalen Blumenbeete, die im Mai und September ihren Höhepunkt erreichen. Der Besuch des Ismaili-Zentrums dauert etwa 45 Minuten, einschließlich des Innenhofs, des Bibliothekslesesaals und der Dachterrasse mit Blick auf die Hissar-Kette 15 Kilometer westlich. Alle drei Standorte verfügen über rollstuhlgerechte Eingänge und Toiletten. Fotografieren ist im Museum ohne Blitz und in den öffentlichen Bereichen des Zentrums erlaubt.",
+          "Mittagsmöglichkeiten konzentrieren sich entlang der Rudaki Avenue innerhalb von 300 Metern vom Nordtor des Parks; erwarten Sie Menüs mit Plov, Shurbo-Suppe und gegrillten Kebabs, serviert von 12:00 bis 14:30 Uhr. Taxis warten am Haupteingang des Museums und am Osttor des Parks; eine Fahrt zur Abzweigung der Hissar-Festung 28 Kilometer westlich dauert etwa 40 Minuten auf der M34-Autobahn. Wenn Sie gemeinsame Transportmittel bevorzugen, fahren Marshrutkas (Minibusse) alle 20 Minuten während der Tageslichtstunden vom Bereich des grünen Basars ab und kosten nur einen Bruchteil eines privaten Autos. Der morgendliche Verkehr in Duschanbe erreicht zwischen 8:00 und 9:30 Uhr seinen Höhepunkt, sodass das Verlassen des Museums um 11:30 Uhr den stärksten Verkehr in Richtung Hissar vermeidet.",
+          "Das Nationalmuseum ist montags sowie am 9. Mai, 27. Juni und 6. November geschlossen; planen Sie Tag 1 von Dienstag bis Sonntag, um den Eintritt zu garantieren. Die Springbrunnen im Rudaki-Park funktionieren von Mitte April bis Mitte Oktober, abhängig von den Nachttemperaturen, sodass Besuche Ende April oder Anfang Oktober sie trocken vorfinden könnten. Das Ismaili-Zentrum erfordert bescheidene Kleidung, die Schultern und Knie bedeckt; Schals werden bei Bedarf am Eingang bereitgestellt. Die sommerlichen Tageshöchstwerte in Duschanbe erreichen im Juli und August 35 bis 38 Grad Celsius, wodurch die schattigen Parkwege und die klimatisierten Innenräume des Zentrums eine praktische Mittagsflucht bieten. Tragen Sie eine wiederverwendbare Wasserflasche bei sich; Nachfüllstationen sind in der Museumshalle und im zentralen Pavillon des Parks installiert."
+        ],
+        "fr": [
+          "Commencez le Jour 1 au centre de Douchanbé au Musée national du Tadjikistan, ouvert tous les jours sauf le lundi de 9:00 à 17:00, où les 22 salles d'exposition couvrent l'histoire naturelle, l'archéologie et l'art moderne sur environ 3 000 mètres carrés. Marchez cinq minutes vers le nord jusqu'au parc Rudaki, un espace vert de 12 hectares centré sur une statue en bronze de 25 mètres du poète Rudaki et flanqué de fontaines qui fonctionnent d'avril à octobre. Continuez sur 600 mètres jusqu'au Centre ismaélien, dont le dôme aux carreaux bleus et les portes en bois sculpté sont visibles depuis la rue ; les visiteurs non musulmans peuvent entrer dans la salle de prière et les jardins entre 10:00 et 16:00 du samedi au jeudi. Les trois sites forment un triangle compact accessible à pied en moins de 20 minutes de marche au total. De la fin du printemps au début de l'automne offre une météo fiable pour les déplacements extérieurs entre eux.",
+          "Prévoyez environ deux heures pour le Musée national afin de voir les peintures murales sogdiennes de Penjikent, le Bouddha de 1 500 ans en Nirvana et les expositions ethnographiques de la vie pamirie. Le parc Rudaki nécessite 30 à 45 minutes pour la statue, la façade du bâtiment parlementaire et les parterres de fleurs saisonniers qui culminent en mai et septembre. La visite du Centre ismaélien prend environ 45 minutes, y compris la cour, la salle de lecture de la bibliothèque et la terrasse sur le toit avec vue sur la chaîne de Hissar à 15 kilomètres à l'ouest. Les trois lieux disposent d'entrées et de toilettes accessibles aux fauteuils roulants. La photographie est autorisée à l'intérieur du musée sans flash et dans les espaces publics du centre.",
+          "Les options de déjeuner se regroupent le long de l'avenue Rudaki à moins de 300 mètres de la porte nord du parc ; attendez-vous à des menus fixes de plov, de soupe shurbo et de kebabs grillés servis de 12:00 à 14:30. Des taxis attendent à l'entrée principale du musée et à la porte est du parc ; un trajet jusqu'à l'embranchement de la forteresse d'Hissar, à 28 kilomètres à l'ouest, prend environ 40 minutes sur l'autoroute M34. Si vous préférez les transports partagés, les minibus (marshrutkas) partent de la zone du bazar vert toutes les 20 minutes pendant les heures de jour et coûtent une fraction d'une voiture privée. Le trafic matinal à Douchanbé atteint son pic entre 8:00 et 9:30, donc quitter le musée à 11:30 évite le flux le plus dense vers Hissar.",
+          "Le Musée national est fermé les lundis ainsi que les 9 mai, 27 juin et 6 novembre ; prévoyez le Jour 1 du mardi au dimanche pour garantir l'entrée. Les fontaines du parc Rudaki fonctionnent de mi-avril à mi-octobre selon les températures nocturnes, donc les visites fin avril ou début octobre peuvent les trouver à sec. Le Centre ismaélien exige une tenue modeste couvrant les épaules et les genoux ; des foulards sont fournis à l'entrée si nécessaire. Les maximales diurnes estivales à Douchanbé atteignent 35 à 38 Celsius en juillet et août, faisant des sentiers ombragés du parc et des intérieurs climatisés du centre un refuge pratique en milieu de journée. Emportez une bouteille d'eau réutilisable ; des stations de remplissage sont installées dans le hall du musée et au pavillon central du parc."
+        ],
+        "ja": [
+          "ドゥシャンベの中心部で1日目をスタート。タジキスタン国立博物館は月曜を除き毎日9:00から17:00まで開館し、約3,000平方メートルの展示面積に22の展示室があり、自然史、考古学、現代美術を紹介しています。北へ徒歩5分のルダキ公園は、詩人ルダキの高さ25メートルの青銅像を中心とした12ヘクタールの緑地で、噴水は4月から10月まで稼働しています。さらに600メートル進むとイスマイリ・センターに到着。青いタイルのドームと彫刻を施した木製の扉が通りから見えます。イスラム教徒以外の訪問者は、土曜から木曜の10:00から16:00まで礼拝堂と庭園に入場可能です。3つのスポットはコンパクトな三角形を形成し、徒歩での総移動時間は20分未満です。屋外での移動に適した天候は、晩春から初秋にかけて安定しています。",
+          "国立博物館の見学には約2時間をおすすめします。ペンジケントのソグド壁画、約1,500年前の涅槃仏、パミールの生活を紹介する民族学展示をご覧ください。ルダキ公園は、像、議会ビルのファサード、5月と9月に見頃を迎える季節の花壇を巡るのに30分から45分かかります。イスマイリ・センターの見学は約45分。中庭、図書館の閲覧室、西へ15キロメートルのヒッサール山脈を望む屋上テラスを含みます。3か所すべてに車椅子対応の入口とトイレがあります。博物館内での撮影はフラッシュなしで許可されており、センターの公共エリアでも撮影可能です。",
+          "ルナチョフスキー公園北門から300メートル以内のルダキ通り沿いにランチの選択肢が集まっています。12:00から14:30まで、プロフ、シュルボスープ、グリルケバブのセットメニューが提供されます。博物館の正面玄関と公園の東門でタクシーを待つことができます。西へ28キロメートルのヒッサル要塞の分岐点までは、M34高速道路を約40分で到着します。乗り合いをご希望の場合は、グリーンバザールエリアからミニバス（マシュルートカ）が日中20分ごとに出発し、プライベートカーのわずかな料金で利用できます。ドゥシャンベの朝のラッシュアワーは8:00から9:30までピークを迎えるため、11:30までに博物館を出発すれば、ヒッサル方面への最も混雑する交通を避けられます。",
+          "国立博物館は月曜日、5月9日、6月27日、11月6日に休館です。入場を確実にするため、1日目は火曜日から日曜日に計画してください。ルダキ公園の噴水は、夜間の気温に応じて4月中旬から10月中旬まで稼働するため、4月下旬または10月初旬の訪問では噴水が止まっている場合があります。イスマイリセンターでは、肩と膝を覆う控えめな服装が必要です。必要に応じて入口でスカーフが用意されています。ドゥシャンベの夏の日中の最高気温は7月と8月に35〜38度に達するため、公園の日陰の遊歩道とセンターの冷房完備の室内は、実用的な正午の避難所となります。再利用可能な水筒をご持参ください。博物館のロビーと公園の中央パビリオンに給水ステーションが設置されています。"
+        ],
+        "es": [
+          "Comience el Día 1 en el centro de Dushanbe en el Museo Nacional de Tayikistán, abierto todos los días excepto los lunes de 9:00 a 17:00, donde las 22 salas de exposición abarcan historia natural, arqueología y arte moderno en unos 3.000 metros cuadrados. Camine cinco minutos al norte hasta el Parque Rudaki, un espacio verde de 12 hectáreas centrado en una estatua de bronce de 25 metros del poeta Rudaki y flanqueado por fuentes que funcionan de abril a octubre. Continúe otros 600 metros hasta el Centro Ismaili, cuya cúpula de azulejos azules y puertas de madera tallada son visibles desde la calle; los visitantes no musulmanes pueden entrar al salón de oración y a los jardines de 10:00 a 16:00 de sábado a jueves. Los tres sitios forman un triángulo compacto que se recorre a pie en menos de 20 minutos en total. De finales de primavera a principios de otoño ofrece un clima fiable para desplazarse al aire libre entre ellos.",
+          "Dedique unas dos horas al Museo Nacional para ver las pinturas murales sogdianas de Penjikent, el Buda de 1.500 años en Nirvana y las exposiciones etnográficas de la vida pamirí. El Parque Rudaki necesita de 30 a 45 minutos para la estatua, la fachada del edificio del parlamento y los macizos de flores estacionales que alcanzan su punto máximo en mayo y septiembre. La visita al Centro Ismaili toma unos 45 minutos, incluido el patio, la sala de lectura de la biblioteca y la terraza en la azotea con vistas a la cordillera de Hissar, a 15 kilómetros al oeste. Los tres lugares tienen entradas y baños accesibles para sillas de ruedas. Está permitido fotografiar dentro del museo sin flash y en las áreas públicas del centro.",
+          "Las opciones de almuerzo se concentran a lo largo de la Avenida Rudaki, a menos de 300 metros de la puerta norte del parque; se ofrecen menús fijos de plov, sopa shurbo y kebabs a la parrilla de 12:00 a 14:30. Los taxis esperan en la entrada principal del museo y en la puerta este del parque; el trayecto hasta el desvío de la Fortaleza de Hissar, a 28 kilómetros al oeste, dura unos 40 minutos por la carretera M34. Si prefiere el transporte compartido, las marshrutkas salen del área del bazar verde cada 20 minutos durante el día y cuestan una fracción de un coche privado. El tráfico matutino en Dushanbe alcanza su punto máximo entre las 8:00 y las 9:30, por lo que salir del museo a las 11:30 permite evitar el flujo más intenso hacia Hissar.",
+          "El Museo Nacional cierra los lunes y los días 9 de mayo, 27 de junio y 6 de noviembre; planifique el Día 1 de martes a domingo para garantizar la entrada. Las fuentes del Parque Rudaki funcionan de mediados de abril a mediados de octubre, según las temperaturas nocturnas, por lo que las visitas a finales de abril o principios de octubre pueden encontrarlas secas. El Centro Ismaili exige vestimenta modesta que cubra hombros y rodillas; se proporcionan bufandas en la entrada si es necesario. Las máximas diurnas en verano en Dushanbe alcanzan los 35 a 38 grados Celsius en julio y agosto, por lo que los senderos sombreados del parque y los interiores climatizados del centro son un refugio práctico al mediodía. Lleve una botella de agua reutilizable; hay estaciones de recarga en el vestíbulo del museo y en el pabellón central del parque."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "National Museum Buddha and Sogdian frescoes",
+          "Rudaki Park statue and seasonal fountains",
+          "Ismaili Centre blue dome and rooftop views"
+        ],
+        "de": [
+          "Nationalmuseum: Buddha und sogdische Fresken",
+          "Rudaki-Park: Statue und saisonale Brunnen",
+          "Ismailitisches Zentrum: Blaue Kuppel und Dachterrasse"
+        ],
+        "fr": [
+          "Musée national : fresques bouddhistes et sogdiennes",
+          "Parc Rudaki : statue et fontaines saisonnières",
+          "Centre ismaélien : dôme bleu et vues depuis le toit"
+        ],
+        "ja": [
+          "国立博物館 ブッダ像とソグド人のフレスコ画",
+          "ルダキ公園の像と季節の噴水",
+          "イスマーイール・センターの青いドームと屋上の眺望"
+        ],
+        "es": [
+          "Museo Nacional: frescos sogdianos y arte budista",
+          "Parque Rudaki: estatua y fuentes estacionales",
+          "Centro Ismaili: cúpula azul y vistas desde la azotea"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Museum hours",
+            "de": "Öffnungszeiten des Museums",
+            "fr": "Horaires du musée",
+            "ja": "博物館の開館時間",
+            "es": "Horario del museo"
+          },
+          "value": {
+            "en": "9:00-17:00 daily except Monday",
+            "de": "9:00–17:00 täglich außer montags",
+            "fr": "9:00-17:00 tous les jours sauf le lundi",
+            "ja": "9:00-17:00 毎日（月曜を除く）",
+            "es": "9:00-17:00 todos los días excepto lunes"
+          }
+        },
+        {
+          "label": {
+            "en": "Walk between sites",
+            "de": "Fußweg zwischen den Sehenswürdigkeiten",
+            "fr": "Marche entre les sites",
+            "ja": "各所間の徒歩移動",
+            "es": "Caminata entre sitios"
+          },
+          "value": {
+            "en": "Under 20 minutes total",
+            "de": "Unter 20 Minuten insgesamt",
+            "fr": "Moins de 20 minutes au total",
+            "ja": "合計20分未満",
+            "es": "Menos de 20 minutos en total"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "18 Days / 17 Nights",
+            "de": "18 Tage / 17 Nächte",
+            "fr": "18 jours / 17 nuits",
+            "ja": "18日間 / 17泊",
+            "es": "18 días / 17 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3145 USD / person",
+            "de": "Ab $3145 USD / Person",
+            "fr": "À partir de $3145 USD / personne",
+            "ja": "$3145 USD〜 / 1名",
+            "es": "Desde $3145 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794000389/sunday-atlas/blog/2-days-in-dushanbe/dushanbe-commons-59126724.jpg",
+        "width": 1920,
+        "height": 1440,
+        "alt": {
+          "en": "A wide fountain-lined avenue leads to a large government building in Dushanbe, Tajikistan.",
+          "de": "Eine breite, von Springbrunnen gesäumte Allee führt zu einem großen Regierungsgebäude in Duschanbe, Tadschikistan.",
+          "fr": "Une large avenue bordée de fontaines mène à un grand bâtiment gouvernemental à Douchanbé, au Tadjikistan.",
+          "ja": "噴水が並ぶ広い大通りが、ドゥシャンベ、タジキスタンの大規模な政府庁舎へと続いています。",
+          "es": "Una amplia avenida bordeada de fuentes conduce a un gran edificio gubernamental en Dusambé, Tayikistán."
+        },
+        "credit": {
+          "author": "Hansjoerg Eberle",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dushanbe,_Tajikistan_-_panoramio_(117).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Dushanbe",
+          "de": "Duschanbe",
+          "fr": "Douchanbé",
+          "ja": "ドゥシャンベ",
+          "es": "Dushanbe"
+        }
+      },
+      "embeddedPackageSlug": "four-stans-odyssey-18-days"
+    },
+    {
+      "id": "day-1-afternoon-hissar-fortress",
+      "placeName": {
+        "en": "Hissar Fortress",
+        "de": "Festung Hissar",
+        "fr": "Forteresse d'Hissar",
+        "ja": "ヒッサル要塞",
+        "es": "Fortaleza de Hissar"
+      },
+      "heading": {
+        "en": "Day 1 Afternoon: Hissar Fortress Excursion",
+        "de": "Tag 1 Nachmittag: Ausflug zur Festung Hissar",
+        "fr": "Jour 1 après-midi : excursion à la forteresse d'Hissar",
+        "ja": "1日目午後：ヒッサル要塞への遠足",
+        "es": "Día 1 por la tarde: excursión a la Fortaleza de Hissar"
+      },
+      "paragraphs": {
+        "en": [
+          "The drive from central Dushanbe to Hissar Fortress covers about 30 km and takes roughly 45 minutes on the main highway west toward the Uzbek border. The fortress complex dates to the 18th century and includes two facing madrasas, a massive arched gate and the foundations of a former caravanserai. Late spring through early autumn offers the clearest weather for walking the open courtyard and climbing the gate towers. A guide can point out the layered brickwork that shows repairs from the 19th and 20th centuries. Allow at least two hours on site before the return drive to Dushanbe for the night.",
+          "The site sits at roughly 800 m altitude, so summer afternoons can be hot and the stone surfaces reflect strong sun. Bring a hat, water and sturdy shoes for the uneven flagstones and the steep steps up to the gate roof. The madrasa interiors are mostly empty shells, but the decorative brick patterns on the portals remain sharp in morning light. Photography is permitted throughout the complex without extra fees. The small on-site museum displays a few ceramics and coins recovered during Soviet-era excavations.",
+          "Return to Dushanbe follows the same 30 km route; traffic can thicken near the city edge around 5 pm, so plan to leave the fortress by 4 pm at the latest. The drive back takes about 50 minutes in normal conditions and puts you in the capital before dark. Evening temperatures in May and September drop quickly after sunset, so keep a light jacket in the vehicle. Most visitors combine this half-day trip with a morning in the city centre to fill Day 1 efficiently.",
+          "Hissar Fortress is accessible year-round, but winter snow and ice on the approach road and courtyard steps can make the visit slippery and shorter. The site opens daily from 9 am to 5 pm in the main season and closes an hour earlier from November to March. No tickets are required for the outdoor areas, though the museum asks for a small donation. Toilets and a tea stand operate near the main gate during peak months."
+        ],
+        "de": [
+          "Die Fahrt vom Zentrum Duschanbes zur Festung Hissar beträgt etwa 30 km und dauert auf der Hauptstraße in westlicher Richtung zur usbekischen Grenze rund 45 Minuten. Die Festungskomplex stammt aus dem 18. Jahrhundert und umfasst zwei einander gegenüberliegende Medresen, ein massives Torbogen sowie die Fundamente eines ehemaligen Karawanserais. Von Ende Frühjahr bis Anfang Herbst herrscht das klarste Wetter, um den offenen Innenhof zu erkunden und die Tortürme zu besteigen. Ein Guide kann auf die mehrschichtige Ziegelarbeit hinweisen, die Reparaturen aus dem 19. und 20. Jahrhundert zeigt. Planen Sie mindestens zwei Stunden vor Ort ein, bevor Sie zur Rückfahrt nach Duschanbe für die Nacht aufbrechen.",
+          "Die Anlage liegt auf etwa 800 m Höhe, sodass die Sommernachmittage heiß sein können und die Steinflächen die starke Sonne reflektieren. Bringen Sie einen Hut, Wasser und festes Schuhwerk für die unebenen Steinplatten und die steilen Stufen hinauf zum Torbogen mit. Die Innenräume der Medresen sind größtenteils leere Hülsen, aber die dekorativen Ziegelmuster an den Portalen sind im Morgenlicht scharf zu erkennen. Fotografieren ist im gesamten Komplex ohne zusätzliche Gebühren erlaubt. Das kleine Museum vor Ort zeigt einige Keramiken und Münzen, die bei sowjetischen Ausgrabungen geborgen wurden.",
+          "Die Rückkehr nach Duschanbe folgt derselben 30-km-Strecke; der Verkehr kann sich am Stadtrand gegen 17 Uhr verdichten, sodass Sie spätestens um 16 Uhr die Festung verlassen sollten. Die Rückfahrt dauert unter normalen Bedingungen etwa 50 Minuten und bringt Sie vor Einbruch der Dunkelheit in die Hauptstadt. Die Abendtemperaturen im Mai und September sinken nach Sonnenuntergang schnell, also halten Sie eine leichte Jacke im Fahrzeug bereit. Die meisten Besucher kombinieren diesen halbtägigen Ausflug mit einem Vormittag im Stadtzentrum, um Tag 1 effizient zu gestalten.",
+          "Die Festung Hissar ist ganzjährig zugänglich, aber Winterschnee und Eis auf der Zufahrtsstraße und den Stufen im Innenhof können den Besuch rutschig und kürzer machen. Die Anlage ist in der Hauptsaison täglich von 9 bis 17 Uhr geöffnet und schließt von November bis März eine Stunde früher. Für die Außenbereiche werden keine Eintrittskarten benötigt, obwohl das Museum um eine kleine Spende bittet. Toiletten und ein Teestand sind während der Hauptsaison am Haupttor in Betrieb."
+        ],
+        "fr": [
+          "Le trajet depuis le centre de Douchanbé jusqu'à la forteresse d'Hissar couvre environ 30 km et dure environ 45 minutes sur l'autoroute principale en direction ouest vers la frontière ouzbèke. Le complexe de la forteresse date du 18e siècle et comprend deux madrasas se faisant face, une porte voûtée massive et les fondations d'un ancien caravansérail. De la fin du printemps au début de l'automne, le temps est le plus clair pour parcourir la cour ouverte et grimper aux tours de la porte. Un guide peut vous montrer la maçonnerie en briques stratifiées qui témoigne des réparations des 19e et 20e siècles. Prévoyez au moins deux heures sur place avant le retour à Douchanbé pour la nuit.",
+          "Le site se trouve à environ 800 m d'altitude, donc les après-midi d'été peuvent être chauds et les surfaces de pierre reflètent un soleil fort. Apportez un chapeau, de l'eau et des chaussures solides pour les dalles irrégulières et les marches raides menant au toit de la porte. Les intérieurs des madrasas sont pour la plupart des coques vides, mais les motifs de briques décoratifs sur les portails restent nets à la lumière du matin. La photographie est autorisée dans tout le complexe sans frais supplémentaires. Le petit musée sur place expose quelques céramiques et pièces de monnaie découverts lors de fouilles de l'époque soviétique.",
+          "Le retour à Douchanbé emprunte le même itinéraire de 30 km ; le trafic peut s'intensifier près de la périphérie de la ville vers 17 h, alors prévoyez de quitter la forteresse à 16 h au plus tard. Le trajet de retour dure environ 50 minutes dans des conditions normales et vous ramène dans la capitale avant la nuit. Les températures du soir en mai et en septembre chutent rapidement après le coucher du soleil, alors gardez une veste légère dans le véhicule. La plupart des visiteurs combinent cette demi-journée avec une matinée dans le centre-ville pour remplir efficacement le Jour 1.",
+          "La forteresse d'Hissar est accessible toute l'année, mais la neige et la glace en hiver sur la route d'accès et les marches de la cour peuvent rendre la visite glissante et plus courte. Le site est ouvert tous les jours de 9 h à 17 h en haute saison et ferme une heure plus tôt de novembre à mars. Aucun billet n'est requis pour les zones extérieures, bien que le musée demande un petit don. Des toilettes et un stand de thé fonctionnent près de la porte principale pendant les mois de pointe."
+        ],
+        "ja": [
+          "ドゥシャンベ中心部からヒッサル要塞までの車での移動距離は約30 kmで、ウズベキスタン国境に向かう幹線道路を西へ進み、所要時間は約45分です。要塞群は18世紀に建造され、向かい合う2つのマドラサ、巨大なアーチ型の門、かつてのキャラバンサライの基礎部分を含んでいます。開放的な中庭を歩き、門の塔に登るには、晩春から初秋にかけてが最も天候に恵まれます。ガイドが、19世紀と20世紀の修復の痕跡を示す層状のレンガ積みを解説します。見学には最低2時間を確保し、その後ドゥシャンベに戻って夜を過ごします。",
+          "この場所は標高約800 mに位置するため、夏の午後は暑く、石の表面が強い日差しを反射します。帽子、水、丈夫な靴を持参し、凸凹の敷石や門の屋上へ続く急な階段に備えてください。マドラサの内部はほとんどが空っぽの殻のような状態ですが、ポータルの装飾レンガ模様は朝の光の中でくっきりと見えます。複合施設全体で追加料金なしに撮影が許可されています。敷地内の小さな博物館では、ソビエト時代の発掘で見つかった陶器や硬貨がいくつか展示されています。",
+          "ドゥシャンベへの帰路は同じ30 kmのルートを通ります。午後5時頃に市街地の端で交通が混雑する可能性があるため、遅くとも午後4時までには要塞を出発するように計画してください。通常の状況では帰路は約50分かかり、日没前に首都に戻れます。5月と9月の夕方は日没後に気温が急速に下がるため、車内に軽いジャケットを用意してください。ほとんどの訪問者は、この半日旅行を1日目の午前中の市内観光と組み合わせて効率的に過ごします。",
+          "ヒッサル要塞は年間を通じてアクセス可能ですが、冬は雪や氷がアプローチ道路や中庭の階段を滑りやすくし、訪問時間も短くなる可能性があります。ハイシーズンは毎日午前9時から午後5時まで開館し、11月から3月までは1時間早く閉館します。屋外エリアに入場料は不要ですが、博物館では少額の寄付をお願いしています。トイレと茶売りは繁忙期にメインゲート付近で営業しています。"
+        ],
+        "es": [
+          "El trayecto desde el centro de Dushanbe hasta la Fortaleza de Hissar recorre unos 30 km y toma aproximadamente 45 minutos por la carretera principal hacia el oeste, en dirección a la frontera con Uzbekistán. El complejo de la fortaleza data del siglo 18 e incluye dos madrasas enfrentadas, una puerta arqueada imponente y los cimientos de un antiguo caravasar. De finales de primavera a principios de otoño se disfruta del clima más claro para recorrer el patio abierto y subir a las torres de la puerta. Nuestro guía puede señalar el ladrillo en capas que muestra reparaciones de los siglos 19 y 20. Permite al menos dos horas en el sitio antes del viaje de regreso a Dushanbe para pasar la noche.",
+          "El sitio se encuentra a unos 800 m de altitud, por lo que las tardes de verano pueden ser calurosas y las superficies de piedra reflejan el sol intenso. Lleva sombrero, agua y zapatos resistentes para los adoquines irregulares y los escalones empinados hasta el techo de la puerta. Los interiores de las madrasas son en su mayoría cascarones vacíos, pero los patrones de ladrillo decorativo en los portales se mantienen nítidos con la luz de la mañana. La fotografía está permitida en todo el complejo sin cargos adicionales. El pequeño museo en el sitio exhibe algunas cerámicas y monedas recuperadas durante excavaciones de la era soviética.",
+          "El regreso a Dushanbe sigue la misma ruta de 30 km; el tráfico puede intensificarse cerca del borde de la ciudad alrededor de las 5 pm, así que planea salir de la fortaleza a las 4 pm como máximo. El viaje de regreso toma unos 50 minutos en condiciones normales y te deja en la capital antes del anochecer. Las temperaturas nocturnas en mayo y septiembre bajan rápidamente después del atardecer, así que mantén una chaqueta ligera en el vehículo. La mayoría de los viajeros combinan este viaje de medio día con una mañana en el centro de la ciudad para llenar el Día 1 de manera eficiente.",
+          "La Fortaleza de Hissar es accesible todo el año, pero la nieve y el hielo en el camino de acceso y los escalones del patio pueden hacer la visita resbaladiza y más corta en invierno. El sitio abre todos los días de 9 am a 5 pm en la temporada principal y cierra una hora antes de noviembre a marzo. No se requieren boletos para las áreas al aire libre, aunque el museo solicita una pequeña donación. Baños y un puesto de té operan cerca de la puerta principal durante los meses de mayor afluencia."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "18th-century gate and twin madrasas",
+          "30 km drive each way from Dushanbe",
+          "Best visited May through September"
+        ],
+        "de": [
+          "Tor aus dem 18. Jahrhundert und zwei Medresen",
+          "30 km Fahrt in jede Richtung von Duschanbe",
+          "Am besten von Mai bis September besuchen"
+        ],
+        "fr": [
+          "Porte du 18e siècle et madrasas jumelles",
+          "Trajet de 30 km chaque sens depuis Douchanbé",
+          "À visiter de préférence de mai à septembre"
+        ],
+        "ja": [
+          "18世紀の門と双子のマドラサ",
+          "ドゥシャンベから片道30 kmのドライブ",
+          "訪問に最適な時期は5月から9月"
+        ],
+        "es": [
+          "Puerta del siglo 18 y dos madrasas gemelas",
+          "30 km de trayecto cada sentido desde Dushanbe",
+          "Mejor visitado de mayo a septiembre"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time",
+            "de": "Fahrzeit",
+            "fr": "Temps de trajet",
+            "ja": "所要時間",
+            "es": "Tiempo de viaje"
+          },
+          "value": {
+            "en": "about 45 minutes one way",
+            "de": "etwa 45 Minuten einfach",
+            "fr": "environ 45 minutes par trajet",
+            "ja": "片道約45分",
+            "es": "unos 45 minutos por trayecto"
+          }
+        },
+        {
+          "label": {
+            "en": "Altitude",
+            "de": "Höhe",
+            "fr": "Altitude",
+            "ja": "標高",
+            "es": "Altitud"
+          },
+          "value": {
+            "en": "roughly 800 m",
+            "de": "etwa 800 m",
+            "fr": "environ 800 m",
+            "ja": "約800 m",
+            "es": "unos 800 m"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400037/sunday-atlas/scenic-view-of-fann-mountains-lake-in-tajikistan-39662460_keryrm.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Mountain lake in the Fann Mountains, Sughd region, Tajikistan",
+          "de": "Bergsee im Fan-Gebirge, Region Sughd, Tadschikistan",
+          "fr": "Lac de montagne dans les monts Fann, région de Sughd, Tadjikistan",
+          "ja": "タジキスタン、ソグド州ファン山脈の山の湖",
+          "es": "Lago de montaña en los montes Fan, región de Sughd, Tayikistán"
+        },
+        "caption": {
+          "en": "Hissar Fortress",
+          "de": "Festung Hissar",
+          "fr": "Forteresse d'Hissar",
+          "ja": "ヒッサル要塞",
+          "es": "Fortaleza de Hissar"
+        }
+      }
+    },
+    {
+      "id": "day-2-morning-iskanderkul-lake",
+      "placeName": {
+        "en": "Iskanderkul Lake",
+        "de": "Iskanderkul-See",
+        "fr": "Lac Iskanderkul",
+        "ja": "イスカンダークル湖",
+        "es": "Iskanderkul Lake"
+      },
+      "heading": {
+        "en": "Day 2 Morning: Drive to Iskanderkul Lake via Anzob Pass",
+        "de": "Tag 2 Vormittag: Fahrt zum Iskanderkul-See über den Anzob-Pass",
+        "fr": "Jour 2 matin : route vers le lac Iskanderkul via le col d'Anzob",
+        "ja": "Day 2 午前：アンゾブ峠経由でイスカンダークル湖へドライブ",
+        "es": "Día 2 por la mañana: viaje a Iskanderkul Lake a través del paso de Anzob"
+      },
+      "paragraphs": {
+        "en": [
+          "The day trip leaves Dushanbe early and covers about 130 km to Iskanderkul Lake in roughly 3 hours on a private 4x4. You climb the Anzob Pass at about 2,700 m through the Varzob Gorge before dropping into the Fann Mountains. The route is usually open from May to October and can close when snow blocks the pass in winter. A mountain driver handles the steep switchbacks while an English-speaking guide explains the geology and local history. Bottled water and a picnic lunch are provided for the day.",
+          "At the lake you walk the shore of the glacial water at 2,195 m and photograph the 43-metre waterfall known locally as Fann Niagara. A short drive reaches Snake Lake, named for its winding shape, where you can stretch your legs before the return leg. The full circuit brings you back to your Dushanbe hotel by late afternoon after about 8 to 9 hours on the road. May through September offers the clearest views and the most reliable road conditions. Warm layers are recommended even in summer because temperatures drop at the pass.",
+          "Our Iskanderkul Alpine Lake & Fann Mountains 4WD Day Trip from Dushanbe runs as a 1-day private tour from May to October. Private hotel pick-up and drop-off in Dushanbe are included along with the 4x4, driver and guide. The itinerary follows Dushanbe – Varzob Gorge – Anzob Pass – Iskanderkul – Dushanbe in a single day. This matches the Day 2 morning drive described in the 2 Days in Dushanbe plan. No extra permits are needed for this route during the open season.",
+          "Departure around 7 am maximises daylight at the lake and reduces the chance of afternoon cloud on the pass. The 3-hour drive each way leaves 3 to 4 hours for walking, photos and the picnic by the water. Road work occasionally adds 30 minutes near the tunnel on the Anzob Pass, so build in a small buffer. Late spring and early autumn bring wildflowers or golden slopes with fewer visitors. Winter travel is not possible because the pass closes under snow."
+        ],
+        "de": [
+          "Der Tagesausflug verlässt Duschanbe früh und legt etwa 130 km zum Iskanderkul-See in rund 3 Stunden mit einem privaten 4x4 zurück. Sie erklimmen den Anzob-Pass auf etwa 2.700 m durch die Varzob-Schlucht, bevor Sie in die Fann-Berge hinabsteigen. Die Route ist gewöhnlich von Mai bis Oktober geöffnet und kann im Winter schließen, wenn Schnee den Pass blockiert. Ein Bergfahrer meistert die steilen Serpentinen, während ein englischsprachiger Guide die Geologie und die lokale Geschichte erklärt. Abgefülltes Wasser und ein Picknick-Lunch werden für den Tag bereitgestellt.",
+          "Am See wandern Sie am Ufer des Gletscherwassers auf 2.195 m und fotografieren den 43 Meter hohen Wasserfall, der lokal als Fann Niagara bekannt ist. Eine kurze Fahrt bringt Sie zum Snake Lake, benannt nach seiner gewundenen Form, wo Sie die Beine vertreten können, bevor Sie die Rückreise antreten. Die gesamte Rundreise bringt Sie am späten Nachmittag zurück zu Ihrem Hotel in Duschanbe, nach etwa 8 bis 9 Stunden auf der Straße. Mai bis September bietet die klarsten Aussichten und die zuverlässigsten Straßenverhältnisse. Warme Kleidung wird selbst im Sommer empfohlen, da die Temperaturen auf dem Pass sinken.",
+          "Unsere Iskanderkul Alpine Lake & Fann Mountains 4WD Day Trip from Dushanbe läuft als 1-tägige private Tour von Mai bis Oktober. Private Hotelabholung und Rücktransfer in Duschanbe sind enthalten, ebenso wie der 4x4, der Fahrer und der Guide. Die Reiseroute folgt Duschanbe – Varzob-Schlucht – Anzob-Pass – Iskanderkul – Duschanbe an einem einzigen Tag. Dies entspricht der Fahrt am Tag 2 Vormittag, die im Plan 2 Days in Dushanbe beschrieben ist. Für diese Route sind in der offenen Saison keine zusätzlichen Genehmigungen erforderlich.",
+          "Die Abfahrt gegen 7 Uhr maximiert das Tageslicht am See und verringert die Wahrscheinlichkeit von Nachmittagswolken auf dem Pass. Die 3-stündige Fahrt in jede Richtung lässt 3 bis 4 Stunden für Spaziergänge, Fotos und das Picknick am Wasser. Gelegentliche Straßenarbeiten fügen in der Nähe des Tunnels am Anzob-Pass 30 Minuten hinzu, daher sollten Sie einen kleinen Puffer einplanen. Spätes Frühjahr und früher Herbst bringen Wildblumen oder goldene Hänge bei weniger Besuchern. Winterreisen sind nicht möglich, da der Pass unter Schnee schließt."
+        ],
+        "fr": [
+          "L'excursion d'une journée quitte Douchanbé tôt le matin et parcourt environ 130 km jusqu'au lac Iskanderkul en environ 3 heures à bord d'un 4x4 privé. Vous grimpez le col d'Anzob, à environ 2 700 m, à travers la gorge de Varzob avant de descendre dans les monts Fan. La route est généralement ouverte de mai à octobre et peut être fermée lorsque la neige bloque le col en hiver. Un chauffeur de montagne maîtrise les épingles à cheveux tandis qu'un guide anglophone explique la géologie et l'histoire locale. De l'eau en bouteille et un pique-nique sont fournis pour la journée.",
+          "Au lac, vous longez le rivage de l'eau glaciaire à 2 195 m et photographiez la cascade de 43 mètres connue localement sous le nom de Fann Niagara. Un court trajet mène au lac des Serpents, nommé ainsi pour sa forme sinueuse, où vous pouvez vous dégourdir les jambes avant le retour. La boucle complète vous ramène à votre hôtel à Douchanbé en fin d'après-midi, après environ 8 à 9 heures sur la route. De mai à septembre, vous bénéficiez des vues les plus dégagées et des conditions routières les plus fiables. Des vêtements chauds sont recommandés même en été, car les températures chutent au col.",
+          "Notre excursion d'une journée en 4x4 au lac alpin d'Iskanderkul et dans les monts Fann au départ de Douchanbé se déroule comme un circuit privé d'1 jour de mai à octobre. La prise en charge et le retour à l'hôtel à Douchanbé sont inclus, ainsi que le 4x4, le chauffeur et le guide. L'itinéraire suit Douchanbé – Gorge de Varzob – Col d'Anzob – Iskanderkul – Douchanbé en une seule journée. Cela correspond au trajet du matin du jour 2 décrit dans le plan 2 jours à Douchanbé. Aucun permis supplémentaire n'est nécessaire pour cet itinéraire pendant la saison ouverte.",
+          "Un départ vers 7 h maximise la lumière du jour au lac et réduit le risque de nuages ​​l'après-midi sur le col. Le trajet de 3 heures chaque sens laisse 3 à 4 heures pour la marche, les photos et le pique-nique au bord de l'eau. Des travaux routiers ajoutent parfois 30 minutes près du tunnel sur le col d'Anzob, alors prévoyez une petite marge. La fin du printemps et le début de l'automne apportent des fleurs sauvages ou des pentes dorées avec moins de visiteurs. Les voyages en hiver ne sont pas possibles car le col est fermé par la neige."
+        ],
+        "ja": [
+          "日帰りツアーはドゥシャンベを早朝に出発し、専用4WD車で約130km、所要約3時間でイスカンダークル湖へ向かいます。ヴァルゾブ渓谷を抜けて標高約2,700mのアンゾブ峠を登り、ファン山脈へと下っていきます。ルートは通常5月から10月まで通行可能で、冬場は雪で峠が封鎖され通行止めとなることがあります。急なヘアピンカーブは山岳ドライバーが運転し、英語を話すガイドが地質学や地域の歴史を解説します。ボトルウォーターとピクニックランチが当日提供されます。",
+          "湖では標高2,195mの氷河湖の岸辺を散策し、地元でファン・ナイアガラとして知られる43メートルの滝を撮影できます。短いドライブで蛇の形をした湖という意味のスネークレイクへ到着し、帰路の前に足を伸ばすことができます。全行程は約8〜9時間のドライブの後、午後遅くにドゥシャンベのホテルへ戻ります。5月から9月は視界が最もクリアで、道路状況も最も安定しています。夏でも峠では気温が下がるため、暖かい服装をお勧めします。",
+          "当社のイスカンダークル・アルパインレイク＆ファン山脈4WD日帰りツアーは、5月から10月までの1日プライベートツアーとして運行しています。ドゥシャンベでのプライベートホテル送迎に加え、4WD車、ドライバー、ガイドが含まれています。行程はドゥシャンベ－ヴァルゾブ峡谷－アンゾブ峠－イスカンダークル－ドゥシャンベを1日で巡ります。これは「2 Days in Dushanbe」プランで説明されているDay 2の午前のドライブと一致します。オープンシーズン中はこのルートに特別な許可は必要ありません。",
+          "午前7時頃の出発は湖での日照時間を最大限に活用し、峠での午後の雲の発生リスクを軽減します。片道3時間のドライブにより、散策、写真撮影、湖畔でのピクニックに3〜4時間を割くことができます。アンゾブ峠のトンネル付近で道路工事により30分程度追加でかかる場合があるため、余裕を持ったスケジュールをお勧めします。晩春から初秋にかけては野生の花や黄金色の斜面を楽しめ、訪問者も少なくなります。冬は峠が雪で閉鎖されるため、旅行は不可能です。"
+        ],
+        "es": [
+          "La excursión de un día sale de Dushanbe temprano y recorre unos 130 km hasta Iskanderkul Lake en aproximadamente 3 horas en un 4x4 privado. Se asciende el paso de Anzob a unos 2.700 m a través del desfiladero de Varzob antes de descender a las montañas Fann. La ruta suele estar abierta de mayo a octubre y puede cerrarse cuando la nieve bloquea el paso en invierno. Un conductor de montaña maneja las cerradas curvas de herradura mientras un guía de habla inglesa explica la geología y la historia local. Se proporcionan agua embotellada y un almuerzo picnic para el día.",
+          "En el lago se recorre la orilla del agua glaciar a 2.195 m y se fotografían los 43 metros de la cascada conocida localmente como Fann Niagara. Un corto trayecto llega a Snake Lake, llamado así por su forma serpenteante, donde se pueden estirar las piernas antes del tramo de regreso. El circuito completo lleva de vuelta al hotel en Dushanbe al final de la tarde después de unas 8 a 9 horas en carretera. De mayo a septiembre se ofrecen las vistas más claras y las mejores condiciones de la carretera. Se recomiendan capas de abrigo incluso en verano porque las temperaturas bajan en el paso.",
+          "Nuestro viaje de un día Iskanderkul Alpine Lake & Fann Mountains 4WD desde Dushanbe se realiza como un tour privado de 1 día de mayo a octubre. Están incluidos el recogida y regreso privado al hotel en Dushanbe junto con el 4x4, el conductor y el guía. El itinerario sigue Dushanbe – desfiladero de Varzob – paso de Anzob – Iskanderkul – Dushanbe en un solo día. Esto coincide con el viaje de la mañana del día 2 descrito en el plan 2 Días en Dushanbe. No se necesitan permisos adicionales para esta ruta durante la temporada abierta.",
+          "La salida alrededor de las 7 am maximiza las horas de luz en el lago y reduce la posibilidad de nubes por la tarde en el paso. El trayecto de 3 horas en cada sentido deja 3 a 4 horas para caminar, hacer fotos y el picnic junto al agua. Las obras en la carretera ocasionalmente añaden 30 minutos cerca del túnel en el paso de Anzob, así que conviene incluir un pequeño margen de tiempo. A finales de primavera y principios de otoño traen flores silvestres o laderas doradas con menos visitantes. En invierno no es posible viajar porque el paso cierra bajo la nieve."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "130 km, 3 hours each way over Anzob Pass",
+          "Glacial lake at 2,195 m with 43-metre waterfall",
+          "Private 4x4, driver, guide and picnic included"
+        ],
+        "de": [
+          "130 km, 3 Stunden in jede Richtung über den Anzob-Pass",
+          "Gletschersee auf 2.195 m mit 43 Meter hohem Wasserfall",
+          "Privater 4x4, Fahrer, Guide und Picknick inklusive"
+        ],
+        "fr": [
+          "130 km, 3 heures chaque sens via le col d'Anzob",
+          "Lac glaciaire à 2 195 m avec cascade de 43 mètres",
+          "4x4 privé, chauffeur, guide et pique-nique inclus"
+        ],
+        "ja": [
+          "130 km、アンゾブ峠を越えて片道3時間",
+          "標高2,195mの氷河湖と43メートルの滝",
+          "プライベート4WD、ドライバー、ガイド、ピクニックを含む"
+        ],
+        "es": [
+          "130 km, 3 horas en cada sentido sobre el paso de Anzob",
+          "Lago glaciar a 2.195 m con cascada de 43 metros",
+          "4x4 privado, conductor, guía y picnic incluidos"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance",
+            "de": "Entfernung",
+            "fr": "Distance",
+            "ja": "距離",
+            "es": "Distancia"
+          },
+          "value": {
+            "en": "130 km from Dushanbe",
+            "de": "130 km von Duschanbe",
+            "fr": "130 km depuis Douchanbé",
+            "ja": "ドゥシャンベから130 km",
+            "es": "130 km desde Dushanbe"
+          }
+        },
+        {
+          "label": {
+            "en": "Pass altitude",
+            "de": "Passhöhe",
+            "fr": "Altitude du col",
+            "ja": "峠の標高",
+            "es": "Altitud del paso"
+          },
+          "value": {
+            "en": "About 2,700 m",
+            "de": "Etwa 2.700 m",
+            "fr": "Environ 2 700 m",
+            "ja": "約2,700 m",
+            "es": "Aproximadamente 2.700 m"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $160 USD / person",
+            "de": "Ab $160 USD / Person",
+            "fr": "À partir de $160 USD / personne",
+            "ja": "$160 USD〜 / 1名",
+            "es": "Desde $160 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794000439/sunday-atlas/blog/2-days-in-dushanbe/iskanderkul-lake-commons-167743848.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": {
+          "en": "Iskanderkul Lake in Tajikistan with mountains reflected in calm water.",
+          "de": "Der Iskanderkul-See in Tadschikistan mit Bergen, die sich im ruhigen Wasser spiegeln.",
+          "fr": "Lac Iskanderkul au Tadjikistan, avec les montagnes reflétées dans une eau calme.",
+          "ja": "タジキスタン、イスカンダルクル湖。穏やかな水面に山々が映り込んでいます。",
+          "es": "Lago Iskanderkul en Tayikistán con montañas reflejadas en aguas tranquilas."
+        },
+        "credit": {
+          "author": "Marat Nadjibaev",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iskanderkul.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Iskanderkul Lake",
+          "de": "Iskanderkul-See",
+          "fr": "Lac Iskanderkul",
+          "ja": "イスカンダークル湖",
+          "es": "Iskanderkul Lake"
+        }
+      },
+      "embeddedPackageSlug": "iskanderkul-lake-fann-mountains-day-trip"
+    },
+    {
+      "id": "day-2-afternoon-return-dushanbe",
+      "placeName": {
+        "en": "Iskanderkul Lake",
+        "de": "Iskanderkul-See",
+        "fr": "Lac Iskanderkul",
+        "ja": "イスカンダークル湖",
+        "es": "Iskanderkul Lake"
+      },
+      "heading": {
+        "en": "Day 2 Afternoon: Snake Lake, Waterfall and Return to Dushanbe",
+        "de": "Tag 2 Nachmittag: Snake Lake, Wasserfall und Rückkehr nach Duschanbe",
+        "fr": "Jour 2 après-midi : lac des Serpents, cascade et retour à Douchanbé",
+        "ja": "Day 2 午後：スネークレイク、滝、そしてドゥシャンベへの帰路",
+        "es": "Día 2 por la tarde: Snake Lake, cascada y regreso a Dushanbe"
+      },
+      "paragraphs": {
+        "en": [
+          "After visiting Iskanderkul in the morning, the route continues about 15 kilometres south along the Sarytag River to Snake Lake, a narrow alpine lake at roughly 2,400 metres that appears on the 1-day private tour itinerary from May to October. The drive from Iskanderkul takes about 30 minutes on a mountain track that requires a 4x4 and an experienced driver. From Snake Lake a short walk reaches the 43-metre Fann Niagara waterfall, where the water drops into a rocky gorge surrounded by juniper slopes. A picnic lunch is served near the waterfall, using supplies carried in the vehicle. The return drive to Dushanbe covers about 130 kilometres over the Anzob Pass and through the Varzob Gorge, taking roughly 3.5 to 4 hours in normal conditions.",
+          "The Anzob Pass sits at 3,372 metres and can be affected by snow or rockfall outside the May to October season, so travel is scheduled for late spring through early autumn. The 4x4 day trip includes private hotel pick-up and drop-off in Dushanbe, an English-speaking guide, bottled water and the picnic lunch. Road conditions on the pass vary with weather, and the driver may adjust the pace or stop at viewpoints when visibility is good. Arrival back at your Dushanbe hotel is typically early evening, around 6 to 7 pm depending on traffic in the gorge.",
+          "If you are travelling independently, confirm that your vehicle and driver have experience on high mountain passes and carry spare tyres, fuel and warm layers even in summer. Mobile coverage is patchy on the pass, so download offline maps before leaving Dushanbe. The Snake Lake and waterfall section is at altitude, so move slowly if you are not acclimatised and keep hydrated. The picnic site has no facilities, so pack out all waste and use the toilet stop at the Iskanderkul guesthouse area before departing.",
+          "The 1-day private tour from Dushanbe operates from May to October and follows the itinerary Dushanbe – Varzob Gorge – Anzob Pass – Iskanderkul – Snake Lake – Fann Niagara – Dushanbe. This matches the Sunday Atlas Iskanderkul Alpine Lake & Fann Mountains 4WD Day Trip, which uses a private 4x4 with an experienced mountain driver. Booking the tour handles the logistics of the pass crossing, the lakeside picnic and the return timing so you can focus on the scenery."
+        ],
+        "de": [
+          "Nach dem Besuch des Iskanderkul-Sees am Morgen führt die Route etwa 15 Kilometer südlich entlang des Sarytag River zum Snake Lake, einem schmalen Alpensee auf rund 2.400 Metern, der auf der Reiseroute der 1-tägigen privaten Tour von Mai bis Oktober erscheint. Die Fahrt von Iskanderkul dauert etwa 30 Minuten auf einer Bergpiste, die einen 4x4 und einen erfahrenen Fahrer erfordert. Vom Snake Lake aus führt ein kurzer Spaziergang zum 43 Meter hohen Fann Niagara Wasserfall, wo das Wasser in eine felsige Schlucht stürzt, umgeben von Wacholderhängen. Ein Picknick-Lunch wird in der Nähe des Wasserfalls serviert, mit Vorräten, die im Fahrzeug transportiert werden. Die Rückfahrt nach Duschanbe umfasst etwa 130 Kilometer über den Anzob-Pass und durch die Varzob-Schlucht und dauert unter normalen Bedingungen etwa 3,5 bis 4 Stunden.",
+          "Der Anzob-Pass liegt auf 3.372 Metern und kann außerhalb der Saison von Mai bis Oktober von Schnee oder Steinschlag betroffen sein, sodass die Reise für den späten Frühling bis zum frühen Herbst geplant ist. Die 4x4-Tagestour beinhaltet die private Hotelabholung und den Rücktransfer in Duschanbe, einen englischsprachigen Guide, abgefülltes Wasser und das Picknick-Lunch. Die Straßenverhältnisse auf dem Pass variieren je nach Wetter, und der Fahrer kann das Tempo anpassen oder an Aussichtspunkten anhalten, wenn die Sicht gut ist. Die Rückkehr zu Ihrem Hotel in Duschanbe erfolgt in der Regel am frühen Abend, etwa zwischen 18 und 19 Uhr, je nach Verkehr in der Schlucht.",
+          "Wenn Sie individuell reisen, vergewissern Sie sich, dass Ihr Fahrzeug und Ihr Fahrer Erfahrung mit hohen Bergpässen haben und auch im Sommer Ersatzreifen, Treibstoff und warme Kleidung mitführen. Der Mobilfunkempfang auf dem Pass ist lückenhaft, laden Sie daher Offline-Karten herunter, bevor Sie Duschanbe verlassen. Der Abschnitt mit dem Schlangensee und dem Wasserfall liegt in großer Höhe, bewegen Sie sich daher langsam, wenn Sie nicht akklimatisiert sind, und trinken Sie ausreichend. Der Picknickplatz bietet keine Einrichtungen, nehmen Sie daher alle Abfälle wieder mit und nutzen Sie den Toilettenstopp im Gästehausbereich von Iskanderkul, bevor Sie aufbrechen.",
+          "Die 1-tägige Privattour ab Duschanbe findet von Mai bis Oktober statt und führt über die Route Duschanbe – Varzob-Schlucht – Anzob-Pass – Iskanderkul – Schlangesee – Fann Niagara – Duschanbe. Sie entspricht der Sunday Atlas Iskanderkul Alpine Lake & Fann Mountains 4WD Day Trip, die mit einem privaten 4x4 und einem erfahrenen Bergfahrer durchgeführt wird. Die Buchung der Tour übernimmt die Logistik der Passüberquerung, des Picknicks am See und der Rückreise, sodass Sie sich ganz auf die Landschaft konzentrieren können."
+        ],
+        "fr": [
+          "Après la visite d'Iskanderkul le matin, l'itinéraire se poursuit sur environ 15 kilomètres vers le sud le long de la rivière Sarytag jusqu'au lac Snake, un lac alpin étroit situé à environ 2 400 mètres d'altitude, qui figure au programme de la visite privée d'1 jour de mai à octobre. La route depuis Iskanderkul dure environ 30 minutes sur une piste de montagne qui nécessite un 4x4 et un chauffeur expérimenté. Depuis le lac Snake, une courte marche mène à la cascade de Fann Niagara, haute de 43 mètres, où l'eau chute dans une gorge rocheuse entourée de pentes de genévrier. Un déjeuner pique-nique est servi près de la cascade, avec des provisions transportées dans le véhicule. Le trajet retour vers Douchanbé couvre environ 130 kilomètres via le col d'Anzob et la gorge de Varzob, soit environ 3,5 à 4 heures dans des conditions normales.",
+          "Le col d'Anzob se situe à 3 372 mètres et peut être affecté par la neige ou les chutes de pierres en dehors de la saison de mai à octobre, donc les voyages sont programmés de la fin du printemps au début de l'automne. L'excursion d'une journée en 4x4 inclut la prise en charge et le retour privés à l'hôtel à Douchanbé, un guide anglophone, de l'eau en bouteille et le déjeuner pique-nique. Les conditions routières sur le col varient selon la météo, et le chauffeur peut ajuster le rythme ou s'arrêter aux points de vue lorsque la visibilité est bonne. L'arrivée à votre hôtel à Douchanbé se fait généralement en début de soirée, vers 18 h à 19 h selon le trafic dans la gorge.",
+          "Si vous voyagez de manière indépendante, vérifiez que votre véhicule et votre chauffeur ont l'expérience des cols de haute montagne et emportent des pneus de rechange, du carburant et des vêtements chauds, même en été. La couverture mobile est irrégulière sur le col, alors téléchargez des cartes hors ligne avant de quitter Douchanbé. La section du lac Serpent et de la cascade se trouve en altitude, alors avancez lentement si vous n'êtes pas acclimaté et restez bien hydraté. Le site de pique-nique ne dispose d'aucune installation, alors remportez tous vos déchets et utilisez l'arrêt toilettes dans la zone des maisons d'hôtes d'Iskanderkul avant de partir.",
+          "La visite privée d'1 jour au départ de Douchanbé se déroule de mai à octobre et suit l'itinéraire Douchanbé – Gorge de Varzob – Col d'Anzob – Iskanderkul – Lac aux Serpents – Niagara du Fann – Douchanbé. Ceci correspond à l’excursion d’une journée Iskanderkul Alpine Lake & Fann Mountains en 4×4 de Sunday Atlas Travel, qui utilise un 4×4 privé avec un chauffeur de montagne expérimenté. Réserver le circuit prend en charge la logistique du col, du pique-nique au bord du lac et du timing du retour, pour que vous puissiez vous concentrer sur les paysages."
+        ],
+        "ja": [
+          "午前中にイスカンダークルを訪れた後、ルートはサリータグ川に沿って南へ約15キロメートル進み、標高約2,400メートルの細長い高山湖、スネークレイクへと続きます。この湖は5月から10月までの1日プライベートツアー行程に含まれています。イスカンダークルからのドライブは約30分で、山道を走行するため4WD車と経験豊富なドライバーが必要です。スネークレイクからは短い散歩で43メートルのファン・ナイアガラ滝に到着し、水はジュニパーの斜面に囲まれた岩の峡谷へと落ちていきます。ピクニックランチは滝の近くで提供され、車両に積載された備品が使用されます。ドゥシャンベへの帰路はアンゾブ峠とヴァルゾブ峡谷を経由して約130キロメートルを走行し、通常の状況で約3.5〜4時間かかります。",
+          "アンゾブ峠は標高3,372メートルに位置し、5月から10月のシーズン以外は雪や落石の影響を受ける可能性があるため、旅行は晩春から初秋に予定されています。4WD日帰りツアーには、ドゥシャンベでのプライベートホテル送迎、英語を話すガイド、ボトルウォーター、ピクニックランチが含まれています。峠の道路状況は天候によって変化し、ドライバーは視界が良好な場合にペースを調整したり展望ポイントに停車したりすることがあります。ドゥシャンベのホテルへの到着は通常、峡谷の交通状況によりますが、午後6時から7時頃の早い夕方となります。",
+          "個人で旅行される場合は、車両とドライバーが高山越えの経験を持ち、夏でもスペアタイヤ、燃料、防寒着を携帯していることを確認してください。越えでは携帯電話の電波が不安定なのドゥシャンベ出発前にオフラインマップをダウンロードしておきましょう。スネークレイクと滝の区間は標高が高いため、高順応が済んでいない方はゆっくりと動き、水分補給をこまめに行ってください。ピクニックサイトには設備がないため、ゴミはすべて持ち帰り、出発前にイスカンダークルのゲストハウスエリアにあるトイレをご利用ください。",
+          "ドゥシャンベ発の1日プライベートツアーは5月から10月まで運行し、ドゥシャンベ－ヴァルゾブ渓谷－アンゾブ越え－イスカンダークル－スネークレイク－ファン・ナイアガラ－ドゥシャンベの行程をたどります。これはサンデー・アトラス・トラベルのイスカンダークル・アルパインレイク＆ファン山脈4WD日帰りツアーに対応し、経験豊富な山岳ドライバー付きのプライベート4x4を使用します。ツアーを予約すれば、越えの手配、湖畔でのピクニック、帰路のタイミングなどのロジスティクスがすべて整い、景色に集中していただけます。"
+        ],
+        "es": [
+          "Después de visitar Iskanderkul por la mañana, la ruta continúa unos 15 kilómetros al sur a lo largo del río Sarytag hasta Snake Lake, un estrecho lago alpino a unos 2.400 metros que aparece en el itinerario del tour privado de 1 día de mayo a octubre. El trayecto desde Iskanderkul dura unos 30 minutos por una pista de montaña que requiere un 4x4 y un conductor experimentado. Desde Snake Lake un corto paseo llega a la cascada de 43 metros Fann Niagara, donde el agua cae en un desfiladero rocoso rodeado de laderas de enebro. Se sirve un almuerzo picnic cerca de la cascada, utilizando los suministros transportados en el vehículo. El viaje de regreso a Dushanbe cubre unos 130 kilómetros sobre el paso de Anzob y a través del desfiladero de Varzob, tomando aproximadamente 3,5 a 4 horas en condiciones normales.",
+          "El paso de Anzob se encuentra a 3.372 metros y puede verse afectado por nieve o desprendimientos de roca fuera de la temporada de mayo a octubre, por lo que el viaje se programa desde finales de primavera hasta principios de otoño. El viaje de 4x4 incluye recogida y regreso privado al hotel en Dushanbe, un guía de habla inglesa, agua embotellada y el almuerzo picnic. Las condiciones de la carretera en el paso varían según el clima, y el conductor puede ajustar el ritmo o detenerse en miradores cuando la visibilidad es buena. La llegada de regreso al hotel en Dushanbe suele ser a primera hora de la tarde, alrededor de las 6 a 7 pm según el tráfico en el desfiladero.",
+          "Si viajas por tu cuenta, confirma que tu vehículo y conductor tengan experiencia en pasos de alta montaña y lleven neumáticos de repuesto, combustible y ropa de abrigo incluso en verano. La cobertura móvil es irregular en el paso, así que descarga mapas sin conexión antes de salir de Dushanbe. La sección del Lago Serpiente y la cascada está a gran altitud, así que muévete con calma si no estás aclimatado y mantente hidratado. El área de pícnic no tiene instalaciones, así que lleva todos los residuos contigo y usa el baño en la zona de casas de huéspedes de Iskanderkul antes de partir.",
+          "El tour privado de 1 día desde Dushanbe opera de mayo a octubre y sigue el itinerario Dushanbe – Desfiladero de Varzob – Paso Anzob – Iskanderkul – Lago Serpiente – Fann Niagara – Dushanbe. Esto coincide con el Sunday Atlas Iskanderkul Alpine Lake & Fann Mountains 4WD Day Trip, que utiliza un 4x4 privado con un conductor experimentado en montaña. Reservar el tour gestiona la logística del cruce del paso, el pícnic junto al lago y el horario de regreso para que puedas concentrarte en el paisaje."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "43-metre Fann Niagara waterfall near Snake Lake",
+          "Picnic lunch by the waterfall at 2,400 metres",
+          "Return over Anzob Pass arriving early evening"
+        ],
+        "de": [
+          "43 Meter hoher Fann Niagara Wasserfall in der Nähe des Schlangesees",
+          "Picknick-Mittagessen am Wasserfall auf 2.400 Metern",
+          "Rückfahrt über den Anzob-Pass, Ankunft am frühen Abend"
+        ],
+        "fr": [
+          "Cascade de Fann Niagara de 43 mètres près du lac Serpent",
+          "Déjeuner pique-nique près de la cascade à 2 400 mètres",
+          "Retour par le col d'Anzob en début de soirée"
+        ],
+        "ja": [
+          "スネークレイク近くの43メートルのファン・ナイアガラ滝",
+          "標高2,400メートルの滝でのピクニックランチ",
+          "アンゾブ越えを戻り、早い夕方に到着"
+        ],
+        "es": [
+          "Cascada Fann Niagara de 43 metros cerca del Lago Serpiente",
+          "Almuerzo de pícnic junto a la cascada a 2.400 metros",
+          "Regreso por el Paso Anzob llegando a primera hora de la tarde"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time Iskanderkul to Snake Lake",
+            "de": "Fahrzeit Iskanderkul zu Schlangesee",
+            "fr": "Temps de route d'Iskanderkul au lac Serpent",
+            "ja": "イスカンダークルからスネークレイクまでのドライブ時間",
+            "es": "Tiempo de conducción de Iskanderkul al Lago Serpiente"
+          },
+          "value": {
+            "en": "about 30 minutes",
+            "de": "ca. 30 Minuten",
+            "fr": "environ 30 minutes",
+            "ja": "約30分",
+            "es": "unos 30 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Return drive to Dushanbe",
+            "de": "Rückfahrt nach Duschanbe",
+            "fr": "Trajet retour vers Douchanbé",
+            "ja": "ドゥシャンベへの帰路ドライブ",
+            "es": "Regreso en coche a Dushanbe"
+          },
+          "value": {
+            "en": "about 3.5 to 4 hours",
+            "de": "ca. 3,5 bis 4 Stunden",
+            "fr": "environ 3,5 à 4 heures",
+            "ja": "約3.5〜4時間",
+            "es": "unas 3,5 a 4 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "1 Day",
+            "de": "1 Tag",
+            "fr": "1 jour",
+            "ja": "日帰り",
+            "es": "1 día"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $160 USD / person",
+            "de": "Ab $160 USD / Person",
+            "fr": "À partir de $160 USD / personne",
+            "ja": "$160 USD〜 / 1名",
+            "es": "Desde $160 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794000449/sunday-atlas/blog/2-days-in-dushanbe/iskanderkul-lake-commons-167743867.jpg",
+        "width": 1920,
+        "height": 1281,
+        "alt": {
+          "en": "Iskanderkul Lake in Tajikistan with turquoise water, mountains, and tree branches framing the view.",
+          "de": "Der Iskanderkul-See in Tadschikistan mit türkisem Wasser, Bergen und Baumzweigen, die den Blick einrahmen.",
+          "fr": "Lac Iskanderkul au Tadjikistan, avec une eau turquoise, des montagnes et des branches d'arbres encadrant la vue.",
+          "ja": "タジキスタン、イスカンダルクル湖。エメラルドグリーンの水面、山々、そして木々の枝が視界を彩っています。",
+          "es": "Lago Iskanderkul en Tayikistán con aguas turquesas, montañas y ramas de árboles enmarcando la vista."
+        },
+        "credit": {
+          "author": "Marat Nadjibaev",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iskanderkul_7.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Iskanderkul Lake",
+          "de": "Iskanderkul-See",
+          "fr": "Lac Iskanderkul",
+          "ja": "イスカンダークル湖",
+          "es": "Iskanderkul Lake"
+        }
+      },
+      "embeddedPackageSlug": "iskanderkul-lake-fann-mountains-day-trip"
+    },
+    {
+      "id": "getting-there-and-around",
+      "placeName": {
+        "en": "Dushanbe",
+        "de": "Duschanbe",
+        "fr": "Douchanbé",
+        "ja": "ドゥシャンベ",
+        "es": "Dushanbe"
+      },
+      "heading": {
+        "en": "Getting There and Around",
+        "de": "Anreise und Fortbewegung",
+        "fr": "S'y rendre et se déplacer",
+        "ja": "アクセスと移動手段",
+        "es": "Llegada y desplazamientos"
+      },
+      "paragraphs": {
+        "en": [
+          "Dushanbe International Airport receives direct flights from Istanbul, Dubai, and regional hubs such as Almaty and Tashkent. The land border at Oybek from Tashkent is about 100 km and takes roughly 2 hours by road in normal traffic. Private 4x4 vehicles with a driver are the standard way to reach mountain sites such as Hissar Fortress and Iskanderkul Lake. Mountain passes including Anzob Pass can close from November through April, so late spring to early autumn is the reliable window for overland travel. We arrange airport transfers and all overland legs as part of the itinerary.",
+          "The drive from Dushanbe to Hissar Fortress is approximately 30 km and takes about 45 minutes each way on paved roads. From Dushanbe to Iskanderkul Lake via Anzob Pass is about 130 km and typically requires 3 to 4 hours depending on weather and road conditions. The Anzob Pass summit sits near 3,370 m, so altitude sickness can affect some travellers on the first crossing. Our drivers are experienced with seasonal mountain conditions and carry spare tires and emergency supplies. Day trips depart early to maximize daylight at the lakes and return before dark.",
+          "Shared taxis and minibuses run between Dushanbe and nearby towns, but they do not serve the fortress or the lake directly and schedules are irregular. Renting a self-drive car is not recommended due to mountain road hazards, limited signage, and frequent police checkpoints. A private 4x4 with a local driver provides flexibility to stop at viewpoints, Snake Lake, and the waterfall on the return leg. Fuel stations are sparse beyond the city, so the driver fills up in Dushanbe before departure. We coordinate all vehicle logistics so you do not need to manage transport details.",
+          "The best months for reliable road access are May through September, with June to August offering the warmest daytime temperatures at altitude. October can still be passable but early snow on Anzob Pass is possible and reduces daylight hours. Winter travel to Iskanderkul is generally not feasible because the pass closes and avalanche risk rises. If you arrive by air, allow a half day in Dushanbe to acclimatize before ascending to the pass. Our itineraries build in this buffer and adjust departure times based on current road reports."
+        ],
+        "de": [
+          "Der Internationale Flughafen Duschanbe empfängt Direktflüge von Istanbul, Dubai und regionalen Drehkreuzen wie Almaty und Taschkent. Die Landgrenze bei Oybek von Taschkent aus liegt etwa 100 km entfernt und dauert bei normalem Verkehr etwa 2 Stunden auf der Straße. Private 4x4-Fahrzeuge mit Fahrer sind der Standardweg, um Bergstätten wie die Hissar-Festung und den Iskanderkul-See zu erreichen. Bergpässe einschließlich des Anzob-Passes können von November bis April gesperrt sein, sodass der späte Frühling bis zum frühen Herbst das zuverlässige Zeitfenster für Überlandreisen ist. Wir organisieren Flughafentransfers und alle Überlandetappen als Teil der Reiseroute.",
+          "Die Fahrt von Duschanbe zur Hissar-Festung beträgt etwa 30 km und dauert in jede Richtung etwa 45 Minuten auf asphaltierten Straßen. Von Duschanbe zum Iskanderkul-See über den Anzob-Pass sind es etwa 130 km und in der Regel 3 bis 4 Stunden, abhängig von Wetter und Straßenverhältnissen. Der Gipfel des Anzob-Passes liegt bei etwa 3.370 m, sodass Höhenkrankheit einige Reisende bei der ersten Überquerung betreffen kann. Unsere Fahrer sind erfahren mit saisonalen Bergbedingungen und führen Ersatzreifen und Notfallausrüstung mit. Tagesausflüge starten früh, um das Tageslicht an den Seen optimal zu nutzen, und kehren vor Einbruch der Dunkelheit zurück.",
+          "Sammeltaxis und Minibusse verkehren zwischen Duschanbe und benachbarten Städten, bedienen jedoch nicht direkt die Festung oder den See, und die Fahrpläne sind unregelmäßig. Ein Mietwagen wird aufgrund von Gefahren auf Bergstraßen, begrenzter Beschilderung und häufiger Polizeikontrollen nicht empfohlen. Ein privater 4x4 mit einem lokalen Fahrer bietet Flexibilität, um an Aussichtspunkten, dem Schlangesee und dem Wasserfall auf dem Rückweg anzuhalten. Tankstellen sind außerhalb der Stadt spärlich, daher tankt der Fahrer vor der Abfahrt in Duschanbe voll. Wir koordinieren die gesamte Fahrzeuglogistik, sodass Sie sich nicht um Transportdetails kümmern müssen.",
+          "Die besten Monate für zuverlässige Straßenverhältnisse sind Mai bis September, wobei Juni bis August die wärmsten Tagestemperaturen in großer Höhe bieten. Oktober kann noch passierbar sein, aber früher Schnee auf dem Anzob-Pass ist möglich und verkürzt die Tageslichtstunden. Winterreisen nach Iskanderkul sind im Allgemeinen nicht machbar, da der Pass gesperrt ist und die Lawinengefahr steigt. Wenn Sie per Flugzeug anreisen, planen Sie einen halben Tag in Duschanbe zur Akklimatisierung ein, bevor Sie zum Pass aufsteigen. Unsere Reiserouten sehen diesen Puffer vor und passen die Abfahrtszeiten basierend auf aktuellen Straßenberichten an."
+        ],
+        "fr": [
+          "L'aéroport international de Douchanbé reçoit des vols directs depuis Istanbul, Dubaï et des hubs régionaux tels qu'Almaty et Tachkent. Le poste frontière d'Oybek depuis Tachkent se trouve à environ 100 km et prend environ 2 heures par la route dans des conditions de circulation normales. Les véhicules 4x4 privés avec chauffeur sont le moyen standard pour atteindre les sites de montagne tels que la forteresse d'Hissar et le lac Iskanderkul. Les cols de montagne, y compris le col d'Anzob, peuvent fermer de novembre à avril, donc la fin du printemps au début de l'automne est la période fiable pour les voyages par voie terrestre. Nous organisons les transferts aéroport et tous les trajets terrestres dans le cadre de l'itinéraire.",
+          "Le trajet de Douchanbé à la forteresse d'Hissar est d'environ 30 km et prend environ 45 minutes chaque sens sur des routes goudronnées. De Douchanbé au lac Iskanderkul via le col d'Anzob, il y a environ 130 km et cela nécessite généralement 3 à 4 heures selon les conditions météorologiques et l'état des routes. Le sommet du col d'Anzob se situe à environ 3 370 m, donc le mal des montagnes peut affecter certains voyageurs lors de la première traversée. Nos chauffeurs sont expérimentés avec les conditions saisonnières de montagne et transportent des pneus de rechange et des fournitures d'urgence. Les excursions d'une journée partent tôt pour maximiser la lumière du jour aux lacs et reviennent avant la nuit.",
+          "Les taxis partagés et les minibus circulent entre Douchanbé et les villes voisines, mais ils ne desservent pas directement la forteresse ou le lac et les horaires sont irréguliers. Louer une voiture en libre-service n'est pas recommandé en raison des dangers des routes de montagne, de la signalisation limitée et des fréquents postes de contrôle de police. Un 4x4 privé avec un chauffeur local offre la flexibilité de s'arrêter aux points de vue, au lac Serpent et à la cascade sur le trajet de retour. Les stations-service sont rares au-delà de la ville, donc le chauffeur fait le plein à Douchanbé avant le départ. Nous coordonnons toute la logistique des véhicules afin que vous n'ayez pas à gérer les détails du transport.",
+          "Les meilleurs mois pour un accès routier fiable sont de mai à septembre, avec juin à août offrant les températures diurnes les plus chaudes en altitude. Octobre peut encore être praticable mais des chutes de neige précoces sur le col d'Anzob sont possibles et réduisent les heures de lumière du jour. Les voyages d'hiver vers Iskanderkul sont généralement impossibles car le col ferme et le risque d'avalanche augmente. Si vous arrivez par avion, prévoyez une demi-journée à Douchanbé pour vous acclimater avant de monter au col. Nos itinéraires intègrent cette marge et ajustent les heures de départ en fonction des rapports routiers actuels."
+        ],
+        "ja": [
+          "ドゥシャンベ国際空港にはイスタンブール、ドバイ、アルマトイ、タシュケントなどの地域ハブから直行便が就航しています。タシュケントからのオイベク陸路国境までは約100キロ、通常の交通状況で車で約2時間です。ヒッサル要塞やイスカンダークル湖などの山岳地帯へは、ドライバー付きのプライベート4x4車両が標準的な移動手段です。アンゾブ越えなどの山岳越えは11月から4月まで閉鎖されることがあり、陸路旅行の安定した時期は晩春から初秋です。空港送迎とすべての陸路区間は、行程の一部として手配いたします。",
+          "ドゥシャンベからヒッサル要塞までは約30キロ、舗装路を片道約45分です。ドゥシャンベからイスカンダークル湖まではアンゾブ越えを経由して約130キロ、天候や道路状況により通常3〜4時間かかります。アンゾブ越えの頂上は標高約3,370メートルに位置し、初めて越える際に高山病の影響を受ける方もいらっしゃいます。当社のドライバーは季節ごとの山岳状況に精通しており、スペアタイヤと非常用備品を携帯しています。日帰りツアーは早朝に出発し、湖での日光時間を最大限に活用し、日没前に戻ります。",
+          "ドゥシャンベと近隣の町の間には乗合タクシーやミニバスが運行していますが、要塞や湖へは直行せず、ダイヤも不規則です。山岳道路の危険性、標識の少なさ、頻繁な警察検問があるため、レンタカーでのセルフドライブはお勧めしません。地元ドライバー付きのプライベート4x4なら、展望台、スネークレイク、帰路の滝などに柔軟に立ち寄ることができます。市街地を離れるとガソリンスタンドは少ないため、ドライバーは出発前にドゥシャンベで給油します。車両の手配はすべて当社で調整し、お客様が交通の詳細を管理する必要はありません。",
+          "道路アクセスが安定するベストシーズンは5月から9月で、6月から8月は標高地でも最も日中の気温が暖かくなります。10月も通行可能な場合がありますが、アンゾブ越えでは早期の降雪の可能性があり、日照時間も短くなります。イスカンダークルへの冬季旅行は、越えの閉鎖と雪崩リスクの高まりにより、一般的に実現困難です。航空機で到着される場合は、越えに登る前にドゥシャンベで半日、高順応のための滞在をお勧めします。当社の行程にはこのバッファーが組み込まれており、最新の道路情報に基づき出発時刻を調整いたします。"
+        ],
+        "es": [
+          "El Aeropuerto Internacional de Dushanbe recibe vuelos directos desde Estambul, Dubái y centros regionales como Almaty y Taskent. El cruce fronterizo terrestre en Oybek desde Taskent está a unos 100 km y tarda aproximadamente 2 horas por carretera en tráfico normal. Los vehículos 4x4 privados con conductor son la forma estándar de llegar a sitios de montaña como la Fortaleza de Hissar y el Lago Iskanderkul. Los pasos de montaña, incluido el Paso Anzob, pueden cerrar de noviembre a abril, por lo que de finales de primavera a principios de otoño es el periodo fiable para viajar por tierra. Gestionamos los traslados al aeropuerto y todos los trayectos terrestres como parte del itinerario.",
+          "El trayecto desde Dushanbe hasta la Fortaleza de Hissar es de aproximadamente 30 km y tarda unos 45 minutos en cada sentido por carreteras pavimentadas. Desde Dushanbe hasta el Lago Iskanderkul a través del Paso Anzob son unos 130 km y normalmente requiere de 3 a 4 horas dependiendo del clima y las condiciones de la carretera. La cima del Paso Anzob se sitúa cerca de los 3.370 m, por lo que el mal de altura puede afectar a algunos viajeros en el primer cruce. Nuestros conductores tienen experiencia con las condiciones estacionales de montaña y llevan neumáticos de repuesto y suministros de emergencia. Las excursiones de un día salen temprano para aprovechar al máximo la luz del día en los lagos y regresan antes del anochecer.",
+          "Los taxis compartidos y minibuses circulan entre Dushanbe y pueblos cercanos, pero no sirven directamente la fortaleza ni el lago y los horarios son irregulares. No se recomienda alquilar un coche para conducir por cuenta propia debido a los peligros de las carreteras de montaña, la señalización limitada y los frecuentes controles policiales. Un 4x4 privado con conductor local brinda flexibilidad para detenerse en miradores, el Lago Serpiente y la cascada en el tramo de regreso. Las estaciones de servicio son escasas más allá de la ciudad, así que el conductor reposta en Dushanbe antes de la salida. Coordinamos toda la logística del vehículo para que no tengas que gestionar los detalles del transporte.",
+          "Los mejores meses para un acceso fiable por carretera son de mayo a septiembre, con junio a agosto ofreciendo las temperaturas diurnas más cálidas a gran altitud. Octubre aún puede ser transitable, pero es posible que haya nieve temprana en el Paso Anzob y se reduzcan las horas de luz. Los viajes en invierno a Iskanderkul generalmente no son factibles porque el paso cierra y aumenta el riesgo de aludes. Si llegas por aire, permite medio día en Dushanbe para aclimatarte antes de ascender al paso. Nuestros itinerarios incluyen este margen y ajustan los horarios de salida según los informes actuales de las carreteras."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Oybek border from Tashkent is 100 km and 2 hours",
+          "Anzob Pass summit near 3,370 m altitude",
+          "Private 4x4 with driver for all mountain trips"
+        ],
+        "de": [
+          "Grenze Oybek von Taschkent ist 100 km und 2 Stunden entfernt",
+          "Gipfel des Anzob-Passes in der Nähe von 3.370 m Höhe",
+          "Privater 4x4 mit Fahrer für alle Bergausflüge"
+        ],
+        "fr": [
+          "Le poste frontière d'Oybek depuis Tachkent est à 100 km et 2 heures",
+          "Sommet du col d'Anzob près de 3 370 m d'altitude",
+          "4x4 privé avec chauffeur pour tous les voyages en montagne"
+        ],
+        "ja": [
+          "タシュケントからのオイベク国境までは100キロ、2時間",
+          "アンゾブ越えの頂上は標高約3,370メートル",
+          "すべての山岳旅行にドライバー付きプライベート4x4"
+        ],
+        "es": [
+          "El cruce fronterizo de Oybek desde Taskent está a 100 km y 2 horas",
+          "Cima del Paso Anzob cerca de 3.370 m de altitud",
+          "4x4 privado con conductor para todos los viajes de montaña"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Airport",
+            "de": "Flughafen",
+            "fr": "Aéroport",
+            "ja": "空港",
+            "es": "Aeropuerto"
+          },
+          "value": {
+            "en": "Dushanbe International Airport",
+            "de": "Internationaler Flughafen Duschanbe",
+            "fr": "Aéroport international de Douchanbé",
+            "ja": "ドゥシャンベ国際空港",
+            "es": "Aeropuerto Internacional de Dushanbe"
+          }
+        },
+        {
+          "label": {
+            "en": "Best months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure période",
+            "ja": "ベストシーズン",
+            "es": "Mejor época"
+          },
+          "value": {
+            "en": "May to September",
+            "de": "Mai bis September",
+            "fr": "Mai à septembre",
+            "ja": "5月から9月",
+            "es": "De mayo a septiembre"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1794000462/sunday-atlas/blog/2-days-in-dushanbe/dushanbe-commons-138527007.jpg",
+        "width": 1920,
+        "height": 865,
+        "alt": {
+          "en": "Cityscape of Dushanbe, Tajikistan, viewed from a hillside with mountains in the distance.",
+          "de": "Stadtpanorama von Duschanbe, Tadschikistan, von einem Hügel aus mit Bergen in der Ferne.",
+          "fr": "Panorama de Douchanbé, au Tadjikistan, vu depuis une colline avec des montagnes au loin.",
+          "ja": "ドゥシャンベ、タジキスタンの街並み。丘陵地から望む景色に、遠くに山々が広がっています。",
+          "es": "Vista urbana de Dusambé, Tayikistán, desde una ladera con montañas al fondo."
+        },
+        "credit": {
+          "author": "TITANTJ",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dushanbe_Tajikistan.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Dushanbe",
+          "de": "Duschanbe",
+          "fr": "Douchanbé",
+          "ja": "ドゥシャンベ",
+          "es": "Dushanbe"
+        }
+      }
+    },
+    {
+      "id": "matching-tour-five-stans",
+      "placeName": {
+        "en": "Dushanbe to Penjikent",
+        "de": "Duschanbe bis Pendschikent",
+        "fr": "Douchanbé à Pendjikent",
+        "ja": "ドゥシャンベからペンジケントへ",
+        "es": "Dushanbe a Penjikent"
+      },
+      "heading": {
+        "en": "Matching Sunday Atlas Tour: The Long Road Through the 5 Stans",
+        "de": "Passende Sunday Atlas Tour: The Long Road Through the 5 Stans",
+        "fr": "Circuit Sunday Atlas correspondant : La longue route à travers les 5 Stans",
+        "ja": "サンデー・アトラス・トラベルの対応ツアー：5つのスタンを巡る長い道のり",
+        "es": "Tour correspondiente de Sunday Atlas Travel: The Long Road Through the 5 Stans"
+      },
+      "paragraphs": {
+        "en": [
+          "Our 22-day Five Stans tour reaches Dushanbe on Day 10 after an evening flight from Almaty that covers roughly 900 km in about two hours, and the programme spends the full day in the capital with a guided walk through Rudaki Park, the National Museum of Tajikistan and the Ismaili Centre before an early start on Day 11. That morning the vehicle departs west on the M34 highway for a 235 km drive to Iskanderkul Lake and Penjikent, climbing the Anzob Pass at about 3,372 m, a crossing that is usually passable from late spring through early autumn but can close with heavy snow as early as October. The road descends through the Varzob Gorge and the Anzob Tunnel, which shortens the journey by roughly 50 km compared with the old switchback route, and the total driving time is typically six to seven hours including stops for photos and a picnic lunch. Along the way the landscape shifts from arid foothills to alpine meadows dotted with juniper and birch, and the lake itself sits at 2,195 m surrounded by the Fann Mountains. Travellers should carry warm layers even in summer because temperatures at the pass can drop below 10 °C in the afternoon.",
+          "The tour continues on Day 12 with a 460 km drive from Penjikent north to Khujand and the Oybek border crossing into Tashkent, a full day on the road that links the Tajik Fan Mountains with Uzbekistan's Fergana Valley. The route follows the Zarafshan River valley past the ancient site of Sarazm, a UNESCO World Heritage settlement dating to the 4th millennium BCE, before climbing the Shahristan Pass at about 3,378 m and descending through the mountain town of Istaravshan with its 16th-century Kuk-Gumbaz Mosque. After Istaravshan the road drops into the Fergana basin, passing the Kayrakkum Reservoir and entering Khujand, Tajikistan's second city, where the itinerary includes a visit to the Panjshanbe Bazaar and the restored Khujand Fortress. The final 70 km to the Oybek border post are on a four-lane highway, and crossing formalities typically take one to two hours depending on traffic, after which the group transfers to a waiting vehicle in Tashkent for the evening train to Samarkand.",
+          "In Dushanbe the itinerary includes a guided city walk and a half-day excursion to Hissar Fortress, about 30 km west of the capital along a paved road that takes roughly 45 minutes each way in normal traffic. The fortress complex sits at 800 m on the alluvial fan of the Kafirnigan River and preserves an 18th-century madrasa, a carved portal flanked by two cylindrical towers, a small museum of archaeological finds from the Kushan and Hephthalite periods, and the foundations of a 16th-century caravanserai uncovered during Soviet-era excavations. The surrounding historical reserve covers 86 hectares and includes a reconstructed mausoleum of Makhdumi A'zam, a 16th-century Sufi scholar, and a modern open-air theatre used for Navruz celebrations in March. Visitors can walk the ramparts for views toward the Hissar Range, where snow often lingers on the 4,000 m peaks until June, and the site is usually open from 9:00 to 17:00 daily except Mondays when the museum is closed.",
+          "The Iskanderkul segment on Day 11 adds a short lakeside walk, a visit to the 38 m Snake Lake waterfall and a picnic lunch before the onward drive to Penjikent, making the mountain scenery accessible without an overnight camp. The lake stretches about 3.5 km long and up to 1.5 km wide, fed by the Iskander Darya and surrounded by peaks that rise to 5,000 m, including Chimtarga, the highest summit in the Fann Mountains at 5,489 m. A well-maintained trail leads from the parking area to the waterfall in about 20 minutes, passing through birch groves and across a wooden bridge over the Sarytag River, and the water flow is strongest in June and July when glacial melt peaks. The picnic is set up near the shore where the water temperature rarely exceeds 12 °C even in August, and the group typically departs Iskanderkul by mid-afternoon to cover the remaining 80 km to Penjikent before sunset, arriving at the hotel in time for dinner and a briefing on the Sarazm ruins visit the following morning."
+        ],
+        "de": [
+          "Unsere 22-tägige Fünf-Stans-Tour erreicht Duschanbe am Tag 10 nach einem Abendflug von Almaty, der rund 900 km in etwa zwei Stunden zurücklegt, und das Programm verbringt den ganzen Tag in der Hauptstadt mit einem geführten Spaziergang durch den Rudaki-Park, das Nationalmuseum von Tadschikistan und das Ismailische Zentrum, bevor es am Tag 11 früh losgeht. An jenem Morgen fährt das Fahrzeug westwärts auf der M34 auf einer 235 km langen Fahrt zum Iskanderkul-See und nach Pendschikent, über den Anzob-Pass auf etwa 3.372 m, eine Passstraße, die normalerweise von Ende Frühjahr bis Anfang Herbst befahrbar ist, aber bei starkem Schneefall bereits ab Oktober gesperrt werden kann. Die Straße führt durch die Varzob-Schlucht und den Anzob-Tunnel, der die Reise um etwa 50 km gegenüber der alten Serpentinenstrecke verkürzt, und die gesamte Fahrzeit beträgt in der Regel sechs bis sieben Stunden inklusive Stopps für Fotos und einem Picknick-Mittagessen. Unterwegs verändert sich die Landschaft von trockenen Hügeln zu alpinen Wiesen, die mit Wacholder und Birken gesprenkelt sind, und der See selbst liegt auf 2.195 m, umgeben von den Fann-Bergen. Reisende sollten auch im Sommer warme Kleidung mitführen, da die Temperaturen am Pass am Nachmittag unter 10 °C fallen können.",
+          "Die Tour setzt sich am Tag 12 mit einer 460 km langen Fahrt von Pendschikent nach Norden nach Khujand und der Oybek-Grenzübergangsstelle nach Taschkent fort, ein ganzer Tag auf der Straße, der die Tadschikischen Fann-Berge mit dem usbekischen Fergana-Tal verbindet. Die Route folgt dem Zarafshan-Tal an der antiken Stätte Sarazm vorbei, einer UNESCO-Welterbesiedlung aus dem 4. Jahrtausend v. Chr., bevor sie den Schahristan-Pass auf etwa 3.378 m erklimmt und durch die Bergstadt Istaravshan mit ihrer Kuk-Gumbaz-Moschee aus dem 16. Jahrhundert hinabsteigt. Nach Istaravshan fällt die Straße ins Fergana-Becken, passiert den Kayrakkum-Stausee und erreicht Khujand, Tadschikistans zweitgrößte Stadt, wo die Reiseroute einen Besuch des Panjshanbe-Basars und der restaurierten Festung von Khujand umfasst. Die letzten 70 km zum Grenzposten Oybek verlaufen auf einer vierspurigen Autobahn, und die Zollformalitäten dauern in der Regel ein bis zwei Stunden, je nach Verkehr, danach steigt die Gruppe in ein wartendes Fahrzeug in Taschkent für den Abendzug nach Samarkand um.",
+          "In Duschanbe umfasst die Reiseroute einen geführten Stadtrundgang und einen halbtägigen Ausflug zur Festung Hissar, etwa 30 km westlich der Hauptstadt auf einer asphaltierten Straße, die bei normalem Verkehr etwa 45 Minuten pro Weg benötigt. Die Festungskomplex liegt auf 800 m auf dem Schwemmkegel des Kafirnigan-Flusses und bewahrt eine Madrasa aus dem 18. Jahrhundert, ein geschnitztes Portal, flankiert von zwei zylindrischen Türmen, ein kleines Museum mit archäologischen Funden aus der Zeit der Kuschan und Hephthaliten sowie die Fundamente eines Karawanserais aus dem 16. Jahrhundert, das während sowjetischer Ausgrabungen freigelegt wurde. Das umliegende historische Reservat umfasst 86 Hektar und beinhaltet ein rekonstruiertes Mausoleum von Makhdumi A'zam, einem Sufi-Gelehrten aus dem 16. Jahrhundert, sowie ein modernes Freilichttheater, das für Navruz-Feierlichkeiten im März genutzt wird. Besucher können die Wallungen entlanggehen, um Ausblicke auf die Hissar-Kette zu genießen, wo Schnee oft bis Juni auf den 4.000 m hohen Gipfeln liegen bleibt, und die Stätte ist täglich von 9:00 bis 17:00 Uhr geöffnet, außer montags, wenn das Museum geschlossen ist.",
+          "Der Iskanderkul-Abschnitt am Tag 11 umfasst einen kurzen Spaziergang am Seeufer, einen Besuch des 38 m hohen Wasserfalls Snake Lake und ein Picknick-Mittagessen, bevor die Weiterfahrt nach Penjikent beginnt, sodass die Berglandschaft ohne Übernachtung im Camp erlebbar ist. Der See erstreckt sich über etwa 3,5 km Länge und bis zu 1,5 km Breite, wird von der Iskander Darya gespeist und von Gipfeln umgeben, die bis zu 5.000 m hoch aufragen, darunter Chimtarga, der höchste Gipfel der Fann Mountains mit 5.489 m. Ein gut gepflegter Wanderweg führt vom Parkplatz in etwa 20 Minuten zum Wasserfall, vorbei an Birkenhainen und über eine Holzbrücke über den Sarytag River, und die Wasserführung ist im Juni und Juli am stärksten, wenn die Gletscherschmelze ihren Höhepunkt erreicht. Das Picknick wird in Ufernähe aufgebaut, wo die Wassertemperatur selbst im August selten 12 °C übersteigt, und die Gruppe verlässt Iskanderkul in der Regel am Nachmittag, um die verbleibenden 80 km nach Penjikent vor Sonnenuntergang zurückzulegen und rechtzeitig zum Abendessen sowie zu einem Briefing über den Besuch der Ruinen von Sarazm am folgenden Morgen im Hotel anzukommen."
+        ],
+        "fr": [
+          "Notre circuit de 22 jours à travers les 5 Stans atteint Douchanbé le jour 10 après un vol du soir depuis Almaty qui couvre environ 900 km en deux heures environ, et le programme consacre la journée entière à la capitale avec une promenade guidée dans le parc Rudaki, le Musée national du Tadjikistan et le Centre ismaélien avant un départ matinal le jour 11. Ce matin-là, le véhicule prend la direction ouest sur l'autoroute M34 pour un trajet de 235 km jusqu'au lac Iskanderkul et Pendjikent, en franchissant le col d'Anzob à environ 3 372 m, un passage généralement praticable de la fin du printemps au début de l'automne, mais qui peut fermer dès octobre en cas de fortes chutes de neige. La route descend à travers la gorge de Varzob et le tunnel d'Anzob, qui raccourcit le trajet d'environ 50 km par rapport à l'ancienne route en lacets, et le temps de conduite total est généralement de six à sept heures, arrêts photos et déjeuner pique-nique compris. En chemin, le paysage passe des contreforts arides aux prairies alpines parsemées de genévriers et de bouleaux, et le lac lui-même se trouve à 2 195 m, entouré par les monts Fan. Les voyageurs doivent emporter des vêtements chauds même en été, car les températures au col peuvent descendre en dessous de 10 °C l'après-midi.",
+          "Le circuit se poursuit le jour 12 avec un trajet de 460 km de Pendjikent vers le nord jusqu'à Khodjent et le poste frontière d'Oybek, menant au Tachkent, une journée complète sur la route qui relie les monts Fan du Tadjikistan à la vallée de Ferghana en Ouzbékistan. L'itinéraire suit la vallée du fleuve Zeravchan en passant par l'ancien site de Sarazm, un site du patrimoine mondial de l'UNESCO datant du IVe millénaire avant notre ère, avant de gravir le col de Chahristan à environ 3 378 m et de descendre à travers la ville de montagne d'Istaravchan avec sa mosquée Kuk-Gumbaz du XVIe siècle. Après Istaravchan, la route descend dans le bassin de Ferghana, passe devant le réservoir de Kayrakkum et entre à Khodjent, deuxième ville du Tadjikistan, où l'itinéraire inclut une visite du bazar Panchchanbe et de la forteresse de Khodjent restaurée. Les derniers 70 km jusqu'au poste frontière d'Oybek se font sur une autoroute à quatre voies, et les formalités de passage prennent généralement une à deux heures selon le trafic, après quoi le groupe transfert vers un véhicule d'attente à Tachkent pour le train du soir à destination de Samarcande.",
+          "À Douchanbé, l'itinéraire comprend une promenade guidée en ville et une excursion d'une demi-journée à la forteresse de Hissar, à environ 30 km à l'ouest de la capitale le long d'une route goudronnée qui prend environ 45 minutes chaque sens dans des conditions de circulation normales. Le complexe de la forteresse se trouve à 800 m sur le cône de déjection de la rivière Kafirnigan et préserve une médersa du XVIIIe siècle, un portail sculpté flanqué de deux tours cylindriques, un petit musée d'objets archéologiques des périodes kouchan et héphthalite, ainsi que les fondations d'un caravansérail du XVIe siècle découverts lors de fouilles de l'époque soviétique. La réserve historique environnante couvre 86 hectares et inclut un mausolée reconstruit de Makhdumi A'zam, un savant soufi du XVIe siècle, et un théâtre en plein air moderne utilisé pour les célébrations de Navrouz en mars. Les visiteurs peuvent parcourir les remparts pour admirer la vue sur la chaîne de Hissar, où la neige persiste souvent sur les sommets de 4 000 m jusqu'en juin, et le site est généralement ouvert de 9 h à 17 h tous les jours sauf le lundi, jour où le musée est fermé.",
+          "Le segment d'Iskanderkul au jour 11 ajoute une courte promenade au bord du lac, une visite de la cascade de Snake Lake de 38 m et un pique-nique avant la route vers Penjikent, rendant les paysages montagneux accessibles sans campement de nuit. Le lac s'étend sur environ 3,5 km de long et jusqu'à 1,5 km de large, alimenté par l'Iskander Darya et entouré de sommets s'élevant à 5 000 m, dont Chimtarga, le plus haut sommet des monts Fan à 5 489 m. Un sentier bien entretenu mène du parking à la cascade en environ 20 minutes, traversant des bosquets de bouleaux et un pont en bois sur la rivière Sarytag, et le débit d'eau est plus fort en juin et juillet lorsque la fonte des glaces atteint son apogée. Le pique-nique est installé près du rivage où la température de l'eau dépasse rarement 12 °C même en août, et le groupe quitte généralement Iskanderkul en milieu d'après-midi pour parcourir les 80 km restants jusqu'à Penjikent avant le coucher du soleil, arrivant à l'hôtel à temps pour le dîner et un briefing sur la visite des ruines de Sarazm le lendemain matin."
+        ],
+        "ja": [
+          "当社の22日間「5つのスタン」ツアーでは、アルマトイからの夕方のフライトで10日目にドゥシャンベに到着します。飛行距離は約900 km、所要時間は約2時間です。プログラムでは首都で丸1日を過ごし、ルダキ公園、タジキスタン国立博物館、イスマイリセンターをガイド付きで散策した後、11日目に早朝出発します。その朝、車両はM34ハイウェイを西へ向かい、イスカンダークル湖とペンジケントまでの235 kmのドライブに出発します。約3,372 mのアンゾブ峠を越えます。この峠は通常、晩春から初秋まで通行可能ですが、10月以降に大雪で閉鎖されることもあります。道路はヴァルゾブ峡谷とアンゾブトンネルを下ります。トンネルにより、旧スイッチバックルートと比べて約50 kmの短縮となり、写真撮影やピクニックランチの停車を含めた総所要時間は通常6〜7時間です。途中、景観は乾燥した丘陵からジュニパーとカバノキが点在する高山草原へと変化し、湖自体は2,195 mの標高に位置し、ファーン山脈に囲まれています。夏でも暖かい服をご持参ください。峠では午後でも気温が10 °Cを下回ることがあります。",
+          "ツアーは12日目に続き、ペンジケントから北へホジェンドまでの460 kmドライブ、オイベク国境を越えてタシュケントへ向かいます。タジキスタンのファーン山脈とウズベキスタンのフェルガナ盆地を結ぶ、丸一日かかる道のりです。ルートはザラフシャン川渓谷に沿って進み、紀元前4千年紀に遡るユネスコ世界遺産の集落サラズムの古代遺跡を通り過ぎ、約3,378 mのシャフリスタン峠を登り、16世紀のクク・グンバズ・モスクで知られる山岳都市イスタラヴシャンを下ります。イスタラヴシャンの後、道路はフェルガナ盆地に下り、カイラクム貯水池を通過し、タジキスタン第二の都市ホジェンドに入ります。ここではパンジャンベ・バザールと修復されたホジェンド要塞の見学が含まれます。オイベク国境検問所までの最後の70 kmは4車線のハイウェイで、通過手続きは通常交通状況により1〜2時間かかります。その後、グループはタシュケントで待機する車両に乗り換え、夜行列車でサマルカンドへ向かいます。",
+          "ドゥシャンベでは、ガイド付き市内散策と、首都から西へ約30 kmのヒッサル要塞への半日遠足が含まれています。舗装道路を通常の交通状況で片道約45分です。要塞複合施設はカフィルニガン川の扇状地上の標高800 mに位置し、18世紀のマドラサ、2つの円柱塔を伴う彫刻された門、クシャン朝とヘプタイト朝時代の考古学的発見品を展示する小さな博物館、ソビエト時代の発掘で明らかになった16世紀のキャラバンサライの基礎を保存しています。周囲の歴史保護区は86ヘクタールに及び、16世紀のスーフィー学者マフドゥミ・アザムの再建された霊廟と、3月のナウローズ祝祭に使用される現代的な野外劇場が含まれます。訪問者は城壁を歩き、ヒッサル山脈への眺望を楽しむことができます。4,000 mの峰には6月まで雪が残ることが多く、サイトは通常月曜を除き毎日9:00から17:00まで開館しています（月曜は博物館が休館）。",
+          "11日目に組み込まれたイスカンダークル区間では、湖畔の短い散策と高さ38 mのスネークレイク滝への訪問、ピクニックランチを楽しんだ後、ペンジケントへと向かいます。山の絶景を一泊キャンプなしで気軽に堪能できるプランです。湖は全長約3.5 km、最大幅1.5 kmで、イスカンダルダリヤ川の水をたたえ、標高5,000 mを超える峰々に囲まれています。ファーン山脈最高峰のチムタルガ峰（5,489 m）もその一つです。駐車場から整備された遊歩道を約20分で滝まで歩けます。カバノキの林を抜け、サリータグ川にかかる木橋を渡るルートで、水量が最も多くなるのは氷河の融解がピークを迎える6月と7月です。ピクニックは湖岸近くで設営され、8月でも水温は12 °Cを超えることはほとんどありません。グループは通常、午後半ばまでにイスカンダークルを出発し、残り80 kmをペンジケントまで走破して日没前にホテルに到着。夕食の後、翌朝訪れるサラズム遺跡についてのブリーフィングが行われます。"
+        ],
+        "es": [
+          "Nuestro tour de 22 días por los Cinco Stanes llega a Dushanbe el día 10 tras un vuelo nocturno desde Almaty que recorre unos 900 km en aproximadamente dos horas, y el programa dedica el día completo a la capital con un paseo guiado por el Parque Rudaki, el Museo Nacional de Tayikistán y el Centro Ismaili antes de una salida temprana el día 11. Esa mañana el vehículo parte hacia el oeste por la carretera M34 en un trayecto de 235 km hasta el lago Iskanderkul y Penjikent, cruzando el paso Anzob a unos 3.372 m, un paso que suele estar abierto desde finales de primavera hasta principios de otoño, pero puede cerrarse con fuertes nevadas ya en octubre. La carretera desciende por el desfiladero de Varzob y el túnel de Anzob, que acorta el viaje en unos 50 km respecto a la antigua ruta de curvas de herradura, y el tiempo total de conducción suele ser de seis a siete horas, incluidas paradas para fotos y un almuerzo de picnic. A lo largo del camino, el paisaje cambia de estribaciones áridas a prados alpinos salpicados de enebros y abedules, y el lago se encuentra a 2.195 m rodeado por las montañas Fann. Los viajeros deben llevar ropa de abrigo incluso en verano, ya que las temperaturas en el paso pueden bajar de los 10 °C por la tarde.",
+          "El tour continúa el día 12 con un trayecto de 460 km desde Penjikent hacia el norte hasta Khujand y el paso fronterizo de Oybek hacia Taskent, un día completo en la carretera que une las montañas Fan de Tayikistán con el valle de Fergana de Uzbekistán. La ruta sigue el valle del río Zarafshan pasando por el antiguo sitio de Sarazm, un asentamiento Patrimonio de la Humanidad de la UNESCO que data del IV milenio a. C., antes de ascender al paso Shahristan a unos 3.378 m y descender por la ciudad montañosa de Istaravshan con su mezquita Kuk-Gumbaz del siglo 16. Después de Istaravshan, la carretera desciende a la cuenca de Fergana, pasando por el embalse de Kayrakkum y entrando en Khujand, la segunda ciudad de Tayikistán, donde el itinerario incluye una visita al bazar Panjshanbe y a la fortaleza restaurada de Khujand. Los últimos 70 km hasta el puesto fronterizo de Oybek son por una carretera de cuatro carriles, y los trámites fronterizos suelen tomar entre una y dos horas dependiendo del tráfico, tras lo cual el grupo se traslada a un vehículo de espera en Taskent para el tren nocturno a Samarcanda.",
+          "En Dushanbe, el itinerario incluye un paseo guiado por la ciudad y una excursión de medio día a la fortaleza de Hissar, a unos 30 km al oeste de la capital por una carretera pavimentada que toma aproximadamente 45 minutos en cada sentido en tráfico normal. El complejo de la fortaleza se encuentra a 800 m en el cono de deyección del río Kafirnigan y conserva una madrasa del siglo 18, un portal tallado flanqueado por dos torres cilíndricas, un pequeño museo de hallazgos arqueológicos de los periodos kushan y heftalita, y los cimientos de un caravasar del siglo 16 descubiertos durante excavaciones de la era soviética. La reserva histórica circundante cubre 86 hectáreas e incluye un mausoleo reconstruido de Makhdumi A'zam, un erudito sufí del siglo 16, y un teatro al aire libre moderno utilizado para las celebraciones de Navruz en marzo. Los visitantes pueden caminar por las murallas para disfrutar de vistas hacia la cordillera de Hissar, donde la nieve suele permanecer en los picos de 4.000 m hasta junio, y el sitio suele estar abierto de 9:00 a 17:00 diariamente, excepto los lunes, cuando el museo está cerrado.",
+          "El tramo de Iskanderkul del Día 11 añade un breve paseo junto al lago, una visita a la cascada de Snake Lake, de 38 m, y un almuerzo picnic antes de continuar hacia Penjikent, haciendo accesible el paisaje de montaña sin necesidad de acampar. El lago mide unos 3,5 km de largo y hasta 1,5 km de ancho, es alimentado por el río Iskander Darya y está rodeado de picos que alcanzan los 5.000 m, incluido Chimtarga, la cumbre más alta de las montañas Fann con 5.489 m. Un sendero bien mantenido lleva desde el aparcamiento hasta la cascada en unos 20 minutos, atravesando bosques de abedules y cruzando un puente de madera sobre el río Sarytag, y el caudal es más fuerte en junio y julio, cuando el deshielo glaciar alcanza su punto máximo. El picnic se instala cerca de la orilla, donde la temperatura del agua rara vez supera los 12 °C incluso en agosto, y el grupo suele salir de Iskanderkul a media tarde para recorrer los 80 km restantes hasta Penjikent antes del atardecer, llegando al hotel a tiempo para cenar y recibir una sesión informativa sobre la visita a las ruinas de Sarazm a la mañana siguiente."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "235 km mountain drive from Dushanbe to Iskanderkul Lake",
+          "Anzob Pass at 3,372 m open late spring to early autumn",
+          "Hissar Fortress 30 km west of Dushanbe with 18th-century madrasa"
+        ],
+        "de": [
+          "235 km Bergfahrt von Duschanbe zum Iskanderkul-See",
+          "Anzob-Pass auf 3.372 m, geöffnet von Spätfrühling bis Frühherbst",
+          "Hissar-Festung 30 km westlich von Duschanbe mit einer Madrasa aus dem 18. Jahrhundert"
+        ],
+        "fr": [
+          "235 km de route de montagne de Douchanbé au lac Iskanderkul",
+          "Col d'Anzob à 3 372 m, ouvert de la fin du printemps au début de l'automne",
+          "Forteresse d'Hissar à 30 km à l'ouest de Douchanbé avec une médersa du 18e siècle"
+        ],
+        "ja": [
+          "ドゥシャンベからイスカンダークル湖までの235 kmの山岳ドライブ",
+          "標高3,372 mのアンゾブ峠。晩春から初秋まで通行可能",
+          "ドゥシャンベから西へ30 kmのヒッサル要塞。18世紀のマドラサあり"
+        ],
+        "es": [
+          "235 km de trayecto por montaña desde Dushanbe hasta el lago Iskanderkul",
+          "Paso de Anzob a 3.372 m, abierto de finales de primavera a principios de otoño",
+          "Fortaleza de Hissar, a 30 km al oeste de Dushanbe, con madrasa del siglo 18"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Reisedauer",
+            "fr": "Durée du circuit",
+            "ja": "ツアー所要日数",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "22 days / 21 nights private",
+            "de": "22 Tage / 21 Nächte privat",
+            "fr": "22 jours / 21 nuits privé",
+            "ja": "22日間 / 21泊 プライベート",
+            "es": "22 días / 21 noches privado"
+          }
+        },
+        {
+          "label": {
+            "en": "Dushanbe days",
+            "de": "Tage in Duschanbe",
+            "fr": "Jours à Douchanbé",
+            "ja": "ドゥシャンベ滞在日数",
+            "es": "Días en Dushanbe"
+          },
+          "value": {
+            "en": "Day 10 and Day 11 of the itinerary",
+            "de": "Tag 10 und Tag 11 der Reiseroute",
+            "fr": "Jour 10 et jour 11 de l'itinéraire",
+            "ja": "行程の10日目と11日目",
+            "es": "Día 10 y Día 11 del itinerario"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days / 21 Nights",
+            "de": "22 Tage / 21 Nächte",
+            "fr": "22 jours / 21 nuits",
+            "ja": "22日間 / 21泊",
+            "es": "22 días / 21 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "Ab $3490 USD / Person",
+            "fr": "À partir de $3490 USD / personne",
+            "ja": "$3490 USD〜 / 1名",
+            "es": "Desde $3490 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400025/sunday-atlas/tash-rabat-in-kyrgyzstan-17533368_xht6ol.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Tash-Rabat, the 15th-century stone caravanserai in Naryn region, Kyrgyzstan",
+          "de": "Tasch-Rabat, die steinerne Karawanserei aus dem 15. Jahrhundert in der Region Naryn, Kirgistan",
+          "fr": "Tash-Rabat, caravansérail de pierre du XVe siècle, région de Naryn, Kirghizistan",
+          "ja": "ナリン州にある15世紀の石造りの隊商宿タシュ・ラバト（キルギス）",
+          "es": "Tash-Rabat, caravasar de piedra del siglo XV en la región de Naryn, Kirguistán"
+        },
+        "caption": {
+          "en": "Dushanbe to Penjikent",
+          "de": "Duschanbe bis Pendschikent",
+          "fr": "Douchanbé à Pendjikent",
+          "ja": "ドゥシャンベからペンジケントへ",
+          "es": "Dushanbe a Penjikent"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How many days do you need in Dushanbe?",
+        "de": "Wie viele Tage benötigt man in Duschanbe?",
+        "fr": "Combien de jours faut-il prévoir à Douchanbé ?",
+        "ja": "ドゥシャンベには何日必要ですか？",
+        "es": "¿Cuántos días se necesitan en Dushanbe?"
+      },
+      "a": {
+        "en": "Two full days let you see the main city sights, Hissar Fortress, and take a day trip to Iskanderkul Lake; add a third day if you want to visit the Seven Lakes or travel on to Penjikent and Khujand.",
+        "de": "Zwei ganze Tage reichen für die wichtigsten Sehenswürdigkeiten der Stadt, die Hissar-Festung und einen Tagesausflug zum Iskanderkul-See; ein dritter Tag empfiehlt sich, wenn Sie die Sieben Seen besuchen oder weiter nach Penjikent und Chudschand reisen möchten.",
+        "fr": "Deux journées complètes vous permettent de voir les principaux sites de la ville, la forteresse d'Hissar, et de faire une excursion d'une journée au lac Iskanderkul ; ajoutez un troisième jour si vous souhaitez visiter les Sept Lacs ou continuer vers Penjikent et Khodjent.",
+        "ja": "2日間あれば市内の主な観光名所やヒッサル要塞を巡り、イスカンダークル湖への日帰り旅行も楽しめます。セブンレイクスを訪れたり、ペンジケントやフジェンドへ向かう場合は、3日目を追加してください。",
+        "es": "Dos días completos permiten ver los principales lugares de la ciudad, la Fortaleza de Hissar y hacer una excursión de un día al lago Iskanderkul; añade un tercer día si quieres visitar los Siete Lagos o continuar hacia Penjikent y Khujand."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the drive time from Dushanbe to Iskanderkul Lake?",
+        "de": "Wie lange dauert die Fahrt von Duschanbe zum Iskanderkul-See?",
+        "fr": "Quel est le temps de trajet de Douchanbé au lac Iskanderkul ?",
+        "ja": "ドゥシャンベからイスカンダークル湖までの所要時間は？",
+        "es": "¿Cuánto se tarda en conducir de Dushanbe al lago Iskanderkul?"
+      },
+      "a": {
+        "en": "The drive is about 130 km and takes roughly 3 hours each way over the Anzob Pass, which sits around 2,700 metres; the pass is usually open from late spring to early autumn.",
+        "de": "Die Fahrt beträgt etwa 130 km und dauert in jede Richtung rund 3 Stunden über den Anzob-Pass, der auf etwa 2.700 Metern liegt; der Pass ist in der Regel von Spätfrühling bis Frühherbst geöffnet.",
+        "fr": "Le trajet est d'environ 130 km et prend environ 3 heures chaque sens par le col d'Anzob, qui se situe à environ 2 700 mètres ; le col est généralement ouvert de la fin du printemps au début de l'automne.",
+        "ja": "約130 kmのドライブで、アンゾブ峠（標高約2,700 m）を越えて片道約3時間かかります。峠は通常、晩春から初秋まで開通しています。",
+        "es": "El trayecto es de unos 130 km y dura aproximadamente 3 horas en cada sentido a través del paso de Anzob, que se sitúa a unos 2.700 metros; el paso suele estar abierto de finales de primavera a principios de otoño."
+      }
+    },
+    {
+      "q": {
+        "en": "Can you visit Hissar Fortress as a half-day trip from Dushanbe?",
+        "de": "Kann man die Hissar-Festung als Halbtagesausflug von Duschanbe aus besuchen?",
+        "fr": "Peut-on visiter la forteresse d'Hissar lors d'une demi-journée depuis Douchanbé ?",
+        "ja": "ヒッサル要塞はドゥシャンベから半日旅行で訪れられますか？",
+        "es": "¿Se puede visitar la Fortaleza de Hissar como excursión de medio día desde Dushanbe?"
+      },
+      "a": {
+        "en": "Yes, Hissar Fortress is 30 km west of Dushanbe, about a 45-minute drive each way, making it an easy half-day excursion that fits into a 2-day Dushanbe plan.",
+        "de": "Ja, die Hissar-Festung liegt 30 km westlich von Duschanbe, etwa 45 Minuten Fahrt in jede Richtung, und ist somit ein unkomplizierter Halbtagesausflug, der sich gut in einen 2-tägigen Aufenthalt in Duschanbe einfügt.",
+        "fr": "Oui, la forteresse d'Hissar se trouve à 30 km à l'ouest de Douchanbé, à environ 45 minutes de route chaque sens, ce qui en fait une excursion d'une demi-journée facile qui s'intègre dans un séjour de 2 jours à Douchanbé.",
+        "ja": "はい。ドゥシャンベから西へ30 km、片道約45分の距離にあり、2日間のドゥシャンベ滞在プランにも組み込みやすい半日観光です。",
+        "es": "Sí, la Fortaleza de Hissar está a 30 km al oeste de Dushanbe, a unos 45 minutos en cada sentido, lo que la convierte en una excursión sencilla de medio día que encaja en un plan de 2 días en Dushanbe."
+      }
+    },
+    {
+      "q": {
+        "en": "Which Sunday Atlas tour includes Dushanbe and Iskanderkul Lake?",
+        "de": "Welche Sunday Atlas Tour umfasst Duschanbe und den Iskanderkul-See?",
+        "fr": "Quel circuit Sunday Atlas Travel inclut Douchanbé et le lac Iskanderkul ?",
+        "ja": "ドゥシャンベとイスカンダークル湖を含むサンデー・アトラス・トラベルのツアーはどれですか？",
+        "es": "¿Qué tour de Sunday Atlas Travel incluye Dushanbe y el lago Iskanderkul?"
+      },
+      "a": {
+        "en": "The Long Road Through the 5 Stans (22 days) includes a full day in Dushanbe and a day trip to Iskanderkul Lake on Day 11 before continuing to Penjikent and the Uzbek border.",
+        "de": "Die Tour The Long Road Through the 5 Stans (22 Tage) beinhaltet einen ganzen Tag in Duschanbe und einen Tagesausflug zum Iskanderkul-See am Tag 11, bevor die Reise weiter nach Penjikent und zur usbekischen Grenze führt.",
+        "fr": "Le circuit La Longue Route à travers les 5 Stan (22 jours) inclut une journée complète à Douchanbé et une excursion d'une journée au lac Iskanderkul le jour 11 avant de continuer vers Penjikent et la frontière ouzbèke.",
+        "ja": "「ザ・ロング・ロード・スルー・ザ・5・スタンズ（22日間）」には、ドゥシャンベでの丸1日と、11日目のイスカンダークル湖日帰り旅行が含まれており、その後ペンジケントとウズベキスタン国境へと向かいます。",
+        "es": "El tour The Long Road Through the 5 Stans (22 días) incluye un día completo en Dushanbe y una excursión de un día al lago Iskanderkul el Día 11 antes de continuar hacia Penjikent y la frontera uzbeka."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "2 Days in Dushanbe: Hissar Fortress (2027)",
+      "meta_description": "2 days in Dushanbe: day-by-day plan with drive times, overnight stays, and the matching 22-day Five Stans tour. See the day-by-day plan. Plan your route.",
+      "focus_keyword": "2 days in dushanbe",
+      "keywords": [
+        "2 days in dushanbe",
+        "dushanbe itinerary",
+        "how many days in dushanbe",
+        "dushanbe to iskanderkul drive time",
+        "hissar fortress tajikistan",
+        "dushanbe national museum",
+        "tajikistan 5 stans tour",
+        "dushanbe day trips"
+      ]
+    },
+    "de": {
+      "seo_title": "2 Tage in Duschanbe: Hissar-Festung (2027)",
+      "meta_description": "2 Tage in Duschanbe: Tagesplan mit Fahrzeiten, Übernachtungen und der passenden 22-tägigen Fünf-Stans-Rundreise. Den Tagesplan einsehen. Ihre Route planen.",
+      "focus_keyword": "2 tage in dushanbe",
+      "keywords": [
+        "2 tage in dushanbe",
+        "dushanbe itinerary",
+        "how many days in dushanbe",
+        "dushanbe to iskanderkul drive time",
+        "hissar fortress tajikistan",
+        "dushanbe national museum",
+        "tajikistan 5 stans tour",
+        "dushanbe day trips"
+      ]
+    },
+    "fr": {
+      "seo_title": "2 jours à Douchanbé : la forteresse d'Hissar (2027)",
+      "meta_description": "2 jours à Douchanbé : programme jour après jour avec temps de trajet, nuitées et circuit de 22 jours à travers les 5 Stans associé. Consultez le programme jour après jour. Planifiez votre itinéraire.",
+      "focus_keyword": "2 jours à douchanbé",
+      "keywords": [
+        "2 jours à douchanbé",
+        "itinéraire douchanbé",
+        "combien de jours à douchanbé",
+        "temps de trajet douchanbé iskanderkul",
+        "forteresse d'hissar tadjikistan",
+        "musée national douchanbé",
+        "circuit 5 stans tadjikistan",
+        "excursions d'une journée douchanbé"
+      ]
+    },
+    "ja": {
+      "seo_title": "ドゥシャンベ2日間：ヒッサル要塞（2027年）",
+      "meta_description": "2日間のドゥシャンベ：移動時間、宿泊先、そして22日間のファイブスタンズツアーに合わせた日ごとのプラン。日ごとのプランを見る。ルートを計画する。",
+      "focus_keyword": "ドゥシャンベ2日間",
+      "keywords": [
+        "ドゥシャンベ2日間",
+        "ドゥシャンベ 旅程",
+        "ドゥシャンベで何日過ごすべきか",
+        "ドゥシャンベからイスカンダークルまでのドライブ時間",
+        "ヒッサル要塞 タジキスタン",
+        "ドゥシャンベ国立博物館",
+        "タジキスタン 5 スタン ツアー",
+        "ドゥシャンベ 日帰りツアー"
+      ]
+    },
+    "es": {
+      "seo_title": "2 días en Dusambé: Fortaleza de Hissar (2027)",
+      "meta_description": "2 días en Dushanbe: plan día a día con tiempos de traslado, alojamientos y el circuito de 22 días Five Stans correspondiente. Consulta el plan día a día. Planifica tu ruta.",
+      "focus_keyword": "2 días en dushanbe",
+      "keywords": [
+        "2 días en dushanbe",
+        "itinerario por dushanbe",
+        "cuántos días en dushanbe",
+        "tiempo de traslado de dushanbe a iskanderkul",
+        "fortaleza de Hisor Tayikistán",
+        "Museo Nacional de Dushanbe",
+        "tour de los 5 países de Asia Central Tayikistán",
+        "excursiones de un día desde Dushanbe"
+      ]
+    }
+  },
+  "contentHash": "0da20f43dbb26e50"
+}

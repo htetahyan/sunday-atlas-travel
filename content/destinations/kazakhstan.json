@@ -1,0 +1,435 @@
+{
+  "slug": "kazakhstan",
+  "name": {
+    "en": "Kazakhstan",
+    "de": "Kasachstan",
+    "fr": "Kazakhstan",
+    "ja": "カザフスタン",
+    "es": "Kazajistán",
+    "zh": "哈萨克斯坦"
+  },
+  "region": {
+    "en": "Central Asia",
+    "de": "Zentralasien",
+    "fr": "Asie centrale",
+    "ja": "中央アジア",
+    "es": "Asia central",
+    "zh": "中亚"
+  },
+  "summary": {
+    "en": "Almaty under the Tien Shan, Charyn Canyon and the Kolsay and Kaindy lakes: the mountain start of our Central Asia tours.",
+    "de": "Almaty unter dem Tian Shan, der Scharyn-Canyon und die Kolsai- und Kaindy-Seen: der Bergauftakt unserer Zentralasien-Reisen.",
+    "fr": "Un voyage au Kazakhstan avec Almaty au pied du Tian Shan, le canyon de Charyn et les lacs Kolsay et Kaindy : le départ montagnard de nos circuits en Asie centrale.",
+    "ja": "天山山脈のふもとのアルマトイ、チャリン渓谷、コルサイ湖とカインディ湖。中央アジアツアーの山の旅の始まりです。",
+    "es": "Almaty al pie del Tian Shan, el cañón de Charyn y los lagos Kolsay y Kaindy: el comienzo de montaña de nuestros viajes por Asia Central.",
+    "zh": "天山脚下的阿拉木图、恰林峡谷以及科尔赛湖和卡因迪湖：我们中亚之旅的山地起点。"
+  },
+  "bestSeasons": {
+    "en": [
+      "Late spring to early autumn is the usual season for the mountain lakes and Charyn Canyon",
+      "Winter suits the Shymbulak ski area, but the Kolsay and Kaindy roads are a summer trip"
+    ],
+    "de": [
+      "Spätfrühling bis Frühherbst ist die übliche Zeit für die Bergseen und den Scharyn-Canyon",
+      "Im Winter lockt das Skigebiet Schymbulak, doch die Straßen nach Kolsai und Kaindy sind eine Sommerreise"
+    ],
+    "fr": [
+      "De la fin du printemps au début de l’automne, la saison habituelle pour les lacs de montagne et le canyon de Charyn",
+      "L’hiver convient au domaine skiable de Chymboulak, mais les routes de Kolsay et Kaindy sont un voyage d’été"
+    ],
+    "ja": [
+      "山の湖とチャリン渓谷は、晩春から初秋が一般的なシーズンです",
+      "冬はシムブラクのスキー場が楽しめますが、コルサイ湖とカインディ湖への道は夏の旅です"
+    ],
+    "es": [
+      "De finales de primavera a principios de otoño, la temporada habitual para los lagos de montaña y el cañón de Charyn",
+      "El invierno es para la estación de esquí de Shymbulak, pero las carreteras a Kolsay y Kaindy son de verano"
+    ],
+    "zh": [
+      "从晚春到初秋是游览高山湖泊和恰林峡谷的常规季节",
+      "冬季适合希姆布拉克滑雪区，但科尔赛湖和卡因迪湖的道路是夏季行程"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Almaty: Green Bazaar, Panfilov Park, Zenkov Cathedral and Kok-Tobe Hill",
+      "Medeo and the Shymbulak cable car to 3,200 metres",
+      "Charyn Canyon and the Valley of Castles",
+      "The Kolsay Lakes and Kaindy Lake with its sunken forest",
+      "The Kegen land border into Kyrgyzstan"
+    ],
+    "de": [
+      "Almaty: Grüner Basar, Panfilow-Park, Zenkow-Kathedrale und Kok-Tobe",
+      "Medeo und die Gondel in Schymbulak auf 3.200 Meter",
+      "Der Scharyn-Canyon und das Tal der Burgen",
+      "Die Kolsai-Seen und der Kaindy-See mit versunkenem Wald",
+      "Der Grenzübergang Kegen nach Kirgistan"
+    ],
+    "fr": [
+      "Almaty : Bazar vert, parc Panfilov, cathédrale de Zenkov et Kok-Tobe",
+      "Medeo et la télécabine de Chymboulak jusqu’à 3 200 mètres",
+      "Le canyon de Charyn et la vallée des Châteaux",
+      "Les lacs de Kolsay et le lac Kaindy et sa forêt engloutie",
+      "La frontière terrestre de Kegen vers le Kirghizistan"
+    ],
+    "ja": [
+      "アルマトイ：緑のバザール、パンフィロフ公園、ゼンコフ大聖堂、コクトベ",
+      "メデウとシムブラクのゴンドラで標高3,200メートルへ",
+      "チャリン渓谷と「城の谷」",
+      "コルサイ湖と沈んだ森のカインディ湖",
+      "ケゲン国境からキルギスへ"
+    ],
+    "es": [
+      "Almaty: Bazar Verde, parque Panfilov, catedral de Zenkov y Kok-Tobe",
+      "Medeo y el telecabina de Shymbulak hasta 3.200 metros",
+      "El cañón de Charyn y el Valle de los Castillos",
+      "Los lagos Kolsay y el lago Kaindy con su bosque sumergido",
+      "La frontera terrestre de Kegen hacia Kirguistán"
+    ],
+    "zh": [
+      "阿拉木图：绿色集市、潘菲洛夫公园、赞科夫大教堂和可可托别山",
+      "梅代奥和乘坐希姆布拉克缆车至3,200米",
+      "恰林峡谷和城堡谷",
+      "科尔赛湖和卡因迪湖及其沉没森林",
+      "进入吉尔吉斯斯坦的凯肯陆路边境"
+    ]
+  },
+  "visaNote": {
+    "en": "Entry rules depend on your passport and can change, so please check the official government sources before you book. Our tours enter Kazakhstan by air at Almaty or by land at Kegen from Kyrgyzstan.",
+    "de": "Die Einreisebestimmungen hängen von Ihrem Pass ab und können sich ändern; bitte prüfen Sie vor der Buchung die offiziellen Quellen. Unsere Reisen kommen per Flug in Almaty oder auf dem Landweg bei Kegen aus Kirgistan nach Kasachstan.",
+    "fr": "Les conditions d’entrée dépendent de votre passeport et peuvent changer ; vérifiez les sources officielles avant de réserver. Nos circuits entrent au Kazakhstan par avion à Almaty ou par la route à Kegen depuis le Kirghizistan.",
+    "ja": "入国条件はお持ちのパスポートによって異なり、変更されることもあります。ご予約前に公式の情報をご確認ください。私たちのツアーは、空路でアルマトイ、またはキルギスから陸路でケゲンを通ってカザフスタンに入ります。",
+    "es": "Los requisitos de entrada dependen de su pasaporte y pueden cambiar; consulte las fuentes oficiales antes de reservar. Nuestros viajes entran en Kazajistán en avión por Almaty o por tierra en Kegen desde Kirguistán.",
+    "zh": "入境规则取决于您的护照，且可能会发生变化，因此请在预订前查阅官方政府来源。我们的旅游团乘飞机抵达阿拉木图，或从吉尔吉斯斯坦经凯肯陆路进入哈萨克斯坦。"
+  },
+  "heroGradient": [
+    "#B5562E",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400023/sunday-atlas/landscape-of-the-charyn-canyon-in-kazakhstan-15792410_a6jkdl.jpg",
+    "width": 1920,
+    "height": 2880,
+    "alt": {
+      "en": "Charyn Canyon in Kazakhstan, red sandstone cliffs and the canyon floor under a blue sky",
+      "de": "Scharyn-Canyon in Kasachstan, rote Sandsteinfelsen unter blauem Himmel",
+      "fr": "Canyon de Charyn au Kazakhstan, falaises de grès rouge sous un ciel bleu",
+      "ja": "カザフスタンのチャリン渓谷、青空の下の赤い砂岩の崖",
+      "es": "Cañón de Charyn en Kazajistán, acantilados de arenisca roja bajo el cielo azul",
+      "zh": "哈萨克斯坦恰林峡谷，红色砂岩悬崖和蓝天下的峡谷底部"
+    }
+  },
+  "sample": false,
+  "published": true,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400023/sunday-atlas/landscape-of-the-charyn-canyon-in-kazakhstan-15792410_a6jkdl.jpg",
+        "width": 1920,
+        "height": 2880
+      },
+      "alt": {
+        "en": "Charyn Canyon in Kazakhstan, red sandstone cliffs and the canyon floor under a blue sky",
+        "de": "Scharyn-Canyon in Kasachstan, rote Sandsteinfelsen unter blauem Himmel",
+        "fr": "Canyon de Charyn au Kazakhstan, falaises de grès rouge sous un ciel bleu",
+        "ja": "カザフスタンのチャリン渓谷、青空の下の赤い砂岩の崖",
+        "es": "Cañón de Charyn en Kazajistán, acantilados de arenisca roja bajo el cielo azul",
+        "zh": "哈萨克斯坦恰林峡谷，红色砂岩悬崖和蓝天下的峡谷底部"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400034/sunday-atlas/dramatic-landscape-of-charyn-canyon-kazakhstan-37736458_rfjioj.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Charyn Canyon, Kazakhstan: eroded rock walls of the Valley of Castles",
+        "de": "Scharyn-Canyon, Kasachstan: erodierte Felswände im Tal der Burgen",
+        "fr": "Canyon de Charyn, Kazakhstan : parois érodées de la vallée des Châteaux",
+        "ja": "カザフスタン、チャリン渓谷「城の谷」の浸食された岩壁",
+        "es": "Cañón de Charyn, Kazajistán: paredes erosionadas del Valle de los Castillos",
+        "zh": "哈萨克斯坦恰林峡谷：城堡谷的侵蚀岩壁"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400038/sunday-atlas/scenic-view-of-kolsai-lake-in-almaty-kazakhstan-39859805_pxsiht.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Kolsay Lake in the Tien Shan near Almaty, Kazakhstan, with spruce forest on the slopes",
+        "de": "Kolsai-See im Tian Shan bei Almaty, Kasachstan, mit Fichtenwald",
+        "fr": "Lac Kolsay dans le Tian Shan près d’Almaty, Kazakhstan, et forêt d’épicéas",
+        "ja": "アルマトイ近郊、天山山脈のコルサイ湖とトウヒの森（カザフスタン）",
+        "es": "Lago Kolsay en el Tian Shan cerca de Almaty, Kazajistán, con bosque de abetos",
+        "zh": "哈萨克斯坦阿拉木图附近天山中的科尔赛湖，山坡上有云杉林"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400028/sunday-atlas/kolsay-lakes-national-park-in-kazakhstan-21624172_ne3h7z.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Kolsay Lakes National Park, Kazakhstan: mountain lake and forested shore",
+        "de": "Nationalpark Kolsai-Seen, Kasachstan: Bergsee und bewaldetes Ufer",
+        "fr": "Parc national des lacs de Kolsay, Kazakhstan : lac de montagne et rive boisée",
+        "ja": "カザフスタン、コルサイ湖国立公園の山の湖と森",
+        "es": "Parque nacional de los lagos Kolsay, Kazajistán: lago de montaña y orilla boscosa",
+        "zh": "哈萨克斯坦科尔赛湖国家公园：高山湖泊和林木茂密的湖岸"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400026/sunday-atlas/kaindy-lake-in-kazakhstan-19022147_nw4i6y.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": {
+        "en": "Kaindy Lake, Kazakhstan, turquoise water with the trunks of the sunken spruce forest",
+        "de": "Kaindy-See, Kasachstan, türkisfarbenes Wasser mit Stämmen des versunkenen Waldes",
+        "fr": "Lac Kaindy, Kazakhstan, eau turquoise et troncs de la forêt engloutie",
+        "ja": "カザフスタンのカインディ湖、ターコイズ色の水と沈んだ森の幹",
+        "es": "Lago Kaindy, Kazajistán, agua turquesa con los troncos del bosque sumergido",
+        "zh": "哈萨克斯坦卡因迪湖，碧绿的湖水与沉没云杉林的树干"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400026/sunday-atlas/bare-trees-in-lake-kaindy-in-kazakhstan-18516832_mxnckh.jpg",
+        "width": 1920,
+        "height": 1081
+      },
+      "alt": {
+        "en": "Bare spruce trunks rising from Lake Kaindy, Kazakhstan",
+        "de": "Kahle Fichtenstämme ragen aus dem Kaindy-See, Kasachstan",
+        "fr": "Troncs d’épicéas émergeant du lac Kaindy, Kazakhstan",
+        "ja": "カインディ湖から突き出たトウヒの幹（カザフスタン）",
+        "es": "Troncos de abeto que salen del lago Kaindy, Kazajistán",
+        "zh": "哈萨克斯坦卡因迪湖中露出水面的光秃云杉树干"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400030/sunday-atlas/scenic-view-of-almaty-city-with-mountains-28958897_i84zzk.jpg",
+        "width": 1920,
+        "height": 3411
+      },
+      "alt": {
+        "en": "Almaty city with the Tien Shan mountains behind, Kazakhstan",
+        "de": "Almaty mit dem Tian Shan im Hintergrund, Kasachstan",
+        "fr": "Almaty et les montagnes du Tian Shan, Kazakhstan",
+        "ja": "天山山脈を背にしたアルマトイの街（カザフスタン）",
+        "es": "Almaty con las montañas del Tian Shan detrás, Kazajistán",
+        "zh": "哈萨克斯坦阿拉木图城市，背景是天山山脉"
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Kazakhstan & Almaty Tours [2027] | 6 Day Trips & Tours From $104",
+      "meta_description": "6 private Kazakhstan & Almaty tours (From $104 USD): Charyn Canyon, Kolsai & Kaindy Lakes 2-day 4x4 trip, Assy Plateau glamping & Bogdanovich Glacier hike.",
+      "focus_keyword": "kazakhstan tours",
+      "keywords": [
+        "kazakhstan tours",
+        "almaty day trips",
+        "charyn canyon kolsai lakes tour",
+        "kaindy lake tour from almaty",
+        "assy plateau tour",
+        "bogdanovich glacier hike"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Kasachstan & Almaty Touren [2027] | 6 Reisen & Ausflüge ab $104",
+      "meta_description": "6 private Kasachstan-Rundreisen & Almaty-Tagestouren (ab $104 USD): Scharyn-Canyon, Kolsai- & Kaindy-See per 4x4, Assy-Plateau & Bogdanowitsch-Gletscher.",
+      "focus_keyword": "kasachstan reisen",
+      "keywords": [
+        "kasachstan reisen",
+        "almaty tagestouren",
+        "scharyn canyon kolsai seen tour",
+        "assy plateau tour",
+        "kasachstan rundreise"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuits Kazakhstan & Excursions Almaty [2027] | 6 Tours dès $104",
+      "meta_description": "6 circuits privés et excursions depuis Almaty (dès $104 USD) : canyon de Charyn, lacs Kolsai et Kaindy en 4x4, plateau d’Assy et glacier Bogdanovitch.",
+      "focus_keyword": "circuit kazakhstan",
+      "keywords": [
+        "circuit kazakhstan",
+        "excursion almaty",
+        "canyon de charyn lac kolsai",
+        "lac kaindy tour",
+        "voyage kazakhstan"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "カザフスタン＆アルマトイ現地ツアー [2027] | 全6コース $104〜",
+      "meta_description": "アルマトイ発のプライベート日帰り＆周遊ツアー全6コース（$104〜）：チャリン渓谷・コルサイ湖・カインディ湖1泊2日、アッシ高原、ボグダノヴィッチ氷河ハイキング。",
+      "focus_keyword": "カザフスタン ツアー",
+      "keywords": [
+        "カザフスタン ツアー",
+        "アルマトイ 日帰りツアー",
+        "チャリン渓谷 コルサイ湖 ツアー",
+        "カインディ湖 行き方",
+        "アルマトイ 観光"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tours en Kazajistán y Excursiones Almaty [2027] | 6 Rutas Desde $104",
+      "meta_description": "6 tours privados en Kazajistán y excursiones desde Almaty (desde $104 USD): cañón de Charyn, lagos Kolsai y Kaindy en 4x4, meseta de Assy y glaciar Bogdanovich.",
+      "focus_keyword": "tours kazajistán",
+      "keywords": [
+        "tours kazajistán",
+        "excursiones desde almaty",
+        "cañón de charyn lagos kolsai",
+        "lago kaindy tour",
+        "viajes a kazajistán"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "哈萨克斯坦&阿拉木图旅游 [2027] | 6日游及旅游线路 起价 $104",
+      "meta_description": "6条私人哈萨克斯坦&阿拉木图旅游线路（起价 $104 美元）：恰林峡谷、科尔赛与卡因迪湖2天4x4之旅，阿西高原露营和博格达诺维奇冰川徒步。",
+      "focus_keyword": "哈萨克斯坦旅游",
+      "keywords": [
+        "哈萨克斯坦旅游",
+        "阿拉木图旅游",
+        "哈萨克斯坦6日游",
+        "阿拉木图私人旅游",
+        "恰林峡谷旅游",
+        "卡尔赛湖坎迪湖旅游",
+        "阿西高原露营",
+        "博格达诺维奇冰川徒步",
+        "哈萨克斯坦旅游团",
+        "阿拉木图四驱车游"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "intro": {
+    "en": "A Kazakhstan tour with us sees the south-east corner of the country, where the Tien Shan rises above Almaty. In the city we visit the Green Bazaar, Panfilov Park and the wooden Zenkov Cathedral, ride up Kok-Tobe Hill and take the cable car at Shymbulak to 3,200 metres. East of Almaty, Charyn Canyon runs for about 150 km with cliffs up to 300 metres, and the Kolsay Lakes and Kaindy Lake, with its sunken spruce forest from the 1911 earthquake, lie in the northern Tien Shan. From there the road crosses at Kegen into Kyrgyzstan.",
+    "de": "Unsere Kasachstan Rundreise führt in den Südosten des Landes, wo der Tian Shan über Almaty aufragt. In der Stadt besuchen wir den Grünen Basar, den Panfilow-Park und die hölzerne Zenkow-Kathedrale, fahren auf den Kok-Tobe-Hügel und mit der Gondel in Schymbulak auf 3.200 Meter. Östlich von Almaty erstreckt sich der Scharyn-Canyon über rund 150 km mit bis zu 300 Meter hohen Wänden, und im nördlichen Tian Shan liegen die Kolsai-Seen und der Kaindy-See mit seinem versunkenen Fichtenwald aus dem Erdbeben von 1911. Von dort führt die Straße bei Kegen nach Kirgistan.",
+    "fr": "Un voyage au Kazakhstan avec nous découvre le sud-est du pays, où le Tian Shan domine Almaty. En ville, nous visitons le Bazar vert, le parc Panfilov et la cathédrale en bois de Zenkov, montons à Kok-Tobe et prenons la télécabine de Chymboulak jusqu’à 3 200 mètres. À l’est d’Almaty, le canyon de Charyn s’étire sur environ 150 km avec des falaises jusqu’à 300 mètres, et dans le Tian Shan du Nord se trouvent les lacs de Kolsay et le lac Kaindy, avec sa forêt engloutie depuis le séisme de 1911. De là, la route rejoint le Kirghizistan à Kegen.",
+    "ja": "私たちのカザフスタンツアーで訪れるのは、天山山脈がアルマトイの背後にそびえる国の南東部です。市内では緑のバザール、パンフィロフ公園と木造のゼンコフ大聖堂を訪ね、コクトベの丘に上り、シムブラクのゴンドラで標高3,200メートルへ。アルマトイの東には全長約150km、高さ最大300メートルの断崖が続くチャリン渓谷があり、天山山脈北部には、コルサイ湖と、1911年の地震で沈んだトウヒの森が残るカインディ湖があります。そこからケゲンでキルギスへ向かいます。",
+    "es": "Nuestro viaje a Kazajistán recorre el sureste del país, donde el Tian Shan se alza sobre Almaty. En la ciudad visitamos el Bazar Verde, el parque Panfilov y la catedral de madera de Zenkov, subimos a Kok-Tobe y tomamos el telecabina de Shymbulak hasta 3.200 metros. Al este de Almaty, el cañón de Charyn se extiende unos 150 km con acantilados de hasta 300 metros, y en el Tian Shan del norte están los lagos Kolsay y el lago Kaindy, con su bosque sumergido desde el terremoto de 1911. Desde allí la carretera cruza a Kirguistán por Kegen.",
+    "zh": "与我们一起游览哈萨克斯坦，将前往该国东南角，那里的天山高耸于阿拉木图之上。在城市中，我们将参观绿色集市、潘菲洛夫公园和木质的赞科夫大教堂，乘坐可可托别山缆车，并在希姆布拉克乘坐缆车至3,200米。阿拉木图以东，恰林峡谷绵延约150公里，悬崖高达300米，而科尔赛湖和卡因迪湖（拥有1911年地震留下的沉没云杉林）位于北天山。从那里，道路穿过凯肯进入吉尔吉斯斯坦。"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "Which Kazakhstan sights do the tours include?",
+        "de": "Welche Orte in Kasachstan sind dabei?",
+        "fr": "Quels sites du Kazakhstan les circuits incluent-ils ?",
+        "ja": "どのカザフスタンの見どころを訪れますか？",
+        "es": "¿Qué lugares de Kazajistán incluyen los viajes?",
+        "zh": "旅游团包含哪些哈萨克斯坦景点？"
+      },
+      "a": {
+        "en": "Almaty and its mountains (Kok-Tobe, Medeo and Shymbulak), Charyn Canyon, the Kolsay Lakes and Kaindy Lake. The 3 Stans Discovery and the Four Stans Odyssey start here; the Long Road Through the 5 Stans arrives from Karakol.",
+        "de": "Almaty und seine Berge (Kok-Tobe, Medeo und Schymbulak), der Scharyn-Canyon, die Kolsai-Seen und der Kaindy-See. 3 Stans Discovery und Four Stans Odyssey beginnen hier; Der lange Weg durch die 5 Stans kommt aus Karakol.",
+        "fr": "Almaty et ses montagnes (Kok-Tobe, Medeo et Chymboulak), le canyon de Charyn, les lacs de Kolsay et le lac Kaindy. 3 Stans Discovery et Four Stans Odyssey commencent ici ; La longue route à travers les 5 Stans arrive de Karakol.",
+        "ja": "アルマトイと周辺の山（コクトベ、メデウ、シムブラク）、チャリン渓谷、コルサイ湖、カインディ湖です。3スタン・ディスカバリーとフォー・スタンズ・オデッセイはここから出発し、「5つのスタンを巡る長い道」はカラコルから入ります。",
+        "es": "Almaty y sus montañas (Kok-Tobe, Medeo y Shymbulak), el cañón de Charyn, los lagos Kolsay y el lago Kaindy. 3 Stans Discovery y Four Stans Odyssey empiezan aquí; El largo camino por los 5 Stans llega desde Karakol.",
+        "zh": "阿拉木图及其山区（可可托别山、梅代奥和希姆布拉克）、恰林峡谷、科尔赛湖和卡因迪湖。3 Stans Discovery 和 Four Stans Odyssey 从这里出发；Long Road Through the 5 Stans 从卡拉科尔抵达。"
+      }
+    },
+    {
+      "q": {
+        "en": "How long is the drive from Almaty to Charyn and Kolsay?",
+        "de": "Wie lang ist die Fahrt von Almaty zum Scharyn und nach Kolsai?",
+        "fr": "Combien de route d’Almaty à Charyn et Kolsay ?",
+        "ja": "アルマトイからチャリン渓谷、コルサイ湖まではどのくらいですか？",
+        "es": "¿Cuántos kilómetros hay de Almaty a Charyn y Kolsay?",
+        "zh": "从阿拉木图到恰林峡谷和科尔赛湖的车程有多长？"
+      },
+      "a": {
+        "en": "On the 3 Stans and Four Stans tours the day from Almaty to Charyn Canyon and on to the Kolsay Lakes is 440 km by road, with a walk of about 40 minutes down to the Charyn River.",
+        "de": "Auf den Reisen 3 Stans und Four Stans sind es von Almaty über den Scharyn-Canyon zu den Kolsai-Seen 440 km auf der Straße, mit einem etwa 40-minütigen Abstieg zum Fluss Scharyn.",
+        "fr": "Sur les circuits 3 Stans et Four Stans, la journée d’Almaty au canyon de Charyn puis aux lacs de Kolsay compte 440 km de route, avec une descente à pied d’environ 40 minutes jusqu’à la rivière Charyn.",
+        "ja": "3スタンとフォー・スタンズのツアーでは、アルマトイからチャリン渓谷を経てコルサイ湖までの1日が陸路440kmで、チャリン川までは約40分歩いて下ります。",
+        "es": "En los viajes 3 Stans y Four Stans, el día de Almaty al cañón de Charyn y a los lagos Kolsay suma 440 km por carretera, con una bajada a pie de unos 40 minutos hasta el río Charyn.",
+        "zh": "在3 Stans 和 Four Stans 之旅中，从阿拉木图到恰林峡谷再前往科尔赛湖的一天行程为440公里公路，并需步行约40分钟下到恰林河。"
+      }
+    },
+    {
+      "q": {
+        "en": "Where do we stay in Kazakhstan?",
+        "de": "Wo übernachten wir in Kasachstan?",
+        "fr": "Où dort-on au Kazakhstan ?",
+        "ja": "カザフスタンではどこに泊まりますか？",
+        "es": "¿Dónde nos alojamos en Kazajistán?",
+        "zh": "我们在哈萨克斯坦住哪里？"
+      },
+      "a": {
+        "en": "In Almaty at Grand Sapphire 3* or Kazzhol Park 4*, or similar. At the Kolsay Lakes the night is at a guesthouse (3* option) or the Kolsay Prestige Hotel (4* option).",
+        "de": "In Almaty im Grand Sapphire 3* oder Kazzhol Park 4* oder ähnlich. An den Kolsai-Seen in einem Gästehaus (3*-Variante) oder im Kolsay Prestige Hotel (4*-Variante).",
+        "fr": "À Almaty au Grand Sapphire 3* ou au Kazzhol Park 4*, ou similaire. Aux lacs de Kolsay, en maison d’hôtes (option 3*) ou au Kolsay Prestige Hotel (option 4*).",
+        "ja": "アルマトイではグランド・サファイア3つ星またはカズジョル・パーク4つ星、または同等クラス。コルサイ湖ではゲストハウス（3つ星プラン）またはコルサイ・プレステージ・ホテル（4つ星プラン）です。",
+        "es": "En Almaty, en el Grand Sapphire 3* o el Kazzhol Park 4*, o similar. En los lagos Kolsay, en una casa de huéspedes (opción 3*) o en el Kolsay Prestige Hotel (opción 4*).",
+        "zh": "在阿拉木图入住Grand Sapphire 3*或Kazzhol Park 4*，或类似酒店。在科尔赛湖，夜宿民宿（3*选项）或科尔赛尊贵酒店（4*选项）。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Kazakhstan tours: Almaty, Charyn Canyon and the Kolsay Lakes",
+      "de": "Kasachstan Rundreise: Almaty, Scharyn-Canyon und Kolsai-Seen",
+      "fr": "Voyage au Kazakhstan : Almaty, canyon de Charyn et lacs de Kolsay",
+      "ja": "カザフスタン ツアー：アルマトイ、チャリン渓谷、コルサイ湖",
+      "es": "Viaje a Kazajistán: Almaty, el cañón de Charyn y los lagos Kolsay",
+      "zh": "哈萨克斯坦旅游：阿拉木图、恰林峡谷和科尔赛湖"
+    },
+    "seasons": {
+      "en": "Best time to visit Kazakhstan",
+      "de": "Kasachstan beste Reisezeit",
+      "fr": "Quand partir au Kazakhstan",
+      "ja": "カザフスタン旅行のベストシーズン",
+      "es": "Viaje a Kazajistán: mejor época para viajar",
+      "zh": "最佳哈萨克斯坦旅游时间"
+    },
+    "highlights": {
+      "en": "Kazakhstan tourist attractions on our tours",
+      "de": "Kasachstan Reiseroute: Highlights unserer Reisen",
+      "fr": "Le Kazakhstan de nos circuits : canyon de Charyn et autres temps forts",
+      "ja": "ツアーで訪れるカザフスタンの見どころ",
+      "es": "Lo mejor de Kazajistán en nuestros viajes",
+      "zh": "我们旅游线路上的哈萨克斯坦旅游景点"
+    },
+    "faq": {
+      "en": "Kazakhstan travel: common questions",
+      "de": "Kasachstan Reise: häufige Fragen",
+      "fr": "Voyage au Kazakhstan : questions fréquentes",
+      "ja": "カザフスタン旅行：よくある質問",
+      "es": "Viaje a Kazajistán: preguntas frecuentes",
+      "zh": "哈萨克斯坦旅游：常见问题"
+    },
+    "packages": {
+      "en": "Kazakhstan tours",
+      "de": "Kasachstan Rundreisen",
+      "fr": "Circuit au Kazakhstan : nos voyages",
+      "ja": "カザフスタンを巡るツアー",
+      "es": "Viajes a Kazajistán",
+      "zh": "哈萨克斯坦旅游线路"
+    }
+  }
+}

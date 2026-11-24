@@ -1,0 +1,847 @@
+{
+  "_status": "source",
+  "meta": {
+    "siteName": "Sunday Atlas Travel",
+    "titleSuffix": "Sunday Atlas Travel",
+    "defaultTitle": "Sunday Atlas Travel",
+    "defaultDescription": "Sunday Atlas Travel plans tour packages and private trips worldwide. We quote each trip ourselves and stay with you until it is confirmed."
+  },
+  "nav": {
+    "destinations": "Destinations",
+    "packages": "Packages",
+    "blog": "Blog",
+    "howItWorks": "How it works",
+    "about": "About",
+    "faq": "FAQ",
+    "planTrip": "Plan my trip",
+    "home": "Home",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skipToContent": "Skip to content",
+    "mainNav": "Main",
+    "mobileNav": "Mobile"
+  },
+  "languages": {
+    "label": "Language",
+    "en": "English",
+    "de": "German",
+    "fr": "French",
+    "ja": "Japanese",
+    "es": "Spanish",
+    "zh": "中文"
+  },
+  "contentNote": "Journey descriptions on this page are still in English.",
+  "footer": {
+    "blurb": "Sunday Atlas Travel is a travel company for tour packages and private trips worldwide. We plan your trip and arrange the hotels, transport and guides, and our team stays with you from the first question to a confirmed trip.",
+    "explore": "Explore",
+    "company": "Company",
+    "rights": "© {year} Sunday Atlas Travel"
+  },
+  "cta": {
+    "bandTitle": "Tell us where you would like to go",
+    "bandBody": "Send an inquiry, or ask the chat assistant for a quick answer. Our team replies by email with questions, then prepares a personal quote.",
+    "bandAction": "Start an inquiry",
+    "viewDestination": "View destination",
+    "viewPackage": "View package",
+    "browsePackages": "Browse packages",
+    "browseDestinations": "Browse destinations",
+    "viewGuide": "Read post",
+    "browseGuides": "Browse all blog posts",
+    "readFaq": "Read the FAQ",
+    "readHow": "See the full path",
+    "inquire": "Request a quote",
+    "backHome": "Back to the homepage"
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb"
+  },
+  "common": {
+    "pageFaqTitle": "Common questions"
+  },
+  "empty": {
+    "destinations": "No published destinations yet. When a country is ready, it will appear here.",
+    "packages": "No published packages yet. When an itinerary is ready, it will appear here.",
+    "countryPackages": "No published package for this country yet.",
+    "partial": {
+      "emptyDestinations": "Chinese pages for our destinations are being added one at a time. Tell us where you would like to go and we will prepare a personal quote.",
+      "emptyPackages": "Chinese pages for our tours are being added one at a time. Tell us where you would like to go and we will prepare a personal quote.",
+      "moreDestinations": "More destinations are being added in this language.",
+      "morePackages": "More tours are being added in this language.",
+      "allInEnglishDestinations": "See all destinations in English",
+      "allInEnglishPackages": "See all tours in English"
+    }
+  },
+  "home": {
+    "meta": {
+      "title": "Central Asia, Caucasus & China Tour Packages (2027) | From $104",
+      "description": "20 private Central Asia, Silk Road, Caucasus & Harbin winter tour packages (From $104 USD). 3★/4★ hotels, bullet trains & private 4x4. Personal quote by email."
+    },
+    "eyebrow": "Worldwide travel",
+    "title": "Private tours & tour packages we plan with you",
+    "subtitle": "Sunday Atlas Travel plans private tours and tour packages worldwide. We prepare the plan, write it in our own words, and send a quote you can read before you decide.",
+    "heroImageAlt": "Aerial view of a snow-capped mountain range and forest in sunlight",
+    "secondaryCta": "See the Central Asia tours",
+    "why": {
+      "eyebrow": "Why Sunday Atlas",
+      "title": "Private tours & travel packages for you, from one team",
+      "lede": "We do not run a booking engine. Our team plans the trip, writes in our own words, and sends a quote you can read in your own time.",
+      "cards": [
+        {
+          "title": "Planned by our team",
+          "body": "We design the route and arrange the trip. You write to one team, and that team stays with you until the plan is confirmed."
+        },
+        {
+          "title": "Written in our own words",
+          "body": "Every itinerary on this site is written by Sunday Atlas, day by day, with hotels, meals and prices for the season. The quote you receive confirms the details for your dates and group."
+        },
+        {
+          "title": "One point of contact",
+          "body": "You do not have to manage a chain of inboxes. Ask the chat assistant for a quick answer, or use the form — our team replies by email."
+        },
+        {
+          "title": "A quote you can sit with",
+          "body": "There is no basket and no automated checkout. We prepare your personal quote for your dates and group, and you review it at your own pace."
+        }
+      ]
+    },
+    "destinations": {
+      "eyebrow": "Featured destinations",
+      "title": "Private tours & travel packages worldwide: places to ask us about",
+      "lede": "Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan and Turkmenistan: the five countries of Central Asia, each with the places our tours visit."
+    },
+    "packages": {
+      "eyebrow": "Featured packages",
+      "title": "Private tour packages & itineraries, in our own words",
+      "lede": "Three Central Asia tours of 14, 18 and 22 days, each with a day-by-day itinerary, hotels by city and season 2027 prices by group size."
+    },
+    "blog": {
+      "eyebrow": "Travel blog & field notes",
+      "title": "Destination articles & Top Places routes",
+      "lede": "Practical planning articles, seasonal advice, and Top 4 Places itineraries across Central Asia, the Caucasus, and winter China — each linked directly to the private tours that follow the route."
+    },
+    "how": {
+      "eyebrow": "How it works",
+      "title": "From a note to a confirmed plan",
+      "lede": "Four clear steps. No countdown clock, and no seat map."
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Before you write to us",
+      "lede": "A few answers about inquiries, quotes and our Central Asia tours."
+    },
+    "stats": {
+      "label": "Sunday Atlas in numbers",
+      "packages": "Tour packages",
+      "countries": "Countries",
+      "guides": "Blog posts",
+      "languages": "Languages"
+    },
+    "latest": {
+      "label": "Fresh on the blog",
+      "newBadge": "New",
+      "viewAll": "All blog posts",
+      "newThisWeek": "{count} new blog posts this week"
+    }
+  },
+  "destinations": {
+    "meta": {
+      "title": "Central Asia, Caucasus & China Destinations (2027 Tours From $104)",
+      "description": "Compare 8 destinations across Uzbekistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Armenia, Azerbaijan & Harbin China with 20 private tours from $104."
+    },
+    "eyebrow": "Destinations",
+    "title": "Central Asia tours and destinations",
+    "lede": "Central Asia tours, country by country: what we see in each of the five Stans, the usual season, and which tour goes there.",
+    "detail": {
+      "metaTitle": "{name} travel guide",
+      "emptySummary": "A destination Sunday Atlas Travel can plan. Write to us for a personal quote."
+    },
+    "seasons": "Best seasons to ask about",
+    "highlights": "Highlights",
+    "visaTitle": "Visas and entry",
+    "faqTitle": "Questions about this place",
+    "packagesTitle": "Tours that visit this country",
+    "inquireTitle": "Ask about {name}",
+    "inquireBody": "Tell us how you like to travel and roughly when. We reply by email with questions, then prepare a personal quote."
+  },
+  "packages": {
+    "meta": {
+      "title": "20 Central Asia, Caucasus & China Tour Packages (2027) | From $104",
+      "description": "All 20 private Silk Road multi-country tours (14–22 days from $2,643) & 1-day/2-day trips in Almaty, Samarkand, Darvaza, Yerevan, Baku & Harbin (from $104)."
+    },
+    "eyebrow": "Packages",
+    "title": "Central Asia tour packages",
+    "lede": "Three Silk Road tour packages through the Stans and three short private trips from Almaty, written in our own words, with the full itinerary, what is included and season prices on each page.",
+    "detail": {
+      "metaTitle": "{title}",
+      "emptySummary": "A tour package from Sunday Atlas Travel, with a personal quote for your dates.",
+      "fallbackTitle": "{title} tour"
+    },
+    "priceOnRequest": "Price on request",
+    "duration": "{days} days",
+    "durationNights": "{days} days / {nights} nights",
+    "durationOneNight": "{days} days / 1 night",
+    "durationDay": "{days} day",
+    "season": "Season",
+    "groupMax": "Private tour, up to {n} travellers",
+    "onRequest": "On request",
+    "addOnsTitle": "Add a short Almaty trip",
+    "addOnsLede": "Optional private trips from Almaty that you can add before or after this tour. We plan them with you and include them in your quote.",
+    "relatedTitle": "More tours in this region",
+    "relatedLede": "Combine this trip with another private Almaty route or a longer Silk Road journey through Central Asia.",
+    "dayLabel": "Day {day}",
+    "meals": "Meals",
+    "facts": "At a glance",
+    "destination": "Destination",
+    "countries": "Countries",
+    "style": "Style",
+    "length": "Length",
+    "price": "Price",
+    "itinerary": "Day by day",
+    "included": "Included",
+    "notIncluded": "Not included",
+    "pricesTitle": "Prices",
+    "hotelsTitle": "Hotels by city",
+    "vehiclesTitle": "Vehicles by group size",
+    "singleSupplement": "Single supplement",
+    "hotelStandard": "3* hotels",
+    "hotelSuperior": "4* hotels",
+    "city": "City",
+    "groupSize": "Group size",
+    "vehicle": "Vehicle",
+    "hotelClass": "Hotels",
+    "tierTourType": "Tour type",
+    "tierOption": "Option",
+    "faqTitle": "Questions about this tour",
+    "inquireTitle": "Ask for this quote",
+    "inquireBody": "Tell us your dates and group size. We reply by email and send a personal quote customized for your trip.",
+    "inquireNote": "Asking about a tour does not reserve a place; the quote confirms availability.",
+    "dayTourBadge": "Day tour",
+    "filterRegionLabel": "Region",
+    "filterAllRegions": "All regions",
+    "filterTypeLabel": "Tour type",
+    "filterAllTypes": "All tours",
+    "filterMultiDay": "Multi-day tours",
+    "filterDayTours": "Day tours",
+    "filterClear": "Clear filters",
+    "filterShowing": "Showing {shown} of {total} tours",
+    "filterEmpty": "No tours match the selected filters.",
+    "paginationLabel": "Packages pagination",
+    "paginationPrev": "Previous",
+    "paginationNext": "Next",
+    "paginationPage": "Page {current} of {total}"
+  },
+  "blog": {
+    "meta": {
+      "title": "Central Asia, Caucasus, Poland & Harbin Travel Blog (2027)",
+      "description": "2027 travel blog: itineraries, best time to visit, things to do and day trips in Uzbekistan, Kazakhstan, Kyrgyzstan, the Caucasus, Poland and Harbin."
+    },
+    "eyebrow": "Travel Blog & Field Notes",
+    "title": "Destination articles, itineraries & routes",
+    "lede": "In-depth route planning, best seasons to visit, Top 4 landmark rankings, and practical logistics — written by Sunday Atlas Travel and linked directly to the private tours we operate.",
+    "searchPlaceholder": "Search posts by country, city, landmark, or keyword…",
+    "searchLabel": "Search the travel blog",
+    "filterDestinationLabel": "Destination",
+    "filterAllDestinations": "All destinations",
+    "filterCategoryLabel": "Format",
+    "filterAllCategories": "All formats",
+    "categoryTopPlaces": "Top Places & Lists",
+    "categoryDestinationGuide": "Destinations",
+    "categoryDayTrips": "Day Trips",
+    "categorySeasonal": "Seasonal & Winter",
+    "filterShowing": "Showing {shown} of {total} posts",
+    "filterEmpty": "No blog posts match your search or filters.",
+    "filterClear": "Reset filters",
+    "loadMore": "Show more posts ({remaining} remaining)",
+    "featuredBadge": "Featured post",
+    "readingTime": "{minutes} min read",
+    "publishedOn": "Updated {date}",
+    "firstPublished": "Published {date}",
+    "tocTitle": "In this article",
+    "inlineTourBadge": "Book This Route as a Private Tour",
+    "inlineTourPrivate": "Private tour with guide",
+    "viewItinerary": "View Full Itinerary",
+    "requestCustomQuote": "Request Custom Quote",
+    "sidebarToursTitle": "Private tours from this article",
+    "sidebarToursLede": "Every route mentioned in this article can be booked as a private tour customized for your dates and group size.",
+    "relatedToursTitle": "Tours mentioned in this article",
+    "relatedToursLede": "Explore the complete day-by-day itineraries, hotel tiers, and season prices for the routes featured in this article.",
+    "relatedGuidesTitle": "Related blog posts",
+    "relatedGuidesLede": "Read our planning articles, seasonal advice, and landmark breakdowns for this destination.",
+    "faqTitle": "Frequently asked questions",
+    "keywordsLabel": "Topics & keywords",
+    "rankBadge": "Place #{rank}",
+    "backToBlog": "All blog posts"
+  },
+  "about": {
+    "meta": {
+      "title": "About Sunday Atlas Travel | Private Silk Road & Caucasus Tour Operator",
+      "description": "Sunday Atlas Travel operates 20 private multi-day & day tours across Central Asia, the Caucasus and China with transparent 2027 per-person pricing."
+    },
+    "eyebrow": "About",
+    "title": "A private tour & travel agency that plans the trip with you",
+    "lede": "We are a private tour & travel agency: we plan and arrange the journey ourselves. The tone we want is calm, expert and curious, careful in the details and clear about what a price includes.",
+    "sections": [
+      {
+        "heading": "What we are: a travel agency, not a booking engine",
+        "paragraphs": [
+          "Sunday Atlas Travel is a travel company. We plan tour packages and private trips worldwide, arrange the hotels, transport and guides, prepare the quote ourselves, and write the words on this website.",
+          "This is not a booking engine. An inquiry starts a conversation."
+        ]
+      },
+      {
+        "heading": "Who we plan for",
+        "paragraphs": [
+          "We plan trips for people who want a clear route, a personal quote, and a reply they can count on — a holiday, a family journey, or a longer route.",
+          "Entry rules are never ours to grant or refuse. Before you travel, check official government sources."
+        ]
+      },
+      {
+        "heading": "How the words get written",
+        "paragraphs": [
+          "We write itineraries in our own words, day by day, with the hotels, meals and prices for the season.",
+          "The quote we send confirms the plan for your dates and group, and it is the document you decide on."
+        ]
+      },
+      {
+        "heading": "What we will not pretend",
+        "paragraphs": [
+          "We will not invent reviews, rankings, or a crowd of past guests to make a page feel busy. If a detail is not known yet, the page says so.",
+          "We plan each trip ourselves. The quote names the route, the price, and what is included. This draft does not invent those details."
+        ]
+      }
+    ]
+  },
+  "howItWorks": {
+    "meta": {
+      "title": "Trip planning: how we plan your trip",
+      "description": "Trip planning with Sunday Atlas Travel: how an inquiry becomes a personal quote and a confirmed trip."
+    },
+    "eyebrow": "How it works",
+    "title": "Trip planning, step by step",
+    "lede": "Trip planning with us is simple. You browse. You write to us. We reply by email with questions. We price the journey. You review the quote and decide at your own pace.",
+    "steps": [
+      {
+        "title": "Plan a trip: you send an outline",
+        "body": "Use the inquiry form, or ask the chat assistant for a quick answer. Our team replies by email. A country, a rough window, and who is travelling is enough to begin."
+      },
+      {
+        "title": "We reply by email",
+        "body": "We come back with questions, not a hard sell — pace, interests, and anything that should shape the route before we price it."
+      },
+      {
+        "title": "We prepare your quote",
+        "body": "We write a quote against your answers, starting from the itinerary on the site and adjusting it for your dates and group."
+      },
+      {
+        "title": "You review and decide",
+        "body": "You review the quote at your own pace. If you go ahead, we confirm the hotels, local transport, and guides for your dates case by case."
+      }
+    ],
+    "stagesTitle": "From custom itinerary to confirmed trip",
+    "stages": [
+      {
+        "title": "Inquiry",
+        "body": "You write by form, or ask the chat assistant. Our team replies by email. This is a question, not a booking."
+      },
+      {
+        "title": "Questions from us",
+        "body": "We reply by email and ask what the tour pages cannot know: your dates, group and pace."
+      },
+      {
+        "title": "Your quote",
+        "body": "We prepare a price and a plan for the trip you described."
+      },
+      {
+        "title": "Time to review",
+        "body": "You receive the personal quote to review and ask any follow-up questions."
+      },
+      {
+        "title": "We confirm your trip",
+        "body": "We confirm the plan and stay on the thread so you are not left sorting the details alone."
+      }
+    ],
+    "closing": "The prices on each tour page are for season 2027; your quote confirms them for your dates."
+  },
+  "faq": {
+    "meta": {
+      "title": "Booking with a travel agent: FAQ",
+      "description": "Booking with a travel agent or on your own? Answers about our quotes, timing and Central Asia tours at Sunday Atlas Travel."
+    },
+    "eyebrow": "FAQ",
+    "title": "Booking with a travel agent: questions we expect",
+    "lede": "Thinking about booking with a travel agent? Here are our answers. If yours is not here, send it with the form or ask the chat assistant. Our team replies by email.",
+    "items": [
+      {
+        "q": "Is this a booking site?",
+        "a": "No. Sunday Atlas Travel is inquiry-led. You can read the tour pages and write to us. There is no online checkout or seat selection on this website."
+      },
+      {
+        "q": "What happens after I inquire?",
+        "a": "We reply by email with questions. When we understand the trip, we prepare a personal quote for your dates and group."
+      },
+      {
+        "q": "How are confirmation and arrangements handled?",
+        "a": "Case by case. Your personal quote sets out the details and next steps for your dates and group."
+      },
+      {
+        "q": "Who plans the trip?",
+        "a": "We do. Sunday Atlas Travel plans and arranges the trip, prepares the quote, and stays your point of contact from the first question until the trip is confirmed."
+      },
+      {
+        "q": "Are the itineraries on this site final?",
+        "a": "Yes. Each tour page shows the full itinerary, hotels, meals and season 2027 prices by group size, written in our own words. The quote confirms them for your dates."
+      },
+      {
+        "q": "Where can you plan a trip?",
+        "a": "Worldwide. Tell us the place you have in mind, or ask us for ideas. We do not decide entry rules. Check official government sources before travel."
+      },
+      {
+        "q": "Can the route change?",
+        "a": "Yes. Tell us what you want more of, or less of, in the inquiry. The quote is where changes become specific; the tour pages are a starting point, not a menu you are locked into."
+      },
+      {
+        "q": "Do you sell international flights?",
+        "a": "No. Please assume you will arrange your own flights unless a future quote says otherwise in writing."
+      },
+      {
+        "q": "What are the cancellation terms?",
+        "a": "They belong on the quote, which you can read before confirming the trip. This website does not publish a fee schedule."
+      },
+      {
+        "q": "Is it worth using a travel agent?",
+        "a": "It depends on the trip. With us, one team plans the route, prepares the quote and stays your contact until the trip is confirmed. You can read the quote, and compare it with booking yourself, before you decide."
+      },
+      {
+        "q": "How much does a tour with Sunday Atlas cost?",
+        "a": "We price the whole trip in one personal quote. This site does not publish a separate fee list; the quote names the price and what is included."
+      },
+      {
+        "q": "Is a travel agent more expensive than booking yourself?",
+        "a": "We cannot answer that before we know the trip. Asking us for a quote does not commit you, so you have time to review the written plan and compare it with booking yourself."
+      },
+      {
+        "q": "How far in advance should you book a trip?",
+        "a": "General guidance: earlier gives more choice, especially in busy seasons. Write to us well ahead of your travel dates so we have time to arrange hotels, transport, and guides."
+      }
+    ]
+  },
+  "contact": {
+    "meta": {
+      "title": "Plan a trip with us",
+      "description": "Send an inquiry to Sunday Atlas Travel. We reply by email and prepare your quote. The chat assistant can answer quick questions."
+    },
+    "eyebrow": "Contact",
+    "title": "Plan my trip",
+    "lede": "Share a sketch of the journey. We plan your trip and arrange the hotels, transport and guides. We reply by email with questions, then prepare a personal quote.",
+    "emailLabel": "Email",
+    "emailPending": "contact email coming soon",
+    "chatNote": "The chat assistant on this page can answer quick questions while you write. We would rather hear a rough idea than a perfect one.",
+    "packageContext": "You opened this form from “{title}”. We will mention it when we reply.",
+    "packageMessageTemplate": "Hello Sunday Atlas Travel,\n\nI would like to request a quote for “{title}”.\n\n- Preferred travel dates / month: \n- Number of travellers: \n- Hotel tier / room preference: \n- Special requests or questions: ",
+    "packageUnknown": "We could not match that package link. Choose a destination below and describe the trip in your message.",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "passport": "Nationality / passport",
+      "destination": "Destination interest",
+      "dates": "Approximate dates",
+      "groupSize": "Group size",
+      "message": "Message",
+      "consent": "I agree that Sunday Atlas Travel may use my details to prepare my quote and contact me."
+    },
+    "placeholders": {
+      "name": "Your name",
+      "email": "you@example.com",
+      "passport": "For example, a country of citizenship",
+      "dates": "A month, or “flexible”",
+      "groupSize": "For example, 2 adults",
+      "message": "Pace, interests, and anything we should know"
+    },
+    "destinationPlaceholder": "Select a destination",
+    "destinationUndecided": "Still deciding",
+    "submit": "Send inquiry",
+    "submitting": "Sending…",
+    "requiredMark": "Required",
+    "errors": {
+      "name": "Please enter your name.",
+      "email": "Please enter a valid email address.",
+      "passport": "Please tell us the passport or nationality you would travel on.",
+      "destination": "Please choose a destination, or “Still deciding”.",
+      "dates": "Please add approximate dates, even if they are flexible.",
+      "groupSize": "Please tell us the group size.",
+      "message": "Please add a few words so we know what you are hoping for.",
+      "consent": "Please confirm that we may use these details to reply."
+    },
+    "notConfigured": "Something went wrong. Please try again, or email us at {email}.",
+    "noscript": "This form needs JavaScript. Please turn it on and try again, or email us at {email}.",
+    "success": "Thank you. We have your inquiry and will reply by email soon.",
+    "errorGeneric": "Something went wrong. Please try again, or email us at {email}.",
+    "errorChallenge": "Please complete the security check and send the form again.",
+    "errorRateLimited": "You have sent several inquiries in a short time. Please wait a few minutes and try again.",
+    "errorInvalid": "Some of the details do not look valid. Please check the form and try again.",
+    "honeypotLabel": "Website"
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy",
+      "description": "How Sunday Atlas Travel collects, uses, shares and protects personal data from enquiries, bookings, the chat assistant and the newsletter, and your data protection rights, including under GDPR."
+    },
+    "eyebrow": "Privacy",
+    "title": "Privacy Policy",
+    "lede": "This policy explains what personal information Sunday Atlas Travel collects when you use sundayatlastravel.com, make an enquiry, book a tour or subscribe to our emails, how we use it, who we share it with, and the choices and rights you have.",
+    "sections": [
+      {
+        "heading": "1. Who is responsible for your information",
+        "paragraphs": [
+          "Sunday Atlas Travel, a travel agency registered in Myanmar and operating from Bangkok, Thailand, is responsible for your personal information and is the data controller. Where data protection laws apply to our processing, including the EU and UK General Data Protection Regulation for travellers in those regions and Thailand's Personal Data Protection Act for processing carried out in Thailand, we act as the controller under those laws.",
+          "For any privacy question or request, write to {email}."
+        ]
+      },
+      {
+        "heading": "2. What we collect",
+        "paragraphs": [
+          "Enquiries. When you use the enquiry form we collect your name, email address, the nationality or passport you would travel on, the destination you are interested in, your approximate dates, group size, your message, your consent to be contacted, and the tour page you came from, if any.",
+          "Emails and messages. When you write to us, we keep your email and our replies, and any information you choose to include. We do not offer WhatsApp contact yet. If we add it later, messages you send us there will be processed under this policy, and WhatsApp will also process them under its own terms.",
+          "Booking and traveller details. When you go ahead with a trip, we collect what is needed to arrange it for each traveller. This can include full names as shown on passports, dates of birth, nationality, passport number and expiry date, arrival and departure details, room preferences, emergency contact details, and information about diet, health or mobility that you choose to share so the trip can be arranged safely. Passport details are only requested where a hotel, a permit or a government entry process needs them.",
+          "Payment information. When you pay us directly, we keep the details needed to record the payment, such as the payer's name, the amount, the date and the payment reference. We do not store full card numbers. If your payment goes through a booking or payment partner, you enter your card and payment details with that partner, not on our website, and we receive confirmation of payment, the amount and limited reference details.",
+          "Newsletter. If you subscribe to email updates, we keep your email address, the language of the site and the page where you signed up, together with a record of the emails we send you and whether you have unsubscribed.",
+          "Chat assistant. If you use the automated chat assistant, the text you type, the page language and your recent messages in that session are sent to our hosting provider to generate an answer. Please do not type your name, contact details or passport details into the chat. Use the enquiry form instead.",
+          "Technical data. When you visit the website, our hosting provider processes your IP address, browser and device information and the pages requested, so that the site works and stays secure. We use a counter linked to your IP address to limit misuse of the enquiry form and chat assistant, and a security check on the enquiry form to block automated spam."
+        ]
+      },
+      {
+        "heading": "3. Why we use it and our legal basis",
+        "paragraphs": [
+          "We use your information:",
+          "• to reply to your enquiry and prepare a quote, because you have asked us to and so we can take steps before entering into a contract with you;",
+          "• to arrange, confirm and manage your booking, and to support you before and during your trip, because this is necessary to perform our contract with you;",
+          "• to handle sensitive information you give us, such as health or dietary needs, only with your explicit consent and only to arrange your trip safely;",
+          "• to send you our newsletter, based on your consent, which you can withdraw at any time;",
+          "• to keep the website secure, prevent spam and abuse, and improve our service, based on our legitimate interest in running a safe and useful website;",
+          "• to keep accounting and tax records and comply with other legal obligations; and",
+          "• to establish, exercise or defend legal claims.",
+          "We do not sell your personal information, and we do not use it for automated decisions that have legal or similarly significant effects on you."
+        ]
+      },
+      {
+        "heading": "4. Who we share it with",
+        "paragraphs": [
+          "We share your information only where needed:",
+          "Local ground operators and service providers. To deliver your trip, we share the necessary traveller details with the independent local operators who run the tour, and through them with hotels, guides, drivers and other providers in your destination. Where a permit, visa invitation or government entry process is needed, details may be shared with the relevant authorities for that purpose.",
+          "Booking or payment partners. If your payment goes through a booking or payment partner, we share the details needed to take your payment and manage your booking. The partner handles payment information under its own privacy policy.",
+          "Service providers who work for us. We use these providers to run our website and services. They process information on our behalf and under our instructions:",
+          "• Cloudflare, for website hosting, security, the spam check on our enquiry form, the chat assistant, storing enquiries submitted through our website and sending enquiry notification emails;",
+          "• Brevo, for sending our newsletter;",
+          "• Sanity, our content management system, which also stores newsletter subscriber records privately; and",
+          "• Cloudinary, which stores and delivers the images on our website and in our emails.",
+          "Others. We may disclose information if the law requires it, to protect the safety of a traveller, or in connection with a legal claim."
+        ]
+      },
+      {
+        "heading": "5. International transfers",
+        "paragraphs": [
+          "We are registered in Myanmar, operate from Thailand, and our service providers operate in several countries, so your information may be processed outside the country where you live. To deliver your trip, we also need to send traveller details to operators and providers in the countries you will visit, which may not have the same level of data protection as your own country.",
+          "Where the law requires it, we protect these transfers with appropriate safeguards, such as standard contractual clauses or our service providers' own transfer commitments. Where a transfer to a destination country is needed to perform the contract you have asked us to arrange, we rely on that necessity, and we only send what the trip requires. You can ask us for more information about these safeguards."
+        ]
+      },
+      {
+        "heading": "6. How long we keep it",
+        "paragraphs": [
+          "We keep your information only as long as we need it:",
+          "• enquiries that do not lead to a booking are kept for 2 months after our last contact, so we can answer follow-up questions, and are then deleted;",
+          "• booking records are kept for 1 year after your trip;",
+          "• passport and health details are deleted or anonymised once your trip and any related follow-up are complete, unless the law requires us to keep them longer;",
+          "• newsletter records are kept until you unsubscribe, after which we keep only what is needed to make sure you are not emailed again; and",
+          "• chat assistant conversations are not stored on our servers. They are kept in your browser's session storage and cleared when you close the tab. Abuse counters linked to an IP address are deleted automatically within 2 days. Our hosting provider may keep limited technical logs under its own terms.",
+          "We keep records longer than these periods only where the law requires it, for example for tax or accounting purposes."
+        ]
+      },
+      {
+        "heading": "7. Your rights",
+        "paragraphs": [
+          "Depending on the law where you live, you have the right to:",
+          "• ask for a copy of the personal information we hold about you;",
+          "• ask us to correct information that is wrong or incomplete;",
+          "• ask us to delete your information;",
+          "• ask us to restrict how we use it, or object to our use of it, including for direct marketing;",
+          "• receive your information in a portable format;",
+          "• withdraw your consent at any time, where we rely on consent, without affecting what we did before; and",
+          "• complain to the data protection authority in the country where you live, for example the authority in your country if you live in the European Economic Area or the United Kingdom.",
+          "To use any of these rights, write to {email}. We may need to confirm your identity before we act. We will reply within the time the law requires. Some information may have to be kept, for example where we need it for a booking that is already confirmed or for legal reasons.",
+          "You can unsubscribe from our newsletter at any time using the link in every email."
+        ]
+      },
+      {
+        "heading": "8. Cookies and similar technologies",
+        "paragraphs": [
+          "Our website does not currently use analytics, advertising or tracking cookies. The chat assistant uses your browser's session storage to keep the current conversation while you move between pages, and this is cleared when you close the tab. The security check on our enquiry form, provided by Cloudflare, may process technical information about your browser to tell people apart from automated spam.",
+          "We may introduce analytics or tracking later. Before we do, we will update this policy and, where the law requires it, ask for your consent first."
+        ]
+      },
+      {
+        "heading": "9. Children",
+        "paragraphs": [
+          "Our website and services are intended for adults. Bookings must be made by a person aged 18 or over. If a child travels with you, we only collect the details needed to arrange their trip, and we receive them from you as the parent or guardian."
+        ]
+      },
+      {
+        "heading": "10. Security",
+        "paragraphs": [
+          "We use reasonable technical and organisational measures to protect your information, including encrypted connections, restricted access, and service providers with recognised security practices. No online service can be completely secure, so please do not send passport scans or sensitive documents through the enquiry form or the chat. If we need documents, we will tell you how to send them."
+        ]
+      },
+      {
+        "heading": "11. Changes to this policy",
+        "paragraphs": [
+          "We may update this policy from time to time. The date at the top shows when it was last changed. If we make important changes, we will make them clear on this page and, where appropriate, tell you by email."
+        ]
+      },
+      {
+        "heading": "12. Contact us",
+        "paragraphs": [
+          "For any question about this policy or your personal information, write to {email}."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms of Service",
+      "description": "Sunday Atlas Travel Terms of Service: how enquiries, quotes and bookings work, prices and payment, changes, cancellations, liability and complaints for our Central Asia, Caucasus, China and Bhutan tours."
+    },
+    "eyebrow": "Terms",
+    "title": "Terms of Service",
+    "lede": "These terms explain how Sunday Atlas Travel works, what you can expect from us, and what we expect from you. They apply when you use sundayatlastravel.com and when you book a tour with us. Please read them before you confirm a booking.",
+    "sections": [
+      {
+        "heading": "1. Who we are",
+        "paragraphs": [
+          "Sunday Atlas Travel is a small online travel agency registered in Myanmar and operating from Bangkok, Thailand. We arrange tours in Central Asia, the Caucasus, China and Bhutan. You can reach us at {email}.",
+          "In these terms, \"we\", \"us\" and \"our\" mean Sunday Atlas Travel. \"You\" means the person who makes an enquiry or booking and every traveller named on it."
+        ]
+      },
+      {
+        "heading": "2. Our role as a travel agency",
+        "paragraphs": [
+          "We plan and arrange your tour. The services on the ground, such as guiding, transport, accommodation and activities, are delivered by independent local ground operators and service providers in each destination. They are not owned or controlled by us.",
+          "We are your point of contact before and during your trip. We pass your requirements to the operator, check the arrangements, and help if something goes wrong.",
+          "The local operator may have its own booking conditions. If so, we will tell you before you confirm, and those conditions will also apply to the services it provides. If they conflict with these terms, the conditions most favourable to you will apply wherever the law requires it."
+        ]
+      },
+      {
+        "heading": "3. Enquiries and quotes",
+        "paragraphs": [
+          "Sending an enquiry form, writing to us, or using the chat assistant on our website does not create a booking and does not hold a place.",
+          "After your enquiry we will reply by email with a proposed itinerary and quote for your dates and group. Each quote states what is included, what is not, the price, the payment terms, and how long the quote is valid. Availability is not guaranteed until your booking is confirmed."
+        ]
+      },
+      {
+        "heading": "4. How a booking is made",
+        "paragraphs": [
+          "Your booking is made when both of these have happened:",
+          "1) you accept the quote in writing, by email or through the payment step we send you; and",
+          "2) we send you an email confirming the booking.",
+          "Our confirmation email, together with the quote it refers to and these terms, forms the agreement between you. Please check the confirmation carefully and tell us straight away if any name, date or detail is wrong. Names must match the passports you will travel on.",
+          "The person who makes the booking confirms that they are at least 18 years old and that they have the agreement of every traveller in the group to accept these terms on their behalf."
+        ]
+      },
+      {
+        "heading": "5. Prices and payment",
+        "paragraphs": [
+          "Prices shown on the website are a guide only. They are usually per person in US dollars and depend on group size, season and hotel class. The price that applies to your trip is the one in your quote and confirmation email.",
+          "The full price of the tour is paid up front when your booking is confirmed. There is no separate deposit and balance. In most cases you pay us directly, against the invoice or payment request we send you, and any refund due to you is paid by us. Sometimes payment is taken through a booking or payment partner; in that case the partner's payment terms also apply to the payment itself. Your quote or invoice shows the amount due, the due date and the accepted payment methods.",
+          "If full payment is not received by the due date, we may treat the booking as cancelled by you and apply the cancellation charges set out in section 7.",
+          "Once a booking is confirmed, we will not raise the price unless the change is caused by something outside our control that we have told you about in the quote, such as a new government tax, fee or entry charge. If that happens we will tell you as soon as possible and explain the reason. If the increase is significant, you may cancel and receive a refund of what you have paid for the affected services.",
+          "Unless your quote says otherwise, prices do not include international flights, visas, travel insurance, personal expenses, tips or optional activities."
+        ]
+      },
+      {
+        "heading": "6. Changes by you",
+        "paragraphs": [
+          "If you want to change your booking after it is confirmed, please write to us as soon as possible. We will do our best to help, but changes depend on availability and on the local operator. Any extra costs, and any charges the operator or hotel makes for the change, will be passed on to you. We will tell you the cost before you agree to the change.",
+          "You may transfer your place to another person if the local operator and the relevant authorities allow it, and if the new traveller meets the entry requirements. Any transfer costs will be passed on to you."
+        ]
+      },
+      {
+        "heading": "7. Cancellation by you",
+        "paragraphs": [
+          "You can cancel your booking at any time by writing to {email}. The cancellation takes effect on the day we receive your message.",
+          "Because we commit money to hotels, transport and guides on your behalf, cancellation charges may apply. The charges for your trip, and how they increase as the departure date gets closer, are set out in your quote and confirmation email. They reflect the costs we and the local operator cannot recover. Where we can recover any costs, we will reduce the charge accordingly.",
+          "Some costs, such as permits, entry fees and government charges, may not be refundable once paid. We will tell you in your quote which costs are non-refundable.",
+          "We strongly recommend travel insurance that covers cancellation."
+        ]
+      },
+      {
+        "heading": "8. Changes and cancellation by us or the local operator",
+        "paragraphs": [
+          "Travel in remote and mountain regions can change at short notice. We or the local operator may need to change the order of visits, a hotel or a route because of weather, road conditions, local events or safety. Where possible we will replace the service with one of a similar standard.",
+          "If we need to make a significant change before departure, we will tell you as soon as we can. You may then accept the change, accept an alternative trip if one is offered, or cancel and receive a full refund of the money you have paid us for the trip.",
+          "We may cancel a trip before departure if a minimum number of travellers stated in your quote has not been reached, or if events outside our control make it impossible or unsafe to run. In that case you will receive a full refund of the money you have paid us for the trip. Where the law gives you a right to compensation, nothing in these terms takes that away."
+        ]
+      },
+      {
+        "heading": "9. Passports, visas, health and insurance",
+        "paragraphs": [
+          "You are responsible for:",
+          "• holding a valid passport with enough validity and blank pages for every country on your route;",
+          "• obtaining any visa, permit or entry authorisation you need, and meeting the conditions of entry;",
+          "• following health requirements and advice, including any vaccinations, and making sure you are fit enough for the trip you choose; and",
+          "• having suitable travel insurance for your whole trip, including medical treatment, emergency evacuation and cancellation.",
+          "We can share general information and point you to official sources, but entry rules change and depend on your nationality. Please check them with the official government sources and embassies of each country before you travel. Nothing on our website or in our emails is legal, immigration or medical advice.",
+          "Bhutan has its own entry rules, which are set by the Government of Bhutan. These include visa requirements and a daily fee charged to visitors. The rules and amounts can change. Your quote will show whether these charges are included, and the amount that applies will be the one in force under Bhutan's rules.",
+          "If you are refused entry, or cannot travel because you do not have the right documents, the cancellation charges in section 7 apply."
+        ]
+      },
+      {
+        "heading": "10. Your conduct during the trip",
+        "paragraphs": [
+          "Please follow the reasonable instructions of your guide and driver, respect local laws and customs, and look after your own belongings. If a traveller's behaviour puts others at risk or causes serious disruption, the guide or local operator may end that traveller's trip. In that case no refund is due, and the traveller is responsible for their own costs of returning home.",
+          "Please tell us before booking about any medical condition, disability or dietary need that may affect your trip, so we can check whether the itinerary is suitable."
+        ]
+      },
+      {
+        "heading": "11. Our responsibility to you",
+        "paragraphs": [
+          "We will arrange your trip with reasonable care and skill, and we will check that the services described in your confirmation are booked.",
+          "We are not responsible for loss, injury or damage that is caused by you or another member of your group, by a third party not connected with the services we arranged, or by events outside our control as described in section 12.",
+          "Where we are found responsible for a failure in the services we arranged, our liability is limited to the price of the trip paid by the affected traveller, except where the law does not allow such a limit.",
+          "We do not limit or exclude our liability for death or personal injury caused by our negligence, for fraud, or for anything else that cannot be limited or excluded by law. Nothing in these terms affects the mandatory rights you have as a consumer.",
+          "Where an international convention or the law of a destination country limits the liability of the airline, hotel, transport company or other provider of a service, our liability will be limited in the same way."
+        ]
+      },
+      {
+        "heading": "12. Events outside our control",
+        "paragraphs": [
+          "We and the local operators are not responsible for failing to deliver, or delaying, any part of your trip because of events that we could not have foreseen or avoided even with all reasonable care. Examples include war, civil unrest, terrorism, natural disasters, severe weather, epidemics, government action, border closures, and the closure of airports or roads.",
+          "If such an event happens, we will help you as far as we reasonably can. We will refund any money paid for services that could not be provided and that we are able to recover from the local operator, less any costs that cannot be recovered."
+        ]
+      },
+      {
+        "heading": "13. Problems during your trip and complaints",
+        "paragraphs": [
+          "If something is not right during your trip, please tell your guide and contact us straight away so we can try to put it right on the spot. It is much harder to solve a problem after you return home.",
+          "If you are still unhappy, please write to {email} within 28 days of the end of your trip. We will acknowledge your complaint and reply in full as soon as we can. This time limit is to help us investigate; it does not take away any legal right you have to make a claim later."
+        ]
+      },
+      {
+        "heading": "14. Using our website",
+        "paragraphs": [
+          "You may use our website for your own personal travel planning. Please do not copy, scrape or republish our text, photos or itineraries without our written permission, and do not try to interfere with the website, the enquiry form or the chat assistant.",
+          "The text, design and itineraries on the website belong to Sunday Atlas Travel or are used with permission. Photos are used under their licences.",
+          "We work to keep the website accurate, but descriptions, prices and photos are a guide and can change. The details that apply to your trip are the ones in your quote and confirmation email.",
+          "The chat assistant on our website is automated. Its answers are based on the information published on the site and can be incomplete or wrong. They are not a quote, a booking or advice. To speak to our team, use the enquiry form or write to us by email.",
+          "Our website may link to other websites. We are not responsible for their content."
+        ]
+      },
+      {
+        "heading": "15. Personal information",
+        "paragraphs": [
+          "We use your personal information as explained in our Privacy Policy at sundayatlastravel.com/en/privacy."
+        ]
+      },
+      {
+        "heading": "16. Governing law and disputes",
+        "paragraphs": [
+          "These terms are governed by the laws of Myanmar. If you are a consumer, this does not take away the protection of any mandatory rules of the country where you normally live that would otherwise apply to you.",
+          "We hope to settle any disagreement directly with you first. If we cannot, the courts of Myanmar will have jurisdiction, although you may also bring a claim in the courts of the country where you live if the law allows you to."
+        ]
+      },
+      {
+        "heading": "17. Changes to these terms",
+        "paragraphs": [
+          "We may update these terms from time to time. The version on our website on the date your booking is confirmed applies to that booking. We will not change the terms of a confirmed booking without your agreement, unless the change is required by law."
+        ]
+      },
+      {
+        "heading": "18. Contact us",
+        "paragraphs": [
+          "For questions about these terms or your booking, write to {email}, or use the enquiry form on our website."
+        ]
+      }
+    ]
+  },
+  "legal": {
+    "lastUpdated": "Last updated 1 Nov 2026"
+  },
+  "notFound": {
+    "metaTitle": "Page not found",
+    "title": "This page is not on the map",
+    "body": "The link may be old, or the page may still be a draft. Choose a language home and start again.",
+    "linkHome": "Go to the English homepage"
+  },
+  "gallery": {
+    "title": "Photos",
+    "open": "Open photo {n} of {total}: {alt}",
+    "viewAll": "View all {count} photos",
+    "dialogLabel": "Photo gallery",
+    "close": "Close",
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "counter": "{current} / {total}"
+  },
+  "chat": {
+    "title": "Sunday Atlas assistant",
+    "open": "Open chat",
+    "close": "Close chat",
+    "welcome": "Hello. Ask about a destination, a tour, or how a quote works. Sunday Atlas Travel plans each trip itself.",
+    "suggestions": [
+      "Tell me about the 5 Stans tour",
+      "How does a quote work?",
+      "Which tours do you offer?"
+    ],
+    "suggestionsLabel": "Suggested questions",
+    "placeholder": "Ask about a destination or a tour",
+    "inputLabel": "Your message",
+    "send": "Send",
+    "typing": "Assistant is typing",
+    "counter": "{count}/500",
+    "disclaimer": "AI answers can be wrong. For a quote, use the inquiry form.",
+    "contactLink": "inquiry form",
+    "errorNetwork": "We could not reach the assistant. Please try again, or use the inquiry form.",
+    "linksLabel": "Related pages"
+  },
+  "subscribe": {
+    "button": "Subscribe",
+    "eyebrow": "Free travel updates",
+    "title": "Get new travel blog posts first",
+    "body": "New blog posts, fresh itineraries and occasional deals, straight to your inbox.",
+    "blogTitle": "Enjoyed this post?",
+    "blogBody": "Get the next blog posts, new itineraries and deals by email.",
+    "emailLabel": "Email address",
+    "placeholder": "you@example.com",
+    "submit": "Subscribe",
+    "sending": "Subscribing…",
+    "success": "You're on the list. Thanks for subscribing!",
+    "errorInvalid": "Please enter a valid email address.",
+    "errorRateLimited": "Too many tries. Please wait a few minutes and try again.",
+    "errorGeneric": "Something went wrong. Please try again later.",
+    "privacyNote": "We only use your email for these updates, and you can ask us to remove it at any time.",
+    "privacyLink": "Privacy notice",
+    "close": "Close",
+    "honeypotLabel": "Website"
+  },
+  "answer": {
+    "packageLine": "{duration}, starting in {city}, {price}.",
+    "packageLineNoCity": "{duration}, {price}.",
+    "packageLineNoPrice": "{duration}, starting in {city}.",
+    "packageLineNoCityNoPrice": "{duration}.",
+    "priceOnRequest": "price on request",
+    "pricesChecked": "Prices checked {month}.",
+    "destinationLine": "{count} tours in {country}, with starting prices from {min} to {max} per person.",
+    "destinationLineFrom": "{count} tours in {country}, from {min} per person.",
+    "destinationLineOne": "1 tour in {country}, from {min} per person.",
+    "destinationLineNoPrice": "{count} tours in {country}.",
+    "destinationLineNoPriceOne": "1 tour in {country}.",
+    "bestTime": "Best time to go: {season}.",
+    "blogLine": "{count} related tours, from {min} per person.",
+    "blogLineOne": "1 related tour, from {min} per person.",
+    "compactTitle": "Price per person by group size",
+    "compactCaption": "USD per person, from the tour's price table",
+    "compactNote": "Every group size and the single supplement are in Prices below.",
+    "travellerOne": "1 traveller",
+    "travellers": "{n} travellers"
+  }
+}

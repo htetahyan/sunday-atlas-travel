@@ -1,0 +1,419 @@
+{
+  "slug": "turkmenistan",
+  "name": {
+    "en": "Turkmenistan",
+    "de": "Turkmenistan",
+    "fr": "Turkménistan",
+    "ja": "トルクメニスタン",
+    "es": "Turkmenistán",
+    "zh": "土库曼斯坦"
+  },
+  "region": {
+    "en": "Central Asia",
+    "de": "Zentralasien",
+    "fr": "Asie centrale",
+    "ja": "中央アジア",
+    "es": "Asia central",
+    "zh": "中亚"
+  },
+  "summary": {
+    "en": "The Darwaza Gas Crater in the Karakum Desert, white-marble Ashgabat and the Parthian ruins of Nissa: the finale of our 5 Stans tour.",
+    "de": "Turkmenistan Rundreise zum Gaskrater von Darwasa in der Karakum, ins weiße Aschgabat und zu den parthischen Ruinen von Nisa: das Finale unserer 5-Stans-Reise.",
+    "fr": "Un voyage au Turkménistan avec le cratère de gaz de Darvaza dans le Karakoum, Achgabat la blanche et les ruines parthes de Nissa : le final de notre circuit 5 Stans.",
+    "ja": "カラクム砂漠のダルヴァザのガスクレーター、白い都アシガバート、パルティアの遺跡ニサ。5スタンのツアーのフィナーレです。",
+    "es": "El cráter de gas de Darvaza en el Karakum, la blanca Asjabad y las ruinas partas de Nisa: el final de nuestro viaje 5 Stans.",
+    "zh": "卡拉库姆沙漠的达尔瓦扎气体坑、白色大理石城市阿什哈巴德以及帕提亚古迹尼萨：我们5国探索之旅的终点站。"
+  },
+  "bestSeasons": {
+    "en": [
+      "Spring and autumn are the usual seasons for the Karakum Desert and Darwaza",
+      "Summer in the desert is very hot"
+    ],
+    "de": [
+      "Frühling und Herbst sind die übliche Zeit für die Karakum und Darwasa",
+      "Der Sommer in der Wüste ist sehr heiß"
+    ],
+    "fr": [
+      "Le printemps et l’automne sont la saison habituelle pour le Karakoum et Darvaza",
+      "L’été est très chaud dans le désert"
+    ],
+    "ja": [
+      "カラクム砂漠とダルヴァザは、春と秋が一般的なシーズンです",
+      "夏の砂漠はとても暑くなります"
+    ],
+    "es": [
+      "La primavera y el otoño son la temporada habitual para el Karakum y Darvaza",
+      "El verano en el desierto es muy caluroso"
+    ],
+    "zh": [
+      "春季和秋季是前往卡拉库姆沙漠和达尔瓦扎的常规季节",
+      "沙漠夏季非常炎热"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "The Darwaza Gas Crater, by daylight and after dark",
+      "The mud and water craters near Darwaza",
+      "Ashgabat: Sunday Bazaar, Akhal-Teke stables and the Ertogrul Ghazi Mosque",
+      "The Neutrality Arch and the Wedding Palace viewpoint",
+      "Nissa, former Parthian capital (UNESCO)"
+    ],
+    "de": [
+      "Der Gaskrater von Darwasa, bei Tag und nach Einbruch der Dunkelheit",
+      "Die Schlamm- und Wasserkrater bei Darwasa",
+      "Aschgabat: Sonntagsbasar, Achal-Tekkiner und Ertugrul-Gazi-Moschee",
+      "Der Bogen der Neutralität und der Aussichtspunkt am Hochzeitspalast",
+      "Nisa, einstige Hauptstadt der Parther (UNESCO)"
+    ],
+    "fr": [
+      "Le cratère de gaz de Darvaza, de jour et à la nuit tombée",
+      "Les cratères de boue et d’eau près de Darvaza",
+      "Achgabat : bazar du dimanche, chevaux akhal-téké et mosquée Ertogrul Gazi",
+      "L’arche de la Neutralité et le point de vue du palais des Mariages",
+      "Nissa, ancienne capitale parthe (UNESCO)"
+    ],
+    "ja": [
+      "日中と夜のダルヴァザのガスクレーター",
+      "ダルヴァザ近くの泥のクレーターと水のクレーター",
+      "アシガバート：サンデー・バザール、アハルテケ馬、エルトゥールル・ガーズィー・モスク",
+      "中立の門と結婚宮殿の展望台",
+      "パルティアの都ニサ（ユネスコ世界遺産）"
+    ],
+    "es": [
+      "El cráter de gas de Darvaza, de día y de noche",
+      "Los cráteres de barro y de agua cerca de Darvaza",
+      "Asjabad: Bazar del Domingo, caballos ajal-teke y mezquita Ertogrul Gazi",
+      "El Arco de la Neutralidad y el mirador del Palacio de Bodas",
+      "Nisa, antigua capital parta (UNESCO)"
+    ],
+    "zh": [
+      "达尔瓦扎气体坑，白天和夜晚均可参观",
+      "达尔瓦扎附近的泥火山和水坑",
+      "阿什哈巴德：星期日集市、阿哈尔捷金马厩和厄尔图尔勒·加齐清真寺",
+      "中立纪念碑和婚宴宫观景台",
+      "尼萨，前帕提亚首都（联合国教科文组织）"
+    ]
+  },
+  "visaNote": {
+    "en": "A visa is required. On the Long Road Through the 5 Stans the visa invitation letter is included; the visa fee (approx. 100–120 USD per person) is not, and hotels charge a tourist fee of 2 USD per person per night. Please check the official sources for your passport before you book.",
+    "de": "Ein Visum ist erforderlich. Auf der Reise Der lange Weg durch die 5 Stans ist das Visa-Einladungsschreiben enthalten; die Visagebühr (ca. 100–120 USD pro Person) nicht, und Hotels erheben eine Touristenabgabe von 2 USD pro Person und Nacht. Bitte prüfen Sie vor der Buchung die offiziellen Quellen für Ihren Pass.",
+    "fr": "Un visa est obligatoire. Sur La longue route à travers les 5 Stans, la lettre d’invitation est incluse ; les frais de visa (env. 100–120 USD par personne) ne le sont pas, et les hôtels perçoivent une taxe touristique de 2 USD par personne et par nuit. Vérifiez les sources officielles pour votre passeport avant de réserver.",
+    "ja": "ビザが必要です。「5つのスタンを巡る長い道」ではビザ招待状が含まれますが、ビザ料金（1名あたり約100～120 USD）は含まれず、ホテルでは1名1泊あたり2 USDの観光税がかかります。ご予約前に、お持ちのパスポートについて公式の情報をご確認ください。",
+    "es": "Se necesita visado. En El largo camino por los 5 Stans la carta de invitación está incluida; la tasa del visado (aprox. 100–120 USD por persona) no, y los hoteles cobran una tasa turística de 2 USD por persona y noche. Consulte las fuentes oficiales para su pasaporte antes de reservar.",
+    "zh": "需要签证。在“穿越中亚5国之旅”中，签证邀请函已包含；签证费（每人约100–120 USD）不包含，酒店每人每晚收取2 USD旅游费。请在预订前查询官方渠道，确认您护照的要求。"
+  },
+  "heroGradient": [
+    "#A0823C",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400033/sunday-atlas/ashgabat-s-iconic-white-marble-mosque-at-twilight-37251240_ykdzlo.jpg",
+    "width": 1920,
+    "height": 2560,
+    "alt": {
+      "en": "White-marble mosque in Ashgabat, Turkmenistan, at twilight",
+      "de": "Moschee aus weißem Marmor in Aschgabat, Turkmenistan, in der Dämmerung",
+      "fr": "Mosquée de marbre blanc à Achgabat, Turkménistan, au crépuscule",
+      "ja": "夕暮れのアシガバートの白い大理石のモスク（トルクメニスタン）",
+      "es": "Mezquita de mármol blanco en Asjabad, Turkmenistán, al anochecer",
+      "zh": "土库曼斯坦阿什哈巴德黄昏时分的白色大理石清真寺"
+    }
+  },
+  "sample": false,
+  "published": true,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400033/sunday-atlas/ashgabat-s-iconic-white-marble-mosque-at-twilight-37251240_ykdzlo.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "White-marble mosque in Ashgabat, Turkmenistan, at twilight",
+        "de": "Moschee aus weißem Marmor in Aschgabat, Turkmenistan, in der Dämmerung",
+        "fr": "Mosquée de marbre blanc à Achgabat, Turkménistan, au crépuscule",
+        "ja": "夕暮れのアシガバートの白い大理石のモスク（トルクメニスタン）",
+        "es": "Mezquita de mármol blanco en Asjabad, Turkmenistán, al anochecer",
+        "zh": "土库曼斯坦阿什哈巴德黄昏时分的白色大理石清真寺"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400032/sunday-atlas/neutrality-monument-in-ashgabat-turkmenistan-37251226_bvrch8.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Neutrality Monument in Ashgabat, Turkmenistan",
+        "de": "Denkmal der Neutralität in Aschgabat, Turkmenistan",
+        "fr": "Monument de la Neutralité à Achgabat, Turkménistan",
+        "ja": "アシガバートの中立の門（トルクメニスタン）",
+        "es": "Monumento de la Neutralidad en Asjabad, Turkmenistán",
+        "zh": "土库曼斯坦阿什哈巴德中立纪念碑"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400040/sunday-atlas/an-aerial-photography-of-a-wedding-palace-and-hotel-near-the-7031502_adbp3g.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      "alt": {
+        "en": "Aerial view of the Wedding Palace and the Yyldyz Hotel in Ashgabat, Turkmenistan",
+        "de": "Luftbild von Hochzeitspalast und Hotel Yyldyz in Aschgabat, Turkmenistan",
+        "fr": "Vue aérienne du palais des Mariages et de l’hôtel Yyldyz à Achgabat, Turkménistan",
+        "ja": "上空から見たアシガバートの結婚宮殿とユルドゥズ・ホテル（トルクメニスタン）",
+        "es": "Vista aérea del Palacio de Bodas y el hotel Yyldyz en Asjabad, Turkmenistán",
+        "zh": "土库曼斯坦阿什哈巴德婚宴宫和玉尔德兹酒店鸟瞰图"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400033/sunday-atlas/majestic-monument-in-ashgabat-turkmenistan-37251238_vhe8ie.jpg",
+        "width": 1920,
+        "height": 3413
+      },
+      "alt": {
+        "en": "Independence Monument in Ashgabat, Turkmenistan",
+        "de": "Unabhängigkeitsdenkmal in Aschgabat, Turkmenistan",
+        "fr": "Monument de l’Indépendance à Achgabat, Turkménistan",
+        "ja": "アシガバートの独立記念塔（トルクメニスタン）",
+        "es": "Monumento a la Independencia en Asjabad, Turkmenistán",
+        "zh": "土库曼斯坦阿什哈巴德独立纪念碑"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400029/sunday-atlas/modern-government-building-in-ashgabat-turkmenistan-28707997_fmuuzl.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Government building in Ashgabat, Turkmenistan",
+        "de": "Regierungsgebäude in Aschgabat, Turkmenistan",
+        "fr": "Bâtiment gouvernemental à Achgabat, Turkménistan",
+        "ja": "アシガバートの政府庁舎（トルクメニスタン）",
+        "es": "Edificio gubernamental en Asjabad, Turkmenistán",
+        "zh": "土库曼斯坦阿什哈巴德政府大楼"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400032/sunday-atlas/modern-architectural-bridge-in-ashgabat-37251219_ymjdlx.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Bridge with Olympic symbols in Ashgabat, Turkmenistan",
+        "de": "Brücke mit olympischen Symbolen in Aschgabat, Turkmenistan",
+        "fr": "Pont orné de symboles olympiques à Achgabat, Turkménistan",
+        "ja": "オリンピックのシンボルがある橋（アシガバート、トルクメニスタン）",
+        "es": "Puente con símbolos olímpicos en Asjabad, Turkmenistán",
+        "zh": "土库曼斯坦阿什哈巴德奥运符号桥"
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Turkmenistan & Darvaza Gas Crater Tours [2027] | From $195 USD",
+      "meta_description": "Private Turkmenistan & Darvaza Gas Crater 4x4 tours from Ashgabat (From $195 USD). Includes LOI visa invitation support, Karakum Desert camp & UNESCO Nissa.",
+      "focus_keyword": "turkmenistan tours",
+      "keywords": [
+        "turkmenistan tours",
+        "darvaza gas crater tour",
+        "gates of hell turkmenistan tour",
+        "ashgabat to darvaza 4x4",
+        "turkmenistan visa loi tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Turkmenistan & Darwaza-Gaskrater Touren [2027] | Ab $195 USD",
+      "meta_description": "Private Turkmenistan-Reisen & 4x4-Touren zum brennenden Darwaza-Gaskrater ab Aschgabat (ab $195 USD) inkl. Visum-Einladungsschreiben (LOI) & Karakum-Camp.",
+      "focus_keyword": "turkmenistan reisen",
+      "keywords": [
+        "turkmenistan reisen",
+        "darwaza gaskrater tour",
+        "tor zur hölle turkmenistan",
+        "aschgabat darwaza ausflug",
+        "turkmenistan rundreise"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuits Turkménistan & Cratère de Darvaza [2027] | Dès $195 USD",
+      "meta_description": "Excursions 4x4 au cratère de gaz de Darvaza depuis Achgabat et circuits au Turkménistan (dès $195 USD) avec lettre d’invitation visa (LOI) et désert du Karakoum.",
+      "focus_keyword": "circuit turkménistan",
+      "keywords": [
+        "circuit turkménistan",
+        "cratère de darvaza tour",
+        "porte de l enfer turkménistan",
+        "excursion achgabat darvaza",
+        "voyage turkménistan"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "トルクメニスタン＆ダルヴァザ地獄の門ツアー [2027] | $195〜",
+      "meta_description": "アシガバート発ダルヴァザ「地獄の門」ガスクレーター4WDツアー＆トルクメニスタン周遊（$195〜）。ビザ招聘状（LOI）サポート、カラクム砂漠キャンプ付き。",
+      "focus_keyword": "トルクメニスタン ツアー",
+      "keywords": [
+        "トルクメニスタン ツアー",
+        "ダルヴァザ 地獄の門 ツアー",
+        "アシガバート 日帰り",
+        "トルクメニスタン ビザ ツアー",
+        "カラクム砂漠 ツアー"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tours a Turkmenistán y Cráter de Darvaza [2027] | Desde $195 USD",
+      "meta_description": "Excursiones 4x4 al cráter de gas de Darvaza desde Asjabad y circuitos por Turkmenistán (desde $195 USD) con carta de invitación de visado (LOI) y Karakum.",
+      "focus_keyword": "tours turkmenistán",
+      "keywords": [
+        "tours turkmenistán",
+        "cráter de darvaza tour",
+        "puerta del infierno turkmenistán",
+        "excursión asjabad darvaza",
+        "viajes a turkmenistán"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "土库曼斯坦与达尔瓦扎气体火山坑旅游 [2027] | 从 $195 USD 起",
+      "meta_description": "从阿什哈巴德出发的私人土库曼斯坦与达尔瓦扎气体火山坑 4x4 旅游（从 $195 USD 起）。包括 LOI 签证邀请函支持、卡拉库姆沙漠营地与联合国教科文组织尼萨古城。",
+      "focus_keyword": "土库曼斯坦旅游",
+      "keywords": [
+        "土库曼斯坦旅游",
+        "达尔瓦扎火坑",
+        "阿什哈巴德旅游",
+        "土库曼斯坦签证邀请函",
+        "卡拉库姆沙漠营地",
+        "尼萨古迹",
+        "土库曼斯坦四驱车游",
+        "土库曼斯坦旅游团",
+        "土库曼斯坦旅游攻略",
+        "土库曼斯坦 2027"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "intro": {
+    "en": "A Turkmenistan tour closes the Long Road Through the 5 Stans. From Khiva we cross at the Shavat border and drive 360 km across the Karakum Desert to the Darwaza Gas Crater, arriving before sunset for a BBQ dinner and a walk to the edge after dark, with a night in a yurt camp. Ashgabat follows: the Sunday Bazaar, the stables of the Akhal-Teke horses, the Ertogrul Ghazi Mosque, the National Museum, the Neutrality Arch and the Wedding Palace viewpoint over the white-marble city. Outside town we see Nissa, a UNESCO World Heritage Site and former capital of the Parthian Empire.",
+    "de": "Eine Turkmenistan Rundreise bildet den Abschluss der Reise Der lange Weg durch die 5 Stans. Von Chiwa überqueren wir die Grenze bei Schawat und fahren 360 km durch die Karakum zum Gaskrater von Darwasa. Wir kommen vor Sonnenuntergang an, essen zu Abend (BBQ), gehen nach Einbruch der Dunkelheit an den Rand und übernachten im Jurtencamp. Danach Aschgabat: der Sonntagsbasar, die Ställe der Achal-Tekkiner, die Ertugrul-Gazi-Moschee, das Nationalmuseum, der Bogen der Neutralität und der Aussichtspunkt am Hochzeitspalast über der Stadt aus weißem Marmor. Außerhalb sehen wir Nisa, UNESCO-Welterbe und einstige Hauptstadt des Partherreichs.",
+    "fr": "Le voyage au Turkménistan clôt La longue route à travers les 5 Stans. De Khiva, nous passons la frontière de Chavat et parcourons 360 km à travers le Karakoum jusqu’au cratère de gaz de Darvaza. Arrivée avant le coucher du soleil, dîner barbecue, approche du bord à la nuit tombée et nuit en camp de yourtes. Vient ensuite Achgabat : le bazar du dimanche, les écuries des chevaux akhal-téké, la mosquée Ertogrul Gazi, le Musée national, l’arche de la Neutralité et le point de vue du palais des Mariages sur la ville de marbre blanc. Hors de la ville, nous découvrons Nissa, inscrite au patrimoine mondial de l’UNESCO et ancienne capitale de l’Empire parthe.",
+    "ja": "「5つのスタンを巡る長い道」の最後を飾るのがトルクメニスタンツアーです。ヒヴァからシャヴァト国境を越え、カラクム砂漠を360km走ってダルヴァザのガスクレーターへ。日没前に到着してバーベキューの夕食をとり、暗くなってから縁まで歩き、ユルトキャンプに泊まります。続いてアシガバートへ。サンデー・バザール、アハルテケ馬の厩舎、エルトゥールル・ガーズィー・モスク、国立博物館、中立の門、白い大理石の街並みを望む結婚宮殿の展望台を巡ります。郊外では、ユネスコ世界遺産でパルティア王国の都だったニサを訪ねます。",
+    "es": "El viaje a Turkmenistán cierra El largo camino por los 5 Stans. Desde Jiva cruzamos la frontera de Shavat y recorremos 360 km por el Karakum hasta el cráter de gas de Darvaza. Llegamos antes de la puesta de sol, cenamos una barbacoa, nos acercamos al borde cuando ya es de noche y dormimos en un campamento de yurtas. Después, Asjabad: el Bazar del Domingo, las cuadras de los caballos ajal-teke, la mezquita Ertogrul Gazi, el Museo Nacional, el Arco de la Neutralidad y el mirador del Palacio de Bodas sobre la ciudad de mármol blanco. Fuera de la ciudad vemos Nisa, Patrimonio de la Humanidad de la UNESCO y antigua capital del Imperio parto.",
+    "zh": "土库曼斯坦之旅是“穿越中亚5国之旅”的收官行程。从希瓦出发，我们在沙瓦特边境口岸过境，驱车360公里穿越卡拉库姆沙漠前往达尔瓦扎气体坑，在日落前抵达，享用烧烤晚餐，并在夜晚步行至坑边，随后在毡包营地过夜。接下来前往阿什哈巴德：参观星期日集市、阿哈尔捷金马厩、厄尔图尔勒·加齐清真寺、国家博物馆、中立纪念碑，以及可俯瞰白色大理石城市的婚宴宫观景台。市区外，我们将参观尼萨，这是联合国教科文组织世界遗产，也是帕提亚帝国的前首都。"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "Which tour includes Turkmenistan?",
+        "de": "Welche Reise führt durch Turkmenistan?",
+        "fr": "Quel circuit passe par le Turkménistan ?",
+        "ja": "トルクメニスタンを訪れるツアーはどれですか？",
+        "es": "¿Qué viaje pasa por Turkmenistán?",
+        "zh": "哪个行程包含土库曼斯坦？"
+      },
+      "a": {
+        "en": "The Long Road Through the 5 Stans, Days 19–22: Darwaza, Ashgabat and Nissa, with departure from Ashgabat.",
+        "de": "Der lange Weg durch die 5 Stans, Tage 19–22: Darwasa, Aschgabat und Nisa, mit Abreise ab Aschgabat.",
+        "fr": "La longue route à travers les 5 Stans, jours 19 à 22 : Darvaza, Achgabat et Nissa, avec départ d’Achgabat.",
+        "ja": "「5つのスタンを巡る長い道」の19～22日目です。ダルヴァザ、アシガバート、ニサを訪れ、アシガバートから出発します。",
+        "es": "El largo camino por los 5 Stans, días 19 a 22: Darvaza, Asjabad y Nisa, con salida desde Asjabad.",
+        "zh": "“穿越中亚5国之旅”第19–22天：达尔瓦扎、阿什哈巴德和尼萨，从阿什哈巴德出发。"
+      }
+    },
+    {
+      "q": {
+        "en": "Where do we sleep at Darwaza?",
+        "de": "Wo übernachten wir in Darwasa?",
+        "fr": "Où dort-on à Darvaza ?",
+        "ja": "ダルヴァザではどこに泊まりますか？",
+        "es": "¿Dónde dormimos en Darvaza?",
+        "zh": "在达尔瓦扎哪里过夜？"
+      },
+      "a": {
+        "en": "At a desert yurt camp, with 3–4 travellers per yurt and shared bathrooms outside the yurt. In Ashgabat we stay at Ak-Altyn Hotel 3* or Sport Hotel 4*, or similar.",
+        "de": "In einem Jurtencamp in der Wüste, mit 3–4 Reisenden pro Jurte und gemeinsamen Bädern außerhalb der Jurte. In Aschgabat im Ak-Altyn Hotel 3* oder Sport Hotel 4* oder ähnlich.",
+        "fr": "Dans un camp de yourtes du désert, à 3–4 voyageurs par yourte, avec sanitaires partagés à l’extérieur. À Achgabat, à l’Ak-Altyn Hotel 3* ou au Sport Hotel 4*, ou similaire.",
+        "ja": "砂漠のユルトキャンプです。1ユルト3～4名で、バスルームはユルトの外の共用です。アシガバートではアク・アルトゥン・ホテル3つ星またはスポーツ・ホテル4つ星、または同等クラスです。",
+        "es": "En un campamento de yurtas en el desierto, con 3–4 viajeros por yurta y baños compartidos fuera. En Asjabad, en el Ak-Altyn Hotel 3* o el Sport Hotel 4*, o similar.",
+        "zh": "在沙漠毡包营地，每顶毡包住3–4位旅客，浴室在毡包外共用。在阿什哈巴德，我们入住阿克-阿尔汀酒店3星级或体育酒店4星级，或同等酒店。"
+      }
+    },
+    {
+      "q": {
+        "en": "Is the visa included?",
+        "de": "Ist das Visum enthalten?",
+        "fr": "Le visa est-il inclus ?",
+        "ja": "ビザは含まれますか？",
+        "es": "¿Está incluido el visado?",
+        "zh": "签证包含在内吗？"
+      },
+      "a": {
+        "en": "The visa invitation letter is included; the visa fee, approx. 100–120 USD per person, is not.",
+        "de": "Das Visa-Einladungsschreiben ist enthalten; die Visagebühr von ca. 100–120 USD pro Person nicht.",
+        "fr": "La lettre d’invitation est incluse ; les frais de visa, env. 100–120 USD par personne, ne le sont pas.",
+        "ja": "ビザ招待状は含まれます。ビザ料金（1名あたり約100～120 USD）は含まれません。",
+        "es": "La carta de invitación está incluida; la tasa del visado, aprox. 100–120 USD por persona, no.",
+        "zh": "签证邀请函已包含；签证费（每人约100–120 USD）不包含。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Turkmenistan tours: the Darwaza Gas Crater and Ashgabat",
+      "de": "Turkmenistan Rundreise: Gaskrater von Darwasa und Aschgabat",
+      "fr": "Voyage au Turkménistan : cratère de Darvaza et Achgabat",
+      "ja": "トルクメニスタン ツアー：ダルヴァザのガスクレーターとアシガバート",
+      "es": "Viaje a Turkmenistán: el cráter de Darvaza y Asjabad",
+      "zh": "土库曼斯坦旅游：达尔瓦扎气体火山坑与阿什哈巴德"
+    },
+    "seasons": {
+      "en": "Best time to visit Turkmenistan",
+      "de": "Reise nach Turkmenistan: beste Reisezeit",
+      "fr": "Quand partir au Turkménistan",
+      "ja": "トルクメニスタン旅行のベストシーズン",
+      "es": "Mejor época para viajar a Turkmenistán",
+      "zh": "最佳游览土库曼斯坦时间"
+    },
+    "highlights": {
+      "en": "Turkmenistan tourist attractions on our tour",
+      "de": "Turkmenistan Highlights unserer Reise",
+      "fr": "Cratère de Darvaza et autres temps forts du Turkménistan",
+      "ja": "ツアーで訪れるトルクメニスタンの見どころ",
+      "es": "Cráter de Darvaza y lo mejor de Turkmenistán en nuestro viaje",
+      "zh": "我们旅游线路中的土库曼斯坦旅游景点"
+    },
+    "faq": {
+      "en": "Turkmenistan travel: common questions",
+      "de": "Turkmenistan Reise: häufige Fragen",
+      "fr": "Voyage au Turkménistan : questions fréquentes",
+      "ja": "トルクメニスタン旅行：よくある質問",
+      "es": "Viaje a Turkmenistán: preguntas frecuentes",
+      "zh": "土库曼斯坦旅游：常见问题"
+    },
+    "packages": {
+      "en": "Turkmenistan tours",
+      "de": "Turkmenistan Reisen",
+      "fr": "Circuit Turkménistan : notre voyage",
+      "ja": "トルクメニスタンを巡るツアー",
+      "es": "Viajes a Turkmenistán",
+      "zh": "土库曼斯坦旅游线路"
+    }
+  }
+}

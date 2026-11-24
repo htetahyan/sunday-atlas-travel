@@ -1,0 +1,551 @@
+{
+  "slug": "azerbaijan-journey-5-days",
+  "title": {
+    "en": "Azerbaijan: The 5-Day Journey Tour",
+    "de": "Aserbaidschan: Die 5-tägige Rundreise",
+    "fr": "Azerbaïdjan : le voyage de 5 jours",
+    "ja": "アゼルバイジャン：5日間ジャーニーツアー",
+    "es": "Azerbaiyán: el viaje de 5 días",
+    "zh": "阿塞拜疆：5天之旅"
+  },
+  "destination": "azerbaijan",
+  "countries": [],
+  "durationDays": 5,
+  "nights": 4,
+  "style": {
+    "en": "Culture & history",
+    "de": "Kultur & Geschichte",
+    "fr": "Culture et histoire",
+    "ja": "文化と歴史",
+    "es": "Cultura e historia",
+    "zh": "文化与历史"
+  },
+  "seasonNote": {
+    "en": "April to June, September to November",
+    "de": "April bis Juni, September bis November",
+    "fr": "Avril à juin, septembre à novembre",
+    "ja": "4月～6月、9月～11月",
+    "es": "Abril a junio, septiembre a noviembre",
+    "zh": "4月至6月，9月至11月"
+  },
+  "maxGroupSize": 8,
+  "summary": {
+    "en": "A 5-day private Azerbaijan tour: Baku Old City and Heydar Aliyev Center, Yanardag and Ateshgah, plus Shamakhi, Gabala, Nohur Lake and the Tufandag cable car. From $781 per person.",
+    "de": "5 Tage private Aserbaidschan-Reise: Altstadt Baku und Heydar-Aliyev-Zentrum, Yanardag und Ateschgah, dazu Schamachi, Gabala, Nohur-See und Tufandag-Seilbahn. Ab $781 pro Person.",
+    "fr": "Circuit privé de 5 jours en Azerbaïdjan : vieille ville de Bakou et centre Heydar Aliyev, Yanardag et Ateshgah, plus Chamakhi, Gabala, lac Nohur et téléphérique de Tufandag. Dès 781 $ par personne.",
+    "ja": "5日間のアゼルバイジャン・プライベートツアー：バクー旧市街とヘイダル・アリエフ・センター、ヤナルダグとアテシュギャー、さらにシャマキ、ガバラ、ノフル湖、トゥファンダグのケーブルカー。1名$781から。",
+    "es": "Tour privado de 5 días por Azerbaiyán: Ciudad Vieja de Bakú y Centro Heydar Aliyev, Yanardag y Ateshgah, además de Shamají, Gabala, lago Nohur y el teleférico de Tufandag. Desde $781 por persona.",
+    "zh": "5天阿塞拜疆私人游：巴库旧城和海达尔·阿利耶夫中心，亚纳尔达格和阿特什加，以及沙马基、加巴拉、诺胡尔湖和图芬达格缆车。从每人781美元起。"
+  },
+  "intro": {
+    "en": "Five days give you Baku and the mountains: a full day in the capital and on the Absheron Peninsula, a full day in the Caucasus foothills around Gabala, and a free day, with a private driver and 4* hotel.",
+    "de": "Fünf Tage für Baku und die Berge: ein voller Tag in der Hauptstadt und auf Abscheron, ein voller Tag in den Kaukasus-Ausläufern um Gabala und ein freier Tag, mit privatem Fahrer und 4*-Hotel.",
+    "fr": "Cinq jours pour Bakou et les montagnes : une journée dans la capitale et sur l’Abşeron, une journée dans les contreforts du Caucase autour de Gabala et une journée libre, avec chauffeur privé et hôtel 4*.",
+    "ja": "5日間でバクーと山岳地帯を満喫。首都とアブシェロン半島で1日、ガバラ周辺のコーカサス山麓で1日、さらに自由日。専用ドライバーと4つ星ホテル付き。",
+    "es": "Cinco días para Bakú y las montañas: un día completo en la capital y Absherón, otro en las estribaciones del Cáucaso en Gabala y un día libre, con conductor privado y hotel 4*.",
+    "zh": "五天带您游览巴库与山区：在首都和阿布歇伦半岛度过一整天，在高加索山麓加巴拉周边度过一整天，以及一天自由活动，配备私人司机和4星级酒店。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Baku, arrival and Caspian evening walk",
+        "de": "Baku, Ankunft und Abendspaziergang am Kaspischen Meer",
+        "fr": "Bakou, arrivée et promenade du soir sur la Caspienne",
+        "ja": "バクー到着とカスピ海の夜散歩",
+        "es": "Bakú, llegada y paseo nocturno junto al Caspio",
+        "zh": "巴库，抵达及里海傍晚漫步"
+      },
+      "description": {
+        "en": "We meet you at Heydar Aliyev International Airport and drive you to our 4* hotel in Baku. In the evening, walk the Baku Boulevard along the Caspian Sea. Overnight in Baku.",
+        "de": "Wir holen Sie am Flughafen Heydar Aliyev ab und bringen Sie in unser 4*-Hotel in Baku. Am Abend spazieren Sie über den Baku-Boulevard am Kaspischen Meer. Übernachtung in Baku.",
+        "fr": "Nous vous accueillons à l’aéroport Heydar Aliyev et vous conduisons à notre hôtel 4* à Bakou. Le soir, promenez-vous sur le boulevard de Bakou au bord de la Caspienne. Nuit à Bakou.",
+        "ja": "ヘイダル・アリエフ国際空港でお出迎えし、バクーの4つ星ホテルへご案内します。夜はカスピ海沿いのバクー大通りを散策。バクー泊。",
+        "es": "Le recibimos en el aeropuerto Heydar Aliyev y le llevamos a nuestro hotel 4* en Bakú. Por la tarde, pasee por el bulevar de Bakú junto al mar Caspio. Noche en Bakú.",
+        "zh": "我们在海达尔·阿利耶夫国际机场迎接您，并送您前往巴库的4星级酒店。傍晚，沿巴库大道沿里海漫步。巴库过夜。"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Baku Old City, Heydar Aliyev Center and the Absheron fire sites",
+        "de": "Altstadt Baku, Heydar-Aliyev-Zentrum und die Feuerorte von Abscheron",
+        "fr": "Vieille ville de Bakou, centre Heydar Aliyev et sites de feu d’Abşeron",
+        "ja": "バクー旧市街、ヘイダル・アリエフ・センター、アブシェロンの火の名所",
+        "es": "Ciudad Vieja de Bakú, Centro Heydar Aliyev y los fuegos de Absherón",
+        "zh": "巴库旧城，海达尔·阿利耶夫中心和阿布歇伦火地"
+      },
+      "description": {
+        "en": "Our driver starts at Highland Park for the view over the Flame Towers and the bay. We walk Icherisheher, the UNESCO-listed Old City, with the Maiden Tower and the Palace of the Shirvanshahs, then see the Carpet Museum, Little Venice and the Heydar Aliyev Center. In the afternoon we head out on the Absheron Peninsula to Yanardag, the hillside that never stops burning, and the Ateshgah Fire Temple. Overnight in Baku. (Meals: breakfast)",
+        "de": "Unser Fahrer beginnt im Highland Park mit Blick auf die Flame Towers und die Bucht. Wir gehen durch Içərişəhər, die UNESCO-Altstadt, mit Jungfrauenturm und Palast der Schirwanschahs, und sehen Teppichmuseum, Klein-Venedig und das Heydar-Aliyev-Zentrum. Am Nachmittag fahren wir auf die Halbinsel Abscheron zum ewig brennenden Hang Yanardag und zum Feuertempel Ateschgah. Übernachtung in Baku. (Mahlzeiten: Frühstück)",
+        "fr": "Notre chauffeur commence par Highland Park et sa vue sur les Flame Towers et la baie. Nous parcourons Icherisheher, la vieille ville classée à l’UNESCO, avec la tour de la Vierge et le palais des Chirvanchahs, puis le musée du Tapis, la Petite Venise et le centre Heydar Aliyev. L’après-midi, cap sur la péninsule d’Abşeron : Yanardag, la colline qui brûle sans fin, et le temple du feu d’Ateshgah. Nuit à Bakou. (Repas : petit-déjeuner)",
+        "ja": "ハイランドパークからフレイムタワーと湾を一望してスタート。ユネスコ世界遺産の旧市街イチェリシェヘルで乙女の塔とシルヴァン・シャー宮殿を歩き、絨毯博物館、リトル・ヴェニス、ヘイダル・アリエフ・センターへ。午後はアブシェロン半島へ向かい、燃え続ける丘ヤナルダグと拝火教寺院アテシュギャーを訪れます。バクー泊。（食事：朝食）",
+        "es": "Nuestro conductor empieza en Highland Park, con vistas a las Flame Towers y la bahía. Recorremos Icherisheher, la Ciudad Vieja Patrimonio de la UNESCO, con la Torre de la Doncella y el Palacio de los Shirvanshah, y luego el Museo de la Alfombra, la Pequeña Venecia y el Centro Heydar Aliyev. Por la tarde vamos a la península de Absherón: Yanardag, la colina que arde sin parar, y el templo del fuego Ateshgah. Noche en Bakú. (Comidas: desayuno)",
+        "zh": "我们的司机从高地公园出发，俯瞰火焰塔和海湾。我们步行伊切里谢赫尔，即联合国教科文组织列入名录的旧城，参观少女塔和希尔万沙宫，然后参观地毯博物馆、小威尼斯和海达尔·阿利耶夫中心。下午我们前往阿布歇伦半岛，参观永不熄灭的山坡亚纳尔达格和阿特什加火神庙。巴库过夜。（含早餐）"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Shamakhi – Gabala – Nohur Lake – Tufandag, full day",
+        "de": "Schamachi – Gabala – Nohur-See – Tufandag, ganzer Tag",
+        "fr": "Chamakhi – Gabala – lac Nohur – Tufandag, journée complète",
+        "ja": "シャマキ – ガバラ – ノフル湖 – トゥファンダグ（終日）",
+        "es": "Shamají – Gabala – lago Nohur – Tufandag, día completo",
+        "zh": "沙马基 – 加巴拉 – 诺胡尔湖 – 图芬达格，全天"
+      },
+      "description": {
+        "en": "We drive into the Caucasus foothills, stopping at the Juma Mosque in Shamakhi. In Gabala we ride the Tufandag cable car for mountain views, visit Nohur Lake below the peaks and the Yeddi Gozel (Seven Beauties) waterfall, with time for an optional quad bike ride, then drive back to Baku. Overnight in Baku. (Meals: breakfast)",
+        "de": "Wir fahren in die Ausläufer des Kaukasus mit Halt an der Juma-Moschee in Schamachi. In Gabala fahren wir mit der Tufandag-Seilbahn, besuchen den Nohur-See unter den Gipfeln und den Wasserfall Yeddi Gözəl (Sieben Schönheiten), mit Zeit für eine optionale Quadtour, und fahren zurück nach Baku. Übernachtung in Baku. (Mahlzeiten: Frühstück)",
+        "fr": "Nous partons vers les contreforts du Caucase, avec un arrêt à la mosquée Juma de Chamakhi. À Gabala, nous prenons le téléphérique de Tufandag, visitons le lac Nohur au pied des sommets et la cascade Yeddi Gozel (Sept Beautés), avec du temps pour un quad en option, puis rentrons à Bakou. Nuit à Bakou. (Repas : petit-déjeuner)",
+        "ja": "コーカサス山麓へ向かい、シャマキのジュマ・モスクに立ち寄ります。ガバラではトゥファンダグのケーブルカーで山岳風景を楽しみ、山々の麓のノフル湖と「七人の美女」の滝を訪れ、オプションでバギー体験も。その後バクーへ戻ります。バクー泊。（食事：朝食）",
+        "es": "Nos adentramos en las estribaciones del Cáucaso, con parada en la mezquita Juma de Shamají. En Gabala subimos en el teleférico de Tufandag, visitamos el lago Nohur al pie de las montañas y la cascada Yeddi Gozel (Siete Bellezas), con tiempo para un quad opcional, y volvemos a Bakú. Noche en Bakú. (Comidas: desayuno)",
+        "zh": "我们驱车前往高加索山麓，途中在沙马基的周五清真寺停留。在加巴拉，乘坐图芬达格缆车欣赏山景，参观山脚下的诺胡尔湖和七美瀑布，并有时间选择骑乘四轮摩托车，然后驱车返回巴库。巴库过夜。（含早餐）"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Baku at your own pace",
+        "de": "Baku auf eigene Faust",
+        "fr": "Bakou à votre rythme",
+        "ja": "バクー自由行動",
+        "es": "Bakú a su ritmo",
+        "zh": "巴库，自由活动日"
+      },
+      "description": {
+        "en": "A free day with no early start. We suggest Nizami Street for shopping and Fountain Square for Azerbaijani food; we can book extra tours, such as Gobustan rock art and the mud volcanoes, on request. Overnight in Baku. (Meals: breakfast)",
+        "de": "Ein freier Tag ohne frühen Start. Wir empfehlen die Nizami-Straße zum Einkaufen und den Fontänenplatz für aserbaidschanische Küche; zusätzliche Ausflüge wie Gobustan mit Felsbildern und Schlammvulkanen buchen wir auf Wunsch. Übernachtung in Baku. (Mahlzeiten: Frühstück)",
+        "fr": "Une journée libre sans réveil matinal. Nous vous conseillons la rue Nizami pour le shopping et la place des Fontaines pour la cuisine azerbaïdjanaise ; nous pouvons réserver des excursions en plus, comme les pétroglyphes de Gobustan et les volcans de boue. Nuit à Bakou. (Repas : petit-déjeuner)",
+        "ja": "朝はゆっくりの自由日。ショッピングはニザミ通り、アゼルバイジャン料理は噴水広場がおすすめです。ゴブスタンの岩絵や泥火山などの追加ツアーもご希望に応じて手配します。バクー泊。（食事：朝食）",
+        "es": "Un día libre sin madrugar. Le recomendamos la calle Nizami para compras y la Plaza de las Fuentes para comida azerbaiyana; si lo desea, reservamos excursiones extra como el arte rupestre de Gobustán y los volcanes de lodo. Noche en Bakú. (Comidas: desayuno)",
+        "zh": "自由日，无需早起。我们建议在尼扎米街购物，在喷泉广场品尝阿塞拜疆美食；应要求，我们可以预订额外的旅游项目，如古布斯坦岩画和泥火山。巴库过夜。（含早餐）"
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Baku, departure",
+        "de": "Baku, Abreise",
+        "fr": "Bakou, départ",
+        "ja": "バクー出発",
+        "es": "Bakú, salida",
+        "zh": "巴库，离开"
+      },
+      "description": {
+        "en": "After breakfast, enjoy free time until our driver takes you to Heydar Aliyev International Airport.",
+        "de": "Nach dem Frühstück haben Sie Zeit, bis unser Fahrer Sie zum Flughafen Heydar Aliyev bringt.",
+        "fr": "Après le petit-déjeuner, temps libre jusqu’à ce que notre chauffeur vous conduise à l’aéroport Heydar Aliyev.",
+        "ja": "朝食後、出発まで自由時間。ドライバーがヘイダル・アリエフ国際空港までお送りします。",
+        "es": "Después del desayuno, tiempo libre hasta que nuestro conductor le lleve al aeropuerto Heydar Aliyev.",
+        "zh": "早餐后，享受自由时间，直到我们的司机送您前往海达尔·阿利耶夫国际机场。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Private airport arrival and departure transfers in Baku",
+      "4 nights in a 4* city hotel in Baku with daily breakfast",
+      "Daily sightseeing as in the itinerary, all on a private basis",
+      "English-speaking driver for all excursions",
+      "Travel insurance during the trip"
+    ],
+    "de": [
+      "Private Flughafentransfers bei Ankunft und Abreise in Baku",
+      "4 Nächte in einem 4*-Stadthotel in Baku mit Frühstück",
+      "Tägliche Besichtigungen laut Programm, alles privat",
+      "Englischsprachiger Fahrer für alle Ausflüge",
+      "Reiseversicherung während der Reise"
+    ],
+    "fr": [
+      "Transferts privés aéroport à l’arrivée et au départ à Bakou",
+      "4 nuits en hôtel 4* à Bakou avec petit-déjeuner",
+      "Visites quotidiennes selon le programme, en privé",
+      "Chauffeur anglophone pour toutes les excursions",
+      "Assurance voyage pendant le séjour"
+    ],
+    "ja": [
+      "バクー空港の到着・出発時専用送迎",
+      "バクーの4つ星ホテルに4泊（朝食付き）",
+      "旅程に沿った観光（すべて専用車）",
+      "全行程英語を話すドライバー",
+      "旅行中の旅行保険"
+    ],
+    "es": [
+      "Traslados privados de llegada y salida en Bakú",
+      "4 noches en hotel 4* en Bakú con desayuno",
+      "Visitas diarias según el itinerario, todo en privado",
+      "Conductor de habla inglesa en todas las excursiones",
+      "Seguro de viaje durante el viaje"
+    ],
+    "zh": [
+      "巴库私人机场接送服务（抵达和离开）",
+      "巴库4星级城市酒店4晚住宿，含每日早餐",
+      "按行程安排的每日观光，均为私人服务",
+      "所有远足均配备英语司机",
+      "行程期间旅行保险"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights to and from Baku",
+      "Azerbaijan e-visa fee",
+      "Lunches and dinners",
+      "Optional tours and activities not in the itinerary",
+      "Personal expenses and tips"
+    ],
+    "de": [
+      "Internationale Flüge nach und ab Baku",
+      "Gebühr für das E-Visum Aserbaidschan",
+      "Mittag- und Abendessen",
+      "Optionale Ausflüge und Aktivitäten außerhalb des Programms",
+      "Persönliche Ausgaben und Trinkgelder"
+    ],
+    "fr": [
+      "Vols internationaux vers et depuis Bakou",
+      "Frais d’e-visa pour l’Azerbaïdjan",
+      "Déjeuners et dîners",
+      "Excursions et activités optionnelles hors programme",
+      "Dépenses personnelles et pourboires"
+    ],
+    "ja": [
+      "バクー往復の国際線航空券",
+      "アゼルバイジャンeビザ代",
+      "昼食・夕食",
+      "旅程外のオプションツアー・アクティビティ",
+      "個人的な費用とチップ"
+    ],
+    "es": [
+      "Vuelos internacionales a y desde Bakú",
+      "Tasa del visado electrónico de Azerbaiyán",
+      "Almuerzos y cenas",
+      "Excursiones y actividades opcionales fuera del itinerario",
+      "Gastos personales y propinas"
+    ],
+    "zh": [
+      "往返巴库的国际机票",
+      "阿塞拜疆电子签证费用",
+      "午餐和晚餐",
+      "行程外的可选旅游和活动",
+      "个人开销和小费"
+    ]
+  },
+  "priceFrom": 781,
+  "currency": "USD",
+  "priceNote": {
+    "en": "USD per person, twin share in a 4* hotel, private tour.",
+    "de": "USD pro Person im Doppelzimmer, 4*-Hotel, private Reise.",
+    "fr": "USD par personne en chambre double, hôtel 4*, circuit privé.",
+    "ja": "4つ星ホテル2名1室利用時の1名あたりUSD、プライベートツアー。",
+    "es": "USD por persona en habitación doble, hotel 4*, tour privado.",
+    "zh": "每人美元，双人间入住4星级酒店，私人游。"
+  },
+  "fromLabel": {
+    "en": "from $781 per person (4*, twin share)",
+    "de": "ab $781 pro Person (4*, Doppelzimmer)",
+    "fr": "à partir de 781 $ par personne (4*  chambre double)",
+    "ja": "1名あたり$781から（4つ星・2名1室）",
+    "es": "desde $781 por persona (4*. habitación doble)",
+    "zh": "每人781美元起（4星级，双人间）"
+  },
+  "hotels": [],
+  "vehicles": [
+    {
+      "group": {
+        "en": "1–3 travellers",
+        "de": "1–3 Reisende",
+        "fr": "1–3 voyageurs",
+        "ja": "1～3名",
+        "es": "1–3 viajeros",
+        "zh": "1–3位旅客"
+      },
+      "vehicle": {
+        "en": "Private sedan",
+        "de": "Private Limousine",
+        "fr": "Berline privée",
+        "ja": "専用セダン",
+        "es": "Sedán privado",
+        "zh": "私人轿车"
+      }
+    },
+    {
+      "group": {
+        "en": "4–8 travellers",
+        "de": "4–8 Reisende",
+        "fr": "4–8 voyageurs",
+        "ja": "4～8名",
+        "es": "4–8 viajeros",
+        "zh": "4–8位旅客"
+      },
+      "vehicle": {
+        "en": "Private minivan",
+        "de": "Privater Minivan",
+        "fr": "Minivan privé",
+        "ja": "専用ミニバン",
+        "es": "Minivan privado",
+        "zh": "私人小巴"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925534/sunday-atlas/anu7rx2uxtiek3sf9iuj.jpg",
+    "width": 1600,
+    "height": 894,
+    "alt": {
+      "en": "Azerbaijan landscape and landmarks on our tour, photo 1",
+      "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 1",
+      "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 1",
+      "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真1）",
+      "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 1",
+      "zh": "阿塞拜疆风光与地标，我们的旅游照片1"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925533/sunday-atlas/dlyt0xbbf64jxgunqo7b.jpg",
+        "width": 1600,
+        "height": 1069
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 2",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 2",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 2",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真2）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 2",
+        "zh": "阿塞拜疆风光与地标，我们的旅游照片2"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925937/sunday-atlas/dkueyfqilrb5bozeltap.jpg",
+        "width": 1320,
+        "height": 799
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 3",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 3",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 3",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真3）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 3",
+        "zh": "阿塞拜疆风光与地标，我们的旅游照片3"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/ayewl7oqdkwwjxdgr1wp.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 4",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 4",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 4",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真4）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 4",
+        "zh": "阿塞拜疆风光与地标，我们的旅游照片4"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/oouclmavzj9yy5qndvj7.jpg",
+        "width": 1600,
+        "height": 776
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 5",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 5",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 5",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真5）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 5",
+        "zh": "阿塞拜疆风光与地标，我们的旅游照片5"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792925939/sunday-atlas/am0h3d8jtewzwzk2u5zq.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "Azerbaijan landscape and landmarks on our tour, photo 6",
+        "de": "Landschaft und Sehenswürdigkeiten in Aserbaidschan auf unserer Reise, Foto 6",
+        "fr": "Paysages et monuments en Azerbaïdjan lors de notre circuit, photo 6",
+        "ja": "当社ツアーで訪れるアゼルバイジャンの風景と名所（写真6）",
+        "es": "Paisajes y monumentos de Azerbaiyán en nuestro tour, foto 6",
+        "zh": "阿塞拜疆风光与地标，我们的旅游照片6"
+      }
+    }
+  ],
+  "sample": false,
+  "isDayTour": false,
+  "featured": true,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "5-Day Azerbaijan Private Tour: Baku, Absheron, Shamakhi & Gabala ($781)",
+      "meta_description": "From $781 USD/person: 5-day private Azerbaijan tour covering Baku UNESCO Old City, Heydar Aliyev Center, Ateshgah, Yanar Dag, Shamakhi, Nohur Lake & Gabala.",
+      "focus_keyword": "azerbaijan 5 day tour",
+      "keywords": [
+        "azerbaijan 5 day tour",
+        "baku gabala 5 day tour package",
+        "private azerbaijan itinerary",
+        "baku shamakhi gabala tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "5-Tage Aserbaidschan Privatreise: Baku, Abscheron & Gabala (Ab $781)",
+      "meta_description": "Ab $781 USD/Person: 5-tägige private Aserbaidschan-Rundreise mit Baku Altstadt, Heydar-Aliyev-Zentrum, Ateschgah, Yanar Dag, Schamachi, Nohur-See & Gabala.",
+      "focus_keyword": "aserbaidschan 5 tage reise",
+      "keywords": [
+        "aserbaidschan 5 tage reise",
+        "baku gabala rundreise",
+        "aserbaidschan privattour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuit Privé Azerbaïdjan 5 Jours : Bakou, Abcheron & Gabala (Dès $781)",
+      "meta_description": "Dès $781 USD/pers. : circuit privé de 5 jours en Azerbaïdjan (vieille ville de Bakou, centre Heydar Aliyev, Ateshgah, Yanar Dag, Chamakhi, lac Nohur et Gabala).",
+      "focus_keyword": "circuit azerbaïdjan 5 jours",
+      "keywords": [
+        "circuit azerbaïdjan 5 jours",
+        "circuit bakou gabala",
+        "voyage privé azerbaïdjan"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "アゼルバイジャン5日間プライベートツアー：バクー・アブシェロン＆ガバラ ($781〜)",
+      "meta_description": "1名$781〜：バクー世界遺産旧市街、ヘイダル・アリエフ・センター、アテシュギャーフ拝火教寺院、ヤナル・ダグ、シャマフ、ガバラ（ノフル湖・ロープウェイ）を巡る5日間。",
+      "focus_keyword": "アゼルバイジャン 5日間 ツアー",
+      "keywords": [
+        "アゼルバイジャン 5日間 ツアー",
+        "バクー ガバラ ツアー",
+        "アゼルバイジャン 旅行 パッケージ"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tour Privado Azerbaiyán 5 Días: Bakú, Absherón y Gabala (Desde $781)",
+      "meta_description": "Desde $781 USD/persona: tour privado de 5 días por Azerbaiyán (ciudad vieja de Bakú, centro Heydar Aliyev, Ateshgah, Yanar Dag, Shamakhi, lago Nohur y Gabala).",
+      "focus_keyword": "tour azerbaiyán 5 días",
+      "keywords": [
+        "tour azerbaiyán 5 días",
+        "circuito bakú gabala",
+        "paquete viaje azerbaiyán"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "5天阿塞拜疆私人游：巴库、阿布歇隆、沙马希与加巴拉（781美元）",
+      "meta_description": "每人781美元起：5天阿塞拜疆私人游，涵盖巴库联合国教科文组织老城、海德尔·阿利耶夫中心、阿特什加赫火神庙、亚纳尔达格、沙马希、诺胡尔湖与加巴拉。",
+      "focus_keyword": "阿塞拜疆5天私人游",
+      "keywords": [
+        "阿塞拜疆5天私人游",
+        "巴库旅游5天",
+        "阿塞拜疆巴库 戈布斯坦 夏马基 伽巴拉",
+        "阿塞拜疆私人包车游",
+        "阿塞拜疆火山泥 燃烧之山 旅游",
+        "阿塞拜疆诺胡尔湖 伽巴拉 5天",
+        "阿塞拜疆海德尔阿利耶夫中心 旅游",
+        "阿塞拜疆阿布歇龙半岛 旅游",
+        "阿塞拜疆夏马基 伽巴拉 私人游",
+        "阿塞拜疆5天行程 多少钱"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Azerbaijan tour, 5 days: Baku, Absheron, Gabala and Nohur Lake",
+      "de": "Aserbaidschan-Reise, 5 Tage: Baku, Abscheron, Gabala und Nohur-See",
+      "fr": "Circuit en Azerbaïdjan, 5 jours : Bakou, Abşeron, Gabala et lac Nohur",
+      "ja": "アゼルバイジャンツアー5日間：バクー、アブシェロン、ガバラ、ノフル湖",
+      "es": "Tour por Azerbaiyán, 5 días: Bakú, Absherón, Gabala y lago Nohur"
+    },
+    "facts": {
+      "en": "Azerbaijan tour, 5 days at a glance",
+      "de": "Aserbaidschan-Reise, 5 Tage im Überblick",
+      "fr": "Circuit Azerbaïdjan 5 jours en bref",
+      "ja": "アゼルバイジャンツアー5日間の概要",
+      "es": "Tour Azerbaiyán 5 días de un vistazo"
+    },
+    "itinerary": {
+      "en": "Day by day",
+      "de": "Tag für Tag",
+      "fr": "Jour par jour",
+      "ja": "日程",
+      "es": "Día a día"
+    },
+    "included": {
+      "en": "What the tour includes",
+      "de": "Im Preis enthalten",
+      "fr": "Ce que comprend le circuit",
+      "ja": "ツアーに含まれるもの",
+      "es": "Qué incluye el tour"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non compris",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "prices": {
+      "en": "Tour price",
+      "de": "Reisepreis",
+      "fr": "Prix du circuit",
+      "ja": "ツアー料金",
+      "es": "Precio del tour"
+    },
+    "vehicles": {
+      "en": "Vehicles by group size",
+      "de": "Fahrzeuge nach Gruppengröße",
+      "fr": "Véhicules selon la taille du groupe",
+      "ja": "人数別の車両",
+      "es": "Vehículos según el tamaño del grupo"
+    },
+    "faq": {
+      "en": "FAQs",
+      "de": "Häufige Fragen",
+      "fr": "Questions fréquentes",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does the Azerbaijan tour, 5 days cost?",
+        "de": "Was kostet die Reise „Aserbaidschan-Reise, 5 Tage“?",
+        "fr": "Combien coûte le circuit « Circuit Azerbaïdjan 5 jours » ?",
+        "ja": "アゼルバイジャンツアー5日間の料金はいくらですか？",
+        "es": "¿Cuánto cuesta el tour «Tour Azerbaiyán 5 días»?",
+        "zh": "阿塞拜疆5天之旅多少钱？"
+      },
+      "a": {
+        "en": "It starts from $781 per person in a twin room in a 4* hotel, with daily breakfast, private transfers and the sightseeing in the itinerary. Flights are not included.",
+        "de": "Ab $781 pro Person im Doppelzimmer in einem 4*-Hotel, mit Frühstück, privaten Transfers und den Besichtigungen laut Programm. Flüge sind nicht enthalten.",
+        "fr": "À partir de 781 $ par personne en chambre double en hôtel 4*, avec petit-déjeuner, transferts privés et visites du programme. Les vols ne sont pas inclus.",
+        "ja": "4つ星ホテル2名1室利用で1名あたり$781から。朝食、専用送迎、旅程内の観光が含まれます。航空券は含まれません。",
+        "es": "Desde $781 por persona en habitación doble en hotel 4*, con desayuno, traslados privados y las visitas del itinerario. Los vuelos no están incluidos.",
+        "zh": "每人781美元起，入住双人间4星级酒店，含每日早餐、私人接送及行程中的观光。机票不含。"
+      }
+    }
+  ],
+  "addOns": []
+}

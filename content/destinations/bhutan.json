@@ -1,0 +1,404 @@
+{
+  "slug": "bhutan",
+  "name": {
+    "en": "Bhutan",
+    "de": "Bhutan",
+    "fr": "Bhoutan",
+    "ja": "ブータン",
+    "es": "Bután"
+  },
+  "region": {
+    "en": "Eastern Himalaya",
+    "de": "Östlicher Himalaya",
+    "fr": "Himalaya oriental",
+    "ja": "東ヒマラヤ",
+    "es": "Himalaya oriental"
+  },
+  "summary": {
+    "en": "A short kingdom of valley towns, fortress monasteries, and high passes. This sample sketches a slow week between Paro, Thimphu, and Punakha for travellers who would rather walk a courtyard than tick off a list.",
+    "de": "Ein kleines Königreich aus Talstädten, Klosterfestungen und hohen Pässen. Dieses Beispiel skizziert eine langsame Woche zwischen Paro, Thimphu und Punakha für Reisende, die lieber einen Hof durchqueren, als eine Liste abzuhaken.",
+    "fr": "Un petit royaume de villes de vallée, de monastères-forteresses et de hauts cols. Cet exemple esquisse une semaine lente entre Paro, Thimphu et Punakha, pour des voyageurs qui préfèrent traverser une cour plutôt que cocher une liste.",
+    "ja": "谷あいの町、城塞寺院、高い峠からなる小さな王国です。この見本は、一覧をこなすより中庭を歩きたい旅人のために、パロ、ティンプー、プナカのあいだをゆっくり一週間かけて巡る姿を描きます。",
+    "es": "Un pequeño reino de pueblos de valle, monasterios fortaleza y puertos de montaña. Este ejemplo esboza una semana sin prisas entre Paro, Thimphu y Punakha para quienes prefieren recorrer un patio antes que tachar una lista."
+  },
+  "bestSeasons": {
+    "en": [
+      "Spring",
+      "Autumn"
+    ],
+    "de": [
+      "Frühling",
+      "Herbst"
+    ],
+    "fr": [
+      "Printemps",
+      "Automne"
+    ],
+    "ja": [
+      "春",
+      "秋"
+    ],
+    "es": [
+      "Primavera",
+      "Otoño"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Valley towns at an unhurried pace",
+      "Fortress monasteries and hillside walks",
+      "A high pass between the west and Punakha",
+      "Time with a local guide rather than a convoy"
+    ],
+    "de": [
+      "Talstädte in einem ruhigen Tempo",
+      "Klosterfestungen und Spaziergänge am Hang",
+      "Ein hoher Pass zwischen dem Westen und Punakha",
+      "Zeit mit einem lokalen Guide statt in einem Konvoi"
+    ],
+    "fr": [
+      "Des villes de vallée à un rythme posé",
+      "Des monastères-forteresses et des promenades à flanc de colline",
+      "Un haut col entre l’ouest et Punakha",
+      "Du temps avec un guide local plutôt qu’en convoi"
+    ],
+    "ja": [
+      "谷あいの町を急がずに巡ること",
+      "城塞寺院と、丘の斜面の散策",
+      "西部とプナカのあいだにある高い峠",
+      "車列ではなく、現地のガイドと過ごす時間"
+    ],
+    "es": [
+      "Pueblos de valle a un ritmo sin prisas",
+      "Monasterios fortaleza y paseos por las laderas",
+      "Un puerto de montaña entre el oeste y Punakha",
+      "Tiempo con un guía local en lugar de un convoy"
+    ]
+  },
+  "visaNote": {
+    "en": "Check official government sources before travel",
+    "de": "Prüfen Sie vor der Reise die offiziellen staatlichen Quellen.",
+    "fr": "Consultez les sources officielles du gouvernement avant de voyager.",
+    "ja": "ご旅行の前に、政府の公式な情報源をご確認ください。",
+    "es": "Consulte las fuentes oficiales del gobierno antes de viajar."
+  },
+  "heroGradient": [
+    "#0E4F57",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317579/sunday-atlas/bhutan_nya2ad.jpg",
+    "width": 1600,
+    "height": 1067,
+    "alt": {
+      "en": "Tiger's Nest monastery on a cliff above forested mountains in Paro, Bhutan",
+      "de": "Das Tigernest-Kloster auf einem Felsen über bewaldeten Bergen in Paro, Bhutan",
+      "fr": "Le monastère du Nid du Tigre sur une falaise au-dessus des montagnes boisées de Paro, au Bhoutan",
+      "ja": "ブータン・パロの森の山々を見下ろす崖に建つタクツァン僧院",
+      "es": "El monasterio del Nido del Tigre en un acantilado sobre montañas boscosas en Paro, Bután"
+    }
+  },
+  "sample": true,
+  "published": false,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317582/sunday-atlas/01-taktsang_icnstv.jpg",
+        "width": 1600,
+        "height": 2133
+      },
+      "alt": {
+        "en": "Paro Taktsang, a white monastery with gilded roofs, built into a cliff above a forested valley.",
+        "de": "Paro Taktsang, ein weißes Kloster mit vergoldeten Dächern, in eine Felswand über einem bewaldeten Tal gebaut.",
+        "fr": "Le Paro Taktsang, monastère blanc aux toits dorés, accroché à une falaise au-dessus d’une vallée boisée.",
+        "ja": "パロ・タクツァン。金箔の屋根を持つ白い僧院が、森の谷の上の崖に建っています。",
+        "es": "Paro Taktsang, un monasterio blanco de tejados dorados, asentado en un acantilado sobre un valle boscoso."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317584/sunday-atlas/02-punakha-dzong_grmkp5.jpg",
+        "width": 1600,
+        "height": 2133
+      },
+      "alt": {
+        "en": "Punakha Dzong, a white complex with red and gold roofs, on a wooded spur above a broad muddy river, with cloud on the ridges.",
+        "de": "Der Punakha-Dzong, eine weiße Anlage mit roten und goldenen Dächern, auf einem bewaldeten Sporn über einem breiten, lehmigen Fluss, mit Wolken an den Bergrücken.",
+        "fr": "Le dzong de Punakha, ensemble blanc aux toits rouges et or, sur un éperon boisé au-dessus d’une large rivière boueuse, avec des nuages sur les crêtes.",
+        "ja": "プナカ・ゾン。赤と金の屋根を持つ白い建物群が、濁った広い川の上の森の尾根にあり、稜線には雲がかかっています。",
+        "es": "El dzong de Punakha, un conjunto blanco de tejados rojos y dorados, en un espolón arbolado sobre un río ancho y turbio, con nubes en las crestas."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317584/sunday-atlas/03-buddha-dordenma_hwr1eb.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "The seated gilt figure of Buddha Dordenma in Thimphu, one hand on the knee and the other holding a bowl, against a blue sky.",
+        "de": "Die sitzende vergoldete Figur des Buddha Dordenma in Thimphu, eine Hand auf dem Knie, die andere mit einer Schale, vor blauem Himmel.",
+        "fr": "La statue dorée assise du Bouddha Dordenma à Thimphu, une main sur le genou et l’autre tenant un bol, sous un ciel bleu.",
+        "ja": "ティンプーの黄金のブッダ・ドルデンマ坐像。片手は膝に、もう一方の手は鉢を持ち、青空を背にしています。",
+        "es": "La figura dorada y sentada de Buda Dordenma en Thimphu, una mano sobre la rodilla y la otra con un cuenco, bajo un cielo azul."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317585/sunday-atlas/04-paro-valley_gkkypt.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "A river runs through the Paro valley past an airstrip, white buildings with green roofs, and forested hills.",
+        "de": "Ein Fluss zieht durch das Tal von Paro, vorbei an einer Landebahn, weißen Gebäuden mit grünen Dächern und bewaldeten Hügeln.",
+        "fr": "Une rivière traverse la vallée de Paro, le long d’une piste d’atterrissage, de bâtiments blancs aux toits verts et de collines boisées.",
+        "ja": "パロの谷を川が流れ、滑走路、緑の屋根の白い建物、そして森の丘が続いています。",
+        "es": "Un río recorre el valle de Paro junto a una pista de aterrizaje, edificios blancos de tejado verde y colinas boscosas."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317585/sunday-atlas/05-prayer-flags_lltxlv.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "Prayer flags in the foreground, and Paro Taktsang, white buildings with gilded roofs, on a rock face among trees.",
+        "de": "Gebetsfahnen im Vordergrund und der Paro Taktsang, weiße Gebäude mit vergoldeten Dächern, an einer Felswand zwischen Bäumen.",
+        "fr": "Des drapeaux de prière au premier plan, et le Paro Taktsang, bâtiments blancs aux toits dorés, sur une paroi rocheuse parmi les arbres.",
+        "ja": "手前に祈りの旗があり、その向こうの岩壁の木々の間に、金箔の屋根を持つ白いパロ・タクツァンが見えます。",
+        "es": "Banderas de oración en primer plano y, en una pared de roca entre árboles, el Paro Taktsang, edificios blancos de tejados dorados."
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317586/sunday-atlas/06-stupa-prayer-flags_pxfar2.jpg",
+        "width": 1600,
+        "height": 2844
+      },
+      "alt": {
+        "en": "A white stone stupa with a roof of stacked stones and prayer flags stands in a green meadow in Wangdue Phodrang, with forested slopes under a grey sky.",
+        "de": "Ein weißer steinerner Stupa mit einem Dach aus geschichteten Steinen und Gebetsfahnen steht auf einer grünen Wiese in Wangdue Phodrang, dahinter bewaldete Hänge unter grauem Himmel.",
+        "fr": "Un stupa blanc en pierre, au toit de pierres empilées et aux drapeaux de prière, se dresse dans une prairie verte à Wangdue Phodrang, avec des pentes boisées sous un ciel gris.",
+        "ja": "ワンデュ・ポダンの緑の草地に立つ、石を重ねた屋根と祈りの旗のある白い石の仏塔。背後は森の斜面で、空は灰色です。",
+        "es": "Una estupa blanca de piedra, con tejado de piedras apiladas y banderas de oración, se alza en un prado verde de Wangdue Phodrang, con laderas boscosas bajo un cielo gris."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Bhutan Private Tours & 7-Day Itinerary [2027] | Paro to Punakha",
+      "meta_description": "7-day private Bhutan tour itinerary from Paro to Thimphu, Dochula Pass & Punakha with Tiger’s Nest hike, licensed guide, private driver & visa arrangements.",
+      "focus_keyword": "bhutan private tours",
+      "keywords": [
+        "bhutan private tours",
+        "bhutan 7 day itinerary",
+        "paro thimphu punakha tour",
+        "tigers nest hike bhutan",
+        "bhutan travel guide"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "de": {
+      "seo_title": "Bhutan Privatreisen & 7-Tage-Route [2027] | Paro bis Punakha",
+      "meta_description": "7-tägige private Bhutan-Rundreise von Paro über Thimphu und den Dochula-Pass nach Punakha inklusive Tigernest-Wanderung, Reiseleitung & Visumservice.",
+      "focus_keyword": "bhutan rundreise",
+      "keywords": [
+        "bhutan rundreise",
+        "bhutan reise 7 tage",
+        "paro thimphu punakha",
+        "tigernest kloster wanderung"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "fr": {
+      "seo_title": "Circuits Privés au Bhoutan & Itinéraire 7 Jours [2027] | Paro à Punakha",
+      "meta_description": "Circuit privé de 7 jours au Bhoutan de Paro à Thimphu, col de Dochula et Punakha avec randonnée au Nid du Tigre, guide francophone/anglophone et visa.",
+      "focus_keyword": "circuit bhoutan",
+      "keywords": [
+        "circuit bhoutan",
+        "itinéraire bhoutan 7 jours",
+        "paro thimphu punakha",
+        "monastère taktsang randonnée"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "ja": {
+      "seo_title": "ブータン7日間プライベートツアー＆モデルコース [2027] | パロ〜プナカ",
+      "meta_description": "パロ、ティンプー、ドチュラ峠、プナカを巡るブータン7日間プライベートツアー。タクツァン僧院ハイキング、専用車、公認ガイド、ビザ手配付き。",
+      "focus_keyword": "ブータン ツアー",
+      "keywords": [
+        "ブータン ツアー",
+        "ブータン 7日間 モデルコース",
+        "タクツァン僧院 ツアー",
+        "パロ ティンプー プナカ"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    },
+    "es": {
+      "seo_title": "Tours Privados a Bután e Itinerario de 7 Días [2027] | Paro a Punakha",
+      "meta_description": "Itinerario privado de 7 días por Bután desde Paro hasta Thimphu, el paso Dochula y Punakha con subida al Nido del Tigre, guía privado, vehículo y visado.",
+      "focus_keyword": "tours bután",
+      "keywords": [
+        "tours bután",
+        "itinerario bután 7 días",
+        "paro thimphu punakha",
+        "monasterio nido del tigre"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": true
+    }
+  },
+  "intro": {
+    "en": "This Bhutan travel guide follows a small kingdom in the Eastern Himalaya, where valley towns, fortress monasteries and high passes set the pace. The sample sketches a slow week between Paro, Thimphu and Punakha, planned for spring and autumn, with a local English-speaking guide.",
+    "de": "Bhutan reisen heißt hier: ein kleines Königreich im östlichen Himalaya, in dem Talstädte, Klosterburgen und hohe Pässe das Tempo bestimmen. Das Beispiel skizziert eine ruhige Woche zwischen Paro, Thimphu und Punakha, geplant für Frühling und Herbst, mit einem lokalen, Englisch sprechenden Guide.",
+    "fr": "Ce voyage Bhoutan suit un petit royaume de l’est de l’Himalaya, où villes de vallée, monastères-forteresses et hauts cols donnent le rythme. L’exemple esquisse une semaine paisible entre Paro, Thimphu et Punakha, prévue au printemps et en automne, avec un guide local anglophone.",
+    "ja": "このブータン旅行ガイドは、谷の町、城塞寺院、高い峠が旅のペースを決める、東ヒマラヤの小さな王国を紹介します。サンプルは、パロ、ティンプー、プナカを巡るゆったりした1週間。春と秋を想定し、英語を話す現地ガイドが同行します。",
+    "es": "Este viaje a Bután recorre un pequeño reino del Himalaya oriental, donde pueblos de valle, monasterios fortaleza y pasos de montaña marcan el ritmo. El ejemplo traza una semana tranquila entre Paro, Thimphu y Punakha, pensada para primavera y otoño, con un guía local de habla inglesa."
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How many days in Bhutan is enough?",
+        "de": "Wann ist die beste Reisezeit für Bhutan?",
+        "fr": "Quand partir au Bhoutan ?",
+        "ja": "ブータン観光のベストシーズンはいつですか？",
+        "es": "¿Cuánto cuesta un viaje a Bután?"
+      },
+      "a": {
+        "en": "Our sample route takes seven days in western Bhutan, between Paro, Thimphu and Punakha. Tell us your window and we will shape the route to fit.",
+        "de": "Wir planen unsere Beispielroute für Frühling und Herbst.",
+        "fr": "Nous prévoyons notre itinéraire d’exemple au printemps et en automne.",
+        "ja": "当社のサンプル行程は春と秋を想定しています。",
+        "es": "Ponemos precio a cada viaje a Bután a petición, así que aquí no hay precio fijo. Consejo general: Bután cobra a los visitantes una tasa diaria de desarrollo sostenible fijada por el gobierno; consulte el importe actual en fuentes oficiales."
+      }
+    },
+    {
+      "q": {
+        "en": "Is Bhutan worth visiting?",
+        "de": "Wie kommt man nach Bhutan?",
+        "fr": "Comment aller au Bhoutan ?",
+        "ja": "ブータン旅行は何日必要ですか？",
+        "es": "¿Cómo viajar a Bután?"
+      },
+      "a": {
+        "en": "That depends on what you enjoy. Our sample suits travellers who like valley towns, fortress monasteries, hillside walks and an unhurried pace with a local guide.",
+        "de": "Unser Beispiel beginnt im Tal von Paro. Internationale Flüge sind nicht enthalten, außer Ihr Angebot nennt sie schriftlich.",
+        "fr": "Notre exemple commence dans la vallée de Paro. Les vols internationaux ne sont pas inclus, sauf si votre devis le précise par écrit.",
+        "ja": "当社のサンプルはブータン西部を巡る7日間です。ご希望の期間に合わせてルートを調整します。",
+        "es": "Nuestro ejemplo empieza en el valle de Paro. Los vuelos internacionales no están incluidos salvo que su presupuesto lo indique por escrito."
+      }
+    },
+    {
+      "q": {
+        "en": "How do I plan a trip to Bhutan?",
+        "de": "Lohnt sich eine Reise nach Bhutan?",
+        "fr": "Combien de jours au Bhoutan ?",
+        "ja": "ブータン旅行の方法は？",
+        "es": "¿Cuántos días en Bután?"
+      },
+      "a": {
+        "en": "Send us an outline with the inquiry form: a rough window, who is travelling and your pace. We reply by email with questions, then prepare a personal quote for your dates.",
+        "de": "Das hängt davon ab, was Sie mögen. Unser Beispiel passt zu Reisenden, die Talstädte, Klosterburgen, Wanderungen am Hang und ein ruhiges Tempo mit lokalem Guide schätzen.",
+        "fr": "Notre exemple dure sept jours dans l’ouest du pays. Donnez-nous votre période, nous adaptons l’itinéraire.",
+        "ja": "当社のサンプルはパロの谷から始まります。お見積もりに書面で明記しない限り、国際線の航空券は含まれません。",
+        "es": "Nuestro ejemplo dura siete días por el oeste del país. Díganos su ventana de fechas y ajustamos la ruta."
+      }
+    },
+    {
+      "q": {
+        "en": "Is Bhutan expensive to visit?",
+        "de": "Was kostet eine Bhutan-Reise?",
+        "fr": "Faut-il un visa pour le Bhoutan ?",
+        "ja": "ブータン旅行は安全ですか？",
+        "es": "¿Se necesita visa para Bután?"
+      },
+      "a": {
+        "en": "We quote each Bhutan trip on request, so there is no fixed price here. General guidance: Bhutan charges visitors a daily Sustainable Development Fee set by the government; check the current amount on official sources.",
+        "de": "Wir kalkulieren jede Bhutan-Reise auf Anfrage. Allgemeiner Hinweis: Bhutan erhebt eine tägliche Gebühr für nachhaltige Entwicklung (SDF); den aktuellen Betrag finden Sie in offiziellen Quellen.",
+        "fr": "Conseil général : les règles d’entrée sont fixées par le gouvernement. Vérifiez les sources gouvernementales officielles avant le départ.",
+        "ja": "一般的な情報として、ご予約前にご自身の国の政府が出す最新の渡航情報をご確認ください。当サイトでは安全を保証しません。",
+        "es": "Consejo general: las normas de entrada las fija el gobierno. Consulte fuentes oficiales del gobierno antes de viajar."
+      }
+    },
+    {
+      "q": {
+        "en": "Is Bhutan safe?",
+        "de": "Braucht man ein Visum für Bhutan?",
+        "fr": "Pourquoi aller au Bhoutan ?",
+        "ja": "ブータンのビザ取得方法は？",
+        "es": "¿Es seguro viajar a Bután?"
+      },
+      "a": {
+        "en": "General guidance: read your government's current travel advice for Bhutan before you book. We do not make safety promises on this site.",
+        "de": "Allgemeiner Hinweis: Die Einreiseregeln legt die Regierung fest. Prüfen Sie vor der Reise offizielle Regierungsquellen.",
+        "fr": "Pour les villes de vallée, les monastères-forteresses, les marches à flanc de colline et un rythme tranquille avec un guide local.",
+        "ja": "一般的な情報として、入国条件は政府が定めています。ご出発前に政府の公式情報をご確認ください。",
+        "es": "Consejo general: lea las recomendaciones de viaje actuales de su gobierno antes de reservar. No hacemos promesas de seguridad en este sitio."
+      }
+    },
+    {
+      "q": {
+        "en": "How do I travel to Bhutan?",
+        "de": "Ist Bhutan sicher?",
+        "fr": "Le Bhoutan est-il sûr ?",
+        "ja": "ブータンの観光税とは？",
+        "es": "¿Cuál es la mejor época para viajar a Bután?"
+      },
+      "a": {
+        "en": "Our sample starts in the Paro valley. International flights are not included unless your quote says so in writing. Visa and entry rules: check official government sources before travel.",
+        "de": "Allgemeiner Hinweis: Lesen Sie vor der Buchung die aktuellen Reisehinweise Ihrer Regierung. Sicherheitsversprechen machen wir auf dieser Website nicht.",
+        "fr": "Conseil général : consultez les conseils aux voyageurs de votre gouvernement avant de réserver. Nous ne faisons pas de promesses de sécurité sur ce site.",
+        "ja": "一般的な情報として、ブータンでは政府が定める持続可能な開発料（SDF）が1日ごとにかかります。最新の金額は公式情報でご確認ください。",
+        "es": "Planificamos nuestra ruta de ejemplo para primavera y otoño."
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Bhutan travel guide",
+      "de": "Bhutan reisen: Reiseführer von Paro bis Punakha",
+      "fr": "Voyage Bhoutan : guide de Paro à Punakha",
+      "ja": "ブータン旅行ガイド：パロからプナカへ",
+      "es": "Viaje a Bután: guía de Paro a Punakha"
+    },
+    "seasons": {
+      "en": "Bhutan travel season: spring and autumn",
+      "de": "Bhutan Reisezeit: Frühling und Herbst",
+      "fr": "Bhoutan, meilleure période : printemps et automne",
+      "ja": "ブータン観光のベストシーズン：春と秋",
+      "es": "Bután, cuándo ir: primavera y otoño"
+    },
+    "highlights": {
+      "en": "Bhutan travel tips and highlights",
+      "de": "Reise nach Bhutan: Höhepunkte",
+      "fr": "Voyage au Bhoutan : que visiter",
+      "ja": "ブータンの観光地と見どころ",
+      "es": "Bután, qué ver"
+    },
+    "faq": {
+      "en": "Bhutan travel advice: common questions",
+      "de": "Bhutan Reise planen: häufige Fragen",
+      "fr": "Guide voyage Bhoutan : questions fréquentes",
+      "ja": "ブータン旅行の注意点：よくある質問",
+      "es": "Viaje a Bután, requisitos y preguntas frecuentes"
+    },
+    "packages": {
+      "en": "A Bhutan trip plan to start from",
+      "de": "Bhutan Reise individuell: eine Beispielroute",
+      "fr": "Un voyage au Bhoutan en exemple",
+      "ja": "ブータン旅行のおすすめサンプル",
+      "es": "Bután viajes: una ruta de ejemplo"
+    }
+  }
+}

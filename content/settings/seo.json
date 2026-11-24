@@ -1,0 +1,75 @@
+{
+  "title_template": {
+    "en": "%s | Sunday Atlas Travel",
+    "de": "%s | Sunday Atlas Travel",
+    "fr": "%s | Sunday Atlas Travel",
+    "ja": "%s | Sunday Atlas Travel",
+    "es": "%s | Sunday Atlas Travel"
+  },
+  "default_description": {
+    "en": "Private Central Asia, Caucasus & China tour packages and day trips (2027) from $104 USD. 3★/4★ hotels, private 4x4 & driver, bullet trains. Personal quote by email.",
+    "de": "Private Zentralasien-, Kaukasus- & China-Rundreisen und Tagestouren (2027) ab $104 USD. 3★/4★-Hotels, privater Fahrer & Schnellzüge. Angebot in 24 Std.",
+    "fr": "Circuits privés et excursions en Asie centrale, Caucase et Chine (2027) dès $104 USD. Hôtels 3★/4★, chauffeur privé et trains rapides. Devis personnel par e-mail.",
+    "ja": "中央アジア・コーカサス・中国のプライベートツアー＆日帰り旅行（2027年・$104〜）。3★/4★ホテル、専用車・日本語/英語ガイド手配。メールで個別にお見積もり。",
+    "es": "Tours privados, paquetes de viaje y excursiones por Asia Central, Cáucaso y China (2027) desde $104 USD. Hoteles 3★/4★ y transporte privado. Presupuesto personal por correo."
+  },
+  "default_keywords": {
+    "en": [
+      "central asia tour packages",
+      "silk road private tours",
+      "uzbekistan tour packages",
+      "kazakhstan day trips",
+      "harbin ice festival tour",
+      "caucasus private tours"
+    ],
+    "de": [
+      "zentralasien rundreise",
+      "seidenstraße reisen",
+      "usbekistan rundreise",
+      "kasachstan tagestouren",
+      "kaukasus rundreise",
+      "harbin eisfestival tour"
+    ],
+    "fr": [
+      "circuit asie centrale",
+      "voyage route de la soie",
+      "circuit ouzbékistan",
+      "excursion almaty",
+      "circuit caucase",
+      "tour festival de glace harbin"
+    ],
+    "ja": [
+      "中央アジア ツアー",
+      "シルクロード 旅行",
+      "ウズベキスタン ツアー",
+      "アルマトイ 日帰りツアー",
+      "ハルビン 氷祭り ツアー",
+      "コーカサス ツアー"
+    ],
+    "es": [
+      "paquetes asia central",
+      "viajes ruta de la seda",
+      "tours uzbekistán",
+      "excursiones almaty",
+      "tours cáucaso",
+      "tour festival de hielo harbin"
+    ]
+  },
+  "social": {
+    "x": "https://x.com/sundayatlastrvl",
+    "instagram": "",
+    "facebook": "",
+    "youtube": "",
+    "tiktok": "",
+    "linkedin": "",
+    "trustpilot": "https://www.trustpilot.com/review/sundayatlastravel.com"
+  },
+  "contact_email": "contact@sundayatlastravel.com",
+  "organization_logo": "",
+  "google_site_verification": "",
+  "bing_site_verification": "",
+  "analytics": {
+    "provider": "none",
+    "id": ""
+  }
+}

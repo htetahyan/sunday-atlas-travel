@@ -1,0 +1,575 @@
+{
+  "slug": "krakow-zakopane-winter-7-days",
+  "title": {
+    "en": "Kraków & Zakopane in Winter: 7-Day Trip",
+    "de": "Krakau & Zakopane im Winter: 7-Tage-Reise",
+    "fr": "Cracovie et Zakopane en hiver : voyage de 7 jours",
+    "ja": "冬のクラクフとザコパネ 7日間",
+    "es": "Cracovia y Zakopane en invierno: viaje de 7 días",
+    "zh": "克拉科夫与扎科帕内冬季之旅：7天行程"
+  },
+  "destination": "poland",
+  "countries": [],
+  "durationDays": 7,
+  "nights": 6,
+  "style": {
+    "en": "Winter & snow",
+    "de": "Winter & Schnee",
+    "fr": "Hiver et neige",
+    "ja": "冬と雪",
+    "es": "Invierno y nieve",
+    "zh": "冬季与雪景"
+  },
+  "seasonNote": {
+    "en": "Winter, ideally late November to December for Kraków’s Christmas market",
+    "de": "Winter, am besten Ende November bis Dezember zum Krakauer Weihnachtsmarkt",
+    "fr": "Hiver, idéalement de fin novembre à décembre pour le marché de Noël de Cracovie",
+    "ja": "冬（クラクフのクリスマスマーケットが開かれる11月下旬～12月が最適）",
+    "es": "Invierno, idealmente de finales de noviembre a diciembre por el mercado navideño de Cracovia",
+    "zh": "冬季，最好是11月下旬至12月，适合游览克拉科夫圣诞市场"
+  },
+  "summary": {
+    "en": "A 7-day winter trip in southern Poland: three nights in Kraków for Wawel Castle, Kazimierz and the Christmas market, then three nights in Zakopane under the Tatra Mountains with a cable car, a sleigh ride and hot springs.",
+    "de": "7 Tage Winter in Südpolen: drei Nächte in Krakau mit Wawel, Kazimierz und Weihnachtsmarkt, dann drei Nächte in Zakopane unter der Tatra mit Seilbahn, Pferdeschlitten und Thermalquellen.",
+    "fr": "7 jours d’hiver dans le sud de la Pologne : trois nuits à Cracovie pour le Wawel, Kazimierz et le marché de Noël, puis trois nuits à Zakopane au pied des Tatras, avec téléphérique, traîneau et sources chaudes.",
+    "ja": "南ポーランドの冬を巡る7日間。クラクフで3泊してヴァヴェル城、カジミェシュ、クリスマスマーケットを楽しみ、タトラ山麓のザコパネで3泊。ロープウェイ、馬ぞり、温泉を体験します。",
+    "es": "7 días de invierno en el sur de Polonia: tres noches en Cracovia para el Wawel, Kazimierz y el mercado navideño, y tres noches en Zakopane bajo los Tatras con teleférico, trineo y aguas termales.",
+    "zh": "南波兰7天冬季之旅：在克拉科夫住3晚，游览瓦维尔城堡、卡齐米日区和圣诞市场；随后在塔特拉山脉下的扎科帕内住3晚，体验缆车、雪橇之旅和温泉。"
+  },
+  "intro": {
+    "en": "This trip splits a week between Kraków, Poland’s royal capital, and Zakopane, its winter capital in the Tatra Mountains. City days bring castles, old streets and Polish food; mountain days bring snow views, a sleigh ride and thermal pools, with private transfers and 4* or 5* hotels throughout.",
+    "de": "Diese Reise teilt eine Woche zwischen Krakau, der alten Königsstadt, und Zakopane, Polens Winterhauptstadt in der Tatra. In der Stadt warten Burg, Altstadtgassen und polnische Küche, in den Bergen Schneepanoramen, eine Schlittenfahrt und Thermalbecken – mit privaten Transfers und 4*- oder 5*-Hotels.",
+    "fr": "Ce voyage partage une semaine entre Cracovie, l’ancienne capitale royale, et Zakopane, capitale d’hiver de la Pologne dans les Tatras. En ville : château, vieilles rues et cuisine polonaise ; en montagne : panoramas enneigés, traîneau et bassins thermaux, avec transferts privés et hôtels 4* ou 5*.",
+    "ja": "ポーランドの古都クラクフと、タトラ山脈にある「冬の首都」ザコパネで1週間を過ごす旅です。街では城、旧市街、ポーランド料理を、山では雪景色、馬ぞり、温泉を楽しみます。専用送迎と4～5つ星ホテル付き。",
+    "es": "Este viaje reparte una semana entre Cracovia, la antigua capital real, y Zakopane, la capital invernal de Polonia en los Tatras. En la ciudad, castillo, calles antiguas y cocina polaca; en la montaña, vistas nevadas, trineo y piscinas termales, con traslados privados y hoteles de 4* o 5*.",
+    "zh": "本行程将一周时间分配在波兰皇都克拉科夫和塔特拉山脉中的波兰冬季之都扎科帕内之间。城市之日带您游览城堡、老街和波兰美食；山区之日带您欣赏雪景、体验雪橇之旅和温泉池，全程提供私人接送和4星或5星酒店。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Kraków, arrival",
+        "de": "Krakau, Ankunft",
+        "fr": "Cracovie, arrivée",
+        "ja": "クラクフ到着",
+        "es": "Cracovia, llegada",
+        "zh": "抵达克拉科夫"
+      },
+      "description": {
+        "en": "A private driver meets you at Kraków Airport (KRK) and takes you to your 4* or 5* hotel in the centre. In the evening you walk through the Christmas market on the Main Square; for dinner, we suggest a restaurant looking onto St Mary’s Basilica.",
+        "de": "Ein privater Fahrer holt Sie am Flughafen Krakau (KRK) ab und bringt Sie in Ihr 4*- oder 5*-Hotel im Zentrum. Am Abend schlendern Sie über den Weihnachtsmarkt auf dem Hauptmarkt; zum Essen empfehlen wir ein Restaurant mit Blick auf die Marienkirche.",
+        "fr": "Un chauffeur privé vous accueille à l’aéroport de Cracovie (KRK) et vous conduit à votre hôtel 4* ou 5* du centre. Le soir, promenade sur le marché de Noël de la place du Marché ; pour le dîner, nous suggérons un restaurant face à la basilique Sainte-Marie.",
+        "ja": "クラクフ空港（KRK）で専用ドライバーがお出迎えし、中心部の4～5つ星ホテルへ。夜は中央広場のクリスマスマーケットを散策。夕食には聖マリア教会を望むレストランがおすすめです。",
+        "es": "Un conductor privado le recibe en el aeropuerto de Cracovia (KRK) y le lleva a su hotel de 4* o 5* en el centro. Por la noche pasea por el mercado navideño de la Plaza del Mercado; para cenar, sugerimos un restaurante frente a la basílica de Santa María.",
+        "zh": "私人司机在克拉科夫机场（KRK）迎接您，并送您前往市中心的4星或5星酒店。傍晚，您在主广场的圣诞市场散步；晚餐建议选择一家可眺望圣玛丽大教堂的餐厅。"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Kraków: Wawel Castle, Old Town & Kazimierz",
+        "de": "Krakau: Wawel, Altstadt & Kazimierz",
+        "fr": "Cracovie : Wawel, vieille ville et Kazimierz",
+        "ja": "クラクフ：ヴァヴェル城、旧市街、カジミェシュ",
+        "es": "Cracovia: Wawel, casco antiguo y Kazimierz",
+        "zh": "克拉科夫：瓦维尔城堡、老城与卡齐米日区"
+      },
+      "description": {
+        "en": "In the morning you visit Wawel Castle, the Old Town and the Cloth Hall. The afternoon is for Kazimierz, the old Jewish quarter, now full of cafés and galleries. A horse-drawn carriage ride through the lit-up Old Town is an option before a free evening at the market.",
+        "de": "Am Vormittag besuchen Sie den Wawel, die Altstadt und die Tuchhallen. Der Nachmittag gehört Kazimierz, dem alten jüdischen Viertel voller Cafés und Galerien. Eine Kutschfahrt durch die beleuchtete Altstadt ist möglich, danach ist der Abend frei.",
+        "fr": "Le matin, visite du château du Wawel, de la vieille ville et de la Halle aux draps. L’après-midi est pour Kazimierz, l’ancien quartier juif, aujourd’hui plein de cafés et de galeries. Une promenade en calèche dans la vieille ville illuminée est possible avant une soirée libre au marché.",
+        "ja": "午前はヴァヴェル城、旧市街、織物会館を見学。午後は旧ユダヤ人地区カジミェシュでカフェやギャラリー巡り。ライトアップされた旧市街を馬車で巡るオプションもあり、夜はマーケットで自由に過ごせます。",
+        "es": "Por la mañana visita el castillo de Wawel, el casco antiguo y la Lonja de los Paños. La tarde es para Kazimierz, el antiguo barrio judío, hoy lleno de cafés y galerías. Puede dar un paseo en coche de caballos por el casco iluminado antes de una noche libre en el mercado.",
+        "zh": "上午游览瓦维尔城堡、老城和布匹大厅。下午前往卡齐米日区，这个充满咖啡馆和画廊的旧犹太区。傍晚可选择乘坐马车游览灯火辉煌的老城，随后在圣诞市场自由度过一个夜晚。"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Kraków: Polish food day",
+        "de": "Krakau: Tag der polnischen Küche",
+        "fr": "Cracovie : journée gourmande",
+        "ja": "クラクフ：ポーランド料理の日",
+        "es": "Cracovia: día de cocina polaca",
+        "zh": "克拉科夫：波兰美食日"
+      },
+      "description": {
+        "en": "A Polish cooking class in the morning, if you like, to learn pierogi dumplings or a traditional soup. In the afternoon you can explore Podgórze, the district across the river, or relax at a spa. Dinner suggestion: a rooftop restaurant above Wawel Hill.",
+        "de": "Am Vormittag auf Wunsch ein polnischer Kochkurs, in dem Sie Piroggen oder eine traditionelle Suppe zubereiten. Nachmittags erkunden Sie Podgórze auf der anderen Flussseite oder entspannen im Spa. Vorschlag zum Abendessen: ein Dachrestaurant über dem Wawelhügel.",
+        "fr": "Le matin, un cours de cuisine polonaise si vous le souhaitez, pour apprendre les pierogi ou une soupe traditionnelle. L’après-midi, découverte de Podgórze, de l’autre côté du fleuve, ou détente au spa. Suggestion de dîner : un restaurant sur les toits face à la colline du Wawel.",
+        "ja": "午前はご希望で料理教室に参加し、ピエロギや伝統的なスープ作りを体験。午後は川向こうのポドグジェ地区を散策するか、スパでくつろぎます。夕食はヴァヴェルの丘を望むルーフトップレストランがおすすめ。",
+        "es": "Por la mañana, si quiere, una clase de cocina polaca para aprender pierogi o una sopa tradicional. Por la tarde puede recorrer Podgórze, al otro lado del río, o relajarse en un spa. Sugerencia de cena: un restaurante en una azotea sobre la colina de Wawel.",
+        "zh": "上午参加波兰烹饪课（如您愿意），学习制作饺子或传统汤品。下午您可以探索河对岸的波德热日区，或在水疗中心放松。晚餐建议：瓦维尔山上的屋顶餐厅。"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Kraków – Chochołów – Zakopane",
+        "de": "Krakau – Chochołów – Zakopane",
+        "fr": "Cracovie – Chochołów – Zakopane",
+        "ja": "クラクフ – ホホウフ – ザコパネ",
+        "es": "Cracovia – Chochołów – Zakopane",
+        "zh": "克拉科夫 – 查霍乌夫 – 扎科帕内"
+      },
+      "description": {
+        "en": "A private transfer takes you to Zakopane, about 2.5 hours, with a stop at the Chochołów Thermal Baths for a soak in natural hot springs. You check in at a mountain-style hotel or chalet and have the evening free for the local restaurants.",
+        "de": "Ein privater Transfer bringt Sie in etwa 2,5 Stunden nach Zakopane, mit Halt in den Thermen von Chochołów für ein Bad im natürlichen Thermalwasser. Sie checken in einem Hotel oder Chalet im Bergstil ein; der Abend ist frei.",
+        "fr": "Un transfert privé vous emmène à Zakopane en 2 h 30 environ, avec un arrêt aux thermes de Chochołów pour un bain dans les sources chaudes naturelles. Installation dans un hôtel ou chalet de style montagnard ; soirée libre dans les restaurants locaux.",
+        "ja": "専用車でザコパネへ（約2.5時間）。途中ホホウフ温泉に立ち寄り、天然温泉に浸かります。山小屋風ホテルまたはシャレーにチェックインし、夜は地元のレストランで自由に。",
+        "es": "Un traslado privado le lleva a Zakopane en unas 2,5 horas, con parada en las termas de Chochołów para un baño en aguas termales naturales. Se aloja en un hotel o chalé de estilo montañés y tiene la noche libre.",
+        "zh": "私人接送车将您带往扎科帕内，车程约2.5小时，途中在查霍乌夫温泉浴场停留，享受天然温泉。您入住山地风格酒店或木屋，晚上自由前往当地餐厅。"
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Zakopane: Gubałówka or Kasprowy Wierch",
+        "de": "Zakopane: Gubałówka oder Kasprowy Wierch",
+        "fr": "Zakopane : Gubałówka ou Kasprowy Wierch",
+        "ja": "ザコパネ：グバウフカまたはカスプロヴィ・ヴィェルフ",
+        "es": "Zakopane: Gubałówka o Kasprowy Wierch",
+        "zh": "扎科帕内：古巴乌夫卡山或卡斯普罗维韦尔希峰"
+      },
+      "description": {
+        "en": "A cable car takes you up Gubałówka Hill or Kasprowy Wierch for wide views of the Tatras. In the afternoon a horse-drawn sleigh runs through snowy forest to a bonfire and a traditional grill dinner. You can also visit a farm that makes oscypek smoked cheese.",
+        "de": "Eine Seilbahn bringt Sie auf die Gubałówka oder den Kasprowy Wierch mit weitem Blick über die Tatra. Nachmittags fährt ein Pferdeschlitten durch den verschneiten Wald zu Lagerfeuer und traditionellem Grillessen. Möglich ist auch ein Besuch auf einem Hof, der Oscypek räuchert.",
+        "fr": "Un téléphérique vous monte sur la colline de Gubałówka ou au Kasprowy Wierch, avec de larges vues sur les Tatras. L’après-midi, un traîneau à cheval traverse la forêt enneigée jusqu’à un feu de camp et un dîner grillé traditionnel. Visite possible d’une ferme qui fume l’oscypek.",
+        "ja": "ロープウェイでグバウフカの丘またはカスプロヴィ・ヴィェルフへ上り、タトラ山脈を一望。午後は馬ぞりで雪の森を抜け、焚き火と伝統的なグリルディナーへ。燻製チーズ「オスツィペク」の農場見学も可能です。",
+        "es": "Un teleférico le sube a la colina de Gubałówka o al Kasprowy Wierch, con amplias vistas de los Tatras. Por la tarde, un trineo de caballos cruza el bosque nevado hasta una hoguera y una cena tradicional a la parrilla. También puede visitar una granja que ahúma oscypek.",
+        "zh": "乘坐缆车登上古巴乌夫卡山或卡斯普罗维韦尔希峰，俯瞰塔特拉山脉的壮丽景色。下午乘坐马拉雪橇穿过雪林，前往篝火晚餐和传统烧烤。您也可以参观一家制作奥斯切佩克熏奶酪的农场。"
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Zakopane: Krupówki Street & thermal baths",
+        "de": "Zakopane: Krupówki & Thermen",
+        "fr": "Zakopane : rue Krupówki et thermes",
+        "ja": "ザコパネ：クルポフキ通りと温泉",
+        "es": "Zakopane: calle Krupówki y termas",
+        "zh": "扎科帕内：克鲁普夫基街与温泉浴场"
+      },
+      "description": {
+        "en": "A free morning for snow, skiing or a private walking tour. In the afternoon, shopping on Krupówki Street or a visit to local craft workshops; the Bukowina or Bania thermal baths are another option. Dinner suggestion: a highlander restaurant with live music.",
+        "de": "Ein freier Vormittag für Schnee, Skifahren oder einen privaten Rundgang. Nachmittags Einkaufen auf der Krupówki-Straße oder Besuch bei Kunsthandwerkern; die Thermen Bukowina oder Bania sind eine weitere Option. Vorschlag zum Abendessen: ein Goralen-Restaurant mit Livemusik.",
+        "fr": "Matinée libre pour la neige, le ski ou une visite privée à pied. L’après-midi, shopping rue Krupówki ou visite d’ateliers d’artisans ; les thermes de Bukowina ou de Bania sont une autre option. Suggestion de dîner : un restaurant montagnard avec musique live.",
+        "ja": "午前は雪遊び、スキー、プライベート散策など自由に。午後はクルポフキ通りでの買い物や工房見学、ブコヴィナやバニャの温泉もおすすめ。夕食は生演奏のある山岳民族風レストランをご提案します。",
+        "es": "Mañana libre para la nieve, el esquí o un paseo privado. Por la tarde, compras en la calle Krupówki o visita a talleres de artesanía; las termas de Bukowina o Bania son otra opción. Sugerencia de cena: un restaurante montañés con música en directo.",
+        "zh": "上午自由活动，可玩雪、滑雪或参加私人步行游览。下午在克鲁普夫基街购物，或参观当地手工艺作坊；布科维纳或巴尼亚温泉浴场也是另一种选择。晚餐建议：一家有现场音乐的高地人餐厅。"
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Zakopane – Kraków, departure",
+        "de": "Zakopane – Krakau, Abreise",
+        "fr": "Zakopane – Cracovie, départ",
+        "ja": "ザコパネ – クラクフ、出発",
+        "es": "Zakopane – Cracovia, salida",
+        "zh": "扎科帕内 – 克拉科夫，离境"
+      },
+      "description": {
+        "en": "You drive back to Kraków, about 2.5 hours, with free time for last shopping or a coffee by the Main Square before a private transfer to Kraków Airport.",
+        "de": "Rückfahrt nach Krakau in etwa 2,5 Stunden, mit Zeit für letzte Einkäufe oder einen Kaffee am Hauptmarkt vor dem privaten Transfer zum Flughafen.",
+        "fr": "Retour à Cracovie en 2 h 30 environ, avec du temps pour un dernier shopping ou un café sur la place du Marché avant le transfert privé à l’aéroport.",
+        "ja": "クラクフへ戻り（約2.5時間）、中央広場で最後の買い物やコーヒーを楽しんでから専用車で空港へ。",
+        "es": "Regreso a Cracovia en unas 2,5 horas, con tiempo para últimas compras o un café en la Plaza del Mercado antes del traslado privado al aeropuerto.",
+        "zh": "您驱车返回克拉科夫，车程约2.5小时，有空闲时间进行最后购物或在主广场旁喝杯咖啡，随后乘坐私人接送车前往克拉科夫机场。"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "6 nights in 4* or 5* hotels, with breakfast",
+      "Private airport transfers on arrival and departure, and private transfers between cities and resorts",
+      "Stop at the Chochołów Thermal Baths on the way to Zakopane (entry ticket not included)",
+      "An online concierge to help before and during the trip",
+      "A local SIM card for calls and data",
+      "24/7 support while you travel"
+    ],
+    "de": [
+      "6 Nächte in 4*- oder 5*-Hotels mit Frühstück",
+      "Private Flughafentransfers bei Ankunft und Abreise sowie private Transfers zwischen Städten und Orten",
+      "Halt in den Thermen von Chochołów auf dem Weg nach Zakopane (Eintritt nicht enthalten)",
+      "Ein Online-Concierge, der vor und während der Reise hilft",
+      "Eine lokale SIM-Karte für Anrufe und Daten",
+      "Rund-um-die-Uhr-Betreuung während der Reise"
+    ],
+    "fr": [
+      "6 nuits en hôtels 4* ou 5*, petit-déjeuner compris",
+      "Transferts privés aéroport à l’arrivée et au départ, et transferts privés entre les villes et les stations",
+      "Arrêt aux thermes de Chochołów en route vers Zakopane (entrée non incluse)",
+      "Un concierge en ligne pour vous aider avant et pendant le voyage",
+      "Une carte SIM locale pour les appels et les données",
+      "Assistance 24 h/24 et 7 j/7 pendant le voyage"
+    ],
+    "ja": [
+      "4つ星または5つ星ホテル6泊（朝食付き）",
+      "到着・出発時の専用空港送迎、都市間・リゾート間の専用車移動",
+      "ザコパネへの途中でホホウフ温泉に立ち寄り（入場料は含まれません）",
+      "旅行前・旅行中にサポートするオンラインコンシェルジュ",
+      "通話・データ通信用の現地SIMカード",
+      "旅行中の24時間サポート"
+    ],
+    "es": [
+      "6 noches en hoteles de 4* o 5*, con desayuno",
+      "Traslados privados al aeropuerto a la llegada y la salida, y traslados privados entre ciudades y estaciones",
+      "Parada en las termas de Chochołów camino de Zakopane (entrada no incluida)",
+      "Un conserje en línea que le ayuda antes y durante el viaje",
+      "Una tarjeta SIM local para llamadas y datos",
+      "Asistencia 24/7 durante el viaje"
+    ],
+    "zh": [
+      "6晚4星或5星酒店住宿，含早餐",
+      "抵达和离境的私人机场接送，以及城市和度假地之间的私人接送",
+      "前往扎科帕内途中在查霍乌夫温泉浴场停留（门票不含）",
+      "在线礼宾服务，协助您出行前及旅途中事宜",
+      "一张本地SIM卡，用于通话和上网",
+      "旅途中24/7支持"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights",
+      "Lunches and dinners (restaurants suggested in the itinerary are paid locally)",
+      "Entry to the Chochołów Thermal Baths",
+      "Optional extras, added on request: local guides in Kraków and Zakopane, a driver for the day with English, Wawel Castle or thermal bath tickets, the cooking class, spa treatments, the sleigh ride and bonfire dinner, a photo session in the mountains, welcome and farewell dinners",
+      "Travel insurance and any Schengen visa fees"
+    ],
+    "de": [
+      "Internationale Flüge",
+      "Mittag- und Abendessen (die im Reiseverlauf vorgeschlagenen Restaurants zahlen Sie vor Ort)",
+      "Eintritt in die Thermen von Chochołów",
+      "Optionale Extras auf Wunsch: lokale Guides in Krakau und Zakopane, Tagesfahrer mit Englischkenntnissen, Eintritt Wawel oder Thermen, Kochkurs, Spa-Anwendungen, Schlittenfahrt mit Lagerfeueressen, Fotoshooting in den Bergen, Begrüßungs- und Abschiedsessen",
+      "Reiseversicherung und eventuelle Schengen-Visumgebühren"
+    ],
+    "fr": [
+      "Vols internationaux",
+      "Déjeuners et dîners (les restaurants suggérés dans le programme se règlent sur place)",
+      "Entrée aux thermes de Chochołów",
+      "Options sur demande : guides locaux à Cracovie et Zakopane, chauffeur anglophone à la journée, billets pour le Wawel ou les thermes, cours de cuisine, soins spa, traîneau et dîner au feu de camp, séance photo en montagne, dîners de bienvenue et d’adieu",
+      "Assurance voyage et frais de visa Schengen éventuels"
+    ],
+    "ja": [
+      "国際航空券",
+      "昼食・夕食（行程内でご提案するレストランは現地でお支払い）",
+      "ホホウフ温泉の入場料",
+      "ご希望に応じて追加できるオプション：クラクフとザコパネの現地ガイド、英語を話すドライバー（日単位）、ヴァヴェル城または温泉の入場券、料理教室、スパトリートメント、馬ぞりと焚き火ディナー、山での写真撮影、歓迎・送別ディナー",
+      "旅行保険、必要な場合のシェンゲンビザ費用"
+    ],
+    "es": [
+      "Vuelos internacionales",
+      "Almuerzos y cenas (los restaurantes sugeridos en el itinerario se pagan en destino)",
+      "Entrada a las termas de Chochołów",
+      "Extras opcionales, bajo petición: guías locales en Cracovia y Zakopane, conductor de habla inglesa por días, entradas al Wawel o a las termas, clase de cocina, tratamientos de spa, trineo y cena junto a la hoguera, sesión de fotos en la montaña, cenas de bienvenida y despedida",
+      "Seguro de viaje y, si aplica, la tasa del visado Schengen"
+    ],
+    "zh": [
+      "国际机票",
+      "午餐和晚餐（行程中建议的餐厅需在当地付费）",
+      "乔乔霍夫温泉浴场门票",
+      "可选额外服务，按需添加：克拉科夫和扎科帕内当地导游、全天英语司机、瓦维尔城堡或温泉浴场门票、烹饪课程、水疗护理、雪橇之旅和篝火晚餐、山区摄影拍摄、欢迎晚餐和告别晚餐",
+      "旅行保险及任何申根签证费用"
+    ]
+  },
+  "hotels": [],
+  "vehicles": [],
+  "sample": false,
+  "isDayTour": false,
+  "featured": false,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "Kraków & Zakopane Winter Trip: 7 Days, Christmas Market & Tatras",
+      "meta_description": "7 days, 6 nights from Kraków: Wawel Castle, Kazimierz, the Christmas market, Zakopane cable car, sleigh ride and Chochołów hot springs. Price on request.",
+      "focus_keyword": "krakow zakopane winter tour",
+      "keywords": [
+        "krakow zakopane winter tour",
+        "zakopane winter trip",
+        "krakow christmas market tour",
+        "tatra mountains winter",
+        "poland winter holiday 7 days"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Krakau & Zakopane im Winter: 7 Tage, Weihnachtsmarkt & Tatra",
+      "meta_description": "7 Tage, 6 Nächte ab Krakau: Wawel, Kazimierz, Weihnachtsmarkt, Seilbahn in Zakopane, Pferdeschlitten und Thermen von Chochołów. Preis auf Anfrage.",
+      "focus_keyword": "krakau zakopane winterreise",
+      "keywords": [
+        "krakau zakopane winterreise",
+        "zakopane winter",
+        "krakau weihnachtsmarkt reise",
+        "tatra winter",
+        "polen winterurlaub 7 tage"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Cracovie et Zakopane en hiver : 7 jours, marché de Noël et Tatras",
+      "meta_description": "7 jours, 6 nuits depuis Cracovie : Wawel, Kazimierz, marché de Noël, téléphérique de Zakopane, traîneau et thermes de Chochołów. Prix sur demande.",
+      "focus_keyword": "cracovie zakopane hiver",
+      "keywords": [
+        "cracovie zakopane hiver",
+        "zakopane en hiver",
+        "marché de noël cracovie",
+        "tatras hiver",
+        "pologne hiver 7 jours"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "冬のクラクフとザコパネ7日間：クリスマスマーケットとタトラ山脈",
+      "meta_description": "クラクフ発6泊7日：ヴァヴェル城、カジミェシュ、クリスマスマーケット、ザコパネのロープウェイ、馬ぞり、ホホウフ温泉。料金はお問い合わせ。",
+      "focus_keyword": "クラクフ ザコパネ 冬",
+      "keywords": [
+        "クラクフ ザコパネ 冬",
+        "ザコパネ 冬 旅行",
+        "クラクフ クリスマスマーケット",
+        "タトラ山脈 冬",
+        "ポーランド 冬 7日間"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Cracovia y Zakopane en invierno: 7 días, mercado navideño y Tatras",
+      "meta_description": "7 días, 6 noches desde Cracovia: Wawel, Kazimierz, mercado navideño, teleférico de Zakopane, trineo y termas de Chochołów. Precio a consultar.",
+      "focus_keyword": "cracovia zakopane invierno",
+      "keywords": [
+        "cracovia zakopane invierno",
+        "zakopane en invierno",
+        "mercado navideño cracovia",
+        "tatras invierno",
+        "polonia invierno 7 días"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "克拉科夫与扎科帕内冬季之旅：7天，圣诞市场与塔特拉山脉",
+      "meta_description": "7天6夜，从克拉科夫出发：瓦维尔城堡、卡齐米日、圣诞市场、扎科帕内缆车、雪橇之旅和乔乔霍夫温泉。价格可询。",
+      "focus_keyword": "克拉科夫 扎科帕内 冬季 7天",
+      "keywords": [
+        "克拉科夫 扎科帕内 冬季 7天",
+        "克拉科夫 圣诞市场 塔特拉山",
+        "扎科帕内 缆车 雪橇 热水泉",
+        "华威城堡 卡齐米日 区",
+        "克拉科夫 扎科帕内 包团",
+        "波兰 冬季 旅游 7天 6夜",
+        "喬喬洛夫 温泉 波兰",
+        "克拉科夫 圣诞市场 旅行团"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Kraków & Zakopane winter trip, 7 days",
+      "de": "Krakau & Zakopane im Winter, 7 Tage",
+      "fr": "Cracovie et Zakopane en hiver, 7 jours",
+      "ja": "冬のクラクフとザコパネ 7日間",
+      "es": "Cracovia y Zakopane en invierno, 7 días"
+    },
+    "facts": {
+      "en": "The trip at a glance",
+      "de": "Die Reise auf einen Blick",
+      "fr": "Le voyage en bref",
+      "ja": "旅の概要",
+      "es": "El viaje de un vistazo"
+    },
+    "itinerary": {
+      "en": "Kraków to Zakopane, day by day",
+      "de": "Von Krakau nach Zakopane, Tag für Tag",
+      "fr": "De Cracovie à Zakopane, jour par jour",
+      "ja": "クラクフからザコパネへ、日ごとの行程",
+      "es": "De Cracovia a Zakopane, día a día"
+    },
+    "included": {
+      "en": "What the trip includes",
+      "de": "Was die Reise umfasst",
+      "fr": "Ce qui est inclus",
+      "ja": "旅程に含まれるもの",
+      "es": "Qué incluye el viaje"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non inclus",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "faq": {
+      "en": "Kraków & Zakopane trip FAQs",
+      "de": "Häufige Fragen zur Reise",
+      "fr": "Questions fréquentes sur le voyage",
+      "ja": "よくある質問",
+      "es": "Preguntas frecuentes sobre el viaje"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How far is Zakopane from Kraków?",
+        "de": "Wie weit ist Zakopane von Krakau entfernt?",
+        "fr": "Quelle distance entre Cracovie et Zakopane ?",
+        "ja": "クラクフからザコパネまでの距離は？",
+        "es": "¿A qué distancia está Zakopane de Cracovia?",
+        "zh": "扎科帕内离克拉科夫有多远？"
+      },
+      "a": {
+        "en": "About 2.5 hours by private car. On the way there you stop at the Chochołów Thermal Baths, so the drive doubles as a spa break.",
+        "de": "Etwa 2,5 Stunden mit dem Privatwagen. Auf der Hinfahrt halten Sie in den Thermen von Chochołów, sodass die Fahrt zur Wellnesspause wird.",
+        "fr": "Environ 2 h 30 en voiture privée. À l’aller, vous vous arrêtez aux thermes de Chochołów : le trajet devient une pause bien-être.",
+        "ja": "専用車で約2.5時間です。行きはホホウフ温泉に立ち寄るので、移動中に温泉休憩ができます。",
+        "es": "Unas 2,5 horas en coche privado. A la ida para en las termas de Chochołów, así que el trayecto se convierte en una pausa de spa.",
+        "zh": "乘坐私家车约需2.5小时。途中会在乔乔霍夫温泉浴场停留，车程也成为一次温泉休憩。"
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need to ski on this trip?",
+        "de": "Muss ich auf dieser Reise Ski fahren?",
+        "fr": "Faut-il skier pendant ce voyage ?",
+        "ja": "この旅でスキーは必須ですか？",
+        "es": "¿Tengo que esquiar en este viaje?",
+        "zh": "这次旅行需要滑雪吗？"
+      },
+      "a": {
+        "en": "No. Skiing is an option on the free morning of Day 6. The other mountain days are a cable car, a sleigh ride, thermal baths and walks.",
+        "de": "Nein. Skifahren ist eine Option am freien Vormittag von Tag 6. Die übrigen Bergtage bestehen aus Seilbahn, Schlittenfahrt, Thermen und Spaziergängen.",
+        "fr": "Non. Le ski est une option le matin libre du jour 6. Les autres journées en montagne, ce sont un téléphérique, un traîneau, des thermes et des promenades.",
+        "ja": "いいえ。スキーは6日目の自由な午前中のオプションです。そのほかの山での日はロープウェイ、馬ぞり、温泉、散策が中心です。",
+        "es": "No. Esquiar es una opción la mañana libre del día 6. Los demás días de montaña son teleférico, trineo, termas y paseos.",
+        "zh": "不需要。滑雪是第6天空闲早晨的可选项目。其他山区行程包括缆车、雪橇之旅、温泉浴和徒步。"
+      }
+    }
+  ],
+  "addOns": [],
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519782/sunday-atlas/packages/krakow-zakopane-winter-7-days/krakow-wawel-castle-commons-116764516.jpg",
+        "width": 1920,
+        "height": 1296,
+        "credit": {
+          "author": "Ввласенко",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bastion_and_Wawel_Thief_Tower._Krakow,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Wawel Castle in Kraków, Poland, with brick walls and a tower under a clear sky.",
+        "de": "Wawel Castle in Kraków, Poland, with brick walls and a tower under a clear sky.",
+        "fr": "Wawel Castle in Kraków, Poland, with brick walls and a tower under a clear sky.",
+        "ja": "Wawel Castle in Kraków, Poland, with brick walls and a tower under a clear sky.",
+        "es": "Wawel Castle in Kraków, Poland, with brick walls and a tower under a clear sky.",
+        "zh": "波兰克拉科夫瓦维尔城堡，砖墙与塔楼在晴朗天空下。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519840/sunday-atlas/packages/krakow-zakopane-winter-7-days/kazimierz-commons-53344118.jpg",
+        "width": 1920,
+        "height": 1277,
+        "credit": {
+          "author": "Scotch Mist",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kazimierz_Dolny_22.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "A giant puppet stands in a historic square in Kazimierz, Poland.",
+        "de": "A giant puppet stands in a historic square in Kazimierz, Poland.",
+        "fr": "A giant puppet stands in a historic square in Kazimierz, Poland.",
+        "ja": "A giant puppet stands in a historic square in Kazimierz, Poland.",
+        "es": "A giant puppet stands in a historic square in Kazimierz, Poland.",
+        "zh": "波兰卡齐米日历史广场上的一尊巨型木偶。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519852/sunday-atlas/packages/krakow-zakopane-winter-7-days/chocho-ow-commons-188090479.jpg",
+        "width": 1920,
+        "height": 1281,
+        "credit": {
+          "author": "Scotch Mist",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poland_2025_499_Chocho%C5%82%C3%B3w_-_Public_Library.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "A traditional wooden log house with a shingled roof in Chochołów, Poland.",
+        "de": "A traditional wooden log house with a shingled roof in Chochołów, Poland.",
+        "fr": "A traditional wooden log house with a shingled roof in Chochołów, Poland.",
+        "ja": "A traditional wooden log house with a shingled roof in Chochołów, Poland.",
+        "es": "A traditional wooden log house with a shingled roof in Chochołów, Poland.",
+        "zh": "波兰乔乔霍夫一座传统木屋，铺有木瓦屋顶。"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520269/sunday-atlas/packages/krakow-zakopane-winter-7-days/krakow-commons-130751505.jpg",
+        "width": 1920,
+        "height": 853,
+        "credit": {
+          "author": "Jakub Hałun",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Widok_na_Krak%C3%B3w_z_Kopca_Krakusa,_20230411_1438_3407.jpg",
+          "provider": "commons",
+          "required": true
+        }
+      },
+      "alt": {
+        "en": "Panoramic view of Kraków, Poland, with historic rooftops and church spires under a cloudy sky.",
+        "de": "Panoramic view of Kraków, Poland, with historic rooftops and church spires under a cloudy sky.",
+        "fr": "Panoramic view of Kraków, Poland, with historic rooftops and church spires under a cloudy sky.",
+        "ja": "Panoramic view of Kraków, Poland, with historic rooftops and church spires under a cloudy sky.",
+        "es": "Panoramic view of Kraków, Poland, with historic rooftops and church spires under a cloudy sky.",
+        "zh": "波兰克拉科夫全景，历史屋顶与教堂尖顶在多云天空下。"
+      }
+    }
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793519773/sunday-atlas/packages/krakow-zakopane-winter-7-days/krakow-commons-153312889.jpg",
+    "width": 1920,
+    "height": 1282,
+    "credit": {
+      "author": "Gswito",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barbakan_przed_wschodem_s%C5%82o%C5%84ca.jpg",
+      "provider": "commons",
+      "required": true
+    },
+    "alt": {
+      "en": "Barbakan in Kraków, Poland at twilight with light trails on the street.",
+      "de": "Barbakan in Kraków, Poland at twilight with light trails on the street.",
+      "fr": "Barbakan in Kraków, Poland at twilight with light trails on the street.",
+      "ja": "Barbakan in Kraków, Poland at twilight with light trails on the street.",
+      "es": "Barbakan in Kraków, Poland at twilight with light trails on the street.",
+      "zh": "波兰克拉科夫巴巴坎，黄昏时分街道上有光轨。"
+    }
+  }
+}

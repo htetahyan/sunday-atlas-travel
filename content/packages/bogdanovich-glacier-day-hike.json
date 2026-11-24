@@ -1,0 +1,561 @@
+{
+  "slug": "bogdanovich-glacier-day-hike",
+  "title": {
+    "en": "Bogdanovich Glacier day hike",
+    "de": "Bogdanowitsch-Gletscher-Tagestour",
+    "fr": "Randonnée d'une journée sur le glacier Bogdanovich",
+    "ja": "ボグダノビッチ氷河のデイハイク",
+    "es": "Excursión de un día al glaciar Bogdanovich",
+    "zh": "博格达诺维奇冰川一日徒步"
+  },
+  "destination": "kazakhstan",
+  "countries": [],
+  "durationDays": 1,
+  "nights": 0,
+  "style": {
+    "en": "Mountain hiking, fit hikers only",
+    "de": "Bergwandern, nur für fitte Wanderer",
+    "fr": "Randonnée en montagne, réservée aux randonneurs en bonne forme physique",
+    "ja": "山岳ハイキング、体力のある方向け",
+    "es": "Senderismo de montaña, solo para excursionistas en forma",
+    "zh": "山地徒步，仅限体能良好的徒步者"
+  },
+  "seasonNote": {
+    "en": "Regular season early June to mid-September; a tougher winter version may run from December to February",
+    "de": "Hauptsaison von Anfang Juni bis Mitte September; eine härtere Winterversion kann von Dezember bis Februar stattfinden",
+    "fr": "Saison régulière de début juin à mi-septembre; une version hivernale plus rude peut se dérouler de décembre à février",
+    "es": "Temporada regular de principios de junio a mediados de septiembre; puede haber una versión más exigente en invierno de diciembre a febrero",
+    "ja": "通常シーズンは6月初旬から9月中旬まで。冬の厳しいバージョンは12月から2月まで開催されることがあります。",
+    "zh": "常规季节为6月上旬至9月中旬；12月至2月可能推出更艰难的冬季版本"
+  },
+  "maxGroupSize": 4,
+  "summary": {
+    "en": "A private day hike from Almaty for fit hikers: the cable car from Medeu to the Talgar pass at 3,200 m, then on foot across moraine to the tongue of Bogdanovich Glacier at 3,600 m and back.",
+    "de": "Eine private Tagestour ab Almaty für fitte Wanderer: die Seilbahn von Medeu zum Talgar-Pass auf 3.200 m, dann zu Fuß über Moränen zum Zungenende des Bogdanowitsch-Gletschers auf 3.600 m und zurück.",
+    "fr": "Une randonnée d'une journée privée au départ d'Almaty pour les randonneurs en bonne forme physique: le téléphérique de Medeu au col de Talgar à 3 200 m, puis à pied à travers la moraine jusqu'à la langue du glacier Bogdanovich à 3 600 m et retour.",
+    "ja": "アルマトイからのプライベートデイハイク。体力のある方向け。メデウからタルガル峠（標高3,200 m）までのケーブルカーに乗り、その後モレーンを横断してボグダノビッチ氷河の舌（標高3,600 m）まで歩き、戻ります。",
+    "es": "Una excursión privada de un día desde Almaty para excursionistas en forma: el teleférico desde Medeu hasta el paso de Talgar a 3,200 m, luego a pie a través de la morrena hasta la lengua del glaciar Bogdanovich a 3,600 m y de regreso.",
+    "zh": "从阿拉木图出发的私人一日徒步，适合体能良好的徒步者：乘坐缆车从梅德乌前往海拔3,200米的塔尔加尔山口，随后徒步穿越冰碛，前往海拔3,600米的博格达诺维奇冰川冰舌，再返回。"
+  },
+  "intro": {
+    "en": "This Bogdanovich Glacier hike is a private day trip from Almaty for one to four fit hikers. A cable car takes you from Medeu via Shymbulak up to the Talgar pass at 3,200 m, and our guide leads you on foot across moraine to the glacier tongue at 3,600 m and back. It is a real mountain hike, not a sightseeing walk: for long stretches the path is barely visible, and you need mountain clothing, proper footwear and experience on rocks, snow and uneven ground. No meals are included, so bring your own food and water.",
+    "de": "Diese Wanderung zum Bogdanowitsch-Gletscher ist eine private Tagestour ab Almaty für ein bis vier fitte Wanderer. Eine Seilbahn bringt Sie von Medeu über Schymbulak bis zum Talgar-Pass auf 3.200 m, und unser Guide führt Sie zu Fuß über Moränen zum Zungenende des Gletschers auf 3.600 m und zurück. Es ist eine echte Bergwanderung, kein Sightseeing-Spaziergang: auf weiten Strecken ist der Weg kaum sichtbar, und Sie benötigen Bergkleidung, geeignetes Schuhwerk und Erfahrung auf Felsen, Schnee und unebenem Gelände. Mahlzeiten sind nicht inbegriffen, also bringen Sie Ihr eigenes Essen und Wasser mit.",
+    "fr": "Cette randonnée sur le glacier Bogdanovich est une excursion d'une journée privée au départ d'Almaty pour un à quatre randonneurs en bonne forme physique. Un téléphérique vous emmène de Medeu via Shymbulak jusqu'au col de Talgar à 3 200 m, et notre guide vous accompagne à pied à travers la moraine jusqu'à la langue du glacier à 3 600 m et retour. Il s'agit d'une véritable randonnée en montagne, et non d'une promenade touristique: sur de longues distances, le sentier est à peine visible, et vous aurez besoin de vêtements de montagne, de chaussures adaptées et d'expérience sur les rochers, la neige et les terrains inégaux. Aucun repas n'est inclus, donc apportez votre propre nourriture et eau.",
+    "es": "Esta excursión al glaciar Bogdanovich es un viaje privado de un día desde Almaty para uno a cuatro excursionistas en forma. Un teleférico te lleva desde Medeu a través de Shymbulak hasta el paso de Talgar a 3,200 m, y nuestro guía te lleva a pie a través de la morrena hasta la lengua del glaciar a 3,600 m y de regreso. Es una verdadera caminata de montaña, no un paseo turístico: durante largos tramos el camino apenas es visible, y necesitas ropa de montaña, calzado adecuado y experiencia en rocas, nieve y terreno irregular. No se incluyen comidas, así que trae tu propia comida y agua.",
+    "ja": "このボグダノビッチ氷河ハイキングは、アルマトイから1人から4人のフィットなハイカー向けのプライベートデイトリップです。ケーブルカーでメデウからシムブラクを経由してタルガル峠（標高3,200 m）まで上り、当社のガイドがモレーンを横断して氷河の舌（標高3,600 m）まで案内します。これは観光散策ではなく、本格的な山登りです。長い間、道はほとんど見えません。山登りの服装、適切な靴、岩や雪、不平な地形での経験が必要です。食事は含まれていませんので、ご自身で食料と水をご用意ください。",
+    "zh": "此次博格达诺维奇冰川徒步是从阿拉木图出发的私人一日行程，适合一至四名体能良好的徒步者。缆车将您从梅德乌经希姆布拉克前往海拔3,200米的塔尔加尔山口，随后我们的导游带领您徒步穿越冰碛，前往海拔3,600米的冰川冰舌并返回。这是一次真正的山地徒步，而非观光漫步：在很长一段路程中，小路几乎不可见，您需要山地服装、合适的鞋履以及在岩石、积雪和不平地面上行走的经验。行程不含餐食，请自备食物和水。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Almaty – Medeu – Talgar pass – Bogdanovich Glacier – Almaty",
+        "de": "Almaty – Medeu – Talgar-Pass – Bogdanowitsch-Gletscher – Almaty",
+        "fr": "Almaty – Medeu – Col de Talgar – Glacier Bogdanovich – Almaty",
+        "ja": "アルマトイ – メデウ – タルガル峠 – ボグダノビッチ氷河 – アルマトイ",
+        "es": "Almaty – Medeu – Paso de Talgar – Glaciar Bogdanovich – Almaty",
+        "zh": "阿拉木图 – 梅德乌 – 塔尔加尔山口 – 博格达诺维奇冰川 – 阿拉木图"
+      },
+      "description": {
+        "en": "Our guide meets you at your hotel in Almaty in the morning and we drive to the Medeu skating rink. From there the cable car runs via the Shymbulak ski resort up to the Talgar pass at 3,200 m. The trail leaves the pass through alpine highland and enters the glacier zone, where almost nothing grows. It follows a dirt track along the left side of the gorge, then climbs onto the glacier's left lateral moraine, where the path almost disappears. After about an hour it reaches the middle of the gorge, passes a large rock ledge on the left and leads along the right side of the valley to the glacier tongue. On the way you see Chkalov and Fizkulturnik peaks with the hanging Ayak and Til glaciers, and from the tongue the north faces of Komsomol, Amangeldy and Pioneer peaks. Having reached 3,600 m, we walk back to the pass, ride the cable car down to Medeu and drive back to the city. Walking: about 4 hours on the route, but plan for 5–6 hours of steady hiking; 13 km return, 400 m up and down (3,200–3,600 m). Driving: about 2 hours return, plus about 50 minutes on the cable car.",
+        "de": "Unser Guide trifft Sie morgens in Ihrem Hotel in Almaty und wir fahren zur Medeu-Eisbahn. Von dort aus fährt die Seilbahn über das Schymbulak-Skigebiet bis zum Talgar-Pass auf 3.200 m. Der Weg verlässt den Pass durch alpine Hochlandschaft und gelangt in die Gletscherzone, wo fast nichts wächst. Er folgt einem Schotterweg entlang der linken Seite des Tals, steigt dann auf die linke Seitenmoräne des Gletschers, wo der Weg fast verschwindet. Nach etwa einer Stunde erreicht er die Mitte des Tals, passiert einen großen Felsvorsprung links und führt entlang der rechten Seite des Tals zum Zungenende des Gletschers. Unterwegs sehen Sie die Chkalov- und Fizkulturnik-Gipfel mit den hängenden Ayak- und Til-Gletschern, und vom Zungenende aus die Nordseiten der Komsomol-, Amangeldy- und Pioneer-Gipfel. Nachdem wir 3.600 m erreicht haben, wandern wir zurück zum Pass, fahren mit der Seilbahn nach Medeu und kehren in die Stadt zurück. Gehzeit: etwa 4 Stunden auf dem Weg, aber planen Sie 5–6 Stunden stetiges Wandern ein; 13 km Hin- und Rückweg, 400 m Aufstieg und Abstieg (3.200–3.600 m). Fahrzeit: etwa 2 Stunden Hin- und Rückfahrt, plus etwa 50 Minuten mit der Seilbahn.",
+        "fr": "Notre guide vous retrouve à votre hôtel à Almaty le matin et nous nous rendons à la patinoire de Medeu. De là, le téléphérique monte via la station de ski de Shymbulak jusqu'au col de Talgar à 3 200 m. Le sentier quitte le col à travers les hautes terres alpines et pénètre dans la zone glaciaire, où presque rien ne pousse. Il suit une piste de terre le long du côté gauche de la gorge, puis grimpe sur la moraine latérale gauche du glacier, où le sentier disparaît presque. Après environ une heure, il atteint le milieu de la gorge, passe un grand rebord rocheux sur la gauche et conduit le long du côté droit de la vallée jusqu'à la langue du glacier. En chemin, vous verrez les pics Chkalov et Fizkulturnik avec les glaciers suspendus Ayak et Til, et depuis la langue, les faces nord des pics Komsomol, Amangeldy et Pioneer. Ayant atteint 3 600 m, nous retournons au col, prenons le téléphérique pour descendre à Medeu et retournons en ville. Marche: environ 4 heures sur le parcours, mais prévoyez 5 à 6 heures de randonnée soutenue; 13 km aller-retour, 400 m de montée et de descente (3 200–3 600 m). Conduite: environ 2 heures aller-retour, plus environ 50 minutes en téléphérique.",
+        "es": "Nuestro guía te recibe en tu hotel en Almaty por la mañana y nos dirigimos a la pista de patinaje de Medeu. Desde allí, el teleférico sube a través de la estación de esquí de Shymbulak hasta el paso de Talgar a 3,200 m. El sendero sale del paso a través de la alta montaña alpina y entra en la zona del glaciar, donde casi nada crece. Sigue una pista de tierra a lo largo del lado izquierdo del barranco, luego sube a la morrena lateral izquierda del glaciar, donde el camino casi desaparece. Después de aproximadamente una hora, llega al centro del barranco, pasa por un gran saliente rocoso a la izquierda y lleva a lo largo del lado derecho del valle hasta la lengua del glaciar. En el camino, ves los picos Chkalov y Fizkulturnik con los glaciares colgantes Ayak y Til, y desde la lengua, las caras norte de los picos Komsomol, Amangeldy y Pioneer. Al llegar a los 3,600 m, caminamos de regreso al paso, bajamos en teleférico a Medeu y regresamos a la ciudad. Caminata: aproximadamente 4 horas en el recorrido, pero planea 5–6 horas de caminata constante; 13 km ida y vuelta, 400 m de subida y bajada (3,200–3,600 m). Conducción: aproximadamente 2 horas ida y vuelta, más unos 50 minutos en teleférico.",
+        "ja": "当社のガイドが朝、アルマトイのホテルでお迎えし、メデウのスケートリンクへ向かいます。そこからケーブルカーでシムブラクスキー場を経由してタルガル峠（標高3,200 m）まで上ります。トレイルは峠を出てアルプスの高地を抜け、ほとんど何も生えない氷河地帯に入ります。谷の左側に沿った砂利道を進み、氷河の左側のモレーンに登ると、道がほとんど見えなくなります。約1時間で谷の中ほどに到着し、左側に大きな岩棚を過ぎ、谷の右側を進んで氷河の舌に到達します。途中でチャカロフ峰とフィズカルチュルニク峰、そして吊り下がったアヤクとティル氷河を見ることができ、氷河の舌からはコムソモール、アマンゲルディ、ピオネール峰の北面が見えます。標高3,600 mに到達したら、峠まで戻り、ケーブルカーでメデウまで下り、市内に戻ります。歩行：ルート上で約4時間の歩行ですが、5–6時間の安定したハイキングを計画してください。13 kmの往復、標高差400 m（3,200–3,600 m）。ドライブ：往復約2時間、ケーブルカーでの移動は約50分。",
+        "zh": "我们的导游将在早上于您在阿拉木图的酒店与您会合，随后我们驱车前往梅德乌滑冰场。从那里，缆车经希姆布拉克滑雪场前往海拔3,200米的塔尔加尔山口。小径从山口出发，穿越高山高原，进入几乎寸草不生的冰川区。路线沿峡谷左侧的土路前行，随后攀登至冰川左侧侧冰碛，那里的小径几乎消失。徒步约一小时后，到达峡谷中部，经过左侧的一处大型岩石架，沿山谷右侧前进，最终到达冰川冰舌。途中您将看到恰卡洛夫峰和菲兹库尔特尼克峰，以及悬垂的阿亚克冰川和蒂利冰川；从冰舌处可看到柯姆索莫尔峰、阿曼盖尔迪峰和先锋峰的北面。抵达海拔3,600米后，我们返回山口，乘坐缆车下山至梅德乌，再驱车返回城市。步行：路线约4小时，但请预留5–6小时进行稳健徒步；往返13公里，累计上升和下降400米（海拔3,200–3,600米）。驾车：往返约2小时，加上约50分钟的缆车行程。"
+      },
+      "meals": {
+        "en": "none included; bring snacks and water",
+        "de": "keine Mahlzeiten inbegriffen; Snacks und Wasser mitbringen",
+        "fr": "aucun repas inclus; apportez des collations et de l'eau",
+        "ja": "食事は含まれていません。スナックと水を持参してください。",
+        "es": "ninguna incluida; trae bocadillos y agua",
+        "zh": "不含餐食；请自备零食和水"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Private tour with our English-speaking guide throughout",
+      "Private transport, with pick-up and drop-off at your hotel in Almaty",
+      "Cable car tickets from Medeu to the Talgar pass",
+      "Group first-aid kit carried by our guide, radio for larger groups and certified technical equipment where needed"
+    ],
+    "de": [
+      "Private Tour mit unserem englischsprachigen Guide während der gesamten Reise",
+      "Private Transportmittel mit Abholung und Rückfahrt zu Ihrem Hotel in Almaty",
+      "Seilbahnfahrkarten von Medeu zum Talgar-Pass",
+      "Gruppen-Erste-Hilfe-Kasten, der von unserem Guide mitgeführt wird, Funkgerät für größere Gruppen und zertifizierte technische Ausrüstung, wo nötig"
+    ],
+    "fr": [
+      "Tour privé avec notre guide anglophone tout au long",
+      "Transport privé, avec prise en charge et dépôt à votre hôtel à Almaty",
+      "Billets de téléphérique de Medeu au col de Talgar",
+      "Trousse de premiers secours de groupe portée par notre guide, radio pour les grands groupes et équipement technique certifié si nécessaire"
+    ],
+    "ja": [
+      "当社の英語を話すガイドが全行程付き添います。",
+      "アルマトイのホテルまでの送迎付きのプライベート交通手段",
+      "メデウからタルガル峠までのケーブルカーのチケット",
+      "当社のガイドが携帯するグループ用の救急キット、大規模グループ用のラジオ、必要に応じて認定された技術機器"
+    ],
+    "es": [
+      "Tour privado con nuestro guía que habla inglés durante todo el recorrido",
+      "Transporte privado, con recogida y regreso a tu hotel en Almaty",
+      "Billetes de teleférico desde Medeu hasta el paso de Talgar",
+      "Botiquín de primeros auxilios de grupo llevado por nuestro guía, radio para grupos más grandes y equipo técnico certificado donde sea necesario"
+    ],
+    "zh": [
+      "全程由我们的英语导游提供的私人旅游",
+      "私人交通，含阿拉木图酒店接送",
+      "从梅德乌到塔尔加尔山口的缆车票",
+      "由我们的导游携带的团队急救包，大型团队配备对讲机，并在需要时提供认证的技术装备"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "Meals, snacks, water and drinks",
+      "International flights to and from Almaty",
+      "Airport, railway and bus station transfers",
+      "Hotels, meals and activities in Almaty before and after the trip",
+      "Travel insurance",
+      "Personal expenses",
+      "Rental of clothing, boots and hiking gear",
+      "Optional activities",
+      "Porters for personal belongings and backpacks"
+    ],
+    "de": [
+      "Mahlzeiten, Snacks, Wasser und Getränke",
+      "Internationale Flüge nach und von Almaty",
+      "Transfers zum/vom Flughafen, Bahnhof und Busbahnhof",
+      "Hotels, Mahlzeiten und Aktivitäten in Almaty vor und nach der Tour",
+      "Reiseversicherung",
+      "Persönliche Ausgaben",
+      "Miete von Kleidung, Stiefeln und Wanderausrüstung",
+      "Optionale Aktivitäten",
+      "Träger für persönliche Gegenstände und Rucksäcke"
+    ],
+    "fr": [
+      "Repas, collations, eau et boissons",
+      "Vols internationaux à destination et en provenance d'Almaty",
+      "Transfers aéroport, gare et gare routière",
+      "Hôtels, repas et activités à Almaty avant et après le voyage",
+      "Assurance voyage",
+      "Dépenses personnelles",
+      "Location de vêtements, bottes et équipement de randonnée",
+      "Activités optionnelles",
+      "Porteurs pour les affaires personnelles et les sacs à dos"
+    ],
+    "ja": [
+      "食事、スナック、水、飲み物",
+      "アルマトイへの国際線のフライト",
+      "空港、鉄道駅、バス駅の送迎",
+      "旅行前後のアルマトイでの宿泊、食事、アクティビティ",
+      "旅行保険",
+      "個人的な費用",
+      "服装、ブーツ、ハイキング用品のレンタル",
+      "オプションのアクティビティ",
+      "個人の荷物とバックパックの運搬"
+    ],
+    "es": [
+      "Comidas, bocadillos, agua y bebidas",
+      "Vuelos internacionales a y desde Almaty",
+      "Transfers al aeropuerto, estación de tren y estación de autobuses",
+      "Hoteles, comidas y actividades en Almaty antes y después del viaje",
+      "Seguro de viaje",
+      "Gastos personales",
+      "Alquiler de ropa, botas y equipo de senderismo",
+      "Actividades opcionales",
+      "Portadores para pertenencias personales y mochilas"
+    ],
+    "zh": [
+      "餐食、零食、水和饮料",
+      "往返阿拉木图的国际机票",
+      "机场、火车站和汽车站接送",
+      "行程前后在阿拉木图的酒店、餐食和活动",
+      "旅行保险",
+      "个人开支",
+      "服装、靴子和徒步装备租赁",
+      "可选活动",
+      "个人物品和背包搬运工"
+    ]
+  },
+  "priceFrom": 104,
+  "currency": "USD",
+  "priceNote": {
+    "en": "Season 2026, USD per person. Private tour for up to 4 hikers; the price depends on group size. Single supplement on request.",
+    "de": "Saison 2026, USD pro Person. Private Tour für bis zu 4 Wanderer; der Preis hängt von der Gruppengröße ab. Einzelzimmerzuschlag auf Anfrage.",
+    "fr": "Saison 2026, USD par personne. Tour privé pour jusqu'à 4 randonneurs; le prix dépend de la taille du groupe. Supplément pour chambre individuelle sur demande.",
+    "es": "Temporada 2026, USD por persona. Tour privado para hasta 4 excursionistas; el precio depende del tamaño del grupo. Suplemento individual bajo petición.",
+    "ja": "2026年シーズン、1人あたりの米ドル。最大4人のハイカー向けのプライベートツアー。価格はグループの人数によって異なります。シングルサプリメントはご希望により。",
+    "zh": "2026年季节，美元每人。私人旅游，最多4名徒步者；价格根据团队规模而定。单人补房费可咨询。"
+  },
+  "fromLabel": {
+    "en": "from $104 per person (4 travellers)",
+    "de": "ab $104 pro Person (4 Reisende)",
+    "fr": "à partir de 104 $ par personne (4 voyageurs)",
+    "es": "desde $104 por persona (4 viajeros)",
+    "ja": "1名あたり$104から（4名様）",
+    "zh": "起价$104每人（4位旅客）"
+  },
+  "priceTable": {
+    "caption": {
+      "en": "Season 2026, USD per person",
+      "de": "Saison 2026, USD pro Person",
+      "fr": "Saison 2026, USD par personne",
+      "es": "Temporada 2026, USD por persona",
+      "ja": "2026年シーズン、1人あたりの米ドル",
+      "zh": "2026年季节，美元每人"
+    },
+    "groupSizes": {
+      "en": [
+        "1 traveller",
+        "2 travellers",
+        "3 travellers",
+        "4 travellers"
+      ],
+      "de": [
+        "1 Gast",
+        "2 Gäste",
+        "3 Gäste",
+        "4 Gäste"
+      ],
+      "fr": [
+        "1 voyageur",
+        "2 voyageurs",
+        "3 voyageurs",
+        "4 voyageurs"
+      ],
+      "ja": [
+        "1人旅行",
+        "2人旅行",
+        "3人旅行",
+        "4人旅行"
+      ],
+      "es": [
+        "1 viajero",
+        "2 viajeros",
+        "3 viajeros",
+        "4 viajeros"
+      ],
+      "zh": [
+        "1位旅客",
+        "2位旅客",
+        "3位旅客",
+        "4位旅客"
+      ]
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "Private tour",
+          "de": "Private Tour",
+          "fr": "Tour privé",
+          "ja": "プライベートツアー",
+          "es": "Tour privado",
+          "zh": "私人旅行"
+        },
+        "prices": [
+          306,
+          163,
+          137,
+          104
+        ],
+        "singleSupplement": ""
+      }
+    ],
+    "note": {
+      "en": "Prices are per person in USD for a private day hike, by group size, up to 4 hikers.",
+      "de": "Die Preise sind pro Person in USD für eine private Tagestour, nach Gruppengröße, für bis zu 4 Wanderer.",
+      "fr": "Les prix sont par personne en USD pour une randonnée d'une journée privée, par taille de groupe, jusqu'à 4 randonneurs.",
+      "es": "Los precios son por persona en USD para una excursión privada de un día, por tamaño de grupo, hasta 4 excursionistas.",
+      "ja": "価格は1人あたりの米ドルで、最大4人のハイカー向けのプライベートデイハイキング、グループの人数によって異なります。",
+      "zh": "价格以每人美元计，为私人一日徒步，按团队规模计算，最多4名徒步者。"
+    }
+  },
+  "hotels": [],
+  "vehicles": [],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410522/sunday-atlas/snowy-peaks-of-the-ile-alatau-almaty-39633812_xdfyxa.jpg",
+    "width": 1920,
+    "height": 1280,
+    "alt": {
+      "en": "Snow and rock peaks of the Ile-Alatau above Almaty, the mountains of the Bogdanovich Glacier hike",
+      "de": "Schneebedeckte und felsige Gipfel des Ile-Alatau über Almaty, die Berge der Wanderung zum Bogdanowitsch-Gletscher",
+      "fr": "Les sommets enneigés et rocheux de l'Ile-Alataou au-dessus d'Almaty, les montagnes de la randonnée du glacier Bogdanovich",
+      "ja": "アルマトイの上のイル・アラタウの雪と岩の峰、ボグダノビッチ氷河のハイキング",
+      "es": "Picos de nieve y roca del Ile-Alatau sobre Almaty, las montañas de la excursión al glaciar Bogdanovich",
+      "zh": "伊列阿拉套山脉上空的雪山与岩石峰，位于阿拉木图上方，即博格达诺维奇冰川徒步的山脉"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410519/sunday-atlas/shymbulak-ski-resort-almaty-15156760_t8rbal.jpg",
+        "width": 1920,
+        "height": 1079
+      },
+      "alt": {
+        "en": "Hikers and visitors at the Shymbulak mountain station above Almaty, where the cable car continues towards the Talgar pass",
+        "de": "Wanderer und Besucher an der Bergstation Schymbulak oberhalb von Almaty, wo die Seilbahn zum Talgar-Pass weiterführt",
+        "fr": "Randonneurs et visiteurs à la station de montagne de Chymboulak au-dessus d’Almaty, d’où le téléphérique monte vers le col de Talgar",
+        "ja": "タルガル峠へと続くロープウェイが発着するアルマトイ郊外のシムブラク山岳駅に集うハイカーや旅行者たち",
+        "es": "Excursionistas y visitantes en la estación de montaña de Shymbulak sobre Almaty, donde el teleférico continúa hacia el paso de Talgar",
+        "zh": "阿拉木图上方辛布拉克山站的徒步者与游客，缆车由此继续前往塔尔加尔山口"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410520/sunday-atlas/cable-car-over-the-almaty-mountains-27706698_ii1wgn.jpg",
+        "width": 1920,
+        "height": 2899
+      },
+      "alt": {
+        "en": "A hiker walking up the green mountain trail beneath the cable car in the Almaty mountains on the way from Medeu",
+        "de": "Ein Wanderer auf dem grünen Bergpfad unter der Seilbahn in den Bergen von Almaty auf dem Weg von Medeu",
+        "fr": "Un randonneur marchant sur le sentier de montagne verdoyant sous le téléphérique dans les montagnes d’Almaty en venant de Medeu",
+        "ja": "メデウからの道中、アルマトイの山々のロープウェイの下に続く緑の登山道を歩くハイカー",
+        "es": "Un excursionista caminando por el sendero verde de montaña bajo el teleférico en las montañas de Almaty de camino desde Medeu",
+        "zh": "一名徒步者沿着阿拉木图山区的绿色山路向上行走，缆车在上方，路线从梅德乌出发"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410520/sunday-atlas/cable-car-above-shymbulak-in-winter-15421964_pqq69i.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Cable cars above the snowy Almaty mountains in winter",
+        "de": "Seilbahnen über den schneebedeckten Almaty-Bergen im Winter",
+        "fr": "Télécabines au-dessus des montagnes enneigées d'Almaty en hiver",
+        "ja": "冬のアルマトイの山々の上のロープウェイ",
+        "es": "Teleféricos sobre las montañas nevadas de Almaty en invierno",
+        "zh": "冬季阿拉木图山区上空的缆车"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792410519/sunday-atlas/medeu-skating-rink-almaty-mountains-14238232_m2gpag.jpg",
+        "width": 1920,
+        "height": 1079
+      },
+      "alt": {
+        "en": "Medeu skating rink in the mountains above Almaty, the start of the glacier day hike",
+        "de": "Eislaufbahn Medeu in den Bergen über Almaty, der Start der Gletscher-Tageswanderung",
+        "fr": "Patinoire de Medeu dans les montagnes au-dessus d'Almaty, le début de la randonnée glacière",
+        "ja": "アルマトイの山々の上のメデウのスケートリンク、氷河のデイハイキングのスタート地点",
+        "es": "Pista de patinaje Medeu en las montañas sobre Almaty, el inicio de la excursión diurna al glaciar",
+        "zh": "阿拉木图上方山区的梅德乌滑冰场，冰川一日徒步的起点"
+      }
+    }
+  ],
+  "sample": false,
+  "isDayTour": true,
+  "featured": false,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "Bogdanovich Glacier Guided Day Hike from Almaty via Shymbulak ($104)",
+      "meta_description": "From $104 USD/person: private 1-day Bogdanovich Glacier alpine hike from Almaty. Includes Shymbulak cable car to Talgar Pass (3,200 m), mountain guide & pickup.",
+      "focus_keyword": "bogdanovich glacier hike",
+      "keywords": [
+        "bogdanovich glacier hike",
+        "shymbulak talgar pass hike",
+        "almaty day hike tour",
+        "tian shan glacier trek almaty"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Bogdanowitsch-Gletscher Tagestour & Wanderung ab Almaty ($104 Privat)",
+      "meta_description": "Ab $104 USD/Person: Private hochalpine Tageswanderung zum Bogdanowitsch-Gletscher (3.600 m) ab Almaty inkl. Schymbulak-Seilbahn zum Talgar-Pass & Bergführer.",
+      "focus_keyword": "bogdanowitsch gletscher wanderung",
+      "keywords": [
+        "bogdanowitsch gletscher wanderung",
+        "schymbulak talgar pass",
+        "almaty tageswanderung"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Randonnée d’un Jour au Glacier Bogdanovitch depuis Almaty ($104 Privé)",
+      "meta_description": "Dès $104 USD/pers. : randonnée alpine privée au glacier Bogdanovitch (3 600 m) depuis Almaty avec téléphérique de Chymboulak jusqu’au col de Talgar et guide.",
+      "focus_keyword": "randonnée glacier bogdanovitch",
+      "keywords": [
+        "randonnée glacier bogdanovitch",
+        "chymboulak col de talgar",
+        "randonnée 1 jour almaty"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "アルマトイ発ボグダノヴィッチ氷河＆シンブラク日帰りハイキングツアー ($104〜)",
+      "meta_description": "1名$104〜：シンブラクのロープウェイで標高3,200mのタルガル峠へ上がり、標高3,600mのボグダノヴィッチ氷河まで歩く山岳ガイド付きプライベート日帰りツアー。",
+      "focus_keyword": "ボグダノヴィッチ氷河 ハイキング",
+      "keywords": [
+        "ボグダノヴィッチ氷河 ハイキング",
+        "シンブラク タルガル峠 ツアー",
+        "アルマトイ トレッキング 日帰り"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Caminata de 1 Día al Glaciar Bogdanovich desde Almaty ($104 Privado)",
+      "meta_description": "Desde $104 USD/persona: caminata alpina privada al glaciar Bogdanovich (3.600 m) desde Almaty con teleférico de Shymbulak al paso Talgar (3.200 m) y guía.",
+      "focus_keyword": "caminata glaciar bogdanovich",
+      "keywords": [
+        "caminata glaciar bogdanovich",
+        "shymbulak paso talgar",
+        "senderismo almaty 1 día"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "从阿拉木图经辛布拉克出发的博格达诺维奇冰川导览一日徒步（$104）",
+      "meta_description": "每人104美元起：从阿拉木图出发的私人1天博格达诺维奇冰川高山徒步。包括辛布拉克缆车前往塔尔加尔山口（3200米）、山地向导及接送。",
+      "focus_keyword": "阿拉木图博格达诺维奇冰川一日游",
+      "keywords": [
+        "阿拉木图博格达诺维奇冰川一日游",
+        "博格达诺维奇冰川徒步",
+        "阿拉木图雪山徒步",
+        "希姆布拉克缆车塔尔加尔山口",
+        "阿拉木图冰川一日游",
+        "博格达诺维奇冰川导游徒步",
+        "阿拉木图高山徒步",
+        "塔尔加尔山口冰川",
+        "阿拉木图山区一日游",
+        "博格达诺维奇冰川私人徒步"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Bogdanovich Glacier hike: a day from Almaty"
+    },
+    "facts": {
+      "en": "Bogdanovich Glacier tour at a glance"
+    },
+    "itinerary": {
+      "en": "Day hike from Almaty, step by step"
+    },
+    "included": {
+      "en": "What the day includes"
+    },
+    "notIncluded": {
+      "en": "Not included"
+    },
+    "prices": {
+      "en": "Bogdanovich Glacier tour prices, season 2026"
+    },
+    "faq": {
+      "en": "Bogdanovich Glacier trek: questions"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does the Bogdanovich Glacier tour cost?",
+        "de": "Was kostet die Tour zum Bogdanowitsch-Gletscher?",
+        "fr": "Combien coûte la visite du glacier Bogdanovich ?",
+        "ja": "ボグダノビッチ氷河ツアーの料金はいくらですか？",
+        "es": "¿Cuánto cuesta la excursión al glaciar Bogdanovich?",
+        "zh": "博格达诺维奇冰川之旅费用是多少？"
+      },
+      "a": {
+        "en": "For the 2026 season it costs $104 per person for 4 hikers, $137 for 3, $163 for 2 and $306 for one hiker, in USD. The group is private and limited to 4.",
+        "de": "Für die Saison 2026 kostet die Wanderung $104 pro Person für 4 Wanderer, $137 für 3, $163 für 2 und $306 für Alleinreisende, in USD. Die Gruppe ist privat und auf 4 Personen begrenzt.",
+        "fr": "Pour la saison 2026, elle coûte 104 $ par personne pour 4 randonneurs, 137 $ pour 3, 163 $ pour 2 et 306 $ pour un randonneur, en USD. Le groupe est privé et limité à 4 personnes.",
+        "es": "Para la temporada 2026 cuesta $104 por persona para 4 excursionistas, $137 para 3, $163 para 2 y $306 para un excursionista, en USD. El grupo es privado y está limitado a 4.",
+        "ja": "2026年シーズンは、4人のハイカーで1人あたり$104、3人で$137、2人で$163、1人のハイカーで$306、米ドルです。グループはプライベートで、4人までです。",
+        "zh": "2026年季节，4名徒步者每人104美元，3名137美元，2名163美元，1名306美元，均为美元。团队为私人团，限4人。"
+      }
+    },
+    {
+      "q": {
+        "en": "How hard is the Bogdanovich Glacier hike?",
+        "de": "Wie anspruchsvoll ist die Wanderung zum Bogdanowitsch-Gletscher?",
+        "fr": "À quel point la randonnée sur le glacier Bogdanovich est-elle difficile ?",
+        "ja": "ボグダノビッチ氷河のハイキングはどれくらい難しいですか？",
+        "es": "¿Qué tan difícil es la excursión al glaciar Bogdanovich?",
+        "zh": "博格达诺维奇冰川徒步难度如何？"
+      },
+      "a": {
+        "en": "It is a real mountain hike at 3,200–3,600 m, not a sightseeing walk. Plan for 5–6 hours of continuous hiking on unmarked moraine, rock and snow. It does not suit you if you want an easy walk or a marked trail, or have no mountain clothing, footwear or experience on uneven ground. Our guide may decline to start if your clothing or shoes are not suitable, and the hike cannot be booked for the next day: it needs planning in advance.",
+        "de": "Es ist eine echte Bergwanderung auf 3.200–3.600 m, kein Spaziergang. Planen Sie 5–6 Stunden ununterbrochenes Wandern auf unmarkiertem Moränen-, Fels- und Schneegelände ein. Diese Wanderung ist nichts für Sie, wenn Sie einen leichten Spaziergang oder einen markierten Weg wollen, oder wenn Sie keine Bergkleidung, -schuhe oder -erfahrung auf unebenem Gelände haben. Unser Guide kann sich weigern zu starten, wenn Ihre Kleidung oder Schuhe nicht geeignet sind, und die Wanderung kann nicht für den nächsten Tag gebucht werden: Sie benötigt eine vorausschauende Planung.",
+        "fr": "Il s'agit d'une véritable randonnée en montagne à 3 200–3 600 m, et non d'une promenade touristique. Prévoyez 5 à 6 heures de randonnée continue sur des moraines, des rochers et de la neige non balisés. Cela ne vous convient pas si vous souhaitez une promenade facile ou un sentier balisé, ou si vous n'avez pas de vêtements, de chaussures ou d'expérience en montagne sur terrain inégal. Notre guide peut refuser de commencer si vos vêtements ou chaussures ne sont pas adaptés, et la randonnée ne peut pas être réservée pour le lendemain : elle nécessite une planification à l'avance.",
+        "ja": "これは3,200–3,600 mの本格的な山岳ハイキングで、観光散歩ではありません。未舗装のモレーン、岩、雪を5–6時間歩き続ける計画を立ててください。簡単な散歩や標識のあるトレイルを求める方、山岳服や靴、不整地での経験がない方にはおすすめできません。当社のガイドは、服装や靴が適切でない場合はハイキングを開始しないことがあります。また、このハイキングは前もって計画する必要があり、翌日に予約することはできません。",
+        "es": "Es una excursión de montaña real a 3,200–3,600 m, no un paseo turístico. Planea 5–6 horas de caminata continua por morrena, roca y nieve sin senderos marcados. No es adecuado si quieres un paseo fácil o un sendero marcado, o si no tienes ropa, calzado o experiencia en montaña. Nuestro guía puede negarse a comenzar si tu ropa o calzado no son adecuados, y la excursión no se puede reservar para el día siguiente: necesita planificación con antelación.",
+        "zh": "这是一次真正的山地徒步，海拔3200–3600米，而非观光散步。需在无标记的冰碛、岩石和雪地上连续徒步5–6小时。如果您想要轻松散步或标记路线，或没有山地服装、鞋履或不平坦地面经验，则不适合。若您的衣物或鞋子不合适，导游可能拒绝出发，且徒步不能预订次日出发，需要提前安排。"
+      }
+    },
+    {
+      "q": {
+        "en": "When is the best time to visit Bogdanovich Glacier?",
+        "de": "Wann ist die beste Zeit für einen Besuch des Bogdanowitsch-Gletschers?",
+        "fr": "Quand est le meilleur moment pour visiter le glacier Bogdanovich ?",
+        "ja": "ボグダノビッチ氷河を訪れるベストシーズンはいつですか？",
+        "es": "¿Cuál es la mejor época para visitar el glaciar Bogdanovich?",
+        "zh": "什么时候去博格达诺维奇冰川最好？"
+      },
+      "a": {
+        "en": "The regular season usually runs from early June to mid-September. Spring and late autumn are not offered because of high avalanche danger. From December to February a considerably more demanding winter version may run, with day temperatures of −10 to −25 °C; in a short, safe winter window it can include the Bogdanovich ice cave (Oktyabrskaya). The ice cave is not visited in summer.",
+        "de": "Die reguläre Saison läuft in der Regel von Anfang Juni bis Mitte September. Frühling und Spätherbst werden nicht angeboten wegen der hohen Lawinengefahr. Von Dezember bis Februar kann eine erheblich anspruchsvollere Winterversion angeboten werden, mit Tagestemperaturen von −10 bis −25 °C; in einem kurzen, sicheren Winterfenster kann sie die Bogdanowitsch-Eishöhle (Oktyabrskaya) beinhalten. Die Eishöhle wird im Sommer nicht besucht.",
+        "fr": "La saison régulière s'étend généralement du début juin à la mi-septembre. Le printemps et la fin de l'automne ne sont pas proposés en raison du danger élevé d'avalanches. De décembre à février, une version hivernale considérablement plus exigeante peut être proposée, avec des températures journalières de −10 à −25 °C ; dans une courte fenêtre hivernale sûre, elle peut inclure la grotte de glace Bogdanovich (Oktyabrskaya). La grotte de glace n'est pas visitée en été.",
+        "es": "La temporada regular generalmente va de principios de junio a mediados de septiembre. La primavera y el otoño tardío no se ofrecen debido al alto peligro de avalanchas. De diciembre a febrero puede haber una versión invernal considerablemente más exigente, con temperaturas diurnas de −10 a −25 °C; en una breve ventana invernal segura puede incluir la cueva de hielo Bogdanovich (Oktyabrskaya). La cueva de hielo no se visita en verano.",
+        "ja": "通常のシーズンは6月初から9月中旬までです。春と晩秋は高い雪崩の危険があるため提供されません。12月から2月までの冬季バージョンはかなりハードで、日中の気温は−10から−25 °Cに達します。短い安全な冬のウィンドウではボグダノビッチ氷の洞窟（オクトーバースカヤ）を含むことがあります。氷の洞窟は夏には訪れません。",
+        "zh": "常规季节通常从6月初持续到9月中旬。春季和深秋因雪崩风险高而不提供。12月至2月可能运行要求更高的冬季版本，白天气温为−10至−25℃；在短暂安全的冬季窗口期，可以参观博格达诺维奇冰洞（Oktyabrskaya）。夏季不参观冰洞。"
+      }
+    },
+    {
+      "q": {
+        "en": "How do you reach Bogdanovich Glacier?",
+        "de": "Wie erreicht man den Bogdanowitsch-Gletscher?",
+        "fr": "Comment atteindre le glacier Bogdanovich ?",
+        "ja": "ボグダノビッチ氷河へのアクセス方法は？",
+        "es": "¿Cómo se llega al glaciar Bogdanovich?",
+        "zh": "如何到达博格达诺维奇冰川？"
+      },
+      "a": {
+        "en": "We drive from Almaty to Medeu, take the cable car via Shymbulak to the Talgar pass at 3,200 m and walk from there to the glacier tongue at 3,600 m, then return the same way.",
+        "de": "Wir fahren von Almaty nach Medeu, nehmen die Seilbahn über Schymbulak zum Talgar-Pass auf 3.200 m und wandern von dort zur Gletscherzunge auf 3.600 m, dann zurück auf demselben Weg.",
+        "fr": "Nous conduisons d'Almaty à Medeu, prenons le télécabine via Shymbulak jusqu'au col de Talgar à 3 200 m et marchons de là jusqu'à la langue du glacier à 3 600 m, puis revenons par le même chemin.",
+        "ja": "アルマトイからメデウまで車で移動し、シムブラクを経由してケーブルカーでタルガル峠の3,200 mまで行き、そこから氷河の舌の3,600 mまで歩き、同じ道を戻ります。",
+        "es": "Conducimos desde Almaty a Medeu, tomamos el teleférico a través de Shymbulak hasta el paso Talgar a 3,200 m y caminamos desde allí hasta la lengua del glaciar a 3,600 m, luego regresamos por el mismo camino.",
+        "zh": "我们从阿拉木图开车到梅德乌，乘缆车经辛布拉克到达海拔3200米的塔尔加尔山口，然后从那里步行到海拔3600米的冰川舌，再原路返回。"
+      }
+    },
+    {
+      "q": {
+        "en": "What should I bring?",
+        "de": "Was sollte ich mitbringen?",
+        "fr": "Que dois-je apporter ?",
+        "ja": "何を持って行けばいいですか？",
+        "es": "¿Qué debo llevar?",
+        "zh": "我应该带什么？"
+      },
+      "a": {
+        "en": "In summer: hiking shoes or light boots, trekking socks, long trekking trousers, a long-sleeve top, a fleece, a light down jacket, a rain jacket, a hat, gloves, a cap, sunglasses, sunscreen, a small daypack, trekking poles, a water bottle and snacks. In winter add warm high boots, insulated trousers, thermal layers, a down jacket and a small thermos with a hot drink. There is no mobile signal in places.",
+        "de": "Im Sommer: Wanderschuhe oder leichte Stiefel, Trekkingsocken, lange Trekkinghosen, ein langärmeliges Oberteil, eine Fleecejacke, eine leichte Daunenjacke, eine Regenjacke, eine Mütze, Handschuhe, eine Kappe, Sonnenbrille, Sonnencreme, einen kleinen Tagesrucksack, Trekkingstöcke, eine Wasserflasche und Snacks. Im Winter zusätzlich warme, hohe Stiefel, isolierte Hosen, Thermoschichten, eine Daunenjacke und eine kleine Thermoskanne mit einem heißen Getränk. Es gibt an einigen Stellen kein Mobilfunknetz.",
+        "fr": "En été : chaussures de randonnée ou bottes légères, chaussettes de trekking, pantalon de trekking long, t-shirt à manches longues, pull, veste en duvet légère, veste de pluie, chapeau, gants, casquette, lunettes de soleil, crème solaire, petit sac à dos, bâtons de trekking, une bouteille d'eau et des en-cas. En hiver, ajoutez des bottes chaudes et hautes, des pantalons isolés, des couches thermiques, une veste en duvet et un petit thermos avec une boisson chaude. Il n'y a pas de signal mobile dans certains endroits.",
+        "ja": "夏：ハイキングシューズまたは軽いブーツ、トレッキングソックス、長いトレッキングパンツ、長袖のトップス、フリース、軽いダウンジャケット、レインジャケット、帽子、手袋、キャップ、サングラス、日焼け止め、小さなデイパック、トレッキングポール、水筒、スナック。冬には温かいハイブーツ、断熱パンツ、サーマルレイヤー、ダウンジャケット、小さなサーモスと温かい飲み物を追加してください。一部の場所では携帯電話の信号がありません。",
+        "es": "En verano: botas de senderismo o ligeras, calcetines de trekking, pantalones largos de trekking, una camiseta de manga larga, una chaqueta polar, una chaqueta ligera de plumas, una chaqueta impermeable, un sombrero, guantes, una gorra, gafas de sol, protector solar, una mochila pequeña, bastones de trekking, una botella de agua y snacks. En invierno añade botas altas cálidas, pantalones aislados, capas térmicas, una chaqueta de plumas y un pequeño termo con una bebida caliente. No hay señal móvil en algunos lugares.",
+        "zh": "夏季：徒步鞋或轻便靴、徒步袜、长徒步裤、长袖上衣、抓绒衣、轻便羽绒服、雨衣、帽子、手套、棒球帽、太阳镜、防晒霜、小日背包、登山杖、水瓶和零食。冬季还需加上保暖高靴、保暖裤、保暖内层、羽绒服和一个装有热饮的小保温壶。部分地方没有手机信号。"
+      }
+    }
+  ],
+  "addOns": []
+}

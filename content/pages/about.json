@@ -1,0 +1,179 @@
+{
+  "title": "About",
+  "seo": {
+    "en": {
+      "seo_title": "About Sunday Atlas Travel | Private Silk Road & Caucasus Tour Operator",
+      "meta_description": "Sunday Atlas Travel plans 20 private multi-day & day tours across Central Asia, the Caucasus and China (From $104 USD). Direct personal quotes by email.",
+      "focus_keyword": "central asia tour operator",
+      "keywords": [
+        "central asia tour operator",
+        "silk road tour company",
+        "private tour operator central asia",
+        "uzbekistan kazakhstan tour agency",
+        "caucasus tour operator"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Über Sunday Atlas Travel | Spezialist für Seidenstraße & Kaukasus Touren",
+      "meta_description": "Sunday Atlas Travel organisiert 20 private Rundreisen und Tagestouren in Zentralasien, im Kaukasus und in China (ab $104 USD). Persönliches Angebot in 24 Std.",
+      "focus_keyword": "zentralasien reiseveranstalter",
+      "keywords": [
+        "zentralasien reiseveranstalter",
+        "seidenstraße reisebüro",
+        "usbekistan reiseveranstalter",
+        "kaukasus reiseveranstalter"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "À propos de Sunday Atlas Travel | Agence Spécialiste Route de la Soie",
+      "meta_description": "Sunday Atlas Travel organise 20 circuits privés et excursions en Asie centrale, au Caucase et en Chine (dès $104 USD). Devis détaillé par e-mail.",
+      "focus_keyword": "agence voyage asie centrale",
+      "keywords": [
+        "agence voyage asie centrale",
+        "agence route de la soie",
+        "agence voyage ouzbékistan",
+        "agence voyage caucase"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "Sunday Atlas Travelについて | 中央アジア・シルクロード専門ツアー会社",
+      "meta_description": "Sunday Atlas Travelは中央アジア、コーカサス、中国のプライベートツアー全20コース（$104〜）を企画・手配する旅行会社です。メールで個別にお見積もり。",
+      "focus_keyword": "中央アジア 旅行会社",
+      "keywords": [
+        "中央アジア 旅行会社",
+        "シルクロード ツアー 専門",
+        "ウズベキスタン 現地ツアー 会社",
+        "カザフスタン ツアー 会社"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Sobre Sunday Atlas Travel | Operador de Tours en Asia Central y Cáucaso",
+      "meta_description": "Sunday Atlas Travel organiza 20 tours privados y excursiones en Asia Central, el Cáucaso y China (desde $104 USD). Presupuesto directo por correo.",
+      "focus_keyword": "agencia de viajes asia central",
+      "keywords": [
+        "agencia de viajes asia central",
+        "operador ruta de la seda",
+        "agencia tours uzbekistán",
+        "agencia tours cáucaso"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "关于 Sunday Atlas Travel | 私人丝绸之路与高加索旅游运营商",
+      "meta_description": "Sunday Atlas Travel 在中亚、高加索和中国策划 20 条私人多日游与一日游（起价 $104 USD）。通过电邮直接获取个人报价。",
+      "focus_keyword": "中亚私人多日游",
+      "keywords": [
+        "中亚私人多日游",
+        "高加索私人旅游",
+        "丝绸之路私人旅行",
+        "中亚高加索旅游团",
+        "中亚旅游报价",
+        "高加索旅游报价",
+        "中亚私人包车游",
+        "高加索私人包车游",
+        "中亚高加索旅游攻略",
+        "中亚高加索旅游公司"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "faq_title": {
+    "en": "How private tour operators like ours work",
+    "de": "Reisebüro online: so arbeiten wir",
+    "fr": "Agence de voyage Asie et monde : notre façon de travailler",
+    "ja": "旅行会社のおすすめの選び方と、私たちの仕事",
+    "es": "Mejores agencias de tours privados: cómo trabajamos",
+    "zh": "像我们这样的私人旅游运营商如何运作"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How does a travel agency work?",
+        "de": "Wie funktioniert ein Reisebüro?",
+        "fr": "Comment fonctionne une agence de voyage ?",
+        "ja": "旅行会社とは？",
+        "es": "¿Cómo funciona una agencia de viajes?",
+        "zh": "旅行社如何运作？"
+      },
+      "a": {
+        "en": "Ours works by inquiry. You write to us, we plan and arrange the trip, and we send a personal quote for your dates and group. Once you accept, we confirm the hotels, local transport and guides for your dates.",
+        "de": "Unseres arbeitet über Anfragen. Sie schreiben uns, wir planen und organisieren die Reise und senden ein persönliches Angebot für Ihre Daten und Gruppe. Wenn Sie annehmen, bestätigen wir die Hotels, den Transport vor Ort und die Reiseleitung für Ihre Daten.",
+        "fr": "La nôtre fonctionne sur demande. Vous nous écrivez, nous concevons et organisons le voyage et envoyons un devis personnel pour vos dates et votre groupe. Dès votre accord, nous confirmons les hôtels, les transports sur place et les guides pour vos dates.",
+        "ja": "旅を計画し、手配する会社です。当社には買い物かごも即時予約もなく、メールでやり取りできるチームがいます。",
+        "es": "La nuestra funciona por consulta. Usted nos escribe, planificamos y organizamos el viaje y le enviamos un presupuesto personal para sus fechas y grupo. Cuando usted acepta, confirmamos los hoteles, el transporte local y los guías para sus fechas.",
+        "zh": "我们的运作方式是按询价安排。您写信给我们，我们为您规划并安排行程，并针对您的日期和团队人数发送个人报价。一旦您接受，我们会为您的日期确认酒店、当地交通和导游。"
+      }
+    },
+    {
+      "q": {
+        "en": "How does a travel company work without a booking engine?",
+        "de": "Was macht ein Reisebüro?",
+        "fr": "Quelle est la meilleure agence de circuits privés ?",
+        "ja": "プライベートツアーとは？",
+        "es": "¿Qué hace una agencia de viajes?",
+        "zh": "没有预订引擎的旅行公司如何运作？"
+      },
+      "a": {
+        "en": "There is no basket and no instant booking. One team plans the route, answers your questions and stays your contact until the trip is confirmed.",
+        "de": "Wir entwerfen die Route, organisieren die Reise, erstellen das Angebot und bleiben Ihr Kontakt bis zur Bestätigung.",
+        "fr": "Celle qui répond clairement à vos questions et dont le devis est transparent. Nous ne publions pas de classement : lisez notre devis et jugez sur pièce.",
+        "ja": "一般的には、決まった団体に加わらず、自分たちだけで回るツアーのことです。ガイドや車両の体制は各ツアーページに記載しています。",
+        "es": "Diseñamos la ruta, organizamos el viaje, preparamos el presupuesto y seguimos siendo su contacto hasta la confirmación.",
+        "zh": "没有购物车，也没有即时预订。一个团队规划路线，回答您的问题，并在行程确认前一直作为您的联系人。"
+      }
+    },
+    {
+      "q": {
+        "en": "What are private tour packages?",
+        "de": "Was ist ein Reisebüro?",
+        "fr": "Pourquoi choisir une agence de voyage ?",
+        "ja": "旅行会社は何をするのですか？",
+        "es": "¿Qué es una agencia de viajes?",
+        "zh": "什么是私人旅游套餐？"
+      },
+      "a": {
+        "en": "Tours planned around your dates, pace and interests instead of a fixed departure. Our published tours show the style; your quote shows your trip.",
+        "de": "Ein Unternehmen, das Reisen für Sie plant und organisiert. Bei uns gibt es keinen Warenkorb und keine Sofortbuchung, sondern ein Team, dem Sie schreiben.",
+        "fr": "Pour avoir un seul interlocuteur qui conçoit l’itinéraire, prépare le devis et reste disponible jusqu’à la confirmation.",
+        "ja": "私たちの場合は、ルートを設計し、旅を手配し、お見積もりを作成して、ご確定まで窓口であり続けます。",
+        "es": "Una empresa que planifica y organiza viajes para usted. Aquí no hay carrito ni reserva inmediata, sino un equipo al que puede escribir.",
+        "zh": "围绕您的日期、节奏和兴趣规划的旅行，而非固定发团。我们发布的旅行展示风格，您的报价展示您的行程。"
+      }
+    },
+    {
+      "q": {
+        "en": "What does a travel agency do?",
+        "de": "Verkaufen Sie Flüge?",
+        "fr": "Vendez-vous des vols ?",
+        "ja": "航空券は販売していますか？",
+        "es": "¿Venden vuelos?",
+        "zh": "旅行社做什么？"
+      },
+      "a": {
+        "en": "We design the route, arrange the trip, prepare the quote, and stay your point of contact until the trip is confirmed. We do not sell flights.",
+        "de": "Nein. Internationale Flüge sind nicht enthalten, außer Ihr Angebot nennt sie ausdrücklich schriftlich.",
+        "fr": "Non. Les vols internationaux ne sont pas inclus, sauf si votre devis le précise par écrit.",
+        "ja": "いいえ。お見積もりに書面で明記しない限り、国際線の航空券は含まれません。",
+        "es": "No. Los vuelos internacionales no están incluidos salvo que su presupuesto lo indique por escrito.",
+        "zh": "我们设计路线，安排行程，准备报价，并在行程确认前一直作为您的联系人。我们不销售机票。"
+      }
+    }
+  ],
+  "sections": []
+}

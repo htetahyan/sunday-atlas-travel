@@ -1,0 +1,670 @@
+{
+  "slug": "charyn-kolsai-kaindy-2-days",
+  "title": {
+    "en": "Charyn Canyon, Kolsai & Kaindy Lakes, 2 days",
+    "de": "Charyn-Canyon, Kolsai- & Kaindy-Seen, 2 Tage",
+    "fr": "Charyn Canyon, Kolsai & Kaindy Lakes, 2 jours",
+    "ja": "チャリン峡谷、コルサイ湖とカインディ湖、2日間",
+    "es": "Cañón de Charyn, lagos Kolsai y Kaindy, 2 días",
+    "zh": "恰林峡谷、科尔赛湖与凯因迪湖，2天"
+  },
+  "destination": "kazakhstan",
+  "countries": [],
+  "durationDays": 2,
+  "nights": 1,
+  "style": {
+    "en": "Canyons & mountain lakes",
+    "de": "Schluchten & Bergseen",
+    "fr": "Canyons & lacs de montagne",
+    "ja": "峡谷と山湖",
+    "es": "Cañones y lagos de montaña",
+    "zh": "峡谷与高山湖泊"
+  },
+  "seasonNote": {
+    "en": "Spring to autumn (not in winter)",
+    "de": "Frühling bis Herbst (nicht im Winter)",
+    "fr": "Du printemps à l'automne (pas en hiver)",
+    "ja": "春から秋（冬は不可）",
+    "es": "Primavera a otoño (no en invierno)",
+    "zh": "春季至秋季（冬季不开放）"
+  },
+  "maxGroupSize": 6,
+  "summary": {
+    "en": "A private 2-day trip from Almaty: the Valley of Castles in Charyn Canyon, sunset at the first Kolsai lake, a night in Saty and Kaindy Lake with its sunken spruce forest.",
+    "de": "Eine private 2-Tage-Tour ab Almaty: das Tal der Burgen im Charyn-Canyon, Sonnenuntergang am ersten Kolsai-See, eine Nacht in Saty und Kaindy-See mit seinem versunkenen Fichtenwald.",
+    "fr": "Un voyage privé de 2 jours au départ d'Almaty : la vallée des Châteaux dans le canyon de Charyn, le coucher du soleil au premier lac Kolsai, une nuit à Saty et le lac Kaindy avec sa forêt de sapins engloutie.",
+    "ja": "アルマトイからのプライベート2日間の旅：チャリン峡谷の城塞の谷、コルサイ湖の日没、サティでの夜と沈んだトウヒ林のカインディ湖。",
+    "es": "Un viaje privado de 2 días desde Almaty: el Valle de los Castillos en el Cañón de Charyn, la puesta de sol en el primer lago Kolsai, una noche en Saty y el lago Kaindy con su bosque ahogado de pinos.",
+    "zh": "从阿拉木图出发的私人2日游：游览恰林峡谷的城堡谷，在第一个科尔赛湖看日落，在萨蒂过夜，并参观拥有水下云杉森林的凯因迪湖。"
+  },
+  "intro": {
+    "en": "This Kolsai, Kaindy lakes and Charyn Canyon tour is a private 2-day trip from Almaty for one to six travellers, from spring to autumn. Day one walks the Valley of Castles in Charyn Canyon and ends at sunset beside the first Kolsai lake; day two visits Kaindy Lake, where the trunks of drowned spruce trees rise from the water. The walks are short and easy, and each day has about 5 hours on the road.",
+    "de": "Diese Tour zu den Kolsai- und Kaindy-Seen und zum Charyn-Canyon ist eine private 2-Tage-Tour ab Almaty für ein bis sechs Reisende, von Frühling bis Herbst. Am ersten Tag wandern wir durch das Tal der Burgen im Charyn-Canyon und enden mit dem Sonnenuntergang am ersten Kolsai-See; am zweiten Tag besuchen wir den Kaindy-See, wo die Stämme der ertrunkenen Fichten aus dem Wasser ragen. Die Wanderungen sind kurz und einfach, und jeder Tag hat etwa 5 Stunden Fahrtzeit.",
+    "fr": "Ce circuit des lacs Kolsai, Kaindy et du canyon de Charyn est un voyage privé de 2 jours au départ d'Almaty pour un à six voyageurs, du printemps à l'automne. Le premier jour, on marche dans la vallée des Châteaux dans le canyon de Charyn et on termine au coucher du soleil au bord du premier lac Kolsai ; le deuxième jour, on visite le lac Kaindy, où les troncs des sapins noyés émergent de l'eau. Les randonnées sont courtes et faciles, et chaque jour compte environ 5 heures de route.",
+    "es": "Este tour de los lagos Kolsai, Kaindy y el Cañón de Charyn es un viaje privado de 2 días desde Almaty para uno a seis viajeros, de primavera a otoño. El primer día se camina por el Valle de los Castillos en el Cañón de Charyn y termina al atardecer junto al primer lago Kolsai; el segundo día se visita el lago Kaindy, donde los troncos de los pinos ahogados emergen del agua. Las caminatas son cortas y fáciles, y cada día tiene unas 5 horas de viaje en coche.",
+    "ja": "このコルサイ湖、カインディ湖、チャリン峡谷のツアーは、春から秋にかけてアルマトイから1〜6人の旅行者向けのプライベート2日間の旅です。1日目はチャリン峡谷の城塞の谷を歩き、日没には最初のコルサイ湖で終わります。2日目は、水面から沈んだトウヒの幹が突き出すカインディ湖を訪れます。散策は短くて簡単で、1日あたり約5時間車に乗ります。",
+    "zh": "这趟科尔赛湖、凯因迪湖和恰林峡谷之旅是从阿拉木图出发的私人2日游，适合1至6名旅客，春季至秋季均可出发。第一天游览恰林峡谷的城堡谷，并在第一个科尔赛湖畔看日落；第二天参观凯因迪湖，那里淹没的云杉树干从水中升起。步行路线短且轻松，每天在路上约5小时。"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Almaty – Charyn Canyon – Kolsai Lake – Saty",
+        "de": "Almaty – Charyn-Canyon – Kolsai-See – Saty",
+        "fr": "Almaty – Charyn Canyon – Kolsai Lake – Saty",
+        "ja": "アルマトイ – チャリン峡谷 – コルサイ湖 – サティ",
+        "es": "Almaty – Cañón de Charyn – Lago Kolsai – Saty",
+        "zh": "阿拉木图 – 恰林峡谷 – 科尔赛湖 – 萨蒂"
+      },
+      "description": {
+        "en": "We pick you up in Almaty early in the morning and drive about 200 km east to the main entrance of Charyn Canyon National Park. After the park formalities we walk through the Valley of Castles, where walls 150–300 m high have weathered into towers, natural bridges and shapes that look like fossil dinosaurs and wizards' heads. Lunch is a picnic on the bank of the Charyn river, in the shade of relict Sogdian ash trees. We then drive towards the Kungei Alatau mountains to Kolsai Lakes National Park, a cascade of three glacial lakes. At sunset we walk around the first and largest, Kolsai-1 (also called Saty), about 2 km long and 80 m deep at 1,800 m. The night is in a guest house in Saty village. Walking: about 1 hour, 2.5 km, no climbs. Driving: about 5 hours, 315 km.",
+        "de": "Wir holen Sie morgens in Almaty ab und fahren etwa 200 km ostwärts zum Haupteingang des Nationalparks Charyn-Canyon. Nach den Parkformalitäten wandern wir durch das Tal der Burgen, wo Wände von 150–300 m Höhe zu Türmen, natürlichen Brücken und Formen verwittert sind, die wie Fossilien von Dinosauriern und Zauberhüten aussehen. Das Mittagessen ist ein Picknick am Ufer des Charyn-Flusses, im Schatten reliktärer Sogdischer Eschen. Wir fahren dann in Richtung der Kungei-Alatau-Berge zum Nationalpark Kolsai-Seen, eine Kaskade von drei Gletscherseen. Beim Sonnenuntergang wandern wir um den ersten und größten, Kolsai-1 (auch Saty genannt), etwa 2 km lang und 80 m tief auf 1.800 m. Die Nacht verbringen wir in einer Pension im Dorf Saty. Wandern: etwa 1 Stunde, 2,5 km, keine Steigungen. Fahren: etwa 5 Stunden, 315 km.",
+        "fr": "Nous venons vous chercher à Almaty tôt le matin et nous conduisons environ 200 km à l'est jusqu'à l'entrée principale du parc national de Charyn Canyon. Après les formalités du parc, nous marchons à travers la vallée des Châteaux, où des murs de 150 à 300 m de haut se sont érodés en tours, ponts naturels et formes qui ressemblent à des dinosaures fossiles et à des têtes de sorciers. Le déjeuner est un pique-nique sur la berge de la rivière Charyn, à l'ombre des frênes de Sogdiane relictes. Nous nous dirigeons ensuite vers les montagnes de Kungei Alatau jusqu'au parc national des lacs Kolsai, une cascade de trois lacs glaciaires. Au coucher du soleil, nous marchons autour du premier et du plus grand, Kolsai-1 (aussi appelé Saty), d'environ 2 km de long et 80 m de profondeur à 1 800 m. La nuit se passe dans une maison d'hôtes à Saty. Marche : environ 1 heure, 2,5 km, sans montée. Conduite : environ 5 heures, 315 km.",
+        "es": "Te recogemos en Almaty temprano por la mañana y conducimos unos 200 km al este hasta la entrada principal del Parque Nacional Cañón de Charyn. Después de los trámites del parque, caminamos por el Valle de los Castillos, donde paredes de 150–300 m de altura se han erosionado en torres, puentes naturales y formas que parecen dinosaurios fosilizados y cabezas de magos. El almuerzo es un picnic en la orilla del río Charyn, a la sombra de los álamos relictos de Sogdiana. Luego, conducimos hacia las montañas Kungei Alatau hasta el Parque Nacional Lagos Kolsai, una cascada de tres lagos glaciares. Al atardecer, caminamos alrededor del primero y más grande, Kolsai-1 (también llamado Saty), de unos 2 km de largo y 80 m de profundidad a 1.800 m. La noche es en una casa de huéspedes en el pueblo de Saty. Caminata: unos 1 hora, 2,5 km, sin ascensos. Conducción: unos 5 horas, 315 km.",
+        "ja": "朝早くアルマトイからお迎えし、チャリン峡谷国立公園の入り口まで東に約200km走ります。公園の手続きを済ませた後、壁が150〜300mの高さに風化して塔や自然の橋、恐竜や魔法使いの帽子のように見える形を作る城塞の谷を歩きます。昼食はチャリン川の岸で、遺存種ソグドトネリコの木陰でピクニックです。その後、クンゲイ・アラタウ山脈を越えてコルサイ湖国立公園に向かい、3つの氷河湖が連なる景色を楽しみます。日没には最初で最も大きなコルサイ湖1号（サティとも呼ばれる）を約2km、80mの深さにある1,800mの高さで散策します。夜はサティ村のゲストハウスに宿泊します。散策：約1時間、2.5km、登り降りなし。ドライブ：約5時間、315km。",
+        "zh": "我们清晨在阿拉木图接您，向东驱车约200公里前往恰林峡谷国家公园的主入口。办理完公园手续后，我们步行穿过城堡谷，那里高达150–300米的岩壁经风化形成塔楼、天然桥以及形似恐龙化石和巫师头颅的奇石。午餐在恰林河畔野餐，树荫下是遗留的粟特白蜡树。随后我们驱车前往昆盖阿拉套山脉的科尔赛湖国家公园，这是一片由三个冰川湖组成的湖群。日落时分，我们在第一个也是最大的湖——科尔赛-1（又称萨蒂湖）周围散步，该湖长约2公里，深80米，海拔1800米。夜宿萨蒂村民宅。步行：约1小时，2.5公里，无爬坡。驾车：约5小时，315公里。"
+      },
+      "meals": {
+        "en": "lunch, dinner",
+        "de": "Mittagessen, Abendessen",
+        "fr": "déjeuner, dîner",
+        "ja": "昼食、夕食",
+        "es": "almuerzo, cena",
+        "zh": "午餐，晚餐"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Kaindy Lake and its sunken forest – Almaty",
+        "de": "Kaindy-See und sein versunkener Wald – Almaty",
+        "fr": "Kaindy Lake et sa forêt engloutie – Almaty",
+        "ja": "沈んだ森のカインディ湖 – アルマトイ",
+        "es": "Lago Kaindy y su bosque sumergido – Almaty",
+        "zh": "凯因迪湖及其水下森林 – 阿拉木图"
+      },
+      "description": {
+        "en": "After breakfast we drive up the Kaindy gorge, 15 km east of Saty on a dirt road; where needed, the last stretch is in a local 4x4 taxi. Kaindy Lake lies at about 1,800 m in dense spruce forest. It formed in 1911, when an earthquake set off a landslide that dammed the valley; the white trunks of the drowned spruces still stand out of the water, and below the surface their branches are covered in algae. We walk around the lake, return to the cars for lunch and drive back to Almaty. Walking: about 2 hours, 5 km, 100 m up and down. Driving: about 5 hours, 310 km.",
+        "de": "Nach dem Frühstück fahren wir das Kaindy-Tal hinauf, 15 km östlich von Saty auf einer Schotterstraße; wo nötig, legen wir die letzte Strecke mit einem lokalen 4x4-Taxi zurück. Der Kaindy-See liegt auf etwa 1.800 m in dichtem Fichtenwald. Er entstand 1911, als ein Erdbeben einen Erdrutsch auslöste, der das Tal aufstaute; die weißen Stämme der ertrunkenen Fichten ragen noch aus dem Wasser, und unter der Oberfläche sind ihre Zweige mit Algen bedeckt. Wir wandern um den See, kehren zu den Autos zurück zum Mittagessen und fahren zurück nach Almaty. Wandern: etwa 2 Stunden, 5 km, 100 m auf und ab. Fahren: etwa 5 Stunden, 310 km.",
+        "fr": "Après le petit-déjeuner, nous conduisons dans la gorge de Kaindy, à 15 km à l'est de Saty sur une route de terre ; là où c'est nécessaire, le dernier tronçon se fait en taxi 4x4 local. Le lac Kaindy se trouve à environ 1 800 m dans une forêt dense de sapins. Il s'est formé en 1911, lorsqu'un tremblement de terre a déclenché un glissement de terrain qui a barré la vallée ; les troncs blancs des sapins noyés émergent encore de l'eau, et sous la surface, leurs branches sont couvertes d'algues. Nous marchons autour du lac, retournons aux voitures pour le déjeuner et conduisons de retour à Almaty. Marche : environ 2 heures, 5 km, 100 m de montée et de descente. Conduite : environ 5 heures, 310 km.",
+        "es": "Después del desayuno, conducimos por el cañón Kaindy, a 15 km al este de Saty en una carretera de tierra; donde sea necesario, el último tramo es en un taxi 4x4 local. El lago Kaindy se encuentra a unos 1.800 m en un denso bosque de pinos. Se formó en 1911, cuando un terremoto desencadenó un deslizamiento de tierra que bloqueó el valle; los troncos blancos de los pinos ahogados aún sobresalen del agua, y debajo de la superficie, sus ramas están cubiertas de algas. Caminamos alrededor del lago, regresamos a los coches para almorzar y conducimos de vuelta a Almaty. Caminata: unos 2 horas, 5 km, 100 m de subida y bajada. Conducción: unos 5 horas, 310 km.",
+        "ja": "朝食後、サティから東に15 km離れたカインディ峡谷へと砂利道をドライブします。必要に応じて、最後の区間は現地の4×4タクシーで移動します。カインディ湖は、標高約1,800 mの密林に位置しています。1911年に地震が原因で山崩れが発生し、谷がせき止められて形成されました。水中に沈んだトウヒの白い幹が水面から突き出し、その枝は藻に覆われています。湖の周りを散策し、車に戻って昼食を取り、アルマトイへ戻ります。散策: 約2時間、5 km、100 mの上り下り。ドライブ: 約5時間、310 km。",
+        "zh": "早餐后，我们驱车前往凯因迪峡谷，位于萨蒂以东15公里，土路上行；必要时，最后一段路程乘坐当地4x4出租车。凯因迪湖海拔约1800米，坐落在茂密的云杉林中。该湖形成于1911年，当时一次地震引发滑坡，堵塞了山谷；淹没的云杉白色树干仍从水中露出，水下的树枝上覆盖着藻类。我们绕湖步行，返回车辆用餐，然后驱车返回阿拉木图。步行：约2小时，5公里，上下坡约100米。驾车：约5小时，310公里。"
+      },
+      "meals": {
+        "en": "breakfast, lunch",
+        "de": "Frühstück, Mittagessen",
+        "fr": "petit-déjeuner, déjeuner",
+        "ja": "朝食、昼食",
+        "es": "desayuno, almuerzo",
+        "zh": "早餐，午餐"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Private tour with our English-speaking guide on both days, including the guided visits to Charyn Canyon, Kolsai and Kaindy lakes",
+      "Pick-up and drop-off in Almaty and all transfers in the itinerary",
+      "4x4 taxi to Kaindy Lake where needed",
+      "1 night in a guest house in Saty, sharing a double room with its own shower and WC",
+      "Meals: 2 lunches, 1 dinner and 1 breakfast, plus drinking water",
+      "Entry fees and permits for Charyn Canyon National Park, Kolsai Lakes National Park and the Kaindy reserve",
+      "Group first-aid kit, radio for larger groups and inspected vehicles"
+    ],
+    "de": [
+      "Private Tour mit unserem englischsprachigen Guide an beiden Tagen, einschließlich der geführten Besuche des Charyn-Canyons und der Kolsai- und Kaindy-Seen",
+      "Abholung und Rückfahrt in Almaty sowie alle Transfers im Reiseverlauf",
+      "4x4-Taxi zum Kaindy-See, wo nötig",
+      "1 Nacht in einer Pension in Saty, Doppelzimmer mit eigenem Dusche und WC",
+      "Mahlzeiten: 2 Mittagessen, 1 Abendessen und 1 Frühstück, plus Trinkwasser",
+      "Eintrittsgebühren und Genehmigungen für den Nationalpark Charyn-Canyon, den Nationalpark Kolsai-Seen und das Kaindy-Reservat",
+      "Gruppen-Erste-Hilfe-Kasten, Funkgerät für größere Gruppen und geprüfte Fahrzeuge"
+    ],
+    "fr": [
+      "Tour privé avec notre guide anglophone les deux jours, y compris les visites guidées du canyon de Charyn, des lacs Kolsai et Kaindy",
+      "Prise en charge et dépôt à Almaty et tous les transferts dans l'itinéraire",
+      "Taxi 4x4 vers le lac Kaindy lorsque nécessaire",
+      "1 nuit dans une maison d'hôtes à Saty, partageant une chambre double avec sa propre douche et WC",
+      "Repas : 2 déjeuners, 1 dîner et 1 petit-déjeuner, plus de l'eau potable",
+      "Frais d'entrée et permis pour le parc national de Charyn Canyon, le parc national des lacs Kolsai et la réserve de Kaindy",
+      "Trousse de premiers secours de groupe, radio pour les grands groupes et véhicules inspectés"
+    ],
+    "es": [
+      "Tour privado con nuestro guía en inglés ambos días, incluyendo las visitas guiadas al Cañón de Charyn, los lagos Kolsai y Kaindy",
+      "Recogida y traslado en Almaty y todos los traslados en el itinerario",
+      "Taxi 4x4 al lago Kaindy donde sea necesario",
+      "1 noche en una casa de huéspedes en Saty, compartiendo una habitación doble con su propio ducha y WC",
+      "Comidas: 2 almuerzos, 1 cena y 1 desayuno, más agua potable",
+      "Tarifas de entrada y permisos para el Parque Nacional Cañón de Charyn, el Parque Nacional Lagos Kolsai y la reserva de Kaindy",
+      "Botiquín de primeros auxilios para el grupo, radio para grupos más grandes y vehículos inspeccionados"
+    ],
+    "ja": [
+      "2日間とも、チャリン峡谷、コルサイ湖、カインディ湖のガイド付きツアーを含むプライベートツアー、英語を話す当社のガイドが同行します。",
+      "アルマトイでの送迎と、日程に記載のすべての移動",
+      "必要に応じてカインディ湖への4×4タクシー",
+      "サティのゲストハウスでの1泊、シャワーとトイレ付きのダブルルームをシェア",
+      "食事: 2回の昼食、1回の夕食、1回の朝食、飲料水",
+      "チャリン峡谷国立公園、コルサイ湖国立公園、カインディ自然保護区の入場料と許可証",
+      "グループ用の救急キット、大規模グループ用のラジオ、点検済みの車両"
+    ],
+    "zh": [
+      "两天私人游，配备英语导游，包括游览恰林峡谷、科尔赛湖和凯因迪湖",
+      "阿拉木图接送站及行程中所有交通",
+      "前往凯因迪湖所需的4x4出租车",
+      "萨蒂民宅1晚，双人间共用，配有独立淋浴和卫生间",
+      "餐饮：2份午餐，1份晚餐和1份早餐，另加饮用水",
+      "恰林峡谷国家公园、科尔赛湖国家公园和凯因迪保护区的门票及许可",
+      "团体急救包，大型团队对讲机及经检查的车辆"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights to and from Almaty",
+      "Airport, railway and bus station transfers",
+      "Hotels, meals and activities in Almaty before and after the trip",
+      "Visa and migration fees or support",
+      "Travel insurance",
+      "Personal expenses",
+      "Rental of clothing, footwear and gear",
+      "Porters for luggage and backpacks",
+      "Soft and alcoholic drinks and snacks",
+      "A room of your own (single supplement on request)"
+    ],
+    "de": [
+      "Internationale Flüge nach und von Almaty",
+      "Transfers zum/vom Flughafen, Bahnhof und Busbahnhof",
+      "Hotels, Mahlzeiten und Aktivitäten in Almaty vor und nach der Reise",
+      "Visa- und Migrationsgebühren oder -unterstützung",
+      "Reiseversicherung",
+      "Persönliche Ausgaben",
+      "Miete von Kleidung, Schuhwerk und Ausrüstung",
+      "Träger für Gepäck und Rucksäcke",
+      "Weiche und alkoholische Getränke und Snacks",
+      "Ein Einzelzimmer (Einzelzimmerzuschlag auf Anfrage)"
+    ],
+    "fr": [
+      "Vols internationaux à destination et en provenance d'Almaty",
+      "Transfert aéroport, gare et gare routière",
+      "Hôtels, repas et activités à Almaty avant et après le voyage",
+      "Frais de visa et de migration ou de soutien",
+      "Assurance voyage",
+      "Dépenses personnelles",
+      "Location de vêtements, chaussures et équipement",
+      "Porteurs pour les bagages et les sacs à dos",
+      "Boissons et collations alcoolisées et non alcoolisées",
+      "Chambre individuelle (supplément sur demande)"
+    ],
+    "ja": [
+      "アルマトイへの国際線の飛行機代",
+      "空港、鉄道、バス駅の送迎",
+      "旅行前後のアルマトイでのホテル、食事、アクティビティ",
+      "ビザと移民手数料またはサポート",
+      "旅行保険",
+      "個人的な費用",
+      "衣類、靴、装備のレンタル",
+      "荷物とバックパックの運び手",
+      "ソフトドリンク、アルコール、スナック",
+      "個室（シングルサプリメントはご要望に応じて）"
+    ],
+    "es": [
+      "Vuelos internacionales a y desde Almaty",
+      "Translados al aeropuerto, estación de tren y estación de autobuses",
+      "Hoteles, comidas y actividades en Almaty antes y después del viaje",
+      "Tarifas y apoyo de visa y migración",
+      "Seguro de viaje",
+      "Gastos personales",
+      "Alquiler de ropa, calzado y equipo",
+      "Portadores para el equipaje y mochilas",
+      "Bebidas y snacks con y sin alcohol",
+      "Una habitación para ti solo (suplemento individual bajo petición)"
+    ],
+    "zh": [
+      "往返阿拉木图的国际机票",
+      "机场、火车站和汽车站接送",
+      "行程前后在阿拉木图的酒店、餐饮和活动",
+      "签证及移民费用或支持",
+      "旅行保险",
+      "个人开支",
+      "服装、鞋履和装备租赁",
+      "行李和背包搬运工",
+      "软饮、酒精饮料和零食",
+      "单人房（可申请单房差）"
+    ]
+  },
+  "priceFrom": 468,
+  "currency": "USD",
+  "priceNote": {
+    "en": "Season 2026, USD per person. Private tour; the price depends on group size. Single supplement on request.",
+    "de": "Saison 2026, USD pro Person. Private Tour; der Preis hängt von der Gruppengröße ab. Einzelzimmerzuschlag auf Anfrage.",
+    "fr": "Saison 2026, USD par personne. Tour privé ; le prix dépend de la taille du groupe. Supplément pour chambre individuelle sur demande.",
+    "es": "Temporada 2026, USD por persona. Tour privado; el precio depende del tamaño del grupo. Suplemento individual bajo petición.",
+    "ja": "2026年シーズン、1人あたりの米ドル。プライベートツアーですので、価格はグループの人数によって異なります。シングルサプリメントはご希望に応じて",
+    "zh": "2026 季节，每人 USD 价格。私人旅行；价格随团体规模而变化。单房差可申请。"
+  },
+  "fromLabel": {
+    "en": "from $468 per person (4–6 travellers)",
+    "de": "ab $468 pro Person (4–6 Reisende)",
+    "fr": "à partir de 468 $ par personne (4–6 voyageurs)",
+    "es": "desde $468 por persona (4–6 viajeros)",
+    "ja": "4〜6人の旅行者で1人あたり$468から",
+    "zh": "每人 $468（4–6 位旅客）起"
+  },
+  "priceTable": {
+    "caption": {
+      "en": "Season 2026, USD per person",
+      "de": "Saison 2026, USD pro Person",
+      "fr": "Saison 2026, USD par personne",
+      "es": "Temporada 2026, USD por persona",
+      "ja": "2026年シーズン、1人あたりの米ドル",
+      "zh": "2026 季节，每人 USD 价格"
+    },
+    "groupSizes": {
+      "en": [
+        "1 traveller",
+        "2 travellers",
+        "3 travellers",
+        "4–6 travellers"
+      ],
+      "de": [
+        "1 Gast",
+        "2 Gäste",
+        "3 Gäste",
+        "4–6 Gäste"
+      ],
+      "fr": [
+        "1 voyageur",
+        "2 voyageurs",
+        "3 voyageurs",
+        "4–6 voyageurs"
+      ],
+      "ja": [
+        "1人の旅行者",
+        "2人の旅行者",
+        "3人の旅行者",
+        "4–6人の旅行者"
+      ],
+      "es": [
+        "1 viajero",
+        "2 viajeros",
+        "3 viajeros",
+        "4–6 viajeros"
+      ],
+      "zh": [
+        "1 位旅客",
+        "2 位旅客",
+        "3 位旅客",
+        "4–6 位旅客"
+      ]
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "Private tour",
+          "de": "Private Tour",
+          "fr": "Tour privé",
+          "ja": "プライベートツアー",
+          "es": "Tour privado",
+          "zh": "私人旅行"
+        },
+        "prices": [
+          1092,
+          689,
+          488,
+          468
+        ],
+        "singleSupplement": ""
+      }
+    ],
+    "note": {
+      "en": "Prices are per person in USD for a private tour, by group size, sharing a double room. A room of your own is on request.",
+      "de": "Die Preise sind pro Person in USD für eine private Tour, nach Gruppengröße, bei Nutzung eines Doppelzimmers. Ein Einzelzimmer ist auf Anfrage möglich.",
+      "fr": "Les prix sont en USD par personne pour un tour privé, selon la taille du groupe, en chambre double. Une chambre individuelle est sur demande.",
+      "es": "Los precios son por persona en USD para un tour privado, por tamaño de grupo, compartiendo una habitación doble. Una habitación individual está disponible bajo petición.",
+      "ja": "価格はプライベートツアーの1人あたりの米ドルで、グループの人数によって、ダブルルームをシェアする場合です。個室はご希望に応じて",
+      "zh": "价格为每人 USD，按团体规模计算的私人旅行价格，共用双人间。单人房可申请。"
+    }
+  },
+  "hotels": [],
+  "vehicles": [],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400034/sunday-atlas/charyn-canyon-s-majestic-rock-formations-38116257_culr1s.jpg",
+    "width": 1920,
+    "height": 1080,
+    "alt": {
+      "en": "Red rock towers of the Valley of Castles in Charyn Canyon, Kazakhstan",
+      "de": "Rote Felsentürme im Tal der Burgen im Charyn-Canyon, Kasachstan",
+      "fr": "Tours de roches rouges de la Vallée des Châteaux dans le canyon de Charyn, Kazakhstan",
+      "ja": "カザフスタンのチャリン峡谷にある城塞の谷の赤い岩の塔",
+      "es": "Torreones de roca roja del Valle de los Castillos en el Cañón de Charyn, Kazajistán",
+      "zh": "哈萨克斯坦恰林峡谷城堡谷的红色岩石塔"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/02-horses-naryn_gzijee.jpg",
+        "width": 1600,
+        "height": 2133
+      },
+      "alt": {
+        "en": "Horsemen leading and riding horses on a mountain trail in the Tien Shan",
+        "de": "Reiter mit Pferden auf einem Bergpfad im Tian Schan",
+        "fr": "Cavaliers menant et montant des chevaux sur un sentier de montagne dans le Tian Shan",
+        "ja": "天山山脈の山道で馬を引き、馬に乗る騎手たち",
+        "es": "Jinetes guiando y montando caballos en un sendero de montaña en el Tian Shan",
+        "zh": "天山山路上牵马和骑马的骑手"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317588/sunday-atlas/06-yurt-pasture_rrim5b.jpg",
+        "width": 1600,
+        "height": 1067
+      },
+      "alt": {
+        "en": "Travellers and hosts beside a felt yurt and tent on green mountain pasture in the Tien Shan, with a saddled horse grazing",
+        "de": "Reisende und Gastgeber neben einer Filzjurte und einem Zelt auf einer grünen Bergweide im Tian Schan, daneben ein gesatteltes Pferd",
+        "fr": "Voyageurs et hôtes près d’une yourte en feutre et d’une tente sur un pâturage de montagne verdoyant dans le Tian Shan, avec un cheval sellé",
+        "ja": "天山山脈の緑の山岳牧草地に立つフェルトのユルトとテントのそばに集う人々と、草を食む鞍付きの馬",
+        "es": "Viajeros y anfitriones junto a una yurta de fieltro y una tienda en un pastizal verde de montaña en el Tian Shan, con un caballo ensillado",
+        "zh": "天山绿色山地牧场上，旅客和主人在毡包和帐篷旁，一匹备鞍的马在吃草"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400034/sunday-atlas/charyn-canyon-s-majestic-rock-formations-38116257_culr1s.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": {
+        "en": "Red rock towers of the Valley of Castles in Charyn Canyon, Kazakhstan",
+        "de": "Rote Felsentürme im Tal der Burgen im Charyn-Canyon, Kasachstan",
+        "fr": "Tours de roches rouges de la Vallée des Châteaux dans le canyon de Charyn, Kazakhstan",
+        "ja": "カザフスタンのチャリン峡谷にある城塞の谷の赤い岩の塔",
+        "es": "Torreones de roca roja del Valle de los Castillos en el Cañón de Charyn, Kazajistán",
+        "zh": "哈萨克斯坦恰林峡谷城堡谷的红色岩石塔"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400023/sunday-atlas/landscape-of-the-charyn-canyon-in-kazakhstan-15792410_a6jkdl.jpg",
+        "width": 1920,
+        "height": 2880
+      },
+      "alt": {
+        "en": "Charyn Canyon National Park, eroded sandstone cliffs and the canyon floor",
+        "de": "Nationalpark Charyn-Canyon, erodierte Sandsteinfelsen und der Canyonboden",
+        "fr": "Parc national de Charyn Canyon, falaises de grès érodées et le fond du canyon",
+        "ja": "チャリン峡谷国立公園、侵食された砂岩の崖と峡谷の底",
+        "es": "Parque Nacional Cañón de Charyn, acantilados de arenisca erosionados y el fondo del cañón",
+        "zh": "哈萨克斯坦恰林峡谷国家公园，风化砂岩悬崖和峡谷底部"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400038/sunday-atlas/scenic-view-of-kolsai-lake-in-almaty-kazakhstan-39859805_pxsiht.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Kolsai Lake among spruce forest in the Kolsay Lakes National Park, Almaty Region",
+        "de": "Kolsai-See zwischen Fichtenwald im Kolsay-Seen-Nationalpark, Almaty-Region",
+        "fr": "Lac Kolsai au milieu d'une forêt de sapins dans le parc national des lacs Kolsay, région d'Almaty",
+        "ja": "アルマトイ州のコルサイ湖、コルサイ湖国立公園のトウヒの森の中",
+        "es": "Lago Kolsai entre un bosque de pinos en el Parque Nacional Lagos Kolsay, Región de Almaty",
+        "zh": "阿拉木图州科尔赛国家公园云杉林中的科尔赛湖"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400028/sunday-atlas/kolsay-lakes-national-park-in-kazakhstan-21624172_ne3h7z.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "The first Kolsai lake and the surrounding mountains in Kazakhstan",
+        "de": "Der erste Kolsai-See und die umliegenden Berge in Kasachstan",
+        "fr": "Le premier lac Kolsai et les montagnes environnantes au Kazakhstan",
+        "ja": "カザフスタンの最初のコルサイ湖とその周辺の山々",
+        "es": "El primer lago Kolsai y las montañas circundantes en Kazajistán",
+        "zh": "哈萨克斯坦第一科尔赛湖及周边山脉"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400026/sunday-atlas/kaindy-lake-in-kazakhstan-19022147_nw4i6y.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": {
+        "en": "Kaindy Lake from above, the sunken spruce forest in autumn colours",
+        "de": "Kaindy-See von oben, der versunkene Fichtenwald in Herbstfarben",
+        "fr": "Lac Kaindy vu d'en haut, la forêt de sapins engloutie dans des couleurs automnales",
+        "ja": "上空から見たカインディ湖、秋の色に染まった沈んだトウヒの森",
+        "es": "Lago Kaindy desde arriba, el bosque de pinos sumergido en colores otoñales",
+        "zh": "卡因迪湖鸟瞰，秋色中的沉没云杉林"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400026/sunday-atlas/bare-trees-in-lake-kaindy-in-kazakhstan-18516832_mxnckh.jpg",
+        "width": 1920,
+        "height": 1081
+      },
+      "alt": {
+        "en": "Bare spruce trunks rising from Lake Kaindy in Kazakhstan",
+        "de": "Kahle Fichtenstämme, die aus dem Kaindy-See in Kasachstan aufragen",
+        "fr": "Troncs de sapins nus émergent du lac Kaindy au Kazakhstan",
+        "ja": "カザフスタンのカインディ湖から立ち上がる裸のトウヒの幹",
+        "es": "Troncos de pino desnudos emergiendo del Lago Kaindy en Kazajistán",
+        "zh": "哈萨克斯坦卡因迪湖中露出水面的光秃云杉树干"
+      }
+    }
+  ],
+  "sample": false,
+  "isDayTour": false,
+  "featured": false,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "2-Day Charyn Canyon, Kolsai & Kaindy Lakes Tour from Almaty ($468)",
+      "meta_description": "From $468 USD/person: private 2-day Almaty tour to Charyn Canyon (Valley of Castles), Kolsai Lake & Kaindy sunken forest with Saty guesthouse, meals & 4x4.",
+      "focus_keyword": "charyn canyon kolsai kaindy lakes tour",
+      "keywords": [
+        "charyn canyon kolsai kaindy lakes tour",
+        "2 day tour from almaty",
+        "kolsai and kaindy lakes tour",
+        "valley of castles charyn tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "2-Tage Scharyn-Canyon, Kolsai- & Kaindy-See Tour ab Almaty (Ab $468)",
+      "meta_description": "Ab $468 USD/Person: Private 2-Tages-Tour ab Almaty zum Scharyn-Canyon (Tal der Schlösser), Kolsai-See & versunkenen Wald am Kaindy-See inkl. Gästehaus & 4x4.",
+      "focus_keyword": "scharyn canyon kolsai kaindy tour",
+      "keywords": [
+        "scharyn canyon kolsai kaindy tour",
+        "2 tage ausflug ab almaty",
+        "kaindy see tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Excursion 2 Jours Canyon de Charyn, Lacs Kolsai & Kaindy d’Almaty ($468)",
+      "meta_description": "Dès $468 USD/pers. : circuit privé de 2 jours depuis Almaty vers le canyon de Charyn, le lac Kolsai et la forêt engloutie du lac Kaindy avec nuit à Saty et 4x4.",
+      "focus_keyword": "canyon de charyn lacs kolsai kaindy",
+      "keywords": [
+        "canyon de charyn lacs kolsai kaindy",
+        "excursion 2 jours almaty",
+        "lac kaindy tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "アルマトイ発チャリン渓谷・コルサイ湖＆カインディ湖1泊2日プライベートツアー ($468〜)",
+      "meta_description": "1名$468〜：チャリン渓谷（城の谷）、コルサイ湖、沈没林のカインディ湖を1泊2日で巡るアルマトイ発プライベートツアー。サティ村宿泊・食事・4WD送迎込み。",
+      "focus_keyword": "チャリン渓谷 コルサイ湖 カインディ湖 ツアー",
+      "keywords": [
+        "チャリン渓谷 コルサイ湖 カインディ湖 ツアー",
+        "アルマトイ 1泊2日 ツアー",
+        "カインディ湖 ツアー"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tour 2 Días Cañón de Charyn, Lagos Kolsai y Kaindy desde Almaty ($468)",
+      "meta_description": "Desde $468 USD/persona: tour privado de 2 días desde Almaty al cañón de Charyn, el lago Kolsai y el bosque sumergido de Kaindy con alojamiento, comidas y 4x4.",
+      "focus_keyword": "tour cañón de charyn lagos kolsai kaindy",
+      "keywords": [
+        "tour cañón de charyn lagos kolsai kaindy",
+        "excursión 2 días desde almaty",
+        "lago kaindy tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "从阿拉木图出发的2天查林峡谷、科尔赛湖与凯因迪湖之旅（$468）",
+      "meta_description": "从 $468 USD/人起：阿拉木图出发的2天私人游，游览恰林峡谷（城堡谷）、科尔赛湖与凯因迪沉没森林，含萨季民宿、餐饮与4x4越野车。",
+      "focus_keyword": "阿拉木图2日游",
+      "keywords": [
+        "阿拉木图2日游",
+        "查林峡谷2日游",
+        "柯尔赛湖旅游",
+        "凯因迪湖沉没森林",
+        "阿拉木图私人4x4游",
+        "萨季民宿2日游",
+        "查林峡谷城堡谷",
+        "阿拉木图湖泊峡谷2天"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "Kolsai, Kaindy lakes and Charyn Canyon tour, 2 days from Almaty"
+    },
+    "facts": {
+      "en": "Kolsai lake private tour at a glance"
+    },
+    "itinerary": {
+      "en": "From Charyn Canyon National Park to Kaindy Lake, day by day"
+    },
+    "included": {
+      "en": "What the trip includes"
+    },
+    "notIncluded": {
+      "en": "Not included"
+    },
+    "prices": {
+      "en": "Kolsai lake tour prices, season 2026"
+    },
+    "faq": {
+      "en": "Kolsai & Kaindy lakes: questions"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does the Kolsai lake tour cost?",
+        "de": "Was kostet die Tour zum Kolsai-See?",
+        "fr": "Combien coûte le tour du lac Kolsai ?",
+        "ja": "コルサイ湖ツアーはいくらですか？",
+        "es": "¿Cuánto cuesta el tour al lago Kolsai?",
+        "zh": "科尔赛湖之旅多少钱？"
+      },
+      "a": {
+        "en": "For the 2026 season it costs $468 per person for 4–6 travellers, $488 for 3, $689 for 2 and $1092 for one traveller, in USD. The price assumes a shared double room; a room of your own is on request.",
+        "de": "Für die Saison 2026 kostet sie $468 pro Person für 4–6 Reisende, $488 für 3, $689 für 2 und $1092 für Alleinreisende, in USD. Der Preis setzt ein geteiltes Doppelzimmer voraus; ein Einzelzimmer ist auf Anfrage möglich.",
+        "fr": "Pour la saison 2026, il coûte 468 $ par personne pour 4–6 voyageurs, 488 $ pour 3, 689 $ pour 2 et 1092 $ pour un voyageur, en USD. Le prix suppose une chambre double partagée ; une chambre individuelle est sur demande.",
+        "es": "Para la temporada 2026 cuesta $468 por persona para 4–6 viajeros, $488 para 3, $689 para 2 y $1092 para un viajero, en USD. El precio asume una habitación doble compartida; una habitación individual está disponible bajo petición.",
+        "ja": "2026年のシーズンは、4〜6名様で1人あたり$468、3名様で$488、2名様で$689、1名様で$1092（米ドル）です。価格はダブルルームをご利用いただくことを前提としております。シングルルームをご希望の場合はご相談ください。",
+        "zh": "2026 季节，4–6 人每人 468 美元，3 人 488 美元，2 人 689 美元，1 人 1092 美元。价格包含共享双人房；单间可申请。"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I visit Kolsai Lake in winter?",
+        "de": "Kann ich den Kolsai-See im Winter besuchen?",
+        "fr": "Puis-je visiter le lac Kolsai en hiver ?",
+        "ja": "冬にコルサイ湖を訪れることはできますか？",
+        "es": "¿Puedo visitar el lago Kolsai en invierno?",
+        "zh": "冬天可以去科尔赛湖吗？"
+      },
+      "a": {
+        "en": "Not on this trip. It runs from spring to autumn and is not offered in winter.",
+        "de": "Nicht auf dieser Reise. Sie findet von Frühling bis Herbst statt und wird im Winter nicht angeboten.",
+        "fr": "Pas sur ce voyage. Il se déroule du printemps à l'automne et n'est pas proposé en hiver.",
+        "ja": "この旅行では冬はありません。春から秋にかけて開催され、冬には提供されません。",
+        "es": "No en este viaje. Se realiza de primavera a otoño y no se ofrece en invierno.",
+        "zh": "此行程不提供。行程从春季运营至秋季，冬季不提供。"
+      }
+    },
+    {
+      "q": {
+        "en": "How far is Kaindy Lake from Kolsai Lake?",
+        "de": "Wie weit ist der Kaindy-See vom Kolsai-See entfernt?",
+        "fr": "Quelle est la distance entre le lac Kaindy et le lac Kolsai ?",
+        "ja": "カインディ湖はコルサイ湖からどれくらい離れていますか？",
+        "es": "¿Qué tan lejos está el lago Kaindy del lago Kolsai?",
+        "zh": "卡因迪湖离科尔赛湖有多远？"
+      },
+      "a": {
+        "en": "The Kaindy gorge is about 15 km east of Saty village, the base for the first Kolsai lake, on a dirt road. Where needed, the last stretch is in a local 4x4 taxi, which is included.",
+        "de": "Das Kaindy-Tal liegt etwa 15 km östlich des Dorfes Saty, dem Ausgangspunkt für den ersten Kolsai-See, auf einer Schotterstraße. Wenn nötig, wird der letzte Abschnitt mit einem lokalen 4x4-Taxi zurückgelegt, das im Preis enthalten ist.",
+        "fr": "La gorge de Kaindy se trouve à environ 15 km à l'est du village de Saty, le point de départ pour le premier lac Kolsai, sur une route de terre. Lorsque nécessaire, le dernier tronçon se fait en taxi 4x4 local, qui est inclus.",
+        "ja": "カインディ峡谷は、最初のコルサイ湖の拠点であるサティ村から東に約15キロメートル、未舗装の道路にあります。必要に応じて、最後の部分は地元の4x4タクシーで移動しますが、これは含まれています。",
+        "es": "El cañón de Kaindy está a unos 15 km al este del pueblo de Saty, la base para el primer lago Kolsai, en una carretera de tierra. Cuando sea necesario, el último tramo se realiza en un taxi 4x4 local, que está incluido.",
+        "zh": "卡因迪峡谷位于萨季村以东约15公里，萨季村是前往第一个科尔赛湖的基地，路段为土路。如有需要，最后一段路程乘坐当地4x4出租车，费用已包含。"
+      }
+    },
+    {
+      "q": {
+        "en": "What is the guest house in Saty like?",
+        "de": "Wie ist das Gasthaus in Saty?",
+        "fr": "À quoi ressemble la maison d'hôtes de Saty ?",
+        "ja": "サティのゲストハウスはどのようなところですか？",
+        "es": "¿Cómo es la casa de huéspedes en Saty?",
+        "zh": "萨季村的客栈是什么样的？"
+      },
+      "a": {
+        "en": "Simple but comfortable: double rooms, each with its own shower and WC. There is no wi-fi. Breakfast and dinner are served there, and special diets are possible if you ask in advance.",
+        "de": "Einfach, aber komfortabel: Doppelzimmer, jedes mit eigener Dusche und WC. Es gibt kein Wi-Fi. Frühstück und Abendessen werden dort serviert, und spezielle Diäten sind auf Anfrage möglich.",
+        "fr": "Simple mais confortable : chambres doubles, chacune avec sa propre douche et WC. Il n'y a pas de wi-fi. Le petit-déjeuner et le dîner y sont servis, et les régimes spéciaux sont possibles si vous demandez à l'avance.",
+        "ja": "シンプルですが快適です：ダブルルーム、それぞれにシャワーとトイレが付いています。Wi-Fiはありません。朝食と夕食はそこで提供され、事前にご連絡いただければ特別な食事も可能です。",
+        "es": "Sencilla pero cómoda: habitaciones dobles, cada una con su propia ducha y WC. No hay wifi. El desayuno y la cena se sirven allí, y se pueden acomodar dietas especiales si se solicita con antelación.",
+        "zh": "简单舒适：双人房，每间均配有独立淋浴和卫生间。没有Wi-Fi。早餐和晚餐在客栈供应，如需特殊饮食，请提前告知。"
+      }
+    },
+    {
+      "q": {
+        "en": "What should I pack?",
+        "de": "Was sollte ich einpacken?",
+        "fr": "Que dois-je emporter ?",
+        "ja": "何を持っていくべきですか？",
+        "es": "¿Qué debo empacar?",
+        "zh": "我该带什么？"
+      },
+      "a": {
+        "en": "In summer: hiking shoes or trainers, sandals, long trekking trousers and shorts, a T-shirt, a fleece, a wind and rain jacket, a cap, sunglasses and sunscreen. In spring and autumn add a long-sleeve top, thermal underwear, a light down jacket, a hat and gloves. Bring one duffel bag and one small backpack per person; wheeled suitcases do not fit the vehicles. Ticks are active in late May and June, so bring repellent, and carry some cash in tenge for the villages.",
+        "de": "Im Sommer: Wanderschuhe oder Turnschuhe, Sandalen, lange Trekkinghosen und Shorts, ein T-Shirt, eine Fleecejacke, eine Wind- und Regenjacke, eine Mütze, Sonnenbrille und Sonnencreme. Im Frühling und Herbst zusätzlich ein langärmeliges Oberteil, Thermounterwäsche, eine leichte Daunenjacke, eine Mütze und Handschuhe. Packen Sie pro Person einen Duffle-Bag und einen kleinen Rucksack ein; Rollkoffer passen nicht in die Fahrzeuge. Zecken sind im späten Mai und Juni aktiv, also bringen Sie Repellent mit und tragen Sie etwas Bargeld in Tenge für die Dörfer.",
+        "fr": "En été : chaussures de randonnée ou baskets, sandales, pantalons de trekking longs et shorts, un t-shirt, une polaire, une veste coupe-vent et imperméable, une casquette, des lunettes de soleil et de la crème solaire. Au printemps et en automne, ajoutez un haut à manches longues, des sous-vêtements thermiques, une veste en duvet légère, un chapeau et des gants. Emportez un sac de voyage et un petit sac à dos par personne ; les valises à roulettes ne rentrent pas dans les véhicules. Les tiques sont actives fin mai et juin, alors emportez un répulsif, et emportez un peu d'argent en tenge pour les villages.",
+        "es": "En verano: zapatos de senderismo o tenis, sandalias, pantalones largos de trekking y shorts, una camiseta, una chaqueta polar, una chaqueta impermeable y contra el viento, una gorra, gafas de sol y protector solar. En primavera y otoño, añade una camisa de manga larga, ropa térmica, una chaqueta ligera de plumas, un sombrero y guantes. Trae una bolsa de viaje y una mochila pequeña por persona; las maletas con ruedas no caben en los vehículos. Las garrapatas están activas a finales de mayo y junio, así que trae repelente, y lleva algo de efectivo en tenge para los pueblos.",
+        "ja": "夏は、ハイキングシューズまたはトレーニングシューズ、サンダル、長めのトレッキングパンツとショートパンツ、Tシャツ、フリース、防風・防水ジャケット、帽子、サングラス、日焼け止めをお持ちください。春と秋は、長袖のトップス、保温下着、軽量ダウンジャケット、帽子、手袋を追加してください。一人につき、ダッフルバッグと小さなバックパックをお持ちください。車に収まるのはこれだけです。5月末と6月はダニが活発なので、忌避剤を持参し、村々で使うためにテンゲ紙幣を少しお持ちください。",
+        "zh": "夏季：徒步鞋或运动鞋、凉鞋、长徒步裤和短裤、T恤、抓绒衣、防风防雨夹克、帽子、墨镜和防晒霜。春秋季还需加带长袖上衣、保暖内衣、轻便羽绒服、帽子和手套。每人请带一个旅行袋和一个小背包；带轮行李箱无法放入车辆。五月底和六月蜱虫活跃，请携带驱虫剂，并在村里消费时备一些坚戈现金。"
+      }
+    }
+  ],
+  "addOns": []
+}

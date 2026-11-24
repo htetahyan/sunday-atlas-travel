@@ -1,0 +1,1222 @@
+{
+  "slug": "tajikistan-itinerary-5-days",
+  "published": true,
+  "featured": false,
+  "category": "destination-guide",
+  "destination": "tajikistan",
+  "countries": [],
+  "publishedAt": "2026-11-03T21:56:26+04:00",
+  "updatedAt": "2026-11-03T21:56:26+04:00",
+  "readingTimeMinutes": 13,
+  "relatedPackages": [
+    "iskanderkul-lake-fann-mountains-day-trip",
+    "four-stans-odyssey-18-days",
+    "five-stans-long-road-22-days"
+  ],
+  "title": {
+    "en": "Tajikistan Itinerary 5 Days: Dushanbe & Seven Lakes (2027)",
+    "de": "Tajikistan Reiseroute 5 Tage: Duschanbe & Sieben Seen (2027)",
+    "fr": "Itinéraire au Tadjikistan 5 jours : Douchanbé et les Sept Lacs (2027)",
+    "ja": "タジキスタン 5日間プラン：ドゥシャンベとセブンレイクス（2027年）",
+    "es": "Itinerario de Tayikistán 5 días: Dushanbe y los Siete Lagos (2027)"
+  },
+  "subtitle": {
+    "en": "Day-by-day route with drive times, overnight towns and the matching Sunday Atlas tour",
+    "de": "Tagesweise Route mit Fahrzeiten, Übernachtungsorten und der passenden Sunday Atlas Tour",
+    "fr": "Itinéraire jour après jour avec temps de trajet, villes étapes et le voyage Sunday Atlas correspondant",
+    "ja": "ドライブ時間、宿泊タウン、日曜アトラス旅行の対応ツアーを含む日程別ルート",
+    "es": "Ruta día a día con tiempos de traslado, ciudades de pernoctación y el tour correspondiente de Sunday Atlas Travel"
+  },
+  "summary": {
+    "en": "A practical 5-day plan covering Dushanbe, the Fan Mountains, Penjikent and Khujand with realistic drive times and where to sleep each night.",
+    "de": "Ein praktischer 5-Tage-Plan, der Duschanbe, die Fan-Berge, Pendschikent und Chudschand mit realistischen Fahrzeiten und den Übernachtungsorten für jede Nacht abdeckt.",
+    "fr": "Un plan pratique de 5 jours couvrant Douchanbé, les monts Fan, Pendjikent et Khodjent avec des temps de trajet réalistes et où dormir chaque nuit.",
+    "ja": "ドゥシャンベ、ファン山脈、ペンジケント、フジェンドを網羅した実用的な5日間プラン。現実的なドライブ時間と毎晩の宿泊先を掲載。",
+    "es": "Un plan práctico de 5 días que cubre Dushanbe, las montañas Fan, Penjikent y Khujand con tiempos de traslado realistas y dónde dormir cada noche."
+  },
+  "intro": {
+    "en": "A tajikistan itinerary 5 days runs Dushanbe to the Seven Lakes, Penjikent and Khujand with drives of two to five hours each day. Late spring to early autumn keeps mountain passes open. This post gives a day-by-day plan with overnight towns, drive times and the Sunday Atlas tour that follows this route.",
+    "de": "Eine Tajikistan-Reiseroute über 5 Tage führt von Duschanbe zu den Sieben Seen, Pendschikent und Chudschand mit Fahrten von zwei bis fünf Stunden pro Tag. Von Spätfrühling bis Frühherbst bleiben die Pässe offen. Dieser Beitrag bietet einen tagesweisen Plan mit Übernachtungsorten, Fahrzeiten und der Sunday Atlas Tour, die dieser Route folgt.",
+    "fr": "Un itinéraire de 5 jours au Tadjikistan relie Douchanbé aux Sept Lacs, Pendjikent et Khodjent avec des trajets de deux à cinq heures chaque jour. De la fin du printemps au début de l'automne, les cols de montagne restent ouverts. Cet article propose un plan jour après jour avec les villes étapes, les temps de trajet et le voyage Sunday Atlas qui suit cet itinéraire.",
+    "ja": "タジキスタン5日間プランは、ドゥシャンベからセブンレイクス、ペンジケント、フジェンドまで、毎日2〜5時間のドライブで巡ります。晩春から初秋にかけて山岳地帯の峠が開通します。本記事では、宿泊タウン、ドライブ時間、このルートをたどる日曜アトラス旅行のツアーを含む日程別プランをご紹介します。",
+    "es": "Un itinerario de Tayikistán de 5 días recorre Dushanbe hasta los Siete Lagos, Penjikent y Khujand con traslados de dos a cinco horas cada día. De finales de primavera a principios de otoño se mantienen abiertos los pasos de montaña. Esta publicación ofrece un plan día a día con ciudades de pernoctación, tiempos de traslado y el tour de Sunday Atlas Travel que sigue esta ruta."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793728546/sunday-atlas/blog/tajikistan-itinerary-5-days/tajikistan-commons-182020201.jpg",
+    "width": 1920,
+    "height": 1440,
+    "alt": {
+      "en": "A rusted blue tractor sits on dry ground with arid mountains behind it in Tajikistan.",
+      "de": "Ein rostiger blauer Traktor steht auf trockenem Boden, dahinter die trockenen Berge Tadschikistans.",
+      "fr": "Un tracteur bleu rouillé repose sur un sol sec, avec des montagnes arides en arrière-plan au Tadjikistan.",
+      "ja": "乾いた地面に錆びた青いトラクターが置かれ、背後に乾燥した山々が広がるタジキスタンの風景。",
+      "es": "Un tractor azul oxidado sobre suelo seco con montañas áridas al fondo en Tayikistán."
+    },
+    "credit": {
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:T-40_tractor_in_Urmetan,_Tajikistan_(%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80_%D0%A2-40,_%D0%A3%D1%80%D0%BC%D0%B5%D1%82%D0%B0%D0%BD,_%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD).jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "day-1-dushanbe-hissar-fortress",
+      "placeName": {
+        "en": "Dushanbe",
+        "de": "Duschanbe",
+        "fr": "Douchanbé",
+        "ja": "ドゥシャンベ",
+        "es": "Dushanbe"
+      },
+      "heading": {
+        "en": "Day 1: Dushanbe and Hissar Fortress",
+        "de": "Tag 1: Duschanbe und die Festung Hissar",
+        "fr": "Jour 1 : Douchanbé et la forteresse d'Hissar",
+        "ja": "1日目：ドゥシャンベとヒッサル要塞",
+        "es": "Día 1: Dushanbe y la Fortaleza de Hissar"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 1 of this Tajikistan itinerary 5 days begins with arrival in Dushanbe, the capital at about 800 m altitude, where most international flights land from spring through early autumn. A private transfer covers the 30 km drive west to Hissar Fortress in roughly 45 minutes on a paved road that stays open year-round. The fortress complex includes an 18th-century madrasa, two cylindrical towers and a small museum open daily except Mondays. After exploring the site for about two hours, the drive back to Dushanbe takes the same 45 minutes for an overnight stay in the city centre. Late April to October offers the most reliable weather for this first day.",
+          "Dushanbe itself sits in the Hissar Valley and serves as the main gateway for travellers entering Tajikistan by air at Dushanbe International Airport. The city’s wide boulevards, Soviet-era monuments and the National Museum of Tajikistan are all within a 10-minute drive of most central hotels. Summer temperatures often reach the low 30s Celsius, so morning visits to outdoor sites are more comfortable. Our 22-day Five Stans tour uses Day 10 for a full day in Dushanbe before continuing to Iskanderkul on Day 11. Early check-in can be arranged if your flight arrives before noon.",
+          "Hissar Fortress dates back to the 7th century but most visible structures were rebuilt under the Bukhara Emirate in the 1700s. The site sits at about 850 m and the access road climbs gently from the valley floor, making it suitable for standard vehicles in any season. Allow at least 90 minutes to walk the walls, visit the madrasa courtyard and view the small archaeological display. Photography is permitted throughout the complex without extra fees. The return drive to Dushanbe follows the same 30 km route through agricultural land and small villages.",
+          "Practical tip: carry local currency for small purchases at the fortress kiosk and for water, as card acceptance is limited outside major hotels. Mobile coverage is reliable along the Dushanbe–Hissar road with all main Tajik operators. If you arrive on a Monday, note the museum inside the fortress is closed, though the grounds remain accessible. Our private tours schedule this day to align with morning or early afternoon arrivals so the fortress visit fits before sunset. The overnight in Dushanbe positions you for the 235 km mountain drive to Iskanderkul on Day 2."
+        ],
+        "de": [
+          "Tag 1 dieser Tajikistan-Reiseroute über 5 Tage beginnt mit der Ankunft in Duschanbe, der Hauptstadt auf etwa 800 m Höhe, von wo aus die meisten internationalen Flüge von Frühjahr bis Frühherbst landen. Ein privater Transfer legt die 30 km lange Fahrt westlich zur Festung Hissar in etwa 45 Minuten auf einer ganzjährig geöffneten asphaltierten Straße zurück. Die Festungskomplex umfasst eine Madrasa aus dem 18. Jahrhundert, zwei zylindrische Türme und ein kleines Museum, das täglich außer montags geöffnet ist. Nach etwa zweistündiger Erkundung des Geländes dauert die Rückfahrt nach Duschanbe ebenfalls 45 Minuten für eine Übernachtung im Stadtzentrum. Von Ende April bis Oktober bietet sich das zuverlässigste Wetter für diesen ersten Tag.",
+          "Duschanbe selbst liegt im Hissar-Tal und dient als wichtigstes Einreiseland für Reisende, die über den Flughafen Duschanbe International Airport nach Tajikistan einreisen. Die breiten Boulevards der Stadt, sowjetische Denkmäler und das Nationalmuseum von Tajikistan sind alle innerhalb einer 10-minütigen Fahrt von den meisten zentralen Hotels erreichbar. Im Sommer erreichen die Temperaturen oft die niedrigen 30 Grad Celsius, sodass Morgenbesuche an Outdoor-Stätten angenehmer sind. Unsere 22-tägige Five Stans Tour nutzt Tag 10 für einen ganzen Tag in Duschanbe, bevor sie am Tag 11 weiter nach Iskanderkul reist. Ein früher Check-in kann arrangiert werden, wenn Ihr Flug vor Mittag ankommt.",
+          "Die Festung Hissar stammt aus dem 7. Jahrhundert, aber die meisten sichtbaren Strukturen wurden unter dem Emirat Buchara im 18. Jahrhundert wiederaufgebaut. Die Stätte liegt auf etwa 850 m, und die Zufahrtsstraße steigt sanft vom Talboden an, was sie für Standardfahrzeuge in jeder Jahreszeit geeignet macht. Planen Sie mindestens 90 Minuten ein, um die Mauern zu begehen, den Madrasa-Hof zu besichtigen und die kleine archäologische Ausstellung zu betrachten. Fotografieren ist im gesamten Komplex ohne zusätzliche Gebühren erlaubt. Die Rückfahrt nach Duschanbe folgt derselben 30 km langen Route durch landwirtschaftliches Gebiet und kleine Dörfer.",
+          "Praktischer Tipp: Nehmen Sie lokale Währung für kleine Einkäufe am Kiosk der Festung und für Wasser mit, da die Kartenzahlung außerhalb großer Hotels begrenzt ist. Der Mobilfunkempfang ist entlang der Straße Duschanbe–Hissar bei allen großen tadschikischen Anbietern zuverlässig. Wenn Sie an einem Montag ankommen, beachten Sie, dass das Museum in der Festung geschlossen ist, das Gelände jedoch zugänglich bleibt. Unsere privaten Touren planen diesen Tag so, dass er mit Morgen- oder frühen Nachmittagsankünften übereinstimmt, sodass der Festungsbesuch vor Sonnenuntergang passt. Die Übernachtung in Duschanbe positioniert Sie für die 235 km lange Bergfahrt nach Iskanderkul am Tag 2."
+        ],
+        "fr": [
+          "Le jour 1 de cet itinéraire de 5 jours au Tadjikistan commence par l'arrivée à Douchanbé, la capitale située à environ 800 m d'altitude, où atterrissent la plupart des vols internationaux du printemps au début de l'automne. Un transfert privé couvre les 30 km jusqu'à la forteresse d'Hissar en environ 45 minutes sur une route goudronnée ouverte toute l'année. Le complexe de la forteresse comprend une médersa du XVIIIe siècle, deux tours cylindriques et un petit musée ouvert tous les jours sauf le lundi. Après avoir exploré le site pendant environ deux heures, le trajet retour vers Douchanbé prend les mêmes 45 minutes pour une nuitée dans le centre-ville. De fin avril à octobre, la météo est la plus fiable pour cette première journée.",
+          "Douchanbé elle-même se trouve dans la vallée d'Hissar et constitue la principale porte d'entrée pour les voyageurs arrivant au Tadjikistan par avion à l'aéroport international de Douchanbé. Les larges boulevards de la ville, les monuments de l'époque soviétique et le Musée national du Tadjikistan sont tous à moins de 10 minutes en voiture de la plupart des hôtels centraux. En été, les températures atteignent souvent le bas des 30 degrés Celsius, donc les visites matinales des sites en plein air sont plus confortables. Notre voyage Cinq Pays de 22 jours utilise le jour 10 pour une journée complète à Douchanbé avant de continuer vers Iskanderkul le jour 11. Un enregistrement anticipé peut être organisé si votre vol arrive avant midi.",
+          "La forteresse d'Hissar remonte au VIIe siècle, mais la plupart des structures visibles ont été reconstruites sous l'émirat de Boukhara au XVIIIe siècle. Le site se trouve à environ 850 m d'altitude et la route d'accès monte doucement depuis le fond de la vallée, ce qui le rend adapté aux véhicules standards en toute saison. Prévoyez au moins 90 minutes pour parcourir les remparts, visiter la cour de la médersa et voir la petite exposition archéologique. La photographie est autorisée dans tout le complexe sans frais supplémentaires. Le trajet de retour vers Douchanbé suit le même itinéraire de 30 km à travers des terres agricoles et de petits villages.",
+          "Conseil pratique : prévoyez de la monnaie locale pour les petits achats au kiosque de la forteresse et pour l'eau, car le paiement par carte est limité en dehors des grands hôtels. La couverture mobile est fiable le long de la route Douchanbé-Hissar avec tous les principaux opérateurs tadjiks. Si vous arrivez un lundi, notez que le musée à l'intérieur de la forteresse est fermé, bien que les terrains restent accessibles. Nos visites privées organisent cette journée pour coïncider avec des arrivées le matin ou en début d'après-midi afin que la visite de la forteresse ait lieu avant le coucher du soleil. La nuitée à Douchanbé vous positionne pour le trajet de montagne de 235 km jusqu'à Iskanderkul le jour 2."
+        ],
+        "ja": [
+          "タジキスタン5日間プランの1日目は、標高約800mの首都ドゥシャンベへの到着から始まります。春から初秋にかけて、ほとんどの国際線が到着します。プライベート送迎で西へ約30km、ヒッサル要塞まで約45分。舗装された道路は一年中通行可能です。要塞群には18世紀のマドラサ、2つの円筒形の塔、小さな博物館が含まれ、月曜を除き毎日開館しています。現地での見学は約2時間。ドゥシャンベへの帰路も約45分で、市内中心部に宿泊します。4月下旬から10月が、この初日の天候として最も安定しています。",
+          "ドゥシャンベはヒッサル渓谷に位置し、タジキスタンへ空路で入国する旅行者の主要な玄関口です。ドゥシャンベ国際空港からのアクセスも良好です。市内の広い大通り、ソビエト時代のモニュメント、タジキスタン国立博物館は、中心部のホテルのほとんどから10分以内のドライブ圏内にあります。夏季は気温が30度前半に達することが多く、屋外の観光は午前中が快適です。当社の22日間ファイブスタンズツアーでは、10日目にドゥシャンベを丸一日滞在し、11日目にイスカンダークルへ向かいます。午前中に到着する場合は、早めのチェックインを手配可能です。",
+          "ヒッサル要塞は7世紀に遡りますが、現在見られる建造物のほとんどは1700年代にブハラ Emirateの下で再建されたものです。標高約850mの場所に位置し、渓谷底から緩やかに登るアクセス道路があるため、どの季節でも標準的な車両で訪れることができます。壁を歩き、マドラサの中庭を見学し、小規模な考古学展示を観覧するには、少なくとも90分を確保してください。複合施設内での撮影は、追加料金なしで許可されています。ドゥシャンベへの帰路は、農地や小さな村々を通る同じ30kmのルートをたどります。",
+          "実用的なヒント：要塞のキオスクでの少額の買い物や水の購入には、現地通貨をご用意ください。主要ホテル以外ではカード決済が限られています。ドゥシャンベ〜ヒッサル道路沿いでは、主要なタジク通信事業者すべてで携帯電話の電波が安定しています。月曜日に到着する場合は、要塞内の博物館は休館ですが、敷地内への立ち入りは可能です。当社のプライベートツアーでは、午前中または早い午後の到着に合わせてこの日程を組み、日没前に要塞見学を済ませます。ドゥシャンベでの宿泊により、2日目にイスカンダークルへ向かう235kmの山岳ドライブに備えることができます。"
+        ],
+        "es": [
+          "El Día 1 de este itinerario de Tayikistán de 5 días comienza con la llegada a Dushanbe, la capital a unos 800 m de altitud, donde aterrizan la mayoría de los vuelos internacionales de primavera a principios de otoño. Un traslado privado cubre los 30 km hacia el oeste hasta la Fortaleza de Hissar en aproximadamente 45 minutos por una carretera pavimentada que permanece abierta todo el año. El complejo de la fortaleza incluye una madrasa del siglo XVIII, dos torres cilíndricas y un pequeño museo abierto todos los días excepto los lunes. Tras explorar el sitio durante unas dos horas, el regreso a Dushanbe tarda los mismos 45 minutos para una noche en el centro de la ciudad. De finales de abril a octubre ofrece el clima más fiable para este primer día.",
+          "Dushanbe se encuentra en el valle de Hissar y sirve como puerta de entrada principal para los viajeros que llegan a Tayikistán por aire en el Aeropuerto Internacional de Dushanbe. Los bulevares anchos de la ciudad, los monumentos de la era soviética y el Museo Nacional de Tayikistán están a menos de 10 minutos en coche de la mayoría de los hoteles céntricos. En verano las temperaturas suelen alcanzar los 30 grados centígrados, por lo que las visitas matutinas a los sitios al aire libre son más cómodas. Nuestro tour de 22 días Five Stans utiliza el Día 10 para un día completo en Dushanbe antes de continuar hacia Iskanderkul el Día 11. Se puede organizar el check-in temprano si tu vuelo llega antes del mediodía.",
+          "La Fortaleza de Hissar data del siglo VII, pero la mayoría de las estructuras visibles fueron reconstruidas bajo el Emirato de Bujará en el siglo XVIII. El sitio se encuentra a unos 850 m y el camino de acceso asciende suavemente desde el fondo del valle, lo que lo hace apto para vehículos estándar en cualquier temporada. Permite al menos 90 minutos para caminar por las murallas, visitar el patio de la madrasa y ver la pequeña exhibición arqueológica. La fotografía está permitida en todo el complejo sin cargos adicionales. El regreso a Dushanbe sigue la misma ruta de 30 km a través de tierras agrícolas y pueblos pequeños.",
+          "Consejo práctico: lleva moneda local para compras pequeñas en el quiosco de la fortaleza y para agua, ya que la aceptación de tarjetas es limitada fuera de los hoteles principales. La cobertura móvil es confiable a lo largo de la carretera Dushanbe–Hissar con todos los principales operadores tayikos. Si llegas un lunes, ten en cuenta que el museo dentro de la fortaleza está cerrado, aunque los terrenos siguen siendo accesibles. Nuestros tours privados programan este día para coincidir con llegadas por la mañana o temprano por la tarde para que la visita a la fortaleza se ajuste antes del atardecer. La noche en Dushanbe te posiciona para el trayecto de montaña de 235 km a Iskanderkul el Día 2."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "30 km drive west to Hissar Fortress",
+          "18th-century madrasa and twin towers",
+          "Overnight in Dushanbe city centre"
+        ],
+        "de": [
+          "30 km Fahrt westlich zur Festung Hissar",
+          "Madrasa aus dem 18. Jahrhundert und Zwillingstürme",
+          "Übernachtung im Stadtzentrum von Duschanbe"
+        ],
+        "fr": [
+          "30 km de route vers l'ouest jusqu'à la forteresse d'Hissar",
+          "Madrasa du XVIIIe siècle et tours jumelles",
+          "Nuit en centre-ville de Douchanbé"
+        ],
+        "ja": [
+          "ヒッサル要塞まで西へ30 kmドライブ",
+          "18世紀のマドラサと双塔",
+          "ドゥシャンベ市内中心部に宿泊"
+        ],
+        "es": [
+          "30 km en coche hacia el oeste hasta la Fortaleza de Hissar",
+          "Madrasa del siglo 18 y dos torres gemelas",
+          "Alojamiento en el centro de Dushanbe"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time",
+            "de": "Fahrzeit",
+            "fr": "Temps de route",
+            "ja": "所要時間",
+            "es": "Tiempo de conducción"
+          },
+          "value": {
+            "en": "About 45 minutes each way",
+            "de": "Etwa 45 Minuten pro Strecke",
+            "fr": "Environ 45 minutes chaque sens",
+            "ja": "片道約45分",
+            "es": "Unos 45 minutos por trayecto"
+          }
+        },
+        {
+          "label": {
+            "en": "Best months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleure période",
+            "ja": "ベストシーズン",
+            "es": "Meses recomendados"
+          },
+          "value": {
+            "en": "Late April to October",
+            "de": "Ende April bis Oktober",
+            "fr": "Fin avril à octobre",
+            "ja": "4月下旬から10月",
+            "es": "De finales de abril a octubre"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days / 21 Nights",
+            "de": "22 Tage / 21 Nächte",
+            "fr": "22 jours / 21 nuits",
+            "ja": "22日間 / 21泊",
+            "es": "22 días / 21 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "Ab $3490 USD / Person",
+            "fr": "À partir de $3490 USD / personne",
+            "ja": "$3490 USD〜 / 1名",
+            "es": "Desde $3490 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793728554/sunday-atlas/blog/tajikistan-itinerary-5-days/dushanbe-commons-134302805.jpg",
+        "width": 1920,
+        "height": 1440,
+        "alt": {
+          "en": "The white mosque with tall minarets and a central dome in Dushanbe, Tajikistan.",
+          "de": "Die weiße Moschee mit hohen Minaretten und einer zentralen Kuppel in Duschanbe, Tadschikistan.",
+          "fr": "La mosquée blanche aux hauts minarets et au dôme central à Douchanbé, au Tadjikistan.",
+          "ja": "タジキスタン、ドゥシャンベにある白いモスク。高いミナレットと中央のドームが特徴的。",
+          "es": "La mezquita blanca con altos minaretes y una cúpula central en Dusambé, Tayikistán."
+        },
+        "credit": {
+          "author": "Шухрат Саъдиев",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_Grand_Masjid_Imam_Abu%D0%BAh%D0%B0nifa_Dushanbe_04.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Dushanbe",
+          "de": "Duschanbe",
+          "fr": "Douchanbé",
+          "ja": "ドゥシャンベ",
+          "es": "Dushanbe"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    },
+    {
+      "id": "day-2-dushanbe-iskanderkul-penjikent",
+      "placeName": {
+        "en": "Penjikent",
+        "de": "Penjikent",
+        "fr": "Penjikent",
+        "ja": "ペンジケント",
+        "es": "Penjikent"
+      },
+      "heading": {
+        "en": "Day 2: Dushanbe to Iskanderkul Lake and Penjikent",
+        "de": "Tag 2: Duschanbe zum Iskanderkul-See und nach Penjikent",
+        "fr": "Jour 2 : Douchanbé au lac Iskanderkul et Penjikent",
+        "ja": "Day 2: ドゥシャンベからイスカンダークル湖とペンジケントへ",
+        "es": "Día 2: De Dushanbe al lago Iskanderkul y Penjikent"
+      },
+      "paragraphs": {
+        "en": [
+          "The drive from Dushanbe to Iskanderkul Lake covers about 235 km and takes roughly five hours including the crossing of Anzob Pass at 3,372 m. The road climbs through the pass from late spring to early autumn and can close in winter due to snow. We stop at the lake shore for a short walk and views of the turquoise water framed by the Fan Mountains. After the lake the route continues north to Penjikent where we spend the night. Total driving time for the day is about five hours on mixed mountain and valley roads.",
+          "On our 22-day Long Road Through the 5 Stans tour this segment matches Day 11 and follows the same 235 km route from Dushanbe via Anzob Pass to Iskanderkul and on to Penjikent. The tour includes an overnight stay in Penjikent with breakfast and entrance fees to sites along the way. Late May through September offers the most reliable conditions for the pass and the lake access road. Early morning departure from Dushanbe helps avoid afternoon cloud buildup over the mountains.",
+          "Iskanderkul sits at 2,195 m altitude and the surrounding trails are easy to moderate for a short hike of 30 to 60 minutes. Penjikent lies at about 900 m and serves as the base for the next day trip to the Seven Lakes of Marguzor. The road from the lake to Penjikent descends roughly 1,300 m over 65 km of winding mountain road. Fuel and snacks are available in the small towns along the route but it is wise to fill up in Dushanbe before the pass.",
+          "The Anzob Pass crossing is the main practical consideration; it is usually open from late May to October and can see sudden weather changes even in summer. Carry warm layers and water regardless of the forecast in Dushanbe. Border formalities are not involved on this day as the journey stays entirely within Tajikistan. The overnight hotel in Penjikent provides a convenient start for the Seven Lakes excursion on Day 3."
+        ],
+        "de": [
+          "Die Fahrt von Duschanbe zum Iskanderkul-See beträgt etwa 235 km und dauert einschließlich der Überquerung des Anzob-Passes auf 3.372 m etwa fünf Stunden. Die Straße führt von Ende Frühjahr bis Anfang Herbst über den Pass und kann im Winter aufgrund von Schnee gesperrt sein. Wir halten am Seeufer für einen kurzen Spaziergang und Ausblicke auf das türkisfarbene Wasser, eingerahmt von den Fan-Bergen. Nach dem See führt die Route weiter nach Norden nach Penjikent, wo wir die Nacht verbringen. Die Gesamtfahrzeit für den Tag beträgt etwa fünf Stunden auf gemischten Berg- und Talstraßen.",
+          "Auf unserer 22-tägigen Tour Long Road Through the 5 Stans entspricht dieses Segment Tag 11 und folgt derselben 235 km langen Route von Duschanbe über den Anzob-Pass zum Iskanderkul und weiter nach Penjikent. Die Tour beinhaltet eine Übernachtung in Penjikent mit Frühstück und Eintrittsgeldern für die Sehenswürdigkeiten entlang der Strecke. Ende Mai bis September bieten die zuverlässigsten Bedingungen für den Pass und die Zufahrtsstraße zum See. Eine frühe Abreise von Duschanbe hilft, die Nachmittagsbewölkung über den Bergen zu vermeiden.",
+          "Der Iskanderkul liegt auf 2.195 m Höhe und die umliegenden Wanderwege sind leicht bis mittel für eine kurze Wanderung von 30 bis 60 Minuten. Penjikent liegt auf etwa 900 m und dient als Basis für den nächsten Tagesausflug zu den Sieben Seen von Marguzor. Die Straße vom See nach Penjikent führt auf 65 km kurviger Bergstraße etwa 1.300 m bergab. Kraftstoff und Snacks sind in den kleinen Städten entlang der Strecke erhältlich, aber es ist ratsam, in Duschanbe vor dem Pass vollzutanken.",
+          "Die Überquerung des Anzob-Passes ist die wichtigste praktische Überlegung; er ist in der Regel von Ende Mai bis Oktober geöffnet und kann selbst im Sommer plötzliche Wetteränderungen erleben. Tragen Sie warme Kleidung und Wasser, unabhängig von der Wettervorhersage in Duschanbe. Grenzformalitäten sind an diesem Tag nicht erforderlich, da die Reise vollständig innerhalb Tadschikistans bleibt. Das Übernachtungshotel in Penjikent bietet einen günstigen Start für den Ausflug zu den Sieben Seen am Tag 3."
+        ],
+        "fr": [
+          "La route de Douchanbé au lac Iskanderkul couvre environ 235 km et prend environ cinq heures, y compris le col d'Anzob à 3 372 m. La route grimpe à travers le col de la fin du printemps au début de l'automne et peut être fermée en hiver à cause de la neige. Nous faisons une halte au bord du lac pour une courte promenade et des vues sur l'eau turquoise encadrée par les monts Fan. Après le lac, l'itinéraire continue vers le nord jusqu'à Penjikent où nous passons la nuit. Le temps de conduite total pour la journée est d'environ cinq heures sur des routes de montagne et de vallée variées.",
+          "Dans notre circuit Long Road Through the 5 Stans de 22 jours, ce segment correspond au jour 11 et suit le même itinéraire de 235 km de Douchanbé via le col d'Anzob jusqu'à Iskanderkul et jusqu'à Penjikent. Le circuit inclut une nuit à Penjikent avec petit-déjeuner et les droits d'entrée aux sites sur le chemin. De fin mai à septembre, les conditions sont les plus fiables pour le col et la route d'accès au lac. Un départ tôt le matin depuis Douchanbé permet d'éviter la formation de nuages l'après-midi au-dessus des montagnes.",
+          "Iskanderkul se trouve à 2 195 m d'altitude et les sentiers environnants sont faciles à modérés pour une courte randonnée de 30 à 60 minutes. Penjikent se situe à environ 900 m et sert de base pour l'excursion du lendemain aux Sept Lacs de Marguzor. La route du lac à Penjikent descend d'environ 1 300 m sur 65 km de route de montagne sinueuse. Le carburant et les collations sont disponibles dans les petites villes le long du parcours, mais il est conseillé de faire le plein à Douchanbé avant le col.",
+          "La traversée du col d'Anzob est la principale considération pratique ; il est généralement ouvert de fin mai à octobre et peut connaître des changements météorologiques soudains même en été. Emportez des vêtements chauds et de l'eau, quelles que soient les prévisions à Douchanbé. Aucune formalité frontalière n'est impliquée ce jour-là, car le voyage reste entièrement au Tadjikistan. L'hôtel de nuit à Penjikent offre un départ pratique pour l'excursion aux Sept Lacs le jour 3."
+        ],
+        "ja": [
+          "ドゥシャンベからイスカンダークル湖までのドライブは約235 km、所要時間は約5時間で、標高3,372 mのアンズブ峠を越えます。道路は春の終わりから秋の初めにかけて峠を登りますが、冬は雪で通行止めになることがあります。湖畔に立ち寄り、短い散歩と、ファン山脈に囲まれたターコイズブルーの湖の眺めをお楽しみいただきます。湖の後、ルートは北へペンジケントへと続き、そこで一夜を過ごします。当日の総走行時間は、山岳地帯と渓谷の混在する道路で約5時間です。",
+          "22日間の「5つのスタンを巡るロングロード」ツアーでは、この区間はDay 11に該当し、ドゥシャンベからアンズブ峠を経由してイスカンダークル、そしてペンジケントへと同じ235 kmのルートを辿ります。ツアーにはペンジケントでの1泊（朝食付き）と、途中の観光地への入場料が含まれています。峠と湖へのアクセス道路の状況が最も安定しているのは、5月下旬から9月です。ドゥシャンベを早朝に出発することで、午後の山々の雲の発生を避けることができます。",
+          "イスカンダークルは標高2,195 mに位置し、周辺のトレイルは短いハイキング（30分から60分）に適した易しいから中程度の難易度です。ペンジケントは標高約900 mに位置し、翌日マーギュゾルの七湖への日帰り旅行の拠点となります。湖からペンジケントへの道は、65 kmの曲がりくねった山岳道路を約1,300 m下ります。ルート沿いの小さな町では燃料と軽食を入手できますが、峠を越える前にドゥシャンベで満タンにしておくことをお勧めします。",
+          "アンズブ峠の越路が主な実務上の考慮事項です。通常は5月下旬から10月まで開通していますが、夏でも急な天候の変化がある場合があります。ドゥシャンベの予報に関わらず、暖かい服と水を携帯してください。この日の旅はタジキスタン国内のみを通過するため、国境手続きは発生しません。ペンジケントの宿泊ホテルは、Day 3の七湖遠足への便利な出発点となります。"
+        ],
+        "es": [
+          "El trayecto desde Dushanbe hasta el lago Iskanderkul recorre unos 235 km y dura aproximadamente cinco horas, incluido el paso del puerto de Anzob a 3.372 m. La carretera asciende por el puerto de finales de primavera a principios de otoño y puede cerrarse en invierno debido a la nieve. Nos detenemos en la orilla del lago para dar un breve paseo y contemplar las aguas turquesas enmarcadas por las montañas Fan. Tras el lago, la ruta continúa hacia el norte hasta Penjikent, donde pasamos la noche. El tiempo total de conducción del día es de unas cinco horas por carreteras de montaña y valle.",
+          "En nuestro circuito de 22 días Long Road Through the 5 Stans, este segmento corresponde al Día 11 y sigue la misma ruta de 235 km desde Dushanbe a través del puerto de Anzob hasta Iskanderkul y luego a Penjikent. El tour incluye una noche en Penjikent con desayuno y las entradas a los sitios del camino. De finales de mayo a septiembre se ofrecen las condiciones más fiables para el puerto y el camino de acceso al lago. Salir temprano de Dushanbe ayuda a evitar la formación de nubes por la tarde sobre las montañas.",
+          "Iskanderkul se encuentra a 2.195 m de altitud y los senderos circundantes son fáciles o moderados para una caminata corta de 30 a 60 minutos. Penjikent está a unos 900 m y sirve como base para la excursión del día siguiente a los Siete Lagos de Marguzor. El camino del lago a Penjikent desciende unos 1.300 m en 65 km de carretera de montaña sinuosa. Hay combustible y snacks en los pueblos pequeños de la ruta, pero es recomendable llenar el tanque en Dushanbe antes del puerto.",
+          "El cruce del puerto de Anzob es la principal consideración práctica; suele estar abierto de finales de mayo a octubre y puede presentar cambios bruscos de clima incluso en verano. Lleve ropa de abrigo y agua sin importar el pronóstico en Dushanbe. No hay trámites fronterizos ese día, ya que el viaje transcurre enteramente dentro de Tayikistán. El hotel de pernoctación en Penjikent ofrece un inicio conveniente para la excursión a los Siete Lagos del Día 3."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Anzob Pass at 3,372 m elevation",
+          "Iskanderkul Lake at 2,195 m altitude",
+          "235 km drive in about five hours"
+        ],
+        "de": [
+          "Anzob-Pass auf 3.372 m Höhe",
+          "Iskanderkul-See auf 2.195 m Höhe",
+          "235 km Fahrt in etwa fünf Stunden"
+        ],
+        "fr": [
+          "Col d'Anzob à 3 372 m d'altitude",
+          "Lac Iskanderkul à 2 195 m d'altitude",
+          "235 km de route en environ cinq heures"
+        ],
+        "ja": [
+          "標高3,372 mのアンズブ峠",
+          "標高2,195 mのイスカンダークル湖",
+          "約5時間の235 kmドライブ"
+        ],
+        "es": [
+          "Puerto de Anzob a 3.372 m de altitud",
+          "Lago Iskanderkul a 2.195 m de altitud",
+          "Recorrido de 235 km en unas cinco horas"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive distance",
+            "de": "Fahrstrecke",
+            "fr": "Distance de route",
+            "ja": "走行距離",
+            "es": "Distancia de conducción"
+          },
+          "value": {
+            "en": "235 km",
+            "de": "235 km",
+            "fr": "235 km",
+            "ja": "235 km",
+            "es": "235 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Total drive time",
+            "de": "Gesamtfahrzeit",
+            "fr": "Temps de route total",
+            "ja": "総走行時間",
+            "es": "Tiempo total de conducción"
+          },
+          "value": {
+            "en": "about 5 hours",
+            "de": "etwa 5 Stunden",
+            "fr": "environ 5 heures",
+            "ja": "約5時間",
+            "es": "unas 5 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "22 Days / 21 Nights",
+            "de": "22 Tage / 21 Nächte",
+            "fr": "22 jours / 21 nuits",
+            "ja": "22日間 / 21泊",
+            "es": "22 días / 21 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3490 USD / person",
+            "de": "Ab $3490 USD / Person",
+            "fr": "À partir de $3490 USD / personne",
+            "ja": "$3490 USD〜 / 1名",
+            "es": "Desde $3490 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400028/sunday-atlas/fairytale-canyon-in-issyk-kul-region-kirghistan-24778688_i7rlvs.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Skazka (Fairytale) Canyon in the Issyk-Kul region, Kyrgyzstan",
+          "de": "Skazka-Canyon in der Region Issyk-Kul, Kirgistan",
+          "fr": "Canyon Skazka dans la région de l’Issyk-Koul, Kirghizistan",
+          "ja": "イシク・クル州のスカズカ渓谷（キルギス）",
+          "es": "Cañón Skazka en la región de Issyk-Kul, Kirguistán"
+        },
+        "caption": {
+          "en": "Penjikent",
+          "de": "Penjikent",
+          "fr": "Penjikent",
+          "ja": "ペンジケント",
+          "es": "Penjikent"
+        }
+      },
+      "embeddedPackageSlug": "five-stans-long-road-22-days"
+    },
+    {
+      "id": "day-3-penjikent-seven-lakes",
+      "placeName": {
+        "en": "Seven Lakes",
+        "de": "Sieben Seen",
+        "fr": "Sept Lacs",
+        "ja": "七湖",
+        "es": "Siete Lagos"
+      },
+      "heading": {
+        "en": "Day 3: Penjikent to the Seven Lakes of Marguzor",
+        "de": "Tag 3: Von Penjikent zu den Sieben Seen von Marguzor",
+        "fr": "Jour 3 : de Penjikent aux Sept Lacs de Marguzor",
+        "ja": "Day 3: ペンジケントからマルグゾールの七湖へ",
+        "es": "Día 3: De Penjikent a los Siete Lagos de Marguzor"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 3 covers about 60 kilometers round-trip from Penjikent into the Fan Mountains to the Seven Lakes of Marguzor, with roughly three hours of total driving on mountain roads that usually open from late spring through early autumn. The chain sits between 1,600 and 2,400 meters altitude and each lake shows a different shade of turquoise or deep blue depending on the light and mineral content. You will have time for short walks along the shores and photo stops at the main viewpoints above the third and sixth lakes. The road is unpaved in sections so a 4WD vehicle is standard for this excursion. Late June to September offers the most reliable access before snow closes the higher passes.",
+          "The drive climbs steadily through the Shing River valley passing small villages and terraced fields before reaching the first lake, Nezhigon, then continues to the largest lake, Marguzor, which stretches about two kilometers long. A picnic lunch is often taken near the water while the guide explains the local geology and the legend of the seven sisters. After exploring the upper lakes you retrace the route back to Penjikent arriving in the late afternoon. The return drive takes about ninety minutes allowing time to stretch at a roadside spring. This day matches Day 11 of our Four Stans Odyssey tour which also visits the Seven Lakes before crossing the Jartepa border to Samarkand.",
+          "Penjikent makes a convenient base because it lies only 20 kilometers from the trailhead and offers a range of guesthouses with hot showers and reliable Wi-Fi. The town itself holds the UNESCO-listed Sarazm archaeological site and a well-regarded Rudaki museum that can be visited on the same evening or the following morning. Summer daytime temperatures in the Fan Mountains typically range from 15 to 25 degrees Celsius but evenings cool quickly so bring a warm layer. Altitude sickness is uncommon at these elevations but stay hydrated and pace any uphill walks. The road condition can change after heavy rain so confirm the status with your driver the night before.",
+          "On the Four Stans Odyssey itinerary this Seven Lakes excursion is combined with the border crossing to Uzbekistan on the same calendar day, but on a standalone five-day Tajikistan plan you overnight again in Penjikent giving you a slower pace and a chance to sample local dishes such as qurutob at a family-run restaurant. The total driving time for the day remains about three hours regardless of which tour you join. Late spring wildflowers and autumn foliage add extra color to the lake shores making May and September especially photogenic. We recommend booking a 4WD with an experienced mountain driver for the best safety margin."
+        ],
+        "de": [
+          "Tag 3 umfasst etwa 60 Kilometer Hin- und Rückfahrt von Penjikent in die Fan-Berge zu den Sieben Seen von Marguzor, mit insgesamt rund drei Stunden Fahrzeit auf Bergstraßen, die gewöhnlich von Ende Frühjahr bis Anfang Herbst geöffnet sind. Die Kette liegt zwischen 1.600 und 2.400 Metern Höhe, und jeder See zeigt je nach Lichteinfall und Mineralgehalt einen anderen Farbton von Türkis oder Dunkelblau. Sie haben Zeit für kurze Spaziergänge an den Ufern und Fotostopps an den Hauptaussichtspunkten oberhalb des dritten und des sechsten Sees. Die Straße ist teilweise unbefestigt, weshalb ein 4WD-Fahrzeug für diesen Ausflug Standard ist. Von Ende Juni bis September ist die Anfahrt am zuverlässigsten, bevor Schnee die höheren Pässe sperrt.",
+          "Die Fahrt steigt stetig durch das Shing-Tal an, passiert kleine Dörfer und terrassierte Felder, bevor der erste See, Nezhigon, erreicht wird, und führt dann weiter zum größten See, Marguzor, der sich über etwa zwei Kilometer erstreckt. Ein Picknick-Mittagessen wird oft am Wasser eingenommen, während der Guide die lokale Geologie und die Legende der sieben Schwestern erklärt. Nach der Erkundung der oberen Seen fahren Sie die gleiche Strecke zurück nach Penjikent und kommen am späten Nachmittag an. Die Rückfahrt dauert etwa neunzig Minuten und bietet Zeit, an einer Straßenquelle eine Pause einzulegen. Dieser Tag entspricht Tag 11 unserer Four Stans Odyssey Tour, die ebenfalls die Sieben Seen besucht, bevor sie die Grenze bei Jartepa nach Samarkand überquert.",
+          "Penjikent ist ein praktischer Ausgangspunkt, da es nur 20 Kilometer vom Startpunkt entfernt liegt und eine Auswahl an Gästehäusern mit heißen Duschen und zuverlässigem WLAN bietet. Die Stadt selbst beherbergt die zum UNESCO-Welterbe gehörende archäologische Stätte Sarazm und ein angesehenes Rudaki-Museum, das am selben Abend oder am folgenden Morgen besucht werden kann. Die Sommertemperaturen tagsüber in den Fan-Bergen liegen typischerweise zwischen 15 und 25 Grad Celsius, aber die Abende kühlen schnell ab, also bringen Sie eine warme Schicht mit. Höhenkrankheit ist in diesen Höhenlagen ungewöhnlich, aber trinken Sie ausreichend und gehen Sie Bergauf in einem angemessenen Tempo. Der Straßenzustand kann sich nach starkem Regen ändern, daher bestätigen Sie den Status am Abend zuvor mit Ihrem Fahrer.",
+          "Auf der Reiseroute der Four Stans Odyssey wird dieser Ausflug zu den Sieben Seen mit der Grenzüberquerung nach Usbekistan am selben Kalendertag kombiniert, aber bei einem eigenständigen fünftägigen Tajikistan-Plan übernachten Sie erneut in Penjikent, was Ihnen ein langsameres Tempo und die Gelegenheit gibt, lokale Gerichte wie Qurutob in einem familiengeführten Restaurant zu probieren. Die Gesamtfahrzeit für den Tag bleibt bei etwa drei Stunden, unabhängig von der Tour, der Sie anschließen. Spätfrühlingswildblumen und Herbstlaub verleihen den Seeufern zusätzliche Farbe, weshalb Mai und September besonders fotogen sind. Wir empfehlen die Buchung eines 4WD mit einem erfahrenen Bergfahrer für die beste Sicherheitsmarge."
+        ],
+        "fr": [
+          "Le jour 3 couvre environ 60 kilomètres aller-retour depuis Penjikent jusqu'aux Sept Lacs de Marguzor, dans les monts Fan, avec environ trois heures de route sur des routes de montagne généralement ouvertes de la fin du printemps au début de l'automne. La chaîne se situe entre 1 600 et 2 400 mètres d'altitude et chaque lac présente une nuance de turquoise ou de bleu profond différente selon la lumière et la teneur en minéraux. Vous aurez le temps de faire de courtes promenades le long des rives et des arrêts photo aux principaux points de vue au-dessus du troisième et du sixième lac. La route n'est pas goudronnée par endroits, aussi un véhicule 4WD est-il standard pour cette excursion. De fin juin à septembre, l'accès est le plus fiable avant que la neige ne ferme les cols les plus élevés.",
+          "La route monte régulièrement à travers la vallée de la rivière Shing, passant par de petits villages et des champs en terrasses avant d'atteindre le premier lac, Nezhigon, puis continue jusqu'au plus grand lac, Marguzor, qui s'étend sur environ deux kilomètres de long. Un pique-nique est souvent pris près de l'eau tandis que le guide explique la géologie locale et la légende des sept sœurs. Après avoir exploré les lacs supérieurs, vous reprenez le même itinéraire pour retourner à Penjikent et y arrivez en fin d'après-midi. Le trajet de retour dure environ quatre-vingt-dix minutes, laissant le temps de s'étirer à une source au bord de la route. Cette journée correspond au jour 11 de notre circuit Four Stans Odyssey, qui visite également les Sept Lacs avant de franchir la frontière de Jartepa pour rejoindre Samarkand.",
+          "Penjikent constitue une base pratique car elle se trouve à seulement 20 kilomètres du point de départ et propose une gamme de maisons d'hôtes avec douches chaudes et Wi-Fi fiable. La ville elle-même abrite le site archéologique de Sarazm, classé au patrimoine mondial de l'UNESCO, et un musée Rudaki bien réputé, que vous pouvez visiter le même soir ou le lendemain matin. Les températures diurnes estivales dans les monts Fan varient généralement de 15 à 25 degrés Celsius, mais les soirées refroidissent rapidement, alors apportez une couche chaude. Le mal des montagnes est peu fréquent à ces altitudes, mais restez hydraté et allez à votre rythme lors des montées. L'état de la route peut changer après de fortes pluies, alors confirmez la situation avec votre chauffeur la veille au soir.",
+          "Sur l'itinéraire du circuit Four Stans Odyssey, cette excursion aux Sept Lacs est combinée avec le passage de la frontière vers l'Ouzbékistan le même jour calendaire, mais sur un plan autonome de cinq jours au Tadjikistan, vous passez à nouveau la nuit à Penjikent, ce qui vous offre un rythme plus lent et la possibilité de goûter à des plats locaux tels que le qurutob dans un restaurant familial. Le temps de conduite total pour la journée reste d'environ trois heures, quel que soit le circuit auquel vous participez. Les fleurs sauvages de la fin du printemps et le feuillage automnal ajoutent de la couleur aux rives des lacs, ce qui rend mai et septembre particulièrement photogéniques. Nous recommandons de réserver un 4WD avec un chauffeur de montagne expérimenté pour une meilleure marge de sécurité."
+        ],
+        "ja": [
+          "3日目は、ペンジケントからファン山脈へ向かい、マルグゾールの七湖まで往復約60キロを走行します。山道を走る総所要時間は約3時間で、道路が通常通行可能なのは晩春から初秋にかけてです。標高1,600メートルから2,400メートルの間に位置するこの湖群は、光やミネラル含有量によって、それぞれ異なるターコイズブルーや深い青色を呈します。湖岸での短い散歩や、3番目と6番目の湖の展望ポイントでの写真撮影の時間を設けています。道の一部は未舗装のため、この遠足には4WD車両を標準で手配しています。雪で高地の峠が閉鎖される前の、6月下旬から9月が最もアクセスが安定しています。",
+          "ドライブはシング川の渓谷を着実に登り、小さな村々や段々畑を通り過ぎて最初の湖ネジゴンに到着し、さらに長さ約2キロの最大の湖マルグゾールへと続きます。水辺でのピクニックランチがよく取り入れられ、ガイドが地元の地質学や七人の姉妹の伝説について説明します。上部の湖を探索した後、ペンジケントまで引き返し、午後遅くに到着します。帰路のドライブは約90分かかり、道端の泉で休憩する時間があります。この日は、七湖を訪れた後ジャルテパ国境を越えてサマルカンドへ向かう「フォー・スタンズ・オデッセイ」ツアーの11日目と同じスケジュールです。",
+          "ペンジケントは登山口までわずか20キロと便利な拠点であり、温水シャワーと安定したWi-Fiを備えた様々なゲストハウスがあります。町自体にはユネスコ登録のサラズム遺跡や、評価の高いルダキ博物館があり、同じ夜または翌朝に訪れることができます。ファン山脈の夏の日中の気温は通常15度から25度ですが、夕方は急に冷え込むため、暖かい服をご持参ください。これらの標高では高山病は稀ですが、水分補給を心がけ、上り坂の歩行は無理をなさらないでください。大雨の後は道路状況が変わる可能性があるため、前夜にドライバーに状況を確認することをお勧めします。",
+          "フォー・スタンズ・オデッセイの日程では、この七湖遠足とウズベキスタンへの国境越えが同じカレンダー日に組み合わされていますが、タジキスタン単独の5日間プランではペンジケントに再び宿泊するため、よりゆったりとしたペースで、家族経営のレストランでクルートブなどの地元料理を味わう機会があります。どのツアーにご参加いただいても、その日の総所要時間は約3時間のままです。晩春の野生の花や秋の紅葉が湖岸にさらなる彩りを添え、5月と9月は特にフォトジェニックです。最良の安全性を確保するため、経験豊富な山道ドライバー付きの4WD車の手配をお勧めします。"
+        ],
+        "es": [
+          "El Día 3 recorre unos 60 kilómetros de ida y vuelta desde Penjikent hasta los Fan Mountains y los Siete Lagos de Marguzor, con unas tres horas de conducción total por carreteras de montaña que suelen estar abiertas desde finales de primavera hasta principios de otoño. La cadena se encuentra entre los 1.600 y los 2.400 metros de altitud y cada lago muestra un tono diferente de turquesa o azul profundo según la luz y el contenido mineral. Tendrá tiempo para caminatas cortas por las orillas y paradas para fotos en los miradores principales sobre el tercer y el sexto lago. El camino no está pavimentado en algunos tramos, por lo que un vehículo 4WD es estándar para esta excursión. De finales de junio a septiembre se ofrece el acceso más fiable antes de que la nieve cierre los pasos de montaña más altos.",
+          "El trayecto asciende de forma constante a través del valle del río Shing, pasando por pequeñas aldeas y campos en terrazas antes de llegar al primer lago, Nezhigon, y continúa hasta el lago más grande, Marguzor, que se extiende unos dos kilómetros de largo. A menudo se toma un almuerzo tipo picnic cerca del agua mientras el guía explica la geología local y la leyenda de las siete hermanas. Después de explorar los lagos superiores, se regresa por la misma ruta a Penjikent, llegando a última hora de la tarde. El viaje de regreso dura unos noventa minutos, lo que permite estirar las piernas en un manantial junto al camino. Este día coincide con el Día 11 de nuestro tour Four Stans Odyssey, que también visita los Siete Lagos antes de cruzar la frontera de Jartepa hacia Samarcanda.",
+          "Penjikent es una base conveniente porque se encuentra a solo 20 kilómetros del punto de partida y ofrece una variedad de casas de huéspedes con duchas de agua caliente y Wi-Fi confiable. La ciudad alberga el sitio arqueológico de Sarazm, declarado Patrimonio de la Humanidad por la UNESCO, y un museo Rudaki bien considerado, que se pueden visitar esa misma noche o a la mañana siguiente. Las temperaturas diurnas en verano en los Fan Mountains suelen oscilar entre 15 y 25 grados Celsius, pero las noches se enfrían rápidamente, así que traiga una prenda de abrigo. El mal de altura es poco común a estas elevaciones, pero manténgase hidratado y vaya con calma en las caminatas cuesta arriba. El estado del camino puede cambiar después de lluvias intensas, así que confirme las condiciones con su conductor la noche anterior.",
+          "En el itinerario de Four Stans Odyssey, esta excursión a los Siete Lagos se combina con el cruce fronterizo a Uzbekistán el mismo día calendario, pero en un plan independiente de cinco días por Tayikistán se pasa otra noche en Penjikent, lo que brinda un ritmo más pausado y la oportunidad de probar platos locales como el qurutob en un restaurante familiar. El tiempo total de conducción del día sigue siendo de unas tres horas, sin importar qué tour elija. Las flores silvestres de finales de primavera y el follaje otoñal añaden color extra a las orillas de los lagos, lo que hace que mayo y septiembre sean especialmente fotográficos. Recomendamos reservar un 4WD con un conductor experimentado en montaña para obtener el mejor margen de seguridad."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Seven turquoise lakes at 1,600-2,400 meters altitude",
+          "About 60 km round-trip from Penjikent with 3 hours driving",
+          "Best visited late spring to early autumn for open roads"
+        ],
+        "de": [
+          "Sieben türkisfarbene Seen in 1.600–2.400 Metern Höhe",
+          "Etwa 60 km Hin- und Rückfahrt von Penjikent mit 3 Stunden Fahrzeit",
+          "Am besten von Ende Frühjahr bis Anfang Herbst bei offenen Straßen zu besuchen"
+        ],
+        "fr": [
+          "Sept lacs turquoise à 1 600-2 400 mètres d'altitude",
+          "Environ 60 km aller-retour depuis Penjikent avec 3 heures de route",
+          "À visiter de préférence de la fin du printemps au début de l'automne pour des routes ouvertes"
+        ],
+        "ja": [
+          "標高1,600〜2,400メートルの七つのターコイズブルーの湖",
+          "ペンジケントから往復約60キロ、所要時間3時間",
+          "道路が開通している晩春から初秋が訪問に最適"
+        ],
+        "es": [
+          "Siete lagos turquesas a 1.600-2.400 metros de altitud",
+          "Unos 60 km de ida y vuelta desde Penjikent con 3 horas de conducción",
+          "Mejor visitado de finales de primavera a principios de otoño por carreteras abiertas"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time",
+            "de": "Fahrzeit",
+            "fr": "Temps de route",
+            "ja": "所要時間",
+            "es": "Tiempo de conducción"
+          },
+          "value": {
+            "en": "About 3 hours total",
+            "de": "Etwa 3 Stunden insgesamt",
+            "fr": "Environ 3 heures au total",
+            "ja": "総所要時間約3時間",
+            "es": "Unas 3 horas en total"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance",
+            "de": "Entfernung",
+            "fr": "Distance",
+            "ja": "距離",
+            "es": "Distancia"
+          },
+          "value": {
+            "en": "About 60 km round-trip",
+            "de": "Etwa 60 km Hin- und Rückfahrt",
+            "fr": "Environ 60 km aller-retour",
+            "ja": "往復約60キロ",
+            "es": "Unos 60 km de ida y vuelta"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "18 Days / 17 Nights",
+            "de": "18 Tage / 17 Nächte",
+            "fr": "18 jours / 17 nuits",
+            "ja": "18日間 / 17泊",
+            "es": "18 días / 17 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3145 USD / person",
+            "de": "Ab $3145 USD / Person",
+            "fr": "À partir de $3145 USD / personne",
+            "ja": "$3145 USD〜 / 1名",
+            "es": "Desde $3145 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793728568/sunday-atlas/blog/tajikistan-itinerary-5-days/seven-lakes-commons-49897907.jpg",
+        "width": 1920,
+        "height": 1216,
+        "alt": {
+          "en": "Seven Lakes, Tajikistan, with a cow on a rocky trail before forested mountains.",
+          "de": "Sieben Seen, Tadschikistan, mit einer Kuh auf einem felsigen Pfad vor bewaldeten Bergen.",
+          "fr": "Les Sept Lacs, au Tadjikistan, avec une vache sur un sentier rocailleux devant des montagnes boisées.",
+          "ja": "タジキスタン、セブンレイクス。岩の多いトレイルに牛が立ち、背後に森に覆われた山々が広がる。",
+          "es": "Siete Lagos, Tayikistán, con una vaca en un sendero rocoso ante montañas boscosas."
+        },
+        "credit": {
+          "author": "Dreamy Pixel",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cow_on_the_way_to_the_Double_lake_in_the_Valley_of_the_seven_lakes_in_Triglav_National_Park.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Seven Lakes",
+          "de": "Sieben Seen",
+          "fr": "Sept Lacs",
+          "ja": "七湖",
+          "es": "Siete Lagos"
+        }
+      },
+      "embeddedPackageSlug": "four-stans-odyssey-18-days"
+    },
+    {
+      "id": "day-4-penjikent-istaravshan-khujand",
+      "placeName": {
+        "en": "Khujand",
+        "de": "Khujand",
+        "fr": "Khujand",
+        "ja": "ホジェンド",
+        "es": "Khujand"
+      },
+      "heading": {
+        "en": "Day 4: Penjikent to Istaravshan and Khujand",
+        "de": "Tag 4: Von Penjikent nach Istaravshan und Khujand",
+        "fr": "Jour 4 : de Penjikent à Istaravshan et Khujand",
+        "ja": "Day 4: ペンジケントからイスタラヴシャンとホジェンドへ",
+        "es": "Día 4: De Penjikent a Istaravshan y Khujand"
+      },
+      "paragraphs": {
+        "en": [
+          "The drive from Penjikent to Khujand covers about 260 km and takes roughly 5 hours, with a stop in Istaravshan along the way. Istaravshan sits at around 1,000 m elevation and is one of Central Asia's oldest towns, with a history stretching back more than 2,500 years. The Kuk-Gumbaz Mosque there dates to the 16th century and features a blue dome visible from the main road. Late spring through early autumn is the reliable season for this route, as mountain passes can close after snowfall. We recommend leaving Penjikent by mid-morning to allow time for the Istaravshan visit and still reach Khujand before dark.",
+          "In Istaravshan the old town area includes a restored madrasa and a small bazaar where you can stretch your legs during the drive. The road then descends from the foothills toward the Fergana Valley, passing through the Shahristan Pass at about 1,400 m before dropping to Khujand at roughly 320 m. Traffic is light outside the towns, but the road surface varies between paved sections and stretches of gravel. Fuel and water are available in Istaravshan; fill up there because services become sparse until you reach Khujand. The total driving time is about 5 hours including the stop.",
+          "Khujand is Tajikistan's second-largest city and sits on the Syr Darya River near the Kayrakkum Reservoir. The Panjshanbe Bazaar operates daily and is busiest in the mornings, offering a practical place to see local produce and crafts. The Khujand Fortress walls and the Historical Museum of Sughd are within walking distance of the city centre. Summer temperatures often exceed 35 °C, so plan outdoor visits for early morning or late afternoon. Our Four Stans Odyssey tour follows this same Penjikent to Khujand leg on Day 10 of the 18-day itinerary.",
+          "Overnight in Khujand puts you in position for Day 5 sightseeing and onward travel toward the Oybek border crossing to Uzbekistan, which is about 70 km west and takes roughly 1.5 hours by road. The border operates during daylight hours and can have queues in peak season, so allow extra time if you are crossing the same day. Hotels in Khujand range from simple guesthouses to mid-range properties with air conditioning, which is useful in July and August. We use the Khujand night as a base for both the city sights and the border transfer on our multi-country tours."
+        ],
+        "de": [
+          "Die Fahrt von Penjikent nach Khujand umfasst etwa 260 km und dauert rund 5 Stunden, mit einem Stopp in Istaravshan unterwegs. Istaravshan liegt auf etwa 1.000 m Höhe und ist eine der ältesten Städte Zentralasiens, deren Geschichte mehr als 2.500 Jahre zurückreicht. Die Kuk-Gumbaz-Moschee stammt aus dem 16. Jahrhundert und weist eine blaue Kuppel auf, die von der Hauptstraße aus sichtbar ist. Von Ende Frühjahr bis Anfang Herbst ist die zuverlässige Jahreszeit für diese Route, da Bergpässe nach Schneefall gesperrt werden können. Wir empfehlen, Penjikent am Vormittag zu verlassen, um Zeit für den Besuch in Istaravshan zu haben und dennoch vor Einbruch der Dunkelheit in Khujand anzukommen.",
+          "In Istaravshan umfasst die Altstadt eine restaurierte Madrasa und einen kleinen Basar, an dem Sie während der Fahrt die Beine vertreten können. Die Straße führt dann von den Ausläufern hinab ins Ferghanatal, passiert den Schahristan-Pass auf etwa 1.400 m und fällt auf rund 320 m nach Chudschand ab. Außerhalb der Städte ist der Verkehr gering, aber die Fahrbahn wechselt zwischen asphaltierten Abschnitten und Schotterstrecken. Benzin und Wasser gibt es in Istaravshan; tanken Sie dort auf, da die Dienstleistungen bis nach Chudschand spärlich werden. Die gesamte Fahrzeit beträgt etwa 5 Stunden einschließlich des Stopps.",
+          "Chudschand ist Tadschikistans zweitgrößte Stadt und liegt am Syrdarja nahe dem Kayrakkum-Stausee. Der Panjschanbe-Basar hat täglich geöffnet und ist morgens am stärksten besucht, ein praktischer Ort, um lokale Produkte und Kunsthandwerk zu sehen. Die Mauern der Festung von Chudschan und das Historische Museum von Sughd liegen in Gehweite vom Stadtzentrum. Im Sommer übersteigen die Temperaturen oft 35 °C, planen Sie Besuche im Freien daher für den frühen Morgen oder den späten Nachmittag. Unsere Four Stans Odyssey-Reise folgt derselben Strecke von Pendschikent nach Chudschand am Tag 10 der 18-tägigen Reiseroute.",
+          "Eine Übernachtung in Chudschand bringt Sie in Position für die Besichtigungen am Tag 5 und die Weiterreise zum Grenzübergang Oybek nach Usbekistan, der etwa 70 km westlich liegt und mit dem Auto etwa 1,5 Stunden dauert. Die Grenze ist während der Tageslichtstunden geöffnet und kann in der Hauptsaison Schlangen bilden, planen Sie daher zusätzliche Zeit ein, wenn Sie am selben Tag überqueren. Die Hotels in Chudschand reichen von einfachen Gästehäusern bis zu Mittelklasse-Häusern mit Klimaanlage, was im Juli und August nützlich ist. Wir nutzen die Nacht in Chudschand als Basis für die Stadtbesichtigungen und den Grenztransfer auf unseren Mehrländer-Reisen."
+        ],
+        "fr": [
+          "Le trajet de Penjikent à Khujand couvre environ 260 km et dure environ 5 heures, avec un arrêt à Istaravshan en chemin. Istaravshan se trouve à environ 1 000 m d'altitude et est l'une des plus anciennes villes d'Asie centrale, avec une histoire remontant à plus de 2 500 ans. La mosquée Kuk-Gumbaz y date du 16e siècle et présente un dôme bleu visible depuis la route principale. De la fin du printemps au début de l'automne est la saison fiable pour cet itinéraire, car les cols de montagne peuvent fermer après les chutes de neige. Nous recommandons de quitter Penjikent vers le milieu de la matinée pour laisser le temps de visiter Istaravshan et d'atteindre Khujand avant la nuit.",
+          "À Istaravshan, le centre historique comprend une médersa restaurée et un petit bazar où vous pourrez vous dégourdir les jambes pendant le trajet. La route descend ensuite des contreforts vers la vallée de Ferghana, en passant par le col de Shahristan, à environ 1 400 m, avant de descendre jusqu'à Khujand, à environ 320 m. Le trafic est léger en dehors des villes, mais l'état de la chaussée varie entre sections goudronnées et portions de gravier. Le carburant et l'eau sont disponibles à Istaravshan ; faites le plein là-bas, car les services deviennent rares jusqu'à Khujand. Le temps de conduite total est d'environ 5 heures, arrêt compris.",
+          "Khujand est la deuxième plus grande ville du Tadjikistan et se trouve sur le Syr-Daria, près du réservoir de Kayrakkum. Le bazar Panjshanbe fonctionne tous les jours et est le plus animé le matin, offrant un endroit pratique pour découvrir les produits locaux et l'artisanat. Les remparts de la forteresse de Khujand et le musée historique de Sughd se trouvent à distance de marche du centre-ville. En été, les températures dépassent souvent 35 °C, alors prévoyez vos visites extérieures tôt le matin ou en fin d'après-midi. Notre circuit Four Stans Odyssey emprunte cette même étape de Penjikent à Khujand le jour 10 de l'itinéraire de 18 jours.",
+          "Passer la nuit à Khujand vous place dans une position idéale pour les visites du jour 5 et le voyage vers le poste frontière d'Oybek vers l'Ouzbékistan, situé à environ 70 km à l'ouest et à environ 1,5 heure de route. La frontière fonctionne pendant les heures de jour et peut connaître des files d'attente en haute saison, alors prévoyez du temps supplémentaire si vous traversez le même jour. Les hôtels à Khujand vont des maisons d'hôtes simples aux établissements de milieu de gamme avec climatisation, ce qui est utile en juillet et août. Nous utilisons la nuit à Khujand comme base pour les visites de la ville et le transfert vers la frontière lors de nos circuits multi-pays."
+        ],
+        "ja": [
+          "ペンジケントからホジェンドまでのドライブは約260キロ、所要時間は約5時間で、途中イスタラヴシャンに立ち寄ります。イスタラヴシャンは標高約1,000メートルに位置し、中央アジア最古の町の一つで、その歴史は2,500年以上に遡ります。クク・グンバズ・モスクは16世紀に建造され、青いドームが幹線道路からも見えます。このルートは晩春から初秋にかけてが安定したシーズンで、山岳地帯では降雪後に峠が閉鎖される可能性があります。ペンジケントを午前中に出発し、イスタラヴシャン訪問の時間を確保しつつ、日没前にホジェンドに到着することをお勧めします。",
+          "イスタラヴシャンの旧市街エリアには、修復されたマドラサと小さなバザールがあり、ドライブ中に足を伸ばすことができます。道はその後、丘陵地帯からフェルガナ盆地へと下り、標高約1,400 mのシャフリスタン峠を通過し、標高約320 mのフジェンドまで下っていきます。町外れの交通量は少ないものの、路面状況は舗装区間と砂利道が混在しています。燃料と水はイスタラヴシャンで調達可能です。フジェンドに到着するまでサービスが乏しくなるため、そこで給油してください。停車を含めた総所要時間は約5時間です。",
+          "フジェンドはタジキスタン第二の都市で、シルダリア川沿い、カイラククム貯水池近くに位置します。パンジャンベ・バザールは毎日営業しており、午前中が最も賑わいます。地元の農産物や工芸品を目にするのに実用的な場所です。フジェンド要塞の城壁とスグド歴史博物館は市内中心部から徒歩圏内です。夏の気温は35 °Cを超えることが多いため、屋外での観光は早朝または午後遅くに計画してください。当社のフォー・スタンズ・オデッセイ・ツアーでは、18日間の日程の10日目に、ペンジケントからフジェンドまでのこの区間をたどります。",
+          "フジェンドでの宿泊は、5日目の観光とウズベキスタンのオイベク国境検問所への移動に備えるのに最適です。オイベクは西へ約70 km、車で約1.5時間の距離にあります。国境は日中のみ営業しており、繁忙期には待ち時間が発生する場合があります。同日中に越境する場合は、余裕を持った時間を確保してください。フジェンドのホテルは、シンプルなゲストハウスからエアコン付きの中級ホテルまで幅広く、7月と8月に便利です。当社は多国籍ツアーにおいて、フジェンドでの一夜を市内観光と国境移動の拠点として活用しています。"
+        ],
+        "es": [
+          "El trayecto desde Penjikent hasta Khujand cubre unos 260 km y toma aproximadamente 5 horas, con una parada en Istaravshan en el camino. Istaravshan se encuentra a unos 1.000 m de altitud y es una de las ciudades más antiguas de Asia Central, con una historia que se remonta a más de 2.500 años. La mezquita Kuk-Gumbaz data del siglo 16 y cuenta con una cúpula azul visible desde la carretera principal. De finales de primavera a principios de otoño es la temporada confiable para esta ruta, ya que los pasos de montaña pueden cerrar después de las nevadas. Recomendamos salir de Penjikent a media mañana para permitir tiempo para la visita a Istaravshan y aún llegar a Khujand antes del anochecer.",
+          "En Istaravshan, el casco antiguo incluye una madrasa restaurada y un pequeño bazar donde puedes estirar las piernas durante el trayecto. La carretera desciende desde las estribaciones hacia el valle de Fergana, pasando por el paso de Shahristan, a unos 1.400 m, antes de bajar a Khujand, a unos 320 m. El tráfico es ligero fuera de las ciudades, pero el estado de la carretera varía entre tramos pavimentados y zonas de grava. El combustible y el agua están disponibles en Istaravshan; reposta allí porque los servicios escasean hasta llegar a Khujand. El tiempo total de conducción es de unas 5 horas, incluida la parada.",
+          "Khujand es la segunda ciudad más grande de Tayikistán y se ubica a orillas del río Syr Darya, cerca del embalse de Kayrakkum. El bazar Panjshanbe abre todos los días y está más concurrido por las mañanas, ofreciendo un lugar práctico para ver productos y artesanías locales. Las murallas de la fortaleza de Khujand y el Museo Histórico de Sughd están a poca distancia del centro de la ciudad. En verano, las temperaturas suelen superar los 35 °C, así que planifica las visitas al aire libre para primera hora de la mañana o última de la tarde. Nuestro recorrido Four Stans Odyssey sigue este mismo tramo de Penjikent a Khujand en el día 10 del itinerario de 18 días.",
+          "Pasar la noche en Khujand te sitúa en una posición ideal para el turismo del día 5 y el viaje posterior hacia el cruce fronterizo de Oybek con Uzbekistán, que está a unos 70 km al oeste y tarda aproximadamente 1.5 horas por carretera. La frontera opera durante el día y puede tener colas en temporada alta, así que permite tiempo extra si vas a cruzar el mismo día. Los hoteles en Khujand van desde casas de huéspedes sencillas hasta establecimientos de gama media con aire acondicionado, útil en julio y agosto. Usamos la noche en Khujand como base tanto para los atractivos de la ciudad como para el traslado fronterizo en nuestros recorridos de varios países."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Kuk-Gumbaz Mosque with its 16th-century blue dome",
+          "Panjshanbe Bazaar daily market in Khujand",
+          "Shahristan Pass crossing at 1,400 m elevation"
+        ],
+        "de": [
+          "Kuk-Gumbaz-Moschee mit ihrer blauen Kuppel aus dem 16. Jahrhundert",
+          "Panjschanbe-Basar, täglicher Markt in Chudschand",
+          "Überquerung des Schahristan-Passes auf 1.400 m Höhe"
+        ],
+        "fr": [
+          "Mosquée Kuk-Gumbaz avec son dôme bleu du 16e siècle",
+          "Marché quotidien Panjshanbe à Khujand",
+          "Traversée du col de Shahristan à 1 400 m d'altitude"
+        ],
+        "ja": [
+          "16世紀の青いドームを持つクク・グンバズ・モスク",
+          "フジェンドのパンジャンベ・バザール日替わり市場",
+          "標高1,400 mのシャフリスタン峠越え"
+        ],
+        "es": [
+          "Mezquita Kuk-Gumbaz con su cúpula azul del siglo 16",
+          "Mercado diario Panjshanbe Bazaar en Khujand",
+          "Cruce del paso de Shahristan a 1.400 m de altitud"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive distance",
+            "de": "Fahrstrecke",
+            "fr": "Distance de route",
+            "ja": "走行距離",
+            "es": "Distancia del trayecto"
+          },
+          "value": {
+            "en": "260 km",
+            "de": "260 km",
+            "fr": "260 km",
+            "ja": "260 km",
+            "es": "260 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Drive time",
+            "de": "Fahrzeit",
+            "fr": "Temps de route",
+            "ja": "所要時間",
+            "es": "Tiempo de trayecto"
+          },
+          "value": {
+            "en": "about 5 hours",
+            "de": "etwa 5 Stunden",
+            "fr": "environ 5 heures",
+            "ja": "約5時間",
+            "es": "unas 5 horas"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "18 Days / 17 Nights",
+            "de": "18 Tage / 17 Nächte",
+            "fr": "18 jours / 17 nuits",
+            "ja": "18日間 / 17泊",
+            "es": "18 días / 17 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3145 USD / person",
+            "de": "Ab $3145 USD / Person",
+            "fr": "À partir de $3145 USD / personne",
+            "ja": "$3145 USD〜 / 1名",
+            "es": "Desde $3145 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793728572/sunday-atlas/blog/tajikistan-itinerary-5-days/khujand-commons-195915631.jpg",
+        "width": 1920,
+        "height": 1287,
+        "alt": {
+          "en": "Khujand Fortress in Tajikistan under a clear blue sky.",
+          "de": "Die Festung von Chudschand in Tadschikistan unter einem klaren blauen Himmel.",
+          "fr": "La forteresse de Khujand au Tadjikistan sous un ciel bleu clair.",
+          "ja": "タジキスタン、フジェンド要塞。澄んだ青空の下にそびえる。",
+          "es": "Fortaleza de Jujand en Tayikistán bajo un cielo azul despejado."
+        },
+        "credit": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Historical_Museum_of_Sughd_region_in_Khujand,_Tajikistan_(2025).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Khujand",
+          "de": "Khujand",
+          "fr": "Khujand",
+          "ja": "ホジェンド",
+          "es": "Khujand"
+        }
+      },
+      "embeddedPackageSlug": "four-stans-odyssey-18-days"
+    },
+    {
+      "id": "day-5-khujand-city-and-departure",
+      "placeName": {
+        "en": "Khujand",
+        "de": "Chudschand",
+        "fr": "Khujand",
+        "ja": "フジェンド",
+        "es": "Khujand"
+      },
+      "heading": {
+        "en": "Day 5: Khujand city sights and departure",
+        "de": "Tag 5: Sehenswürdigkeiten in Chudschand und Abreise",
+        "fr": "Jour 5 : Visites de Khujand et départ",
+        "ja": "5日目：フジェンド市内観光と出発",
+        "es": "Día 5: Atractivos de Khujand y salida"
+      },
+      "paragraphs": {
+        "en": [
+          "Day 5 begins in Khujand, Tajikistan's second city, with a morning walk through Panjshanbe Bazaar where vendors sell dried apricots, spices and atlas silk from stalls that have operated for centuries. The covered market sits about 300 meters from the reconstructed medieval fortress walls that enclose the regional museum and a statue of Timur Malik. A short drive of roughly 15 minutes reaches the Oybek border post, the main land crossing to Tashkent, Uzbekistan, which is 70 km away and typically takes about 1.5 hours including customs formalities in the April to October season. Travelers flying out of Khujand International Airport should allow 30 minutes for the 10 km transfer from the city center. Late spring through early autumn offers the most reliable road conditions for the border crossing.",
+          "The Khujand fortress walls, rebuilt in the 20th century on ancient foundations, trace a rectangular perimeter of about 600 meters and include the Archaeology and Fortification Museum displaying Sogdian ceramics and coins. Panjshanbe Bazaar peaks in activity between 09:00 and 12:00 when farmers from the Fergana Valley bring fresh produce, making this the optimal window for photography and sampling local breads like non and kulcha. The Oybek border operates daily from early morning until evening, but queues can lengthen to 60 minutes on weekends and holidays, so a mid-morning departure from Khujand balances market time with a smoother crossing. Our 18-day Four Stans Odyssey tour follows this exact sequence on Day 10, arriving in Khujand from Tashkent and continuing to Istaravshan and Penjikent the next day. The tour includes an English-speaking guide for the bazaar and fortress visit.",
+          "For travelers continuing independently to Tashkent, shared taxis depart from the station near the bazaar once full, covering the 70 km route in about 1.5 hours to the border plus another hour to the Uzbek capital after formalities. Private transfers can be arranged for the 160 km door-to-door journey, typically completed in 3 to 4 hours total depending on border wait times. The border crossing at Oybek sits at roughly 400 meters elevation, so no altitude acclimatization is needed, but summer temperatures can exceed 35 Celsius, making water and sun protection essential. Visa rules for both Tajikistan and Uzbekistan vary by nationality and change frequently; check official government sources before travel. The Sunday Atlas Four Stans Odyssey tour handles the border logistics and provides a guide through the crossing on Day 10.",
+          "Khujand International Airport (LBD) offers domestic flights to Dushanbe, about 45 minutes in the air, and limited international connections to Moscow, Istanbul and Dubai, mainly in the summer season. The airport lies 10 km northeast of the city center, a 20 to 30 minute drive along the main highway that parallels the Syr Darya River. If departing from Dushanbe instead, the overland return via the Anzob Tunnel is roughly 300 km and takes 6 to 7 hours in good weather, but the tunnel can close in winter months from November to March. Our Four Stans Odyssey tour uses the Oybek land border for entry on Day 9 and exit toward Samarkand on Day 11, avoiding the mountain pass entirely. The tour length is 18 days and 17 nights, private, with daily breakfasts and selected meals included."
+        ],
+        "de": [
+          "Tag 5 beginnt in Chudschand, Tadschikistans zweitgrößter Stadt, mit einem morgendlichen Spaziergang durch den Panjschanbe-Basar, wo Händler getrocknete Aprikosen, Gewürfe und Atlas-Seide von Ständen verkaufen, die seit Jahrhunderten betrieben werden. Der überdachte Markt liegt etwa 300 Meter von den rekonstruierten mittelalterlichen Stadtmauern entfernt, die das Regionalmuseum und eine Statue von Timur Malik umschließen. Eine kurze Fahrt von etwa 15 Minuten führt zum Grenzposten Oybek, der wichtigsten Landgrenze nach Taschkent, Usbekistan, das 70 km entfernt ist und in der Saison von April bis Oktober einschließlich der Zollformalitäten in der Regel etwa 1,5 Stunden dauert. Reisende, die vom internationalen Flughafen Chudschand abfliegen, sollten 30 Minuten für den 10 km langen Transfer vom Stadtzentrum einplanen. Vom späten Frühjahr bis zum frühen Herbst bieten sich die zuverlässigsten Straßenverhältnisse für die Grenzüberquerung.",
+          "Die Mauern der Festung von Chudschan, die im 20. Jahrhundert auf alten Fundamenten wiederaufgebaut wurden, umschließen einen rechteckigen Umfang von etwa 600 Metern und beinhalten das Archäologie- und Befestigungsmuseum mit sogdischen Keramiken und Münzen. Der Panjschanbe-Basar ist zwischen 09:00 und 12:00 am stärksten besucht, wenn Bauern aus dem Ferghanatal frische Produkte bringen, was das ideale Zeitfenster für Fotografien und das Probieren lokaler Brote wie Non und Kulcha ist. Die Grenze von Oybek ist täglich von frühmorgens bis abends geöffnet, aber die Schlangen können an Wochenenden und Feiertagen auf 60 Minuten anwachsen, sodass eine Abreise am späten Vormittag von Chudschand aus Marktbesuch und eine reibungslosere Überquerung vereint. Unsere 18-tägige Four Stans Odyssey-Reise folgt dieser exakten Abfolge am Tag 10, kommt aus Taschkent in Chudschand an und setzt die Reise am nächsten Tag nach Istaravshan und Pendschikent fort. Die Reise beinhaltet einen englischsprachigen Guide für den Basar- und Festungsbesuch.",
+          "Für Reisende, die eigenständig nach Taschkent weiterreisen, fahren Sammeltaxis vom Bahnhof am Basar ab, sobald sie voll sind. Sie legen die 70 km lange Strecke in etwa 1,5 Stunden bis zur Grenze zurück, gefolgt von einer weiteren Stunde bis zur usbekischen Hauptstadt nach den Grenzformalitäten. Private Transfers können für die 160 km lange Tür-zu-Tür-Reise arrangiert werden, die in der Regel in 3 bis 4 Stunden insgesamt abgeschlossen wird, je nach Wartezeiten an der Grenze. Die Grenzübergangsstelle Oybek liegt auf etwa 400 Metern Höhe, sodass keine Höhenakklimatisation erforderlich ist, aber die Sommertemperaturen können 35 Grad Celsius übersteigen, weshalb Wasser und Sonnenschutz unerlässlich sind. Die Visabestimmungen für Tadschikistan und Usbekistan variieren je nach Nationalität und ändern sich häufig; prüfen Sie offizielle Regierungsquellen vor der Reise. Die Sunday Atlas Four Stans Odyssey Tour übernimmt die Grenzlogistik und stellt einen Guide für den Übergang am Tag 10.",
+          "Der internationale Flughafen Khujand (LBD) bietet Inlandsflüge nach Duschanbe, etwa 45 Minuten Flugzeit, und begrenzte internationale Verbindungen nach Moskau, Istanbul und Dubai, hauptsächlich in der Sommersaison. Der Flughafen liegt 10 km nordöstlich des Stadtzentrums, eine 20- bis 30-minütige Fahrt entlang der Hauptstraße, die parallel zum Syrdarja verläuft. Wenn Sie stattdessen von Duschanbe abreisen, beträgt die Überlandrückreise durch den Anzob-Tunnel etwa 300 km und dauert bei gutem Wetter 6 bis 7 Stunden, aber der Tunnel kann in den Wintermonaten von November bis März geschlossen sein. Unsere Four Stans Odyssey Tour nutzt den Landgrenzübergang Oybek für die Einreise am Tag 9 und die Ausreise in Richtung Samarkand am Tag 11 und vermeidet so den Gebirgspass vollständig. Die Reisedauer beträgt 18 Tage und 17 Nächte, privat, mit täglichem Frühstück und ausgewählten Mahlzeiten."
+        ],
+        "fr": [
+          "Le jour 5 commence à Khujand, la deuxième ville du Tadjikistan, par une promenade matinale au bazar Panjshanbe où les vendeurs proposent abricots secs, épices et soie atlas depuis des étals qui fonctionnent depuis des siècles. Le marché couvert se trouve à environ 300 mètres des remparts médiévaux reconstruits qui entourent le musée régional et une statue de Timur Malik. Un court trajet d'environ 15 minutes mène au poste frontière d'Oybek, le principal passage terrestre vers Tachkent, en Ouzbékistan, situé à 70 km et qui prend généralement environ 1,5 heure, formalités douanières comprises, durant la saison d'avril à octobre. Les voyageurs décollant de l'aéroport international de Khujand doivent prévoir 30 minutes pour le transfert de 10 km depuis le centre-ville. De la fin du printemps au début de l'automne, les conditions routières sont les plus fiables pour le passage de la frontière.",
+          "Les remparts de la forteresse de Khujand, reconstruits au 20e siècle sur des fondations antiques, tracent un périmètre rectangulaire d'environ 600 mètres et incluent le musée d'archéologie et de fortifications présentant des céramiques et des pièces de monnaie sogdiennes. Le bazar Panjshanbe atteint son pic d'activité entre 09:00 et 12:00, lorsque les agriculteurs de la vallée de Ferghana apportent des produits frais, ce qui en fait le moment idéal pour la photographie et la dégustation de pains locaux comme le non et le kulcha. Le poste frontière d'Oybek fonctionne tous les jours du matin jusqu'au soir, mais les files d'attente peuvent atteindre 60 minutes le week-end et les jours fériés, donc un départ de Khujand en milieu de matinée équilibre le temps passé au bazar avec une traversée plus fluide. Notre circuit Four Stans Odyssey de 18 jours suit exactement cette séquence le jour 10, arrivant à Khujand depuis Tachkent et continuant vers Istaravshan et Penjikent le lendemain. Le circuit inclut un guide anglophone pour la visite du bazar et de la forteresse.",
+          "Pour les voyageurs poursuivant seuls vers Tachkent, les taxis partagés partent de la gare près du bazar une fois complets, parcourant les 70 km jusqu'à la frontière en environ 1,5 heure, puis une heure supplémentaire jusqu'à la capitale ouzbèke après les formalités. Des transferts privés peuvent être organisés pour le trajet porte-à-porte de 160 km, généralement effectué en 3 à 4 heures selon les temps d'attente à la frontière. Le poste frontière d'Oybek se situe à environ 400 mètres d'altitude, aucune acclimatation n'est donc nécessaire, mais les températures estivales peuvent dépasser 35 degrés Celsius, rendant l'eau et la protection solaire indispensables. Les règles de visa pour le Tadjikistan et l'Ouzbékistan varient selon la nationalité et changent fréquemment ; consultez les sources officielles des gouvernements avant de voyager. Le circuit Four Stans Odyssey de Sunday Atlas Travel gère les formalités frontalières et fournit un guide pour le passage le jour 10.",
+          "L'aéroport international de Khujand (LBD) propose des vols domestiques vers Douchanbé, environ 45 minutes de vol, et des connexions internationales limitées vers Moscou, Istanbul et Dubaï, principalement en saison estivale. L'aéroport se trouve à 10 km au nord-est du centre-ville, soit 20 à 30 minutes de route sur l'autoroute principale longeant le Syr Daria. Si vous partez de Douchanbé, le retour par voie terrestre via le tunnel d'Anzob fait environ 300 km et prend 6 à 7 heures par beau temps, mais le tunnel peut fermer en hiver, de novembre à mars. Notre circuit Four Stans Odyssey utilise le poste frontière d'Oybek pour l'entrée le jour 9 et la sortie vers Samarcande le jour 11, évitant ainsi le col de montagne. Le circuit dure 18 jours et 17 nuits, est privé, avec petits-déjeuners quotidiens et certains repas inclus."
+        ],
+        "ja": [
+          "5日目は、タジキスタン第二の都市フジェンドで始まります。午前中、パンジャンベ・バザールを散策します。ここでは、何世紀にもわたって営業する露店でドライアプリコット、スパイス、アトラス絹が販売されています。屋根付きの市場は、地域博物館とティムール・マリクの像を囲む再建された中世の要塞の城壁から約300メートルのところにあります。車で約15分の距離に、ウズベキスタンのタシュケントへの主要な陸路国境検問所であるオイベク国境検問所があります。タシュケントまでは70 kmで、4月から10月のシーズンには税関手続きを含めて約1.5時間かかります。フジェンド国際空港から出発する旅行者は、市内中心部からの10 kmの移動に30分を確保してください。国境越えの道路状況が最も安定しているのは、晩春から初秋にかけてです。",
+          "フジェンド要塞の城壁は、20世紀に古代の基礎の上に再建され、約600メートルの長方形の周囲をたどっています。ソグド人の陶器や硬貨を展示する考古学・要塞博物館が含まれています。パンジャンベ・バザールは、フェルガナ盆地から農家が新鮮な農産物を持ち込む09:00から12:00にかけて最も活気づき、ノンやクルチャなどの地元のパンの撮影や試食に最適な時間帯です。オイベク国境は早朝から夕方まで毎日営業していますが、週末や祝日には待ち時間が60分に達することがあります。フジェンドから午前中に出発すれば、市場での時間とスムーズな越境のバランスが取れます。当社の18日間のフォー・スタンズ・オデッセイ・ツアーでは、10日目にこの正確な順序でタシュケントからフジェンドに到着し、翌日にイスタラヴシャンとペンジケントへと続きます。ツアーには、バザールと要塞の見学に英語を話すガイドが含まれています。",
+          "タシュケントへ個人で向かう旅行者向けに、バザール近くの駅から乗合タクシーが出発しており、満車になり次第出発します。70 kmのルートを約1.5時間で国境まで移動し、手続きの後、さらに1時間でウズベキスタンの首都へ到着します。プライベートトランスファーも手配可能で、160 kmのドアツードアの旅は、国境での待ち時間に応じて通常3〜4時間で完了します。オイベク国境は標高約400メートルに位置するため、高順応は必要ありませんが、夏季は35度を超えることもあり、水と日焼け対策は必須です。タジキスタンとウズベキスタンのビザ規則は国籍によって異なり、頻繁に変更されるため、出発前に公的な政府情報源をご確認ください。サンデー・アトラス・トラベルの「フォー・スタンズ・オデッセイ」ツアーでは国境手続きを代行し、10日目に国境を通過するガイドをご案内します。",
+          "フジャンド国際空港（LBD）では、ドゥシャンベへの国内線（飛行時間約45分）と、主に夏季にモスクワ、イスタンブール、ドバイへの限定的な国際線が運航されています。空港は市街地の北東10 kmに位置し、シルダリヤ川に並行する幹線道路を車で20〜30分です。ドゥシャンベから出発する場合、アンゾブトンネルを経由する陸路の帰路は約300 kmで、天候が良ければ6〜7時間ですが、トンネルは11月から3月の冬季に閉鎖されることがあります。当社の「フォー・スタンズ・オデッセイ」ツアーでは、9日目にオイベク陸路国境から入国し、11日目にサマルカンドへ向けて出国するため、山岳ルートを完全に回避します。ツアー期間は18日間17泊、プライベートで、毎日朝食と一部の食事が含まれています。"
+        ],
+        "es": [
+          "El día 5 comienza en Khujand, la segunda ciudad de Tayikistán, con un paseo matutino por el bazar Panjshanbe, donde los vendedores ofrecen albaricoques secos, especias y seda atlas desde puestos que han funcionado durante siglos. El mercado cubierto se encuentra a unos 300 metros de las murallas medievales reconstruidas que rodean el museo regional y una estatua de Timur Malik. Un trayecto corto de unos 15 minutos llega al puesto fronterizo de Oybek, el principal cruce terrestre hacia Taskent, Uzbekistán, que está a 70 km y suele tardar unas 1.5 horas, incluidos los trámites aduaneros, en la temporada de abril a octubre. Los viajeros que salgan del aeropuerto internacional de Khujand deben permitir 30 minutos para el traslado de 10 km desde el centro de la ciudad. De finales de primavera a principios de otoño se ofrecen las condiciones de carretera más fiables para el cruce fronterizo.",
+          "Las murallas de la fortaleza de Khujand, reconstruidas en el siglo 20 sobre cimientos antiguos, trazan un perímetro rectangular de unos 600 metros e incluyen el Museo de Arqueología y Fortificaciones, que exhibe cerámicas y monedas sogdianas. El bazar Panjshanbe alcanza su máximo nivel de actividad entre las 09:00 y las 12:00, cuando los agricultores del valle de Fergana traen productos frescos, lo que convierte este en el momento óptimo para la fotografía y para probar panes locales como el non y el kulcha. La frontera de Oybek opera todos los días desde primera hora de la mañana hasta el atardecer, pero las colas pueden extenderse hasta 60 minutos los fines de semana y días festivos, por lo que una salida a media mañana desde Khujand equilibra el tiempo en el bazar con un cruce más fluido. Nuestro recorrido Four Stans Odyssey de 18 días sigue esta misma secuencia en el día 10, llegando a Khujand desde Taskent y continuando hacia Istaravshan y Penjikent al día siguiente. El recorrido incluye un guía de habla inglesa para la visita al bazar y la fortaleza.",
+          "Para los viajeros que continúen de forma independiente hacia Taskent, los taxis compartidos salen de la estación cercana al bazar una vez que se llenan, recorriendo los 70 km hasta la frontera en aproximadamente 1,5 horas, más otra hora hasta la capital uzbeka tras los trámites fronterizos. Podemos organizar traslados privados para el trayecto puerta a puerta de 160 km, que suele completarse en 3 a 4 horas en total, dependiendo de los tiempos de espera en la frontera. El cruce fronterizo de Oybek se encuentra a unos 400 metros de altitud, por lo que no se necesita aclimatación, pero en verano las temperaturas pueden superar los 35 grados Celsius, haciendo esencial el agua y la protección solar. Las normas de visado para Tayikistán y Uzbekistán varían según la nacionalidad y cambian con frecuencia; consulte las fuentes oficiales del gobierno antes de viajar. El tour Four Stans Odyssey de Sunday Atlas Travel gestiona la logística fronteriza y proporciona un guía durante el cruce en el Día 10.",
+          "El Aeropuerto Internacional de Khujand (LBD) ofrece vuelos domésticos a Dushanbe, de unos 45 minutos de vuelo, y conexiones internacionales limitadas a Moscú, Estambul y Dubái, principalmente en temporada de verano. El aeropuerto está a 10 km al noreste del centro de la ciudad, a 20-30 minutos en coche por la carretera principal que discurre paralela al río Syr Darya. Si sale desde Dushanbe en su lugar, el regreso por tierra a través del Túnel de Anzob es de unos 300 km y toma de 6 a 7 horas con buen tiempo, pero el túnel puede cerrar en los meses de invierno, de noviembre a marzo. Nuestro tour Four Stans Odyssey utiliza el cruce terrestre de Oybek para la entrada en el Día 9 y la salida hacia Samarcanda en el Día 11, evitando el paso de montaña por completo. La duración del tour es de 18 días y 17 noches, privado, con desayunos diarios y comidas seleccionadas incluidas."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Panjshanbe Bazaar morning colors and atlas silk",
+          "Khujand fortress walls and Sogdian museum pieces",
+          "Oybek border crossing to Tashkent in 70 km"
+        ],
+        "de": [
+          "Panjshanbe-Basar: Morgenfarben und Atlas-Seide",
+          "Mauern der Festung von Khujand und sogdische Museumsstücke",
+          "Grenzübergang Oybek nach Taschkent in 70 km"
+        ],
+        "fr": [
+          "Couleurs matinales du bazar Panjshanbe et soie atlas",
+          "Murs de la forteresse de Khujand et pièces du musée sogdien",
+          "Passage frontalier d'Oybek vers Tachkent à 70 km"
+        ],
+        "ja": [
+          "パンジャンベ・バザールの朝の色彩とアトラスシルク",
+          "フジャンド要塞の城壁とソグド博物館の展示品",
+          "オイベク国境越え（タシュケントまで70 km）"
+        ],
+        "es": [
+          "Colores matutinos del bazar Panjshanbe y seda atlas",
+          "Murallas de la fortaleza de Khujand y piezas del museo sogdiano",
+          "Cruce fronterizo de Oybek a Tashkent en 70 km"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Market peak hours",
+            "de": "Hauptverkehrszeiten auf dem Markt",
+            "fr": "Heures de pointe du marché",
+            "ja": "市場のピーク時間",
+            "es": "Horas pico del mercado"
+          },
+          "value": {
+            "en": "09:00 to 12:00",
+            "de": "09:00 bis 12:00",
+            "fr": "09:00 à 12:00",
+            "ja": "09:00 から 12:00",
+            "es": "09:00 a 12:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Border distance",
+            "de": "Entfernung zur Grenze",
+            "fr": "Distance jusqu'à la frontière",
+            "ja": "国境までの距離",
+            "es": "Distancia a la frontera"
+          },
+          "value": {
+            "en": "70 km to Oybek post",
+            "de": "70 km zum Grenzposten Oybek",
+            "fr": "70 km jusqu'au poste d'Oybek",
+            "ja": "オイベク検問所まで70 km",
+            "es": "70 km hasta el puesto de Oybek"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "18 Days / 17 Nights",
+            "de": "18 Tage / 17 Nächte",
+            "fr": "18 jours / 17 nuits",
+            "ja": "18日間 / 17泊",
+            "es": "18 días / 17 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3145 USD / person",
+            "de": "Ab $3145 USD / Person",
+            "fr": "À partir de $3145 USD / personne",
+            "ja": "$3145 USD〜 / 1名",
+            "es": "Desde $3145 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793728575/sunday-atlas/blog/tajikistan-itinerary-5-days/khujand-commons-196249932.jpg",
+        "width": 1920,
+        "height": 1461,
+        "alt": {
+          "en": "Ornate carved ceiling dome at the Sheikh Muslihiddin Mausoleum in Khujand, Tajikistan.",
+          "de": "Verzierte geschnitzte Deckenkuppel im Scheich-Muslihiddin-Mausoleum in Chudschand, Tadschikistan.",
+          "fr": "Plafond voûté orné de sculptures au mausolée du cheikh Muslihiddin à Khujand, au Tadjikistan.",
+          "ja": "タジキスタン、フジェンドのシェイク・ムスリヒッディン廟にある、装飾的な彫刻が施された天井のドーム。",
+          "es": "Cúpula de techo tallada y ornamentada en el Mausoleo del jeque Muslihiddin en Jujand, Tayikistán."
+        },
+        "credit": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pavilion_in_Khujand_Fortress,_Tajikistan.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Khujand",
+          "de": "Chudschand",
+          "fr": "Khujand",
+          "ja": "フジェンド",
+          "es": "Khujand"
+        }
+      },
+      "embeddedPackageSlug": "four-stans-odyssey-18-days"
+    },
+    {
+      "id": "transport-and-tour-match",
+      "placeName": {
+        "en": "Tajikistan",
+        "de": "Tadschikistan",
+        "fr": "Tadjikistan",
+        "ja": "タジキスタン",
+        "es": "Tayikistán"
+      },
+      "heading": {
+        "en": "Getting between places and the matching Sunday Atlas tour",
+        "de": "Anreise zwischen den Orten und die passende Sunday Atlas Tour",
+        "fr": "Se déplacer d'un endroit à l'autre et le circuit Sunday Atlas Travel correspondant",
+        "ja": "移動手段とそれに合ったサンデー・アトラス・トラベルのツアー",
+        "es": "Desplazamientos entre lugares y el tour de Sunday Atlas Travel correspondiente"
+      },
+      "paragraphs": {
+        "en": [
+          "A private 4WD handles every transfer in this five-day Tajikistan segment, starting with the 160 km drive from the Oybek border to Khujand that takes about two hours on paved roads. The route continues west to Istaravshan and Penjikent, covering roughly 260 km in a full day of driving through mountain valleys. From Penjikent the road climbs into the Fan Mountains to the Seven Lakes of Marguzor, a 60 km loop that reaches above 2,400 m and requires four-wheel drive from late spring to early autumn. The final leg returns east toward Dushanbe via Iskanderkul Lake, adding another 200 km on mountain highways that can close after the first heavy snowfall. Travel in May through September keeps all passes open and daytime temperatures comfortable for photography stops.",
+          "The Four Stans Odyssey tour runs this exact Tajikistan corridor over four days inside an 18-day private itinerary that links Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan. On Day 9 the group crosses the Oybek land border and drives 160 km to Khujand for an overnight stay. Day 10 covers the 260 km stretch to Istaravshan and Penjikent with guided visits to the Kuk-Gumbaz Mosque and the Sarazm UNESCO site. Day 11 ascends to the Seven Lakes before descending 180 km to the Jartepa border and onward to Samarkand. The tour uses the same 4WD vehicles and English-speaking guides for every Tajikistan segment.",
+          "Border formalities at Oybek and Jartepa typically take 30 to 60 minutes each way, so the tour builds in buffer time on Days 9 and 11. Visa rules depend on your passport and can change, so we confirm the latest requirements before departure and advise carrying printed copies of the e-visa or visa-on-arrival approval. The 4WD carries spare tires, extra fuel and a satellite communicator because mobile coverage drops out above 2,000 m on the Seven Lakes road. Altitude sickness is uncommon below 2,500 m but we recommend a slow ascent and plenty of water on the lake day.",
+          "Luggage stays in the vehicle throughout the Tajikistan portion, so a soft duffel that fits in the rear cargo area works best; hard suitcases can be difficult to load on the narrow mountain switchbacks. The tour includes daily breakfasts, four lunches and three dinners across the full 18 days, with meals in Tajikistan served at family-run guesthouses near Penjikent and Khujand. Electricity is 220 V with European two-pin sockets; a universal adapter covers all hotel and guesthouse outlets. We suggest a light fleece and a windproof shell even in July because temperatures at the Seven Lakes can drop below 10 °C after sunset."
+        ],
+        "de": [
+          "Ein privater 4WD übernimmt jeden Transfer in diesem fünftägigen Tadschikistan-Segment, beginnend mit der 160 km langen Fahrt von der Grenze Oybek nach Khujand, die etwa zwei Stunden auf asphaltierten Straßen dauert. Die Route führt weiter westlich nach Istaravshan und Penjikent und legt dabei etwa 260 km an einem Fahrtag durch Bergtäler zurück. Von Penjikent aus steigt die Straße in die Fan-Berge zu den Sieben Seen von Marguzor hinauf, eine 60 km lange Runde, die über 2.400 m Höhe erreicht und von spätem Frühjahr bis frühen Herbst Allradantrieb erfordert. Der letzte Abschnitt führt zurück nach Osten in Richtung Duschanbe über den Iskanderkul-See und fügt weitere 200 km auf Bergstraßen hinzu, die nach dem ersten starken Schneefall gesperrt werden können. Reisen von Mai bis September hält alle Pässe offen und die Tagestemperaturen angenehm für Fotostopps.",
+          "Die Four Stans Odyssey Tour befährt diesen exakten Tadschikistan-Korridor über vier Tage innerhalb einer 18-tägigen privaten Reiseroute, die Kasachstan, Kirgisistan, Tadschikistan und Usbekistan verbindet. Am Tag 9 überquert die Gruppe die Landgrenze Oybek und fährt 160 km nach Khujand zu einer Übernachtung. Tag 10 umfasst die 260 km lange Strecke nach Istaravshan und Penjikent mit geführten Besuchen der Kuk-Gumbaz-Moschee und der UNESCO-Stätte Sarazm. Tag 11 steigt zu den Sieben Seen auf und steigt dann 180 km zur Grenze Jartepa ab und weiter nach Samarkand. Die Tour verwendet dieselben 4WD-Fahrzeuge und englischsprachigen Guides für jedes Tadschikistan-Segment.",
+          "Die Grenzformalitäten in Oybek und Jartepa dauern in der Regel 30 bis 60 Minuten in jede Richtung, sodass die Tour an den Tagen 9 und 11 Pufferzeit einplant. Die Visabestimmungen hängen von Ihrem Reisepass ab und können sich ändern, daher bestätigen wir die neuesten Anforderungen vor der Abreise und empfehlen, ausgedruckte Kopien des E-Visums oder der Genehmigung für ein Visum bei der Ankunft mitzuführen. Der 4WD führt Ersatzreifen, zusätzlichen Treibstoff und einen Satellitenkommunikator mit, da der Mobilfunkempfang auf der Straße zu den Sieben Seen oberhalb von 2.000 m ausfällt. Höhenkrankheit ist unter 2.500 m ungewöhnlich, aber wir empfehlen einen langsamen Aufstieg und viel Wasser am Seetag.",
+          "Gepäck bleibt während des gesamten Tajikistan-Teils im Fahrzeug, daher eignet sich ein weicher Duffel, der in den hinteren Laderaum passt, am besten; harte Koffer können auf den engen Bergserpentinen schwer zu beladen sein. Die Tour umfasst täglich Frühstück, vier Mittagessen und drei Abendessen über die gesamten 18 Tage, wobei die Mahlzeiten in Tajikistan in familiengeführten Gästehäusern in der Nähe von Penjikent und Khujand serviert werden. Der Strom beträgt 220 V mit europäischen Zweipolsteckdosen; ein universeller Adapter deckt alle Hotel- und Gästehäusersteckdosen ab. Wir empfehlen einen leichten Fleece und eine winddichte Jacke selbst im Juli, da die Temperaturen an den Sieben Seen nach Sonnenuntergang unter 10 °C fallen können."
+        ],
+        "fr": [
+          "Un 4x4 privé assure tous les transferts dans ce segment de cinq jours au Tadjikistan, commençant par le trajet de 160 km depuis le poste frontière d'Oybek jusqu'à Khujand, qui prend environ deux heures sur routes goudronnées. La route se poursuit vers l'ouest jusqu'à Istaravchan et Pendjikent, couvrant environ 260 km en une journée complète de conduite à travers les vallées de montagne. Depuis Pendjikent, la route grimpe dans les monts Fan jusqu'aux Sept Lacs de Marguzor, une boucle de 60 km qui s'élève au-dessus de 2 400 m et nécessite un véhicule à quatre roues motrices de la fin du printemps au début de l'automne. La dernière étape revient vers l'est en direction de Douchanbé via le lac Iskanderkul, ajoutant 200 km supplémentaires sur les autoroutes de montagne qui peuvent fermer après la première forte chute de neige. Voyager de mai à septembre permet de garder tous les cols ouverts et des températures diurnes confortables pour les arrêts photo.",
+          "Le circuit Four Stans Odyssey emprunte cet exact corridor tadjik sur quatre jours au sein d'un itinéraire privé de 18 jours reliant le Kazakhstan, le Kirghizistan, le Tadjikistan et l'Ouzbékistan. Le jour 9, le groupe franchit la frontière terrestre d'Oybek et parcourt 160 km jusqu'à Khujand pour une nuitée. Le jour 10 couvre les 260 km jusqu'à Istaravchan et Pendjikent avec des visites guidées de la mosquée Kuk-Gumbaz et du site de l'UNESCO de Sarazm. Le jour 11, le groupe monte jusqu'aux Sept Lacs avant de descendre 180 km jusqu'au poste frontière de Jartepa et de poursuivre vers Samarcande. Le circuit utilise les mêmes véhicules 4x4 et les mêmes guides anglophones pour chaque segment tadjik.",
+          "Les formalités frontalières à Oybek et Jartepa prennent généralement 30 à 60 minutes dans chaque sens, donc le circuit prévoit du temps de marge les jours 9 et 11. Les règles de visa dépendent de votre passeport et peuvent changer, nous confirmons donc les dernières exigences avant le départ et conseillons d'emporter des copies imprimées de l'e-visa ou de l'approbation du visa à l'arrivée. Le 4x4 transporte des pneus de rechange, du carburant supplémentaire et un téléphone satellite car la couverture mobile disparaît au-dessus de 2 000 m sur la route des Sept Lacs. Le mal des montagnes est rare en dessous de 2 500 m, mais nous recommandons une ascension lente et beaucoup d'eau le jour des lacs.",
+          "Les bagages restent dans le véhicule pendant toute la portion au Tadjikistan, donc un sac de voyage souple qui rentre dans l'espace de chargement arrière convient le mieux ; les valises rigides peuvent être difficiles à charger sur les lacets étroits des routes de montagne. Le circuit comprend les petits déjeuners quotidiens, quatre déjeuners et trois dîners sur les 18 jours complets, avec des repas au Tadjikistan servés dans des maisons d'hôtes familiales près de Penjikent et Khujand. L'électricité est de 220 V avec des prises européennes à deux broches ; un adaptateur universel couvre toutes les prises d'hôtels et de maisons d'hôtes. Nous suggérons une polaire légère et une veste coupe-vent même en juillet car les températures aux Sept Lacs peuvent descendre en dessous de 10 °C après le coucher du soleil."
+        ],
+        "ja": [
+          "プライベート4WD車がこのタジキスタン5日間セグメントのすべての移動を担当します。オイベク国境からフジャンドまでの160 kmのドライブは舗装路で約2時間です。ルートは西へイスタラヴシャンとペンジケントへと続き、山岳地帯の谷間を約260 km、丸一日かけて走行します。ペンジケントからはファン山脈へと登り、マーギュゾールの七つの湖へ向かいます。60 kmのループコースは標高2,400 mを超え、晩春から初秋にかけて4WDが必要です。最終区間はイスカンダークル湖を経由して東のドゥシャンベへ戻り、山岳幹線道路をさらに200 km走行します。5月から9月の旅行ならすべての峠が開通し、撮影停車にも適した快適な日中の気温が続きます。",
+          "「フォー・スタンズ・オデッセイ」ツアーは、カザフスタン、キルギスタン、タジキスタン、ウズベキスタンを結ぶ18日間のプライベート行程の中、このタジキスタン回廊を正確に4日間で巡ります。9日目にオイベク陸路国境を越え、160 kmを走行してフジャンドへ到着し、一泊します。10日目はイスタラヴシャンとペンジケントまでの260 kmの区間を移動し、クク・グンバズ・モスクとサラズムのユネスコ遺産をガイド付きで見学します。11日目は七つの湖へ登り、その後180 kmをジャルテパ国境へ下り、サマルカンドへ向かいます。ツアーはタジキスタンのすべての区間で同じ4WD車と英語を話すガイドを使用します。",
+          "オイベクおよびジャルテパでの国境手続きは、それぞれ片道30〜60分程度かかるため、ツアーでは9日目と11日目にバッファー時間を設けています。ビザ規則はパスポートによって異なり変更される可能性があるため、出発前に最新の要件を確認し、eビザまたはビザオンアライバルの承認書の印刷コピーを携帯することをお勧めします。4WD車にはスペアタイヤ、予備燃料、衛星通信機を搭載しており、七つの湖の道路では標高2,000 m以上で携帯電話の電波が届かなくなります。高山病は標高2,500 m以下では稀ですが、湖の日はゆっくりと登高し、十分な水分を摂ることをお勧めします。",
+          "タジキスタン区間では荷物は車両に積載したままとなります。後部荷室に収まるソフトタイプのダッフルバッグが最適です。狭い山道のヘアピンカーブでは、ハードスーツケースの積み込みが困難な場合があります。ツアーには18日間の全日程で毎日朝食、昼食4回、夕食3回が含まれており、タジキスタンではペンジケントとフジェンド近郊の家族経営のゲストハウスでお食事をお楽しみいただけます。電圧は220 V、ヨーロッパ式の2ピンコンセントです。ユニバーサルアダプターがあればホテルやゲストハウスのコンセントすべてに対応できます。七湖では日没後、気温が10 °Cを下回ることもあるため、7月でも軽いフリースと防風シェルをご用意されることをお勧めします。"
+        ],
+        "es": [
+          "Un 4x4 privado gestiona todos los traslados en este segmento de cinco días en Tayikistán, comenzando con el trayecto de 160 km desde la frontera de Oybek hasta Khujand, que dura unas dos horas por carreteras pavimentadas. La ruta continúa hacia el oeste hasta Istaravshan y Penjikent, cubriendo unos 260 km en un día completo de conducción a través de valles de montaña. Desde Penjikent, el camino asciende a las montañas Fan hasta los Siete Lagos de Marguzor, un circuito de 60 km que supera los 2.400 m y requiere tracción a las cuatro ruedas desde finales de primavera hasta principios de otoño. El tramo final regresa hacia el este en dirección a Dushanbe a través del lago Iskanderkul, añadiendo otros 200 km por carreteras de montaña que pueden cerrar tras la primera nevada importante. Viajar de mayo a septiembre mantiene todos los pasos abiertos y las temperaturas diurnas cómodas para paradas fotográficas.",
+          "El tour Four Stans Odyssey recorre este mismo corredor de Tayikistán en cuatro días dentro de un itinerario privado de 18 días que une Kazajistán, Kirguistán, Tayikistán y Uzbekistán. En el Día 9, el grupo cruza el cruce terrestre de Oybek y conduce 160 km hasta Khujand para una noche de alojamiento. El Día 10 cubre el tramo de 260 km hasta Istaravshan y Penjikent con visitas guiadas a la mezquita Kuk-Gumbaz y al sitio de la UNESCO de Sarazm. El Día 11 asciende a los Siete Lagos antes de descender 180 km hasta la frontera de Jartepa y continuar hacia Samarcanda. El tour utiliza los mismos vehículos 4x4 y guías de habla inglesa para cada segmento en Tayikistán.",
+          "Los trámites fronterizos en Oybek y Jartepa suelen tomar de 30 a 60 minutos en cada sentido, por lo que el tour incluye tiempo de margen en los Días 9 y 11. Las normas de visado dependen de su pasaporte y pueden cambiar, por lo que confirmamos los requisitos más recientes antes de la salida y recomendamos llevar copias impresas de la e-visa o la aprobación de visado a la llegada. El 4x4 lleva neumáticos de repuesto, combustible adicional y un comunicador satelital porque la cobertura móvil desaparece por encima de los 2.000 m en el camino de los Siete Lagos. El mal de altura es poco común por debajo de los 2.500 m, pero recomendamos un ascenso lento y abundante agua en el día de los lagos.",
+          "El equipaje permanece en el vehículo durante toda la parte de Tayikistán, por lo que una bolsa de viaje blanda que quepa en el área de carga trasera funciona mejor; las maletas rígidas pueden ser difíciles de cargar en los estrechos zigzags de montaña. El tour incluye desayunos diarios, cuatro almuerzos y tres cenas durante los 18 días completos, con comidas en Tayikistán servidas en casas de huéspedes familiares cerca de Penjikent y Khujand. La electricidad es de 220 V con enchufes europeos de dos pines; un adaptador universal cubre todas las tomas de hoteles y casas de huéspedes. Sugerimos un forro polar ligero y una cortavientos incluso en julio porque las temperaturas en los Siete Lagos pueden bajar de 10 °C después del atardecer."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Private 4WD covers every transfer in Tajikistan",
+          "Four Stans Odyssey includes this segment in 18 days",
+          "Mountain passes open May through September"
+        ],
+        "de": [
+          "Privater 4WD deckt jeden Transfer in Tajikistan ab",
+          "Four Stans Odyssey beinhaltet dieses Segment in 18 Tagen",
+          "Bergpässe sind von Mai bis September geöffnet"
+        ],
+        "fr": [
+          "Transfert en 4x4 privé couvrant tous les trajets au Tadjikistan",
+          "L'Odyssée des Quatre Stan inclut ce segment sur 18 jours",
+          "Les cols de montagne sont ouverts de mai à septembre"
+        ],
+        "ja": [
+          "タジキスタン内のすべての移動をプライベート4WDでカバー",
+          "フォー・スタンズ・オデッセイにこの区間が18日間の日程に含まれています",
+          "山岳越えルートは5月から9月までオープン"
+        ],
+        "es": [
+          "Transporte privado en 4WD cubre cada traslado en Tayikistán",
+          "Four Stans Odyssey incluye este segmento en 18 días",
+          "Los pasos de montaña están abiertos de mayo a septiembre"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tajikistan segment",
+            "de": "Tajikistan-Segment",
+            "fr": "Segment Tadjikistan",
+            "ja": "タジキスタン区間",
+            "es": "Segmento de Tayikistán"
+          },
+          "value": {
+            "en": "4 days inside 18-day tour",
+            "de": "4 Tage innerhalb der 18-tägigen Tour",
+            "fr": "4 jours à l'intérieur du circuit de 18 jours",
+            "ja": "18日間のツアー内の4日間",
+            "es": "4 días dentro del tour de 18 días"
+          }
+        },
+        {
+          "label": {
+            "en": "Key drives",
+            "de": "Wichtige Fahrten",
+            "fr": "Trajets clés",
+            "ja": "主要ドライブ",
+            "es": "Trayectos principales"
+          },
+          "value": {
+            "en": "Oybek-Khujand 160 km, Khujand-Penjikent 260 km, Penjikent-Seven Lakes 60 km loop, Penjikent-Samarkand 180 km",
+            "de": "Oybek-Khujand 160 km, Khujand-Penjikent 260 km, Penjikent-Sieben-Seen 60 km Runde, Penjikent-Samarkand 180 km",
+            "fr": "Oybek-Khujand 160 km, Khujand-Penjikent 260 km, Penjikent-Sept Lacs 60 km boucle, Penjikent-Samarkand 180 km",
+            "ja": "オイベク-フジェンド 160 km、フジェンド-ペンジケント 260 km、ペンジケント-七湖 60 kmループ、ペンジケント-サマルカンド 180 km",
+            "es": "Oybek-Khujand 160 km, Khujand-Penjikent 260 km, Penjikent-Siete Lagos 60 km circuito, Penjikent-Samarcanda 180 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "18 Days / 17 Nights",
+            "de": "18 Tage / 17 Nächte",
+            "fr": "18 jours / 17 nuits",
+            "ja": "18日間 / 17泊",
+            "es": "18 días / 17 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "From $3145 USD / person",
+            "de": "Ab $3145 USD / Person",
+            "fr": "À partir de $3145 USD / personne",
+            "ja": "$3145 USD〜 / 1名",
+            "es": "Desde $3145 USD / persona"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793728579/sunday-atlas/blog/tajikistan-itinerary-5-days/tajikistan-commons-164046724.jpg",
+        "width": 1920,
+        "height": 1281,
+        "alt": {
+          "en": "A man stands outdoors in Tajikistan with a fence and greenery behind him.",
+          "de": "Ein Mann steht im Freien in Tadschikistan, hinter ihm ein Zaun und Grün.",
+          "fr": "Un homme se tient à l'extérieur au Tadjikistan, avec une clôture et de la verdure derrière lui.",
+          "ja": "タジキスタンで屋外に立つ男性。背後にフェンスと緑が広がる。",
+          "es": "Un hombre al aire libre en Tayikistán con una cerca y vegetación detrás de él."
+        },
+        "credit": {
+          "author": "Satdeep Gill",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_man_in_Panjakent,_Tajikistan.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Tajikistan",
+          "de": "Tadschikistan",
+          "fr": "Tadjikistan",
+          "ja": "タジキスタン",
+          "es": "Tayikistán"
+        }
+      },
+      "embeddedPackageSlug": "four-stans-odyssey-18-days"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How many days in Tajikistan are enough for a first visit?",
+        "de": "Wie viele Tage in Tajikistan reichen für einen ersten Besuch?",
+        "fr": "Combien de jours au Tadjikistan suffisent pour une première visite ?",
+        "ja": "初訪問でタジキスタンを訪れるには、何日あれば十分ですか？",
+        "es": "¿Cuántos días en Tayikistán son suficientes para una primera visita?"
+      },
+      "a": {
+        "en": "Five days covers Dushanbe, the Fan Mountains and Khujand at a steady pace. Add a day if you want a slower rhythm or side trips to Sarez Lake or the Bartang Valley.",
+        "de": "Fünf Tage decken Duschanbe, die Fan-Berge und Khujand in einem gleichmäßigen Tempo ab. Fügen Sie einen Tag hinzu, wenn Sie ein langsameres Tempo oder Ausflüge zum Sarez-See oder ins Bartang-Tal wünschen.",
+        "fr": "Cinq jours couvrent Douchanbé, les monts Fan et Khujand à un rythme régulier. Ajoutez un jour si vous souhaitez un rythme plus lent ou des excursions vers le lac Sarez ou la vallée de Bartang.",
+        "ja": "5日間でドゥシャンベ、ファン山脈、フジェンドをゆったりとしたペースで巡れます。サレズ湖やバルタング渓谷へのサイドトリップをご希望の場合は、1日追加してください。",
+        "es": "Cinco días cubren Dushanbe, las Montañas Fan y Khujand a un ritmo constante. Añade un día si quieres un ritmo más lento o excursiones laterales al lago Sarez o al valle de Bartang."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the best season for a 5-day Tajikistan itinerary?",
+        "de": "Wann ist die beste Jahreszeit für eine 5-tägige Tajikistan-Reiseroute?",
+        "fr": "Quelle est la meilleure saison pour un itinéraire de 5 jours au Tadjikistan ?",
+        "ja": "5日間のタジキスタン旅程に最適なシーズンはいつですか？",
+        "es": "¿Cuál es la mejor temporada para un itinerario de 5 días en Tayikistán?"
+      },
+      "a": {
+        "en": "Late May through September keeps the Anzob Pass and Seven Lakes roads open. Winter snow closes high mountain routes from November to April.",
+        "de": "Spätes Mai bis September hält den Anzob-Pass und die Straßen zu den Sieben Seen offen. Winterlicher Schnee schließt die Hochgebirgsrouten von November bis April.",
+        "fr": "De fin mai à septembre, le col d'Anzob et les routes des Sept Lacs restent ouverts. La neige hivernale ferme les routes de haute montagne de novembre à avril.",
+        "ja": "5月下旬から9月までは、アンゾブ峠と七湖への道路が開通しています。冬季は11月から4月まで高山ルートが雪で閉鎖されます。",
+        "es": "De finales de mayo a septiembre mantiene abiertos el paso de Anzob y los caminos de los Siete Lagos. La nieve invernal cierra las rutas de alta montaña de noviembre a abril."
+      }
+    },
+    {
+      "q": {
+        "en": "Can I do this route without a private driver?",
+        "de": "Kann ich diese Route ohne privaten Fahrer machen?",
+        "fr": "Puis-je faire cet itinéraire sans chauffeur privé ?",
+        "ja": "プライベートドライバーなしでこのルートを巡ることはできますか？",
+        "es": "¿Puedo hacer esta ruta sin un conductor privado?"
+      },
+      "a": {
+        "en": "Shared taxis run between major towns but schedules are unreliable for the Seven Lakes. A private 4WD with a driver is the standard way to keep the day-by-day plan on track.",
+        "de": "Sammeltaxis verkehren zwischen den größeren Städten, aber die Fahrpläne sind für die Sieben Seen unzuverlässig. Ein privater 4WD mit Fahrer ist der Standardweg, um den Tagesplan einzuhalten.",
+        "fr": "Des taxis partagés circulent entre les grandes villes, mais les horaires sont peu fiables pour les Sept Lacs. Un 4x4 privé avec chauffeur est le moyen standard de maintenir le programme jour après jour.",
+        "ja": "主要都市間には乗合タクシーが運行していますが、七湖へのアクセスではスケジュールが不安定です。日程通りに進めるための標準的な方法は、ドライバー付きのプライベート4WDを利用することです。",
+        "es": "Los taxis compartidos circulan entre las ciudades principales, pero los horarios son poco fiables para los Siete Lagos. Un 4WD privado con conductor es la forma estándar de mantener el plan día a día en marcha."
+      }
+    },
+    {
+      "q": {
+        "en": "Which Sunday Atlas tour includes this Tajikistan segment?",
+        "de": "Welche Sunday Atlas Tour beinhaltet dieses Tajikistan-Segment?",
+        "fr": "Quel voyage Sunday Atlas inclut ce segment au Tadjikistan ?",
+        "ja": "このタジキスタン区間を含むサンデー・アトラス・トラベルのツアーはどれですか？",
+        "es": "¿Qué tour de Sunday Atlas Travel incluye este segmento de Tayikistán?"
+      },
+      "a": {
+        "en": "The Four Stans Odyssey tour includes the Dushanbe to Khujand leg over four days as part of an 18-day private trip through Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan.",
+        "de": "Die Tour Four Stans Odyssey beinhaltet den Abschnitt von Duschanbe nach Khujand über vier Tage als Teil einer 18-tägigen privaten Reise durch Kasachstan, Kirgisistan, Tajikistan und Usbekistan.",
+        "fr": "Le voyage Odyssée des Quatre Stan inclut l'étape de Douchanbé à Khujand sur quatre jours dans le cadre d'un voyage privé de 18 jours à travers le Kazakhstan, le Kirghizistan, le Tadjikistan et l'Ouzbékistan.",
+        "ja": "フォー・スタンズ・オデッセイツアーには、カザフスタン、キルギス、タジキスタン、ウズベキスタンを巡る18日間のプライベートトリップの一部として、ドゥシャンベからフジェンドまでの区間が4日間含まれています。",
+        "es": "El tour Four Stans Odyssey incluye el tramo de Dushanbe a Khujand durante cuatro días como parte de un viaje privado de 18 días a través de Kazajistán, Kirguistán, Tayikistán y Uzbekistán."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Tajikistan Itinerary 5 Days: Dushanbe & Seven Lakes (2027)",
+      "meta_description": "Tajikistan itinerary 5 days with daily drive times, overnight stops and the matching 18-day Four Stans Odyssey tour. Plan your route. Plan your route.",
+      "focus_keyword": "tajikistan itinerary 5 days",
+      "keywords": [
+        "tajikistan itinerary 5 days",
+        "tajikistan 5 day itinerary",
+        "5 days in tajikistan",
+        "tajikistan 5 days itinerary",
+        "6 days in tajikistan",
+        "tajikistan itinerary",
+        "how many days in tajikistan",
+        "tajikistan travel route"
+      ]
+    },
+    "de": {
+      "seo_title": "Tajikistan Reiseroute 5 Tage: Duschanbe & Sieben Seen (2027)",
+      "meta_description": "Tajikistan-Reiseroute 5 Tage mit täglichen Fahrzeiten, Zwischenstopps und der passenden 18-tägigen Four Stans Odyssey Tour. Planen Sie Ihre Route. Planen Sie Ihre Route.",
+      "focus_keyword": "tajikistan reiseroute 5 tage",
+      "keywords": [
+        "tajikistan reiseroute 5 tage",
+        "tajikistan 5 tage reiseroute",
+        "5 tage in tajikistan",
+        "tajikistan 5 tage reiseroute",
+        "6 tage in tajikistan",
+        "tajikistan reiseroute",
+        "wie viele tage in tajikistan",
+        "tajikistan reiseroute"
+      ]
+    },
+    "fr": {
+      "seo_title": "Itinéraire au Tadjikistan 5 jours : Douchanbé et les Sept Lacs (2027)",
+      "meta_description": "Itinéraire de 5 jours au Tadjikistan avec les temps de trajet quotidiens, les arrêts de nuit et le voyage correspondant Odyssée des Quatre Pays de 18 jours. Planifiez votre itinéraire. Planifiez votre itinéraire.",
+      "focus_keyword": "itinéraire tadjikistan 5 jours",
+      "keywords": [
+        "itinéraire tadjikistan 5 jours",
+        "itinéraire tadjikistan 5 jours",
+        "5 jours au tadjikistan",
+        "itinéraire tadjikistan 5 jours",
+        "6 jours au tadjikistan",
+        "itinéraire tadjikistan",
+        "combien de jours au tadjikistan",
+        "itinéraire de voyage tadjikistan"
+      ]
+    },
+    "ja": {
+      "seo_title": "タジキスタン 5日間プラン：ドゥシャンベとセブンレイクス（2027年）",
+      "meta_description": "タジキスタン5日間プラン。日々のドライブ時間、宿泊停泊地、対応する18日間のフォースタンズオデッセイツアーを掲載。ルートを計画しよう。ルートを計画しよう。",
+      "focus_keyword": "タジキスタン 5日間の旅程",
+      "keywords": [
+        "タジキスタン 5日間の旅程",
+        "タジキスタン 5日間の旅程",
+        "タジキスタン 5日間",
+        "タジキスタン 5日間の旅程",
+        "タジキスタン 6日間",
+        "タジキスタン旅程",
+        "タジキスタンに何日必要か",
+        "タジキスタン旅行ルート"
+      ]
+    },
+    "es": {
+      "seo_title": "Itinerario de Tayikistán 5 días: Dushanbe y los Siete Lagos (2027)",
+      "meta_description": "Itinerario de Tayikistán de 5 días con tiempos de traslado diarios, paradas de pernoctación y el tour correspondiente de 18 días Four Stans Odyssey. Planifica tu ruta. Planifica tu ruta.",
+      "focus_keyword": "itinerario de Tayikistán 5 días",
+      "keywords": [
+        "itinerario de Tayikistán 5 días",
+        "itinerario de Tayikistán 5 días",
+        "5 días en Tayikistán",
+        "itinerario de Tayikistán 5 días",
+        "6 días en Tayikistán",
+        "itinerario de Tayikistán",
+        "¿Cuántos días en Tayikistán?",
+        "ruta de viaje por Tayikistán"
+      ]
+    }
+  },
+  "contentHash": "362e1fc9b37b2f69"
+}

@@ -1,0 +1,127 @@
+# Weekly newsletter: one email per subscriber per ISO week, sent from contact@sundayatlastravel.com
+# through the Brevo transactional API (free plan: 300 emails/day). See docs/NEWSLETTER.md.
+#
+# Schedule: Thursdays 05:00 UTC = 09:00 Asia/Dubai. The scheduled run only SENDS when the repo
+# variable NEWSLETTER_ENABLED is exactly "true"; otherwise it renders a preview artifact and stops.
+# Manual run (Actions > Weekly newsletter > Run workflow):
+#   mode = preview  render all 5 locales as an artifact, send nothing
+#   mode = test     send ONE email to test_to (must be @sundayatlastravel.com); subscribers untouched
+#   mode = send     real send (still requires NEWSLETTER_ENABLED=true)
+#
+# Secrets (names only, never print values):
+#   BREVO_API_KEY             Brevo > SMTP & API > API keys
+#   NEWSLETTER_UNSUB_SECRET   HMAC key for /api/unsubscribe links (also synced to Pages by deploy-pages.yml)
+#   SANITY_API_WRITE_TOKEN    reads subscribers, records lastSentWeek
+
+name: Weekly newsletter
+
+on:
+  schedule:
+    - cron: "0 11 * * 0"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "preview | test | send"
+        type: choice
+        options: [preview, test, send]
+        default: preview
+      test_to:
+        description: "Test recipient (mode=test only, @sundayatlastravel.com)"
+        default: "contact@sundayatlastravel.com"
+      locale:
+        description: "Locale for the test email"
+        type: choice
+        options: [en, de, fr, ja, es]
+        default: en
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsletter
+  cancel-in-progress: false
+
+jobs:
+  newsletter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Offline checks
+        run: node scripts/test-newsletter.mjs
+
+      - name: Run newsletter
+        shell: bash
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          NEWSLETTER_UNSUB_SECRET: ${{ secrets.NEWSLETTER_UNSUB_SECRET }}
+          SANITY_API_WRITE_TOKEN: ${{ secrets.SANITY_API_WRITE_TOKEN }}
+          NEWSLETTER_ENABLED: ${{ vars.NEWSLETTER_ENABLED || 'false' }}
+          IN_MODE: ${{ github.event.inputs.mode || 'scheduled' }}
+          IN_TEST_TO: ${{ github.event.inputs.test_to || '' }}
+          IN_LOCALE: ${{ github.event.inputs.locale || 'en' }}
+        run: |
+          set -uo pipefail
+          mode="$IN_MODE"
+          if [[ "$mode" == "scheduled" ]]; then
+            if [[ "$NEWSLETTER_ENABLED" == "true" ]]; then mode=send; else mode=preview; echo "::notice::NEWSLETTER_ENABLED is not true: preview only, nothing sent."; fi
+          fi
+          case "$mode" in
+            preview) node scripts/newsletter.mjs --dry-run --out=newsletter-preview ;;
+            test)
+              [[ "$IN_TEST_TO" =~ ^[A-Za-z0-9._%+-]+@sundayatlastravel\.com$ ]] || { echo "::error::test_to must be @sundayatlastravel.com"; exit 1; }
+              node scripts/newsletter.mjs --test-to="$IN_TEST_TO" --locale="$IN_LOCALE" ;;
+            send) node scripts/newsletter.mjs --send ;;
+            *) echo "::error::bad mode"; exit 1 ;;
+          esac
+
+      - name: Commit featured-tour rotation
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- content/newsletter-state.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore(newsletter): featured tour for $(node -e 'console.log(require("./newsletter-report.json").week)')"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+            git rebase --abort || true
+            sleep $((attempt * 10))
+          done
+          echo "::error::Could not push newsletter state"; exit 1
+
+      - name: Summary
+        if: always()
+        shell: bash
+        run: |
+          [[ -f newsletter-report.json ]] || exit 0
+          node -e '
+            const r = require("./newsletter-report.json");
+            const out = [`### Newsletter ${r.week} (${r.mode})`];
+            if (r.featured) out.push(`Featured tour: ${r.featured.slug} (from $${r.featured.priceFrom})`);
+            out.push(`Subject (en): ${r.subjects?.en ?? "-"}`);
+            out.push(`Sent: ${r.sent}, failed: ${r.failed}, skipped: ${JSON.stringify(r.skipped)}`);
+            if (r.subscribers) out.push(`Subscribers: ${JSON.stringify(r.subscribers)}`);
+            if (r.test) out.push(`Test: ${r.test.ok ? "sent" : "failed " + r.test.status + " " + r.test.message}`);
+            if (r.error) out.push(`Error: ${r.error}`);
+            console.log(out.join("\n\n"));
+          ' >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: newsletter-preview
+          path: |
+            newsletter-preview/
+            newsletter-report.json
+          if-no-files-found: ignore
+          retention-days: 14

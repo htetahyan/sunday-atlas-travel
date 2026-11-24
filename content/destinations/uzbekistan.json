@@ -1,0 +1,448 @@
+{
+  "slug": "uzbekistan",
+  "name": {
+    "en": "Uzbekistan",
+    "de": "Usbekistan",
+    "fr": "Ouzbékistan",
+    "ja": "ウズベキスタン",
+    "es": "Uzbekistán",
+    "zh": "乌兹别克斯坦"
+  },
+  "region": {
+    "en": "Central Asia",
+    "de": "Zentralasien",
+    "fr": "Asie centrale",
+    "ja": "中央アジア",
+    "es": "Asia central",
+    "zh": "中亚"
+  },
+  "summary": {
+    "en": "Tashkent, Samarkand, Bukhara and Khiva: the Silk Road cities where every one of our Central Asia tours spends its final week.",
+    "de": "Taschkent, Samarkand, Buchara und Chiwa: die Seidenstraßenstädte, in denen jede unserer Zentralasien-Reisen ihre letzte Woche verbringt.",
+    "fr": "Un circuit en Ouzbékistan par Tachkent, Samarcande, Boukhara et Khiva : les villes de la Route de la soie où chacun de nos circuits passe sa dernière semaine.",
+    "ja": "タシケント、サマルカンド、ブハラ、ヒヴァ。どの中央アジアツアーも最後の1週間を過ごす、シルクロードの町々です。",
+    "es": "Taskent, Samarcanda, Bujará y Jiva: las ciudades de la Ruta de la Seda donde cada uno de nuestros viajes por Asia Central pasa su última semana.",
+    "zh": "塔什干、撒马尔罕、布哈拉和希瓦：丝绸之路古城，我们每个中亚之旅的最后一周都会前往。"
+  },
+  "bestSeasons": {
+    "en": [
+      "Spring and autumn are the usual seasons for Samarkand, Bukhara and Khiva",
+      "Summer in the desert cities is hot, so sightseeing starts early"
+    ],
+    "de": [
+      "Frühling und Herbst sind die übliche Zeit für Samarkand, Buchara und Chiwa",
+      "Im Sommer ist es in den Wüstenstädten heiß, Besichtigungen beginnen früh"
+    ],
+    "fr": [
+      "Le printemps et l’automne sont la saison habituelle pour Samarcande, Boukhara et Khiva",
+      "L’été, il fait chaud dans les villes du désert et les visites commencent tôt"
+    ],
+    "ja": [
+      "サマルカンド、ブハラ、ヒヴァは、春と秋が一般的なシーズンです",
+      "夏の砂漠の町は暑いため、観光は朝早くから始めます"
+    ],
+    "es": [
+      "La primavera y el otoño son la temporada habitual para Samarcanda, Bujará y Jiva",
+      "En verano hace calor en las ciudades del desierto y las visitas empiezan temprano"
+    ],
+    "zh": [
+      "春季和秋季是游览撒马尔罕、布哈拉和希瓦的常规季节",
+      "沙漠城市夏季炎热，观光行程提前开始"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Samarkand: Registan, Gur-e Amir, Bibi-Khanym and Shah-i-Zinda",
+      "Bukhara: Lyabi-Hauz, Po-i-Kalyan, the Ark Citadel and a plov master class",
+      "Khiva: Ichan-Kala, a UNESCO World Heritage Site",
+      "Tashkent: Khast-Imam Square, Chorsu Bazaar and the Metro",
+      "The drive across the Kyzyl-Kum Desert along the Amudarya"
+    ],
+    "de": [
+      "Samarkand: Registan, Gur-Emir, Bibi-Chanym und Schah-i-Sinda",
+      "Buchara: Labi-Hauz, Po-i-Kalyan, die Zitadelle Ark und ein Plov-Kochkurs",
+      "Chiwa: Itchan Kala, UNESCO-Welterbe",
+      "Taschkent: Khast-Imam-Platz, Chorsu-Basar und die Metro",
+      "Die Fahrt durch die Kysylkum entlang des Amudarja"
+    ],
+    "fr": [
+      "Samarcande : Registan, Gour-Emir, Bibi-Khanym et Chah-i-Zinda",
+      "Boukhara : Lyabi-Khaouz, Po-i-Kalyan, la citadelle de l’Arche et un atelier de plov",
+      "Khiva : Itchan Kala, patrimoine mondial de l’UNESCO",
+      "Tachkent : place Khast-Imam, bazar Chorsu et métro",
+      "La route du Kyzylkoum le long de l’Amou-Daria"
+    ],
+    "ja": [
+      "サマルカンド：レギスタン広場、グーリ・アミール廟、ビビ・ハニム・モスク、シャーヒ・ズィンダ廟群",
+      "ブハラ：ラビハウズ、ポイ・カラーン、アルク城、プロフの料理教室",
+      "ヒヴァ：ユネスコ世界遺産のイチャン・カラ",
+      "タシケント：ハスト・イマーム広場、チョルスー・バザール、地下鉄",
+      "アムダリヤ川沿いにキジルクム砂漠を越えるドライブ"
+    ],
+    "es": [
+      "Samarcanda: Registán, Gur-e Amir, Bibi-Khanym y Shah-i-Zinda",
+      "Bujará: Lyabi-Hauz, Po-i-Kalyan, la ciudadela del Ark y un taller de plov",
+      "Jiva: Itchan Kala, Patrimonio de la Humanidad de la UNESCO",
+      "Taskent: plaza Khast-Imam, bazar Chorsu y el metro",
+      "La carretera del Kyzylkum junto al Amu Daria"
+    ],
+    "zh": [
+      "撒马尔罕：雷吉斯坦广场、古尔-阿米尔陵墓、比比哈努姆清真寺和沙希-津达陵墓群",
+      "布哈拉：利亚比-豪兹广场、波伊-卡良建筑群、阿克城堡和抓饭烹饪课程",
+      "希瓦：伊坎-卡拉，联合国教科文组织世界遗产",
+      "塔什干：哈斯蒂-伊玛目广场、乔尔苏集市和地铁",
+      "穿越克孜勒库姆沙漠沿阿姆河的驾车之旅"
+    ]
+  },
+  "visaNote": {
+    "en": "Entry rules depend on your passport and can change, so please check the official government sources before you book. Our tours reach Uzbekistan by air from Bishkek or by land from Tajikistan.",
+    "de": "Die Einreisebestimmungen hängen von Ihrem Pass ab und können sich ändern; bitte prüfen Sie vor der Buchung die offiziellen Quellen. Unsere Reisen kommen per Flug aus Bischkek oder auf dem Landweg aus Tadschikistan nach Usbekistan.",
+    "fr": "Les conditions d’entrée dépendent de votre passeport et peuvent changer ; vérifiez les sources officielles avant de réserver. Nos circuits arrivent en Ouzbékistan par avion depuis Bichkek ou par la route depuis le Tadjikistan.",
+    "ja": "入国条件はお持ちのパスポートによって異なり、変更されることもあります。ご予約前に公式の情報をご確認ください。私たちのツアーは、空路でビシュケクから、または陸路でタジキスタンからウズベキスタンに入ります。",
+    "es": "Los requisitos de entrada dependen de su pasaporte y pueden cambiar; consulte las fuentes oficiales antes de reservar. Nuestros viajes llegan a Uzbekistán en avión desde Biskek o por tierra desde Tayikistán.",
+    "zh": "入境规则取决于您的护照，且可能会发生变化，请在预订前查阅官方政府信息。我们的旅程从比什凯克乘飞机抵达乌兹别克斯坦，或从塔吉克斯坦陆路抵达。"
+  },
+  "heroGradient": [
+    "#1F5C7A",
+    "#1C2430"
+  ],
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400032/sunday-atlas/registan-square-in-samarkand-uzbekistan-35220187_hm4jth.jpg",
+    "width": 1920,
+    "height": 1280,
+    "alt": {
+      "en": "Registan Square in Samarkand, Uzbekistan, with its three madrasahs",
+      "de": "Registan in Samarkand, Usbekistan, mit seinen drei Medresen",
+      "fr": "Place du Registan à Samarcande, Ouzbékistan, et ses trois médersas",
+      "ja": "サマルカンドのレギスタン広場と3つのメドレセ（ウズベキスタン）",
+      "es": "Plaza del Registán en Samarcanda, Uzbekistán, con sus tres madrasas",
+      "zh": "乌兹别克斯坦撒马尔罕的雷吉斯坦广场，有三座伊斯兰学校"
+    }
+  },
+  "sample": false,
+  "published": true,
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400032/sunday-atlas/registan-square-in-samarkand-uzbekistan-35220187_hm4jth.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Registan Square in Samarkand, Uzbekistan, with its three madrasahs",
+        "de": "Registan in Samarkand, Usbekistan, mit seinen drei Medresen",
+        "fr": "Place du Registan à Samarcande, Ouzbékistan, et ses trois médersas",
+        "ja": "サマルカンドのレギスタン広場と3つのメドレセ（ウズベキスタン）",
+        "es": "Plaza del Registán en Samarcanda, Uzbekistán, con sus tres madrasas",
+        "zh": "乌兹别克斯坦撒马尔罕的雷吉斯坦广场，有三座伊斯兰学校"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400027/sunday-atlas/illuminated-registan-square-at-night-19439122_kfzhaf.jpg",
+        "width": 1920,
+        "height": 1188
+      },
+      "alt": {
+        "en": "Registan Square in Samarkand, Uzbekistan, illuminated at night",
+        "de": "Registan in Samarkand, Usbekistan, bei Nacht beleuchtet",
+        "fr": "Place du Registan à Samarcande, Ouzbékistan, illuminée la nuit",
+        "ja": "夜にライトアップされたサマルカンドのレギスタン広場（ウズベキスタン）",
+        "es": "Plaza del Registán en Samarcanda, Uzbekistán, iluminada de noche",
+        "zh": "乌兹别克斯坦撒马尔罕的雷吉斯坦广场，夜晚灯光璀璨"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400024/sunday-atlas/shah-i-zinda-in-samarkand-16681661_dpy6zx.jpg",
+        "width": 1920,
+        "height": 2880
+      },
+      "alt": {
+        "en": "Blue-tiled mausoleums of the Shah-i-Zinda Necropolis, Samarkand, Uzbekistan",
+        "de": "Blau geflieste Mausoleen der Nekropole Schah-i-Sinda, Samarkand, Usbekistan",
+        "fr": "Mausolées aux faïences bleues de la nécropole de Chah-i-Zinda, Samarcande, Ouzbékistan",
+        "ja": "サマルカンド、シャーヒ・ズィンダ廟群の青いタイルの霊廟（ウズベキスタン）",
+        "es": "Mausoleos de azulejos azules de la necrópolis de Shah-i-Zinda, Samarcanda, Uzbekistán",
+        "zh": "乌兹别克斯坦撒马尔罕沙希-津达陵墓群的蓝色陵墓"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400030/sunday-atlas/majestic-gur-e-amir-mausoleum-in-samarkand-33403700_qgc86d.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Gur-e Amir Mausoleum in Samarkand, Uzbekistan, with its ribbed turquoise dome",
+        "de": "Gur-Emir-Mausoleum in Samarkand, Usbekistan, mit gerippter türkisfarbener Kuppel",
+        "fr": "Mausolée Gour-Emir à Samarcande, Ouzbékistan, et sa coupole turquoise côtelée",
+        "ja": "サマルカンドのグーリ・アミール廟とターコイズ色のドーム（ウズベキスタン）",
+        "es": "Mausoleo Gur-e Amir en Samarcanda, Uzbekistán, con su cúpula turquesa acanalada",
+        "zh": "乌兹别克斯坦撒马尔罕古尔-阿米尔陵墓，有肋状的绿松石色圆顶"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400039/sunday-atlas/historic-kalyan-minaret-in-bukhara-uzbekistan-39976642_zympld.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Kalyan Minaret of the Po-i-Kalyan Complex in Bukhara, Uzbekistan",
+        "de": "Kalon-Minarett des Po-i-Kalyan-Ensembles in Buchara, Usbekistan",
+        "fr": "Minaret Kalyan de l’ensemble Po-i-Kalyan à Boukhara, Ouzbékistan",
+        "ja": "ブハラ、ポイ・カラーン建築群のカラーン・ミナレット（ウズベキスタン）",
+        "es": "Minarete Kalyan del conjunto Po-i-Kalyan en Bujará, Uzbekistán",
+        "zh": "乌兹别克斯坦布哈拉波伊-卡良建筑群的卡良宣礼塔"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400031/sunday-atlas/stunning-facade-of-mir-i-arab-madrasa-in-bukhara-34407733_tsds9v.jpg",
+        "width": 1920,
+        "height": 2880
+      },
+      "alt": {
+        "en": "Facade of the Mir-i-Arab Madrasa in Bukhara, Uzbekistan",
+        "de": "Fassade der Mir-i-Arab-Medrese in Buchara, Usbekistan",
+        "fr": "Façade de la médersa Mir-i-Arab à Boukhara, Ouzbékistan",
+        "ja": "ブハラのミル・アラブ・メドレセのファサード（ウズベキスタン）",
+        "es": "Fachada de la madrasa Mir-i-Arab en Bujará, Uzbekistán",
+        "zh": "乌兹别克斯坦布哈拉米尔-阿拉伯伊斯兰学校的正面"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400027/sunday-atlas/wall-of-itchan-kala-castle-in-khiva-in-uzbekistan-19473609_pplfge.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Walls of Ichan-Kala in Khiva, Uzbekistan",
+        "de": "Mauern von Itchan Kala in Chiwa, Usbekistan",
+        "fr": "Remparts d’Itchan Kala à Khiva, Ouzbékistan",
+        "ja": "ヒヴァのイチャン・カラの城壁（ウズベキスタン）",
+        "es": "Murallas de Itchan Kala en Jiva, Uzbekistán",
+        "zh": "乌兹别克斯坦希瓦伊坎-卡拉的城墙"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400024/sunday-atlas/kalta-minor-minaret-in-khiva-in-uzbekistan-16804532_rbqatc.jpg",
+        "width": 1920,
+        "height": 3413
+      },
+      "alt": {
+        "en": "Kalta Minor Minaret in Ichan-Kala, Khiva, Uzbekistan",
+        "de": "Minarett Kalta Minor in Itchan Kala, Chiwa, Usbekistan",
+        "fr": "Minaret Kalta Minor à Itchan Kala, Khiva, Ouzbékistan",
+        "ja": "ヒヴァ、イチャン・カラのカルタ・ミナル（ウズベキスタン）",
+        "es": "Minarete Kalta Minor en Itchan Kala, Jiva, Uzbekistán",
+        "zh": "乌兹别克斯坦希瓦伊坎-卡拉的卡尔塔米诺尔宣礼塔"
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Uzbekistan Tours & Day Trips [2027] | 6 Itineraries From $125",
+      "meta_description": "Compare 6 private Uzbekistan tours & Tashkent day trips (From $125 USD): Samarkand by Afrosiyob bullet train, Bukhara, Khiva & Chimgan Mountains. Personal quote by email.",
+      "focus_keyword": "uzbekistan tours",
+      "keywords": [
+        "uzbekistan tours",
+        "uzbekistan tour packages",
+        "samarkand day tour from tashkent",
+        "uzbekistan travel guide",
+        "silk road tours uzbekistan",
+        "chimgan mountains day trip"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "Usbekistan Rundreisen & Tagestouren [2027] | 6 Touren ab $125",
+      "meta_description": "6 private Usbekistan-Rundreisen & Ausflüge ab Taschkent (ab $125 USD): Samarkand per Afrosiyob-Schnellzug, Buchara, Chiwa & Tschimgan-Gebirge. Persönliches Angebot per E-Mail.",
+      "focus_keyword": "usbekistan rundreise",
+      "keywords": [
+        "usbekistan rundreise",
+        "usbekistan reisen",
+        "samarkand tagestour ab taschkent",
+        "seidenstraße rundreise usbekistan",
+        "usbekistan beste reisezeit"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuits Ouzbékistan & Excursions [2027] | 6 Tours dès $125",
+      "meta_description": "Comparez 6 circuits privés et excursions en Ouzbékistan (dès $125 USD) : Samarcande en TGV Afrosiyob, Boukhara, Khiva et monts Tchimgan. Devis personnel par e-mail.",
+      "focus_keyword": "circuit ouzbékistan",
+      "keywords": [
+        "circuit ouzbékistan",
+        "voyage ouzbékistan",
+        "excursion samarcande depuis tachkent",
+        "route de la soie ouzbékistan",
+        "guide voyage ouzbékistan"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "ウズベキスタン現地ツアー＆日帰り旅行 [2027] | 全6コース $125〜",
+      "meta_description": "ウズベキスタンのプライベートツアー＆タシケント発日帰り旅行全6コース（$125〜）：アフロシャブ高速鉄道で行くサマルカンド、ブハラ、ヒヴァ、チムガン山脈。個別見積もり。",
+      "focus_keyword": "ウズベキスタン ツアー",
+      "keywords": [
+        "ウズベキスタン ツアー",
+        "サマルカンド 日帰りツアー",
+        "ウズベキスタン 旅行 費用",
+        "タシケント 現地ツアー",
+        "シルクロード ツアー"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tours a Uzbekistán y Excursiones [2027] | 6 Rutas Desde $125",
+      "meta_description": "Compare 6 tours privados y excursiones en Uzbekistán (desde $125 USD): Samarcanda en tren bala Afrosiyob, Bujará, Jiva y montes Chimgan. Presupuesto personal por correo.",
+      "focus_keyword": "tours uzbekistán",
+      "keywords": [
+        "tours uzbekistán",
+        "viajes a uzbekistán",
+        "excursión a samarcanda desde taskent",
+        "circuitos ruta de la seda uzbekistán",
+        "qué ver en uzbekistán"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "zh": {
+      "seo_title": "乌兹别克斯坦旅游及一日游 [2027] | 6条行程 起价 $125",
+      "meta_description": "对比6条私人乌兹别克斯坦旅游线路及塔什干一日游（起价 $125 USD）：乘阿弗罗西亚布高铁前往撒马尔罕，游览布哈拉、希瓦和奇姆干山脉。通过电邮获取个人报价。",
+      "focus_keyword": "乌兹别克斯坦旅游团 2027",
+      "keywords": [
+        "乌兹别克斯坦旅游团 2027",
+        "乌兹别克斯坦私人旅游",
+        "塔什干一日游",
+        "撒马尔罕 阿弗罗西阿布 高铁",
+        "布哈拉 希瓦 旅游",
+        "奇姆根山 旅游",
+        "乌兹别克斯坦行程 6天",
+        "乌兹别克斯坦旅游报价"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "intro": {
+    "en": "Uzbekistan holds the great Silk Road cities, and each of our three tours includes an Uzbekistan tour of about a week. In Tashkent we see Khast-Imam Square, Chorsu Bazaar and the Metro. Samarkand has Registan Square with the Ulugbek, Sher-Dor and Tilla-Qori madrasahs, the Gur-e Amir Mausoleum, the Bibi-Khanym Mosque and the Shah-i-Zinda Necropolis. In Bukhara we walk from Lyabi-Hauz to the Po-i-Kalyan Complex and the Ark Citadel and cook plov with a local family. Khiva’s walled inner city, Ichan-Kala, is a UNESCO World Heritage Site, reached by a 460 km drive across the Kyzyl-Kum Desert.",
+    "de": "In Usbekistan liegen die großen Städte der Seidenstraße, und alle drei unserer Reisen enthalten eine Usbekistan Rundreise von etwa einer Woche. In Taschkent sehen wir den Khast-Imam-Platz, den Chorsu-Basar und die Metro. Samarkand hat den Registan mit den Medresen Ulugbek, Scher-Dor und Tilla-Kori, das Gur-Emir-Mausoleum, die Bibi-Chanym-Moschee und die Nekropole Schah-i-Sinda. In Buchara gehen wir vom Labi-Hauz zum Po-i-Kalyan-Ensemble und zur Zitadelle Ark und kochen Plov mit einer Familie. Chiwas ummauerte Innenstadt Itchan Kala ist UNESCO-Welterbe und liegt 460 km Fahrt durch die Wüste Kysylkum entfernt.",
+    "fr": "L’Ouzbékistan abrite les grandes villes de la Route de la soie, et chacun de nos voyages comprend un circuit en Ouzbékistan d’environ une semaine. À Tachkent, nous voyons la place Khast-Imam, le bazar Chorsu et le métro. Samarcande a le Registan et ses médersas Oulough Beg, Cher-Dor et Tilla-Kari, le mausolée Gour-Emir, la mosquée Bibi-Khanym et la nécropole de Chah-i-Zinda. À Boukhara, nous allons de Lyabi-Khaouz à l’ensemble Po-i-Kalyan et à la citadelle de l’Arche, et cuisinons le plov avec une famille. Itchan Kala, la ville intérieure fortifiée de Khiva, est inscrite au patrimoine mondial de l’UNESCO ; on l’atteint après 460 km de route à travers le Kyzylkoum.",
+    "ja": "ウズベキスタンにはシルクロードの大都市が集まり、私たちの3つのツアーにはどれも約1週間のウズベキスタンツアーが含まれます。タシケントではハスト・イマーム広場、チョルスー・バザール、地下鉄。サマルカンドにはウルグベク、シェルドル、ティラカリのメドレセが並ぶレギスタン広場、グーリ・アミール廟、ビビ・ハニム・モスク、シャーヒ・ズィンダ廟群があります。ブハラではラビハウズからポイ・カラーン建築群、アルク城へと歩き、地元の家庭でプロフを作ります。ヒヴァの城壁内の町イチャン・カラはユネスコ世界遺産で、キジルクム砂漠を460km走って到着します。",
+    "es": "Uzbekistán guarda las grandes ciudades de la Ruta de la Seda, y nuestros tres viajes incluyen un viaje a Uzbekistán de cerca de una semana. En Taskent vemos la plaza Khast-Imam, el bazar Chorsu y el metro. Samarcanda tiene el Registán con las madrasas de Ulugbek, Sher-Dor y Tilla-Kori, el mausoleo Gur-e Amir, la mezquita de Bibi-Khanym y la necrópolis de Shah-i-Zinda. En Bujará vamos de Lyabi-Hauz al conjunto Po-i-Kalyan y a la ciudadela del Ark, y cocinamos plov con una familia. Itchan Kala, la ciudad interior amurallada de Jiva, es Patrimonio de la Humanidad de la UNESCO; se llega tras 460 km de carretera por el Kyzylkum.",
+    "zh": "乌兹别克斯坦拥有伟大的丝绸之路古城，我们三个旅程中的每一个都包含大约一周的乌兹别克斯坦之旅。在塔什干，我们参观哈斯蒂-伊玛目广场、乔尔苏集市和地铁。撒马尔罕拥有雷吉斯坦广场，有乌鲁格别克、舍尔多尔和蒂拉-科里伊斯兰学校，还有古尔-阿米尔陵墓、比比哈努姆清真寺和沙希-津达陵墓群。在布哈拉，我们从利亚比-豪兹广场步行到波伊-卡良建筑群和阿克城堡，并与当地家庭一起烹饪抓饭。希瓦的围墙内城伊坎-卡拉是联合国教科文组织世界遗产，需要驱车460公里穿越克孜勒库姆沙漠才能抵达。"
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How many days in Uzbekistan do the tours include?",
+        "de": "Wie viele Tage in Usbekistan enthalten die Reisen?",
+        "fr": "Combien de jours en Ouzbékistan ?",
+        "ja": "ウズベキスタンには何日滞在しますか？",
+        "es": "¿Cuántos días en Uzbekistán incluyen los viajes?",
+        "zh": "旅程在乌兹别克斯坦包含多少天？"
+      },
+      "a": {
+        "en": "The 3 Stans Discovery spends Days 7–14 in Uzbekistan, the Four Stans Odyssey Days 7–9 and 11–18, and the Long Road Through the 5 Stans Days 12–19, each with Tashkent, Samarkand, Bukhara and Khiva.",
+        "de": "3 Stans Discovery verbringt die Tage 7–14 in Usbekistan, Four Stans Odyssey die Tage 7–9 und 11–18, Der lange Weg durch die 5 Stans die Tage 12–19, jeweils mit Taschkent, Samarkand, Buchara und Chiwa.",
+        "fr": "3 Stans Discovery passe les jours 7 à 14 en Ouzbékistan, Four Stans Odyssey les jours 7 à 9 et 11 à 18, et La longue route à travers les 5 Stans les jours 12 à 19, chaque fois avec Tachkent, Samarcande, Boukhara et Khiva.",
+        "ja": "3スタン・ディスカバリーは7～14日目、フォー・スタンズ・オデッセイは7～9日目と11～18日目、「5つのスタンを巡る長い道」は12～19日目をウズベキスタンで過ごし、いずれもタシケント、サマルカンド、ブハラ、ヒヴァを訪れます。",
+        "es": "3 Stans Discovery pasa los días 7 a 14 en Uzbekistán, Four Stans Odyssey los días 7 a 9 y 11 a 18, y El largo camino por los 5 Stans los días 12 a 19, siempre con Taskent, Samarcanda, Bujará y Jiva.",
+        "zh": "3 Stans Discovery在第7至14天在乌兹别克斯坦，Four Stans Odyssey在第7至9天和第11至18天，Long Road Through the 5 Stans在第12至19天，每个行程都包括塔什干、撒马尔罕、布哈拉和希瓦。"
+      }
+    },
+    {
+      "q": {
+        "en": "How do we travel between the Silk Road cities?",
+        "de": "Wie reisen wir zwischen den Seidenstraßenstädten?",
+        "fr": "Comment se déplace-t-on entre les villes de la Route de la soie ?",
+        "ja": "シルクロードの町の間はどう移動しますか？",
+        "es": "¿Cómo viajamos entre las ciudades de la Ruta de la Seda?",
+        "zh": "我们如何在丝绸之路古城之间旅行？"
+      },
+      "a": {
+        "en": "By train from Tashkent to Samarkand (3 Stans and 5 Stans) or from Samarkand to Bukhara (Four Stans), by road for the other legs, and on the 3 Stans and Four Stans tours by flight from Urgench, near Khiva, back to Tashkent.",
+        "de": "Mit dem Zug von Taschkent nach Samarkand (3 Stans und 5 Stans) oder von Samarkand nach Buchara (Four Stans), auf der Straße für die übrigen Etappen und bei 3 Stans und Four Stans mit dem Flug von Urgentsch bei Chiwa zurück nach Taschkent.",
+        "fr": "En train de Tachkent à Samarcande (3 Stans et 5 Stans) ou de Samarcande à Boukhara (Four Stans), par la route pour les autres étapes, et sur les circuits 3 Stans et Four Stans en avion d’Ourguentch, près de Khiva, jusqu’à Tachkent.",
+        "ja": "タシケント～サマルカンド（3スタンと5スタン）またはサマルカンド～ブハラ（フォー・スタンズ）は列車、そのほかの区間は陸路です。3スタンとフォー・スタンズでは、ヒヴァ近くのウルゲンチからタシケントへ飛行機で戻ります。",
+        "es": "En tren de Taskent a Samarcanda (3 Stans y 5 Stans) o de Samarcanda a Bujará (Four Stans), por carretera en los demás tramos y, en los viajes 3 Stans y Four Stans, en avión desde Urgench, cerca de Jiva, hasta Taskent.",
+        "zh": "从塔什干乘火车到撒马尔罕（3 Stans和5 Stans），或从撒马尔罕乘火车到布哈拉（Four Stans），其他路段乘车，3 Stans和Four Stans旅程还从靠近希瓦的乌尔根奇乘飞机返回塔什干。"
+      }
+    },
+    {
+      "q": {
+        "en": "Is there a cooking class?",
+        "de": "Gibt es einen Kochkurs?",
+        "fr": "Y a-t-il un cours de cuisine ?",
+        "ja": "料理教室はありますか？",
+        "es": "¿Hay clase de cocina?",
+        "zh": "是否有烹饪课？"
+      },
+      "a": {
+        "en": "Yes. In Bukhara a local family welcomes us for a plov master class and dinner on all three tours.",
+        "de": "Ja. In Buchara empfängt uns auf allen drei Reisen eine Familie zu einem Plov-Kochkurs mit Abendessen.",
+        "fr": "Oui. À Boukhara, une famille nous reçoit pour un atelier de plov et un dîner, sur les trois circuits.",
+        "ja": "はい。3つのツアーすべてで、ブハラの家庭でプロフ作りの料理教室と夕食があります。",
+        "es": "Sí. En Bujará, una familia nos recibe para un taller de plov y una cena en los tres viajes.",
+        "zh": "是的。在布哈拉，所有三条线路都有当地家庭欢迎我们参加普洛夫烹饪大师课及晚餐。"
+      }
+    }
+  ],
+  "headings": {
+    "h1": {
+      "en": "Uzbekistan tours: Samarkand, Bukhara and Khiva on the Silk Road",
+      "de": "Usbekistan Rundreise: Samarkand, Buchara und Chiwa an der Seidenstraße",
+      "fr": "Circuit en Ouzbékistan : Samarcande, Boukhara et Khiva sur la Route de la soie",
+      "ja": "ウズベキスタン ツアー：シルクロードのサマルカンド、ブハラ、ヒヴァ",
+      "es": "Viaje a Uzbekistán: Samarcanda, Bujará y Jiva en la Ruta de la Seda",
+      "zh": "乌兹别克斯坦旅游：丝绸之路上的撒马尔罕、布哈拉和希瓦"
+    },
+    "seasons": {
+      "en": "Best time to visit Uzbekistan",
+      "de": "Beste Reisezeit für Usbekistan",
+      "fr": "Meilleure période pour voyager en Ouzbékistan",
+      "ja": "ウズベキスタン旅行のベストシーズン",
+      "es": "Mejor época para viajar a Uzbekistán",
+      "zh": "最佳旅游时间：乌兹别克斯坦"
+    },
+    "highlights": {
+      "en": "Uzbekistan highlights on our tours",
+      "de": "Usbekistan Highlights unserer Reisen",
+      "fr": "L’Ouzbékistan de nos circuits : les temps forts",
+      "ja": "ツアーで訪れるウズベキスタンの見どころ",
+      "es": "Circuito Uzbekistán: lo mejor en nuestros viajes",
+      "zh": "我们旅游线路上的乌兹别克斯坦亮点"
+    },
+    "faq": {
+      "en": "Uzbekistan travel: common questions",
+      "de": "Usbekistan Reise: häufige Fragen",
+      "fr": "Voyage en Ouzbékistan : questions fréquentes",
+      "ja": "ウズベキスタン旅行：よくある質問",
+      "es": "Viaje a Uzbekistán: preguntas frecuentes",
+      "zh": "乌兹别克斯坦旅游：常见问题"
+    },
+    "packages": {
+      "en": "Uzbekistan tours",
+      "de": "Usbekistan Rundreisen",
+      "fr": "Circuits en Ouzbékistan",
+      "ja": "ウズベキスタンを巡るツアー",
+      "es": "Viajes a Uzbekistán",
+      "zh": "乌兹别克斯坦旅游线路"
+    }
+  }
+}

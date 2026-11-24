@@ -1,0 +1,38 @@
+# Sends one notification email per saved trip inquiry.
+# Called only through the Pages service binding INQUIRY_MAIL (no public route,
+# no workers.dev URL). Deploy by hand from this folder:
+#   CLOUDFLARE_ACCOUNT_ID=... npx wrangler@4 deploy
+name = "sunday-atlas-inquiry-mail"
+main = "worker.js"
+compatibility_date = "2026-10-15"
+workers_dev = false
+preview_urls = false
+
+[[send_email]]
+name = "EMAIL"
+# destination_address must be a verified Cloudflare Email Routing destination.
+destination_address = "contact@sundayatlastravel.com"
+allowed_sender_addresses = ["inquiries@sundayatlastravel.com"]
+
+# Customer acknowledgement only. Any recipient; From locked to contact@.
+# Reachable only through the Pages service binding (no public route).
+# Deploy this worker before the Pages function that sends ack payloads.
+# This task does not deploy. Production ack works only after both deploys.
+# Pages CI (.github/workflows/deploy-pages.yml) deploys functions on push to
+# main and does not deploy workers/inquiry-mail. Deploy the worker by hand
+# from workers/inquiry-mail: npx wrangler@4 deploy (wrangler 3 ignores
+# allowed_sender_addresses). Do that immediately after merge, before or while
+# the Pages deploy runs. Until that worker deploy, the live worker ignores
+# to / from / html. An ack POST still has subject and text, so the old worker
+# would send the acknowledgement text to contact@sundayatlastravel.com from inquiries@.
+# Team notification itself is unchanged. Deploying the worker first is safe:
+# omitted fields still mean team mail, and no ack is sent until the new Pages
+# function is live. Do not add a Brevo secret. Do not change dashboard Email
+# Routing by hand for this task. Do not add an addresses list (that would
+# create inbound routing rules on deploy).
+[[send_email]]
+name = "EMAIL_ACK"
+allowed_sender_addresses = ["contact@sundayatlastravel.com"]
+
+[observability]
+enabled = true

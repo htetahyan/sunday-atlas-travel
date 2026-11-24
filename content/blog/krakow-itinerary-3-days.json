@@ -1,0 +1,1190 @@
+{
+  "slug": "krakow-itinerary-3-days",
+  "published": true,
+  "featured": false,
+  "category": "destination-guide",
+  "destination": "poland",
+  "countries": [],
+  "publishedAt": "2026-11-05T23:00:11+04:00",
+  "updatedAt": "2026-11-05T23:00:11+04:00",
+  "readingTimeMinutes": 12,
+  "relatedPackages": [
+    "krakow-jura-outdoor-7-days",
+    "krakow-katowice-beskids-active-winter-9-days",
+    "krakow-zakopane-winter-7-days",
+    "learn-to-ski-poland-beskid-mountains-9-days"
+  ],
+  "title": {
+    "en": "Krakow Itinerary 3 Days: Old Town & Kazimierz (2027)",
+    "de": "Krakau-Reiseplan 3 Tage: Altstadt & Kazimierz (2027)",
+    "fr": "Itinéraire à Cracovie 3 jours : Vieille Ville et Kazimierz (2027)",
+    "ja": "クラクフ 3日間プラン：旧市街とカジミェシュ（2027年）",
+    "es": "Itinerario de Cracovia 3 días: Ciudad Vieja y Kazimierz (2027)"
+  },
+  "subtitle": {
+    "en": "Day-by-day plan with drive times, where to stay and best months for 2027",
+    "de": "Tagesplan mit Fahrzeiten, Unterkünften und besten Reisezeiten für 2027",
+    "fr": "Plan jour après jour avec temps de trajet, hébergements et meilleures périodes pour 2027",
+    "ja": "2027年の日程別プラン。所要時間、宿泊先、ベストシーズンをご案内します。",
+    "es": "Plan día a día con tiempos de traslado, dónde alojarse y los mejores meses para 2027"
+  },
+  "summary": {
+    "en": "A practical 3-day Kraków route covering Wawel Castle, the Jewish quarter, the salt mine and a day trip to the Polish Jura, with realistic travel times and hotel zones.",
+    "de": "Eine praktische 3-tägige Krakau-Route, die das Wawel-Schloss, das jüdische Viertel, die Salzbergwerke und einen Tagesausflug in die polnische Jura abdeckt, mit realistischen Reisezeiten und Hotelzonen.",
+    "fr": "Un itinéraire pratique de 3 jours à Cracovie couvrant le château de Wawel, le quartier juif, la mine de sel et une excursion dans le Jura polonais, avec des temps de trajet réalistes et des zones d'hébergement.",
+    "ja": "クラクフのワヴェル城、ユダヤ人地区、塩坑、ポーランド・ジュラ地方への日帰り旅行を網羅した、現実的な移動時間とホテルエリアを盛り込んだ実用的な3日間ルートです。",
+    "es": "Una ruta práctica de 3 días por Cracovia que cubre el Castillo de Wawel, el barrio judío, la mina de sal y una excursión al Jura polaco, con tiempos de viaje realistas y zonas hoteleras."
+  },
+  "intro": {
+    "en": "A krakow itinerary 3 days covers the Old Town, Kazimierz and a half-day trip to the Wieliczka Salt Mine, with an optional day in Ojców National Park, best from April to October. This post breaks each day into start and end points, main stops in order, realistic drive or train times and where to sleep, plus the Sunday Atlas tour that runs a longer version of this route.",
+    "de": "Ein Krakau-Reiseplan für 3 Tage umfasst die Altstadt, Kazimierz und einen halbtägigen Ausflug zur Salzgrube Wieliczka, mit einem optionalen Tag im Nationalpark Ojców, am besten von April bis Oktober. Dieser Beitrag unterteilt jeden Tag in Start- und Endpunkte, die wichtigsten Stopps in der richtigen Reihenfolge, realistische Fahr- oder Zugzeiten und Übernachtungsmöglichkeiten, plus die Sunday Atlas Tour, die eine längere Version dieser Route anbietet.",
+    "fr": "Un itinéraire de 3 jours à Cracovie couvre la Vieille Ville, Kazimierz et une demi-journée à la mine de sel de Wieliczka, avec une journée optionnelle dans le parc national d'Ojców, idéale d'avril à octobre. Cet article détaille chaque jour avec les points de départ et d'arrivée, les arrêts principaux dans l'ordre, les temps de trajet réalistes en voiture ou en train et où dormir, ainsi que le circuit Sunday Atlas qui propose une version plus longue de cet itinéraire.",
+    "ja": "クラクフ3日間の旅程は、旧市街とカジミェシュ、そしてヴィエリチカ塩鉱山への半日旅行をカバーし、オプションでオジェツ国立公園での1日を追加できます。ベストシーズンは4月から10月です。この記事では、各日の出発地と到着地、主な立ち寄り先の順序、現実的な移動時間、宿泊先、そしてこのルートの長いバージョンを運行するサンデー・アトラス・トラベルのツアーについてご紹介します。",
+    "es": "Un itinerario de Cracovia de 3 días cubre la Ciudad Vieja, Kazimierz y una excursión de medio día a la Mina de Sal de Wieliczka, con un día opcional en el Parque Nacional de Ojców, ideal de abril a octubre. Esta publicación desglosa cada día en puntos de inicio y final, paradas principales en orden, tiempos realistas de traslado en coche o tren y dónde dormir, además del tour de Sunday Atlas Travel que ofrece una versión más larga de esta ruta."
+  },
+  "heroImage": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793905138/sunday-atlas/blog/krakow-itinerary-3-days/krakow-commons-35396133.jpg",
+    "width": 1920,
+    "height": 1133,
+    "alt": {
+      "en": "Illuminated arched gateways of a historic building in Krakow, Poland at night.",
+      "de": "Erleuchtete bogenförmige Tore eines historischen Gebäudes in Krakau, Polen, bei Nacht.",
+      "fr": "Portes voûtées illuminées d'un bâtiment historique à Cracovie, en Pologne, de nuit.",
+      "ja": "夜のポーランド、クラクフにある歴史的建造物のライトアップされたアーチ型の門。",
+      "es": "Puertas arqueadas iluminadas de un edificio histórico en Cracovia, Polonia, de noche."
+    },
+    "credit": {
+      "author": "Jar.ciurus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krakow-_Collegium_Novum-_brama_wejsciowa_02.jpg",
+      "provider": "commons",
+      "required": true
+    }
+  },
+  "sections": [
+    {
+      "id": "day-1-old-town-wawel-kazimierz",
+      "placeName": {
+        "en": "Kraków Old Town",
+        "de": "Krakauer Altstadt",
+        "fr": "Vieille Ville de Cracovie",
+        "ja": "クラクフ旧市街",
+        "es": "Ciudad Vieja de Cracovia"
+      },
+      "heading": {
+        "en": "Day 1: Kraków Old Town, Wawel Castle and Kazimierz",
+        "de": "Tag 1: Krakauer Altstadt, Wawel-Schloss und Kazimierz",
+        "fr": "Jour 1 : Vieille Ville de Cracovie, château de Wawel et Kazimierz",
+        "ja": "1日目：クラクフ旧市街、ヴァヴェル城、カジミェシュ",
+        "es": "Día 1: Ciudad Vieja de Cracovia, Castillo de Wawel y Kazimierz"
+      },
+      "paragraphs": {
+        "en": [
+          "Start Day 1 by walking the Royal Route from St Florian's Gate to Wawel Castle, a 1.2 km stretch that takes about 20 minutes without stops. The route passes the Main Market Square, where St Mary's Basilica opens daily from 11:30 am to 6 pm except during services. Climb the basilica tower for a view over the square and the Vistula River. Wawel Castle's State Rooms and Crown Treasury open at 9:30 am from April to October, with shorter hours in winter. Allow at least two hours for the castle complex before lunch.",
+          "After Wawel, cross the Vistula via the Bernatka Footbridge, a 5-minute walk that leads into Kazimierz, the former Jewish quarter. The district's synagogues, including the 16th-century Old Synagogue on Szeroka Street, open from 10 am to 4 pm in winter and until 6 pm in summer. Spend the afternoon exploring the cobblestone streets, independent galleries and courtyard cafés. Dinner in Kazimierz works well from 7 pm onward, when the area fills with locals and visitors.",
+          "If you arrive by train, Kraków Główny station sits 1 km north of the Old Town, a 12-minute walk or a 5-minute taxi ride. The airport is 14 km west of the centre; a private transfer takes about 30 minutes in normal traffic. Our 7-day Jura tour begins with this same Day 1 programme before transferring to the countryside on Day 2. Late November to December adds Christmas market stalls across the Main Square, extending evening hours.",
+          "Wear comfortable shoes for the cobblestones and uneven castle courtyards. Carry a light rain jacket in spring and autumn, when showers are frequent. In winter, daylight ends around 3:30 pm, so start the Royal Route by 10 am to finish Wawel before dusk. Most sites accept card payments, but small cafés in Kazimierz may prefer cash in złoty. Book Wawel tickets online in July and August to avoid the midday queue."
+        ],
+        "de": [
+          "Beginnen Sie Tag 1 mit einem Spaziergang auf dem Königsweg vom Florianstor zum Wawel-Schloss, eine 1,2 km lange Strecke, die ohne Stopps etwa 20 Minuten dauert. Die Route führt über den Hauptmarkt, wo die Marienkirche täglich von 11:30 Uhr bis 18:00 Uhr geöffnet ist, außer während der Gottesdienste. Besteigen Sie den Kirchturm der Basilika für einen Blick über den Platz und die Weichsel. Die Staatsgemächer und die Schatzkammer des Wawel-Schlosses öffnen von April bis Oktober um 9:30 Uhr, im Winter gelten kürzere Öffnungszeiten. Planen Sie mindestens zwei Stunden für die Schlossanlage vor dem Mittagessen ein.",
+          "Nach dem Wawel überqueren Sie die Weichsel über die Bernatka-Fußgängerbrücke, einen 5-minütigen Spaziergang, der in das Kazimierz führt, das ehemalige jüdische Viertel. Die Synagogen des Bezirks, darunter die Synagoge aus dem 16. Jahrhundert in der Szeroka-Straße, öffnen im Winter von 10:00 bis 16:00 Uhr und im Sommer bis 18:00 Uhr. Verbringen Sie den Nachmittag mit der Erkundung der Kopfsteinpflasterstraßen, unabhängiger Galerien und Innenhofcafés. Das Abendessen in Kazimierz funktioniert ab 19:00 Uhr gut, wenn sich der Bereich mit Einheimischen und Besuchern füllt.",
+          "Wenn Sie mit dem Zug anreisen, befindet sich der Bahnhof Kraków Główny 1 km nördlich der Altstadt, ein 12-minütiger Spaziergang oder eine 5-minütige Taxifahrt. Der Flughafen liegt 14 km westlich des Zentrums; ein privater Transfer dauert bei normalem Verkehr etwa 30 Minuten. Unsere 7-tägige Jura-Tour beginnt mit diesem gleichen Tag-1-Programm, bevor sie am Tag 2 auf das Land übergeht. Spätes November bis Dezember bringt Weihnachtsmarktstände über den Hauptmarkt und verlängert die Abendöffnungszeiten.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster und die unebenen Schlossinnenhöfe. Nehmen Sie eine leichte Regenjacke im Frühling und Herbst mit, wenn Schauer häufig sind. Im Winter endet das Tageslicht gegen 15:30 Uhr, beginnen Sie den Königsweg daher um 10:00 Uhr, um das Wawel vor Einbruch der Dunkelheit zu besichtigen. Die meisten Orte akzeptieren Kartenzahlungen, aber kleine Cafés in Kazimierz bevorzugen möglicherweise Bargeld in Złoty. Buchen Sie Wawel-Tickets online im Juli und August, um die Mittagswarteschlange zu vermeiden."
+        ],
+        "fr": [
+          "Commencez le Jour 1 en parcourant la Route Royale depuis la Porte Saint-Florian jusqu'au château de Wawel, un tronçon de 1,2 km qui prend environ 20 minutes sans arrêt. Le trajet passe par la Grand-Place, où la basilique Sainte-Marie est ouverte tous les jours de 11h30 à 18h, sauf pendant les offices. Montez au clocher de la basilique pour admirer la vue sur la place et la Vistule. Les appartements d'État et le Trésor de la Couronne du château de Wawel ouvrent à 9h30 d'avril à octobre, avec des horaires réduits en hiver. Prévoyez au moins deux heures pour le complexe du château avant le déjeuner.",
+          "Après Wawel, traversez la Vistule par le pont piétonnier Bernatka, une marche de 5 minutes qui mène à Kazimierz, l'ancien quartier juif. Les synagogues du district, dont la vieille synagogue du XVIe siècle sur la rue Szeroka, ouvrent de 10h à 16h en hiver et jusqu'à 18h en été. Passez l'après-midi à explorer les rues pavées, les galeries indépendantes et les cafés en cour. Le dîner à Kazimierz fonctionne bien à partir de 19h, quand le quartier se remplit de locaux et de visiteurs.",
+          "Si vous arrivez en train, la gare de Kraków Główny se trouve à 1 km au nord de la Vieille Ville, à 12 minutes à pied ou 5 minutes en taxi. L'aéroport est à 14 km à l'ouest du centre ; un transfert privé prend environ 30 minutes dans des conditions de circulation normales. Notre circuit de 7 jours dans le Jura commence avec ce même programme du Jour 1 avant de se diriger vers la campagne le Jour 2. De fin novembre à décembre, les stands du marché de Noël s'installent sur la Grand-Place, prolongeant les horaires du soir.",
+          "Portez des chaussures confortables pour les pavés et les cours du château inégales. Emportez une veste légère contre la pluie au printemps et en automne, quand les averses sont fréquentes. En hiver, la nuit tombe vers 15h30, alors commencez la Route Royale à 10h pour terminer Wawel avant le crépuscule. La plupart des sites acceptent les cartes bancaires, mais les petits cafés de Kazimierz préfèrent parfois l'argent liquide en zloty. Réservez vos billets pour Wawel en ligne en juillet et août pour éviter la file d'attente de midi."
+        ],
+        "ja": [
+          "1日目は、聖フロリアン門からヴァヴェル城までの王道を歩くことから始めましょう。ストップなしで約20分かかる1.2kmの区間です。ルートはメイン・マーケット・スクエアを通り、聖マリア大聖堂は礼拝中を除き、毎日午前11時30分から午後6時まで開いています。大聖堂の塔に登って、広場とヴィスワ川の景色を眺めましょう。ヴァヴェル城の国賓の間と王冠宝物庫は、4月から10月まで午前9時30分に開館し、冬季は開館時間が短くなります。昼食前に城塞複合施設を少なくとも2時間かけて見学することをお勧めします。",
+          "ヴァヴェル城の後、ベルナトカ歩道橋でヴィスワ川を渡ります。徒歩5分で、かつてのユダヤ人地区であるカジミェシュ地区に到着します。この地区のシナゴーグは、シェロカ通りにある16世紀の旧シナゴーグを含め、冬季は午前10時から午後4時まで、夏季は午後6時まで開いています。午後は、石畳の通り、独立系ギャラリー、中庭のカフェを探索してお過ごしください。カジミェシュでの夕食は午後7時以降がおすすめです。この時間になると、地元の人々や訪問者で賑わいます。",
+          "電車でお越しの場合、クラクフ・グロウニー駅は旧市街の北1kmに位置し、徒歩12分またはタクシーで5分です。空港は中心部の西14kmにあり、プライベート送迎で通常の交通状況なら約30分です。当社の7日間ジュラツアーは、同じ1日目のプログラムで始まり、2日目に田園地帯へ移動します。11月下旬から12月は、メイン・スクエアにクリスマスマーケットの露店が並び、夜間の営業時間が延長されます。",
+          "石畳や城の不整地な中庭を歩くため、歩きやすい靴をご着用ください。春と秋はにわか雨が多いので、軽いレインコートをご持参ください。冬は日没が午後3時30分頃となるため、王道を午前10時までに出発し、日没前にヴァヴェル城をご見学ください。ほとんどの施設でカード決済がご利用いただけますが、カジミェシュ地区の小さなカフェではズウォティでの現金支払いを好まれる場合があります。7月と8月のヴァヴェル城チケットは、正午の混雑を避けるためオンラインで事前予約をおすすめします。"
+        ],
+        "es": [
+          "Comienza el Día 1 recorriendo la Ruta Real desde la Puerta de San Florián hasta el Castillo de Wawel, un tramo de 1,2 km que toma unos 20 minutos sin paradas. El recorrido pasa por la Plaza del Mercado Principal, donde la Basílica de Santa María abre diariamente de 11:30 a.m. a 6 p.m., excepto durante los servicios religiosos. Sube a la torre de la basílica para disfrutar de una vista de la plaza y el río Vístula. Las Salas de Estado y el Tesoro de la Corona del Castillo de Wawel abren a las 9:30 a.m. de abril a octubre, con horarios más reducidos en invierno. Dedica al menos dos horas al complejo del castillo antes del almuerzo.",
+          "Después de Wawel, cruza el Vístula por el Puente Peatonal Bernatka, un paseo de 5 minutos que lleva a Kazimierz, el antiguo barrio judío. Las sinagogas del distrito, incluida la Antigua Sinagoga del siglo 16 en la calle Szeroka, abren de 10 a.m. a 4 p.m. en invierno y hasta las 6 p.m. en verano. Pasa la tarde explorando las calles empedradas, galerías independientes y cafeterías con patio. La cena en Kazimierz funciona bien a partir de las 7 p.m., cuando el área se llena de locales y visitantes.",
+          "Si llegas en tren, la estación de Kraków Główny se encuentra a 1 km al norte de la Ciudad Vieja, a 12 minutos a pie o 5 minutos en taxi. El aeropuerto está a 14 km al oeste del centro; un traslado privado toma unos 30 minutos con tráfico normal. Nuestro tour de 7 días al Jura comienza con este mismo programa del Día 1 antes de trasladarse al campo el Día 2. De finales de noviembre a diciembre, los puestos del mercado navideño se instalan en la Plaza del Mercado Principal, extendiendo el horario nocturno.",
+          "Usa calzado cómodo para los adoquines y los patios irregulares del castillo. Lleva una chaqueta ligera contra la lluvia en primavera y otoño, cuando las lluvias son frecuentes. En invierno, la luz del día termina alrededor de las 3:30 p.m., así que comienza la Ruta Real a las 10 a.m. para terminar Wawel antes del anochecer. La mayoría de los sitios aceptan tarjetas, pero los cafés pequeños en Kazimierz pueden preferir efectivo en zlotys. Reserva las entradas de Wawel en línea en julio y agosto para evitar la fila del mediodía."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Royal Route walk to Wawel Castle",
+          "St Mary's Basilica tower views",
+          "Kazimierz synagogues and dinner"
+        ],
+        "de": [
+          "Royal Route-Wanderung zur Wawel-Burg",
+          "Aussicht vom Turm der Marienkirche",
+          "Synagogen in Kazimierz und Abendessen"
+        ],
+        "fr": [
+          "Promenade sur la Route Royale jusqu'au château de Wawel",
+          "Vues depuis la tour de la basilique Sainte-Marie",
+          "Synagogues de Kazimierz et dîner"
+        ],
+        "ja": [
+          "ヴァヴェル城へのロイヤル・ルート散策",
+          "聖マリア教会の塔からの眺望",
+          "カジミェシュ地区のシナゴーグとディナー"
+        ],
+        "es": [
+          "Paseo por la Ruta Real hasta el Castillo de Wawel",
+          "Vistas desde la torre de la Basílica de Santa María",
+          "Sinagogas de Kazimierz y cena"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Walk distance",
+            "de": "Gehstrecke",
+            "fr": "Distance de marche",
+            "ja": "ウォーキング距離",
+            "es": "Distancia del recorrido"
+          },
+          "value": {
+            "en": "1.2 km Royal Route",
+            "de": "1,2 km Royal Route",
+            "fr": "1,2 km sur la Route Royale",
+            "ja": "1.2 km ロイヤル・ルート",
+            "es": "1,2 km Ruta Real"
+          }
+        },
+        {
+          "label": {
+            "en": "Airport transfer",
+            "de": "Flughafentransfer",
+            "fr": "Transfert depuis l'aéroport",
+            "ja": "空港送迎",
+            "es": "Traslado al aeropuerto"
+          },
+          "value": {
+            "en": "14 km, about 30 minutes",
+            "de": "14 km, etwa 30 Minuten",
+            "fr": "14 km, environ 30 minutes",
+            "ja": "14 km、約30分",
+            "es": "14 km, unos 30 minutos"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "7 Days / 6 Nights",
+            "de": "7 Tage / 6 Nächte",
+            "fr": "7 jours / 6 nuits",
+            "ja": "7日間 / 6泊",
+            "es": "7 días / 6 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793905149/sunday-atlas/blog/krakow-itinerary-3-days/krakow-old-town-commons-175261320.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "A light green building with white windows and a red tiled roof in Kraków Old Town, Poland.",
+          "de": "Ein hellgrünes Gebäude mit weißen Fenstern und einem roten Ziegeldach in der Krakauer Altstadt, Polen.",
+          "fr": "Bâtiment vert clair aux fenêtres blanches et au toit de tuiles rouges dans la vieille ville de Cracovie, en Pologne.",
+          "ja": "ポーランド、クラクフ旧市街にある、白い窓と赤い瓦屋根の淡い緑色の建物。",
+          "es": "Un edificio verde claro con ventanas blancas y un techo de tejas rojas en el casco antiguo de Cracovia, Polonia."
+        },
+        "credit": {
+          "author": "Igor123121",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Convent_of_the_Jesuits,_8a_Sienna_Street,_Old_Town,_Krak%C3%B3w,_Poland_(5).jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Kraków Old Town",
+          "de": "Krakauer Altstadt",
+          "fr": "Vieille Ville de Cracovie",
+          "ja": "クラクフ旧市街",
+          "es": "Ciudad Vieja de Cracovia"
+        }
+      },
+      "embeddedPackageSlug": "krakow-jura-outdoor-7-days"
+    },
+    {
+      "id": "day-2-wieliczka-salt-mine",
+      "placeName": {
+        "en": "Wieliczka",
+        "de": "Wieliczka",
+        "fr": "Wieliczka",
+        "ja": "ヴィエリチカ",
+        "es": "Wieliczka"
+      },
+      "heading": {
+        "en": "Day 2: Wieliczka Salt Mine half-day trip",
+        "de": "Tag 2: Halbtagesausflug zur Salzgrube Wieliczka",
+        "fr": "Jour 2 : Excursion d'une demi-journée à la mine de sel de Wieliczka",
+        "ja": "2日目：ヴィエリチカ塩鉱山への半日旅行",
+        "es": "Día 2: Excursión de medio día a la Mina de Sal de Wieliczka"
+      },
+      "paragraphs": {
+        "en": [
+          "The Wieliczka Salt Mine sits about 14 km southeast of Kraków and a 30-minute regional train ride or 20-minute drive from the main station. Trains leave roughly every half hour and the walk from Wieliczka Rynek Kopalnia station to the mine entrance takes five minutes. The guided Tourist Route descends 135 metres underground through more than 2 km of corridors, chambers and chapels carved from rock salt. Highlights include the Chapel of St Kinga, where chandeliers and reliefs are made entirely of salt. Tours run year-round and last about two and a half hours, so an early departure returns you to Kraków by early afternoon.",
+          "Book the English-language tour online for a morning slot between 9 am and 11 am to avoid the midday crowds that build from April to October. Wear sturdy shoes with good grip because the wooden stairs and salt floors can be slippery, and bring a light jacket since the temperature stays around 14 to 16 Celsius underground. The route includes about 800 steps, though a lift is available for the return ascent if arranged in advance. Large bags must be left in the surface lockers before you enter.",
+          "If you prefer not to take the train, a private transfer or taxi covers the 14 km in about 20 minutes outside peak traffic and drops you at the Danilowicz Shaft entrance. The mine operates daily except for a few public holidays such as 1 January, Easter Sunday, 1 November and 25 to 26 December. Opening hours extend from 7:30 am to 7:30 pm in summer and 8 am to 5 pm in winter, with the last descent roughly two hours before closing. Photography is allowed without flash in most chambers.",
+          "After the tour, the surface complex has a restaurant serving Polish soups and pierogi if you want lunch before heading back. The train ride returns you to Kraków Główny in time to explore the Main Market Square or Kazimierz in the late afternoon. Late November to December adds the Kraków Christmas market on the square, which stays open until late evening. Spring and autumn weekdays are the quietest periods for the mine itself."
+        ],
+        "de": [
+          "Die Salzgrube Wieliczka liegt etwa 14 km südöstlich von Krakau und ist mit dem Regionalzug in 30 Minuten oder mit dem Auto in 20 Minuten vom Hauptbahnhof zu erreichen. Die Züge fahren etwa alle halbe Stunde, und der Fußweg vom Bahnhof Wieliczka Rynek Kopalnia zum Eingangsbereich der Grube dauert fünf Minuten. Die geführte Touristenroute führt 135 Meter unter die Erde durch mehr als 2 km Korridore, Kammern und Kapellen, die aus Gesteinssalz gehauen wurden. Highlights sind die Kapelle der Heiligen Kinga, in der Kronleuchter und Reliefs vollständig aus Salz gefertigt sind. Die Führungen finden das ganze Jahr über statt und dauern etwa zweieinhalb Stunden, sodass Sie mit einer frühen Abfahrt am frühen Nachmittag wieder in Krakau sind.",
+          "Buchen Sie die englischsprachige Führung online für einen Vormittagstermin zwischen 9 und 11 Uhr, um die Mittagsmassen zu vermeiden, die von April bis Oktober zunehmen. Tragen Sie festes Schuhwerk mit gutem Halt, da die Holztreppen und Salzfußböden rutschig sein können, und bringen Sie eine leichte Jacke mit, da die Temperatur unterirdisch bei etwa 14 bis 16 Grad Celsius liegt. Die Route umfasst etwa 800 Stufen, wobei ein Aufzug für den Rückweg verfügbar ist, wenn er im Voraus vereinbart wird. Große Taschen müssen in den Oberflächen-Schließfächern zurückgelassen werden, bevor Sie eintreten.",
+          "Wenn Sie nicht mit dem Zug fahren möchten, bringt Sie ein privater Transfer oder ein Taxi in etwa 20 Minuten außerhalb der Stoßzeit über die 14 km zum Eingang des Danilowicz-Schachts. Die Grube ist täglich geöffnet, mit Ausnahme einiger Feiertage wie 1. Januar, Ostersonntag, 1. November und 25. bis 26. Dezember. Die Öffnungszeiten erstrecken sich im Sommer von 7:30 bis 19:30 Uhr und im Winter von 8 bis 17 Uhr, wobei der letzte Abstieg etwa zwei Stunden vor Schließung erfolgt. Fotografieren ohne Blitz ist in den meisten Kammern erlaubt.",
+          "Nach der Führung bietet das Oberflächenkomplex ein Restaurant mit polnischen Suppen und Pierogi, wenn Sie vor der Rückkehr noch zu Mittag essen möchten. Die Zugfahrt bringt Sie zurück zum Krakau Główny, rechtzeitig, um den Hauptmarkt oder Kazimierz am späten Nachmittag zu erkunden. Von Ende November bis Dezember verleiht der Krakauer Weihnachtsmarkt auf dem Platz, der bis spätabends geöffnet ist, dem Ganzen eine besondere Note. Frühjahrs- und Herbst-Wochentage sind die ruhigsten Zeiten für die Grube selbst."
+        ],
+        "fr": [
+          "La mine de sel de Wieliczka se trouve à environ 14 km au sud-est de Cracovie, à 30 minutes en train régional ou 20 minutes en voiture depuis la gare principale. Les trains partent environ toutes les demi-heures, et la marche depuis la gare de Wieliczka Rynek Kopalnia jusqu'à l'entrée de la mine prend cinq minutes. La visite guidée du parcours touristique descend à 135 mètres sous terre à travers plus de 2 km de couloirs, de chambres et de chapelles taillés dans le sel gemme. Parmi les points forts, la chapelle Sainte-Kinga, dont les lustres et les reliefs sont entièrement réalisés en sel. Les visites ont lieu toute l'année et durent environ deux heures et demie, de sorte qu'un départ matinal vous ramène à Cracovie en début d'après-midi.",
+          "Réservez la visite en anglais en ligne pour un créneau matinal entre 9 h et 11 h afin d'éviter les foules de midi qui s'accumulent d'avril à octobre. Portez des chaussures solides avec une bonne adhérence, car les escaliers en bois et les sols de sel peuvent être glissants, et apportez une veste légère puisque la température se maintient autour de 14 à 16 °C sous terre. Le parcours comprend environ 800 marches, bien qu'un ascenseur soit disponible pour la remontée si cela est organisé à l'avance. Les grands sacs doivent être laissés dans les casiers en surface avant d'entrer.",
+          "Si vous préférez ne pas prendre le train, un transfert privé ou un taxi couvre les 14 km en environ 20 minutes en dehors des heures de pointe et vous dépose à l'entrée du puits Danilowicz. La mine fonctionne tous les jours, à l'exception de quelques jours fériés tels que le 1er janvier, le dimanche de Pâques, le 1er novembre et les 25 et 26 décembre. Les horaires d'ouverture s'étendent de 7 h 30 à 19 h 30 en été et de 8 h à 17 h en hiver, avec la dernière descente environ deux heures avant la fermeture. La photographie est autorisée sans flash dans la plupart des chambres.",
+          "Après la visite, le complexe de surface abrite un restaurant servant des soupes polonaises et des pierogi si vous souhaitez déjeuner avant de retourner. Le trajet en train vous ramène à Cracovie Główny à temps pour explorer la place du Marché principal ou Kazimierz en fin d'après-midi. De fin novembre à décembre, le marché de Noël de Cracovie s'installe sur la place et reste ouvert jusqu'à tard le soir. Les jours de semaine au printemps et en automne sont les périodes les plus calmes pour la mine elle-même."
+        ],
+        "ja": [
+          "ヴィエリチカ塩鉱山はクラクフの南東約14 km、メイン駅から地域列車で約30分、または車で約20分の場所にあります。列車はおおよそ30分ごとに出発し、ヴィエリチカ・リェネク・コパルニャ駅から鉱山の入口までの徒歩は5分です。ガイド付きツーリスト・ルートは、岩塩で彫られた2 km以上の回廊、部屋、礼拝堂を通り、地下135メートルへと下ります。見どころは、シャンデリアやレリーフがすべて塩で作られている聖クニガ礼拝堂です。ツアーは年間を通じて運行され、所要時間は約2時間半ですので、早めに出発すれば午後早々にクラクフに戻れます。",
+          "午前9時から11時の間の午前枠をオンラインで英語ツアーを予約し、4月から10月にかけて昼間に増える混雑を避けてください。木製の階段や塩の床が滑りやすいため、グリップの良い丈夫な靴を履き、地下の気温が摂氏14度から16度程度に保たれているため、軽いジャケットを持参してください。ルートには約800段の階段が含まれますが、事前に手配すれば帰りの登りにエレベーターを利用できます。大きなバッグは入場前に地上のロッカーに預ける必要があります。",
+          "列車を利用したくない場合は、プライベート送迎またはタクシーで14 kmを約20分で移動し（ピーク時の交通渋滞を除く）、ダニロヴィチ坑の入口までお送りします。鉱山は毎日営業していますが、1月1日、復活祭の日曜日、11月1日、12月25日から26日のいくつかの祝日は除きます。夏は午前7時30分から午後7時30分まで、冬は午前8時から午後5時まで営業時間が延長され、最終降下は閉館の約2時間前です。ほとんどの部屋ではフラッシュなしでの撮影が許可されています。",
+          "ツアー後、地上の複合施設にはポーランドのスープやピエロギを提供するレストランがあり、戻る前に昼食をとることができます。列車の乗車でクラクフ・グウォヴニー駅に戻り、メインマーケットスクエアやカジミェシュ地区を午後遅くに探索できます。11月下旬から12月には、スクエアでクラクフのクリスマスマーケットが開催され、夜遅くまで開いています。鉱山自体は春と秋の平日が最も静かな時期です。"
+        ],
+        "es": [
+          "La Mina de Sal de Wieliczka se encuentra a unos 14 km al sureste de Cracovia, a 30 minutos en tren regional o 20 minutos en coche desde la estación principal. Los trenes salen aproximadamente cada media hora y el trayecto a pie desde la estación de Wieliczka Rynek Kopalnia hasta la entrada de la mina dura cinco minutos. La ruta turística guiada desciende 135 metros bajo tierra a través de más de 2 km de corredores, cámaras y capillas talladas en sal de roca. Entre los puntos destacados se encuentra la Capilla de Santa Kinga, donde las arañas y los relieves están hechos enteramente de sal. Las visitas se realizan durante todo el año y duran unas dos horas y media, por lo que una salida temprana te devuelve a Cracovia a primera hora de la tarde.",
+          "Reserva la visita en inglés en línea para un horario matutino entre las 9 y las 11 de la mañana para evitar las multitudes del mediodía que se forman de abril a octubre. Usa zapatos resistentes con buen agarre porque las escaleras de madera y los suelos de sal pueden ser resbaladizos, y trae una chaqueta ligera ya que la temperatura se mantiene entre 14 y 16 grados centígrados bajo tierra. La ruta incluye unos 800 escalones, aunque hay un ascensor disponible para el ascenso de regreso si se coordina con antelación. Las bolsas grandes deben dejarse en los taquillos de la superficie antes de entrar.",
+          "Si prefieres no tomar el tren, un traslado privado o un taxi recorre los 14 km en unos 20 minutos fuera del horario de tráfico intenso y te deja en la entrada del Pozo Danilowicz. La mina funciona todos los días excepto algunos días festivos como el 1 de enero, el Domingo de Pascua, el 1 de noviembre y el 25 y 26 de diciembre. El horario de apertura se extiende de 7:30 a 19:30 en verano y de 8:00 a 17:00 en invierno, con el último descenso aproximadamente dos horas antes del cierre. La fotografía está permitida sin flash en la mayoría de las cámaras.",
+          "Después del recorrido, el complejo de la superficie tiene un restaurante que sirve sopas polacas y pierogi si quieres almorzar antes de regresar. El viaje en tren te devuelve a Cracovia Główny a tiempo para explorar la Plaza del Mercado Principal o Kazimierz a última hora de la tarde. De finales de noviembre a diciembre se añade el mercado navideño de Cracovia en la plaza, que permanece abierto hasta altas horas de la noche. Los días laborables de primavera y otoño son los períodos más tranquilos para la mina en sí."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "14 km, 20-minute drive or 30-minute train",
+          "135 metres deep, 2 km of chambers and chapels",
+          "Year-round tours, about two and a half hours"
+        ],
+        "de": [
+          "14 km, 20-minütige Autofahrt oder 30-minütige Zugfahrt",
+          "135 Meter tief, 2 km Kammern und Kapellen",
+          "Führungen ganzjährig, etwa zweieinhalb Stunden"
+        ],
+        "fr": [
+          "14 km, 20 minutes en voiture ou 30 minutes en train",
+          "135 mètres de profondeur, 2 km de chambres et de chapelles",
+          "Visites toute l'année, environ deux heures et demie"
+        ],
+        "ja": [
+          "14 km、車で20分または列車で30分",
+          "地下135メートル、2 kmの部屋と礼拝堂",
+          "年間を通じたツアー、約2.5時間"
+        ],
+        "es": [
+          "14 km, 20 minutos en coche o 30 minutos en tren",
+          "135 metros de profundidad, 2 km de cámaras y capillas",
+          "Visitas durante todo el año, unas dos horas y media"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Distance from Kraków",
+            "de": "Entfernung von Krakau",
+            "fr": "Distance depuis Cracovie",
+            "ja": "クラクフからの距離",
+            "es": "Distancia desde Cracovia"
+          },
+          "value": {
+            "en": "14 km",
+            "de": "14 km",
+            "fr": "14 km",
+            "ja": "14 km",
+            "es": "14 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Tour duration",
+            "de": "Tourdauer",
+            "fr": "Durée de la visite",
+            "ja": "ツアー所要時間",
+            "es": "Duración de la visita"
+          },
+          "value": {
+            "en": "about 2.5 hours",
+            "de": "etwa 2,5 Stunden",
+            "fr": "environ 2,5 heures",
+            "ja": "約2.5時間",
+            "es": "unas 2,5 horas"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793905159/sunday-atlas/blog/krakow-itinerary-3-days/wieliczka-commons-21837448.jpg",
+        "width": 1920,
+        "height": 1419,
+        "alt": {
+          "en": "Wooden mining machinery inside Wieliczka Salt Mine, Poland.",
+          "de": "Holzbergbaumaschinen in der Salzgrube Wieliczka, Polen.",
+          "fr": "Machinerie minière en bois à l'intérieur de la mine de sel de Wieliczka, en Pologne.",
+          "ja": "ポーランド、ヴィエリチカ塩坑内の木製の鉱山機械。",
+          "es": "Maquinaria minera de madera dentro de la mina de sal de Wieliczka, Polonia."
+        },
+        "credit": {
+          "author": "Kriskros",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wieliczka,_Jana_Matejki;_Kopalnia_soli-_kierat_konny_w%C4%99gierski;_A-580;_01.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Wieliczka",
+          "de": "Wieliczka",
+          "fr": "Wieliczka",
+          "ja": "ヴィエリチカ",
+          "es": "Wieliczka"
+        }
+      }
+    },
+    {
+      "id": "day-3-ojcow-national-park-pieskowa-skala",
+      "placeName": {
+        "en": "Polish Jura",
+        "de": "Polnisches Jura",
+        "fr": "Jura polonaise",
+        "ja": "ポーランド・ジュラ",
+        "es": "Jura polaca"
+      },
+      "heading": {
+        "en": "Day 3: Ojców National Park and Pieskowa Skała Castle",
+        "de": "Tag 3: Ojców-Nationalpark und Schloss Pieskowa Skała",
+        "fr": "Jour 3 : Parc national d'Ojców et château de Pieskowa Skała",
+        "ja": "Day 3: オイェツィ国立公園とピエスコワ・スキャラ城",
+        "es": "Día 3: Parque Nacional de Ojców y Castillo de Pieskowa Skała"
+      },
+      "paragraphs": {
+        "en": [
+          "Drive about 30 km north from Kraków to Ojców National Park in roughly 45 minutes via route 794. The Prądnik Valley runs through the park and offers marked trails that follow limestone cliffs, caves and the Prądnik River. Spring and early autumn give comfortable hiking temperatures and fewer visitors than July or August. Wear sturdy shoes because paths can be slippery after rain, and carry water as facilities are limited along the valley floor. The park is open year-round, but some caves close from November to March.",
+          "Pieskowa Skała Castle sits on a limestone outcrop inside the park, about 5 km from the main entrance. The Renaissance courtyard and the Hercules' Club rock formation are visible from the terrace. Guided interior tours run from April to October, typically between 10:00 and 17:00, with shorter hours in shoulder months. Allow two hours to explore the castle museum and the short trail to the viewpoint over the valley. Parking is available at the castle gate for a small daily fee.",
+          "Our 7-day Kraków & the Jura tour uses Day 3 for this same drive and hike, then continues to a countryside hotel among the cliffs. The private transfer from Kraków to the Jura hotel takes about 45 minutes and covers the same 30 km distance. Staying overnight in the park area lets you reach the trails early before day-trip crowds arrive. The tour includes a nature guide on Day 6 for deeper access to caves and wildlife zones. Departure on Day 7 is from Kraków Airport, roughly a 45-minute drive back.",
+          "If you are doing this as a day trip from Kraków, leave by 08:00 to maximize daylight in the valley. The round-trip drive is about 60 km and 90 minutes total behind the wheel. Fuel stations are spaced along route 794, but fill up in Kraków before heading north. Winter visits are possible, though trails may be icy and castle hours reduced; check the park website for seasonal closures. Return to Kraków by late afternoon for an evening train or flight."
+        ],
+        "de": [
+          "Fahren Sie etwa 30 km nördlich von Krakau zum Ojców-Nationalpark, was über die Route 794 in rund 45 Minuten dauert. Das Prądnik-Tal durchzieht den Park und bietet markierte Wanderwege, die an Kalksteinfelsen, Höhlen und dem Fluss Prądnik entlangführen. Im Frühjahr und im frühen Herbst herrschen angenehme Temperaturen zum Wandern, und es sind weniger Besucher unterwegs als im Juli oder August. Tragen Sie festes Schuhwerk, da die Wege nach Regen rutschig sein können, und nehmen Sie Wasser mit, da die Einrichtungen im Talboden begrenzt sind. Der Park ist ganzjährig geöffnet, aber einige Höhlen bleiben von November bis März geschlossen.",
+          "Das Schloss Pieskowa Skała thront auf einem Kalksteinfelsen im Park, etwa 5 km vom Haupteingang entfernt. Der Renaissance-Innenhof und die Felsformation Hercules' Club sind von der Terrasse aus sichtbar. Geführte Innenbesichtigungen finden von April bis Oktober statt, in der Regel zwischen 10:00 und 17:00 Uhr, mit kürzeren Öffnungszeiten in der Nebensaison. Planen Sie zwei Stunden für das Schlossmuseum und den kurzen Weg zum Aussichtspunkt über dem Tal ein. Am Schlosstor steht ein Parkplatz gegen eine geringe Tagesgebühr zur Verfügung.",
+          "Unsere 7-tägige Krakau- und Jura-Reise nutzt Tag 3 für diese gleiche Fahrt und Wanderung und setzt sich dann zu einem Landhotel inmitten der Felsen fort. Der private Transfer von Krakau zum Hotel im Jura dauert etwa 45 Minuten und legt dieselben 30 km zurück. Eine Übernachtung in der Parkregion ermöglicht es Ihnen, die Wege früh zu erreichen, bevor die Tagesausflügler eintreffen. Die Reise beinhaltet am Tag 6 einen Naturführer für einen tieferen Zugang zu Höhlen und Wildniszonen. Die Abreise am Tag 7 erfolgt vom Flughafen Krakau, etwa eine 45-minütige Fahrt zurück.",
+          "Wenn Sie dies als Tagesausflug von Krakau aus unternehmen, fahren Sie um 08:00 Uhr los, um das Tageslicht im Tal optimal zu nutzen. Die Hin- und Rückfahrt beträgt etwa 60 km und insgesamt 90 Minuten Fahrzeit. Tankstellen liegen entlang der Route 794, tanken Sie jedoch in Krakau, bevor Sie nach Norden aufbrechen. Winterbesuche sind möglich, obwohl die Wege vereist sein können und die Schlossöffnungszeiten reduziert sind; prüfen Sie die Park-Website auf saisonale Schließungen. Kehren Sie am späten Nachmittag nach Krakau zurück für einen Abendzug oder Flug."
+        ],
+        "fr": [
+          "Parcourir environ 30 km au nord de Cracovie jusqu'au parc national d'Ojców en environ 45 minutes via la route 794. La vallée de la Prądnik traverse le parc et propose des sentiers balisés longeant les falaises calcaires, les grottes et la rivière Prądnik. Le printemps et le début de l'automne offrent des températures agréables pour la randonnée et moins de visiteurs qu'en juillet ou en août. Portez des chaussures robustes car les chemins peuvent être glissants après la pluie, et emportez de l'eau car les installations sont limitées le long du fond de la vallée. Le parc est ouvert toute l'année, mais certaines grottes ferment de novembre à mars.",
+          "Le château de Pieskowa Skała se dresse sur un affleurement calcaire à l'intérieur du parc, à environ 5 km de l'entrée principale. La cour Renaissance et la formation rocheuse du Massue d'Hercule sont visibles depuis la terrasse. Les visites guidées de l'intérieur se déroulent d'avril à octobre, généralement entre 10:00 et 17:00, avec des horaires réduits en saison intermédiaire. Prévoyez deux heures pour explorer le musée du château et le court sentier menant au belvédère sur la vallée. Un parking est disponible à la porte du château moyennant un petit droit quotidien.",
+          "Notre circuit de 7 jours Cracovie et le Jura consacre le jour 3 à cette même route et à cette même randonnée, puis se poursuit vers un hôtel de campagne parmi les falaises. Le transfert privé de Cracovie à l'hôtel du Jura dure environ 45 minutes et couvre les mêmes 30 km. Séjourner une nuit dans la région du parc vous permet d'atteindre les sentiers tôt, avant l'arrivée des groupes d'excursion d'un jour. Le circuit inclut un guide nature le jour 6 pour un accès plus approfondi aux grottes et aux zones de faune. Le départ le jour 7 se fait depuis l'aéroport de Cracovie, à environ 45 minutes de route.",
+          "Si vous faites cela comme une excursion d'une journée depuis Cracovie, partez à 08:00 pour profiter au maximum de la lumière du jour dans la vallée. Le trajet aller-retour représente environ 60 km et 90 minutes au total au volant. Les stations-service sont espacées le long de la route 794, mais faites le plein à Cracovie avant de vous diriger vers le nord. Les visites en hiver sont possibles, bien que les sentiers puissent être verglacés et les horaires du château réduits ; consultez le site web du parc pour les fermetures saisonnières. Retournez à Cracovie en fin d'après-midi pour un train ou un vol en soirée."
+        ],
+        "ja": [
+          "クラクフから北へ約30km、国道794号線を経由して約45分でオイェツィ国立公園に到着します。プジェドニク渓谷が公園を貫き、石灰岩の崖や洞窟、プジェドニク川に沿った標識付きのハイキングコースがあります。春と初秋は快適なハイキング気候で、7月や8月よりも訪問者が少なくなります。雨後は道が滑りやすくなるため、丈夫な靴を履き、渓谷底には施設が限られているため水を持参してください。公園は年間を通じて開園していますが、一部の洞窟は11月から3月まで閉鎖されます。",
+          "ピエスコワ・スキャラ城は公園内の石灰岩の露頭に位置し、メインエントランスから約5kmのところにあります。ルネサンス様式の中庭とヘラクレスの棍棒の岩の地形はテラスから見渡せます。城内のガイド付き見学ツアーは4月から10月まで実施され、通常は10:00から17:00まで、肩シーズンは営業時間が短くなります。城の博物館と渓谷の展望台への短いトレイルを探索するのに2時間をおすすめします。城門には少額の1日料金で駐車場があります。",
+          "当社のクラクフ＆ジュラ7日間ツアーでは、3日目にこの同じドライブとハイキングを組み込み、その後、崖の中にある田舎のホテルへ向かいます。クラクフからジュラのホテルへのプライベート送迎は約45分で、同じ30kmの距離を移動します。公園エリアに一泊することで、日帰りツアーのグループが到着する前に早朝にトレイルに出ることができます。ツアーには6日目に自然ガイドが含まれ、洞窟や野生動物ゾーンへのより深いアクセスが可能です。7日目の出発はクラクフ空港からで、そこまで約45分のドライブです。",
+          "クラクフからの日帰り旅行として行う場合は、渓谷の日光時間を最大限に活用するために08:00までに出発してください。往復のドライブは約60km、運転時間は合計約90分です。国道794号線沿いにガソリンスタンドはありますが、北へ向かう前にクラクフで給油してください。冬の訪問も可能ですが、トレイルは凍結している場合があり、城の営業時間も短縮されます。公園のウェブサイトで季節ごとの閉鎖情報を確認してください。午後遅くにクラクフに戻り、夜の列車またはフライトにご利用ください。"
+        ],
+        "es": [
+          "Conduzca unos 30 km al norte desde Cracovia hasta el Parque Nacional de Ojców en aproximadamente 45 minutos por la ruta 794. El valle del Prądnik atraviesa el parque y ofrece senderos señalizados que siguen acantilados de piedra caliza, cuevas y el río Prądnik. La primavera y el inicio del otoño brindan temperaturas agradables para caminar y menos visitantes que julio o agosto. Use calzado resistente porque los senderos pueden estar resbaladizos después de la lluvia, y lleve agua, ya que las instalaciones son limitadas en el fondo del valle. El parque está abierto todo el año, pero algunas cuevas cierran de noviembre a marzo.",
+          "El castillo de Pieskowa Skała se asienta sobre un afloramiento de piedra caliza dentro del parque, a unos 5 km de la entrada principal. El patio renacentista y la formación rocosa del Garrote de Hércules son visibles desde la terraza. Las visitas guiadas al interior se realizan de abril a octubre, generalmente entre las 10:00 y las 17:00, con horarios reducidos en los meses intermedios. Reserve dos horas para recorrer el museo del castillo y el sendero corto hasta el mirador sobre el valle. Hay estacionamiento en la puerta del castillo por una pequeña tarifa diaria.",
+          "Nuestro tour de 7 días Cracovia y la Jura utiliza el Día 3 para esta misma conducción y caminata, y luego continúa hacia un hotel rural entre los acantilados. El traslado privado de Cracovia al hotel de la Jura toma unos 45 minutos y recorre los mismos 30 km. Hospedarse durante la noche en la zona del parque le permite llegar temprano a los senderos antes de que lleguen las multitudes de excursiones de un día. El tour incluye un guía de naturaleza en el Día 6 para un acceso más profundo a cuevas y zonas de vida silvestre. La salida en el Día 7 es desde el Aeropuerto de Cracovia, a unos 45 minutos de regreso.",
+          "Si hace esto como una excursión de un día desde Cracovia, salga a las 08:00 para aprovechar al máximo la luz del día en el valle. El viaje de ida y vuelta es de unos 60 km y 90 minutos totales al volante. Las estaciones de servicio están distribuidas a lo largo de la ruta 794, pero llene el tanque en Cracovia antes de dirigirse al norte. Las visitas en invierno son posibles, aunque los senderos pueden estar helados y el castillo tiene horarios reducidos; consulte el sitio web del parque para cierres estacionales. Regrese a Cracovia a última hora de la tarde para un tren o vuelo nocturno."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "30 km drive, 45 minutes each way",
+          "Prądnik Valley trails and limestone cliffs",
+          "Pieskowa Skała Castle and Hercules' Club"
+        ],
+        "de": [
+          "30 km Fahrt, 45 Minuten pro Strecke",
+          "Wanderwege im Prądnik-Tal und Kalksteinfelsen",
+          "Schloss Pieskowa Skała und Hercules' Club"
+        ],
+        "fr": [
+          "Trajet de 30 km, 45 minutes chaque sens",
+          "Sentiers de la vallée de la Prądnik et falaises calcaires",
+          "Château de Pieskowa Skała et Massue d'Hercule"
+        ],
+        "ja": [
+          "片道30kmのドライブ、45分",
+          "プジェドニク渓谷のトレイルと石灰岩の崖",
+          "ピエスコワ・スキャラ城とヘラクレスの棍棒"
+        ],
+        "es": [
+          "Conducción de 30 km, 45 minutos cada tramo",
+          "Senderos del valle del Prądnik y acantilados de piedra caliza",
+          "Castillo de Pieskowa Skała y Garrote de Hércules"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Drive time",
+            "de": "Fahrzeit",
+            "fr": "Temps de trajet",
+            "ja": "所要時間",
+            "es": "Tiempo de conducción"
+          },
+          "value": {
+            "en": "45 minutes one way",
+            "de": "45 Minuten einfach",
+            "fr": "45 minutes par trajet",
+            "ja": "片道45分",
+            "es": "45 minutos por trayecto"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance",
+            "de": "Entfernung",
+            "fr": "Distance",
+            "ja": "距離",
+            "es": "Distancia"
+          },
+          "value": {
+            "en": "30 km north of Kraków",
+            "de": "30 km nördlich von Krakau",
+            "fr": "30 km au nord de Cracovie",
+            "ja": "クラクフの北約30km",
+            "es": "30 km al norte de Cracovia"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "7 Days / 6 Nights",
+            "de": "7 Tage / 6 Nächte",
+            "fr": "7 jours / 6 nuits",
+            "ja": "7日間 / 6泊",
+            "es": "7 días / 6 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793520132/sunday-atlas/packages/krakow-jura-outdoor-7-days/ojcow-national-park-commons-98586927.jpg",
+        "width": 1920,
+        "height": 1277,
+        "alt": {
+          "en": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+          "de": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+          "fr": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+          "ja": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky.",
+          "es": "Ojców National Park, Poland, showing a winding dirt path through frosty fields toward a forested ridge under a cloudy sky."
+        },
+        "caption": {
+          "en": "Polish Jura",
+          "de": "Polnisches Jura",
+          "fr": "Jura polonaise",
+          "ja": "ポーランド・ジュラ",
+          "es": "Jura polaca"
+        }
+      },
+      "embeddedPackageSlug": "krakow-jura-outdoor-7-days"
+    },
+    {
+      "id": "getting-around-krakow-region",
+      "placeName": {
+        "en": "Kraków region",
+        "de": "Region Krakau",
+        "fr": "Région de Cracovie",
+        "ja": "クラクフ地域",
+        "es": "Región de Cracovia"
+      },
+      "heading": {
+        "en": "Getting between places: trains, drives and transfers",
+        "de": "Von Ort zu Ort: Züge, Fahrten und Transfers",
+        "fr": "Se déplacer d'un lieu à l'autre : trains, trajets et transferts",
+        "ja": "場所間の移動：列車、ドライブ、送迎",
+        "es": "Desplazarse entre lugares: trenes, conducciones y traslados"
+      },
+      "paragraphs": {
+        "en": [
+          "Kraków Główny station to Wieliczka Salt Mine is about 20 minutes by train or car and covers roughly 14 km. Direct trains run every 30 minutes from the main hall, while the S3 road takes a similar time outside rush hour. Our 7-day winter tour includes a private transfer on Day 2 so you can skip the timetable and go straight to the underground chambers. Public buses on line 304 also run hourly but take closer to 35 minutes with stops. Winter timetables from late November to December may add a few minutes each way.",
+          "The drive from Kraków to Ojców National Park is about 45 minutes and 30 km via the E77 and local roads. The route climbs gently into the Polish Jura, passing limestone cliffs and the Prądnik Valley before reaching Pieskowa Skała Castle. On Day 3 of the 3-day plan you have the morning free for the castle and a short hike to Hercules’ Club. Private transfers on our tours leave after breakfast and return by late afternoon. Summer weekends can add 15 minutes near the park entrance.",
+          "Private transfers are included on all our Poland tours, covering airport pickup, intercity legs and day-trip runs such as Kraków to Wieliczka and Kraków to Ojców. Vehicles are sedan or minivan class with air conditioning and a driver who speaks English. Public rail is reliable for the Wieliczka leg, but Ojców has no train station so a car or bus is required. The 7-day winter itinerary uses the same private fleet for the Kraków–Zakopane transfer on Day 4, which takes about 2 hours and 110 km.",
+          "If you travel independently, buy a Kraków city card for unlimited trams and buses, and check the Małopolska timetable app for real-time departures. Trains to Wieliczka leave from platform 1 or 2 at Kraków Główny; validate a paper ticket before boarding. For Ojców, the PKS bus from Dworzec Autobusowy MDA runs roughly hourly and takes 55 minutes. Winter services from late November to March run on a reduced schedule, so confirm the last return departure the night before."
+        ],
+        "de": [
+          "Vom Krakauer Hauptbahnhof zur Salzgrube Wieliczka sind es etwa 20 Minuten mit dem Zug oder Auto und rund 14 km. Direktzüge fahren alle 30 Minuten von der Haupthalle ab, während die S3 außerhalb der Hauptverkehrszeit eine ähnliche Zeit benötigt. Unsere 7-tägige Winterreise beinhaltet am Tag 2 einen privaten Transfer, sodass Sie den Fahrplan umgehen und direkt zu den unterirdischen Kammern gelangen. Öffentliche Busse der Linie 304 fahren ebenfalls stündlich, benötigen aber mit Haltestellen etwa 35 Minuten. Winterfahrpläne von Ende November bis Dezember können pro Strecke einige Minuten hinzufügen.",
+          "Die Fahrt von Krakau zum Ojców-Nationalpark dauert etwa 45 Minuten und 30 km über die E77 und lokale Straßen. Die Route steigt sanft ins Polnische Jura hinauf, passiert Kalksteinfelsen und das Prądnik-Tal, bevor sie das Schloss Pieskowa Skała erreicht. Am Tag 3 des 3-Tage-Plans haben Sie den Vormittag frei für das Schloss und eine kurze Wanderung zum Hercules' Club. Private Transfers auf unseren Reisen fahren nach dem Frühstück ab und kehren am späten Nachmittag zurück. Sommerwochenenden können am Parkeingang 15 Minuten hinzufügen.",
+          "Private Transfers sind auf allen unseren Polen-Reisen enthalten und decken Flughafentransfers, Fernstrecken und Tagesausflüge wie Krakau nach Wieliczka und Krakau nach Ojców ab. Die Fahrzeuge sind Limousinen oder Minivans mit Klimaanlage und einem englischsprachigen Fahrer. Die öffentliche Bahn ist für die Strecke nach Wieliczka zuverlässig, aber Ojców hat keinen Bahnhof, sodass ein Auto oder Bus erforderlich ist. Die 7-tägige Winterroute nutzt denselben privaten Fuhrpark für den Transfer Krakau–Zakopane am Tag 4, der etwa 2 Stunden und 110 km dauert.",
+          "Wenn Sie individuell reisen, kaufen Sie eine Kraków City Card für unbegrenzte Fahrten mit Straßenbahnen und Bussen und prüfen Sie die Małopolska-Fahrplan-App für Echtzeit-Abfahrten. Züge nach Wieliczka verlassen die Gleise 1 oder 2 am Kraków Główny; entwertet ein Papierticket vor dem Einsteigen. Für Ojców fährt der PKS-Bus vom Dworzec Autobusowy MDA etwa stündlich und benötigt 55 Minuten. Winterdienste von Ende November bis März fahren nach einem reduzierten Fahrplan, daher bestätigen Sie die letzte Rückabfahrt am Abend zuvor."
+        ],
+        "fr": [
+          "La gare de Cracovie Główny à la mine de sel de Wieliczka se situe à environ 20 minutes en train ou en voiture et couvre environ 14 km. Des trains directs circulent toutes les 30 minutes depuis le hall principal, tandis que la route S3 prend un temps similaire en dehors des heures de pointe. Notre circuit d'hiver de 7 jours inclut un transfert privé le jour 2 afin que vous puissiez éviter l'horaire et vous rendre directement aux chambres souterraines. Les bus publics de la ligne 304 circulent également toutes les heures mais mettent environ 35 minutes avec les arrêts. Les horaires d'hiver de fin novembre à décembre peuvent ajouter quelques minutes chaque sens.",
+          "Le trajet de Cracovie au parc national d'Ojców dure environ 45 minutes et 30 km via l'E77 et les routes locales. La route monte doucement dans la Jura polonaise, passant devant les falaises calcaires et la vallée de la Prądnik avant d'atteindre le château de Pieskowa Skała. Le jour 3 du plan de 3 jours, vous avez la matinée libre pour le château et une courte randonnée jusqu'au Massue d'Hercule. Les transferts privés sur nos circuits partent après le petit-déjeuner et reviennent en fin d'après-midi. Les week-ends d'été peuvent ajouter 15 minutes près de l'entrée du parc.",
+          "Les transferts privés sont inclus sur tous nos circuits en Pologne, couvrant la prise en charge à l'aéroport, les trajets interurbains et les excursions d'une journée telles que Cracovie à Wieliczka et Cracovie à Ojców. Les véhicules sont de classe berline ou minivan avec climatisation et un chauffeur parlant anglais. Le train public est fiable pour le trajet vers Wieliczka, mais Ojców n'a pas de gare, donc une voiture ou un bus est nécessaire. L'itinéraire d'hiver de 7 jours utilise la même flotte privée pour le transfert Cracovie–Zakopane le jour 4, qui dure environ 2 heures et 110 km.",
+          "Si vous voyagez de manière indépendante, achetez une carte ville de Kraków pour des trajets illimités en tram et en bus, et consultez l'application des horaires de la Petite-Pologne pour les départs en temps réel. Les trains pour Wieliczka partent des voies 1 ou 2 à la gare de Kraków Główny ; validez un billet papier avant de monter à bord. Pour Ojców, le bus PKS au départ de Dworzec Autobusowy MDA circule environ toutes les heures et met 55 minutes. Les services d'hiver, de fin novembre à mars, fonctionnent selon un horaire réduit, alors confirmez le dernier départ de retour la veille au soir."
+        ],
+        "ja": [
+          "クラクフ・グロウニ駅からヴィエリチカ塩鉱山までは、列車または車で約20分、距離は約14kmです。メインホールからは30分ごとに直通列車が運行されており、S3道路はラッシュアワー以外は同様の所要時間です。当社の7日間冬ツアーでは2日目にプライベート送迎を含んでおり、時刻表を気にせず地下の部屋へ直接向かうことができます。304番の公共バスも1時間ごとに運行していますが、停車があるため約35分かかります。11月下旬から12月の冬季ダイヤでは、片道数分追加される場合があります。",
+          "クラクフからオイェツィ国立公園までのドライブは、E77と地方道を経由して約45分、30kmです。ルートはポーランド・ジュラへと緩やかに登り、石灰岩の崖やプジェドニク渓谷を通り過ぎ、ピエスコワ・スキャラ城に到着します。3日間プランの3日目には、午前中に城とヘラクレスの棍棒への短いハイキングをお楽しみいただけます。当社ツアーのプライベート送迎は朝食後に出発し、午後遅くに戻ります。夏の週末は公園入口付近で15分ほど時間がかかる場合があります。",
+          "プライベート送迎はすべてのポーランドツアーに含まれており、空港ピックアップ、都市間の移動、クラクフからヴィエリチカ、クラクフからオイェツィなどの日帰り旅行をカバーしています。車両はセダンまたはミニバンクラスで、エアコンと英語を話すドライバーが付きます。ヴィエリチカへの区間は公共鉄道も信頼できますが、オイェツィには鉄道駅がないため、車またはバスが必要です。7日間の冬季プランでは、4日目のクラクフからザコパネへの移動に同じプライベート車両を使用し、所要時間は約2時間、距離は110kmです。",
+          "個人で旅行される場合は、クラクフ市のシティカードを購入してトラムとバスを乗り放題でご利用いただき、マウォポルスカの時刻表アプリでリアルタイムの出発時刻をご確認ください。ヴィエリチカ行きの列車はクラクフ・グロウニ駅の1番または2番ホームから出発し、紙の切符は乗車前に検印が必要です。オイェツィへは、ドゥヴェツ・アウトブソウィMDAからのPKSバスが約1時間に1本運行し、所要時間は55分です。11月下旬から3月までの冬季は減便運行となるため、前夜に最終便の復路便をご確認ください。"
+        ],
+        "es": [
+          "Desde la estación de Cracovia Główny hasta la Mina de Sal de Wieliczka hay unos 20 minutos en tren o coche y cubre aproximadamente 14 km. Los trenes directos salen cada 30 minutos desde el vestíbulo principal, mientras que la carretera S3 tarda un tiempo similar fuera de las horas pico. Nuestro tour de invierno de 7 días incluye un traslado privado en el Día 2 para que pueda omitir el horario e ir directamente a las cámaras subterráneas. Los autobuses públicos de la línea 304 también circulan cada hora, pero tardan cerca de 35 minutos con paradas. Los horarios de invierno de finales de noviembre a diciembre pueden añadir algunos minutos cada tramo.",
+          "El trayecto en coche desde Cracovia hasta el Parque Nacional de Ojców dura unos 45 minutos y 30 km por la E77 y carreteras locales. La ruta asciende suavemente hacia la Jura polaca, pasando acantilados de piedra caliza y el valle del Prądnik antes de llegar al Castillo de Pieskowa Skała. En el Día 3 del plan de 3 días tiene la mañana libre para el castillo y una caminata corta hasta el Garrote de Hércules. Los traslados privados en nuestros tours salen después del desayuno y regresan a última hora de la tarde. Los fines de semana de verano pueden añadir 15 minutos cerca de la entrada del parque.",
+          "Los traslados privados están incluidos en todos nuestros tours por Polonia, cubriendo el recogida en el aeropuerto, los trayectos interurbanos y las excursiones de un día como Cracovia a Wieliczka y Cracovia a Ojców. Los vehículos son de clase sedán o minivan con aire acondicionado y un conductor que habla inglés. El tren público es fiable para el trayecto a Wieliczka, pero Ojców no tiene estación de tren, por lo que se requiere coche o autobús. El itinerario de invierno de 7 días utiliza la misma flota privada para el traslado de Cracovia a Zakopane en el Día 4, que dura unas 2 horas y 110 km.",
+          "Si viajas por tu cuenta, compra una tarjeta de ciudad de Kraków para viajes ilimitados en tranvías y autobuses, y consulta la aplicación de horarios de Małopolska para conocer las salidas en tiempo real. Los trenes a Wieliczka salen de los andenes 1 o 2 en Kraków Główny; valida el billete de papel antes de subir. Para Ojców, el autobús PKS desde Dworzec Autobusowy MDA sale aproximadamente cada hora y tarda 55 minutos. Los servicios de invierno, de finales de noviembre a marzo, operan con horario reducido, así que confirma la última salida de regreso la noche anterior."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "20 minutes by train or car to Wieliczka",
+          "45-minute drive to Ojców National Park",
+          "Private transfers included on all tours"
+        ],
+        "de": [
+          "20 Minuten mit dem Zug oder Auto nach Wieliczka",
+          "45-minütige Fahrt zum Ojców-Nationalpark",
+          "Private Transfers sind bei allen Touren inklusive"
+        ],
+        "fr": [
+          "20 minutes en train ou en voiture pour Wieliczka",
+          "45 minutes de route pour le parc national d'Ojców",
+          "Transferts privés inclus sur tous les circuits"
+        ],
+        "ja": [
+          "列車または車でヴィエリチカまで20分",
+          "オイェツィ国立公園まで車で45分",
+          "すべてのツアーに専用送迎を含む"
+        ],
+        "es": [
+          "20 minutos en tren o coche hasta Wieliczka",
+          "45 minutos en coche hasta el Parque Nacional de Ojców",
+          "Traslados privados incluidos en todos los tours"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Wieliczka distance",
+            "de": "Entfernung nach Wieliczka",
+            "fr": "Distance jusqu'à Wieliczka",
+            "ja": "ヴィエリチカまでの距離",
+            "es": "Distancia a Wieliczka"
+          },
+          "value": {
+            "en": "14 km from Kraków Główny",
+            "de": "14 km vom Kraków Główny",
+            "fr": "14 km de Kraków Główny",
+            "ja": "クラクフ・グロウニ駅から14 km",
+            "es": "14 km desde Kraków Główny"
+          }
+        },
+        {
+          "label": {
+            "en": "Ojców drive time",
+            "de": "Fahrtzeit nach Ojców",
+            "fr": "Temps de trajet jusqu'à Ojców",
+            "ja": "オイェツィまでのドライブ時間",
+            "es": "Tiempo en coche a Ojców"
+          },
+          "value": {
+            "en": "about 45 minutes, 30 km",
+            "de": "ca. 45 Minuten, 30 km",
+            "fr": "environ 45 minutes, 30 km",
+            "ja": "約45分、30 km",
+            "es": "unos 45 minutos, 30 km"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "7 Days / 6 Nights",
+            "de": "7 Tage / 6 Nächte",
+            "fr": "7 jours / 6 nuits",
+            "ja": "7日間 / 6泊",
+            "es": "7 días / 6 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793905194/sunday-atlas/blog/krakow-itinerary-3-days/krakow-region-commons-181538687.jpg",
+        "width": 1920,
+        "height": 1439,
+        "alt": {
+          "en": "Aerial view of Kraków, Poland, showing dense residential rooftops under a clear sky.",
+          "de": "Luftaufnahme von Krakau, Polen, mit dichten Wohngebäudedächern unter klarem Himmel.",
+          "fr": "Vue aérienne de Cracovie, en Pologne, montrant des toits résidentiels denses sous un ciel dégagé.",
+          "ja": "ポーランド、クラクフの空中からの眺め。澄み渡る空の下、密集した住宅の屋根が広がる。",
+          "es": "Vista aérea de Cracovia, Polonia, que muestra densos tejados residenciales bajo un cielo despejado."
+        },
+        "credit": {
+          "author": "Igor123121",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Single-family_housing_development_in_Azory_region,_2025._Krak%C3%B3w._Poland.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Kraków region",
+          "de": "Region Krakau",
+          "fr": "Région de Cracovie",
+          "ja": "クラクフ地域",
+          "es": "Región de Cracovia"
+        }
+      },
+      "embeddedPackageSlug": "krakow-zakopane-winter-7-days"
+    },
+    {
+      "id": "where-to-stay-best-months",
+      "placeName": {
+        "en": "Kraków",
+        "de": "Kraków",
+        "fr": "Kraków",
+        "ja": "クラクフ",
+        "es": "Kraków"
+      },
+      "heading": {
+        "en": "Where to stay in Kraków and the best months to visit",
+        "de": "Wo man in Kraków übernachtet und die besten Reisezeiten",
+        "fr": "Où séjourner à Kraków et les meilleurs mois pour visiter",
+        "ja": "クラクフでの滞在先と訪問に最適な時期",
+        "es": "Dónde alojarse en Kraków y los mejores meses para visitarla"
+      },
+      "paragraphs": {
+        "en": [
+          "Stay in the Old Town or Kazimierz to reach Wawel Castle, St Mary’s Basilica and the Main Market Square on foot within ten minutes; both districts sit inside the Planty park ring that circles the historic centre. The Old Town occupies a compact grid about one kilometre across, so most museums, churches and restaurants lie within a 500‑metre radius of the Main Square. Kazimierz, directly south across the Vistula, adds a dense network of pre‑war synagogues, cafés and the former Jewish ghetto area around Plac Bohaterów Getta. Hotels in these two zones range from restored 19th‑century townhouses to modern boutique properties, all within a short walk of tram lines that connect to the train station in about five minutes. Choosing a room near the Planty also puts you close to the river boulevards used for evening cycling routes.",
+          "April through October brings daytime highs of 15 to 25 °C, ideal for walking tours and cycling along the Vistula boulevards; December adds the Christmas market on the Main Square from late November to late December. Rainfall peaks in June and July at roughly 80 mm per month, so a light waterproof layer is practical even in summer. Daylight stretches to nearly 16 hours in late June, allowing extended sightseeing after dinner, while October days shrink to about 10 hours of light. The market season draws large crowds to the square and surrounding streets, so early‑morning visits before 10 am are quieter for photography. Hotel occupancy in the Old Town often exceeds 80 percent during the market weeks, making advance booking essential.",
+          "January to March sees temperatures often below freezing with snow cover in the nearby Tatras, making this period better suited for ski trips than city sightseeing. Average January lows sit around −5 °C, and the Vistula can develop thin ice along the banks, limiting riverside cycling. Daylight drops to eight hours in December and January, so museum opening hours — typically 10 am to 4 pm — align with the shorter days. Many outdoor cafés close or move indoors, and the Planty paths can be slippery without cleared walkways. Our 9‑day winter tour schedules three nights in Kraków during this window specifically for the Christmas market before heading to higher elevations in the Beskids.",
+          "Our 9‑day winter tour spends three nights in Kraków during the market season before moving to the Beskids for skiing, so the same hotel base serves both the city and mountain legs. The transfer from Kraków to the Beskid resort area covers about 100 kilometres and takes roughly two hours by private vehicle on the A4 and S1 roads. Day 2 of that tour includes a guided walk of Wawel Castle, St Mary’s Basilica and Kazimierz, matching the highlights of this three‑day plan. Day 3 is left open for independent exploration or an optional Wieliczka Salt Mine visit, which lies 14 kilometres south-east and requires about 30 minutes by road. The tour returns to Kraków on Day 8 for a final night before departure on Day 9."
+        ],
+        "de": [
+          "Übernachten Sie in der Altstadt oder in Kazimierz, um die Wawel-Burg, die Marienbasilika und den Hauptmarkt zu Fuß innerhalb von zehn Minuten zu erreichen; beide Stadtteile liegen innerhalb des Planty-Parkrings, der das historische Zentrum umschließt. Die Altstadt nimmt ein kompaktes Raster von etwa einem Kilometer ein, sodass die meisten Museen, Kirchen und Restaurants innerhalb eines 500-Meter-Radius um den Hauptmarkt liegen. Kazimierz, direkt südlich jenseits der Weichsel, fügt ein dichtes Netz aus Vorkriegssynagogen, Cafés und dem ehemaligen Ghettogebiet rund um den Plac Bohaterów Getta hinzu. Hotels in diesen beiden Zonen reichen von restaurierten Stadthäusern aus dem 19. Jahrhundert bis hin zu modernen Boutique-Hotels, alle nur einen kurzen Fußweg von Straßenbahnlinien entfernt, die in etwa fünf Minuten zum Bahnhof verbinden. Ein Zimmer in der Nähe der Planty bringt Sie zudem nahe an die Flussboulevards, die für Abendradtouren genutzt werden.",
+          "April bis Oktober bringt Tageshöchstwerte von 15 bis 25 °C, ideal für Wandertouren und Radtouren entlang der Weichsel-Boulevards; Dezember bringt den Weihnachtsmarkt auf dem Hauptmarkt von Ende November bis Ende Dezember. Der Niederschlag erreicht im Juni und Juli mit etwa 80 mm pro Monat seinen Höhepunkt, sodass eine leichte wasserdichte Schicht selbst im Sommer praktisch ist. Die Tageslichtdauer erstreckt sich im Spätsommer auf fast 16 Stunden und ermöglicht ausgedehnte Besichtigungen nach dem Abendessen, während die Oktober Tage auf etwa 10 Stunden Licht schrumpfen. Die Marktsaison zieht große Menschenmengen auf den Platz und die umliegenden Straßen an, sodass frühe Morgenbesuche vor 10 Uhr ruhiger für Fotografien sind. Die Hotelbelegung in der Altstadt übersteigt während der Marktwochen oft 80 Prozent, was eine frühzeitige Buchung unerlässlich macht.",
+          "Januar bis März bringt oft Temperaturen unter dem Gefrierpunkt mit Schneebedeckung in den nahegelegenen Tatra, wodurch dieser Zeitraum besser für Skireisen als für Städtetrips geeignet ist. Die durchschnittlichen Januartiefstwerte liegen bei etwa −5 °C, und die Weichsel kann entlang der Ufer dünnes Eis entwickeln, was das Radfahren am Flussufer einschränkt. Die Tageslichtdauer sinkt im Dezember und Januar auf acht Stunden, sodass die Museumöffnungszeiten – typischerweise 10 bis 16 Uhr – mit den kürzeren Tagen übereinstimmen. Viele Straßencafés schließen oder verlegen sich ins Innere, und die Planty-Pfade können ohne geräumte Gehwege rutschig sein. Unsere 9-tägige Wintertour plant drei Nächte in Kraków während dieses Zeitraums speziell für den Weihnachtsmarkt, bevor sie in höhere Lagen der Beskiden aufbricht.",
+          "Unsere 9-tägige Wintertour verbringt drei Nächte in Kraków während der Marktsaison, bevor sie in die Beskiden zum Skifahren weiterzieht, sodass derselbe Hotelstandort sowohl den Stadt- als auch den Bergteil der Reise bedient. Der Transfer von Kraków in das Beskiden-Resortgebiet umfasst etwa 100 Kilometer und dauert mit dem privaten Fahrzeug auf den A4- und S1-Straßen etwa zwei Stunden. Tag 2 dieser Tour beinhaltet einen geführten Spaziergang durch die Wawel-Burg, die Marienbasilika und Kazimierz, der den Höhepunkten dieses Dreitageplans entspricht. Tag 3 bleibt für eigenständige Erkundungen oder einen optionalen Besuch der Wieliczka-Salzbergwerke offen, die 14 Kilometer südöstlich liegen und etwa 30 Minuten mit dem Auto benötigen. Die Tour kehrt am Tag 8 nach Kraków zurück für eine letzte Nacht vor der Abreise am Tag 9."
+        ],
+        "fr": [
+          "Séjournez dans la Vieille Ville ou à Kazimierz pour rejoindre le château de Wawel, la basilique Sainte-Marie et la place du Marché principal à pied en moins de dix minutes ; les deux quartiers se trouvent à l'intérieur de l'anneau du parc Planty qui entoure le centre historique. La Vieille Ville occupe un réseau compact d'environ un kilomètre de large, de sorte que la plupart des musées, églises et restaurants se trouvent dans un rayon de 500 mètres autour de la place du Marché. Kazimierz, directement au sud de l'autre côté de la Vistule, ajoute un réseau dense de synagogues d'avant-guerre, de cafés et de l'ancien quartier du ghetto juif autour de la place des Héros du Ghetto. Les hôtels dans ces deux zones vont des maisons de ville restaurées du XIXe siècle aux établissements de charme modernes, tous à quelques pas des lignes de tram qui relient la gare en environ cinq minutes. Choisir une chambre près du Planty vous place également près des berges de la rivière utilisées pour les circuits à vélo du soir.",
+          "D'avril à octobre, les maximales diurnes varient de 15 à 25 °C, idéales pour les visites à pied et le vélo le long des berges de la Vistule ; décembre ajoute le marché de Noël sur la place du Marché de fin novembre à fin décembre. Les précipitations culminent en juin et juillet avec environ 80 mm par mois, donc une couche imperméable légère est pratique même en été. La lumière du jour s'étend à près de 16 heures fin juin, permettant des visites prolongées après le dîner, tandis qu'en octobre les jours se réduisent à environ 10 heures de lumière. La saison du marché attire de grandes foules sur la place et les rues environnantes, donc les visites tôt le matin avant 10 h sont plus calmes pour la photographie. L'occupation hôtelière dans la Vieille Ville dépasse souvent 80 pour cent pendant les semaines de marché, rendant la réservation anticipée essentielle.",
+          "De janvier à mars, les températures sont souvent inférieures à zéro avec de la neige dans les Tatras voisins, rendant cette période plus adaptée aux séjours de ski qu'aux visites de la ville. Les minimales moyennes de janvier se situent autour de −5 °C, et la Vistule peut développer une fine glace le long des rives, limitant le vélo au bord de la rivière. La lumière du jour tombe à huit heures en décembre et janvier, donc les horaires d'ouverture des musées — généralement de 10 h à 16 h — s'alignent sur les journées plus courtes. De nombreux cafés en plein air ferment ou se déplacent à l'intérieur, et les sentiers du Planty peuvent être glissants sans trottoirs déneigés. Notre circuit d'hiver de 9 jours programme trois nuits à Kraków pendant cette période spécifiquement pour le marché de Noël avant de se diriger vers des altitudes plus élevées dans les Beskides.",
+          "Notre circuit d'hiver de 9 jours passe trois nuits à Kraków pendant la saison du marché avant de se diriger vers les Beskides pour le ski, de sorte que la même base hôtelière sert à la fois les étapes de la ville et de la montagne. Le transfert de Kraków à la zone de station de montagne des Beskides couvre environ 100 kilomètres et prend environ deux heures en véhicule privé sur les routes A4 et S1. Le jour 2 de ce circuit inclut une visite guidée du château de Wawel, de la basilique Sainte-Marie et de Kazimierz, correspondant aux points forts de ce plan de trois jours. Le jour 3 est laissé libre pour une exploration indépendante ou une visite facultative de la mine de sel de Wieliczka, qui se trouve à 14 kilomètres au sud-est et nécessite environ 30 minutes par la route. Le circuit retourne à Kraków le jour 8 pour une dernière nuit avant le départ le jour 9."
+        ],
+        "ja": [
+          "旧市街またはカジミェシュ地区に滞在すれば、ヴァヴェル城、聖マリア大聖堂、メイン・マーケット・スクエアまで徒歩10分以内でアクセスできます。両地区は歴史地区を巡るプランティ公園の環状線内に位置しています。旧市街は約1キロメートル四方のコンパクトな区画で、ほとんどの博物館、教会、レストランがメイン・スクエアから半径500メートル以内にあります。ヴィスワ川を挟んだ南側に位置するカジミェシュ地区は、戦前のシナゴーグ、カフェ、元ユダヤ人ゲットー地区（プラツ・ボハテロフ・ゲッタ周辺）が密集しています。これら2つのエリアのホテルは、19世紀に改装されたタウンハウスからモダンなブティックホテルまで様々で、いずれも駅まで約5分のトラム路線から徒歩圏内です。プランティ公園近くの部屋を選べば、夜のサイクリングルートに利用される川沿いの遊歩道にも近くなります。",
+          "4月から10月は日中の最高気温が15～25℃となり、ウォーキングツアーやヴィスワ川沿いのサイクリングに最適です。12月にはメイン・スクエアでクリスマスマーケットが開催されます（11月下旬から12月下旬まで）。降雨量は6月と7月にピークを迎え、月間約80mmとなるため、夏でも軽い防寒着があると便利です。6月下旬には日照時間がほぼ16時間に達し、夕食後の観光も十分に楽しめます。一方、10月の日照時間は約10時間に短縮されます。マーケットシーズンは広場や周辺の通りに大勢の観光客が集まるため、写真撮影には午前10時前の早朝がおすすめです。旧市街のホテル稼働率はマーケット週間中に80％を超えることが多く、事前予約が不可欠です。",
+          "1月から3月は気温が氷点下になることが多く、近郊のタトラ山脈には雪が積もるため、この時期は市内観光よりもスキー旅行に適しています。1月の平均最低気温は約−5℃で、ヴィスワ川の岸辺には薄い氷が張ることがあり、川沿いのサイクリングが制限されます。12月と1月の日照時間は8時間に減少し、博物館の開館時間（通常は午前10時から午後4時まで）は短い日照時間に合わせています。多くの屋外カフェは閉店するか屋内に移動し、プランティ公園の小道は除雪されていないと滑りやすくなります。当社の9日間の冬季ツアーは、クリスマスマーケットのためにこの期間にクラクフで3泊をスケジュールし、その後ベスキディの高地へ向かいます。",
+          "当社の9日間の冬季ツアーは、マーケットシーズン中にクラクフで3泊を過ごした後、ベスキディのスキー地へ移動するため、同じホテルを拠点に都市と山岳の両方の行程を楽しめます。クラクフからベスキディのリゾートエリアまでの送迎は、A4およびS1道路を専用車両で約2時間、距離は約100キロメートルです。ツアーの2日目には、ヴァヴェル城、聖マリア大聖堂、カジミェシュ地区のガイド付きウォーキングが含まれており、この3日間プランのハイライトと一致します。3日目は自由時間またはオプションのヴィエリチカ塩鉱山見学に充てられます。塩鉱山は南東へ14キロメートル、車で約30分の場所にあります。ツアーは8日目にクラクフに戻り、最終夜を過ごした後、9日目に出発となります。"
+        ],
+        "es": [
+          "Alojarse en el casco antiguo o en Kazimierz permite llegar a pie al Castillo de Wawel, a la Basílica de Santa María y a la Plaza del Mercado Principal en menos de diez minutos; ambos distritos están dentro del anillo del parque Planty que rodea el centro histórico. El casco antiguo ocupa una cuadrícula compacta de aproximadamente un kilómetro de ancho, por lo que la mayoría de los museos, iglesias y restaurantes se encuentran a menos de 500 metros de la Plaza del Mercado. Kazimierz, directamente al sur al otro lado del Vístula, añade una densa red de sinagogas de entreguerras, cafeterías y el antiguo área del gueto judío alrededor de la Plaza de los Héroes del Gueto. Los hoteles en estas dos zonas van desde casas señoriales del siglo XIX restauradas hasta propiedades boutique modernas, todas a poca distancia a pie de las líneas de tranvía que conectan con la estación de tren en unos cinco minutos. Elegir una habitación cerca de Planty también te sitúa cerca de los bulevares fluviales utilizados para rutas de ciclismo nocturno.",
+          "De abril a octubre, las temperaturas máximas diurnas oscilan entre 15 y 25 °C, ideales para recorridos a pie y ciclismo por los bulevares del Vístula; diciembre añade el mercado navideño en la Plaza del Mercado, de finales de noviembre a finales de diciembre. Las precipitaciones alcanzan su punto máximo en junio y julio, con unos 80 mm al mes, por lo que una capa impermeable ligera es práctica incluso en verano. La luz del día se extiende a casi 16 horas a finales de junio, lo que permite visitas turísticas prolongadas después de cenar, mientras que los días de octubre se reducen a unas 10 horas de luz. La temporada de mercado atrae grandes multitudes a la plaza y las calles circundantes, por lo que las visitas temprano por la mañana, antes de las 10 am, son más tranquilas para fotografiar. La ocupación hotelera en el casco antiguo suele superar el 80 por ciento durante las semanas del mercado, lo que hace esencial reservar con antelación.",
+          "De enero a marzo, las temperaturas suelen estar bajo cero con nieve en los Tatras cercanos, lo que hace que este período sea más adecuado para viajes de esquí que para visitar la ciudad. Las mínimas medias de enero se sitúan alrededor de −5 °C, y el Vístula puede desarrollar hielo fino a lo largo de las orillas, limitando el ciclismo ribereño. La luz del día se reduce a ocho horas en diciembre y enero, por lo que los horarios de apertura de los museos —típicamente de 10 am a 4 pm— se ajustan a los días más cortos. Muchos cafés al aire libre cierran o se trasladan al interior, y los caminos de Planty pueden estar resbaladizos sin aceras despejadas. Nuestro tour de invierno de 9 días programa tres noches en Kraków durante esta ventana específicamente para el mercado navideño antes de dirigirse a mayores elevaciones en los Beskides.",
+          "Nuestro tour de invierno de 9 días pasa tres noches en Kraków durante la temporada de mercado antes de mudarse a los Beskides para esquiar, por lo que la misma base hotelera sirve tanto para la parte de la ciudad como para la de montaña. El traslado de Kraków al área del complejo turístico de los Beskides cubre unos 100 kilómetros y tarda aproximadamente dos horas en vehículo privado por las carreteras A4 y S1. El día 2 de ese tour incluye un recorrido guiado por el Castillo de Wawel, la Basílica de Santa María y Kazimierz, que coincide con los puntos destacados de este plan de tres días. El día 3 se deja abierto para exploración independiente o una visita opcional a la Mina de Sal de Wieliczka, que se encuentra a 14 kilómetros al sureste y requiere unos 30 minutos por carretera. El tour regresa a Kraków el día 8 para una última noche antes de la salida el día 9."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Old Town and Kazimierz give walking access to all main sites",
+          "April to October offers mild weather for walking and cycling",
+          "December brings the Main Square Christmas market"
+        ],
+        "de": [
+          "Altstadt und Kazimierz bieten fußläufigen Zugang zu allen Hauptsehenswürdigkeiten",
+          "April bis Oktober bietet mildes Wetter für Wandern und Radfahren",
+          "Dezember bringt den Weihnachtsmarkt auf dem Hauptmarkt"
+        ],
+        "fr": [
+          "La Vieille Ville et Kazimierz offrent un accès à pied à tous les sites principaux",
+          "D'avril à octobre offre un temps doux pour la marche et le vélo",
+          "Décembre apporte le marché de Noël de la place du Marché"
+        ],
+        "ja": [
+          "旧市街とカジミェシュ地区は主要な観光地への徒歩アクセスに便利",
+          "4月から10月はウォーキングとサイクリングに適した穏やかな天候",
+          "12月はメイン・スクエアのクリスマスマーケットが開催"
+        ],
+        "es": [
+          "El casco antiguo y Kazimierz ofrecen acceso a pie a todos los sitios principales",
+          "De abril a octubre ofrece clima templado para caminar y andar en bicicleta",
+          "Diciembre trae el mercado navideño de la Plaza del Mercado"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Best months",
+            "de": "Beste Reisezeit",
+            "fr": "Meilleurs mois",
+            "ja": "ベストシーズン",
+            "es": "Meses recomendados"
+          },
+          "value": {
+            "en": "April to October, December",
+            "de": "April bis Oktober, Dezember",
+            "fr": "D'avril à octobre, décembre",
+            "ja": "4月から10月、12月",
+            "es": "De abril a octubre, diciembre"
+          }
+        },
+        {
+          "label": {
+            "en": "Recommended districts",
+            "de": "Empfohlene Stadtteile",
+            "fr": "Quartiers recommandés",
+            "ja": "おすすめの地区",
+            "es": "Distritos recomendados"
+          },
+          "value": {
+            "en": "Old Town, Kazimierz",
+            "de": "Altstadt, Kazimierz",
+            "fr": "Vieille Ville, Kazimierz",
+            "ja": "旧市街、カジミェシュ",
+            "es": "Ciudad Vieja, Kazimierz"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "9 Days / 8 Nights",
+            "de": "9 Tage / 8 Nächte",
+            "fr": "9 jours / 8 nuits",
+            "ja": "9日間 / 8泊",
+            "es": "9 días / 8 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793905198/sunday-atlas/blog/krakow-itinerary-3-days/krakow-commons-180325068.jpg",
+        "width": 1920,
+        "height": 1439,
+        "alt": {
+          "en": "Aerial view of Kraków Main Station and surrounding city square.",
+          "de": "Luftaufnahme des Krakauer Hauptbahnhofs und des umliegenden Stadtplatzes.",
+          "fr": "Vue aérienne de la gare principale de Cracovie et de la place de la ville environnante.",
+          "ja": "ポーランド、クラクフ中央駅とその周辺の広場を空中から見下ろす。",
+          "es": "Vista aérea de la estación principal de Cracovia y la plaza de la ciudad circundante."
+        },
+        "credit": {
+          "author": "Igor123121",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Nowak-Jeziora%C5%84ski_Square,_2025,_Krak%C3%B3w,_Poland.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Kraków",
+          "de": "Kraków",
+          "fr": "Kraków",
+          "ja": "クラクフ",
+          "es": "Kraków"
+        }
+      },
+      "embeddedPackageSlug": "krakow-katowice-beskids-active-winter-9-days"
+    },
+    {
+      "id": "sunday-atlas-tour-comparison",
+      "placeName": {
+        "en": "Polish Jura",
+        "de": "Polnisches Jura",
+        "fr": "Jura polonais",
+        "ja": "ポーランド・ジュラ",
+        "es": "Jura polaco"
+      },
+      "heading": {
+        "en": "How our 7-day Jura tour differs from this 3-day plan",
+        "de": "Wie sich unsere 7-tägige Jura-Rundreise von diesem 3-Tage-Plan unterscheidet",
+        "fr": "Comment notre circuit de 7 jours dans le Jura diffère de ce programme de 3 jours",
+        "ja": "7日間ジュラツアーと3日間プランの違い",
+        "es": "En qué se diferencia nuestro tour de 7 días por el Jura de este plan de 3 días"
+      },
+      "paragraphs": {
+        "en": [
+          "Our Kraków & the Jura 7-day tour extends the 3-day plan by four full days in the Polish Jurassic Highlands, starting with a private transfer of about 40 km from Kraków to a countryside hotel among limestone cliffs. Day 3 covers Ojców National Park and Pieskowa Skała Castle, matching the shorter itinerary, then Day 4 adds a cycling day of roughly 35 km through the Prądnik and Sąspowska valleys with an evening spa session. Day 5 includes a beginner climbing or via ferrata session on routes graded for first-timers, and Day 6 is a full nature-guide day exploring caves and wildlife areas not visited on the 3-day plan. The tour runs from spring to autumn when trails are dry and daylight lasts 14 to 15 hours.",
+          "The cycling day on Day 4 follows marked valley paths with about 300 m of total elevation gain, suitable for riders with average fitness on hybrid or gravel bikes. Day 5 climbing uses limestone crags up to 30 m high with bolted routes and a certified instructor, while the via ferrata option follows a fixed cable line of about 120 m. Day 6 enters caves such as Łokietek and Ciemna, where temperatures stay near 8 °C year-round, and includes wildlife observation in mixed forest and meadow habitats. All activities are private and paced to the group, with the guide adjusting distance and difficulty on the spot.",
+          "Accommodation shifts after Day 2 from a Kraków 4* or 5* hotel to a Jura countryside hotel for four nights, cutting daily travel to activity sites to 10 to 20 minutes instead of the 40 km return drive from the city. The package includes six nights with breakfast, private airport transfers on arrival and departure, the Kraków-to-Jura transfer, a local SIM card for data and calls, and 24/7 support while you travel. An online concierge helps before and during the trip with logistics, restaurant suggestions and weather updates. The tour is private, so start dates are flexible within the spring-to-autumn season.",
+          "Late November to December adds Kraków Christmas markets within walking distance of the Day 1 hotel, while December to March brings snow in the Tatras and Beskids for skiing and thermal pools, though the Jura cycling and climbing days are not offered in winter. Spring to autumn remains the operating window for the full 7-day outdoor program, with May, June and September offering the most stable weather and longest daylight. The 3-day plan stays in Kraków and makes a half-day trip to Wieliczka and a day trip to Ojców, while the 7-day tour adds three full activity days and a nature-guide day in the highlands."
+        ],
+        "de": [
+          "Unsere 7-tägige Krakau- und Jura-Rundreise erweitert den 3-Tage-Plan um vier ganze Tage im polnischen Jurahochland, beginnend mit einem privaten Transfer von etwa 40 km von Krakau zu einem Landhotel zwischen Kalksteinfelsen. Tag 3 umfasst den Nationalpark Ojców und das Schloss Pieskowa Skała, wie im kürzeren Reiseplan, dann fügt Tag 4 einen Radtag von rund 35 km durch die Täler Prądnik und Sąspowska mit einem abendlichen Spa-Besuch hinzu. Tag 5 beinhaltet eine Kletter- oder Klettersteig-Einführung für Anfänger auf Routen für Erststeiger, und Tag 6 ist ein ganzer Tag mit einem Naturführer, der Höhlen und Wildtiergebiete erkundet, die nicht im 3-Tage-Plan enthalten sind. Die Reise findet von Frühling bis Herbst statt, wenn die Wege trocken sind und die Tageslichtdauer 14 bis 15 Stunden beträgt.",
+          "Der Radtag am Tag 4 folgt markierten Talwegen mit etwa 300 m Gesamthöhenunterschied, geeignet für Fahrer mit durchschnittlicher Fitness auf Hybrid- oder Gravelbikes. Das Klettern am Tag 5 nutzt Kalksteinfelsen bis zu 30 m Höhe mit gebohrten Routen und einem zertifizierten Ausbilder, während die Klettersteig-Option einer festen Seilleitung von etwa 120 m folgt. Tag 6 betritt Höhlen wie Łokietek und Ciemna, wo die Temperaturen das ganze Jahr über bei etwa 8 °C liegen, und beinhaltet Wildtierbeobachtungen in gemischten Wald- und Wiesenhabitaten. Alle Aktivitäten sind privat und an die Gruppe angepasst, wobei der Guide die Distanz und Schwierigkeit vor Ort anpasst.",
+          "Die Unterkunft wechselt nach Tag 2 von einem 4*- oder 5*-Hotel in Krakau zu einem Landhotel im Jura für vier Nächte, wodurch die tägliche Anfahrt zu den Aktivitätsorten auf 10 bis 20 Minuten verkürzt wird, anstatt der 40 km Rückfahrt von der Stadt. Das Paket umfasst sechs Nächte mit Frühstück, private Flughafentransfers bei An- und Abreise, den Transfer von Krakau ins Jura, eine lokale SIM-Karte für Daten und Anrufe sowie 24/7-Support während der Reise. Ein Online-Koncierge hilft vor und während der Reise bei Logistik, Restaurantempfehlungen und Wetterupdates. Die Reise ist privat, sodass die Startdaten innerhalb der Frühjahr- bis Herbstsaison flexibel sind.",
+          "Spätes November bis Dezember bringt Krakauer Weihnachtsmärkte in Gehweite des Hotels am Tag 1, während Dezember bis März Schnee in der Tatra und den Beskiden für Skifahren und Thermalbäder bringt, obwohl die Jura-Rad- und Klettertage im Winter nicht angeboten werden. Frühling bis Herbst bleibt das Betriebsfenster für das vollständige 7-tägige Outdoor-Programm, wobei Mai, Juni und September das stabilste Wetter und die längste Tageslichtdauer bieten. Der 3-Tage-Plan bleibt in Krakau und unternimmt einen halbtägigen Ausflug nach Wieliczka und einen Tagesausflug nach Ojców, während die 7-tägige Reise drei ganze Aktivitätstage und einen Naturführertag im Hochland hinzufügt."
+        ],
+        "fr": [
+          "Notre circuit Cracovie et le Jura de 7 jours prolonge le programme de 3 jours par quatre journées complètes dans les hautes terres jurassiques polonaises, à commencer par un transfert privé d'environ 40 km de Cracovie à un hôtel de campagne niché parmi les falaises de calcaire. Le jour 3 couvre le parc national d'Ojców et le château de Pieskowa Skała, comme l'itinéraire plus court, puis le jour 4 ajoute une journée de cyclisme d'environ 35 km à travers les vallées de Prądnik et Sąspowska, suivie d'une séance de spa en soirée. Le jour 5 comprend une séance d'escalade pour débutants ou de via ferrata sur des itinéraires adaptés aux novices, et le jour 6 est une journée complète avec un guide nature à la découverte de grottes et de zones naturelles non visitées dans le cadre du programme de 3 jours. Le circuit se déroule du printemps à l'automne, lorsque les sentiers sont secs et que la lumière du jour dure 14 à 15 heures.",
+          "La journée de cyclisme du jour 4 emprunte des sentiers balisés dans les vallées avec environ 300 m de dénivelé total, adaptée aux cyclistes de condition physique moyenne sur vélos hybrides ou gravel. L'escalade du jour 5 se pratique sur des falaises de calcaire pouvant atteindre 30 m de hauteur, avec des voies équipées et un moniteur certifié, tandis que l'option via ferrata suit une ligne de câble fixe d'environ 120 m. Le jour 6 mène à des grottes telles que Łokietek et Ciemna, où les températures se maintiennent autour de 8 °C toute l'année, et inclut l'observation de la faune dans des habitats de forêt mixte et de prairies. Toutes les activités sont privées et adaptées au rythme du groupe, le guide ajustant la distance et la difficulté sur place.",
+          "L'hébergement change après le jour 2, passant d'un hôtel 4* ou 5* à Cracovie à un hôtel de campagne dans le Jura pour quatre nuits, réduisant les trajets quotidiens vers les sites d'activité à 10 à 20 minutes au lieu de l'aller-retour de 40 km depuis la ville. Le forfait comprend six nuits avec petit-déjeuner, les transferts privés aéroport à l'arrivée et au départ, le transfert Cracovie-Jura, une carte SIM locale pour les données et les appels, ainsi qu'une assistance 24/7 pendant votre voyage. Un concierge en ligne vous aide avant et pendant le séjour pour la logistique, les suggestions de restaurants et les prévisions météorologiques. Le circuit étant privé, les dates de début sont flexibles pendant la saison printemps-automne.",
+          "De fin novembre à décembre, les marchés de Noël de Cracovie sont accessibles à pied depuis l'hôtel du jour 1, tandis que de décembre à mars, la neige dans les Tatras et les Beskides permet le ski et les bains thermaux, bien que les journées de cyclisme et d'escalade dans le Jura ne soient pas proposées en hiver. Le printemps à l'automne reste la période d'ouverture pour le programme complet de 7 jours en plein air, avec mai, juin et septembre offrant le temps le plus stable et les journées les plus longues. Le programme de 3 jours reste à Cracovie et effectue une demi-journée à Wieliczka et une journée à Ojców, tandis que le circuit de 7 jours ajoute trois journées d'activité complètes et une journée avec un guide nature dans les hautes terres."
+        ],
+        "ja": [
+          "クラクフ＆ジュラ7日間ツアーは、3日間プランにポーランドジュラ高原での丸4日間を追加したものです。クラクフから石灰岩の断崖に囲まれた田舎のホテルまで、約40kmのプライベート送迎から始まります。3日目はオイェツィ国立公園とピエスコワ・スカラ城を巡り、短い日程と同様の内容です。4日目はプラドニク川とサスポフスカの谷間を約35kmサイクリングし、夜にはスパセッションをお楽しみいただきます。5日目は初心者向けのクライミングまたはヴィア・フェラータ体験、6日目は3日間プランでは訪れない洞窟や野生動物の生息地を探検する、自然ガイドによる丸1日のツアーです。トレイルが乾いており、日照時間が14〜15時間ある春から秋にかけて実施します。",
+          "4日目のサイクリングは標識付きの谷間の小道を進み、総獲得標高は約300mです。平均的な体力のある方、ハイブリッドバイクまたはグラベルバイクに適しています。5日目のクライミングは高さ最大30mの石灰岩の岩場で、ボルト固定ルートと公認インストラクターが付きます。ヴィア・フェラータのオプションは、約120mの固定ケーブルラインを進みます。6日目はロキエテク洞窟やチエムナ洞窟などの洞窟に入ります。洞窟内の気温は年間を通じて約8℃に保たれ、混交林や草原の生息地での野生動物観察も含まれます。すべてのアクティビティはプライベートで、グループのペースに合わせてガイドがその場で距離や難易度を調整します。",
+          "2日目以降、宿泊先はクラクフの4*または5*ホテルからジュラの田舎のホテルに移り、4連泊します。これにより、アクティビティ拠点までの移動時間を10〜20分に短縮し、市内からの往復40kmのドライブが不要になります。パッケージには6泊分の朝食、到着・出発時のプライベート空港送迎、クラクフからジュラへの移動、データ通信と通話用のローカルSIMカード、旅行中の24時間365日サポートが含まれます。オンラインコンシェルジュが出発前から旅行中まで、物流、レストランの提案、天気情報の面でサポートします。ツアーはプライベートのため、春から秋のシーズン内であれば出発日を柔軟に設定できます。",
+          "11月下旬から12月には、1日目のホテルから徒歩圏内にクラクフのクリスマスマーケットが登場します。12月から3月はタトラ山脈とベスキディ山脈に雪が降り、スキーや温水プールを楽しめますが、ジュラでのサイクリングとクライミングは冬季は提供されません。春から秋が7日間のアウトドアプログラムの実施期間であり、5月、6月、9月は最も安定した天候と最長の日照時間が期待できます。3日間プランはクラクフに滞在し、ヴィエリチカへの半日旅行とオイェツィへの1日旅行を行いますが、7日間ツアーでは高原での3日間のアクティビティと自然ガイドによる1日が追加されます。"
+        ],
+        "es": [
+          "Nuestro tour de 7 días por Cracovia y el Jura extiende el plan de 3 días con cuatro días completos en las Tierras Altas Jurásicas Polacas, comenzando con un traslado privado de unos 40 km desde Cracovia hasta un hotel rural entre acantilados de piedra caliza. El día 3 cubre el Parque Nacional de Ojców y el castillo de Pieskowa Skała, igual que el itinerario más corto, luego el día 4 añade una jornada de ciclismo de unos 35 km por los valles de Prądnik y Sąspowska con una sesión de spa por la noche. El día 5 incluye una sesión de escalada o vía ferrata para principiantes en rutas aptas para novatos, y el día 6 es una jornada completa con guía de naturaleza explorando cuevas y zonas de vida silvestre no incluidas en el plan de 3 días. El tour se realiza de primavera a otoño, cuando los senderos están secos y hay entre 14 y 15 horas de luz diurna.",
+          "La jornada de ciclismo del día 4 sigue senderos señalizados en el valle con unos 300 m de desnivel acumulado, apta para ciclistas con condición física media en bicicletas híbridas o de gravel. La escalada del día 5 utiliza paredes de piedra caliza de hasta 30 m con rutas equipadas y un instructor certificado, mientras que la opción de vía ferrata sigue una línea de cable fija de unos 120 m. El día 6 visita cuevas como Łokietek y Ciemna, donde las temperaturas se mantienen cerca de los 8 °C durante todo el año, e incluye observación de vida silvestre en hábitats de bosque mixto y prados. Todas las actividades son privadas y se adaptan al grupo, con el guía ajustando distancia y dificultad sobre la marcha.",
+          "El alojamiento cambia después del día 2 de un hotel 4* o 5* en Cracovia a un hotel rural en el Jura por cuatro noches, reduciendo los desplazamientos diarios a los sitios de actividad a 10-20 minutos en lugar del viaje de ida y vuelta de 40 km desde la ciudad. El paquete incluye seis noches con desayuno, traslados privados al aeropuerto a la llegada y la salida, el traslado de Cracovia al Jura, una tarjeta SIM local para datos y llamadas, y asistencia 24/7 durante el viaje. Un conserje en línea ayuda antes y durante el viaje con logística, recomendaciones de restaurantes y actualizaciones del clima. El tour es privado, por lo que las fechas de inicio son flexibles dentro de la temporada de primavera a otoño.",
+          "De finales de noviembre a diciembre se añaden los mercados navideños de Cracovia a poca distancia del hotel del día 1, mientras que de diciembre a marzo hay nieve en los Tatras y los Beskides para esquiar y disfrutar de piscinas termales, aunque los días de ciclismo y escalada en el Jura no se ofrecen en invierno. De primavera a otoño sigue siendo la ventana operativa para el programa completo de 7 días al aire libre, con mayo, junio y septiembre ofreciendo el clima más estable y las jornadas de luz más largas. El plan de 3 días se queda en Cracovia y hace una excursión de medio día a Wieliczka y una excursión de un día a Ojców, mientras que el tour de 7 días añade tres días completos de actividades y una jornada con guía de naturaleza en las tierras altas."
+        ]
+      },
+      "highlights": {
+        "en": [
+          "Adds cycling, climbing and nature-guide days",
+          "Four nights in the Jura countryside hotel",
+          "Private transfers and local SIM included"
+        ],
+        "de": [
+          "Fügt Rad-, Kletter- und Naturführertage hinzu",
+          "Vier Nächte im Landhotel im Jura",
+          "Private Transfers und lokale SIM-Karte inklusive"
+        ],
+        "fr": [
+          "Ajoute des journées de cyclisme, d'escalade et avec un guide nature",
+          "Quatre nuits à l'hôtel de campagne dans le Jura",
+          "Transferts privés et carte SIM locale inclus"
+        ],
+        "ja": [
+          "サイクリング、クライミング、自然ガイドの日を追加",
+          "ジュラの田舎のホテルに4連泊",
+          "プライベート送迎とローカルSIMカードを含む"
+        ],
+        "es": [
+          "Añade días de ciclismo, escalada y guía de naturaleza",
+          "Cuatro noches en el hotel rural del Jura",
+          "Traslados privados y tarjeta SIM local incluidos"
+        ]
+      },
+      "keyFacts": [
+        {
+          "label": {
+            "en": "Tour length",
+            "de": "Reisedauer",
+            "fr": "Durée du circuit",
+            "ja": "ツアー期間",
+            "es": "Duración del tour"
+          },
+          "value": {
+            "en": "7 days / 6 nights",
+            "de": "7 Tage / 6 Nächte",
+            "fr": "7 jours / 6 nuits",
+            "ja": "7日間 / 6泊",
+            "es": "7 días / 6 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Season",
+            "de": "Reisezeit",
+            "fr": "Saison",
+            "ja": "シーズン",
+            "es": "Temporada"
+          },
+          "value": {
+            "en": "Spring to autumn",
+            "de": "Frühling bis Herbst",
+            "fr": "Printemps à l'automne",
+            "ja": "春から秋",
+            "es": "De primavera a otoño"
+          }
+        },
+        {
+          "label": {
+            "en": "Duration",
+            "de": "Dauer",
+            "fr": "Durée",
+            "ja": "期間",
+            "es": "Duración"
+          },
+          "value": {
+            "en": "7 Days / 6 Nights",
+            "de": "7 Tage / 6 Nächte",
+            "fr": "7 jours / 6 nuits",
+            "ja": "7日間 / 6泊",
+            "es": "7 días / 6 noches"
+          }
+        },
+        {
+          "label": {
+            "en": "Private tour",
+            "de": "Privattour",
+            "fr": "Circuit privé",
+            "ja": "プライベートツアー",
+            "es": "Tour privado"
+          },
+          "value": {
+            "en": "Price on request",
+            "de": "Preis auf Anfrage",
+            "fr": "Prix sur demande",
+            "ja": "料金はお問い合わせください",
+            "es": "Precio a consultar"
+          }
+        }
+      ],
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1793905204/sunday-atlas/blog/krakow-itinerary-3-days/polish-jura-commons-175574100.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": {
+          "en": "Ogrodzieniec Castle ruins on a limestone hill in the Polish Jura at sunset.",
+          "de": "Burgruine Ogrodzieniec auf einem Kalksteinfelsen im polnischen Jura bei Sonnenuntergang.",
+          "fr": "Ruines du château d'Ogrodzieniec sur une colline calcaire du Jura polonais au coucher du soleil.",
+          "ja": "夕暮れ時のポーランド・ジュラの石灰岩の丘に立つ、オグロジエニエツ城の廃墟。",
+          "es": "Ruinas del castillo de Ogrodzieniec en una colina de piedra caliza en el Jura polaco al atardecer."
+        },
+        "credit": {
+          "author": "Majk1987r",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zamek_w_Olsztynie_1.2.jpg",
+          "provider": "commons",
+          "required": true
+        },
+        "caption": {
+          "en": "Polish Jura",
+          "de": "Polnisches Jura",
+          "fr": "Jura polonais",
+          "ja": "ポーランド・ジュラ",
+          "es": "Jura polaco"
+        }
+      },
+      "embeddedPackageSlug": "krakow-jura-outdoor-7-days"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is 3 days enough in Kraków?",
+        "de": "Reichen 3 Tage in Krakau?",
+        "fr": "3 jours suffisent-ils à Cracovie ?",
+        "ja": "3日間でクラクフは十分ですか？",
+        "es": "¿Son suficientes 3 días en Cracovia?"
+      },
+      "a": {
+        "en": "Three days covers the Old Town, Wawel, Kazimierz and a half-day trip to Wieliczka or Ojców comfortably; add a fourth day if you want both the salt mine and the Jura without rushing.",
+        "de": "Drei Tage decken die Altstadt, Wawel, Kazimierz und einen halbtägigen Ausflug nach Wieliczka oder Ojców bequem ab; fügen Sie einen vierten Tag hinzu, wenn Sie sowohl die Salzmine als auch das Jura ohne Hetze erleben möchten.",
+        "fr": "Trois jours permettent de couvrir confortablement la Vieille Ville, Wawel, Kazimierz et une demi-journée à Wieliczka ou Ojców ; ajoutez un quatrième jour si vous souhaitez visiter la mine de sel et le Jura sans vous presser.",
+        "ja": "3日間で旧市街、ヴァヴェル、カジミェシュ、そしてヴィエリチカまたはオイェツィへの半日旅行を快適に巡れます。塩鉱山とジュラの両方をゆっくり楽しみたい場合は、4日目に追加することをお勧めします。",
+        "es": "Tres días cubren la Ciudad Vieja, Wawel, Kazimierz y una excursión de medio día a Wieliczka u Ojcóv con comodidad; añade un cuarto día si quieres visitar tanto la mina de sal como el Jura sin prisas."
+      }
+    },
+    {
+      "q": {
+        "en": "What to see in Kraków in 3 days?",
+        "de": "Was sollte man in Krakau in 3 Tagen sehen?",
+        "fr": "Que voir à Cracovie en 3 jours ?",
+        "ja": "クラクフで3日間に見るべきものは？",
+        "es": "¿Qué ver en Cracovia en 3 días?"
+      },
+      "a": {
+        "en": "Day 1: Main Market Square, St Mary's Basilica, Wawel Castle and Kazimierz. Day 2: Wieliczka Salt Mine. Day 3: Ojców National Park and Pieskowa Skała Castle, or a second Kraków museum day.",
+        "de": "Tag 1: Hauptmarkt, Marienkirche, Wawel-Schloss und Kazimierz. Tag 2: Salzbergwerk Wieliczka. Tag 3: Nationalpark Ojców und Schloss Pieskowa Skała oder ein zweiter Museumstag in Krakau.",
+        "fr": "Jour 1 : la place du Marché principal, la basilique Sainte-Marie, le château de Wawel et Kazimierz. Jour 2 : la mine de sel de Wieliczka. Jour 3 : le parc national d'Ojców et le château de Pieskowa Skała, ou une deuxième journée musée à Cracovie.",
+        "ja": "1日目：メイン・マーケット広場、聖マリア教会、ヴァヴェル城、カジミェシュ。2日目：ヴィエリチカ塩鉱山。3日目：オイェツィ国立公園とピエスコワ・スカラ城、またはクラクフの美術館を2館目巡り。",
+        "es": "Día 1: Plaza del Mercado Principal, Basílica de Santa María, Castillo de Wawel y Kazimierz. Día 2: Mina de Sal de Wieliczka. Día 3: Parque Nacional de Ojcóv y Castillo de Pieskowa Skała, o un segundo día de museos en Cracovia."
+      }
+    },
+    {
+      "q": {
+        "en": "How many days in Kraków do you need?",
+        "de": "Wie viele Tage benötigt man in Krakau?",
+        "fr": "Combien de jours faut-il à Cracovie ?",
+        "ja": "クラクフには何日必要ですか？",
+        "es": "¿Cuántos días necesitas en Cracovia?"
+      },
+      "a": {
+        "en": "Two full days show the city highlights; three days add a major day trip; four to five days let you include both Wieliczka and the Polish Jura at a relaxed pace.",
+        "de": "Zwei ganze Tage zeigen die Stadt-Highlights; drei Tage fügen einen großen Tagesausflug hinzu; vier bis fünf Tage ermöglichen es, sowohl Wieliczka als auch das polnische Jura in entspanntem Tempo zu erleben.",
+        "fr": "Deux journées complètes montrent les points forts de la ville ; trois jours ajoutent une grande excursion d'une journée ; quatre à cinq jours vous permettent d'inclure à la fois Wieliczka et le Jura polonais à un rythme détendu.",
+        "ja": "2日間で市内のハイライトを巡れます。3日間で主要な1日旅行を追加し、4〜5日間あればヴィエリチカとポーランド・ジュラの両方をゆったりとしたペースで含められます。",
+        "es": "Dos días completos muestran los puntos destacados de la ciudad; tres días añaden una excursión importante; de cuatro a cinco días te permiten incluir tanto Wieliczka como el Jura polaco a un ritmo relajado."
+      }
+    },
+    {
+      "q": {
+        "en": "Is 2 days enough in Kraków?",
+        "de": "Reichen 2 Tage in Krakau?",
+        "fr": "2 jours suffisent-ils pour visiter Cracovie ?",
+        "ja": "クラクフに2日で十分ですか？",
+        "es": "¿Son suficientes 2 días en Cracovia?"
+      },
+      "a": {
+        "en": "Two days lets you see the Old Town, Wawel and Kazimierz at a steady pace, but you will miss the salt mine and the Jura unless you start very early and use a car.",
+        "de": "Zwei Tage reichen für die Altstadt, Wawel und Kazimierz in einem gemächlichen Tempo, aber Sie verpassen die Salzmine und das Jura, es sei denn, Sie starten sehr früh und nutzen ein Auto.",
+        "fr": "Deux jours vous permettent de découvrir la Vieille Ville, le château de Wawel et le quartier de Kazimierz à un rythme tranquille, mais vous manquerez la mine de sel et le Jura polonais à moins de partir très tôt et d'utiliser une voiture.",
+        "ja": "2日間あれば、旧市街、ヴァヴェル、カジミェシュをゆったりとしたペースで回れます。ただし、塩坑やジュラ地方を訪れるには、非常に早く出発し、車を利用する必要があります。",
+        "es": "Con dos días puedes ver el casco antiguo, Wawel y Kazimierz a un ritmo tranquilo, pero te perderás la mina de sal y el Jura a menos que madrugues mucho y uses un coche."
+      }
+    }
+  ],
+  "seo": {
+    "en": {
+      "seo_title": "Krakow Itinerary 3 Days: Old Town & Kazimierz (2027)",
+      "meta_description": "krakow itinerary 3 days with day-by-day stops, drive times, where to stay and best months; suits first-time visitors and families. See the day-by-day plan.",
+      "focus_keyword": "krakow itinerary 3 days",
+      "keywords": [
+        "krakow itinerary 3 days",
+        "krakow in 3 days",
+        "krakow itinerary 2 days",
+        "krakow 3 day itinerary",
+        "krakow itinerary 4 days",
+        "3 days in krakow",
+        "is 3 days enough in krakow",
+        "what to see in krakow in 3 days"
+      ]
+    },
+    "de": {
+      "seo_title": "Krakau-Reiseplan 3 Tage: Altstadt & Kazimierz (2027)",
+      "meta_description": "Krakau-Reiseplan für 3 Tage mit täglichen Stopps, Fahrzeiten, Übernachtungsmöglichkeiten und besten Reisezeiten; geeignet für Erstbesucher und Familien. Siehe den Tagesplan.",
+      "focus_keyword": "krakau reiseplan 3 tage",
+      "keywords": [
+        "krakau reiseplan 3 tage",
+        "krakau in 3 tagen",
+        "krakau reiseplan 2 tage",
+        "krakau 3-tägiger reiseplan",
+        "krakau reiseplan 4 tage",
+        "3 tage in krakau",
+        "sind 3 tage genug für krakau",
+        "was kann man in krakau in 3 tagen sehen"
+      ]
+    },
+    "fr": {
+      "seo_title": "Itinéraire à Cracovie 3 jours : Vieille Ville et Kazimierz (2027)",
+      "meta_description": "Itinéraire de 3 jours à Cracovie avec arrêts jour après jour, temps de trajet, où séjourner et meilleures périodes ; convient aux premiers visiteurs et aux familles. Consultez le plan jour après jour.",
+      "focus_keyword": "itinéraire Cracovie 3 jours",
+      "keywords": [
+        "itinéraire Cracovie 3 jours",
+        "Cracovie en 3 jours",
+        "itinéraire Cracovie 2 jours",
+        "itinéraire 3 jours Cracovie",
+        "itinéraire Cracovie 4 jours",
+        "3 jours à Cracovie",
+        "3 jours suffisent-ils à Cracovie",
+        "que voir à Cracovie en 3 jours"
+      ]
+    },
+    "ja": {
+      "seo_title": "クラクフ 3日間プラン：旧市街とカジミェシュ（2027年）",
+      "meta_description": "クラクフ3日間モデルコース。日ごとの立ち寄り地、移動時間、宿泊先、ベストシーズンを掲載。初訪問の方やご家族にもおすすめ。日ごとのプランをご覧ください。",
+      "focus_keyword": "クラクフ3日間モデルコース",
+      "keywords": [
+        "クラクフ3日間モデルコース",
+        "クラクフ3日間",
+        "クラクフ2日間モデルコース",
+        "クラクフ3日間モデルコース",
+        "クラクフ 4日間の旅程",
+        "クラクフ 3日間",
+        "クラクフに3日間は十分ですか",
+        "クラクフ 3日間で見るべきもの"
+      ]
+    },
+    "es": {
+      "seo_title": "Itinerario de Cracovia 3 días: Ciudad Vieja y Kazimierz (2027)",
+      "meta_description": "Itinerario de Cracovia de 3 días con paradas día a día, tiempos de traslado, dónde alojarse y los mejores meses; ideal para visitantes primerizos y familias. Consulta el plan día a día.",
+      "focus_keyword": "itinerario de Cracovia 3 días",
+      "keywords": [
+        "itinerario de Cracovia 3 días",
+        "Cracovia en 3 días",
+        "itinerario de Cracovia 2 días",
+        "itinerario de 3 días en Cracovia",
+        "itinerario de Cracovia 4 días",
+        "3 días en Cracovia",
+        "¿son suficientes 3 días en Cracovia?",
+        "qué ver en Cracovia en 3 días"
+      ]
+    }
+  },
+  "contentHash": "6e24de472f44d510"
+}

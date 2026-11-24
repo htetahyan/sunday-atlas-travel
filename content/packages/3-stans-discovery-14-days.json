@@ -1,0 +1,1232 @@
+{
+  "slug": "3-stans-discovery-14-days",
+  "title": {
+    "en": "3 Stans Discovery: Kazakhstan, Kyrgyzstan & Uzbekistan",
+    "de": "3 Stans Discovery: Kasachstan, Kirgistan & Usbekistan",
+    "fr": "3 Stans Discovery : Kazakhstan, Kirghizistan et Ouzbékistan",
+    "ja": "3スタン・ディスカバリー：カザフスタン、キルギス、ウズベキスタン",
+    "es": "3 Stans Discovery: Kazajistán, Kirguistán y Uzbekistán"
+  },
+  "destination": "kazakhstan",
+  "countries": [
+    "kyrgyzstan",
+    "uzbekistan"
+  ],
+  "durationDays": 14,
+  "nights": 13,
+  "style": {
+    "en": "Silk Road & mountains",
+    "de": "Seidenstraße & Berge",
+    "fr": "Route de la soie et montagnes",
+    "ja": "シルクロードと山",
+    "es": "Ruta de la Seda y montañas"
+  },
+  "summary": {
+    "en": "A 14-day 3 Stans tour from Almaty’s canyons and mountain lakes through Kyrgyzstan’s Issyk-Kul region to Samarkand, Bukhara and Khiva on the Silk Road.",
+    "de": "14 Tage Rundreise durch Kasachstan, Kirgistan und Usbekistan: Almatys Canyons und Bergseen, der Issyk-Kul und Samarkand, Buchara und Chiwa an der Seidenstraße.",
+    "fr": "Un circuit Kazakhstan, Kirghizistan, Ouzbékistan de 14 jours : canyons et lacs de montagne autour d’Almaty, la région de l’Issyk-Koul, puis Samarcande, Boukhara et Khiva sur la Route de la soie.",
+    "ja": "カザフスタン、キルギス、ウズベキスタンを巡る14日間の中央アジアツアー。アルマトイ近郊の渓谷と山の湖、イシク・クル湖周辺、そしてシルクロードのサマルカンド、ブハラ、ヒヴァへ。",
+    "es": "Un viaje de 14 días por Uzbekistán, Kazajistán y Kirguistán: cañones y lagos de montaña cerca de Almaty, la región del Issyk-Kul y Samarcanda, Bujará y Jiva en la Ruta de la Seda."
+  },
+  "intro": {
+    "en": "This 3 Stans tour spends 14 days and 13 nights crossing Kazakhstan, Kyrgyzstan and Uzbekistan in one line. We start in Almaty and drive out to Charyn Canyon and the Kolsay and Kaindy lakes, cross by land into Kyrgyzstan for Karakol, Jety-Oguz, Skazka Canyon, an eagle-hunter demonstration and a felt master class in Kochkor, then fly from Bishkek to Tashkent. The last week follows the Silk Road cities of Uzbekistan: Samarkand, Bukhara and the walled town of Khiva.",
+    "de": "Diese Rundreise Kasachstan, Kirgistan, Usbekistan dauert 14 Tage und 13 Nächte und führt in einer Linie durch drei Länder. Wir beginnen in Almaty, fahren zum Scharyn-Canyon und zu den Kolsai- und Kaindy-Seen, reisen auf dem Landweg nach Kirgistan zu Karakol, Dschety-Oguz, dem Skazka-Canyon, einer Vorführung der Adlerjäger und einem Filz-Workshop in Kotschkor und fliegen dann von Bischkek nach Taschkent. Die letzte Woche folgt den Seidenstraßenstädten Usbekistans: Samarkand, Buchara und die ummauerte Stadt Chiwa.",
+    "fr": "Ce circuit Kazakhstan, Kirghizistan et Ouzbékistan dure 14 jours et 13 nuits et traverse les trois pays d’une seule traite. Nous partons d’Almaty vers le canyon de Charyn et les lacs Kolsay et Kaindy, passons par la route au Kirghizistan pour Karakol, Djety-Oguz, le canyon Skazka, une démonstration de chasseurs à l’aigle et un atelier de feutre à Kotchkor, puis prenons l’avion de Bichkek à Tachkent. La dernière semaine suit les villes ouzbèkes de la Route de la soie : Samarcande, Boukhara et la ville fortifiée de Khiva.",
+    "ja": "カザフスタン、キルギス、ウズベキスタンの3か国を一筆書きで巡る、13泊14日の中央アジアツアーです。アルマトイを出発してチャリン渓谷、コルサイ湖とカインディ湖へ。陸路でキルギスに入り、カラコル、ジェティ・オグズ、スカズカ渓谷、鷲使いの実演、コチコルのフェルト作り体験を楽しんだあと、ビシュケクからタシケントへ飛びます。最後の1週間はウズベキスタンのシルクロードの町、サマルカンド、ブハラ、城壁の町ヒヴァを訪ねます。",
+    "es": "Este viaje por Kazajistán, Kirguistán y Uzbekistán dura 14 días y 13 noches y cruza los tres países de una sola vez. Empezamos en Almaty y vamos al cañón de Charyn y a los lagos Kolsay y Kaindy, pasamos por tierra a Kirguistán para ver Karakol, Jety-Oguz, el cañón Skazka, una demostración de cazadores con águila y un taller de fieltro en Kochkor, y volamos de Biskek a Taskent. La última semana sigue las ciudades uzbekas de la Ruta de la Seda: Samarcanda, Bujará y la ciudad amurallada de Jiva."
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Almaty, arrival",
+        "de": "Almaty, Ankunft",
+        "fr": "Almaty, arrivée",
+        "ja": "アルマトイ到着",
+        "es": "Almaty, llegada"
+      },
+      "description": {
+        "en": "We meet you in Almaty early in the morning and take you to the hotel to rest after the flight (early check-in is included). Later we set out across Kazakhstan’s largest city, under the snowy Tien Shan: the Green Bazaar, Panfilov Park with the wooden Zenkov Cathedral, and the Memorial of Glory and Eternal Flame. We ride up Kok-Tobe Hill for the view over Almaty, come down by cableway, then head into the mountains: Medeo, the world’s highest skating rink, and the cable car to Shymbulak Ski Resort at 3,200 metres. Back to the hotel in the evening. Overnight in Almaty.",
+        "de": "Wir holen Sie früh am Morgen in Almaty ab und bringen Sie zum Hotel, damit Sie sich nach dem Flug ausruhen können (Early Check-in inklusive). Danach erkunden wir die größte Stadt Kasachstans unter dem verschneiten Tian Shan: den Grünen Basar, den Panfilow-Park mit der hölzernen Zenkow-Kathedrale und die Gedenkstätte des Ruhmes mit der Ewigen Flamme. Wir fahren auf den Kok-Tobe-Hügel mit Blick über Almaty, kommen mit der Seilbahn zurück und fahren dann in die Berge: zur Eisbahn Medeo, der höchstgelegenen der Welt, und mit der Gondel im Skigebiet Schymbulak auf 3.200 Meter. Abends zurück zum Hotel. Übernachtung in Almaty.",
+        "fr": "Nous vous accueillons tôt le matin à Almaty et vous conduisons à l’hôtel pour vous reposer du vol (early check-in inclus). Ensuite, nous partons à la découverte de la plus grande ville du Kazakhstan, au pied du Tian Shan enneigé : le Bazar vert, le parc Panfilov et la cathédrale en bois de Zenkov, le mémorial de la Gloire et sa flamme éternelle. Nous montons sur la colline de Kok-Tobe pour la vue sur Almaty, redescendons en téléphérique, puis gagnons la montagne : Medeo, la patinoire la plus haute du monde, et la télécabine de la station de Chymboulak jusqu’à 3 200 mètres. Retour à l’hôtel le soir. Nuit à Almaty.",
+        "ja": "早朝にアルマトイでお迎えし、ホテルへご案内します。フライトの疲れをとってください（アーリーチェックイン込み）。その後、雪をいただく天山山脈のふもとに広がるカザフスタン最大の都市を巡ります。緑のバザール、木造のゼンコフ大聖堂が建つパンフィロフ公園、栄光の記念碑と永遠の炎。コクトベの丘に上ってアルマトイを見渡し、ロープウェイで下山したあと山へ向かい、世界一標高の高いスケートリンク「メデウ」、シムブラク・スキーリゾートのゴンドラで標高3,200メートルへ。夕方ホテルへ戻ります。アルマトイ泊。",
+        "es": "Le recibimos temprano en Almaty y le llevamos al hotel para descansar del vuelo (early check-in incluido). Después recorremos la ciudad más grande de Kazajistán, bajo el Tian Shan nevado: el Bazar Verde, el parque Panfilov con la catedral de madera de Zenkov y el Memorial de la Gloria con su llama eterna. Subimos a la colina Kok-Tobe para ver Almaty desde lo alto, bajamos en teleférico y vamos a la montaña: Medeo, la pista de patinaje más alta del mundo, y el telecabina de la estación de Shymbulak hasta 3.200 metros. Regreso al hotel por la tarde-noche. Noche en Almaty."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Almaty – Charyn Canyon – Kolsay Lakes, 440 km by road",
+        "de": "Almaty – Scharyn-Canyon – Kolsai-Seen, 440 km auf der Straße",
+        "fr": "Almaty – canyon de Charyn – lacs de Kolsay, 440 km par la route",
+        "ja": "アルマトイ – チャリン渓谷 – コルサイ湖、陸路440km",
+        "es": "Almaty – cañón de Charyn – lagos Kolsay, 440 km por carretera"
+      },
+      "description": {
+        "en": "After breakfast we drive east to Charyn Canyon, often called the “little brother” of the Grand Canyon, which runs for more than 150 km. Within two hours we reach the Valley of Castles, where wind and rain have shaped the sandstone into fortress-like cliffs. We walk down for about 40 minutes to the Charyn River between red and orange walls. Lunch is at a café near the canyon, then we continue to the Kolsay Lakes in the northern Tien Shan, arriving in the late afternoon. Home-style dinner and overnight at a guesthouse.",
+        "de": "Nach dem Frühstück fahren wir nach Osten zum Scharyn-Canyon, oft „kleiner Bruder“ des Grand Canyon genannt, der sich über mehr als 150 km erstreckt. In rund zwei Stunden erreichen wir das Tal der Burgen, wo Wind und Regen den Sandstein zu festungsartigen Klippen geformt haben. Etwa 40 Minuten wandern wir zwischen roten und orangefarbenen Wänden hinunter zum Fluss Scharyn. Mittagessen in einem Café nahe dem Canyon, dann weiter zu den Kolsai-Seen im nördlichen Tian Shan, Ankunft am späten Nachmittag. Hausgemachtes Abendessen und Übernachtung im Gästehaus.",
+        "fr": "Après le petit-déjeuner, nous roulons vers l’est jusqu’au canyon de Charyn, souvent appelé le « petit frère » du Grand Canyon, long de plus de 150 km. En deux heures environ, nous atteignons la vallée des Châteaux, où le vent et la pluie ont sculpté le grès en falaises aux allures de forteresses. Nous descendons à pied pendant une quarantaine de minutes jusqu’à la rivière Charyn, entre des parois rouges et orangées. Déjeuner dans un café près du canyon, puis route vers les lacs de Kolsay, dans le Tian Shan du Nord, avec une arrivée en fin d’après-midi. Dîner maison et nuit en maison d’hôtes.",
+        "ja": "朝食後、東へ走りチャリン渓谷へ。グランドキャニオンの「弟」とも呼ばれ、全長は150km以上あります。2時間ほどで、風と雨が砂岩を城塞のような断崖に削った「城の谷」に到着。赤やオレンジの岩壁の間を約40分歩いてチャリン川まで下ります。渓谷近くのカフェで昼食をとり、天山山脈北部のコルサイ湖へ。夕方に到着し、ゲストハウスで家庭料理の夕食と宿泊。",
+        "es": "Después del desayuno vamos hacia el este, al cañón de Charyn, a menudo llamado el «hermano pequeño» del Gran Cañón, que se extiende más de 150 km. En unas dos horas llegamos al Valle de los Castillos, donde el viento y la lluvia han tallado la arenisca en acantilados que parecen fortalezas. Bajamos a pie unos 40 minutos hasta el río Charyn entre paredes rojas y anaranjadas. Comida en un café junto al cañón y seguimos hacia los lagos Kolsay, en el Tian Shan del norte, adonde llegamos al final de la tarde. Cena casera y noche en una casa de huéspedes."
+      },
+      "meals": {
+        "en": "breakfast, lunch, dinner",
+        "de": "Frühstück, Mittagessen, Abendessen",
+        "fr": "petit-déjeuner, déjeuner, dîner",
+        "ja": "朝食・昼食・夕食",
+        "es": "desayuno, comida, cena"
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Kolsay Lakes – Kaindy – Kegen land border – Karakol, 250 km by road",
+        "de": "Kolsai-Seen – Kaindy – Grenzübergang Kegen – Karakol, 250 km auf der Straße",
+        "fr": "Lacs de Kolsay – Kaindy – frontière terrestre de Kegen – Karakol, 250 km par la route",
+        "ja": "コルサイ湖 – カインディ湖 – ケゲン国境 – カラコル、陸路250km",
+        "es": "Lagos Kolsay – Kaindy – frontera terrestre de Kegen – Karakol, 250 km por carretera"
+      },
+      "description": {
+        "en": "After breakfast we check out and drive to Kaindy Lake, formed after the 1911 earthquake when a landslide dammed the valley and flooded a spruce forest; the trunks still rise from the turquoise water. We walk down the slope to the lake, or ride on horseback (optional, arranged on the spot). On the way back we stop at a village home for a homemade lunch. In the afternoon we cross the Kegen border into Kyrgyzstan and drive to Karakol, at the foot of the Tien Shan. Overnight at the hotel.",
+        "de": "Nach dem Frühstück checken wir aus und fahren zum Kaindy-See, der nach dem Erdbeben von 1911 entstand, als ein Erdrutsch das Tal aufstaute und einen Fichtenwald flutete; die Stämme ragen noch heute aus dem türkisfarbenen Wasser. Wir gehen den Hang zum See hinunter oder reiten (optional, vor Ort organisiert). Auf dem Rückweg essen wir in einem Dorfhaus hausgemacht zu Mittag. Am Nachmittag überqueren wir bei Kegen die Grenze nach Kirgistan und fahren nach Karakol am Fuß des Tian Shan. Übernachtung im Hotel.",
+        "fr": "Après le petit-déjeuner, nous quittons la maison d’hôtes pour le lac Kaindy, né du séisme de 1911 : un glissement de terrain a barré la vallée et noyé une forêt d’épicéas, dont les troncs émergent encore de l’eau turquoise. Nous descendons la pente à pied jusqu’au lac, ou à cheval (en option, organisé sur place). Au retour, déjeuner maison dans une famille du village. L’après-midi, nous passons la frontière de Kegen vers le Kirghizistan et rejoignons Karakol, au pied du Tian Shan. Nuit à l’hôtel.",
+        "ja": "朝食後にチェックアウトし、カインディ湖へ。1911年の地震による地すべりで谷がせき止められ、トウヒの森が水没してできた湖で、今もターコイズ色の水面から幹が突き出ています。湖まで斜面を歩いて下りるか、乗馬で（任意、現地で手配）。帰りに村の家庭で手作りの昼食。午後はケゲンの国境を越えてキルギスへ入り、天山山脈のふもとの町カラコルへ。ホテル泊。",
+        "es": "Después del desayuno dejamos la casa de huéspedes y vamos al lago Kaindy, formado tras el terremoto de 1911, cuando un deslizamiento cerró el valle e inundó un bosque de abetos cuyos troncos aún salen del agua turquesa. Bajamos a pie por la ladera hasta el lago, o a caballo (opcional, se organiza allí mismo). De vuelta, comemos comida casera en una casa del pueblo. Por la tarde cruzamos la frontera de Kegen hacia Kirguistán y seguimos a Karakol, al pie del Tian Shan. Noche en el hotel."
+      },
+      "meals": {
+        "en": "breakfast, lunch",
+        "de": "Frühstück, Mittagessen",
+        "fr": "petit-déjeuner, déjeuner",
+        "ja": "朝食・昼食",
+        "es": "desayuno, comida"
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Karakol & Jety-Oguz Gorge",
+        "de": "Karakol & Dschety-Oguz-Schlucht",
+        "fr": "Karakol et gorges de Djety-Oguz",
+        "ja": "カラコルとジェティ・オグズ渓谷",
+        "es": "Karakol y garganta de Jety-Oguz"
+      },
+      "description": {
+        "en": "This morning we see Karakol’s landmarks: the Dungan Mosque, built of wood without a single nail, the wooden Russian Orthodox Cathedral of the Holy Trinity, and the museum of Nikolay Przhevalsky, the Russian explorer who mapped much of Central Asia. Later we drive into Jety-Oguz Gorge (“Seven Bulls”), where red cliffs rise above spruce forest, to see the “Seven Bulls” and “Broken Heart” rock formations. Back in Karakol, hotel check-in and rest.",
+        "de": "Am Morgen sehen wir die Wahrzeichen von Karakol: die Dunganen-Moschee, ganz ohne Nägel aus Holz gebaut, die hölzerne russisch-orthodoxe Dreifaltigkeitskathedrale und das Museum von Nikolai Przewalski, dem russischen Forscher, der große Teile Zentralasiens kartierte. Später fahren wir in die Dschety-Oguz-Schlucht („Sieben Stiere“), wo rote Felsen über dem Fichtenwald aufragen, zu den Felsformationen „Sieben Stiere“ und „Gebrochenes Herz“. Zurück in Karakol, Check-in im Hotel und Erholung.",
+        "fr": "Ce matin, nous découvrons les monuments de Karakol : la mosquée doungane, bâtie en bois sans un seul clou, la cathédrale orthodoxe russe de la Sainte-Trinité, elle aussi en bois, et le musée de Nikolaï Prjevalski, l’explorateur russe qui cartographia une grande partie de l’Asie centrale. Plus tard, nous entrons dans les gorges de Djety-Oguz (« Sept Taureaux »), où des falaises rouges dominent la forêt d’épicéas, pour voir les rochers des « Sept Taureaux » et du « Cœur brisé ». Retour à Karakol, installation à l’hôtel et repos.",
+        "ja": "午前中はカラコルの見どころへ。釘を一本も使わずに木で建てられたドゥンガン・モスク、木造のロシア正教会・聖三位一体大聖堂、中央アジアの多くを地図に記したロシアの探検家ニコライ・プルジェヴァリスキーの博物館。その後、トウヒの森の上に赤い岩壁がそびえるジェティ・オグズ渓谷（「七頭の雄牛」）へ向かい、「七頭の雄牛」と「ブロークン・ハート」の奇岩を見学します。カラコルに戻り、ホテルにチェックインしてお休みください。",
+        "es": "Por la mañana vemos lo esencial de Karakol: la mezquita dungana, construida en madera sin un solo clavo, la catedral ortodoxa rusa de la Santísima Trinidad, también de madera, y el museo de Nikolái Przhevalski, el explorador ruso que cartografió gran parte de Asia Central. Después entramos en la garganta de Jety-Oguz («Siete Toros»), donde los acantilados rojos se alzan sobre el bosque de abetos, para ver las rocas de los «Siete Toros» y el «Corazón Roto». De vuelta en Karakol, check-in en el hotel y descanso."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Karakol – Skazka Canyon – Bokonbaevo village – Kochkor village, 250 km by road",
+        "de": "Karakol – Skazka-Canyon – Dorf Bokonbaewo – Dorf Kotschkor, 250 km auf der Straße",
+        "fr": "Karakol – canyon Skazka – village de Bokonbaevo – village de Kotchkor, 250 km par la route",
+        "ja": "カラコル – スカズカ渓谷 – ボコンバエヴォ村 – コチコル村、陸路250km",
+        "es": "Karakol – cañón Skazka – pueblo de Bokonbaevo – pueblo de Kochkor, 250 km por carretera"
+      },
+      "description": {
+        "en": "After breakfast we follow the southern shore of Lake Issyk-Kul to Skazka (“Fairytale”) Canyon, where wind and water have carved red and yellow clay into towers, castles and ridges. In Bokonbaevo village we meet eagle hunters and watch a traditional falconry demonstration. Lunch on the way. In the evening we reach Kochkor, a village known for its felt crafts. Dinner and overnight in Kochkor.",
+        "de": "Nach dem Frühstück folgen wir dem Südufer des Issyk-Kul zum Skazka-Canyon („Märchen“), wo Wind und Wasser roten und gelben Lehm zu Türmen, Burgen und Graten geformt haben. Im Dorf Bokonbaewo treffen wir Adlerjäger und sehen eine traditionelle Falknerei-Vorführung. Mittagessen unterwegs. Am Abend erreichen wir Kotschkor, ein Dorf, das für sein Filzhandwerk bekannt ist. Abendessen und Übernachtung in Kotschkor.",
+        "fr": "Après le petit-déjeuner, nous longeons la rive sud du lac Issyk-Koul jusqu’au canyon Skazka (« Conte de fées »), où le vent et l’eau ont façonné l’argile rouge et jaune en tours, châteaux et crêtes. Au village de Bokonbaevo, nous rencontrons des chasseurs à l’aigle et assistons à une démonstration de fauconnerie traditionnelle. Déjeuner en route. Le soir, nous arrivons à Kotchkor, village réputé pour son artisanat du feutre. Dîner et nuit à Kotchkor.",
+        "ja": "朝食後、イシク・クル湖の南岸をたどってスカズカ（「おとぎ話」）渓谷へ。風と水が赤や黄色の粘土を塔や城、尾根の形に削り出しています。ボコンバエヴォ村では鷲使いに会い、伝統的な鷹狩りの実演を見学。途中で昼食。夕方、フェルト工芸で知られるコチコル村に到着します。コチコルで夕食と宿泊。",
+        "es": "Después del desayuno seguimos la orilla sur del lago Issyk-Kul hasta el cañón Skazka («Cuento de hadas»), donde el viento y el agua han modelado la arcilla roja y amarilla en torres, castillos y crestas. En el pueblo de Bokonbaevo conocemos a cazadores con águila y vemos una demostración de cetrería tradicional. Comida en ruta. Por la tarde llegamos a Kochkor, pueblo conocido por su artesanía del fieltro. Cena y noche en Kochkor."
+      },
+      "meals": {
+        "en": "breakfast, lunch, dinner",
+        "de": "Frühstück, Mittagessen, Abendessen",
+        "fr": "petit-déjeuner, déjeuner, dîner",
+        "ja": "朝食・昼食・夕食",
+        "es": "desayuno, comida, cena"
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Kochkor – Bishkek, 200 km by road",
+        "de": "Kotschkor – Bischkek, 200 km auf der Straße",
+        "fr": "Kotchkor – Bichkek, 200 km par la route",
+        "ja": "コチコル – ビシュケク、陸路200km",
+        "es": "Kochkor – Biskek, 200 km por carretera"
+      },
+      "description": {
+        "en": "This morning we join a felt-making master class in Kochkor, where artisans show how shyrdaks (felt carpets) are made and what their patterns mean. We drive back to Bishkek, arriving in the afternoon. The rest of the day is free; Osh Bazaar, with its spices, dried fruit, textiles and crafts, is a good place to start. Overnight in Bishkek.",
+        "de": "Am Morgen nehmen wir in Kotschkor an einem Filz-Workshop teil: Kunsthandwerkerinnen zeigen, wie Schyrdaks (Filzteppiche) entstehen und was ihre Muster bedeuten. Wir fahren zurück nach Bischkek und kommen am Nachmittag an. Der Rest des Tages ist frei; der Osch-Basar mit Gewürzen, Trockenfrüchten, Stoffen und Handwerk ist ein guter Anfang. Übernachtung in Bischkek.",
+        "fr": "Ce matin, atelier de feutre à Kotchkor : les artisanes montrent comment naissent les shyrdaks (tapis de feutre) et ce que signifient leurs motifs. Nous rentrons à Bichkek, où nous arrivons dans l’après-midi. Le reste de la journée est libre ; le bazar d’Och, avec ses épices, fruits secs, tissus et objets artisanaux, est un bon point de départ. Nuit à Bichkek.",
+        "ja": "午前中はコチコルでフェルト作りのワークショップに参加。職人たちがシルダック（フェルト絨毯）の作り方と文様の意味を教えてくれます。ビシュケクへ戻り、午後に到着。その後は自由時間です。スパイスやドライフルーツ、布地、工芸品が並ぶオシュ・バザールから歩き始めるのがおすすめです。ビシュケク泊。",
+        "es": "Por la mañana participamos en un taller de fieltro en Kochkor, donde las artesanas muestran cómo se hacen los shyrdaks (alfombras de fieltro) y qué significan sus dibujos. Volvemos a Biskek y llegamos por la tarde. El resto del día es libre; el bazar de Osh, con especias, frutos secos, telas y artesanía, es un buen lugar para empezar. Noche en Biskek."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Bishkek – Tashkent by evening flight",
+        "de": "Bischkek – Taschkent mit dem Abendflug",
+        "fr": "Bichkek – Tachkent par le vol du soir",
+        "ja": "ビシュケク – タシケント（夜の便）",
+        "es": "Biskek – Taskent en vuelo de tarde"
+      },
+      "description": {
+        "en": "After breakfast we tour Bishkek: the Monument to Manas, hero of the Kyrgyz epics, the Changing of the Guard on Ala-Too Square, the State Historical Museum, the statues of Kurmanjan-Datka and Lenin, and leafy Oak Park with its sculptures and the Fine Arts Gallery. In the afternoon we transfer to the airport for the evening flight to Tashkent. On arrival, transfer to the hotel and overnight.",
+        "de": "Nach dem Frühstück Stadtrundgang in Bischkek: das Manas-Denkmal für den Helden der kirgisischen Epen, die Wachablösung auf dem Ala-Too-Platz, das Staatliche Historische Museum, die Statuen von Kurmandschan Datka und Lenin sowie der grüne Eichenpark mit Skulpturen und der Kunstgalerie. Am Nachmittag Transfer zum Flughafen für den Abendflug nach Taschkent. Nach der Ankunft Transfer zum Hotel und Übernachtung.",
+        "fr": "Après le petit-déjeuner, visite de Bichkek : le monument à Manas, héros des épopées kirghizes, la relève de la garde sur la place Ala-Too, le Musée historique d’État, les statues de Kourmandjan Datka et de Lénine, et le parc des Chênes, verdoyant, avec ses sculptures et la galerie des Beaux-Arts. L’après-midi, transfert à l’aéroport pour le vol du soir vers Tachkent. À l’arrivée, transfert à l’hôtel et nuit.",
+        "ja": "朝食後、ビシュケク市内観光。キルギスの叙事詩の英雄マナスの像、アラトー広場の衛兵交代、国立歴史博物館、クルマンジャン・ダトカ像とレーニン像、彫刻と美術館のある緑豊かなオーク公園を巡ります。午後に空港へ向かい、夜の便でタシケントへ。到着後ホテルへ送迎、宿泊。",
+        "es": "Después del desayuno recorremos Biskek: el monumento a Manás, héroe de las epopeyas kirguisas, el cambio de guardia en la plaza Ala-Too, el Museo Histórico Estatal, las estatuas de Kurmanjan Datka y de Lenin, y el frondoso parque de los Robles con sus esculturas y la Galería de Bellas Artes. Por la tarde, traslado al aeropuerto para el vuelo a Taskent. A la llegada, traslado al hotel y noche."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 8,
+      "title": {
+        "en": "Tashkent – Samarkand by evening train",
+        "de": "Taschkent – Samarkand mit dem Abendzug",
+        "fr": "Tachkent – Samarcande par le train du soir",
+        "ja": "タシケント – サマルカンド（夜の列車）",
+        "es": "Taskent – Samarcanda en tren de tarde"
+      },
+      "description": {
+        "en": "We spend the day in Uzbekistan’s capital: Khast-Imam Square with its madrasahs and mausoleums, and the Chorsu Bazaar. After lunch we walk through Independence Square and Amir Temur Square, and ride the Tashkent Metro, whose ornate stations feel like an underground gallery. In the evening we take the train to Samarkand and go straight to the hotel.",
+        "de": "Wir verbringen den Tag in der Hauptstadt Usbekistans: der Khast-Imam-Platz mit Medresen und Mausoleen und der Chorsu-Basar. Nach dem Mittagessen gehen wir über den Unabhängigkeitsplatz und den Amir-Timur-Platz und fahren mit der Metro von Taschkent, deren prunkvolle Stationen wie eine unterirdische Galerie wirken. Am Abend nehmen wir den Zug nach Samarkand und fahren direkt ins Hotel.",
+        "fr": "Journée dans la capitale de l’Ouzbékistan : la place Khast-Imam et ses médersas et mausolées, puis le bazar Chorsu. Après le déjeuner, nous traversons la place de l’Indépendance et la place Amir-Timour et prenons le métro de Tachkent, dont les stations ornées ressemblent à une galerie souterraine. Le soir, train pour Samarcande et transfert direct à l’hôtel.",
+        "ja": "ウズベキスタンの首都で一日を過ごします。メドレセや霊廟が並ぶハスト・イマーム広場、チョルスー・バザール。昼食後は独立広場とアミール・ティムール広場を歩き、駅ごとに装飾が美しく地下のギャラリーのようなタシケントの地下鉄に乗ります。夜は列車でサマルカンドへ向かい、そのままホテルへ。",
+        "es": "Pasamos el día en la capital de Uzbekistán: la plaza Khast-Imam con sus madrasas y mausoleos y el bazar Chorsu. Después de comer cruzamos la plaza de la Independencia y la plaza Amir Timur y viajamos en el metro de Taskent, cuyas estaciones decoradas parecen una galería subterránea. Por la tarde tomamos el tren a Samarcanda y vamos directos al hotel."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 9,
+      "title": {
+        "en": "Samarkand",
+        "de": "Samarkand",
+        "fr": "Samarcande",
+        "ja": "サマルカンド",
+        "es": "Samarcanda"
+      },
+      "description": {
+        "en": "After breakfast we start at Registan Square, framed by the Ulugbek, Sher-Dor and Tilla-Qori madrasahs, then visit the Gur-e Amir Mausoleum, resting place of Tamerlane and his dynasty. After lunch we see the Bibi-Khanym Mosque, once one of the largest in the Islamic world, walk the Shah-i-Zinda Necropolis with its blue-tiled mausoleums, and end at the Ulugbek Observatory. Overnight in Samarkand.",
+        "de": "Nach dem Frühstück beginnen wir am Registan, gerahmt von den Medresen Ulugbek, Scher-Dor und Tilla-Kori, und besuchen dann das Gur-Emir-Mausoleum, die Grabstätte Timurs und seiner Dynastie. Nach dem Mittagessen sehen wir die Bibi-Chanym-Moschee, einst eine der größten der islamischen Welt, gehen durch die Nekropole Schah-i-Sinda mit ihren blau gefliesten Mausoleen und enden an der Ulugbek-Sternwarte. Übernachtung in Samarkand.",
+        "fr": "Après le petit-déjeuner, nous commençons par la place du Registan, encadrée par les médersas Oulough Beg, Cher-Dor et Tilla-Kari, puis visitons le mausolée Gour-Emir, où reposent Tamerlan et sa dynastie. Après le déjeuner, nous voyons la mosquée Bibi-Khanym, autrefois l’une des plus grandes du monde islamique, parcourons la nécropole de Chah-i-Zinda et ses mausolées aux faïences bleues, et terminons à l’observatoire d’Oulough Beg. Nuit à Samarcande.",
+        "ja": "朝食後、ウルグベク、シェルドル、ティラカリの3つのメドレセに囲まれたレギスタン広場から観光を始め、ティムールとその一族が眠るグーリ・アミール廟へ。昼食後は、かつてイスラム世界最大級だったビビ・ハニム・モスク、青いタイルの霊廟が並ぶシャーヒ・ズィンダ廟群を歩き、ウルグベク天文台で一日を終えます。サマルカンド泊。",
+        "es": "Después del desayuno empezamos en la plaza del Registán, enmarcada por las madrasas de Ulugbek, Sher-Dor y Tilla-Kori, y visitamos el mausoleo Gur-e Amir, donde reposan Tamerlán y su dinastía. Después de comer vemos la mezquita de Bibi-Khanym, en su día una de las mayores del mundo islámico, recorremos la necrópolis de Shah-i-Zinda con sus mausoleos de azulejos azules y terminamos en el observatorio de Ulugbek. Noche en Samarcanda."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 10,
+      "title": {
+        "en": "Samarkand – Bukhara, 280 km by road",
+        "de": "Samarkand – Buchara, 280 km auf der Straße",
+        "fr": "Samarcande – Boukhara, 280 km par la route",
+        "ja": "サマルカンド – ブハラ、陸路280km",
+        "es": "Samarcanda – Bujará, 280 km por carretera"
+      },
+      "description": {
+        "en": "After breakfast we drive to Bukhara across the Kyzylkum plains, once a caravan route between oases. In the old town we begin at the Po-i-Kalyan Complex and its minaret, then visit the Miri-Arab Madrasa, the Magoki-Attori Mosque and the Ulugbek Madrasa, and finish at Lyabi-Hauz Square, where mulberry trees shade the pool. In the evening we check into the hotel.",
+        "de": "Nach dem Frühstück fahren wir über die Ebenen der Kysylkum nach Buchara, einst eine Karawanenroute von Oase zu Oase. In der Altstadt beginnen wir am Po-i-Kalyan-Ensemble mit seinem Minarett, besuchen dann die Mir-i-Arab-Medrese, die Magoki-Attori-Moschee und die Ulugbek-Medrese und enden am Platz Labi-Hauz, wo Maulbeerbäume das Wasserbecken beschatten. Am Abend Check-in im Hotel.",
+        "fr": "Après le petit-déjeuner, route vers Boukhara à travers les plaines du Kyzylkoum, jadis chemin des caravanes d’oasis en oasis. Dans la vieille ville, nous commençons par l’ensemble Po-i-Kalyan et son minaret, puis visitons la médersa Mir-i-Arab, la mosquée Magoki-Attari et la médersa Oulough Beg, avant de finir sur la place Lyabi-Khaouz, où les mûriers ombragent le bassin. Installation à l’hôtel le soir.",
+        "ja": "朝食後、かつてオアシスからオアシスへキャラバンが行き交ったキジルクムの平原を越えてブハラへ。旧市街ではカラーン・ミナレットのあるポイ・カラーン建築群から始め、ミル・アラブ・メドレセ、マゴキ・アッタリ・モスク、ウルグベク・メドレセを見学し、桑の木が池に影を落とすラビハウズ広場で締めくくります。夕方ホテルにチェックイン。",
+        "es": "Después del desayuno viajamos a Bujará por las llanuras del Kyzylkum, antigua ruta de caravanas de oasis en oasis. En el casco antiguo empezamos por el conjunto Po-i-Kalyan y su minarete, visitamos la madrasa Mir-i-Arab, la mezquita Magoki-Attori y la madrasa de Ulugbek, y terminamos en la plaza Lyabi-Hauz, donde las moreras dan sombra al estanque. Por la tarde, check-in en el hotel."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 11,
+      "title": {
+        "en": "Bukhara",
+        "de": "Buchara",
+        "fr": "Boukhara",
+        "ja": "ブハラ",
+        "es": "Bujará"
+      },
+      "description": {
+        "en": "Breakfast at the hotel. We visit the Ismail Samani Mausoleum and the Chashma Ayub Mausoleum, linked with the legend of the Prophet Job, walk through the local bazaar, then see the Bolo-Khauz Mosque and the Ark Citadel with its old Zindan prison. In the afternoon we drive out to the Sitorai Mokhi-Khosa Palace, summer residence of the last emir, and the Mausoleum of Bakhouddin Naqshbandi. In the evening a local family welcomes us for a plov master class and a homemade dinner. Overnight at the hotel.",
+        "de": "Frühstück im Hotel. Wir besuchen das Mausoleum der Samaniden und das Mausoleum Tschaschma Ayub, verbunden mit der Legende des Propheten Hiob, gehen über den Basar und sehen die Bolo-Hauz-Moschee und die Zitadelle Ark mit dem alten Gefängnis Sindan. Am Nachmittag fahren wir zum Palast Sitorai Mohi-Hossa, der Sommerresidenz des letzten Emirs, und zum Mausoleum von Bahauddin Naqschband. Am Abend empfängt uns eine Familie zu einem Plov-Kochkurs mit hausgemachtem Abendessen. Übernachtung im Hotel.",
+        "fr": "Petit-déjeuner à l’hôtel. Nous visitons le mausolée d’Ismaïl Samani et le mausolée Chashma Ayoub, lié à la légende du prophète Job, traversons le bazar, puis voyons la mosquée Bolo-Khaouz et la citadelle de l’Arche avec son ancienne prison, le Zindan. L’après-midi, nous rejoignons le palais Sitoraï Mokhi-Khossa, résidence d’été du dernier émir, et le mausolée de Bahaouddin Naqshband. Le soir, une famille nous reçoit pour un atelier de plov et un dîner maison. Nuit à l’hôtel.",
+        "ja": "ホテルで朝食。イスマイル・サーマーニー廟と預言者ヨブの伝説が残るチャシュマ・アイユブ廟を訪ね、バザールを歩き、ボロ・ハウズ・モスクと古い牢獄ズィンダンのあるアルク城へ。午後は最後のアミールの夏の離宮シトライ・マヒ・ホサ宮殿と、バハウッディン・ナクシュバンド廟へ足を延ばします。夜は地元の家庭でプロフ作りの料理教室と手作りの夕食。ホテル泊。",
+        "es": "Desayuno en el hotel. Visitamos el mausoleo de Ismail Samani y el mausoleo Chashma Ayub, ligado a la leyenda del profeta Job, paseamos por el bazar y vemos la mezquita Bolo-Hauz y la ciudadela del Ark con la antigua prisión del Zindán. Por la tarde vamos al palacio Sitorai Mokhi-Khosa, residencia de verano del último emir, y al mausoleo de Bahauddin Naqshband. Por la noche, una familia nos recibe para un taller de plov y una cena casera. Noche en el hotel."
+      },
+      "meals": {
+        "en": "breakfast, dinner",
+        "de": "Frühstück, Abendessen",
+        "fr": "petit-déjeuner, dîner",
+        "ja": "朝食・夕食",
+        "es": "desayuno, cena"
+      }
+    },
+    {
+      "day": 12,
+      "title": {
+        "en": "Bukhara – Khiva, 460 km by road",
+        "de": "Buchara – Chiwa, 460 km auf der Straße",
+        "fr": "Boukhara – Khiva, 460 km par la route",
+        "ja": "ブハラ – ヒヴァ、陸路460km",
+        "es": "Bujará – Jiva, 460 km por carretera"
+      },
+      "description": {
+        "en": "After breakfast we set off on a long drive across the Kyzyl-Kum Desert and along the Amudarya River. We stop for lunch on the way and reach Khiva, a walled medieval city, with free time for its lanes, workshops and craft shops. Overnight in Khiva.",
+        "de": "Nach dem Frühstück beginnt eine lange Fahrt durch die Wüste Kysylkum und entlang des Amudarja. Unterwegs halten wir zum Mittagessen und erreichen Chiwa, eine ummauerte mittelalterliche Stadt, mit freier Zeit für Gassen, Werkstätten und Läden. Übernachtung in Chiwa.",
+        "fr": "Après le petit-déjeuner, longue route à travers le désert du Kyzylkoum et le long de l’Amou-Daria. Halte pour déjeuner en chemin, puis arrivée à Khiva, ville médiévale fortifiée, avec du temps libre pour ses ruelles, ses ateliers et ses boutiques. Nuit à Khiva.",
+        "ja": "朝食後、キジルクム砂漠を越え、アムダリヤ川に沿って長いドライブへ。途中で昼食をとり、城壁に囲まれた中世の町ヒヴァに到着。路地や工房、店を巡る自由時間があります。ヒヴァ泊。",
+        "es": "Después del desayuno empieza un largo trayecto por el desierto de Kyzylkum y junto al río Amu Daria. Paramos a comer en el camino y llegamos a Jiva, ciudad medieval amurallada, con tiempo libre para sus callejuelas, talleres y tiendas. Noche en Jiva."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 13,
+      "title": {
+        "en": "Khiva – Urgench, 30 km by road; evening flight to Tashkent",
+        "de": "Chiwa – Urgentsch, 30 km auf der Straße; Abendflug nach Taschkent",
+        "fr": "Khiva – Ourguentch, 30 km par la route ; vol du soir vers Tachkent",
+        "ja": "ヒヴァ – ウルゲンチ、陸路30km／夜の便でタシケントへ",
+        "es": "Jiva – Urgench, 30 km por carretera; vuelo de tarde a Taskent"
+      },
+      "description": {
+        "en": "After breakfast we explore Ichan-Kala, Khiva’s walled inner city and a UNESCO World Heritage Site: the Pakhlavan Mahmud Mausoleum, the Kunya-Ark Fortress and the Islam Hajji Minaret. After lunch we visit the Tash Khauli Palace, the Juma Mosque with its 200 carved wooden columns, the Muhammad Aminkhan Madrasah and the Avesta Museum. In the evening we transfer to Urgench for the flight to Tashkent; on arrival, transfer to the hotel.",
+        "de": "Nach dem Frühstück erkunden wir Itchan Kala, die ummauerte Innenstadt von Chiwa und UNESCO-Welterbe: das Mausoleum von Pahlawan Mahmud, die Festung Kunja-Ark und das Minarett Islam Chodscha. Nach dem Mittagessen besuchen wir den Palast Tasch Hauli, die Dschuma-Moschee mit ihren 200 geschnitzten Holzsäulen, die Medrese Muhammad Amin Khan und das Avesta-Museum. Am Abend Transfer nach Urgentsch zum Flug nach Taschkent; nach der Ankunft Transfer zum Hotel.",
+        "fr": "Après le petit-déjeuner, nous explorons Itchan Kala, la ville intérieure fortifiée de Khiva, inscrite au patrimoine mondial de l’UNESCO : le mausolée de Pakhlavan Makhmoud, la forteresse Kounia-Ark et le minaret Islam Khodja. Après le déjeuner, nous visitons le palais Tach-Khaouli, la mosquée Djouma et ses 200 colonnes de bois sculpté, la médersa Mohammed Amin Khan et le musée de l’Avesta. Le soir, transfert à Ourguentch pour le vol vers Tachkent ; à l’arrivée, transfert à l’hôtel.",
+        "ja": "朝食後、ユネスコ世界遺産に登録されたヒヴァの城壁内の町イチャン・カラを散策。パフラヴァン・マフムード廟、クフナ・アルク、イスラーム・ホジャ・ミナレット。昼食後はタシュ・ハウリ宮殿、200本の木彫りの柱が並ぶジュマ・モスク、ムハンマド・アミン・ハン・メドレセ、アヴェスタ博物館へ。夜にウルゲンチへ移動し、タシケント行きの便へ。到着後ホテルへ送迎します。",
+        "es": "Después del desayuno exploramos Itchan Kala, la ciudad interior amurallada de Jiva y Patrimonio de la Humanidad de la UNESCO: el mausoleo de Pahlavan Mahmud, la fortaleza Kunya-Ark y el minarete Islam Khodja. Después de comer visitamos el palacio Tash Hauli, la mezquita Juma con sus 200 columnas de madera tallada, la madrasa de Muhammad Amin Khan y el museo del Avesta. Por la tarde, traslado a Urgench para el vuelo a Taskent; a la llegada, traslado al hotel."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    },
+    {
+      "day": 14,
+      "title": {
+        "en": "Tashkent, departure",
+        "de": "Taschkent, Abreise",
+        "fr": "Tachkent, départ",
+        "ja": "タシケント出発",
+        "es": "Taskent, salida"
+      },
+      "description": {
+        "en": "Early morning transfer to the airport for your international flight. Depending on the flight time, breakfast or a lunch box is provided.",
+        "de": "Früh am Morgen Transfer zum Flughafen für Ihren internationalen Flug. Je nach Abflugzeit gibt es Frühstück oder ein Lunchpaket.",
+        "fr": "Transfert tôt le matin à l’aéroport pour votre vol international. Selon l’heure du vol, petit-déjeuner ou panier-repas.",
+        "ja": "早朝に空港へ送迎し、国際線でご出発です。出発時刻により、朝食またはランチボックスをご用意します。",
+        "es": "Traslado temprano al aeropuerto para su vuelo internacional. Según la hora del vuelo, desayuno o picnic para llevar."
+      },
+      "meals": {
+        "en": "breakfast",
+        "de": "Frühstück",
+        "fr": "petit-déjeuner",
+        "ja": "朝食",
+        "es": "desayuno"
+      }
+    }
+  ],
+  "included": {
+    "en": [
+      "Hotels listed below, or similar properties of the same category, in double or twin rooms with breakfast. Early check-in on Day 1 in Almaty is included; at other hotels check-in is at 14:00 and check-out at 12:00",
+      "Guesthouse night at Kolsay (twin room)",
+      "Meals: daily breakfasts, 3 lunches and 2 dinners as per the programme",
+      "Entrance fees to the monuments and museums in the itinerary",
+      "Falconry demonstration and felt-making master class in Kyrgyzstan",
+      "English-speaking guides for the sightseeing",
+      "Air-conditioned transport throughout the tour, including all airport–hotel–airport transfers",
+      "Train from Tashkent to Samarkand (economy class)",
+      "Flight Bishkek – Tashkent (economy class)",
+      "Flight Urgench – Tashkent (economy class)"
+    ],
+    "de": [
+      "Hotels wie unten aufgeführt oder gleichwertige Häuser derselben Kategorie, im Doppel- oder Zweibettzimmer mit Frühstück. Early Check-in am 1. Tag in Almaty inklusive; in den übrigen Hotels Check-in um 14:00, Check-out um 12:00 Uhr",
+      "Eine Nacht im Gästehaus in Kolsai (Zweibettzimmer)",
+      "Mahlzeiten: täglich Frühstück, 3 Mittagessen und 2 Abendessen laut Programm",
+      "Eintrittsgelder für die Monumente und Museen im Reiseverlauf",
+      "Falknerei-Vorführung und Filz-Workshop in Kirgistan",
+      "Englischsprachige Reiseleitung bei den Besichtigungen",
+      "Klimatisierte Fahrzeuge während der ganzen Reise, inklusive aller Transfers Flughafen – Hotel – Flughafen",
+      "Zug von Taschkent nach Samarkand (Economy)",
+      "Flug Bischkek – Taschkent (Economy)",
+      "Flug Urgentsch – Taschkent (Economy)"
+    ],
+    "fr": [
+      "Hôtels indiqués ci-dessous, ou établissements similaires de même catégorie, en chambre double ou twin avec petit-déjeuner. Early check-in le jour 1 à Almaty inclus ; dans les autres hôtels, arrivée à 14 h et départ à 12 h",
+      "Nuit en maison d’hôtes à Kolsay (chambre twin)",
+      "Repas : petits-déjeuners quotidiens, 3 déjeuners et 2 dîners selon le programme",
+      "Droits d’entrée des monuments et musées du programme",
+      "Démonstration de fauconnerie et atelier de feutre au Kirghizistan",
+      "Guides anglophones pour les visites",
+      "Transport climatisé pendant tout le circuit, avec tous les transferts aéroport – hôtel – aéroport",
+      "Train de Tachkent à Samarcande (classe économique)",
+      "Vol Bichkek – Tachkent (classe économique)",
+      "Vol Ourguentch – Tachkent (classe économique)"
+    ],
+    "ja": [
+      "下記ホテルまたは同クラスのホテル（ダブルまたはツイン、朝食付き）。1日目アルマトイのアーリーチェックイン込み。その他のホテルはチェックイン14:00、チェックアウト12:00",
+      "コルサイのゲストハウス泊（ツイン）",
+      "食事：毎日の朝食、昼食3回、夕食2回（行程表のとおり）",
+      "行程に記載の史跡・博物館の入場料",
+      "キルギスでの鷹狩りの実演とフェルト作りのワークショップ",
+      "観光時の英語ガイド",
+      "全行程の冷房付き車両（空港・ホテル間の送迎をすべて含む）",
+      "タシケント～サマルカンドの列車（エコノミー）",
+      "ビシュケク～タシケントの航空券（エコノミー）",
+      "ウルゲンチ～タシケントの航空券（エコノミー）"
+    ],
+    "es": [
+      "Hoteles indicados abajo, o similares de la misma categoría, en habitación doble o twin con desayuno. Early check-in el día 1 en Almaty incluido; en los demás hoteles la entrada es a las 14:00 y la salida a las 12:00",
+      "Noche en casa de huéspedes en Kolsay (habitación twin)",
+      "Comidas: desayunos diarios, 3 comidas y 2 cenas según el programa",
+      "Entradas a los monumentos y museos del itinerario",
+      "Demostración de cetrería y taller de fieltro en Kirguistán",
+      "Guías de habla inglesa para las visitas",
+      "Transporte con aire acondicionado durante todo el viaje, con todos los traslados aeropuerto – hotel – aeropuerto",
+      "Tren de Taskent a Samarcanda (clase turista)",
+      "Vuelo Biskek – Taskent (clase turista)",
+      "Vuelo Urgench – Taskent (clase turista)"
+    ]
+  },
+  "notIncluded": {
+    "en": [
+      "International flights",
+      "Meals not listed above",
+      "Medical expenses and travel insurance",
+      "Porterage at hotels, railway stations and airports",
+      "Tips for guides and drivers"
+    ],
+    "de": [
+      "Internationale Flüge",
+      "Nicht genannte Mahlzeiten",
+      "Medizinische Kosten und Reiseversicherung",
+      "Gepäckträger in Hotels, Bahnhöfen und Flughäfen",
+      "Trinkgelder für Reiseleitung und Fahrer"
+    ],
+    "fr": [
+      "Vols internationaux",
+      "Repas non mentionnés",
+      "Frais médicaux et assurance voyage",
+      "Portage dans les hôtels, gares et aéroports",
+      "Pourboires des guides et chauffeurs"
+    ],
+    "ja": [
+      "国際線航空券",
+      "記載のない食事",
+      "医療費および旅行保険",
+      "ホテル・駅・空港でのポーター料",
+      "ガイド・ドライバーへのチップ"
+    ],
+    "es": [
+      "Vuelos internacionales",
+      "Comidas no mencionadas",
+      "Gastos médicos y seguro de viaje",
+      "Maleteros en hoteles, estaciones y aeropuertos",
+      "Propinas para guías y conductores"
+    ]
+  },
+  "priceFrom": 2643,
+  "currency": "USD",
+  "priceNote": {
+    "en": "Season 2027, USD per person, twin share. The price depends on group size and hotel class; see the table below.",
+    "de": "Saison 2027, USD pro Person im Doppelzimmer. Der Preis hängt von Gruppengröße und Hotelkategorie ab; siehe Tabelle unten.",
+    "fr": "Saison 2027, USD par personne, base chambre double. Le prix dépend de la taille du groupe et de la catégorie d’hôtel ; voir le tableau ci-dessous.",
+    "ja": "2027年シーズン、1名あたりUSD、2名1室利用。料金は人数とホテルのクラスによって異なります。下の料金表をご覧ください。",
+    "es": "Temporada 2027, USD por persona en habitación doble. El precio depende del tamaño del grupo y de la categoría de hotel; vea la tabla de abajo."
+  },
+  "fromLabel": {
+    "en": "from $2643 per person (10–11 travellers, 3*)",
+    "de": "ab $2643 pro Person (10–11 Reisende, 3*)",
+    "fr": "à partir de $2643 par personne (10–11 voyageurs, 3*)",
+    "ja": "1名あたり$2643から（10～11名、3つ星）",
+    "es": "desde $2643 por persona (10–11 viajeros, 3*)"
+  },
+  "priceTable": {
+    "caption": {
+      "en": "Season 2027, USD per person, twin share",
+      "de": "Saison 2027, USD pro Person im Doppelzimmer",
+      "fr": "Saison 2027, USD par personne, base chambre double",
+      "ja": "2027年シーズン、1名あたりUSD、2名1室利用",
+      "es": "Temporada 2027, USD por persona en habitación doble"
+    },
+    "groupSizes": {
+      "en": [
+        "1 traveller",
+        "2–3 travellers",
+        "4–5 travellers",
+        "6–7 travellers",
+        "8–9 travellers",
+        "10–11 travellers"
+      ],
+      "de": [
+        "1 Reisender",
+        "2–3 Reisende",
+        "4–5 Reisende",
+        "6–7 Reisende",
+        "8–9 Reisende",
+        "10–11 Reisende"
+      ],
+      "fr": [
+        "1 voyageur",
+        "2–3 voyageurs",
+        "4–5 voyageurs",
+        "6–7 voyageurs",
+        "8–9 voyageurs",
+        "10–11 voyageurs"
+      ],
+      "ja": [
+        "1名",
+        "2～3名",
+        "4～5名",
+        "6～7名",
+        "8～9名",
+        "10～11名"
+      ],
+      "es": [
+        "1 viajero",
+        "2–3 viajeros",
+        "4–5 viajeros",
+        "6–7 viajeros",
+        "8–9 viajeros",
+        "10–11 viajeros"
+      ]
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "3* hotels",
+          "de": "3*-Hotels",
+          "fr": "Hôtels 3*",
+          "ja": "3つ星ホテル",
+          "es": "Hoteles 3*"
+        },
+        "prices": [
+          7297,
+          4389,
+          3294,
+          2909,
+          2733,
+          2643
+        ],
+        "singleSupplement": "+390"
+      },
+      {
+        "label": {
+          "en": "4* hotels",
+          "de": "4*-Hotels",
+          "fr": "Hôtels 4*",
+          "ja": "4つ星ホテル",
+          "es": "Hoteles 4*"
+        },
+        "prices": [
+          7842,
+          4777,
+          3652,
+          3274,
+          3101,
+          2993
+        ],
+        "singleSupplement": "+580"
+      }
+    ],
+    "note": {
+      "en": "Prices are per person in USD for a twin or double room, by group size. The single supplement is the extra charge per person for a room of your own.",
+      "de": "Preise pro Person in USD im Doppel- oder Zweibettzimmer, nach Gruppengröße. Der Einzelzimmerzuschlag ist der Aufpreis pro Person für ein eigenes Zimmer.",
+      "fr": "Prix par personne en USD en chambre double ou twin, selon la taille du groupe. Le supplément single est le surcoût par personne pour une chambre individuelle.",
+      "ja": "料金は人数別の1名あたりUSD（ダブルまたはツイン2名1室利用）です。1名1室追加料金は、お一人で1室をご利用の場合に1名あたり追加でかかる料金です。",
+      "es": "Precios por persona en USD en habitación doble o twin, según el tamaño del grupo. El suplemento individual es el cargo adicional por persona por una habitación propia."
+    }
+  },
+  "hotels": [
+    {
+      "city": {
+        "en": "Almaty",
+        "de": "Almaty",
+        "fr": "Almaty",
+        "ja": "アルマトイ",
+        "es": "Almaty"
+      },
+      "standard": {
+        "en": "Grand Sapphire 3* or similar",
+        "de": "Grand Sapphire 3* oder ähnlich",
+        "fr": "Grand Sapphire 3* ou similaire",
+        "ja": "Grand Sapphire 3*（または同等クラス）",
+        "es": "Grand Sapphire 3* o similar"
+      },
+      "superior": {
+        "en": "Kazzhol Park 4* or similar",
+        "de": "Kazzhol Park 4* oder ähnlich",
+        "fr": "Kazzhol Park 4* ou similaire",
+        "ja": "Kazzhol Park 4*（または同等クラス）",
+        "es": "Kazzhol Park 4* o similar"
+      }
+    },
+    {
+      "city": {
+        "en": "Kolsay Lakes",
+        "de": "Kolsai-Seen",
+        "fr": "Lacs de Kolsay",
+        "ja": "コルサイ湖",
+        "es": "Lagos Kolsay"
+      },
+      "standard": {
+        "en": "Alban / Taushelek guesthouse",
+        "de": "Alban / Taushelek Gästehaus",
+        "fr": "Alban / Taushelek maison d’hôtes",
+        "ja": "Alban / Taushelek ゲストハウス",
+        "es": "Alban / Taushelek casa de huéspedes"
+      },
+      "superior": {
+        "en": "Kolsay Prestige Hotel",
+        "de": "Kolsay Prestige Hotel",
+        "fr": "Kolsay Prestige Hotel",
+        "ja": "Kolsay Prestige Hotel",
+        "es": "Kolsay Prestige Hotel"
+      }
+    },
+    {
+      "city": {
+        "en": "Karakol",
+        "de": "Karakol",
+        "fr": "Karakol",
+        "ja": "カラコル",
+        "es": "Karakol"
+      },
+      "standard": {
+        "en": "Green Yard 3* or similar",
+        "de": "Green Yard 3* oder ähnlich",
+        "fr": "Green Yard 3* ou similaire",
+        "ja": "Green Yard 3*（または同等クラス）",
+        "es": "Green Yard 3* o similar"
+      },
+      "superior": {
+        "en": "Karagat 4* or similar",
+        "de": "Karagat 4* oder ähnlich",
+        "fr": "Karagat 4* ou similaire",
+        "ja": "Karagat 4*（または同等クラス）",
+        "es": "Karagat 4* o similar"
+      }
+    },
+    {
+      "city": {
+        "en": "Kochkor",
+        "de": "Kotschkor",
+        "fr": "Kotchkor",
+        "ja": "コチコル",
+        "es": "Kochkor"
+      },
+      "standard": {
+        "en": "Nomad Lodge Hotel / Bagysh Hotel",
+        "de": "Nomad Lodge Hotel / Bagysh Hotel",
+        "fr": "Nomad Lodge Hotel / Bagysh Hotel",
+        "ja": "Nomad Lodge Hotel / Bagysh Hotel",
+        "es": "Nomad Lodge Hotel / Bagysh Hotel"
+      },
+      "superior": {
+        "en": "Nomad Lodge Hotel / Bagysh Hotel",
+        "de": "Nomad Lodge Hotel / Bagysh Hotel",
+        "fr": "Nomad Lodge Hotel / Bagysh Hotel",
+        "ja": "Nomad Lodge Hotel / Bagysh Hotel",
+        "es": "Nomad Lodge Hotel / Bagysh Hotel"
+      }
+    },
+    {
+      "city": {
+        "en": "Bishkek",
+        "de": "Bischkek",
+        "fr": "Bichkek",
+        "ja": "ビシュケク",
+        "es": "Biskek"
+      },
+      "standard": {
+        "en": "Bishkek Boutique 3* or similar",
+        "de": "Bishkek Boutique 3* oder ähnlich",
+        "fr": "Bishkek Boutique 3* ou similaire",
+        "ja": "Bishkek Boutique 3*（または同等クラス）",
+        "es": "Bishkek Boutique 3* o similar"
+      },
+      "superior": {
+        "en": "Novotel 4* or similar",
+        "de": "Novotel 4* oder ähnlich",
+        "fr": "Novotel 4* ou similaire",
+        "ja": "Novotel 4*（または同等クラス）",
+        "es": "Novotel 4* o similar"
+      }
+    },
+    {
+      "city": {
+        "en": "Tashkent",
+        "de": "Taschkent",
+        "fr": "Tachkent",
+        "ja": "タシケント",
+        "es": "Taskent"
+      },
+      "standard": {
+        "en": "Human 3* or similar",
+        "de": "Human 3* oder ähnlich",
+        "fr": "Human 3* ou similaire",
+        "ja": "Human 3*（または同等クラス）",
+        "es": "Human 3* o similar"
+      },
+      "superior": {
+        "en": "Panarams 4* or similar",
+        "de": "Panarams 4* oder ähnlich",
+        "fr": "Panarams 4* ou similaire",
+        "ja": "Panarams 4*（または同等クラス）",
+        "es": "Panarams 4* o similar"
+      }
+    },
+    {
+      "city": {
+        "en": "Samarkand",
+        "de": "Samarkand",
+        "fr": "Samarcande",
+        "ja": "サマルカンド",
+        "es": "Samarcanda"
+      },
+      "standard": {
+        "en": "Arba 3* or similar",
+        "de": "Arba 3* oder ähnlich",
+        "fr": "Arba 3* ou similaire",
+        "ja": "Arba 3*（または同等クラス）",
+        "es": "Arba 3* o similar"
+      },
+      "superior": {
+        "en": "Continental 4* or similar",
+        "de": "Continental 4* oder ähnlich",
+        "fr": "Continental 4* ou similaire",
+        "ja": "Continental 4*（または同等クラス）",
+        "es": "Continental 4* o similar"
+      }
+    },
+    {
+      "city": {
+        "en": "Bukhara",
+        "de": "Buchara",
+        "fr": "Boukhara",
+        "ja": "ブハラ",
+        "es": "Bujará"
+      },
+      "standard": {
+        "en": "Rangrez 3* or similar",
+        "de": "Rangrez 3* oder ähnlich",
+        "fr": "Rangrez 3* ou similaire",
+        "ja": "Rangrez 3*（または同等クラス）",
+        "es": "Rangrez 3* o similar"
+      },
+      "superior": {
+        "en": "Paradise Plaza 4* or similar",
+        "de": "Paradise Plaza 4* oder ähnlich",
+        "fr": "Paradise Plaza 4* ou similaire",
+        "ja": "Paradise Plaza 4*（または同等クラス）",
+        "es": "Paradise Plaza 4* o similar"
+      }
+    },
+    {
+      "city": {
+        "en": "Khiva",
+        "de": "Chiwa",
+        "fr": "Khiva",
+        "ja": "ヒヴァ",
+        "es": "Jiva"
+      },
+      "standard": {
+        "en": "Khiva Residence 3* or similar",
+        "de": "Khiva Residence 3* oder ähnlich",
+        "fr": "Khiva Residence 3* ou similaire",
+        "ja": "Khiva Residence 3*（または同等クラス）",
+        "es": "Khiva Residence 3* o similar"
+      },
+      "superior": {
+        "en": "Asia Khiva 4* or similar",
+        "de": "Asia Khiva 4* oder ähnlich",
+        "fr": "Asia Khiva 4* ou similaire",
+        "ja": "Asia Khiva 4*（または同等クラス）",
+        "es": "Asia Khiva 4* o similar"
+      }
+    }
+  ],
+  "vehicles": [
+    {
+      "group": {
+        "en": "1–2 travellers",
+        "de": "1–2 Reisende",
+        "fr": "1–2 voyageurs",
+        "ja": "1～2名",
+        "es": "1–2 viajeros"
+      },
+      "vehicle": {
+        "en": "Chevrolet Lacetti or similar",
+        "de": "Chevrolet Lacetti oder ähnlich",
+        "fr": "Chevrolet Lacetti ou similaire",
+        "ja": "シボレー・ラセッティまたは同等車種",
+        "es": "Chevrolet Lacetti o similar"
+      }
+    },
+    {
+      "group": {
+        "en": "4 travellers",
+        "de": "4 Reisende",
+        "fr": "4 voyageurs",
+        "ja": "4名",
+        "es": "4 viajeros"
+      },
+      "vehicle": {
+        "en": "Hyundai Starex minivan, 6 seats",
+        "de": "Hyundai Starex Minivan, 6 Sitze",
+        "fr": "Minibus Hyundai Starex, 6 places",
+        "ja": "ヒュンダイ・スターレックス（6人乗りミニバン）",
+        "es": "Minibús Hyundai Starex, 6 plazas"
+      }
+    },
+    {
+      "group": {
+        "en": "6–8 travellers",
+        "de": "6–8 Reisende",
+        "fr": "6–8 voyageurs",
+        "ja": "6～8名",
+        "es": "6–8 viajeros"
+      },
+      "vehicle": {
+        "en": "King Long minivan, 10 seats, or similar",
+        "de": "King Long Minivan, 10 Sitze, oder ähnlich",
+        "fr": "Minibus King Long, 10 places, ou similaire",
+        "ja": "キングロング（10人乗りミニバン）または同等車種",
+        "es": "Minibús King Long, 10 plazas, o similar"
+      }
+    },
+    {
+      "group": {
+        "en": "9–14 travellers",
+        "de": "9–14 Reisende",
+        "fr": "9–14 voyageurs",
+        "ja": "9～14名",
+        "es": "9–14 viajeros"
+      },
+      "vehicle": {
+        "en": "Eurise minivan, 18 seats, or similar",
+        "de": "Eurise Minivan, 18 Sitze, oder ähnlich",
+        "fr": "Minibus Eurise, 18 places, ou similaire",
+        "ja": "ユーライズ（18人乗りミニバン）または同等車種",
+        "es": "Minibús Eurise, 18 plazas, o similar"
+      }
+    }
+  ],
+  "changeNote": {
+    "en": "We may adjust the order of visits and activities, such as museums and sites, if the weather or other circumstances call for it. If we do, we plan the change around your comfort and keep the overall journey intact.",
+    "de": "Wir können die Reihenfolge der Besichtigungen und Aktivitäten, etwa Museen und Sehenswürdigkeiten, anpassen, wenn das Wetter oder andere Umstände es erfordern. Dann planen wir die Änderung mit Blick auf Ihren Komfort und lassen die Reise als Ganzes unverändert.",
+    "fr": "Nous pouvons modifier l’ordre des visites et des activités, comme les musées et les sites, si la météo ou d’autres circonstances l’imposent. Dans ce cas, nous organisons le changement en pensant à votre confort, sans rien retirer du voyage dans son ensemble.",
+    "ja": "天候などの事情により、博物館や見どころなどの訪問順やアクティビティの順番を変更することがあります。その場合も、お客さまの快適さを第一に考え、旅全体の内容は変えずに調整します。",
+    "es": "Podemos cambiar el orden de las visitas y actividades, como museos y lugares, si el tiempo u otras circunstancias lo exigen. Si lo hacemos, planificamos el cambio pensando en su comodidad y mantenemos el viaje completo."
+  },
+  "trainNote": {
+    "en": "Tickets for high-speed trains depend on availability and cannot be guaranteed in advance.",
+    "de": "Tickets für Hochgeschwindigkeitszüge hängen von der Verfügbarkeit ab und können nicht im Voraus garantiert werden.",
+    "fr": "Les billets de train à grande vitesse dépendent des disponibilités et ne peuvent pas être garantis à l’avance.",
+    "ja": "高速列車の乗車券は空席状況によるため、事前に確約することはできません。",
+    "es": "Los billetes de tren de alta velocidad dependen de la disponibilidad y no pueden garantizarse con antelación."
+  },
+  "image": {
+    "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400023/sunday-atlas/landscape-of-the-charyn-canyon-in-kazakhstan-15792410_a6jkdl.jpg",
+    "width": 1920,
+    "height": 2880,
+    "alt": {
+      "en": "Charyn Canyon in Kazakhstan, red sandstone cliffs and the canyon floor under a blue sky",
+      "de": "Scharyn-Canyon in Kasachstan, rote Sandsteinfelsen unter blauem Himmel",
+      "fr": "Canyon de Charyn au Kazakhstan, falaises de grès rouge sous un ciel bleu",
+      "ja": "カザフスタンのチャリン渓谷、青空の下の赤い砂岩の崖",
+      "es": "Cañón de Charyn en Kazajistán, acantilados de arenisca roja bajo el cielo azul"
+    }
+  },
+  "gallery": [
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792317587/sunday-atlas/02-horses-naryn_gzijee.jpg",
+        "width": 1600,
+        "height": 2133
+      },
+      "alt": {
+        "en": "Local horsemen leading and riding horses on a mountain pasture in the Tien Shan, Kyrgyzstan",
+        "de": "Einheimische Reiter mit Pferden auf einer Bergweide im Tian Shan, Kirgistan",
+        "fr": "Cavaliers locaux avec leurs chevaux sur un pâturage de montagne dans le Tian Shan, Kirghizistan",
+        "ja": "キルギス・天山山脈の山の牧草地で馬を引き、馬に乗る現地の騎手たち",
+        "es": "Jinetes locales con sus caballos en un pastizal de montaña del Tian Shan, Kirguistán"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400032/sunday-atlas/registan-square-in-samarkand-uzbekistan-35220187_hm4jth.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Visitors walking across Registan Square in Samarkand, Uzbekistan, with its three tiled madrasahs",
+        "de": "Besucher auf dem Registan-Platz in Samarkand, Usbekistan, vor den drei gefliesten Medresen",
+        "fr": "Visiteurs sur la place du Registan à Samarcande, Ouzbékistan, devant ses trois médersas",
+        "ja": "サマルカンドのレギスタン広場と3つのメドレセの前を歩く旅行者たち（ウズベキスタン）",
+        "es": "Visitantes caminando por la plaza del Registán en Samarcanda, Uzbekistán, frente a sus tres madrasas"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400026/sunday-atlas/kaindy-lake-in-kazakhstan-19022147_nw4i6y.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": {
+        "en": "Kaindy Lake, Kazakhstan, turquoise water with the trunks of the sunken spruce forest",
+        "de": "Kaindy-See, Kasachstan, türkisfarbenes Wasser mit Stämmen des versunkenen Waldes",
+        "fr": "Lac Kaindy, Kazakhstan, eau turquoise et troncs de la forêt engloutie",
+        "ja": "カザフスタンのカインディ湖、ターコイズ色の水と沈んだ森の幹",
+        "es": "Lago Kaindy, Kazajistán, agua turquesa con los troncos del bosque sumergido"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400038/sunday-atlas/scenic-view-of-kolsai-lake-in-almaty-kazakhstan-39859805_pxsiht.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Kolsay Lake in the Tien Shan near Almaty, Kazakhstan, with spruce forest on the slopes",
+        "de": "Kolsai-See im Tian Shan bei Almaty, Kasachstan, mit Fichtenwald",
+        "fr": "Lac Kolsay dans le Tian Shan près d’Almaty, Kazakhstan, et forêt d’épicéas",
+        "ja": "アルマトイ近郊、天山山脈のコルサイ湖とトウヒの森（カザフスタン）",
+        "es": "Lago Kolsay en el Tian Shan cerca de Almaty, Kazajistán, con bosque de abetos"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400037/sunday-atlas/red-rock-formations-at-jeti-oguz-kyrgyzstan-39694515_zk27cj.jpg",
+        "width": 1920,
+        "height": 2098
+      },
+      "alt": {
+        "en": "Red rock formations at Jety-Oguz Gorge, Kyrgyzstan",
+        "de": "Rote Felsformationen in der Dschety-Oguz-Schlucht, Kirgistan",
+        "fr": "Rochers rouges des gorges de Djety-Oguz, Kirghizistan",
+        "ja": "キルギス、ジェティ・オグズ渓谷の赤い岩",
+        "es": "Formaciones de roca roja en la garganta de Jety-Oguz, Kirguistán"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400029/sunday-atlas/fairy-tale-canyon-in-kyrgyzstan-24778698_lsz2un.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Skazka (Fairy Tale) Canyon on Lake Issyk-Kul, Kyrgyzstan, red and yellow clay ridges",
+        "de": "Skazka-Canyon (Märchen-Canyon) am Issyk-Kul, Kirgistan, rote und gelbe Lehmgrate",
+        "fr": "Canyon Skazka (Conte de fées) sur l’Issyk-Koul, Kirghizistan, crêtes d’argile rouge et jaune",
+        "ja": "イシク・クル湖のスカズカ渓谷、赤と黄色の粘土の尾根（キルギス）",
+        "es": "Cañón Skazka (Cuento de hadas) en el Issyk-Kul, Kirguistán, crestas de arcilla roja y amarilla"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400039/sunday-atlas/historic-kalyan-minaret-in-bukhara-uzbekistan-39976642_zympld.jpg",
+        "width": 1920,
+        "height": 2560
+      },
+      "alt": {
+        "en": "Kalyan Minaret of the Po-i-Kalyan Complex in Bukhara, Uzbekistan",
+        "de": "Kalon-Minarett des Po-i-Kalyan-Ensembles in Buchara, Usbekistan",
+        "fr": "Minaret Kalyan de l’ensemble Po-i-Kalyan à Boukhara, Ouzbékistan",
+        "ja": "ブハラ、ポイ・カラーン建築群のカラーン・ミナレット（ウズベキスタン）",
+        "es": "Minarete Kalyan del conjunto Po-i-Kalyan en Bujará, Uzbekistán"
+      }
+    },
+    {
+      "image": {
+        "src": "https://res.cloudinary.com/di4a4oz3o/image/upload/v1792400027/sunday-atlas/wall-of-itchan-kala-castle-in-khiva-in-uzbekistan-19473609_pplfge.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "alt": {
+        "en": "Walls of Ichan-Kala in Khiva, Uzbekistan",
+        "de": "Mauern von Itchan Kala in Chiwa, Usbekistan",
+        "fr": "Remparts d’Itchan Kala à Khiva, Ouzbékistan",
+        "ja": "ヒヴァのイチャン・カラの城壁（ウズベキスタン）",
+        "es": "Murallas de Itchan Kala en Jiva, Uzbekistán"
+      }
+    }
+  ],
+  "sample": false,
+  "isDayTour": false,
+  "featured": true,
+  "published": true,
+  "seo": {
+    "en": {
+      "seo_title": "14-Day 3 Stans Tour: Kazakhstan, Kyrgyzstan & Uzbekistan ($2,643)",
+      "meta_description": "From $2,643 USD/person: 14-day private 3 Stans Silk Road tour (Almaty, Charyn, Kolsai, Issyk-Kul, Samarkand, Bukhara & Khiva). 3★/4★ hotels & flights included.",
+      "focus_keyword": "3 stans tour",
+      "keywords": [
+        "3 stans tour",
+        "kazakhstan kyrgyzstan uzbekistan tour",
+        "14 day central asia tour",
+        "silk road tour package",
+        "almaty to khiva tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "de": {
+      "seo_title": "14-Tage 3-Stans-Rundreise: Kasachstan, Kirgistan & Usbekistan ($2.643)",
+      "meta_description": "Ab $2.643 USD/Person: 14-tägige 3-Stans-Seidenstraßenreise (Almaty, Scharyn, Kolsai, Issyk-Kul, Samarkand, Buchara & Chiwa) inkl. Hotels, Zügen & Inlandsflügen.",
+      "focus_keyword": "3 stans rundreise",
+      "keywords": [
+        "3 stans rundreise",
+        "kasachstan kirgistan usbekistan reise",
+        "zentralasien rundreise 14 tage",
+        "seidenstraße reise"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "fr": {
+      "seo_title": "Circuit 3 Stans 14 Jours : Kazakhstan, Kirghizistan & Ouzbékistan ($2 643)",
+      "meta_description": "Dès $2 643 USD/pers. : circuit privé 14 jours dans les 3 Stans (Almaty, Charyn, Kolsai, Issyk-Koul, Samarcande, Boukhara et Khiva) avec hôtels, trains et vols.",
+      "focus_keyword": "circuit 3 stans",
+      "keywords": [
+        "circuit 3 stans",
+        "voyage kazakhstan kirghizistan ouzbékistan",
+        "circuit asie centrale 14 jours",
+        "route de la soie circuit"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "ja": {
+      "seo_title": "中央アジア3か国周遊14日間ツアー：カザフ・キルギス・ウズベク ($2,643〜)",
+      "meta_description": "1名$2,643〜：アルマトイ、チャリン渓谷、コルサイ湖、イシク・クル湖、サマルカンド、ブハラ、ヒヴァを巡る14日間ツアー。ホテル・高速鉄道・域内航空券込み。",
+      "focus_keyword": "中央アジア 3か国 ツアー",
+      "keywords": [
+        "中央アジア 3か国 ツアー",
+        "カザフスタン キルギス ウズベキスタン ツアー",
+        "シルクロード 14日間 ツアー"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    },
+    "es": {
+      "seo_title": "Tour 3 Stans 14 Días: Kazajistán, Kirguistán y Uzbekistán ($2,643)",
+      "meta_description": "Desde $2,643 USD/persona: circuito privado de 14 días por los 3 Stans (Almaty, Charyn, Kolsai, Issyk-Kul, Samarcanda, Bujará y Jiva) con hoteles, trenes y vuelos.",
+      "focus_keyword": "tour 3 stans",
+      "keywords": [
+        "tour 3 stans",
+        "viaje kazajistán kirguistán uzbekistán",
+        "circuito asia central 14 días",
+        "ruta de la seda tour"
+      ],
+      "og_image": "",
+      "canonical": "",
+      "noindex": false
+    }
+  },
+  "headings": {
+    "h1": {
+      "en": "3 Stans tour: 14 days in Kazakhstan, Kyrgyzstan & Uzbekistan",
+      "de": "Rundreise Kasachstan, Kirgistan, Usbekistan: 14 Tage",
+      "fr": "Circuit Kazakhstan, Kirghizistan, Ouzbékistan : 14 jours",
+      "ja": "中央アジアツアー：カザフスタン・キルギス・ウズベキスタン14日間",
+      "es": "Viaje por Uzbekistán, Kazajistán y Kirguistán en 14 días"
+    },
+    "facts": {
+      "en": "3 Stans tour at a glance",
+      "de": "Die Rundreise auf einen Blick",
+      "fr": "Le circuit en bref",
+      "ja": "中央アジア旅行の概要",
+      "es": "El viaje de un vistazo"
+    },
+    "itinerary": {
+      "en": "3 Stans trip itinerary, day by day",
+      "de": "Reiseverlauf: Kasachstan, Kirgistan, Usbekistan Rundreise Tag für Tag",
+      "fr": "Itinéraire du voyage Kazakhstan, Kirghizistan, Ouzbékistan, jour par jour",
+      "ja": "カザフスタン・キルギス・ウズベキスタン：日ごとの行程",
+      "es": "Viajes por Asia Central: itinerario día a día"
+    },
+    "included": {
+      "en": "What the 3 Stans tour includes",
+      "de": "Im Reisepreis enthalten",
+      "fr": "Ce qui est inclus",
+      "ja": "ツアー料金に含まれるもの",
+      "es": "Qué incluye el viaje"
+    },
+    "notIncluded": {
+      "en": "Not included",
+      "de": "Nicht enthalten",
+      "fr": "Non inclus",
+      "ja": "含まれないもの",
+      "es": "No incluido"
+    },
+    "prices": {
+      "en": "3 Stans tour prices, season 2027",
+      "de": "Preise der Rundreise, Saison 2027",
+      "fr": "Prix du circuit, saison 2027",
+      "ja": "ツアー料金（2027年シーズン）",
+      "es": "Precio del viaje, temporada 2027"
+    },
+    "hotels": {
+      "en": "Hotels by city",
+      "de": "Hotels nach Stadt",
+      "fr": "Hôtels par ville",
+      "ja": "都市別のホテル",
+      "es": "Hoteles por ciudad"
+    },
+    "vehicles": {
+      "en": "Vehicles by group size",
+      "de": "Fahrzeuge nach Gruppengröße",
+      "fr": "Véhicules selon la taille du groupe",
+      "ja": "人数別の車両",
+      "es": "Vehículos según el tamaño del grupo"
+    },
+    "faq": {
+      "en": "3 Stans tour: common questions",
+      "de": "Reise Kasachstan, Kirgistan, Usbekistan: häufige Fragen",
+      "fr": "Circuit Kazakhstan, Ouzbékistan et Kirghizistan : questions fréquentes",
+      "ja": "3か国周遊ツアー：よくある質問",
+      "es": "Viaje a Kirguistán y Uzbekistán: preguntas frecuentes"
+    }
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "How much does the 3 Stans tour cost?",
+        "de": "Was kostet die Rundreise?",
+        "fr": "Combien coûte le circuit ?",
+        "ja": "ツアー料金はいくらですか？",
+        "es": "¿Cuánto cuesta el viaje?"
+      },
+      "a": {
+        "en": "For season 2027 it starts from $2643 per person in a twin room, for a group of 10–11 travellers in 3* hotels. Smaller groups and 4* hotels cost more; the full table is above. The single supplement is +390 USD with 3* hotels and +580 USD with 4* hotels.",
+        "de": "In der Saison 2027 ab $2643 pro Person im Doppelzimmer, für eine Gruppe von 10–11 Reisenden in 3*-Hotels. Kleinere Gruppen und 4*-Hotels kosten mehr; die ganze Tabelle steht oben. Der Einzelzimmerzuschlag beträgt +390 USD mit 3*-Hotels und +580 USD mit 4*-Hotels.",
+        "fr": "Pour la saison 2027, à partir de $2643 par personne en chambre double, pour un groupe de 10–11 voyageurs en hôtels 3*. Les petits groupes et les hôtels 4* coûtent plus cher ; le tableau complet figure plus haut. Le supplément single est de +390 USD en hôtels 3* et de +580 USD en hôtels 4*.",
+        "ja": "2027年シーズンは、3つ星ホテル利用・10～11名のグループで、2名1室1名あたり$2643からです。少人数や4つ星ホテルの場合は高くなります。全料金は上の表をご覧ください。1名1室追加料金は3つ星で+390 USD、4つ星で+580 USDです。",
+        "es": "En la temporada 2027, desde $2643 por persona en habitación doble, para un grupo de 10–11 viajeros en hoteles 3*. Los grupos pequeños y los hoteles 4* cuestan más; la tabla completa está arriba. El suplemento individual es de +390 USD con hoteles 3* y de +580 USD con hoteles 4*."
+      }
+    },
+    {
+      "q": {
+        "en": "Which places does the 3 Stans tour visit?",
+        "de": "Welche Orte besucht die Reise?",
+        "fr": "Quels lieux le circuit visite-t-il ?",
+        "ja": "どこを訪れますか？",
+        "es": "¿Qué lugares visita el viaje?"
+      },
+      "a": {
+        "en": "Kazakhstan: Almaty, Charyn Canyon, the Kolsay Lakes and Kaindy Lake. Kyrgyzstan: Karakol, Jety-Oguz Gorge, Skazka Canyon, Bokonbaevo, Kochkor and Bishkek. Uzbekistan: Tashkent, Samarkand, Bukhara and Khiva.",
+        "de": "Kasachstan: Almaty, Scharyn-Canyon, die Kolsai-Seen und der Kaindy-See. Kirgistan: Karakol, die Dschety-Oguz-Schlucht, der Skazka-Canyon, Bokonbaewo, Kotschkor und Bischkek. Usbekistan: Taschkent, Samarkand, Buchara und Chiwa.",
+        "fr": "Kazakhstan : Almaty, le canyon de Charyn, les lacs de Kolsay et le lac Kaindy. Kirghizistan : Karakol, les gorges de Djety-Oguz, le canyon Skazka, Bokonbaevo, Kotchkor et Bichkek. Ouzbékistan : Tachkent, Samarcande, Boukhara et Khiva.",
+        "ja": "カザフスタン：アルマトイ、チャリン渓谷、コルサイ湖、カインディ湖。キルギス：カラコル、ジェティ・オグズ渓谷、スカズカ渓谷、ボコンバエヴォ、コチコル、ビシュケク。ウズベキスタン：タシケント、サマルカンド、ブハラ、ヒヴァ。",
+        "es": "Kazajistán: Almaty, el cañón de Charyn, los lagos Kolsay y el lago Kaindy. Kirguistán: Karakol, la garganta de Jety-Oguz, el cañón Skazka, Bokonbaevo, Kochkor y Biskek. Uzbekistán: Taskent, Samarcanda, Bujará y Jiva."
+      }
+    },
+    {
+      "q": {
+        "en": "Are flights and trains included?",
+        "de": "Sind Flüge und Züge enthalten?",
+        "fr": "Les vols et trains sont-ils inclus ?",
+        "ja": "航空券や列車は含まれますか？",
+        "es": "¿Están incluidos los vuelos y trenes?"
+      },
+      "a": {
+        "en": "Yes for the travel inside the route: the flights Bishkek – Tashkent and Urgench – Tashkent and the train from Tashkent to Samarkand, all in economy class. International flights to Almaty and home from Tashkent are not included.",
+        "de": "Ja, innerhalb der Route: die Flüge Bischkek – Taschkent und Urgentsch – Taschkent sowie der Zug von Taschkent nach Samarkand, jeweils in Economy. Internationale Flüge nach Almaty und ab Taschkent sind nicht enthalten.",
+        "fr": "Oui pour les trajets du circuit : les vols Bichkek – Tachkent et Ourguentch – Tachkent et le train de Tachkent à Samarcande, en classe économique. Les vols internationaux vers Almaty et au départ de Tachkent ne sont pas inclus.",
+        "ja": "ルート内の移動は含まれます。ビシュケク～タシケントとウルゲンチ～タシケントの航空券、タシケント～サマルカンドの列車（いずれもエコノミー）です。アルマトイまでとタシケントからの国際線は含まれません。",
+        "es": "Sí, dentro de la ruta: los vuelos Biskek – Taskent y Urgench – Taskent y el tren de Taskent a Samarcanda, en clase turista. Los vuelos internacionales a Almaty y desde Taskent no están incluidos."
+      }
+    },
+    {
+      "q": {
+        "en": "Where do we stay?",
+        "de": "Wo übernachten wir?",
+        "fr": "Où dormons-nous ?",
+        "ja": "宿泊先はどこですか？",
+        "es": "¿Dónde nos alojamos?"
+      },
+      "a": {
+        "en": "In 3* or 4* hotels, depending on the price you choose, listed by city above or similar properties of the same category. The night at the Kolsay Lakes is in a guesthouse.",
+        "de": "In 3*- oder 4*-Hotels, je nach gewähltem Preis, wie oben nach Stadt aufgeführt oder gleichwertig. Die Nacht an den Kolsai-Seen verbringen wir in einem Gästehaus.",
+        "fr": "En hôtels 3* ou 4* selon le prix choisi, listés par ville plus haut, ou similaires de même catégorie. La nuit aux lacs de Kolsay se passe en maison d’hôtes.",
+        "ja": "お選びの料金に応じて、上記の都市別の3つ星または4つ星ホテル、または同クラスのホテルです。コルサイ湖ではゲストハウスに泊まります。",
+        "es": "En hoteles 3* o 4*, según el precio que elija, indicados por ciudad arriba o similares de la misma categoría. La noche en los lagos Kolsay es en una casa de huéspedes."
+      }
+    },
+    {
+      "q": {
+        "en": "Which vehicle do we travel in?",
+        "de": "Mit welchem Fahrzeug reisen wir?",
+        "fr": "Dans quel véhicule voyageons-nous ?",
+        "ja": "どんな車で移動しますか？",
+        "es": "¿En qué vehículo viajamos?"
+      },
+      "a": {
+        "en": "It depends on the group size: from a Chevrolet Lacetti or similar for 1–2 travellers up to an Eurise minivan with 18 seats, or similar, for 9–14 travellers. All vehicles are air-conditioned.",
+        "de": "Das hängt von der Gruppengröße ab: vom Chevrolet Lacetti oder ähnlich für 1–2 Reisende bis zum Eurise Minivan mit 18 Sitzen oder ähnlich für 9–14 Reisende. Alle Fahrzeuge sind klimatisiert.",
+        "fr": "Selon la taille du groupe : d’une Chevrolet Lacetti ou similaire pour 1–2 voyageurs à un minibus Eurise de 18 places, ou similaire, pour 9–14 voyageurs. Tous les véhicules sont climatisés.",
+        "ja": "人数によって異なります。1～2名はシボレー・ラセッティまたは同等車種、9～14名は18人乗りのユーライズまたは同等車種です。すべて冷房付きです。",
+        "es": "Depende del tamaño del grupo: desde un Chevrolet Lacetti o similar para 1–2 viajeros hasta un minibús Eurise de 18 plazas, o similar, para 9–14 viajeros. Todos tienen aire acondicionado."
+      }
+    }
+  ],
+  "addOns": [
+    "turgen-gorge-assy-plateau-2-days",
+    "bogdanovich-glacier-day-hike"
+  ],
+  "seasonNote": {
+    "en": ""
+  }
+}

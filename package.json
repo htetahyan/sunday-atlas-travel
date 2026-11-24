@@ -1,0 +1,51 @@
+{
+  "name": "rare-atlas-travel",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/sync-from-sanity.mjs && node scripts/export-cms.mjs && node scripts/build-chat-index.mjs && next build",
+    "postbuild": "node scripts/cms-site-url.mjs && node scripts/contact-no-slash.mjs && node scripts/root-home.mjs && node scripts/check-placeholders.mjs && node scripts/check-supplier-leaks.mjs",
+    "chat:index": "node scripts/build-chat-index.mjs",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p functions/tsconfig.json",
+    "check:i18n": "node scripts/check-i18n.mjs",
+    "check:placeholders": "node scripts/check-placeholders.mjs",
+    "check:suppliers": "node scripts/check-supplier-leaks.mjs",
+    "suppliers:json": "node scripts/supplier-sheet-diff.mjs",
+    "suppliers:push": "node scripts/sanity-push-suppliers.mjs",
+    "check": "tsc --noEmit && tsc --noEmit -p functions/tsconfig.json && node scripts/check-i18n.mjs",
+    "test:translate": "node scripts/test-auto-translate.mjs",
+    "test:inquiry": "node --no-warnings scripts/test-inquiry-failsafe.mjs",
+    "cms": "npx decap-server",
+    "cms:export": "node scripts/export-cms.mjs",
+    "cms:pull": "node scripts/sync-from-sanity.mjs",
+    "blog:ai": "node scripts/ai-blog-generator.mjs",
+    "blog:refresh": "node scripts/blog-refresh.mjs",
+    "blog:daily": "node scripts/blog-daily.mjs",
+    "blog:plan": "node scripts/blog-rotation-plan.mjs --days=7",
+    "blog:push": "node scripts/sanity-push-blog.mjs",
+    "test:images": "node scripts/test-image-finder.mjs",
+    "images:registry": "node scripts/image-registry.mjs",
+    "images:packages": "node scripts/images-for-packages.mjs",
+    "subscribers:export": "node scripts/subscribers-export.mjs",
+    "newsletter:preview": "node scripts/newsletter.mjs --dry-run",
+    "test:newsletter": "node scripts/test-newsletter.mjs",
+    "test:blog-titles": "node scripts/test-blog-titles.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.109.0",
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3"
+  }
+}

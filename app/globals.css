@@ -1,0 +1,413 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    text-rendering: optimizeLegibility;
+    overflow-wrap: break-word;
+  }
+
+  :focus-visible {
+    outline: 2px solid #0f6e6e;
+    outline-offset: 3px;
+  }
+
+  ::selection {
+    background: #0f6e6e;
+    color: #fff;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary {
+    list-style: none;
+  }
+}
+
+.atlas-card {
+  transition: transform 220ms cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 220ms ease, border-color 220ms ease;
+}
+
+.atlas-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 28px 48px -24px rgba(28, 36, 48, 0.45);
+  border-color: rgba(15, 110, 110, 0.35);
+}
+
+/* Card photos: a slightly stronger, smoother zoom on hover (overrides the 1.02 utility). */
+.atlas-card img {
+  transition: transform 600ms cubic-bezier(0.2, 0.7, 0.2, 1) !important;
+}
+
+.atlas-card:hover img {
+  transform: scale(1.06) !important;
+}
+
+/* ---------- Alive layer: motion is opacity/transform only (no layout shift) ---------- */
+
+/* Header: solid background + shadow once the page scrolls. Height never changes. */
+.site-header {
+  transition: background-color 200ms ease, box-shadow 200ms ease, border-color 200ms ease;
+}
+
+.site-header[data-scrolled="true"] {
+  background-color: rgba(250, 247, 242, 0.98);
+  border-color: transparent;
+  box-shadow: 0 10px 30px -18px rgba(28, 36, 48, 0.45);
+}
+
+/* Nav links: sliding underline. */
+.nav-link::after,
+.link-slide {
+  background-repeat: no-repeat;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -4px;
+  height: 2px;
+  border-radius: 2px;
+  background: #0f6e6e;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 220ms ease;
+}
+
+.nav-link:hover::after,
+.nav-link[aria-current="page"]::after {
+  transform: scaleX(1);
+}
+
+.link-slide {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0 100%;
+  background-size: 0% 1px;
+  transition: background-size 220ms ease, color 150ms ease;
+  padding-bottom: 1px;
+}
+
+.link-slide:hover {
+  background-size: 100% 1px;
+}
+
+/* Buttons: lift on hover, press on click, arrow nudges forward. */
+.btn-pop {
+  transition: transform 160ms cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 160ms ease, background-color 160ms ease,
+    border-color 160ms ease, color 160ms ease;
+  will-change: transform;
+}
+
+.btn-pop:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px -14px rgba(15, 110, 110, 0.7);
+}
+
+.btn-pop:active {
+  transform: translateY(0) scale(0.97);
+  box-shadow: none;
+}
+
+.btn-arrow {
+  display: inline-block;
+  transition: transform 180ms ease;
+}
+
+.btn-pop:hover .btn-arrow,
+a:hover > .btn-arrow {
+  transform: translateX(3px);
+}
+
+/* A light sweep across primary CTAs on hover. */
+.btn-shine {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.btn-shine::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(110deg, transparent 30%, rgba(255, 255, 255, 0.28) 50%, transparent 70%);
+  transform: translateX(-120%);
+}
+
+.btn-shine:hover::before {
+  transform: translateX(120%);
+  transition: transform 700ms ease;
+}
+
+/* Header bell wiggles on hover. */
+.btn-pop:hover .bell {
+  animation: bell-ring 600ms ease;
+  transform-origin: 50% 10%;
+}
+
+@keyframes bell-ring {
+  0%, 100% { transform: rotate(0); }
+  20% { transform: rotate(14deg); }
+  40% { transform: rotate(-12deg); }
+  60% { transform: rotate(8deg); }
+  80% { transform: rotate(-4deg); }
+}
+
+/* Popover entrance. */
+.pop-in {
+  animation: pop-in 180ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  transform-origin: top right;
+}
+
+@keyframes pop-in {
+  from { opacity: 0; transform: translateY(-6px) scale(0.97); }
+  to { opacity: 1; transform: none; }
+}
+
+.subscribe-success {
+  animation: pop-in 260ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+/* Live pulse dot. */
+.live-dot {
+  position: relative;
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 9999px;
+  background: #c8794a;
+}
+
+.live-dot::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: inherit;
+  animation: live-pulse 1.8s ease-out infinite;
+}
+
+@keyframes live-pulse {
+  from { transform: scale(1); opacity: 0.7; }
+  to { transform: scale(2.8); opacity: 0; }
+}
+
+/* Hero photo: slow settle-in zoom (the image is visible from the first frame, so LCP is unaffected). */
+.hero-media img {
+  animation: hero-settle 2.4s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+@keyframes hero-settle {
+  from { transform: scale(1.08); }
+  to { transform: scale(1); }
+}
+
+/* "Fresh on the blog" ticker. */
+.ticker {
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 92%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 4%, #000 92%, transparent);
+}
+
+.ticker-track {
+  animation: ticker 45s linear infinite;
+}
+
+.ticker:hover .ticker-track,
+.ticker:focus-within .ticker-track {
+  animation-play-state: paused;
+}
+
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* Scroll reveal. Only elements that start below the fold get reveal-pending (see MotionObserver). */
+.reveal-armed[data-reveal],
+.reveal-armed[data-reveal-group] > * {
+  transition: opacity 650ms cubic-bezier(0.2, 0.7, 0.2, 1), transform 650ms cubic-bezier(0.2, 0.7, 0.2, 1) !important;
+}
+
+.reveal-pending[data-reveal],
+.reveal-pending[data-reveal-group] > * {
+  opacity: 0;
+  transform: translateY(22px) !important;
+}
+
+.reveal-armed[data-reveal-group] > :nth-child(2) { transition-delay: 70ms !important; }
+.reveal-armed[data-reveal-group] > :nth-child(3) { transition-delay: 140ms !important; }
+.reveal-armed[data-reveal-group] > :nth-child(4) { transition-delay: 210ms !important; }
+.reveal-armed[data-reveal-group] > :nth-child(5) { transition-delay: 280ms !important; }
+.reveal-armed[data-reveal-group] > :nth-child(n + 6) { transition-delay: 330ms !important; }
+
+.atlas-photo {
+  background-color: #e9e2d6;
+  background-position: center;
+  background-size: cover;
+}
+
+.gallery-scroller,
+.lightbox-track {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.gallery-scroller::-webkit-scrollbar,
+.lightbox-track::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+.lightbox-frame {
+  width: min(92vw, 120vh, 64rem);
+}
+
+.lightbox-overlay {
+  overscroll-behavior: none;
+  opacity: 1;
+  transform: none;
+  transition: opacity 180ms ease, transform 180ms ease;
+}
+
+.lightbox-overlay[data-phase="enter"],
+.lightbox-overlay[data-phase="leave"] {
+  opacity: 0;
+  transform: translateY(8px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .atlas-card,
+  .atlas-card:hover {
+    transition: none;
+    transform: none;
+  }
+
+  .atlas-card img,
+  .atlas-card:hover img {
+    transition: none !important;
+    transform: none !important;
+  }
+
+  .btn-pop,
+  .btn-pop:hover,
+  .btn-pop:active,
+  .btn-arrow,
+  .btn-pop:hover .btn-arrow,
+  a:hover > .btn-arrow {
+    transition: none;
+    transform: none;
+  }
+
+  .btn-shine::before,
+  .btn-pop:hover .bell,
+  .pop-in,
+  .subscribe-success,
+  .live-dot::after,
+  .hero-media img {
+    animation: none;
+    transition: none;
+  }
+
+  .ticker {
+    overflow-x: auto;
+  }
+
+  .ticker-track {
+    animation: none;
+  }
+
+  .ticker-track > [aria-hidden="true"] {
+    display: none;
+  }
+
+  .nav-link::after,
+  .link-slide {
+    transition: none;
+  }
+
+  .gallery-scroller,
+  .lightbox-track {
+    scroll-behavior: auto;
+  }
+
+  .lightbox-overlay,
+  .lightbox-overlay[data-phase="enter"],
+  .lightbox-overlay[data-phase="leave"] {
+    transition: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: 0;
+  z-index: 80;
+  transform: translateY(-150%);
+  border-radius: 0.75rem;
+  border: 1px solid #e4dcd0;
+  background: #fff;
+  color: #1c2430;
+  padding: 0.6rem 1rem;
+}
+
+.skip-link:focus {
+  transform: translateY(0.75rem);
+}
+
+.field {
+  width: 100%;
+  min-height: 2.75rem;
+  border-radius: 0.75rem;
+  border: 1px solid #e4dcd0;
+  background: #fff;
+  color: #1c2430;
+  padding: 0.7rem 0.8rem;
+}
+
+.field::placeholder {
+  color: #5c6b7a;
+}
+
+.prose-atlas h2 {
+  margin-top: 2.5rem;
+  font-family: var(--font-serif), Palatino, "Yu Mincho", serif;
+  font-size: 1.75rem;
+  line-height: 1.2;
+  color: #1c2430;
+}
+
+.prose-atlas p {
+  margin-top: 0.9rem;
+  line-height: 1.75;
+  color: #3e4c5a;
+}
+
+.prose-atlas ul {
+  margin-top: 0.9rem;
+  list-style: disc;
+  padding-left: 1.25rem;
+  color: #3e4c5a;
+}
+
+.prose-atlas li + li {
+  margin-top: 0.4rem;
+}
